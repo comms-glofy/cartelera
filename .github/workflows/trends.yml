@@ -3,25 +3,25 @@ name: Actualizar Tendencias
 on:
   schedule:
     - cron: '*/30 * * * *'   # cada 30 minutos
-  workflow_dispatch:            # también se puede correr manualmente
+  workflow_dispatch:            # correr manualmente cuando quieras
 
 jobs:
   scrape-trends:
     runs-on: ubuntu-latest
     permissions:
-      contents: write           # necesario para hacer commit
+      contents: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Instalar dependencias Python
-        run: pip install requests
+      - name: Instalar Python y dependencias
+        run: pip install requests pytrends
 
-      - name: Obtener Google Trends Argentina
+      - name: Obtener tendencias de Argentina
         run: python3 .github/workflows/scrape_trends.py
 
-      - name: Commit trends.json si hubo cambios
+      - name: Guardar trends.json en el repo
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
