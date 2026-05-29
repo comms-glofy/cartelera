@@ -142,7 +142,7 @@ html,body{height:100%;background:var(--dark);color:var(--text);font-family:var(-
 .admin-card.company{border-top:3px solid var(--d3)}
 .admin-card.world{border-top:3px solid #FFB432}
 .admin-single{position:relative;border-radius:12px;overflow:hidden;flex:1;display:flex;align-items:flex-end}
-.admin-single-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;display:block}
+.admin-single-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
 .admin-single-overlay{position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,.85) 0%,rgba(0,0,0,.4) 45%,rgba(0,0,0,.05) 100%)}
 .admin-single-body{position:relative;z-index:2;padding:32px 36px;width:100%}
 .admin-single-body h4{font-family:var(--font-display);font-weight:900;font-size:clamp(34px,5vw,60px);line-height:1;margin-bottom:10px;text-shadow:0 2px 20px rgba(0,0,0,.5)}
@@ -793,6 +793,51 @@ function renderPrev(){
 }
 function rmPh(i){pending.splice(i,1);renderPrev();}
 
+// ── POSTS GITHUB PERSISTENCE ──
+const POSTS_URL = 'https://raw.githubusercontent.com/' + REPO + '/main/posts.json';
+
+async function savePosts(){
+  const token = getToken();
+  if(!token) return false;
+  try {
+    // Get current SHA of posts.json (needed for update)
+    const shaRes = await fetch(`https://api.github.com/repos/${REPO}/contents/posts.json`, {
+      headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
+    });
+    let sha = null;
+    if(shaRes.ok){ const d = await shaRes.json(); sha = d.sha; }
+
+    const content = btoa(unescape(encodeURIComponent(JSON.stringify(pubs, null, 2))));
+    const body = { message: 'posts: actualizar cartelera', content, branch: BRANCH };
+    if(sha) body.sha = sha;
+
+    const res = await fetch(`https://api.github.com/repos/${REPO}/contents/posts.json`, {
+      method: 'PUT',
+      headers: { 'Authorization': 'token ' + token, 'Content-Type': 'application/json', 'Accept': 'application/vnd.github.v3+json' },
+      body: JSON.stringify(body)
+    });
+    return res.ok;
+  } catch(e) {
+    console.error('savePosts failed:', e);
+    return false;
+  }
+}
+
+async function loadPosts(){
+  try {
+    const res = await fetch(POSTS_URL + '?t=' + Date.now());
+    if(!res.ok) return; // posts.json no existe todavía — ok
+    const data = await res.json();
+    if(Array.isArray(data) && data.length){
+      pubs = data;
+      renderPubList();
+      rebuild();
+    }
+  } catch(e) {
+    console.warn('loadPosts failed:', e.message);
+  }
+}
+
 // ── PUBLISH ──
 async function publish(){
   const t=document.getElementById('f-title').value.trim();
@@ -801,39 +846,70 @@ async function publish(){
   const status = document.getElementById('upload-status');
   btn.disabled=true;
 
+  const token = getToken();
+
+  // 1. Subir foto si hay
   let photoURL = null;
   if(pending.length>0){
-    const token = getToken();
     if(token){
       status.textContent = '⏳ Subiendo foto a GitHub…';
       photoURL = await uploadToGitHub(pending[0].dataURL, pending[0].name);
       if(photoURL){
-        status.textContent = '✓ Foto subida a GitHub — persistirá al recargar';
+        status.textContent = '⏳ Foto subida — guardando publicación…';
       } else {
-        status.textContent = '⚠ No se pudo subir a GitHub — se guarda en memoria';
-        photoURL = pending[0].dataURL; // fallback to local
+        status.textContent = '⚠ No se pudo subir la foto — publicando sin foto';
       }
     } else {
       photoURL = pending[0].dataURL;
-      status.textContent = '⚠ Sin token — foto guardada solo en memoria';
     }
   }
 
+  // 2. Agregar publicación
   pubs.push({
-    id:Date.now(),
-    type:document.getElementById('f-type').value,
-    aud:document.getElementById('f-aud').value,
-    title:t,
-    body:document.getElementById('f-body').value.trim(),
+    id: Date.now(),
+    type: document.getElementById('f-type').value,
+    aud:  document.getElementById('f-aud').value,
+    title: t,
+    body:  document.getElementById('f-body').value.trim(),
     photos: photoURL ? [photoURL] : [],
+    createdAt: new Date().toISOString(),
   });
+
+  // 3. Guardar en GitHub si hay token
+  if(token){
+    status.textContent = '⏳ Guardando en GitHub…';
+    const saved = await savePosts();
+    if(saved){
+      status.textContent = '✓ Publicación guardada en GitHub — persiste al recargar';
+    } else {
+      status.textContent = '⚠ No se pudo guardar en GitHub — solo en memoria';
+    }
+  } else {
+    status.textContent = '⚠ Sin token — la publicación se perderá al recargar';
+  }
+
   document.getElementById('f-title').value='';
   document.getElementById('f-body').value='';
   pending=[];renderPrev();
   btn.disabled=false;
   renderPubList();rebuild();
 }
-function delPub(id){pubs=pubs.filter(p=>p.id!==id);renderPubList();rebuild();}
+
+async function delPub(id){
+  pubs = pubs.filter(p=>p.id!==id);
+  renderPubList();
+  rebuild();
+  // Guardar cambio en GitHub
+  const token = getToken();
+  if(token){
+    const status = document.getElementById('upload-status');
+    status.textContent = '⏳ Eliminando de GitHub…';
+    const saved = await savePosts();
+    status.textContent = saved ? '✓ Eliminado de GitHub' : '⚠ Error al eliminar de GitHub';
+    setTimeout(()=>{ status.textContent=''; }, 3000);
+  }
+}
+
 function renderPubList(){
   const el=document.getElementById('pub-list');
   if(!pubs.length){el.innerHTML='<div class="empty-pi">Sin publicaciones activas</div>';return;}
@@ -865,13 +941,13 @@ document.addEventListener('keydown',e=>{
 });
 
 // ── INIT ──
-// Load token
 const savedToken = getToken();
 if(savedToken) document.getElementById('gh-token').value = savedToken;
 updateTokenStatus();
 
 applyMode();
 fetchWeather().then(()=>rebuild());
+loadPosts();  // cargar publicaciones guardadas en GitHub
 updateClock(); setInterval(updateClock,1000);
 setInterval(fetchWeather, 5*60*1000);
 fetchTrends(); setInterval(fetchTrends, 3*60*1000);
