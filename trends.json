@@ -1,56 +1,56 @@
 {
-  "updated": "2026-05-29T19:25:41Z",
+  "updated": "2026-05-29T20:08:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quentin halys",
-      "traffic": "200+",
+      "name": "gustavo bordet",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "zverev",
+      "name": "alexander zverev",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "becas manuel belgrano",
-      "traffic": "200+",
+      "name": "estación de servicio",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "feria",
-      "traffic": "100+",
+      "name": "l-gante",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "honda biz",
+      "name": "ruud",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "budapest",
-      "traffic": "100+",
+      "name": "tommy paul",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "josé coronado",
-      "traffic": "500+",
+      "name": "quentin halys",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "club atlético talleres",
-      "traffic": "500+",
+      "name": "claudio zuchovicki",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "bodo glimt",
-      "traffic": "200+",
+      "name": "zverev",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "álex de miñaur",
-      "traffic": "100+",
+      "name": "feria",
+      "traffic": "200+",
       "rank": 10
     }
   ]
