@@ -2,8 +2,8 @@ name: Actualizar Tendencias
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # cada 30 minutos
-  workflow_dispatch:            # correr manualmente cuando quieras
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape-trends:
@@ -12,19 +12,19 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Instalar Python y dependencias
-        run: pip install requests pytrends
+      - name: Instalar dependencias
+        run: pip install requests pytrends pandas
 
-      - name: Obtener tendencias de Argentina
+      - name: Obtener tendencias
         run: python3 .github/workflows/scrape_trends.py
 
-      - name: Guardar trends.json en el repo
+      - name: Commit y push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add trends.json
-          git diff --cached --quiet || git commit -m "trends: actualizar $(date -u +'%H:%M UTC')"
+          git diff --cached --quiet || git commit -m "trends: $(date -u +'%H:%M UTC')"
           git push
