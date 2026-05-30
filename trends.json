@@ -1,56 +1,56 @@
 {
-  "updated": "2026-05-30T14:50:28Z",
+  "updated": "2026-05-30T15:58:48Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "moïse kouamé",
-      "traffic": "100+",
+      "name": "the killers",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "puskas arena",
-      "traffic": "100+",
+      "name": "julio le parc",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "landaluce",
+      "name": "instituto",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "rugby 7",
-      "traffic": "200+",
+      "name": "pag",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "berrettini",
-      "traffic": "100+",
+      "name": "mitsubishi pajero",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "mauro arambarri",
-      "traffic": "100+",
+      "name": "arsenal",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "andoni iraola",
-      "traffic": "100+",
+      "name": "kvaratskhelia",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "junio",
+      "name": "ley",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "racing - defensor sporting",
-      "traffic": "200+",
+      "name": "psg - arsenal",
+      "traffic": "100000+",
       "rank": 9
     },
     {
-      "name": "aryna sabalenka",
-      "traffic": "2000+",
+      "name": "puskás aréna",
+      "traffic": "200+",
       "rank": 10
     }
   ]
