@@ -1,56 +1,56 @@
 {
-  "updated": "2026-05-30T18:36:10Z",
+  "updated": "2026-05-30T20:02:54Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "eze arsenal",
+      "name": "bahía - botafogo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lucas beraldo",
+      "name": "grêmio - corinthians",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "adam bareiro",
-      "traffic": "1000+",
+      "name": "brasileirão serie a",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "paranaense - mirassol",
-      "traffic": "200+",
+      "name": "bivol",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "all boys - los andes",
-      "traffic": "500+",
+      "name": "agustina",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "hincapie arsenal",
+      "name": "cristóbal lópez",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "paris fc psg",
+      "name": "gran premio de mónaco",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "ps",
+      "name": "matteo arnaldi",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "eze",
-      "traffic": "500+",
+      "name": "arsenal champions league",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "gabriel martinelli",
-      "traffic": "100+",
+      "name": "fin de semana",
+      "traffic": "200+",
       "rank": 10
     }
   ]
