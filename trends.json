@@ -1,56 +1,56 @@
 {
-  "updated": "2026-05-30T17:04:05Z",
+  "updated": "2026-05-30T18:36:10Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "claudio tapia",
-      "traffic": "100+",
+      "name": "eze arsenal",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ferro basquet",
-      "traffic": "100+",
+      "name": "lucas beraldo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "néstor lorenzo",
-      "traffic": "100+",
+      "name": "adam bareiro",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "thierry henry",
+      "name": "paranaense - mirassol",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "declan rice",
-      "traffic": "200+",
+      "name": "all boys - los andes",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "bukayo saka",
+      "name": "hincapie arsenal",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "saliba",
-      "traffic": "500+",
+      "name": "paris fc psg",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "joao neves",
-      "traffic": "200+",
+      "name": "ps",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "hincapie",
-      "traffic": "200+",
+      "name": "eze",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "hakimi",
-      "traffic": "200+",
+      "name": "gabriel martinelli",
+      "traffic": "100+",
       "rank": 10
     }
   ]
