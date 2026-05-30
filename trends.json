@@ -1,56 +1,56 @@
 {
-  "updated": "2026-05-30T13:02:51Z",
+  "updated": "2026-05-30T14:50:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aryna sabalenka",
-      "traffic": "500+",
+      "name": "moïse kouamé",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "flavio cobolli",
+      "name": "puskas arena",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "matteo berrettini",
-      "traffic": "200+",
+      "name": "landaluce",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "comesaña",
+      "name": "rugby 7",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tenis hoy",
-      "traffic": "1000+",
+      "name": "berrettini",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "motogp",
+      "name": "mauro arambarri",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "escocia - curazao",
-      "traffic": "200+",
+      "name": "andoni iraola",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "naomi osaka",
-      "traffic": "100+",
+      "name": "junio",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "francisco comesaña",
-      "traffic": "2000+",
+      "name": "racing - defensor sporting",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "condena",
-      "traffic": "200+",
+      "name": "aryna sabalenka",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
