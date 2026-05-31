@@ -1,55 +1,55 @@
 {
-  "updated": "2026-05-31T16:56:20Z",
+  "updated": "2026-05-31T17:55:56Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kick",
-      "traffic": "1000+",
+      "name": "feriado junio 2026",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "zverev",
+      "name": "dua lipa",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cuando juega argentina",
-      "traffic": "500+",
+      "name": "kick",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "zverev",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "juegos",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "classroom",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "banco provincia",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "seleccion argentina",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "aysa",
-      "traffic": "200+",
+      "name": "seleccion argentina",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "roland garros 2026",
-      "traffic": "500+",
+      "name": "yahoo correo",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "la capital",
+      "name": "aysa",
       "traffic": "200+",
       "rank": 10
     }
