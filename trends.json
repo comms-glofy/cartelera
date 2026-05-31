@@ -1,55 +1,55 @@
 {
-  "updated": "2026-05-31T17:55:56Z",
+  "updated": "2026-05-31T19:04:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "feriado junio 2026",
+      "name": "rosario central",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "dua lipa",
+      "name": "atlanta",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "kick",
-      "traffic": "1000+",
+      "name": "dua lipa",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "amistosos argentina",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "kick",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "zverev",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "juegos",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "classroom",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "banco provincia",
-      "traffic": "100+",
+      "name": "juegos",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "seleccion argentina",
+      "name": "classroom",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "yahoo correo",
+      "name": "banco provincia",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "aysa",
+      "name": "canal 9 en vivo",
       "traffic": "200+",
       "rank": 10
     }
