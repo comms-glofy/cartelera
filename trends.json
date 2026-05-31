@@ -1,55 +1,55 @@
 {
-  "updated": "2026-05-31T11:27:33Z",
+  "updated": "2026-05-31T12:56:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "iga świątek",
+      "name": "yahoo",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "la nacion",
-      "traffic": "1000+",
+      "name": "el dia",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "japón - islandia",
-      "traffic": "200+",
+      "name": "perfil",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "valeria mazza",
-      "traffic": "100+",
+      "name": "la nacion",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "ricardo darín",
+      "name": "iga świątek",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "radio mitre en vivo",
-      "traffic": "100+",
+      "name": "japón - islandia",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "viernes",
+      "name": "radio mitre en vivo",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "c",
+      "name": "valeria mazza",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "peliculas",
-      "traffic": "100+",
+      "name": "ricardo darín",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mauricio macri",
+      "name": "viernes",
       "traffic": "200+",
       "rank": 10
     }
