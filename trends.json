@@ -1,55 +1,55 @@
 {
-  "updated": "2026-05-31T19:04:52Z",
+  "updated": "2026-05-31T20:35:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rosario central",
-      "traffic": "200+",
+      "name": "estudiantes",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "luzu vs 412",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "atlanta",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "primer partido del mundial 2026",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "dua lipa",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "amistosos argentina",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "kick",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "turismo carretera",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "zverev",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "juegos",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "classroom",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "banco provincia",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "canal 9 en vivo",
+      "name": "juegos",
       "traffic": "200+",
       "rank": 10
     }
