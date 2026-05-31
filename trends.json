@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-31T15:47:03Z",
+  "updated": "2026-05-31T16:56:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "kick",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -14,42 +14,42 @@
       "rank": 2
     },
     {
-      "name": "classroom",
-      "traffic": "200+",
+      "name": "cuando juega argentina",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "banco provincia",
+      "name": "juegos",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "seleccion argentina",
-      "traffic": "2000+",
+      "name": "classroom",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "banco provincia",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "seleccion argentina",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "aysa",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "roland garros 2026",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "la capital",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "yahoo",
-      "traffic": "200+",
+      "name": "roland garros 2026",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "el dia",
+      "name": "la capital",
       "traffic": "200+",
       "rank": 10
     }
