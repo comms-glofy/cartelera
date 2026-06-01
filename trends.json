@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-01T09:11:49Z",
+  "updated": "2026-06-01T15:39:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telefe en vivo",
-      "traffic": "500+",
+      "name": "bcra",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "telefe",
-      "traffic": "200+",
+      "name": "anses",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "brasil vs",
-      "traffic": "500+",
+      "name": "feriados junio 2026",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "joao fonseca",
-      "traffic": "200+",
+      "name": "la voz del interior",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "smn",
+      "name": "minuto uno",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "casper ruud",
+      "name": "la gaceta",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "elecciones colombia",
-      "traffic": "1000+",
+      "name": "diario rio negro",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "brasil",
+      "name": "abc",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "rosario central",
-      "traffic": "2000+",
+      "name": "bna",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "callum turner",
-      "traffic": "500+",
+      "name": "banco provincia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
