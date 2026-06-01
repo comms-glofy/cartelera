@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T18:00:30Z",
+  "updated": "2026-06-01T18:30:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
-      "name": "minuto uno",
-      "traffic": "200+",
+      "name": "la voz del interior",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "la gaceta",
+      "name": "minuto uno",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "la gaceta",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "diario rio negro",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "abc",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "banco provincia",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "banco nacion",
+      "name": "banco provincia",
       "traffic": "2000+",
       "rank": 10
     }
