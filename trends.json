@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-01T20:00:26Z",
+  "updated": "2026-06-01T20:10:00Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mundial",
-      "traffic": "100+",
-      "rank": 1
-    },
-    {
       "name": "bcra",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "anses",
       "traffic": "500+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "feriados junio 2026",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "galicia",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "la voz del interior",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "minuto uno",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "la gaceta",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "diario rio negro",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "abc",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "banco provincia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
