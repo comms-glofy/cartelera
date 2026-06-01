@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Instalar dependencias
-        run: pip install requests pytrends pandas
+        run: pip install requests pytrends pandas "urllib3<2.0"
 
       - name: Obtener tendencias
         run: python3 .github/workflows/scrape_trends.py
