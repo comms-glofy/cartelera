@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-02T09:30:29Z",
+  "updated": "2026-06-02T09:45:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mercado cambiario",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "exportación",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "quiniela",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "el niño",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "mi anses",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "betsson",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tate mcrae",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "billy gilmour",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "flybondi",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "colombia - costa rica",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "peñarol - central",
-      "traffic": "1000+",
+      "name": "colombia - costa rica",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
