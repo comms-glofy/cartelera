@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-02T21:00:19Z",
+  "updated": "2026-06-02T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "progresar 2026",
-      "traffic": "2000+",
+      "name": "ypf",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "mensik",
-      "traffic": "1000+",
+      "name": "bullrich",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "joão fonseca",
-      "traffic": "1000+",
+      "name": "progresar 2026",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "nasa",
+      "name": "mensik",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "croacia - bélgica",
-      "traffic": "10000+",
+      "name": "joão fonseca",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "viernes",
+      "name": "nasa",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "zverev",
-      "traffic": "1000+",
+      "name": "croacia - bélgica",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "alexander zverev",
+      "name": "viernes",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "fórmula 1",
-      "traffic": "1000+",
+      "name": "alexander zverev",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "diario panorama",
-      "traffic": "500+",
+      "name": "fórmula 1",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
