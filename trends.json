@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-02T22:00:15Z",
+  "updated": "2026-06-02T22:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ypf",
+      "name": "nueva zelanda",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "bullrich",
-      "traffic": "500+",
+      "name": "ministerio público",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "progresar 2026",
-      "traffic": "5000+",
+      "name": "ypf",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "bullrich",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "progresar 2026",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "mensik",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "joão fonseca",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "nasa",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "croacia - bélgica",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "viernes",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "alexander zverev",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "fórmula 1",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
