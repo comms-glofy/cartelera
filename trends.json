@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-02T23:00:15Z",
+  "updated": "2026-06-02T23:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nueva zelanda",
+      "name": "laufey",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ministerio público",
+      "name": "nueva zelanda",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "ypf",
-      "traffic": "1000+",
+      "name": "ministerio público",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "bullrich",
+      "name": "ypf",
       "traffic": "1000+",
       "rank": 4
     },
     {
+      "name": "bullrich",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "progresar 2026",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mensik",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "joão fonseca",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nasa",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "croacia - bélgica",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "viernes",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
