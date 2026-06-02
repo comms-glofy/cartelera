@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-02T10:00:30Z",
+  "updated": "2026-06-02T10:30:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "tiempo",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "exportación",
+      "name": "sedán",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "quiniela",
-      "traffic": "500+",
+      "name": "exportación",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "el niño",
-      "traffic": "200+",
+      "name": "quiniela",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "el niño",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "mi anses",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "betsson",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tate mcrae",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "billy gilmour",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "flybondi",
-      "traffic": "500+",
       "rank": 10
     }
   ]
