@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-02T09:00:32Z",
+  "updated": "2026-06-02T09:30:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "exportación",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "quiniela",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "el niño",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mi anses",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "betsson",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tate mcrae",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "billy gilmour",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "flybondi",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "colombia - costa rica",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "peñarol - central",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "telefe en vivo",
-      "traffic": "500+",
       "rank": 10
     }
   ]
