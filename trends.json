@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-02T20:00:17Z",
+  "updated": "2026-06-02T20:24:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mensik",
-      "traffic": "500+",
+      "name": "progresar 2026",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "mensik",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "joão fonseca",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "nasa",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "croacia - bélgica",
       "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "viernes",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "alexander zverev",
-      "traffic": "5000+",
+      "name": "viernes",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "fórmula 1",
+      "name": "zverev",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "diario panorama",
-      "traffic": "500+",
+      "name": "alexander zverev",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "tiempo",
-      "traffic": "20000+",
+      "name": "fórmula 1",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "mercado cambiario",
-      "traffic": "200+",
+      "name": "diario panorama",
+      "traffic": "500+",
       "rank": 10
     }
   ]
