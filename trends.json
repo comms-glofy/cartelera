@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T05:07:24Z",
+  "updated": "2026-06-02T05:30:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "telefe",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "técnico universitario - barcelona sc",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "jetsmart",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "mundial",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "bcra",
       "traffic": "200+",
       "rank": 10
     }
