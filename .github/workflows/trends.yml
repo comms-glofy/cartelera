@@ -1,0 +1,30 @@
+name: Actualizar Tendencias
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-trends:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Obtener tendencias
+        run: python3 .github/workflows/scrape_trends.py
+
+      - name: Commit y push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trends.json
+          git diff --cached --quiet || git commit -m "trends: $(date -u +'%H:%M UTC')"
+          git push
