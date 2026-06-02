@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T17:20:07Z",
+  "updated": "2026-06-02T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "alexander zverev",
-      "traffic": "5000+",
+      "name": "zverev",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "alexander zverev",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "fórmula 1",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "diario panorama",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tiempo",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "mercado cambiario",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "sedán",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "precipitación",
-      "traffic": "100+",
       "rank": 10
     }
   ]
