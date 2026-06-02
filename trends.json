@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-02T13:00:20Z",
+  "updated": "2026-06-02T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fórmula 1",
+      "name": "alexander zverev",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "tiempo",
-      "traffic": "20000+",
+      "name": "fórmula 1",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "mercado cambiario",
-      "traffic": "200+",
+      "name": "tiempo",
+      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "sedán",
+      "name": "mercado cambiario",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "precipitación",
-      "traffic": "100+",
+      "name": "sedán",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "exportación",
-      "traffic": "1000+",
+      "name": "precipitación",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "exportación",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "quiniela",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "el niño",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mi anses",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "betsson",
-      "traffic": "200+",
       "rank": 10
     }
   ]
