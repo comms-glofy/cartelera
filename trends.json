@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-02T15:30:23Z",
+  "updated": "2026-06-02T16:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "viernes",
-      "traffic": "500+",
+      "name": "croacia - bélgica",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "zverev",
-      "traffic": "500+",
+      "name": "viernes",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "zverev",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "alexander zverev",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "fórmula 1",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "diario panorama",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tiempo",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "mercado cambiario",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "sedán",
-      "traffic": "2000+",
-      "rank": 8
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "precipitación",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "exportación",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
