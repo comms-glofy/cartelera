@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-02T02:30:24Z",
+  "updated": "2026-06-02T03:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "billy gilmour",
+      "name": "tate mcrae",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "flybondi",
-      "traffic": "200+",
+      "name": "billy gilmour",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "colombia - costa rica",
-      "traffic": "500+",
+      "name": "flybondi",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "colombia - costa rica",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "telefe en vivo",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "telefe",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "técnico universitario - barcelona sc",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "jetsmart",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "mundial",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "bcra",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "anses",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "feriados junio 2026",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
