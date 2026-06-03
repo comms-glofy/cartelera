@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T15:14:17Z",
+  "updated": "2026-06-03T15:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "3 de junio",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
       "name": "ni una menos",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "maja chwalińska",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "desdolarización",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "gimnasia",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "carlos belloso",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
