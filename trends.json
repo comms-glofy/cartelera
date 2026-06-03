@@ -1,36 +1,36 @@
 {
-  "updated": "2026-06-03T16:00:30Z",
+  "updated": "2026-06-03T16:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alerta meteorológica",
-      "traffic": "1000+",
+      "name": "asignación universal por hijo",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "alerta meteorológica",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "aryna sabalenka",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "sebastián báez",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "vtv",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ricardo la volpe",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "3 de junio",
-      "traffic": "500+",
       "rank": 6
     },
     {
