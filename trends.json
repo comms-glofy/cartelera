@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-02T23:30:12Z",
+  "updated": "2026-06-03T00:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "barracas central - huracán",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "nueva zelanda vs haiti",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "laufey",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "nueva zelanda",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "ministerio público",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "ypf",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "bullrich",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "progresar 2026",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "mensik",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "joão fonseca",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "nasa",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "croacia - bélgica",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
