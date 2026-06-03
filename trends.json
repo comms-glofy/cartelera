@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-03T15:30:21Z",
+  "updated": "2026-06-03T16:00:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "alerta meteorológica",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
       "name": "aryna sabalenka",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 2
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
+      "name": "3 de junio",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "ni una menos",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "maja chwalińska",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "desdolarización",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "gimnasia",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "carlos belloso",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
