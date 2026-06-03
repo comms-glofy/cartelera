@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-03T12:30:15Z",
+  "updated": "2026-06-03T13:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "aryna sabalenka",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "sebastián báez",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "vtv",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ricardo la volpe",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ni una menos",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "maja chwalińska",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "desdolarización",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "gimnasia",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "carlos belloso",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "alejandra majluf",
       "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "argentina",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
