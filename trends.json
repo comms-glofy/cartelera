@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-03T11:00:15Z",
+  "updated": "2026-06-03T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "3 de junio",
+      "name": "ricardo la volpe",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "maja chwalińska",
+      "name": "3 de junio",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ni una menos",
-      "traffic": "200+",
+      "name": "maja chwalińska",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "ni una menos",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "desdolarización",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gimnasia",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "carlos belloso",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "alejandra majluf",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "argentina",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "fortaleza - vitória",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "junior - atlético nacional",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
