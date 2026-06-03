@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-03T20:30:16Z",
+  "updated": "2026-06-03T21:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "matteo berrettini",
-      "traffic": "200+",
+      "name": "matteo arnaldi",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "países bajos - argelia",
-      "traffic": "2000+",
+      "name": "brad pitt",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "países bajos - argelia",
+      "traffic": "5000+",
+      "rank": 3
     },
     {
       "name": "luxemburgo - italia",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "flavio cobolli",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "dinamarca - rd congo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "emiliano buendía",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "asignación universal por hijo",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "alerta meteorológica",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "aryna sabalenka",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "sebastián báez",
-      "traffic": "500+",
+      "name": "diana shnaider",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
