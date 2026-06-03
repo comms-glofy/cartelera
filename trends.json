@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-03T00:30:13Z",
+  "updated": "2026-06-03T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fortaleza - vitória",
-      "traffic": "500+",
+      "name": "argentina",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "junior - atlético nacional",
+      "name": "fortaleza - vitória",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "barracas central - huracán",
-      "traffic": "10000+",
+      "name": "junior - atlético nacional",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "nueva zelanda vs haiti",
-      "traffic": "2000+",
+      "name": "barracas central - huracán",
+      "traffic": "20000+",
       "rank": 4
+    },
+    {
+      "name": "nueva zelanda vs haiti",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "laufey",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nueva zelanda",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ministerio público",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ypf",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "bullrich",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "progresar 2026",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
