@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-04T03:00:12Z",
+  "updated": "2026-06-04T03:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "angela leiva",
+      "name": "jalen brunson",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "corea del sur - el salvador",
-      "traffic": "1000+",
+      "name": "elena roger",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "amazon prime",
-      "traffic": "1000+",
+      "name": "angela leiva",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "arsat",
+      "name": "corea del sur - el salvador",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "prime video",
-      "traffic": "5000+",
+      "name": "amazon prime",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "arsat",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "nba hoy",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "spurs - knicks",
-      "traffic": "20000+",
       "rank": 7
     },
     {
-      "name": "marita monteleone",
-      "traffic": "2000+",
+      "name": "prime video",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "la nación",
-      "traffic": "1000+",
+      "name": "spurs - knicks",
+      "traffic": "50000+",
       "rank": 9
     },
     {
-      "name": "kendry páez",
+      "name": "marita monteleone",
       "traffic": "2000+",
       "rank": 10
     }
