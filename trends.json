@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T14:00:17Z",
+  "updated": "2026-06-04T14:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "el clima",
+      "name": "clima moreno",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima moreno",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "clima hoy",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "el tiempo",
-      "traffic": "1000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "pronostico",
       "traffic": "20000+",
+      "rank": 8
+    },
+    {
+      "name": "tiempo hoy",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "trenes argentinos",
+      "traffic": "100+",
       "rank": 10
     }
   ]
