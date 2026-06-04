@@ -2242,7 +2242,7 @@ function updateSplashClock(){
 // ── WEATHER ──
 async function fetchWeather(){
   try{
-    const r=await fetch('https://api.open-meteo.com/v1/forecast?latitude=-32.9442&longitude=-60.6505&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m&wind_speed_unit=kmh&timezone=America%2FArgentina%2FBuenos_Aires');
+    const r=await fetch('https://api.open-meteo.com/v1/forecast?latitude=-32.9442&longitude=-60.6505&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m&wind_speed_unit=kmh&timezone=America/Argentina/Buenos_Aires',{mode:'cors'});
     const d=await r.json();const c=d.current;
     const{desc,icon}=wmo(c.weather_code);
     weatherCache={
@@ -2425,7 +2425,7 @@ async function publish(){
 }
 
 async function delPub(id){
-  pubs = pubs.filter(p=>p.id!==id);
+  id=Number(id); pubs = pubs.filter(p=>Number(p.id)!==id);
   renderPubList();
   rebuild();
   // Guardar cambio en GitHub
@@ -2487,3 +2487,4 @@ setTimeout(()=>{applyMode();rebuild();},ms2mid);
 </script>
 </body>
 </html>
+
