@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-04T17:00:20Z",
+  "updated": "2026-06-04T17:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diana shnaider",
-      "traffic": "500+",
+      "name": "chwalinska",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "shell",
+      "name": "diana shnaider",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "encuesta",
+      "name": "shell",
       "traffic": "1000+",
       "rank": 3
     },
     {
+      "name": "encuesta",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
       "name": "maja chwalińska",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lollapalooza",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "sanfilippo",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nicole veron",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "mario pergolini",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "rocio igarzabal",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico extendido",
-      "traffic": "200+",
       "rank": 10
     }
   ]
