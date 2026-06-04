@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T12:30:14Z",
+  "updated": "2026-06-04T13:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "clima caba",
+      "name": "el clima",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima moreno",
+      "name": "clima caba",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "clima moreno",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "tiempo",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima hoy",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "el tiempo",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pronostico",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tiempo hoy",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "trenes argentinos",
-      "traffic": "100+",
       "rank": 10
     }
   ]
