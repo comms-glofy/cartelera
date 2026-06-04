@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-04T09:30:18Z",
+  "updated": "2026-06-04T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima hoy",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "el tiempo",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "pronostico",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "tiempo hoy",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "trenes argentinos",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "alex albon",
       "traffic": "100+",
-      "rank": 1
+      "rank": 6
     },
     {
       "name": "clima tucuman",
       "traffic": "100+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "stake",
       "traffic": "500+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "elena roger",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "angela leiva",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "corea del sur - el salvador",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "amazon prime",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "arsat",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "nba hoy",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "prime video",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
