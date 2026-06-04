@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-04T03:30:12Z",
+  "updated": "2026-06-04T04:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jalen brunson",
+      "name": "stake",
       "traffic": "500+",
       "rank": 1
     },
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "corea del sur - el salvador",
-      "traffic": "1000+",
+      "name": "spurs",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "amazon prime",
+      "name": "corea del sur - el salvador",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "arsat",
+      "name": "amazon prime",
       "traffic": "1000+",
       "rank": 6
     },
     {
+      "name": "arsat",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "nba hoy",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "nba finals",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "prime video",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "spurs - knicks",
-      "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "marita monteleone",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
