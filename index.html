@@ -2357,10 +2357,12 @@ function rmPh(i){pending.splice(i,1);renderPrev();}
 const POSTS_URL = 'https://raw.githubusercontent.com/' + REPO + '/main/posts.json';
 
 async function savePosts(){
+  // Siempre guardar en localStorage (inmediato, persiste entre recargas)
+  localStorage.setItem('cartelera_posts', JSON.stringify(pubs));
+  
   const token = getToken();
-  if(!token) return false;
+  if(!token) return true; // localStorage guardado, GitHub no disponible
   try {
-    // Get current SHA of posts.json (needed for update)
     const shaRes = await fetch(`https://api.github.com/repos/${REPO}/contents/posts.json`, {
       headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
     });
@@ -2384,12 +2386,27 @@ async function savePosts(){
 }
 
 async function loadPosts(){
+  // 1. Cargar desde localStorage primero (inmediato, sin cache)
+  try {
+    const local = localStorage.getItem('cartelera_posts');
+    if(local){
+      const parsed = JSON.parse(local);
+      if(Array.isArray(parsed)){
+        pubs = parsed;
+        renderPubList();
+        rebuild();
+        return; // localStorage es la fuente de verdad
+      }
+    }
+  } catch(e) {}
+  // 2. Fallback: cargar desde GitHub (solo si no hay localStorage)
   try {
     const res = await fetch(POSTS_URL + '?t=' + Date.now());
-    if(!res.ok) return; // posts.json no existe todavía — ok
+    if(!res.ok) return;
     const data = await res.json();
-    if(Array.isArray(data) && data.length){
+    if(Array.isArray(data)){
       pubs = data;
+      localStorage.setItem('cartelera_posts', JSON.stringify(pubs));
       renderPubList();
       rebuild();
     }
@@ -2456,18 +2473,18 @@ async function publish(){
 }
 
 async function delPub(id){
-  id=Number(id); pubs = pubs.filter(p=>Number(p.id)!==id);
+  id=Number(id);
+  pubs = pubs.filter(p=>Number(p.id)!==id);
+  // Guardar inmediatamente en localStorage y re-renderizar
+  localStorage.setItem('cartelera_posts', JSON.stringify(pubs));
   renderPubList();
   rebuild();
-  // Guardar cambio en GitHub
-  const token = getToken();
-  if(token){
-    const status = document.getElementById('upload-status');
-    status.textContent = '⏳ Eliminando de GitHub…';
-    const saved = await savePosts();
-    status.textContent = saved ? '✓ Eliminado de GitHub' : '⚠ Error al eliminar de GitHub';
-    setTimeout(()=>{ status.textContent=''; }, 3000);
-  }
+  // Intentar guardar en GitHub también
+  const status = document.getElementById('upload-status');
+  status.textContent = '⏳ Guardando…';
+  const saved = await savePosts();
+  status.textContent = saved ? '✓ Publicación eliminada' : '✓ Eliminado localmente';
+  setTimeout(()=>{ status.textContent=''; }, 2000);
 }
 
 function renderPubList(){
