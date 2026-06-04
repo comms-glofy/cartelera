@@ -1,31 +1,31 @@
 {
-  "updated": "2026-06-04T12:00:16Z",
+  "updated": "2026-06-04T12:26:58Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rocio igarzabal",
+      "name": "mario pergolini",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clima caba",
-      "traffic": "200+",
+      "name": "rocio igarzabal",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "clima moreno",
+      "name": "clima caba",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "smn",
-      "traffic": "5000+",
+      "name": "clima moreno",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "pronóstico del tiempo",
-      "traffic": "500+",
+      "name": "tiempo",
+      "traffic": "20000+",
       "rank": 5
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "pronostico",
-      "traffic": "20000+",
+      "traffic": "10000+",
       "rank": 8
     },
     {
