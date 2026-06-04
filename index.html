@@ -2242,22 +2242,42 @@ function updateSplashClock(){
 // ── WEATHER ──
 async function fetchWeather(){
   try{
-    const r=await fetch('https://api.open-meteo.com/v1/forecast?latitude=-32.9442&longitude=-60.6505&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m&wind_speed_unit=kmh&timezone=America/Argentina/Buenos_Aires',{mode:'cors'});
-    const d=await r.json();const c=d.current;
-    const{desc,icon}=wmo(c.weather_code);
+    // wttr.in no tiene restricciones CORS
+    const r=await fetch('https://wttr.in/Rosario,Argentina?format=j1');
+    const d=await r.json();
+    const cur=d.current_condition[0];
+    const code=parseInt(cur.weatherCode);
+    const{desc,icon}=wmo(code);
     weatherCache={
-      temp:Math.round(c.temperature_2m)+'°C',
+      temp:cur.temp_C+'°C',
       desc,icon,
-      hum:c.relative_humidity_2m+'%',
-      wind:Math.round(c.wind_speed_10m)+' km/h',
-      feels:Math.round(c.apparent_temperature)+'°'
+      hum:cur.humidity+'%',
+      wind:cur.windspeedKmph+' km/h',
+      feels:cur.FeelsLikeC+'°'
     };
     fillSplashWeather();
-    // Mini bar
     document.getElementById('mini-temp').textContent=weatherCache.temp;
     document.getElementById('mini-weather-icon').textContent=weatherCache.icon;
     document.getElementById('mini-desc').textContent=desc;
-  }catch(_){}
+  }catch(e1){
+    // Fallback: open-meteo
+    try{
+      const r=await fetch('https://api.open-meteo.com/v1/forecast?latitude=-32.9442&longitude=-60.6505&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m&wind_speed_unit=kmh&timezone=America%2FArgentina%2FBuenos_Aires');
+      const d=await r.json();const c=d.current;
+      const{desc,icon}=wmo(c.weather_code);
+      weatherCache={
+        temp:Math.round(c.temperature_2m)+'°C',
+        desc,icon,
+        hum:c.relative_humidity_2m+'%',
+        wind:Math.round(c.wind_speed_10m)+' km/h',
+        feels:Math.round(c.apparent_temperature)+'°'
+      };
+      fillSplashWeather();
+      document.getElementById('mini-temp').textContent=weatherCache.temp;
+      document.getElementById('mini-weather-icon').textContent=weatherCache.icon;
+      document.getElementById('mini-desc').textContent=desc;
+    }catch(e2){ console.warn('Weather fetch failed',e2); }
+  }
 }
 function fillSplashWeather(){
   const el = id => document.getElementById(id);
@@ -2269,6 +2289,7 @@ function fillSplashWeather(){
   if(el('splash-feels'))el('splash-feels').textContent= weatherCache.feels;
 }
 function wmo(c){
+  // open-meteo codes (0-99)
   if(c===0)return{desc:'Cielo despejado',icon:'☀️'};
   if(c<=2)return{desc:'Parcialmente nublado',icon:'⛅'};
   if(c===3)return{desc:'Nublado',icon:'☁️'};
@@ -2277,6 +2298,16 @@ function wmo(c){
   if(c<=67)return{desc:'Lluvia',icon:'🌧'};
   if(c<=77)return{desc:'Nieve',icon:'❄️'};
   if(c<=82)return{desc:'Chubascos',icon:'🌧'};
+  if(c<=99)return{desc:'Tormenta',icon:'⛈'};
+  // wttr.in codes (100+)
+  if(c===113)return{desc:'Cielo despejado',icon:'☀️'};
+  if(c===116)return{desc:'Parcialmente nublado',icon:'⛅'};
+  if(c<=119)return{desc:'Nublado',icon:'☁️'};
+  if(c<=143)return{desc:'Neblina',icon:'🌫'};
+  if(c<=185)return{desc:'Llovizna',icon:'🌦'};
+  if(c<=230)return{desc:'Nieve',icon:'❄️'};
+  if(c<=299)return{desc:'Tormenta',icon:'⛈'};
+  if(c<=377)return{desc:'Lluvia',icon:'🌧'};
   return{desc:'Tormenta',icon:'⛈'};
 }
 
