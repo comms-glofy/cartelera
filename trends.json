@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-04T13:00:16Z",
+  "updated": "2026-06-04T13:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mario pergolini",
-      "traffic": "500+",
+      "name": "lollapalooza",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "sanfilippo",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "nicole veron",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "mario pergolini",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "rocio igarzabal",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "el clima",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "clima caba",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "clima moreno",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "tiempo",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "clima hoy",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "el tiempo",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "tiempo hoy",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
