@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-04T11:00:15Z",
+  "updated": "2026-06-04T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima moreno",
+      "name": "clima caba",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "clima moreno",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -29,8 +29,8 @@
       "rank": 5
     },
     {
-      "name": "el tiempo",
-      "traffic": "1000+",
+      "name": "pronostico",
+      "traffic": "20000+",
       "rank": 6
     },
     {
