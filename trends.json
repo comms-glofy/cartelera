@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-04T23:30:12Z",
+  "updated": "2026-06-04T23:44:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "traferri",
+      "name": "ivana figueiras",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ranking fifa",
-      "traffic": "1000+",
+      "name": "traferri",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "informe",
+      "name": "ranking fifa",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "argentina",
-      "traffic": "2000+",
+      "name": "informe",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "pickup",
+      "name": "argentina",
       "traffic": "2000+",
       "rank": 5
     },
     {
+      "name": "pickup",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
       "name": "doue",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "maxi salas",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "teresa constantini",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "chunchuna villafañe",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "francia - costa de marfil",
-      "traffic": "50000+",
+      "name": "españa fc",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
