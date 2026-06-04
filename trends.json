@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-04T11:30:16Z",
+  "updated": "2026-06-04T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima caba",
-      "traffic": "200+",
+      "name": "rocio igarzabal",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clima moreno",
+      "name": "clima caba",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "clima moreno",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "smn",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima hoy",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "el tiempo",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "pronostico",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tiempo hoy",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "trenes argentinos",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "alex albon",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima tucuman",
+      "name": "trenes argentinos",
       "traffic": "100+",
       "rank": 10
     }
