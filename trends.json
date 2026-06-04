@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-04T20:00:16Z",
+  "updated": "2026-06-04T20:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chunchuna villafañe",
-      "traffic": "2000+",
+      "name": "maxi salas",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "francia - costa de marfil",
-      "traffic": "10000+",
+      "name": "teresa constantini",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "españa - irak",
-      "traffic": "10000+",
+      "name": "chunchuna villafañe",
+      "traffic": "5000+",
       "rank": 3
+    },
+    {
+      "name": "francia - costa de marfil",
+      "traffic": "20000+",
+      "rank": 4
+    },
+    {
+      "name": "españa - irak",
+      "traffic": "20000+",
+      "rank": 5
     },
     {
       "name": "ricardo echegaray",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "asignación universal por hijo",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "chwalinska",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "diana shnaider",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "shell",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "encuesta",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "maja chwalińska",
+      "name": "shell",
       "traffic": "2000+",
       "rank": 10
     }
