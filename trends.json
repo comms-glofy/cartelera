@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-04T00:30:12Z",
+  "updated": "2026-06-04T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "spurs - knicks",
-      "traffic": "2000+",
+      "name": "amazon prime",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "arsat",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "prime video",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "nba hoy",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "spurs - knicks",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "marita monteleone",
       "traffic": "500+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "la nación",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "kendry páez",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "invierno",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "diego recalde",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "argelia",
-      "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "brad pitt",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "alejandro castelli",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "matteo berrettini",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
