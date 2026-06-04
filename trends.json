@@ -1,30 +1,30 @@
 {
-  "updated": "2026-06-04T22:00:13Z",
+  "updated": "2026-06-04T22:18:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentina",
-      "traffic": "1000+",
+      "name": "ranking fifa",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "argentina",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "kylian mbappé",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "doue",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "guéla doué",
-      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "teresa constantini",
+      "name": "guéla doué",
       "traffic": "1000+",
       "rank": 5
     },
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "teresa constantini",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "chunchuna villafañe",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "francia - costa de marfil",
       "traffic": "50000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "españa - irak",
       "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "ricardo echegaray",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
