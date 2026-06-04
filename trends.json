@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-04T01:00:14Z",
+  "updated": "2026-06-04T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "amazon prime",
+      "name": "corea del sur - el salvador",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "arsat",
-      "traffic": "1000+",
+      "name": "amazon prime",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "prime video",
-      "traffic": "2000+",
+      "name": "nba",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "nba hoy",
+      "name": "arsat",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "spurs - knicks",
-      "traffic": "10000+",
+      "name": "prime video",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "marita monteleone",
-      "traffic": "500+",
+      "name": "nba hoy",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "spurs - knicks",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "marita monteleone",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "la nación",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "kendry páez",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "invierno",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "diego recalde",
-      "traffic": "500+",
       "rank": 10
     }
   ]
