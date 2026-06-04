@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T14:30:18Z",
+  "updated": "2026-06-04T15:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,12 +15,12 @@
     },
     {
       "name": "nicole veron",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
       "name": "mario pergolini",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "clima moreno",
+      "name": "el clima",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "clima moreno",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "smn",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "clima hoy",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "pronostico",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "tiempo hoy",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "trenes argentinos",
-      "traffic": "100+",
       "rank": 10
     }
   ]
