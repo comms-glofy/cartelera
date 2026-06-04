@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-04T00:12:34Z",
+  "updated": "2026-06-04T00:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "spurs - knicks",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "marita monteleone",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "la nación",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "kendry páez",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "invierno",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "diego recalde",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "brad pitt",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "alejandro castelli",
+      "name": "argelia",
       "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "matteo berrettini",
+      "name": "brad pitt",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "países bajos - argelia",
+      "name": "alejandro castelli",
       "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "luxemburgo - italia",
-      "traffic": "5000+",
+      "name": "matteo berrettini",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
