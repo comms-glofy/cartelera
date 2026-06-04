@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T04:30:15Z",
+  "updated": "2026-06-04T05:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
+      "name": "nba",
+      "traffic": "20000+",
+      "rank": 6
+    },
+    {
       "name": "arsat",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nba hoy",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "prime video",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "spurs - knicks",
-      "traffic": "50000+",
       "rank": 9
     },
     {
-      "name": "marita monteleone",
-      "traffic": "2000+",
+      "name": "spurs - knicks",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
