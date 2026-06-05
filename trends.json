@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-05T02:30:11Z",
+  "updated": "2026-06-05T03:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "luck ra",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "méxico - serbia",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "ivana figueiras",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "traferri",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "panichelli",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "informe",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "argentina",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "amistoso internacional",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pickup",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "maxi salas",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "teresa constantini",
-      "traffic": "1000+",
+      "name": "doue",
+      "traffic": "500+",
       "rank": 10
     }
   ]
