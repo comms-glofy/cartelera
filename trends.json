@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T21:07:10Z",
+  "updated": "2026-06-05T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
+      "name": "zverev",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "alexander zverev",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "vorterix",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tn noticias",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "charly garcia",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "parkinson",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "c5n",
+      "name": "parkinson",
       "traffic": "5000+",
       "rank": 10
     }
