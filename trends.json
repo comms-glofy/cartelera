@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T19:00:43Z",
+  "updated": "2026-06-05T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,7 +9,7 @@
       "rank": 1
     },
     {
-      "name": "flavio cobolli",
+      "name": "cobolli",
       "traffic": "2000+",
       "rank": 2
     },
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "clarin",
-      "traffic": "5000+",
-      "rank": 4
-    },
-    {
       "name": "tn noticias",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "charly garcia",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "parkinson",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "noticias",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "tn",
       "traffic": "5000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "indio solari",
       "traffic": "500000+",
+      "rank": 9
+    },
+    {
+      "name": "f1 monaco",
+      "traffic": "200+",
       "rank": 10
     }
   ]
