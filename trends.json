@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-05T13:00:18Z",
+  "updated": "2026-06-05T13:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clarin",
-      "traffic": "2000+",
+      "name": "alexander zverev",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "parque leloir",
-      "traffic": "500+",
+      "name": "clarin",
+      "traffic": "5000+",
       "rank": 2
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "noticias",
+      "name": "parkinson",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "parkinson",
-      "traffic": "500+",
+      "name": "charly garcia",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "charly garcia",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
       "name": "c5n en vivo",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "indio",
       "traffic": "10000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "tn",
       "traffic": "5000+",
+      "rank": 9
+    },
+    {
+      "name": "indio solari",
+      "traffic": "200000+",
       "rank": 10
     }
   ]
