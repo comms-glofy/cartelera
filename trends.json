@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-05T12:30:17Z",
+  "updated": "2026-06-05T13:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "james handy",
-      "traffic": "1000+",
+      "name": "clarin",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "disney plus",
-      "traffic": "2000+",
+      "name": "parque leloir",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "disney",
-      "traffic": "2000+",
+      "name": "vorterix",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "horarios f1",
-      "traffic": "1000+",
+      "name": "tn noticias",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "abc",
-      "traffic": "2000+",
+      "name": "noticias",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "clima cordoba",
+      "name": "parkinson",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "i knew it i knew you taylor swift",
+      "name": "charly garcia",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "la joaqui",
-      "traffic": "200+",
+      "name": "c5n en vivo",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "carolina prat",
-      "traffic": "2000+",
+      "name": "indio",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "mexico",
-      "traffic": "1000+",
+      "name": "tn",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
