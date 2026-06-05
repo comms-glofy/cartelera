@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-05T07:00:14Z",
+  "updated": "2026-06-05T07:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "pronostico cordoba",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "luck ra",
-      "traffic": "2000+",
+      "name": "mexico",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "mexico vs",
-      "traffic": "5000+",
+      "name": "luck ra",
+      "traffic": "2000+",
       "rank": 7
+    },
+    {
+      "name": "mexico vs",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "méxico - serbia",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "ivana figueiras",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "traferri",
+      "name": "ivana figueiras",
       "traffic": "500+",
       "rank": 10
     }
