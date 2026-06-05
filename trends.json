@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-05T12:00:18Z",
+  "updated": "2026-06-05T12:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "james handy",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
       "name": "clima cordoba",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "i knew it i knew you taylor swift",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "la joaqui",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "carolina prat",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "mexico",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
