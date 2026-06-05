@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-05T14:30:17Z",
+  "updated": "2026-06-05T15:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "zverev",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -19,8 +19,8 @@
       "rank": 3
     },
     {
-      "name": "tn noticias",
-      "traffic": "500+",
+      "name": "clarin",
+      "traffic": "5000+",
       "rank": 4
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "noticias",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "indio",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tn",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "indio solari",
       "traffic": "500000+",
-      "rank": 9
-    },
-    {
-      "name": "james handy",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
