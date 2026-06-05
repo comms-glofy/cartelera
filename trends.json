@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-05T23:00:14Z",
+  "updated": "2026-06-05T23:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "meteorología",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "canadá - irlanda",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "argentina",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "ivana figueiras",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "toyota bz4x",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "paraguay vs",
-      "traffic": "5000+",
-      "rank": 4
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "flavio briatore",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "intendente",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "multa",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "jorge macri",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "cobolli",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "zverev",
+      "name": "jorge macri",
       "traffic": "2000+",
       "rank": 10
     }
