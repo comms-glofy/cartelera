@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T00:30:16Z",
+  "updated": "2026-06-05T01:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "ranking fifa",
+      "name": "informe",
       "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "informe",
+      "name": "argentina",
       "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "argentina",
-      "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "kylian mbappé",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
       "name": "pickup",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "doue",
       "traffic": "500+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "maxi salas",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "teresa constantini",
       "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "chunchuna villafañe",
+      "traffic": "20000+",
+      "rank": 9
+    },
+    {
+      "name": "francia - costa de marfil",
+      "traffic": "50000+",
       "rank": 10
     }
   ]
