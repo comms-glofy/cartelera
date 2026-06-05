@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-05T22:30:12Z",
+  "updated": "2026-06-05T22:40:58Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "toyota bz4x",
-      "traffic": "500+",
+      "name": "ivana figueiras",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "paraguay vs",
-      "traffic": "2000+",
+      "name": "toyota bz4x",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "flavio briatore",
-      "traffic": "1000+",
+      "name": "paraguay vs",
+      "traffic": "5000+",
       "rank": 3
+    },
+    {
+      "name": "flavio briatore",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "intendente",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "multa",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "jorge macri",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "cobolli",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "zverev",
+      "name": "flavio cobolli",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "alexander zverev",
-      "traffic": "5000+",
+      "name": "cobolli",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tn noticias",
-      "traffic": "500+",
+      "name": "zverev",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
