@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-05T10:30:13Z",
+  "updated": "2026-06-05T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "horarios f1",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "abc",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima cordoba",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "i knew it i knew you taylor swift",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "la joaqui",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "carolina prat",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "mexico",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "mexico vs",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "méxico - serbia",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "ivana figueiras",
-      "traffic": "500+",
       "rank": 10
     }
   ]
