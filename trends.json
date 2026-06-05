@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-05T01:30:12Z",
+  "updated": "2026-06-05T02:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ivana figueiras",
-      "traffic": "500+",
+      "name": "méxico - serbia",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "traferri",
+      "name": "ivana figueiras",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "informe",
-      "traffic": "2000+",
+      "name": "traferri",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "argentina",
-      "traffic": "10000+",
+      "name": "panichelli",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "pickup",
+      "name": "informe",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "doue",
-      "traffic": "500+",
+      "name": "argentina",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "maxi salas",
+      "name": "pickup",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "teresa constantini",
-      "traffic": "1000+",
+      "name": "doue",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "chunchuna villafañe",
-      "traffic": "20000+",
+      "name": "maxi salas",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "francia - costa de marfil",
-      "traffic": "50000+",
+      "name": "teresa constantini",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
