@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-05T10:00:17Z",
+  "updated": "2026-06-05T10:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico cordoba",
-      "traffic": "200+",
+      "name": "abc",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "clima cordoba",
-      "traffic": "20000+",
+      "name": "pronostico cordoba",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "i knew it i knew you taylor swift",
+      "name": "clima cordoba",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "i knew it i knew you taylor swift",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "la joaqui",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "carolina prat",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "mexico",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "mexico vs",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "méxico - serbia",
       "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "ivana figueiras",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "traferri",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "panichelli",
+      "name": "ivana figueiras",
       "traffic": "500+",
       "rank": 10
     }
