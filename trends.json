@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-06T14:30:11Z",
+  "updated": "2026-06-06T14:57:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "disney",
-      "traffic": "2000+",
+      "name": "senesi",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "andreeva",
-      "traffic": "1000+",
+      "name": "kim kardashian",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "fifa",
-      "traffic": "500+",
+      "name": "f1 en vivo",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "maja chwalińska",
-      "traffic": "1000+",
+      "name": "disney",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "bélgica - túnez",
-      "traffic": "2000+",
+      "name": "qualy f1",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "balerdi",
+      "name": "andreeva",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "clasificacion f1",
-      "traffic": "5000+",
+      "name": "fifa",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "sebastián báez",
-      "traffic": "200+",
+      "name": "maja chwalińska",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "matteo graziano",
-      "traffic": "500+",
+      "name": "bélgica - túnez",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "tasa",
+      "name": "balerdi",
       "traffic": "2000+",
       "rank": 10
     }
