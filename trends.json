@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T11:00:13Z",
+  "updated": "2026-06-06T11:30:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "verónica lozano",
-      "traffic": "100+",
+      "name": "tasa",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "horarios f1",
+      "name": "disney plus",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "diego milito",
-      "traffic": "200+",
+      "name": "f1 monaco",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "xbox cloud gaming",
-      "traffic": "100+",
+      "name": "verónica lozano",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "scary movie",
-      "traffic": "500+",
+      "name": "f1 horarios",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "nba hoy",
+      "name": "diego milito",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "kylie minogue",
-      "traffic": "500+",
+      "name": "xbox cloud gaming",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "mario pasik",
-      "traffic": "2000+",
+      "name": "scary movie",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "prime video",
-      "traffic": "1000+",
+      "name": "nba hoy",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "gimnasia y tiro de salta - midland",
-      "traffic": "5000+",
+      "name": "kylie minogue",
+      "traffic": "500+",
       "rank": 10
     }
   ]
