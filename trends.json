@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-06T22:30:14Z",
+  "updated": "2026-06-06T23:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "tristán suárez - almagro",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
+      "name": "axel kicillof",
+      "traffic": "20000+",
+      "rank": 7
+    },
+    {
       "name": "amistosos internacionales",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "inglaterra - nueva zelanda",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "bolivia - escocia",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "posiciones de club atlético atlanta contra gimnasia jujuy",
+      "name": "bolivia - escocia",
       "traffic": "10000+",
       "rank": 10
     }
