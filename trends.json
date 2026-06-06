@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T22:01:52Z",
+  "updated": "2026-06-06T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brasil",
+      "name": "tristán suárez - almagro",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "nacional - juventud",
+      "name": "miniserie",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "brasil - egipto",
-      "traffic": "10000+",
+      "name": "brasil",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "inglaterra fc",
+      "name": "nacional - juventud",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "bolivia - escocia",
-      "traffic": "10000+",
+      "name": "brasil - egipto",
+      "traffic": "20000+",
       "rank": 5
+    },
+    {
+      "name": "inglaterra fc",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "amistosos internacionales",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "inglaterra - nueva zelanda",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "bolivia - escocia",
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "posiciones de club atlético atlanta contra gimnasia jujuy",
       "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "vitória - fortaleza",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "san martín - nueva chicago",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "acassuso - central norte",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
