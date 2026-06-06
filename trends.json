@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T13:00:13Z",
+  "updated": "2026-06-06T13:25:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bélgica - túnez",
+      "name": "maja chwalińska",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "balerdi",
-      "traffic": "500+",
+      "name": "bélgica - túnez",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "donde velan al indio solari",
-      "traffic": "20000+",
+      "name": "balerdi",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "donde velan al indio solari",
+      "traffic": "10000+",
+      "rank": 4
+    },
+    {
+      "name": "clasificacion f1",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "sebastián báez",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "matteo graziano",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "tasa",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "f1 monaco",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "disney plus",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "verónica lozano",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "f1 horarios",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
