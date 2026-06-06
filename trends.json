@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-06T16:30:12Z",
+  "updated": "2026-06-06T17:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "portugal vs chile",
+      "name": "atlanta - gimnasia jujuy",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "portugal vs",
+      "name": "portugal",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "tormenta",
-      "traffic": "1000+",
+      "name": "portugal vs chile",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "intendente",
-      "traffic": "1000+",
+      "name": "portugal vs",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "tormenta",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "intendente",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "clasificación f1 hoy",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "polideportivo gatica",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "kim kardashian",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "mirra andreeva",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "disney",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "fifa",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "maja chwalińska",
+      "name": "disney",
       "traffic": "2000+",
       "rank": 10
     }
