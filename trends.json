@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T19:30:14Z",
+  "updated": "2026-06-06T20:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bolivia - escocia",
-      "traffic": "1000+",
+      "name": "cristiano ronaldo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "inglaterra - nueva zelanda",
-      "traffic": "1000+",
+      "name": "bolivia - escocia",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "inglaterra - nueva zelanda",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "vitória - fortaleza",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "san martín - nueva chicago",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "acassuso - central norte",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "estados unidos - alemania",
-      "traffic": "5000+",
+      "name": "acassuso - central norte",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "estados unidos - alemania",
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "portugal fc",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "havanna",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "portugal - chile",
       "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "atlanta - gimnasia jujuy",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
