@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T12:00:14Z",
+  "updated": "2026-06-06T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sebastián báez",
+      "name": "bélgica - túnez",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tasa",
+      "name": "balerdi",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "f1 monaco",
-      "traffic": "500+",
+      "name": "sebastián báez",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "disney plus",
+      "name": "tasa",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "verónica lozano",
+      "name": "f1 monaco",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "f1 horarios",
-      "traffic": "2000+",
+      "name": "disney plus",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "diego milito",
-      "traffic": "500+",
+      "name": "verónica lozano",
+      "traffic": "1000+",
       "rank": 7
+    },
+    {
+      "name": "f1 horarios",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "diego milito",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "xbox cloud gaming",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "scary movie",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "nba hoy",
-      "traffic": "500+",
       "rank": 10
     }
   ]
