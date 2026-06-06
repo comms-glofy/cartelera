@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T05:30:12Z",
+  "updated": "2026-06-06T06:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "spurs - knicks",
-      "traffic": "50000+",
+      "name": "spurs vs knicks",
+      "traffic": "5000+",
       "rank": 7
+    },
+    {
+      "name": "spurs - knicks",
+      "traffic": "20000+",
+      "rank": 8
     },
     {
       "name": "gimnasia y tiro de salta - midland",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "haití - perú",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "meteorología",
+      "name": "haití - perú",
       "traffic": "5000+",
       "rank": 10
     }
