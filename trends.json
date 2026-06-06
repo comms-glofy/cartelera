@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T21:30:12Z",
+  "updated": "2026-06-06T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brasil - egipto",
-      "traffic": "1000+",
+      "name": "brasil",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "inglaterra fc",
+      "name": "nacional - juventud",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "bolivia - escocia",
+      "name": "brasil - egipto",
       "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "inglaterra - nueva zelanda",
-      "traffic": "10000+",
+      "name": "inglaterra fc",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "posiciones de club atlético atlanta contra gimnasia jujuy",
-      "traffic": "5000+",
+      "name": "bolivia - escocia",
+      "traffic": "10000+",
       "rank": 5
+    },
+    {
+      "name": "inglaterra - nueva zelanda",
+      "traffic": "10000+",
+      "rank": 6
+    },
+    {
+      "name": "posiciones de club atlético atlanta contra gimnasia jujuy",
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "vitória - fortaleza",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "san martín - nueva chicago",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "acassuso - central norte",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "los andes - estudiantes",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "estados unidos - alemania",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
