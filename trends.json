@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T15:00:12Z",
+  "updated": "2026-06-06T15:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "senesi",
+      "name": "kim kardashian",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "kim kardashian",
-      "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "f1 en vivo",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
       "name": "disney",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "qualy f1",
-      "traffic": "5000+",
-      "rank": 5
+      "rank": 2
     },
     {
       "name": "andreeva",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 3
     },
     {
       "name": "fifa",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "maja chwalińska",
-      "traffic": "1000+",
-      "rank": 8
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "bélgica - túnez",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 6
     },
     {
       "name": "balerdi",
+      "traffic": "5000+",
+      "rank": 7
+    },
+    {
+      "name": "donde velan al indio solari",
       "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "clasificacion f1",
+      "traffic": "10000+",
+      "rank": 9
+    },
+    {
+      "name": "sebastián báez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
