@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-06T11:30:11Z",
+  "updated": "2026-06-06T11:52:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tasa",
+      "name": "sebastián báez",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "disney plus",
-      "traffic": "500+",
+      "name": "tasa",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
-      "name": "verónica lozano",
-      "traffic": "200+",
+      "name": "disney plus",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "f1 horarios",
-      "traffic": "1000+",
+      "name": "verónica lozano",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "f1 horarios",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "diego milito",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "xbox cloud gaming",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "scary movie",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "nba hoy",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "kylie minogue",
+      "name": "nba hoy",
       "traffic": "500+",
       "rank": 10
     }
