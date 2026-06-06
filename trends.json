@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T00:04:01Z",
+  "updated": "2026-06-06T00:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "haití - perú",
+      "name": "spurs - knicks",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "meteorología",
+      "name": "haití - perú",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "canadá - irlanda",
-      "traffic": "500+",
+      "name": "meteorología",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "canadá - irlanda",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "argentina",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ivana figueiras",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "toyota bz4x",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "paraguay vs",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "flavio briatore",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "intendente",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "multa",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
