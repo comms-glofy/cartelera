@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T02:30:12Z",
+  "updated": "2026-06-06T03:00:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nba",
-      "traffic": "5000+",
+      "name": "kylie minogue",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "prime video",
+      "name": "nba finals",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "spurs - knicks",
+      "name": "nba",
       "traffic": "10000+",
       "rank": 3
     },
     {
+      "name": "prime video",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "spurs - knicks",
+      "traffic": "10000+",
+      "rank": 5
+    },
+    {
       "name": "haití - perú",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "meteorología",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "canadá - irlanda",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "argentina",
-      "traffic": "10000+",
-      "rank": 7
+      "traffic": "20000+",
+      "rank": 9
     },
     {
       "name": "ivana figueiras",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "toyota bz4x",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "paraguay vs",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
