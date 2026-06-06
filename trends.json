@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T14:00:13Z",
+  "updated": "2026-06-06T14:30:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "andreeva",
-      "traffic": "200+",
+      "name": "disney",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "fifa",
-      "traffic": "200+",
+      "name": "andreeva",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "fifa",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "maja chwalińska",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "bélgica - túnez",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "balerdi",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clasificacion f1",
-      "traffic": "2000+",
-      "rank": 6
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "sebastián báez",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "matteo graziano",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tasa",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "argentina hoy",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
