@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T19:17:14Z",
+  "updated": "2026-06-06T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san martín - nueva chicago",
-      "traffic": "2000+",
+      "name": "bolivia - escocia",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "acassuso - central norte",
+      "name": "inglaterra - nueva zelanda",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "estados unidos - alemania",
-      "traffic": "5000+",
+      "name": "vitória - fortaleza",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "portugal fc",
+      "name": "san martín - nueva chicago",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "havanna",
+      "name": "acassuso - central norte",
       "traffic": "1000+",
       "rank": 5
     },
     {
+      "name": "estados unidos - alemania",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "portugal fc",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "havanna",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "portugal - chile",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "atlanta - gimnasia jujuy",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "portugal",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "tormenta",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "intendente",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
