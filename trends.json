@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-06T19:00:28Z",
+  "updated": "2026-06-06T19:17:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "san martín - nueva chicago",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "havanna",
-      "traffic": "500+",
+      "name": "portugal fc",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "havanna",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "portugal - chile",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "atlanta - gimnasia jujuy",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "portugal",
-      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "tormenta",
-      "traffic": "5000+",
+      "name": "portugal",
+      "traffic": "2000+",
       "rank": 8
+    },
+    {
+      "name": "tormenta",
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "intendente",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "clasificación f1 hoy",
-      "traffic": "500+",
       "rank": 10
     }
   ]
