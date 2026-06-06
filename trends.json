@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T03:00:32Z",
+  "updated": "2026-06-06T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "nba finals",
-      "traffic": "1000+",
+      "name": "mario pasik",
+      "traffic": "2000+",
       "rank": 2
-    },
-    {
-      "name": "nba",
-      "traffic": "10000+",
-      "rank": 3
     },
     {
       "name": "prime video",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "spurs - knicks",
-      "traffic": "10000+",
-      "rank": 5
+      "traffic": "20000+",
+      "rank": 4
     },
     {
       "name": "haití - perú",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "meteorología",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "canadá - irlanda",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "argentina",
       "traffic": "20000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "ivana figueiras",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "toyota bz4x",
+      "traffic": "500+",
       "rank": 10
     }
   ]
