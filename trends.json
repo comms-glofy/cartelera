@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T01:00:11Z",
+  "updated": "2026-06-06T01:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "spurs - knicks",
-      "traffic": "5000+",
+      "name": "prime video",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "haití - perú",
-      "traffic": "2000+",
+      "name": "spurs - knicks",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "meteorología",
-      "traffic": "2000+",
+      "name": "haití - perú",
+      "traffic": "5000+",
       "rank": 3
+    },
+    {
+      "name": "meteorología",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "canadá - irlanda",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "argentina",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ivana figueiras",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "toyota bz4x",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "paraguay vs",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "flavio briatore",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "intendente",
-      "traffic": "500+",
       "rank": 10
     }
   ]
