@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T18:00:14Z",
+  "updated": "2026-06-06T18:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "estados unidos - alemania",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "portugal fc",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "havanna",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "portugal - chile",
-      "traffic": "10000+",
-      "rank": 3
+      "traffic": "20000+",
+      "rank": 4
     },
     {
       "name": "atlanta - gimnasia jujuy",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "portugal",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tormenta",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "intendente",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "polideportivo gatica",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "kim kardashian",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "disney",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
