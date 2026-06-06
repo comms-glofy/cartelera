@@ -1,46 +1,46 @@
 {
-  "updated": "2026-06-06T09:00:12Z",
+  "updated": "2026-06-06T09:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "xbox cloud gaming",
+      "name": "diego milito",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "scary movie",
-      "traffic": "500+",
+      "name": "xbox cloud gaming",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "nba hoy",
+      "name": "scary movie",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "kylie minogue",
+      "name": "nba hoy",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "kylie minogue",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "mario pasik",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "peru vs",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "prime video",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "gimnasia y tiro de salta - midland",
-      "traffic": "5000+",
       "rank": 8
     },
     {
@@ -49,7 +49,7 @@
       "rank": 9
     },
     {
-      "name": "haití - perú",
+      "name": "gimnasia y tiro de salta - midland",
       "traffic": "5000+",
       "rank": 10
     }
