@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T18:00:13Z",
+  "updated": "2026-06-07T18:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deportivo morón - almirante brown",
-      "traffic": "500+",
+      "name": "eriksen",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "ranking atp",
+      "name": "chacarita - temperley",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "cerro - peñarol",
-      "traffic": "1000+",
+      "name": "marruecos - noruega",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "malasia",
+      "name": "grecia - italia",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "hamilton",
-      "traffic": "500+",
+      "name": "diego monroig",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "toto wolff",
-      "traffic": "500+",
+      "name": "dinamarca vs ucrania",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "lewis hamilton",
+      "name": "san telmo - deportivo madryn",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "isack hadjar",
+      "name": "adrian suar",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "charles leclerc",
-      "traffic": "1000+",
+      "name": "deportivo morón - almirante brown",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "roland garros",
-      "traffic": "20000+",
+      "name": "ranking atp",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
