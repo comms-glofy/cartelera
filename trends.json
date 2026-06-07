@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-07T14:30:13Z",
+  "updated": "2026-06-07T15:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "roland garros",
-      "traffic": "2000+",
+      "name": "charles leclerc",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "alexander zverev",
+      "name": "roland garros",
       "traffic": "5000+",
       "rank": 2
     },
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "zverev",
+      "traffic": "5000+",
+      "rank": 7
+    },
+    {
       "name": "disney",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "kim kardashian",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "disney plus",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "monaco",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
