@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T20:08:53Z",
+  "updated": "2026-06-07T20:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "san martín de tucumán - quilmes",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "colón - club ciudad de bolívar",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
       "name": "ecuador - guatemala",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "croacia vs",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "pierre gasly",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "aguinaldo",
-      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "agropecuario - patronato",
-      "traffic": "500+",
+      "name": "pierre gasly",
+      "traffic": "10000+",
       "rank": 5
+    },
+    {
+      "name": "aguinaldo",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "agropecuario - patronato",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "atlético güemes - deportivo maipú",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "chaco for ever - ferro",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "persona 6",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "christian eriksen",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "eriksen",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
