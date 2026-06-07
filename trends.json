@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T12:07:37Z",
+  "updated": "2026-06-07T12:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carrera f1",
-      "traffic": "500+",
+      "name": "banco mundial",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "f1",
-      "traffic": "10000+",
+      "name": "inflación",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ciclón",
+      "name": "sandra pettovello",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "juan román riquelme",
-      "traffic": "200+",
+      "name": "f1",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "desregulación",
-      "traffic": "200+",
+      "name": "formula 1",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "f1 monaco",
+      "name": "ciclón",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "morena beltrán",
-      "traffic": "500+",
+      "name": "juan román riquelme",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "desregulación",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "reforma",
-      "traffic": "500+",
+      "name": "f1 horarios",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "sebastián báez",
-      "traffic": "200+",
+      "name": "morena beltrán",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
