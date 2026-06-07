@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T17:30:11Z",
+  "updated": "2026-06-07T18:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "roland garros 2026",
-      "traffic": "1000+",
+      "name": "deportivo morón - almirante brown",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "malasia",
+      "name": "ranking atp",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "toto wolff",
-      "traffic": "500+",
+      "name": "cerro - peñarol",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "isack hadjar",
+      "name": "malasia",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "colapinto",
-      "traffic": "10000+",
+      "name": "hamilton",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "charles leclerc",
-      "traffic": "1000+",
+      "name": "toto wolff",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "roland garros",
-      "traffic": "20000+",
+      "name": "lewis hamilton",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "max verstappen",
+      "name": "isack hadjar",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "dia del periodista",
-      "traffic": "2000+",
+      "name": "charles leclerc",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "f1 tv",
-      "traffic": "200+",
+      "name": "roland garros",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
