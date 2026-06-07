@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T02:30:13Z",
+  "updated": "2026-06-07T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mac allister",
+      "name": "kylie minogue",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cuti romero",
-      "traffic": "1000+",
+      "name": "kick",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "josé manuel lópez",
+      "name": "mac allister",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "cuti romero",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "josé manuel lópez",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "enzo fernandez",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "aranda",
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "capaldo",
       "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "aranda",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "de paul",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "cholo simeone",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "nico paz",
-      "traffic": "2000+",
+      "name": "convocados de argentina para el mundial 2026",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "thiago almada",
-      "traffic": "2000+",
+      "name": "poceada chaqueña",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
