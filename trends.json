@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T15:30:13Z",
+  "updated": "2026-06-07T15:51:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "charles leclerc",
+      "name": "lewis hamilton",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "andrea kimi antonelli",
+      "name": "kimi antonelli",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "roland garros",
-      "traffic": "10000+",
+      "name": "antonelli",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "verstappen",
-      "traffic": "200+",
+      "name": "hadjar",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "dia del periodista",
-      "traffic": "1000+",
+      "name": "isack hadjar",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "f1 tv",
-      "traffic": "200+",
+      "name": "charles leclerc",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "zverev",
-      "traffic": "10000+",
+      "name": "andrea kimi antonelli",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "disney",
-      "traffic": "2000+",
+      "name": "roland garros",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "kim kardashian",
+      "name": "max verstappen",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "disney plus",
-      "traffic": "5000+",
+      "name": "dia del periodista",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
