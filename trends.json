@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-07T05:00:13Z",
+  "updated": "2026-06-07T05:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "angel correa",
-      "traffic": "1000+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "dibu martinez",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "cuti romero",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "josé manuel lópez",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "enzo fernandez",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "capaldo",
       "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "convocados de argentina para el mundial 2026",
-      "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "poceada chaqueña",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "flaco lopez",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
