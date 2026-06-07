@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T22:30:11Z",
+  "updated": "2026-06-07T23:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colombia - jordania",
-      "traffic": "2000+",
+      "name": "elecciones peru",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "tormenta",
-      "traffic": "2000+",
+      "name": "colombia - jordania",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "san martín de tucumán - quilmes",
+      "name": "posiciones de godoy cruz contra club atlético mitre",
       "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "colón - club ciudad de bolívar",
-      "traffic": "5000+",
+      "name": "posiciones de club atlético san telmo contra deportivo madryn",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "ecuador - guatemala",
-      "traffic": "5000+",
+      "name": "tormenta",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "croacia vs",
-      "traffic": "1000+",
+      "name": "san martín de tucumán - quilmes",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "pierre gasly",
+      "name": "colón - club ciudad de bolívar",
       "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "godoy cruz - club mitre",
-      "traffic": "10000+",
+      "name": "ecuador - guatemala",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "aguinaldo",
-      "traffic": "5000+",
+      "name": "croacia vs",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "agropecuario - patronato",
-      "traffic": "2000+",
+      "name": "pierre gasly",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
