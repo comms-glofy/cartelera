@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-07T11:00:15Z",
+  "updated": "2026-06-07T11:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "morena beltrán",
-      "traffic": "100+",
+      "name": "f1 horarios",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "f1 monaco",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "reforma",
-      "traffic": "100+",
+      "name": "morena beltrán",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sebastián báez",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 4
+    },
+    {
+      "name": "reforma",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "sebastián báez",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "clima cordoba",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "angel correa",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "kylie minogue",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "kick",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "mac allister",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cuti romero",
+      "name": "capaldo boca",
       "traffic": "1000+",
       "rank": 10
     }
