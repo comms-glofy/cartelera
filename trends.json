@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-07T03:00:16Z",
+  "updated": "2026-06-07T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "kylie minogue",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "capaldo boca",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "kick",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mac allister",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "cuti romero",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "josé manuel lópez",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "enzo fernandez",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "aranda",
-      "traffic": "10000+",
       "rank": 7
     },
     {
       "name": "capaldo",
-      "traffic": "5000+",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "convocados de argentina para el mundial 2026",
+      "name": "poceada chaqueña",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "poceada chaqueña",
+      "name": "de paul",
       "traffic": "1000+",
       "rank": 10
     }
