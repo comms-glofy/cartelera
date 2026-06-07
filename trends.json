@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T17:13:22Z",
+  "updated": "2026-06-07T17:30:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "hadjar",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
       "name": "isack hadjar",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "colapinto",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "charles leclerc",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "roland garros",
-      "traffic": "10000+",
-      "rank": 8
+      "traffic": "20000+",
+      "rank": 7
     },
     {
       "name": "max verstappen",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "dia del periodista",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "f1 tv",
+      "traffic": "200+",
       "rank": 10
     }
   ]
