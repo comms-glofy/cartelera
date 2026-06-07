@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T10:30:14Z",
+  "updated": "2026-06-07T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "morena beltrán",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "clima",
       "traffic": "50000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "reforma",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "sebastián báez",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima cordoba",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "angel correa",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "kylie minogue",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "kick",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "mac allister",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "cuti romero",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "josé manuel lópez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
