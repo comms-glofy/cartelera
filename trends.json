@@ -1,36 +1,36 @@
 {
-  "updated": "2026-06-07T12:00:13Z",
+  "updated": "2026-06-07T12:07:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1",
-      "traffic": "2000+",
+      "name": "carrera f1",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "carrera f1 horario",
-      "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "formula 1",
+      "name": "f1",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "ciclón",
       "traffic": "100+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "juan román riquelme",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "desregulación",
-      "traffic": "100+",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "f1 monaco",
+      "traffic": "200+",
       "rank": 6
     },
     {
