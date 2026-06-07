@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T19:30:13Z",
+  "updated": "2026-06-07T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pierre gasly",
+      "name": "ecuador - guatemala",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "aguinaldo",
-      "traffic": "1000+",
+      "name": "croacia vs",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "agropecuario - patronato",
-      "traffic": "500+",
+      "name": "pierre gasly",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "chaco for ever - ferro",
+      "name": "aguinaldo",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "persona 6",
+      "name": "agropecuario - patronato",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "eriksen",
-      "traffic": "10000+",
+      "name": "atlético güemes - deportivo maipú",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "chacarita - temperley",
-      "traffic": "2000+",
+      "name": "chaco for ever - ferro",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "marruecos - noruega",
-      "traffic": "2000+",
+      "name": "persona 6",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "grecia - italia",
+      "name": "christian eriksen",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "diego monroig",
-      "traffic": "1000+",
+      "name": "eriksen",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
