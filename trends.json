@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T19:00:14Z",
+  "updated": "2026-06-07T19:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "persona 6",
-      "traffic": "500+",
+      "name": "pierre gasly",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "eriksen",
-      "traffic": "5000+",
+      "name": "aguinaldo",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "chacarita - temperley",
-      "traffic": "2000+",
+      "name": "agropecuario - patronato",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "marruecos - noruega",
+      "name": "chaco for ever - ferro",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "grecia - italia",
-      "traffic": "1000+",
+      "name": "persona 6",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "diego monroig",
-      "traffic": "1000+",
+      "name": "eriksen",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "dinamarca vs ucrania",
+      "name": "chacarita - temperley",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "san telmo - deportivo madryn",
-      "traffic": "500+",
+      "name": "marruecos - noruega",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "deportivo morón - almirante brown",
-      "traffic": "5000+",
+      "name": "grecia - italia",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "ranking atp",
-      "traffic": "500+",
+      "name": "diego monroig",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
