@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-06T23:34:26Z",
+  "updated": "2026-06-07T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tristán suárez - almagro",
-      "traffic": "1000+",
+      "name": "tiempo de mañana",
+      "traffic": "100000+",
       "rank": 1
     },
     {
-      "name": "miniserie",
-      "traffic": "1000+",
+      "name": "mi telefe en vivo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "brasil",
-      "traffic": "5000+",
+      "name": "mitelefe",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "nacional - juventud",
+      "name": "brasil x egito",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "brasil - egipto",
-      "traffic": "50000+",
+      "name": "tristán suárez - almagro",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "inglaterra fc",
+      "name": "miniserie",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "axel kicillof",
-      "traffic": "20000+",
+      "name": "brasil",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "amistosos internacionales",
-      "traffic": "2000+",
+      "name": "nacional - juventud",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "bolivia - escocia",
-      "traffic": "10000+",
+      "name": "brasil - egipto",
+      "traffic": "50000+",
       "rank": 9
     },
     {
-      "name": "inglaterra - nueva zelanda",
-      "traffic": "20000+",
+      "name": "inglaterra fc",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
