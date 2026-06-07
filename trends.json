@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T01:00:13Z",
+  "updated": "2026-06-07T01:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tagliafico",
-      "traffic": "500+",
+      "name": "thiago almada",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "simeone",
-      "traffic": "500+",
+      "name": "nico paz",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "los fundamentalistas del aire acondicionado",
-      "traffic": "20000+",
+      "name": "tagliafico",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "lo celso",
+      "name": "simeone",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "fixture mundial 2026",
-      "traffic": "2000+",
+      "name": "los fundamentalistas del aire acondicionado",
+      "traffic": "20000+",
       "rank": 5
     },
     {
-      "name": "valentín barco",
-      "traffic": "500+",
+      "name": "fixture mundial 2026",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "lo celso",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "valentín barco",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "giuliano simeone",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "musso",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "colo barco",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "kyle field",
-      "traffic": "1000+",
+      "name": "juan musso",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
