@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T13:30:12Z",
+  "updated": "2026-06-07T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1 tv",
-      "traffic": "200+",
+      "name": "alexander zverev",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "zverev",
+      "name": "verstappen",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "disney",
-      "traffic": "5000+",
+      "name": "dia del periodista",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "f1 tv",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "f1 en vivo",
+      "traffic": "10000+",
+      "rank": 5
+    },
+    {
+      "name": "disney",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "kim kardashian",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "disney plus",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "banco mundial",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "inflación",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "sandra pettovello",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "carrera f1",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "f1",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
