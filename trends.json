@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-07T18:30:13Z",
+  "updated": "2026-06-07T18:47:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "eriksen",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 1
     },
     {
       "name": "chacarita - temperley",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
       "name": "marruecos - noruega",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
       "name": "grecia - italia",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "dinamarca vs ucrania",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 6
     },
     {
@@ -45,12 +45,12 @@
     },
     {
       "name": "deportivo morón - almirante brown",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 9
     },
     {
       "name": "ranking atp",
-      "traffic": "1000+",
+      "traffic": "500+",
       "rank": 10
     }
   ]
