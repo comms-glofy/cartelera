@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-07T15:00:15Z",
+  "updated": "2026-06-07T15:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "charles leclerc",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "roland garros",
-      "traffic": "5000+",
+      "name": "andrea kimi antonelli",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "max verstappen",
-      "traffic": "500+",
+      "name": "roland garros",
+      "traffic": "10000+",
       "rank": 3
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "dia del periodista",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "zverev",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 7
     },
     {
