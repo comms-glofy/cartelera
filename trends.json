@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-07T11:30:13Z",
+  "updated": "2026-06-07T12:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1 horarios",
-      "traffic": "500+",
+      "name": "f1",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "f1 monaco",
-      "traffic": "200+",
+      "name": "carrera f1 horario",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "morena beltrán",
-      "traffic": "200+",
+      "name": "formula 1",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "ciclón",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "reforma",
+      "name": "juan román riquelme",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "sebastián báez",
-      "traffic": "500+",
+      "name": "desregulación",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "clima cordoba",
-      "traffic": "100+",
+      "name": "morena beltrán",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "angel correa",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 8
     },
     {
-      "name": "kylie minogue",
-      "traffic": "2000+",
+      "name": "reforma",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "capaldo boca",
-      "traffic": "1000+",
+      "name": "sebastián báez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
