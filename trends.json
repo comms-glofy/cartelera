@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-08T18:23:39Z",
+  "updated": "2026-06-08T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "países bajos - uzbekistán",
-      "traffic": "500+",
+      "name": "beca",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "peter thiel",
+      "name": "países bajos - uzbekistán",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "mauro arambarri",
+      "name": "peter thiel",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "automóvil",
+      "name": "mauro arambarri",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "automóvil",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "twitch",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "quiniela",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "quiniela de hoy",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mundial",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "maria rosa fugazot",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
