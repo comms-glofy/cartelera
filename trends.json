@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T13:30:18Z",
+  "updated": "2026-06-08T14:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
-      "rank": 5
-    },
-    {
       "name": "feriado",
       "traffic": "500+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "sebastián villa",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "tiempo hoy",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "杭州天气",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "anses",
       "traffic": "20000+",
+      "rank": 9
+    },
+    {
+      "name": "lali",
+      "traffic": "500+",
       "rank": 10
     }
   ]
