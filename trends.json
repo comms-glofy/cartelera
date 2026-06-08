@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-08T11:30:14Z",
+  "updated": "2026-06-08T11:54:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mundial",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "maria rosa fugazot",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
       "name": "weather",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "importación",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "clima",
       "traffic": "100000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "feriado",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "sebastián villa",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "tiempo hoy",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "杭州天气",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "anses",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "lali",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "mariela prieto",
-      "traffic": "500+",
       "rank": 10
     }
   ]
