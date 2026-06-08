@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-08T02:30:14Z",
+  "updated": "2026-06-08T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mariela prieto",
+      "name": "lali",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "mariela prieto",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ivan de pineda",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "elecciones peru",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "colombia - jordania",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "posiciones de godoy cruz contra club atlético mitre",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "posiciones de all boys contra racing de córdoba",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tormenta",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "san martín de tucumán - quilmes",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "colón - club ciudad de bolívar",
+      "name": "san martín de tucumán - quilmes",
       "traffic": "10000+",
       "rank": 10
     }
