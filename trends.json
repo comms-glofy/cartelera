@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T13:00:18Z",
+  "updated": "2026-06-08T13:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
       "name": "tiempo hoy",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "杭州天气",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "anses",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
