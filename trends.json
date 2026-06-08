@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-08T09:00:18Z",
+  "updated": "2026-06-08T09:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "杭州天气",
-      "traffic": "200+",
+      "name": "sebastián villa",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lali",
+      "name": "clima hoy",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "mariela prieto",
-      "traffic": "500+",
+      "name": "tiempo hoy",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tiempo mañana",
-      "traffic": "20000+",
+      "name": "杭州天气",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "anses",
+      "traffic": "10000+",
       "rank": 5
     },
     {
-      "name": "ivan de pineda",
+      "name": "lali",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "elecciones peru",
-      "traffic": "5000+",
+      "name": "mariela prieto",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "colombia - jordania",
+      "name": "tiempo mañana",
       "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "posiciones de godoy cruz contra club atlético mitre",
-      "traffic": "10000+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 9
     },
     {
-      "name": "posiciones de all boys contra racing de córdoba",
-      "traffic": "1000+",
+      "name": "ivan de pineda",
+      "traffic": "500+",
       "rank": 10
     }
   ]
