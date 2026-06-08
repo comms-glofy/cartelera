@@ -1,46 +1,46 @@
 {
-  "updated": "2026-06-08T19:00:18Z",
+  "updated": "2026-06-08T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "beca",
-      "traffic": "1000+",
+      "name": "inteligencia artificial",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "países bajos - uzbekistán",
-      "traffic": "1000+",
+      "name": "beca",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "países bajos - uzbekistán",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "peter thiel",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mauro arambarri",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "automóvil",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "twitch",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "quiniela de tucuman",
-      "traffic": "1000+",
       "rank": 7
     },
     {
       "name": "quiniela",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 8
     },
     {
