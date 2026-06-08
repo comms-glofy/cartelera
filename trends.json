@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-08T16:30:17Z",
+  "updated": "2026-06-08T17:00:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mauro arambarri",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "automóvil",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "twitch",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "quiniela",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "quiniela de hoy",
-      "traffic": "2000+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "mundial",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "maria rosa fugazot",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "importación",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima",
-      "traffic": "100000+",
-      "rank": 8
-    },
-    {
-      "name": "feriado",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "sebastián villa",
-      "traffic": "500+",
       "rank": 10
     }
   ]
