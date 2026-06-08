@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-08T20:00:14Z",
+  "updated": "2026-06-08T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "francia vs",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 1
     },
     {
       "name": "inteligencia artificial",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
       "name": "beca",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 3
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "quiniela",
-      "traffic": "5000+",
+      "name": "quiniela de tucuman",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "quiniela de hoy",
-      "traffic": "1000+",
+      "name": "quiniela",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
