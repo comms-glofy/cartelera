@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-08T01:00:14Z",
+  "updated": "2026-06-08T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tiempo de mañana",
+      "traffic": "100000+",
+      "rank": 1
+    },
+    {
+      "name": "ivan de pineda",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "elecciones peru",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "colombia - jordania",
       "traffic": "20000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "posiciones de godoy cruz contra club atlético mitre",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "posiciones de club atlético san telmo contra deportivo madryn",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "tormenta",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "san martín de tucumán - quilmes",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "colón - club ciudad de bolívar",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "ecuador - guatemala",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "croacia vs",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "pierre gasly",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
