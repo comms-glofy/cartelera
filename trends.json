@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T17:30:14Z",
+  "updated": "2026-06-08T18:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "mundial",
-      "traffic": "5000+",
+      "name": "quiniela de hoy",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "mundial",
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "maria rosa fugazot",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "importación",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "clima",
-      "traffic": "100000+",
       "rank": 10
     }
   ]
