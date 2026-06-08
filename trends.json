@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-08T08:30:17Z",
+  "updated": "2026-06-08T09:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lali",
-      "traffic": "500+",
+      "name": "杭州天气",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mariela prieto",
+      "name": "lali",
       "traffic": "500+",
       "rank": 2
     },
     {
+      "name": "mariela prieto",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "tiempo mañana",
       "traffic": "20000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ivan de pineda",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "elecciones peru",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "colombia - jordania",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "posiciones de godoy cruz contra club atlético mitre",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "posiciones de all boys contra racing de córdoba",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "tormenta",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
