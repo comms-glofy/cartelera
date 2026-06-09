@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T07:30:13Z",
+  "updated": "2026-06-09T08:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "nba",
+      "traffic": "20000+",
+      "rank": 8
+    },
+    {
       "name": "spurs vs knicks",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "angela leiva",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "prime video",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
