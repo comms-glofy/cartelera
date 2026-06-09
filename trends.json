@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-09T14:30:18Z",
+  "updated": "2026-06-09T15:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "ángel di maría",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "paro de colectivos",
+      "name": "marco trungelliti",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "gobierno",
+      "name": "paro de colectivos",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "alejandro fantino",
-      "traffic": "2000+",
+      "name": "gobierno",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "alejandro fantino",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "tn",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "gerardo romano",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "quien se fue de gran hermano",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "fernan miras",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "españa fc",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
