@@ -1,45 +1,45 @@
 {
-  "updated": "2026-06-09T01:30:14Z",
+  "updated": "2026-06-09T02:00:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nba",
-      "traffic": "5000+",
+      "name": "knicks",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "spurs vs knicks",
-      "traffic": "2000+",
+      "name": "nba hoy",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "españa - perú",
+      "traffic": "10000+",
+      "rank": 3
+    },
+    {
+      "name": "nba",
+      "traffic": "10000+",
+      "rank": 4
     },
     {
       "name": "angela leiva",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "prime video",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "nahir galarza",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "españa vs peru",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "el cronista",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "knicks - spurs",
+      "name": "el cronista",
       "traffic": "2000+",
       "rank": 8
     },
