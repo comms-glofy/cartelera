@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-09T16:30:20Z",
+  "updated": "2026-06-09T17:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sandra pettovello",
+      "name": "guido rodríguez",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ángel di maría",
+      "name": "progresar",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "colonia caroya",
-      "traffic": "1000+",
+      "name": "carnicería",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "coipo",
+      "name": "brian sarmiento",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "marco trungelliti",
+      "name": "sandra pettovello",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "paro de colectivos",
-      "traffic": "500+",
+      "name": "ángel di maría",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "gobierno",
-      "traffic": "500+",
+      "name": "colonia caroya",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "alejandro fantino",
-      "traffic": "5000+",
+      "name": "coipo",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "tn",
-      "traffic": "20000+",
+      "name": "marco trungelliti",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "gerardo romano",
-      "traffic": "200+",
+      "name": "paro de colectivos",
+      "traffic": "500+",
       "rank": 10
     }
   ]
