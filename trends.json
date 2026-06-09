@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-09T08:00:19Z",
+  "updated": "2026-06-09T08:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tn",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "quien se fue de gran hermano",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "fernan miras",
       "traffic": "2000+",
-      "rank": 2
-    },
-    {
-      "name": "españa fc",
-      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "peru",
+      "name": "españa",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "rueda de prensa",
-      "traffic": "500+",
+      "name": "españa fc",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "nba hoy",
+      "name": "peru",
       "traffic": "2000+",
       "rank": 6
     },
     {
+      "name": "rueda de prensa",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "nba hoy",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
       "name": "españa - perú",
       "traffic": "50000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "nba",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "spurs vs knicks",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "angela leiva",
-      "traffic": "500+",
       "rank": 10
     }
   ]
