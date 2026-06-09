@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-09T20:30:17Z",
+  "updated": "2026-06-09T20:54:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "feriados",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
+      "name": "luciana aylen barrios alarcon",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
       "name": "comercio",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "julian alvarez",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "javier caumont",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "rd congo - chile",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "junio",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "guido rodríguez",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "progresar",
       "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "carnicería",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "sandra pettovello",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "ángel di maría",
+      "name": "carnicería",
       "traffic": "2000+",
       "rank": 10
     }
