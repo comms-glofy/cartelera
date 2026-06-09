@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-09T12:00:12Z",
+  "updated": "2026-06-09T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paro de colectivos",
+      "name": "coipo",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "gobierno",
+      "name": "paro de colectivos",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "alejandro fantino",
-      "traffic": "1000+",
+      "name": "gobierno",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "tn",
-      "traffic": "5000+",
+      "name": "alejandro fantino",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "tn",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "quien se fue de gran hermano",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "fernan miras",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "españa fc",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "peru",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "nba hoy",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "españa - perú",
-      "traffic": "50000+",
       "rank": 10
     }
   ]
