@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-09T19:30:35Z",
+  "updated": "2026-06-09T20:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "comercio",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "julian alvarez",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "javier caumont",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "rd congo - chile",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "junio",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "guido rodríguez",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "progresar",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "carnicería",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "sandra pettovello",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "ángel di maría",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "colonia caroya",
+      "name": "ángel di maría",
       "traffic": "2000+",
       "rank": 10
     }
