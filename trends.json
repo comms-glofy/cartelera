@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-09T00:30:12Z",
+  "updated": "2026-06-09T01:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "nahir galarza",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "el cronista",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "españa vs peru",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "knicks - spurs",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 4
+    },
+    {
+      "name": "fecha de cobro jubilados junio 2026",
+      "traffic": "50000+",
+      "rank": 5
     },
     {
       "name": "argentina vs islandia",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "iprofesional",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "fin de semana",
-      "traffic": "2000+",
-      "rank": 4
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "atlético nacional - junior",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "kylian mbappé",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "yuval noah harari",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "francia vs",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "inteligencia artificial",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "beca",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
