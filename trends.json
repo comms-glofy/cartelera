@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T07:00:13Z",
+  "updated": "2026-06-09T07:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,42 +14,42 @@
       "rank": 2
     },
     {
-      "name": "peru",
+      "name": "españa fc",
       "traffic": "2000+",
       "rank": 3
     },
     {
+      "name": "peru",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
       "name": "rueda de prensa",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "nba hoy",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "españa - perú",
       "traffic": "50000+",
-      "rank": 6
-    },
-    {
-      "name": "angela leiva",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "knicks vs spurs",
+      "name": "spurs vs knicks",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "prime video",
-      "traffic": "2000+",
+      "name": "angela leiva",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nahir galarza",
+      "name": "prime video",
       "traffic": "2000+",
       "rank": 10
     }
