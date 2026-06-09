@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-09T22:00:16Z",
+  "updated": "2026-06-09T22:21:45Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "manuel adorni",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "argentina hoy",
       "traffic": "20000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "feriados",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "luciana aylen barrios alarcon",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "comercio",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "julian alvarez",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "javier caumont",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "rd congo - chile",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "junio",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "guido rodríguez",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "progresar",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
