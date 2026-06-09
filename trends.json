@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-09T13:42:51Z",
+  "updated": "2026-06-09T14:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colonia caroya",
+      "name": "ángel di maría",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "coipo",
+      "name": "colonia caroya",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "paro de colectivos",
+      "name": "coipo",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "gobierno",
+      "name": "paro de colectivos",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "alejandro fantino",
-      "traffic": "2000+",
+      "name": "gobierno",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "tn",
-      "traffic": "10000+",
+      "name": "alejandro fantino",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "tn",
+      "traffic": "20000+",
+      "rank": 7
     },
     {
       "name": "quien se fue de gran hermano",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fernan miras",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "españa fc",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "peru",
-      "traffic": "2000+",
+      "name": "españa",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
