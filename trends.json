@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-09T16:00:22Z",
+  "updated": "2026-06-09T16:29:45Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ángel di maría",
-      "traffic": "2000+",
+      "name": "sandra pettovello",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "colonia caroya",
-      "traffic": "500+",
+      "name": "ángel di maría",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "coipo",
-      "traffic": "500+",
+      "name": "colonia caroya",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "coipo",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "marco trungelliti",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "paro de colectivos",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "gobierno",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "alejandro fantino",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tn",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "gerardo romano",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "quien se fue de gran hermano",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
