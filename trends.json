@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-09T17:30:23Z",
+  "updated": "2026-06-09T18:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "junio",
+      "name": "rd congo - chile",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "guido rodríguez",
+      "name": "junio",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "progresar",
-      "traffic": "5000+",
+      "name": "guido rodríguez",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "carnicería",
-      "traffic": "1000+",
+      "name": "progresar",
+      "traffic": "5000+",
       "rank": 4
+    },
+    {
+      "name": "carnicería",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "brian sarmiento",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "sandra pettovello",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ángel di maría",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "colonia caroya",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "coipo",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "marco trungelliti",
-      "traffic": "500+",
       "rank": 10
     }
   ]
