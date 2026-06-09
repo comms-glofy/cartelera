@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-09T17:00:16Z",
+  "updated": "2026-06-09T17:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guido rodríguez",
+      "name": "junio",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "progresar",
-      "traffic": "2000+",
+      "name": "guido rodríguez",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "carnicería",
-      "traffic": "500+",
+      "name": "progresar",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "brian sarmiento",
+      "name": "carnicería",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "sandra pettovello",
-      "traffic": "500+",
+      "name": "brian sarmiento",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "sandra pettovello",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "ángel di maría",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "colonia caroya",
-      "traffic": "1000+",
-      "rank": 7
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "coipo",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "marco trungelliti",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "paro de colectivos",
+      "name": "marco trungelliti",
       "traffic": "500+",
       "rank": 10
     }
