@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-10T02:30:13Z",
+  "updated": "2026-06-10T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentina vs argelia",
-      "traffic": "1000+",
+      "name": "thiago almada",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "giuliano simeone",
+      "name": "rodrigo noya",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "exequiel palacios",
-      "traffic": "500+",
+      "name": "argentina vs argelia",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "mundial 2026",
-      "traffic": "2000+",
+      "name": "giuliano simeone",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "medina",
-      "traffic": "1000+",
+      "name": "exequiel palacios",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "facundo medina",
-      "traffic": "5000+",
+      "name": "fixture mundial 2026",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "fixture mundial 2026",
+      "name": "cuando empieza el mundial",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "lo celso",
-      "traffic": "2000+",
+      "name": "facundo medina",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "cuando empieza el mundial",
+      "name": "lo celso",
       "traffic": "2000+",
       "rank": 9
     },
     {
       "name": "agustín giay",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
