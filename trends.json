@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-10T18:13:48Z",
+  "updated": "2026-06-10T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "médico de cabecera",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
+      "name": "tormenta",
+      "traffic": "10000+",
+      "rank": 5
+    },
+    {
       "name": "jubilación",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "12 de junio",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "voucher educativo 2026",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "como salio argentina",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "mirgor",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "que tatuaje tiene messi en la espalda",
+      "name": "mirgor",
       "traffic": "500+",
       "rank": 10
     }
