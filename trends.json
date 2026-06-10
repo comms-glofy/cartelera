@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-10T00:00:15Z",
+  "updated": "2026-06-10T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "argentina fc",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "argentina vs iceland",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "argentina - islandia",
+      "traffic": "200000+",
+      "rank": 3
+    },
+    {
       "name": "ypf",
       "traffic": "500+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "alabama",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "19 de junio",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "senegal - arabia saudita",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "manuel adorni",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "argentina hoy",
-      "traffic": "20000+",
-      "rank": 6
-    },
-    {
-      "name": "feriados",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "luciana aylen barrios alarcon",
-      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "comercio",
-      "traffic": "1000+",
+      "name": "argentina hoy",
+      "traffic": "50000+",
       "rank": 9
     },
     {
-      "name": "julian alvarez",
+      "name": "feriados",
       "traffic": "1000+",
       "rank": 10
     }
