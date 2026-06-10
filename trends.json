@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-10T01:00:14Z",
+  "updated": "2026-06-10T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nico paz",
-      "traffic": "1000+",
+      "name": "colo barco",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "mi telefe en vivo",
+      "name": "flaco lopez",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "mi telefe",
-      "traffic": "2000+",
+      "name": "rulli",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "irak - venezuela",
-      "traffic": "1000+",
+      "name": "nico paz",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "mi telefe en vivo",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "mi telefe",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "irak - venezuela",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "brasil - estados unidos",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "argentina vs iceland",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "argentina fc",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "argentina - islandia",
-      "traffic": "200000+",
-      "rank": 8
-    },
-    {
-      "name": "ypf",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "alabama",
+      "name": "argentina fc",
       "traffic": "2000+",
       "rank": 10
     }
