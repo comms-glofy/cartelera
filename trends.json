@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-10T23:00:12Z",
+  "updated": "2026-06-10T23:06:41Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lluvia",
-      "traffic": "2000+",
+      "name": "inauguracion mundial 2026",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "lluvia",
+      "traffic": "5000+",
+      "rank": 2
     },
     {
       "name": "inglaterra fc",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "escuela",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "embargo",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "inglaterra - costa rica",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "portugal",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "portugal fc",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "portugal - nigeria",
       "traffic": "50000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "médico de cabecera",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "mexico vs sudafrica",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
