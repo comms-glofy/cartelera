@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-10T00:30:15Z",
+  "updated": "2026-06-10T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentina fc",
+      "name": "nico paz",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "argentina vs iceland",
-      "traffic": "500+",
+      "name": "mi telefe en vivo",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "argentina - islandia",
-      "traffic": "200000+",
+      "name": "mi telefe",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "ypf",
-      "traffic": "500+",
+      "name": "irak - venezuela",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "alabama",
-      "traffic": "1000+",
+      "name": "brasil - estados unidos",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "19 de junio",
+      "name": "argentina vs iceland",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "senegal - arabia saudita",
-      "traffic": "2000+",
+      "name": "argentina fc",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "manuel adorni",
-      "traffic": "500+",
+      "name": "argentina - islandia",
+      "traffic": "200000+",
       "rank": 8
     },
     {
-      "name": "argentina hoy",
-      "traffic": "50000+",
+      "name": "ypf",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "feriados",
-      "traffic": "1000+",
+      "name": "alabama",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
