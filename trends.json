@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-10T19:00:18Z",
+  "updated": "2026-06-10T19:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "médico de cabecera",
+      "name": "portugal - nigeria",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "médico de cabecera",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
       "name": "mexico vs sudafrica",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "iphone",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tormenta",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "jubilación",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "12 de junio",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "voucher educativo 2026",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "como salio argentina",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "mirgor",
-      "traffic": "500+",
       "rank": 10
     }
   ]
