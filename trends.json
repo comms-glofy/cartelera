@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-11T11:00:16Z",
+  "updated": "2026-06-11T11:25:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ander herrera",
+      "name": "carolina fal",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nba hoy",
-      "traffic": "2000+",
+      "name": "ander herrera",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "suspensión de clases",
-      "traffic": "2000+",
+      "name": "copa mundial de fútbol de 2026",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "momi giardina",
+      "name": "nba hoy",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "adorni",
+      "name": "suspensión de clases",
       "traffic": "2000+",
       "rank": 5
     },
     {
+      "name": "momi giardina",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "adorni",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "graciela borges",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "prime video",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "a que hora empieza el mundial 2026",
-      "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "knicks - spurs",
       "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "bolivia vs argelia",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
