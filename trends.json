@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T23:05:12Z",
+  "updated": "2026-06-11T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "gilberto mora",
+      "name": "raul jimenez",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "pensión",
-      "traffic": "2000+",
+      "name": "gilberto mora",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "sudafrica fc",
-      "traffic": "500+",
+      "name": "pensión",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "indec",
+      "name": "brian gutiérrez",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "mexico vs south africa",
-      "traffic": "5000+",
+      "name": "sudafrica fc",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "alerta meteorológica",
-      "traffic": "5000+",
+      "name": "indec",
+      "traffic": "500+",
       "rank": 10
     }
   ]
