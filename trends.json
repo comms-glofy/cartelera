@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-11T16:00:21Z",
+  "updated": "2026-06-11T16:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "solana sierra",
+      "name": "tyc sports en vivo",
       "traffic": "500+",
       "rank": 1
     },
     {
       "name": "cuando juega argentina en el mundial",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "fifa world cup 2026",
-      "traffic": "1000+",
+      "name": "solana sierra",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "fifa world cup 2026",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "copa mundial de la fifa 2026",
       "traffic": "100000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "level",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "carolina fal",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ander herrera",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nba hoy",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "suspensión de clases",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "momi giardina",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
