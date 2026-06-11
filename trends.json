@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-11T19:00:17Z",
+  "updated": "2026-06-11T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "andrea bocelli",
-      "traffic": "2000+",
+      "name": "quiñones",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "partidos de argentina en el mundial",
+      "name": "mexico vs south africa",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "ochoa",
+      "name": "ejae",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "bet365",
-      "traffic": "2000+",
+      "name": "alerta meteorológica",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "senesi",
-      "traffic": "20000+",
+      "name": "andrea bocelli",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "shakira dai dai",
-      "traffic": "5000+",
+      "name": "salma hayek",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "organización internacional del trabajo",
-      "traffic": "1000+",
+      "name": "memo ochoa",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "mundial 2030",
+      "name": "partidos de argentina en el mundial",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "espn",
+      "name": "bet365",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "paramount plus",
-      "traffic": "1000+",
+      "name": "ochoa",
+      "traffic": "500+",
       "rank": 10
     }
   ]
