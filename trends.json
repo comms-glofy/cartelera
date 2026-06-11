@@ -1,41 +1,41 @@
 {
-  "updated": "2026-06-11T20:30:16Z",
+  "updated": "2026-06-11T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pensión",
+      "name": "selección de fútbol de sudáfrica",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "raúl jiménez",
-      "traffic": "500+",
+      "name": "corea del sur vs republica checa",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "gilberto mora",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "pensión",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "indec",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "quiñones",
       "traffic": "10000+",
-      "rank": 4
-    },
-    {
-      "name": "mexico fc",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "mexico vs south africa",
-      "traffic": "2000+",
       "rank": 6
     },
     {
       "name": "alerta meteorológica",
-      "traffic": "10000+",
+      "traffic": "2000+",
       "rank": 7
     },
     {
