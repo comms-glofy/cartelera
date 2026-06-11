@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-11T11:30:15Z",
+  "updated": "2026-06-11T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "carolina fal",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "mundial de futbol 2026",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "ander herrera",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "copa mundial de fútbol de 2026",
-      "traffic": "5000+",
-      "rank": 3
+      "traffic": "10000+",
+      "rank": 4
     },
     {
       "name": "nba hoy",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "suspensión de clases",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "momi giardina",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "adorni",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "graciela borges",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "prime video",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "knicks - spurs",
-      "traffic": "50000+",
       "rank": 10
     }
   ]
