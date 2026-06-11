@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-11T00:30:15Z",
+  "updated": "2026-06-11T01:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "knicks - spurs",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "inauguracion mundial 2026",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
       "name": "cristiano ronaldo",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "lluvia",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "inglaterra fc",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "escuela",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "embargo",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "inglaterra - costa rica",
       "traffic": "20000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "portugal",
       "traffic": "10000+",
+      "rank": 9
+    },
+    {
+      "name": "portugal fc",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
