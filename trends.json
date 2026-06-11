@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-11T21:30:22Z",
+  "updated": "2026-06-11T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "selección de fútbol de sudáfrica",
-      "traffic": "1000+",
+      "name": "manuel adorni",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "corea del sur vs republica checa",
-      "traffic": "5000+",
+      "name": "empleador",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "corea del sur vs republica checa",
+      "traffic": "10000+",
+      "rank": 3
     },
     {
       "name": "gilberto mora",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pensión",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
-      "name": "brian gutiérrez",
-      "traffic": "500+",
-      "rank": 5
+      "name": "mexico sudafrica 2026",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "indec",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "mexico vs south africa",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "alerta meteorológica",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "andrea bocelli",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "memo ochoa",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "bet365",
-      "traffic": "2000+",
+      "name": "ejae",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
