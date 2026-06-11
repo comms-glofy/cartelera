@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-11T19:30:14Z",
+  "updated": "2026-06-11T20:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiñones",
-      "traffic": "500+",
+      "name": "mi telefe.com",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "mexico vs south africa",
-      "traffic": "1000+",
+      "name": "raúl jiménez",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "quiñones",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "julián andrés quiñones",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "ejae",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "alerta meteorológica",
       "traffic": "10000+",
-      "rank": 4
-    },
-    {
-      "name": "andrea bocelli",
-      "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "salma hayek",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "memo ochoa",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "partidos de argentina en el mundial",
+      "name": "memo ochoa",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "bet365",
+      "name": "andrea bocelli",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "ochoa",
-      "traffic": "500+",
+      "name": "partidos de argentina en el mundial",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
