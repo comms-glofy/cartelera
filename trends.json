@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-11T22:30:15Z",
+  "updated": "2026-06-11T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manuel adorni",
-      "traffic": "5000+",
+      "name": "miguel ángel pichetto",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "manuel adorni",
+      "traffic": "10000+",
+      "rank": 2
     },
     {
       "name": "empleador",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "corea del sur vs republica checa",
-      "traffic": "10000+",
-      "rank": 3
+      "traffic": "20000+",
+      "rank": 4
     },
     {
       "name": "gilberto mora",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pensión",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "sudafrica fc",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "indec",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "alerta meteorológica",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ejae",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "andrea bocelli",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
