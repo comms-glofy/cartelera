@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-11T13:30:19Z",
+  "updated": "2026-06-11T14:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "level",
-      "traffic": "2000+",
+      "name": "copa mundial de la fifa 2026",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "carolina fal",
+      "name": "level",
       "traffic": "2000+",
       "rank": 2
     },
     {
+      "name": "carolina fal",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
       "name": "ander herrera",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "nba hoy",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "suspensión de clases",
-      "traffic": "5000+",
-      "rank": 5
+      "traffic": "50000+",
+      "rank": 6
     },
     {
       "name": "momi giardina",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "adorni",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "graciela borges",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "prime video",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "a que hora empieza el mundial 2026",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
