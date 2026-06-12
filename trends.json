@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-12T21:30:15Z",
+  "updated": "2026-06-12T22:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "congreso",
-      "traffic": "500+",
+      "name": "paraguay fc",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ryan reynolds",
+      "name": "manuel adorni",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "edin džeko",
-      "traffic": "200+",
+      "name": "aguinaldo",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "dazn",
-      "traffic": "100+",
+      "name": "congreso",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "telefe",
+      "name": "ryan reynolds",
       "traffic": "2000+",
       "rank": 5
     },
     {
+      "name": "dazn",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "telefe",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "tyc sports",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tv publica",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "alphonso davies",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "disney",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "disney plus",
+      "name": "alphonso davies",
       "traffic": "1000+",
       "rank": 10
     }
