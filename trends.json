@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-12T10:30:15Z",
+  "updated": "2026-06-12T10:59:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canada fc",
+      "name": "gasly",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "estados unidos vs paraguay",
+      "name": "canada",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "canada vs bosnia",
-      "traffic": "2000+",
+      "name": "canada fc",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cigarette smoke olivia rodrigo",
+      "name": "estados unidos vs paraguay",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "canada vs bosnia",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "cigarette smoke olivia rodrigo",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "ladislav krejčí",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "maggots for brains",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "japon",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "heung min son",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "corea del norte",
-      "traffic": "500+",
+      "name": "korea fc",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "eugenia tobal",
+      "name": "japon",
       "traffic": "1000+",
       "rank": 10
     }
