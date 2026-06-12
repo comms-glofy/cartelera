@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T23:00:16Z",
+  "updated": "2026-06-12T23:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "brasil vs marruecos",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
@@ -19,12 +19,12 @@
       "rank": 3
     },
     {
-      "name": "aguinaldo",
+      "name": "manuel adorni",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "manuel adorni",
+      "name": "aguinaldo",
       "traffic": "2000+",
       "rank": 5
     },
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "dazn",
-      "traffic": "100+",
+      "name": "banco de la nación argentina",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "telefe",
-      "traffic": "2000+",
+      "name": "dazn",
+      "traffic": "100+",
       "rank": 10
     }
   ]
