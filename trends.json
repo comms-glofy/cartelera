@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-12T02:00:15Z",
+  "updated": "2026-06-12T02:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "son heung-min",
+      "name": "kim min-jae",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "korea",
-      "traffic": "5000+",
+      "name": "son",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "estadio akron",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "lee jae-sung",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "lee kang-in",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "patrik schick",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "korea",
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "miguel ángel pichetto",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "manuel adorni",
-      "traffic": "10000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "empleador",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "corea del sur vs republica checa",
-      "traffic": "50000+",
-      "rank": 6
-    },
-    {
-      "name": "gilberto mora",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "pensión",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "sudafrica fc",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "raúl jiménez",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
