@@ -1,51 +1,51 @@
 {
-  "updated": "2026-06-12T03:00:15Z",
+  "updated": "2026-06-12T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corea del norte",
+      "name": "japon",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "japon",
+      "name": "corea del norte",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "kim min-jae",
+      "name": "eugenia tobal",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "son",
-      "traffic": "2000+",
+      "name": "kim min-jae",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "estadio akron",
-      "traffic": "1000+",
+      "name": "son",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "lee jae-sung",
+      "name": "estadio akron",
       "traffic": "1000+",
       "rank": 6
     },
     {
       "name": "lee kang-in",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 7
     },
     {
       "name": "patrik schick",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 8
     },
     {
       "name": "korea",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 9
     },
     {
