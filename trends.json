@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-12T15:30:18Z",
+  "updated": "2026-06-12T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bautista cuiña",
+      "name": "juicio",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "whatsapp web",
-      "traffic": "50000+",
+      "name": "bautista cuiña",
+      "traffic": "200+",
       "rank": 2
     },
     {
       "name": "spcx",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "se cayo instagram",
+      "traffic": "50000+",
+      "rank": 4
     },
     {
       "name": "instagram",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gasly",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "app bna+ no funciona hoy",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "canada",
-      "traffic": "1000+",
       "rank": 7
-    },
-    {
-      "name": "canada fc",
-      "traffic": "200+",
-      "rank": 8
     },
     {
       "name": "estados unidos vs paraguay",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "canada vs bosnia",
       "traffic": "5000+",
+      "rank": 9
+    },
+    {
+      "name": "my way olivia rodrigo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
