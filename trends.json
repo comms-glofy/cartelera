@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T22:30:15Z",
+  "updated": "2026-06-12T22:55:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,12 +19,12 @@
       "rank": 3
     },
     {
-      "name": "manuel adorni",
-      "traffic": "1000+",
+      "name": "aguinaldo",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "aguinaldo",
+      "name": "manuel adorni",
       "traffic": "2000+",
       "rank": 5
     },
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "dazn",
+      "name": "colectivos de buenos aires",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "telefe",
-      "traffic": "2000+",
+      "name": "dazn",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "tyc sports",
-      "traffic": "200+",
+      "name": "telefe",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
