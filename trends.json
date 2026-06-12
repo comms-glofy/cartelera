@@ -1,31 +1,31 @@
 {
-  "updated": "2026-06-12T06:00:16Z",
+  "updated": "2026-06-12T06:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canada",
-      "traffic": "1000+",
-      "rank": 1
-    },
-    {
       "name": "canada fc",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "estados unidos vs paraguay",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
-      "name": "canada vs bosnia",
-      "traffic": "500+",
-      "rank": 4
+      "name": "bosnia",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "cigarette smoke olivia rodrigo",
       "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "ladislav krejčí",
+      "traffic": "500+",
       "rank": 5
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "son",
-      "traffic": "2000+",
+      "name": "kim min-jae",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
