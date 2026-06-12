@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-12T14:12:36Z",
+  "updated": "2026-06-12T14:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "facebook",
+      "traffic": "10000+",
+      "rank": 1
+    },
+    {
+      "name": "se cayo facebook",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "gasly",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "app bna+ no funciona hoy",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "estados unidos vs paraguay",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "canada vs bosnia",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "cigarette smoke olivia rodrigo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "expectations olivia rodrigo",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "my way olivia rodrigo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "ladislav krejčí",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "maggots for brains",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "japon",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
