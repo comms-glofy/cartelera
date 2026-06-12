@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-12T14:30:18Z",
+  "updated": "2026-06-12T15:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "facebook",
-      "traffic": "10000+",
+      "name": "whatsapp web",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "se cayo facebook",
-      "traffic": "1000+",
+      "name": "spcx",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "web whatsapp",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "instagram",
+      "traffic": "10000+",
+      "rank": 4
     },
     {
       "name": "gasly",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "app bna+ no funciona hoy",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "estados unidos vs paraguay",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "canada vs bosnia",
+      "name": "app bna+ no funciona hoy",
       "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "cigarette smoke olivia rodrigo",
+      "name": "estados unidos vs paraguay",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "expectations olivia rodrigo",
-      "traffic": "500+",
+      "name": "canada vs bosnia",
+      "traffic": "5000+",
       "rank": 8
     },
     {
       "name": "my way olivia rodrigo",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "ladislav krejčí",
+      "name": "expectations olivia rodrigo",
       "traffic": "500+",
       "rank": 10
     }
