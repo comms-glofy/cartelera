@@ -1,36 +1,36 @@
 {
-  "updated": "2026-06-12T01:44:22Z",
+  "updated": "2026-06-12T02:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "korea",
-      "traffic": "2000+",
+      "name": "son heung-min",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "korea",
+      "traffic": "5000+",
+      "rank": 2
     },
     {
       "name": "miguel ángel pichetto",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "manuel adorni",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "empleador",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "corea del sur vs republica checa",
       "traffic": "50000+",
-      "rank": 5
-    },
-    {
-      "name": "raul jimenez",
-      "traffic": "1000+",
       "rank": 6
     },
     {
