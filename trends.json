@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-12T21:00:15Z",
+  "updated": "2026-06-12T21:14:54Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "congreso",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "edin džeko",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "dazn",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "telefe",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tyc sports",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tv publica",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "alphonso davies",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "disney",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "disney plus",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "canadá vs. bosnia y herzegovina",
-      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "paramount plus",
-      "traffic": "500+",
+      "name": "dsports",
+      "traffic": "200+",
       "rank": 10
     }
   ]
