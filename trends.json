@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-12T13:00:14Z",
+  "updated": "2026-06-12T13:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "gasly",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
+      "name": "canada vs bosnia",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
       "name": "cigarette smoke olivia rodrigo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "expectations olivia rodrigo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "my way olivia rodrigo",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ladislav krejčí",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "maggots for brains",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "korea fc",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "japon",
+      "name": "korea fc",
       "traffic": "1000+",
       "rank": 10
     }
