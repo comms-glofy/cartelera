@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-12T18:00:15Z",
+  "updated": "2026-06-12T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "discapacidad",
+      "name": "alessia cara",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "discapacidad",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "paraguay vs estados unidos",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "juicio",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "bautista cuiña",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "whatsapp web",
       "traffic": "50000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "spcx",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "whatsapp business",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "instagram",
       "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "gasly",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "app bna+ no funciona hoy",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "canada",
+      "name": "gasly",
       "traffic": "2000+",
       "rank": 10
     }
