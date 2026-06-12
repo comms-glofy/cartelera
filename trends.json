@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-12T02:30:15Z",
+  "updated": "2026-06-12T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kim min-jae",
+      "name": "corea del norte",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "son",
-      "traffic": "1000+",
+      "name": "japon",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "estadio akron",
+      "name": "kim min-jae",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "lee jae-sung",
-      "traffic": "1000+",
+      "name": "son",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "lee kang-in",
+      "name": "estadio akron",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "patrik schick",
+      "name": "lee jae-sung",
       "traffic": "1000+",
       "rank": 6
     },
     {
+      "name": "lee kang-in",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "patrik schick",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "korea",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "miguel ángel pichetto",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "manuel adorni",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "empleador",
-      "traffic": "500+",
       "rank": 10
     }
   ]
