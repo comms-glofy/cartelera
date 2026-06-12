@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-12T04:30:14Z",
+  "updated": "2026-06-12T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canada vs",
-      "traffic": "10000+",
+      "name": "canada fc",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -15,12 +15,12 @@
     },
     {
       "name": "canada vs bosnia",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "ladislav krejčí",
-      "traffic": "500+",
+      "name": "cigarette smoke olivia rodrigo",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "corea del norte",
+      "name": "heung min son",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "eugenia tobal",
-      "traffic": "1000+",
+      "name": "corea del norte",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "kim min-jae",
+      "name": "eugenia tobal",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "son",
-      "traffic": "2000+",
+      "name": "kim min-jae",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "estadio akron",
-      "traffic": "1000+",
+      "name": "son",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
