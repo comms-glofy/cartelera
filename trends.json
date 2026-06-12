@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-12T19:30:16Z",
+  "updated": "2026-06-12T20:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alanis morissette",
+      "name": "telefe",
       "traffic": "2000+",
       "rank": 1
     },
     {
+      "name": "disney plus",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "disney",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "alphonso davies",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "dzeko",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "paramount plus",
       "traffic": "500+",
-      "rank": 2
+      "rank": 6
+    },
+    {
+      "name": "canadá - bosnia y herzegovina",
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "discapacidad",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "paraguay vs estados unidos",
       "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "juicio",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "bautista cuiña",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "whatsapp web",
-      "traffic": "50000+",
-      "rank": 7
-    },
-    {
-      "name": "spcx",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "instagram",
-      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "gasly",
+      "name": "juicio",
       "traffic": "2000+",
       "rank": 10
     }
