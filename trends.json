@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-13T00:00:21Z",
+  "updated": "2026-06-13T00:19:42Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "terremoto",
-      "traffic": "500+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 1
     },
     {
-      "name": "brasil vs marruecos",
+      "name": "luisana lopilato",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "paraguay fc",
+      "name": "terremoto",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "brasil vs marruecos",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "paraguay fc",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "manuel adorni",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "aguinaldo",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "congreso",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ryan reynolds",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "colectivos de buenos aires",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "banco de la nación argentina",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "edin džeko",
+      "name": "colectivos de buenos aires",
       "traffic": "100+",
       "rank": 10
     }
