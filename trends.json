@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-13T11:00:14Z",
+  "updated": "2026-06-13T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mar del plata",
+      "name": "bolivia",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sebastian berhalter",
-      "traffic": "500+",
+      "name": "horarios f1",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "timothy weah",
-      "traffic": "1000+",
+      "name": "clima mar del plata",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tren de aragua",
+      "name": "sebastian berhalter",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "timothy weah",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "tren de aragua",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "paris hilton",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "mistaken identity",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "luis machin",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "argentina vs argelia",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "alex freeman",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "justin trudeau",
-      "traffic": "500+",
       "rank": 10
     }
   ]
