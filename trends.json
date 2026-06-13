@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-13T19:20:37Z",
+  "updated": "2026-06-13T19:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paramount",
+      "name": "paramount plus",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "dgo",
-      "traffic": "10000+",
+      "name": "lopetegui",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "club ciudad de bolívar - deportivo morón",
-      "traffic": "1000+",
+      "name": "paramount",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "dgo",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "club ciudad de bolívar - deportivo morón",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "nueva chicago - chacarita",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "clima buenos aires",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "defensores de belgrano - colón",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "qatar",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "pronostico",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "clima hoy",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "colegiales - san martín de tucumán",
+      "name": "pronostico",
       "traffic": "2000+",
       "rank": 10
     }
