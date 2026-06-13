@@ -1,30 +1,30 @@
 {
-  "updated": "2026-06-13T18:30:12Z",
+  "updated": "2026-06-13T19:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nueva chicago - chacarita",
-      "traffic": "1000+",
+      "name": "club ciudad de bolívar - deportivo morón",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "qatar vs",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "nueva chicago - chacarita",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "clima caba",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "defensores de belgrano - colón",
-      "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "pronostico",
-      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "clima hoy",
+      "name": "defensores de belgrano - colón",
       "traffic": "2000+",
       "rank": 5
     },
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "colegiales - san martín de tucumán",
+      "name": "pronostico",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "mercado cambiario",
-      "traffic": "1000+",
+      "name": "clima hoy",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "pickup",
-      "traffic": "500+",
+      "name": "colegiales - san martín de tucumán",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "lluvia",
-      "traffic": "5000+",
+      "name": "mercado cambiario",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
