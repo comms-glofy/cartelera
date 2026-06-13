@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-13T02:00:13Z",
+  "updated": "2026-06-13T02:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "matt freese",
-      "traffic": "500+",
+      "name": "paris hilton",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "brad pitt",
-      "traffic": "500+",
+      "name": "argentina vs argelia",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "chris richards",
+      "name": "alex freeman",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "balogun",
-      "traffic": "1000+",
+      "name": "matt freese",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "malik tillman",
+      "name": "brad pitt",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "tim ream",
+      "name": "chris richards",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "antonee robinson",
-      "traffic": "500+",
+      "name": "balogun",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "dt de estados unidos",
-      "traffic": "500+",
+      "name": "malik tillman",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "telefe en vivo",
-      "traffic": "10000+",
+      "name": "tim ream",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "bill gates",
-      "traffic": "2000+",
+      "name": "antonee robinson",
+      "traffic": "500+",
       "rank": 10
     }
   ]
