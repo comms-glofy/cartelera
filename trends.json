@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-13T00:19:42Z",
+  "updated": "2026-06-13T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "tyla",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "luisana lopilato",
+      "name": "katy perry",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "terremoto",
-      "traffic": "500+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 3
     },
     {
-      "name": "brasil vs marruecos",
-      "traffic": "1000+",
+      "name": "luisana lopilato",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "paraguay fc",
+      "name": "terremoto",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "brasil vs marruecos",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "paraguay fc",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "manuel adorni",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "aguinaldo",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "congreso",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "ryan reynolds",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "colectivos de buenos aires",
-      "traffic": "100+",
       "rank": 10
     }
   ]
