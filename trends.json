@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-13T19:00:13Z",
+  "updated": "2026-06-13T19:20:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club ciudad de bolívar - deportivo morón",
-      "traffic": "500+",
+      "name": "paramount",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "qatar vs",
-      "traffic": "200+",
+      "name": "dgo",
+      "traffic": "10000+",
       "rank": 2
+    },
+    {
+      "name": "club ciudad de bolívar - deportivo morón",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "nueva chicago - chacarita",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "clima caba",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "defensores de belgrano - colón",
-      "traffic": "2000+",
+      "name": "clima buenos aires",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "qatar",
-      "traffic": "500+",
+      "name": "defensores de belgrano - colón",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "pronostico",
+      "name": "qatar",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "clima hoy",
+      "name": "pronostico",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "colegiales - san martín de tucumán",
+      "name": "clima hoy",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "mercado cambiario",
-      "traffic": "1000+",
+      "name": "colegiales - san martín de tucumán",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
