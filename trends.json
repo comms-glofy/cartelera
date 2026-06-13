@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-13T15:30:15Z",
+  "updated": "2026-06-13T16:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "méxico",
+      "name": "qatar vs suiza",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clasificacion f1",
-      "traffic": "2000+",
+      "name": "méxico",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "clasificacion f1",
+      "traffic": "5000+",
+      "rank": 3
     },
     {
       "name": "san antonio",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "bolivia",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "horarios f1",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima mar del plata",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "gio reyna",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "giovanni reyna",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "sebastian berhalter",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "timothy weah",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
