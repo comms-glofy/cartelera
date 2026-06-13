@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-13T12:00:17Z",
+  "updated": "2026-06-13T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san antonio",
+      "name": "f1 barcelona",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bolivia",
+      "name": "san antonio",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "horarios f1",
+      "name": "bolivia",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "500+",
+      "name": "horarios f1",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "gio reyna",
+      "name": "clima mar del plata",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "reyna",
+      "name": "sebastian berhalter",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "sebastian berhalter",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
       "name": "timothy weah",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "tren de aragua",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "paris hilton",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "mistaken identity",
       "traffic": "2000+",
       "rank": 10
     }
