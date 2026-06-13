@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-13T16:30:15Z",
+  "updated": "2026-06-13T17:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "qatar vs suiza",
+      "name": "australia vs turquía",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "lácteo",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "qatar vs suiza",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "méxico",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "partidos hoy",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "clasificacion f1",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "san antonio",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "bolivia",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "horarios f1",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "clima mar del plata",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "gio reyna",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "reyna jugador",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "sebastian berhalter",
+      "name": "clima mar del plata",
       "traffic": "500+",
       "rank": 10
     }
