@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T17:52:32Z",
+  "updated": "2026-06-13T18:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "pickup",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "lluvia",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "australia vs turquía",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "lácteo",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "qatar vs suiza",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "brasil",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "méxico",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "partidos hoy",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "clasificacion f1",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "san antonio",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
