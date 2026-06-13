@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-13T02:30:17Z",
+  "updated": "2026-06-13T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paris hilton",
-      "traffic": "1000+",
+      "name": "sebastian berhalter",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "giovanni reyna",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "timothy weah",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "paris hilton",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "mistaken identity",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "luis machin",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "argentina vs argelia",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "alex freeman",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "matt freese",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "brad pitt",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "chris richards",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "balogun",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "malik tillman",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "tim ream",
+      "name": "justin trudeau",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "antonee robinson",
+      "name": "brad pitt",
       "traffic": "500+",
       "rank": 10
     }
