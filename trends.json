@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-13T23:00:15Z",
+  "updated": "2026-06-13T23:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paqueta",
+      "name": "maxi lópez",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "travis scott",
-      "traffic": "500+",
+      "name": "paqueta",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "bruno guimarães",
+      "name": "travis scott",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "ronaldinho",
-      "traffic": "500+",
+      "name": "mazraoui",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "ronaldinho",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "bruno guimarães",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "tom brady",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "noussair mazraoui",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "mitelefe.com",
-      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "yassine bounou",
+      "name": "gisele bündchen",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "lamine yamal",
+      "name": "mitelefe.com",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "gisele bündchen",
+      "name": "yassine bounou",
       "traffic": "500+",
       "rank": 10
     }
