@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-13T21:00:17Z",
+  "updated": "2026-06-13T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "9z",
+      "name": "quiebra",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "iprofesional",
-      "traffic": "2000+",
+      "name": "brazil",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "paramount plus",
-      "traffic": "1000+",
+      "name": "9z",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "iprofesional",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "lopetegui",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "paramount plus",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "paramount",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "club ciudad de bolívar - deportivo morón",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "alfaro",
-      "traffic": "200000+",
-      "rank": 7
-    },
-    {
-      "name": "nueva chicago - chacarita",
-      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "defensores de belgrano - colón",
-      "traffic": "10000+",
+      "name": "qatar vs",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "qatar",
-      "traffic": "10000+",
+      "name": "alfaro",
+      "traffic": "100000+",
       "rank": 10
     }
   ]
