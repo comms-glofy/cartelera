@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-13T00:30:15Z",
+  "updated": "2026-06-13T01:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tyla",
+      "name": "tom cruise",
       "traffic": "500+",
       "rank": 1
     },
     {
       "name": "katy perry",
-      "traffic": "500+",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "tyla",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "luisana lopilato",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "terremoto",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "brasil vs marruecos",
+      "name": "terremoto",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "paraguay fc",
-      "traffic": "500+",
+      "name": "brasil vs marruecos",
+      "traffic": "1000+",
       "rank": 7
+    },
+    {
+      "name": "paraguay fc",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "manuel adorni",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "aguinaldo",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "congreso",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
