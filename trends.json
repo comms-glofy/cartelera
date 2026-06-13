@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T17:00:14Z",
+  "updated": "2026-06-13T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "brasil",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
       "name": "méxico",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "partidos hoy",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clasificacion f1",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "san antonio",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "bolivia",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "horarios f1",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "clima mar del plata",
-      "traffic": "500+",
       "rank": 10
     }
   ]
