@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T20:30:14Z",
+  "updated": "2026-06-13T20:47:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,13 +9,13 @@
       "rank": 1
     },
     {
-      "name": "paramount plus",
+      "name": "lopetegui",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "lopetegui",
-      "traffic": "500+",
+      "name": "paramount plus",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "nueva chicago - chacarita",
-      "traffic": "5000+",
+      "name": "qatar vs",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "clima caba",
-      "traffic": "500+",
+      "name": "alfaro",
+      "traffic": "200000+",
       "rank": 7
+    },
+    {
+      "name": "nueva chicago - chacarita",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "defensores de belgrano - colón",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "qatar",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
