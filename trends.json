@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T12:30:17Z",
+  "updated": "2026-06-14T13:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "formula 1",
-      "traffic": "2000+",
+      "name": "f1",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "paolo rocca",
+      "name": "a que hora es la carrera de f1",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pierre gasly",
-      "traffic": "2000+",
+      "name": "paolo rocca",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "club atlético boca juniors",
-      "traffic": "1000+",
+      "name": "fifa",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "pierre gasly",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "club atlético boca juniors",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "harry souttar",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "kenan yıldız",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "arda guler",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "mohamed touré",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "barış alper yılmaz",
+      "name": "calhanoglu",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "kerem aktürkoğlu",
-      "traffic": "500+",
+      "name": "nestory irankunda",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
