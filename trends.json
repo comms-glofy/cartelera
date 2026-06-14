@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T16:30:13Z",
+  "updated": "2026-06-14T16:54:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paises bajos vs japon",
+      "name": "donde queda curazao",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "conicet",
+      "name": "cucurella",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "kim kardashian",
-      "traffic": "500+",
+      "name": "paises bajos vs japon",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "lando norris",
-      "traffic": "500+",
+      "name": "conicet",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "russell",
+      "name": "kim kardashian",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "george russell",
-      "traffic": "200+",
+      "name": "lando norris",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "antonelli",
+      "name": "russell",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "colapinto",
-      "traffic": "10000+",
+      "name": "antonelli",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "dia del padre 2026",
-      "traffic": "2000+",
+      "name": "hamilton",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "f1",
-      "traffic": "20000+",
+      "name": "colapinto",
+      "traffic": "50000+",
       "rank": 10
     }
   ]
