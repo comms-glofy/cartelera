@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T01:00:13Z",
+  "updated": "2026-06-14T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "prime video",
-      "traffic": "1000+",
+      "name": "mctominay",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "knicks vs spurs",
-      "traffic": "1000+",
+      "name": "marley",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "spurs - knicks",
+      "name": "spurs vs knicks",
       "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "haiti fc",
-      "traffic": "500+",
+      "name": "prime video",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "ufc",
-      "traffic": "1000+",
+      "name": "spurs - knicks",
+      "traffic": "10000+",
       "rank": 5
     },
     {
-      "name": "curazao",
-      "traffic": "1000+",
+      "name": "haiti fc",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "edinson cavani",
-      "traffic": "500+",
+      "name": "ufc",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "argentina vs argelia",
+      "name": "curazao",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "haiti vs escocia",
-      "traffic": "20000+",
+      "name": "edinson cavani",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "bono",
-      "traffic": "1000+",
+      "name": "argentina vs argelia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
