@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T14:30:19Z",
+  "updated": "2026-06-14T15:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia del padre 2026",
+      "name": "lewis hamilton",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "f1",
-      "traffic": "20000+",
+      "name": "antonelli",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "hamilton",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "dia del padre 2026",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "f1",
+      "traffic": "50000+",
+      "rank": 5
     },
     {
       "name": "a que hora es la carrera de f1",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "paolo rocca",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "club atlético boca juniors",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "pierre gasly",
-      "traffic": "2000+",
-      "rank": 6
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "harry souttar",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "kenan yıldız",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "arda guler",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "mohamed touré",
-      "traffic": "500+",
       "rank": 10
     }
   ]
