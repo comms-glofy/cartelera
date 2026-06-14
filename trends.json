@@ -1,46 +1,46 @@
 {
-  "updated": "2026-06-14T05:00:15Z",
+  "updated": "2026-06-14T05:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "irankunda",
+      "name": "mohamed touré",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "nestory irankunda",
-      "traffic": "1000+",
+      "name": "barış alper yılmaz",
+      "traffic": "500+",
       "rank": 2
     },
     {
       "name": "arda guler",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "barış alper yılmaz",
-      "traffic": "200+",
+      "name": "kerem aktürkoğlu",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "kerem aktürkoğlu",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
       "name": "arda güler",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "vancouver",
       "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "victor wembanyama",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "australia fc",
-      "traffic": "200+",
+      "name": "topuria",
+      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "nba hoy",
-      "traffic": "2000+",
+      "name": "australia vs",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
