@@ -1,25 +1,25 @@
 {
-  "updated": "2026-06-14T13:00:16Z",
+  "updated": "2026-06-14T13:12:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "f1",
-      "traffic": "10000+",
+      "traffic": "5000+",
       "rank": 1
     },
     {
       "name": "a que hora es la carrera de f1",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "paolo rocca",
-      "traffic": "500+",
+      "name": "formula 1",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "fifa",
+      "name": "paolo rocca",
       "traffic": "500+",
       "rank": 4
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "nestory irankunda",
-      "traffic": "2000+",
+      "name": "arda guler",
+      "traffic": "500+",
       "rank": 10
     }
   ]
