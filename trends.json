@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T22:00:15Z",
+  "updated": "2026-06-14T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kubo",
+      "name": "ciclogénesis",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "summerville",
-      "traffic": "500+",
+      "name": "suecia vs tunez",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "información personal",
-      "traffic": "500+",
+      "name": "memphis depay",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "eugenio raúl zaffaroni",
+      "name": "kubo",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "u. católica - univ. concepción",
-      "traffic": "5000+",
+      "name": "información personal",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "crysencio summerville",
+      "name": "eugenio raúl zaffaroni",
       "traffic": "1000+",
       "rank": 6
     },
     {
+      "name": "u. católica - univ. concepción",
+      "traffic": "5000+",
+      "rank": 7
+    },
+    {
+      "name": "crysencio summerville",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "jan paul van hecke",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "suzuki arquero",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "takefusa kubo",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "mitoma",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
