@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T19:00:20Z",
+  "updated": "2026-06-14T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing de córdoba - chaco for ever",
+      "name": "temperley - atlético güemes",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "twitch",
-      "traffic": "1000+",
+      "name": "lucas frota",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "patronato - atlético rafaela",
+      "name": "holanda",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "estudiantes - all boys",
-      "traffic": "500+",
+      "name": "racing de córdoba - chaco for ever",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "ecuador vs",
+      "name": "twitch",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "gaspi",
-      "traffic": "200000+",
+      "name": "patronato - atlético rafaela",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "oliver tree",
-      "traffic": "50000+",
+      "name": "ecuador vs",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "deportivo madryn - san miguel",
+      "name": "estudiantes - all boys",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "julián alvarez",
-      "traffic": "500+",
+      "name": "gaspi",
+      "traffic": "500000+",
       "rank": 9
     },
     {
-      "name": "nicole neumann",
-      "traffic": "500+",
+      "name": "oliver tree",
+      "traffic": "100000+",
       "rank": 10
     }
   ]
