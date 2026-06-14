@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T08:13:17Z",
+  "updated": "2026-06-14T08:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "vancouver",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
       "name": "australia fc",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "victor wembanyama",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "australia",
-      "traffic": "5000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "australia vs",
-      "traffic": "10000+",
+      "traffic": "20000+",
+      "rank": 8
+    },
+    {
+      "name": "nba hoy",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "jean-ricner bellegarde",
+      "traffic": "500+",
       "rank": 10
     }
   ]
