@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T19:30:14Z",
+  "updated": "2026-06-14T20:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "temperley - atlético güemes",
-      "traffic": "500+",
+      "name": "mundial 2026 partidos",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "lucas frota",
+      "name": "central norte - san telmo",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "holanda",
+      "name": "selección de fútbol de portugal",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "racing de córdoba - chaco for ever",
-      "traffic": "1000+",
+      "name": "países bajos - japón",
+      "traffic": "20000+",
       "rank": 4
     },
     {
-      "name": "twitch",
-      "traffic": "2000+",
+      "name": "temperley - atlético güemes",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "patronato - atlético rafaela",
+      "name": "holanda",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "ecuador vs",
-      "traffic": "5000+",
+      "name": "lucas frota",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "estudiantes - all boys",
-      "traffic": "1000+",
+      "name": "racing de córdoba - chaco for ever",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "gaspi",
-      "traffic": "500000+",
+      "name": "ferro - acassuso",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "oliver tree",
-      "traffic": "100000+",
+      "name": "twitch",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
