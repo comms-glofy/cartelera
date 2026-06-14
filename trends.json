@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T20:30:12Z",
+  "updated": "2026-06-14T21:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "suzuki arquero",
+      "name": "crysencio summerville",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "daizen maeda",
+      "name": "jan paul van hecke",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "takefusa kubo",
-      "traffic": "500+",
+      "name": "suzuki arquero",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "fernando alonso",
+      "name": "takefusa kubo",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "zion suzuki",
-      "traffic": "2000+",
+      "name": "mitoma",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "deportivo maipú - tristán suárez",
+      "name": "fernando alonso",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "mundial 2026 partidos",
-      "traffic": "10000+",
+      "name": "zion suzuki",
+      "traffic": "2000+",
       "rank": 7
+    },
+    {
+      "name": "deportivo maipú - tristán suárez",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "mundial 2026 partidos",
+      "traffic": "20000+",
+      "rank": 9
     },
     {
       "name": "central norte - san telmo",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "selección de fútbol de portugal",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "países bajos - japón",
-      "traffic": "50000+",
       "rank": 10
     }
   ]
