@@ -1,25 +1,25 @@
 {
-  "updated": "2026-06-14T11:00:12Z",
+  "updated": "2026-06-14T11:12:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "f1 barcelona",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
       "name": "pierre gasly",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "club atlético boca juniors",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "harry souttar",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "kenan yıldız",
+      "name": "harry souttar",
       "traffic": "200+",
       "rank": 4
     },
