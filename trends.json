@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T18:30:15Z",
+  "updated": "2026-06-14T19:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estudiantes - all boys",
+      "name": "racing de córdoba - chaco for ever",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ecuador vs",
-      "traffic": "2000+",
+      "name": "twitch",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "gaspi",
-      "traffic": "50000+",
+      "name": "patronato - atlético rafaela",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "oliver tree",
-      "traffic": "10000+",
+      "name": "estudiantes - all boys",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "deportivo madryn - san miguel",
-      "traffic": "500+",
+      "name": "ecuador vs",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "gaspi",
+      "traffic": "200000+",
+      "rank": 6
+    },
+    {
+      "name": "oliver tree",
+      "traffic": "50000+",
+      "rank": 7
+    },
+    {
+      "name": "deportivo madryn - san miguel",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "julián alvarez",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "nicole neumann",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "cuántos habitantes tiene curazao",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "sane",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "futbol libre telefe",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
