@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T21:30:16Z",
+  "updated": "2026-06-14T21:50:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "van dijk",
-      "traffic": "1000+",
+      "name": "kubo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "eugenio raúl zaffaroni",
+      "name": "información personal",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "u. católica - univ. concepción",
-      "traffic": "2000+",
+      "name": "eugenio raúl zaffaroni",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "crysencio summerville",
-      "traffic": "500+",
+      "name": "u. católica - univ. concepción",
+      "traffic": "5000+",
       "rank": 4
+    },
+    {
+      "name": "crysencio summerville",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "jan paul van hecke",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "suzuki arquero",
-      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "keito nakamura",
+      "name": "suzuki arquero",
       "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "takefusa kubo",
-      "traffic": "1000+",
+      "name": "keito nakamura",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "fernando alonso",
+      "name": "takefusa kubo",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "zion suzuki",
-      "traffic": "5000+",
+      "name": "fernando alonso",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
