@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-14T11:30:13Z",
+  "updated": "2026-06-14T12:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1 barcelona",
-      "traffic": "5000+",
+      "name": "paolo rocca",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pierre gasly",
-      "traffic": "500+",
+      "name": "f1 barcelona",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "club atlético boca juniors",
-      "traffic": "200+",
+      "name": "pierre gasly",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "club atlético boca juniors",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "harry souttar",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "kenan yıldız",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mohamed touré",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "barış alper yılmaz",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "kerem aktürkoğlu",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "arda güler",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "vancouver",
+      "name": "arda güler",
       "traffic": "1000+",
       "rank": 10
     }
