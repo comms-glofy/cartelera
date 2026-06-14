@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-14T00:30:13Z",
+  "updated": "2026-06-14T01:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ufc",
+      "name": "prime video",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "curazao",
+      "name": "knicks vs spurs",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "argentina vs argelia",
-      "traffic": "2000+",
+      "name": "spurs - knicks",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "edinson cavani",
+      "name": "haiti fc",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "haiti",
-      "traffic": "10000+",
+      "name": "ufc",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "zidane",
+      "name": "curazao",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "bono",
-      "traffic": "1000+",
+      "name": "edinson cavani",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "danilo santos",
-      "traffic": "500+",
+      "name": "argentina vs argelia",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "matheus cunha",
-      "traffic": "500+",
+      "name": "haiti vs escocia",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "maxi lópez",
+      "name": "bono",
       "traffic": "1000+",
       "rank": 10
     }
