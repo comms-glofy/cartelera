@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-14T22:30:15Z",
+  "updated": "2026-06-14T23:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ufc casa blanca",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "ciclogénesis",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "suecia vs tunez",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "memphis depay",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "kubo",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "información personal",
+      "name": "paises bajos fc",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "eugenio raúl zaffaroni",
+      "name": "información personal",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "u. católica - univ. concepción",
-      "traffic": "5000+",
+      "name": "kubo",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "crysencio summerville",
-      "traffic": "1000+",
+      "name": "summerville",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "jan paul van hecke",
-      "traffic": "500+",
+      "name": "eugenio raúl zaffaroni",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "suzuki arquero",
+      "name": "u. católica - univ. concepción",
       "traffic": "5000+",
       "rank": 10
     }
