@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-14T02:30:14Z",
+  "updated": "2026-06-14T03:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "spurs",
-      "traffic": "2000+",
+      "name": "san antonio spurs",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -14,8 +14,8 @@
       "rank": 2
     },
     {
-      "name": "mcginn",
-      "traffic": "500+",
+      "name": "knicks",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "rod stewart",
-      "traffic": "2000+",
+      "name": "nba",
+      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "nba finals",
-      "traffic": "1000+",
+      "name": "rod stewart",
+      "traffic": "5000+",
       "rank": 7
+    },
+    {
+      "name": "nba finals",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "mctominay",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "marley",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "che adams",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
