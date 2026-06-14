@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T00:00:17Z",
+  "updated": "2026-06-14T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "zidane",
+      "name": "ufc",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "bono",
+      "name": "curazao",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "matheus cunha",
-      "traffic": "500+",
+      "name": "argentina vs argelia",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "maxi lópez",
+      "name": "edinson cavani",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "paqueta",
-      "traffic": "1000+",
+      "name": "haiti",
+      "traffic": "10000+",
       "rank": 5
     },
     {
-      "name": "mazraoui",
+      "name": "zidane",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "travis scott",
-      "traffic": "500+",
+      "name": "bono",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "tom brady",
-      "traffic": "2000+",
+      "name": "danilo santos",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "gisele bündchen",
+      "name": "matheus cunha",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "mitelefe.com",
-      "traffic": "500+",
+      "name": "maxi lópez",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
