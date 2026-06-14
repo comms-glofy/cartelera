@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-14T23:00:15Z",
+  "updated": "2026-06-14T23:05:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ufc casa blanca",
-      "traffic": "2000+",
+      "name": "enner valencia",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ciclogénesis",
+      "name": "ufc casa blanca",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "suecia vs tunez",
-      "traffic": "1000+",
+      "name": "ciclogénesis",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "memphis depay",
-      "traffic": "2000+",
+      "name": "suecia vs tunez",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "paises bajos fc",
-      "traffic": "500+",
+      "name": "posiciones de central norte contra club atlético san telmo",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "información personal",
+      "name": "memphis depay",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "kubo",
+      "name": "paises bajos fc",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "summerville",
-      "traffic": "500+",
+      "name": "información personal",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "eugenio raúl zaffaroni",
-      "traffic": "1000+",
+      "name": "kubo",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "u. católica - univ. concepción",
-      "traffic": "5000+",
+      "name": "summerville",
+      "traffic": "500+",
       "rank": 10
     }
   ]
