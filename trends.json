@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-14T23:05:24Z",
+  "updated": "2026-06-14T23:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "enner valencia",
-      "traffic": "500+",
+      "name": "tati almeida",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "ufc casa blanca",
-      "traffic": "500+",
+      "name": "enner valencia",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "ciclogénesis",
-      "traffic": "500+",
+      "name": "ufc casa blanca",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "suecia vs tunez",
+      "name": "ciclogénesis",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "posiciones de central norte contra club atlético san telmo",
-      "traffic": "1000+",
+      "name": "suecia vs tunez",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "posiciones de central norte contra club atlético san telmo",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "memphis depay",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "paises bajos fc",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "información personal",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "kubo",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "summerville",
+      "name": "kubo",
       "traffic": "500+",
       "rank": 10
     }
