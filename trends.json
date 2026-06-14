@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T14:00:15Z",
+  "updated": "2026-06-14T14:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "f1",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 2
     },
     {
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
-      "name": "formula 1",
-      "traffic": "10000+",
-      "rank": 4
-    },
-    {
       "name": "paolo rocca",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "club atlético boca juniors",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "pierre gasly",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "harry souttar",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "kenan yıldız",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "arda guler",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "calhanoglu",
+      "name": "mohamed touré",
       "traffic": "500+",
       "rank": 10
     }
