@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-14T20:00:20Z",
+  "updated": "2026-06-14T20:05:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mundial 2026 partidos",
-      "traffic": "10000+",
+      "name": "zion suzuki",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "central norte - san telmo",
+      "name": "deportivo maipú - tristán suárez",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "selección de fútbol de portugal",
-      "traffic": "500+",
+      "name": "mundial 2026 partidos",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "países bajos - japón",
-      "traffic": "20000+",
+      "name": "central norte - san telmo",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "selección de fútbol de portugal",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "países bajos - japón",
+      "traffic": "50000+",
+      "rank": 6
     },
     {
       "name": "temperley - atlético güemes",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "holanda",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "lucas frota",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "racing de córdoba - chaco for ever",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "ferro - acassuso",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "twitch",
+      "name": "racing de córdoba - chaco for ever",
       "traffic": "2000+",
       "rank": 10
     }
