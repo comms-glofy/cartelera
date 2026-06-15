@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T06:00:23Z",
+  "updated": "2026-06-15T06:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "pelea topuria",
+      "traffic": "20000+",
+      "rank": 5
+    },
+    {
       "name": "khedira",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "alex pereira",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sean o'malley",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "falcon perez",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lindelof",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "josh hokit",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
