@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-15T17:30:23Z",
+  "updated": "2026-06-15T18:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argelia",
+      "name": "nico williams",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "arquero de cabo verde",
-      "traffic": "500+",
+      "name": "dani olmo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rodri",
-      "traffic": "200+",
+      "name": "grupo de españa",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lamine yamal juega el mundial 2026",
+      "name": "francia vs senegal",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "flow",
-      "traffic": "5000+",
+      "name": "arquero de cabo verde",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "directv go",
-      "traffic": "500+",
+      "name": "rodri",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "flow",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "roberto lopes",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "tarjeta roja futbol",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "llorente",
+      "name": "directv go",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fabián ruiz peña",
+      "name": "tarjeta roja futbol",
       "traffic": "200+",
       "rank": 10
     }
