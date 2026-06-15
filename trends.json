@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T11:00:24Z",
+  "updated": "2026-06-15T11:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ola de calor",
-      "traffic": "200+",
+      "name": "azúcar",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "asignación universal por hijo",
+      "name": "quini6",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "15 de junio es feriado en argentina",
+      "name": "ola de calor",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "islam makhachev",
-      "traffic": "200+",
+      "name": "asignación universal por hijo",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "mcgregor",
-      "traffic": "200+",
+      "name": "15 de junio es feriado en argentina",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "donald trump",
+      "name": "islam makhachev",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "georgia",
+      "name": "mcgregor",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lucas bergvall",
+      "name": "donald trump",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "khedira",
-      "traffic": "500+",
+      "name": "georgia",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "alex pereira",
-      "traffic": "5000+",
+      "name": "lucas bergvall",
+      "traffic": "200+",
       "rank": 10
     }
   ]
