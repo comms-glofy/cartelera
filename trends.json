@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-15T20:00:21Z",
+  "updated": "2026-06-15T20:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "trossard",
+      "name": "unión tranviarios automotor",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ansu fati",
+      "name": "fernando muslera",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "salah jugador",
+      "name": "trossard",
       "traffic": "200+",
       "rank": 3
     },
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "leandro trossard",
+      "name": "salah jugador",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "mostafa shobeir",
+      "name": "ansu fati",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "emam ashour",
-      "traffic": "5000+",
+      "name": "leandro trossard",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "marmoush",
+      "name": "mostafa shobeir",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "thibaut courtois",
-      "traffic": "200+",
+      "name": "emam ashour",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "nathan ngoy",
-      "traffic": "200+",
+      "name": "belgium vs egypt",
+      "traffic": "500+",
       "rank": 10
     }
   ]
