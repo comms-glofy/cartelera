@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-15T15:30:26Z",
+  "updated": "2026-06-15T16:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "belgica vs egipto",
+      "name": "spain vs cabo verde",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "lamine yamal",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "quiniela de tucumán",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "belgica vs egipto",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "españa - cabo verde",
+      "traffic": "100000+",
+      "rank": 5
+    },
+    {
       "name": "argentina vs argelia",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "quiniela de mendoza",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "quiniela de hoy",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "uruguay vs",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "kansas city",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "gobernador",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "la libertad avanza",
+      "name": "quiniela mundial",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "la nación",
-      "traffic": "500+",
+      "name": "quiniela de hoy",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "guemes",
+      "name": "uruguay vs",
       "traffic": "2000+",
       "rank": 10
     }
