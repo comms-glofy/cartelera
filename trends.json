@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T03:00:23Z",
+  "updated": "2026-06-15T03:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "falcon perez",
+      "name": "khedira",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "lindelof",
-      "traffic": "200+",
+      "name": "sean o'malley",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "isak",
+      "name": "alex pereira",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "derrick lewis",
-      "traffic": "2000+",
+      "name": "falcon perez",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "hannibal mejbri",
-      "traffic": "500+",
+      "name": "lindelof",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "borges",
-      "traffic": "500+",
+      "name": "isak",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "ayari",
+      "name": "derrick lewis",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "mauricio ruffy",
+      "name": "borges",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "gyokeres",
-      "traffic": "500+",
+      "name": "hannibal mejbri",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "alexander isak",
-      "traffic": "1000+",
+      "name": "yasin ayari",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
