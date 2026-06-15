@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T02:30:16Z",
+  "updated": "2026-06-15T03:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hannibal mejbri",
+      "name": "falcon perez",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "borges",
-      "traffic": "500+",
+      "name": "lindelof",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "derrick lewis",
+      "name": "isak",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "yasin ayari",
-      "traffic": "5000+",
+      "name": "derrick lewis",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "hannibal mejbri",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "borges",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "ayari",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "mauricio ruffy",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "bo nickal",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "andrea del boca",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "diego lopes",
-      "traffic": "1000+",
+      "name": "gyokeres",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "drogba",
-      "traffic": "500+",
+      "name": "alexander isak",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
