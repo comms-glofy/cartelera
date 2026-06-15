@@ -1,30 +1,30 @@
 {
-  "updated": "2026-06-15T00:30:14Z",
+  "updated": "2026-06-15T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ecuador vs guatemala",
+      "name": "ufc freedom 250",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "ecuador vs guatemala",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "caicedo",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "doue",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "franck kessié",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "diomande",
+      "name": "franck kessié",
       "traffic": "500+",
       "rank": 5
     },
@@ -35,7 +35,7 @@
     },
     {
       "name": "yan diomande",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 7
     },
     {
