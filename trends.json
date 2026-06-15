@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T23:00:21Z",
+  "updated": "2026-06-15T23:20:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "saudi arabia vs uruguay world cup 2026",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "mundial 2022",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "maxi araujo",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "porque uruguay tiene 4 estrellas",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mohammed al-owais",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "argentina mañana",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "luis suarez",
-      "traffic": "200+",
+      "name": "argentina mañana",
+      "traffic": "500+",
       "rank": 6
-    },
-    {
-      "name": "federico valverde",
-      "traffic": "200+",
-      "rank": 7
     },
     {
       "name": "calor",
       "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "federico valverde",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "darwin nuñez",
+      "name": "luis suarez",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "araujo",
-      "traffic": "1000+",
+      "name": "darwin nuñez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
