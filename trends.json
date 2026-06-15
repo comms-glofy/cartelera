@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T08:30:15Z",
+  "updated": "2026-06-15T09:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "georgia",
+      "name": "donald trump",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lucas bergvall",
+      "name": "georgia",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "khedira",
-      "traffic": "500+",
+      "name": "lucas bergvall",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "alex pereira",
+      "name": "españa vs cabo verde",
       "traffic": "5000+",
       "rank": 6
     },
     {
+      "name": "khedira",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "alex pereira",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
       "name": "sean o'malley",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "falcon perez",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "josh hokit",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "borges",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
