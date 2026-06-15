@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T10:30:19Z",
+  "updated": "2026-06-15T11:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "asignación universal por hijo",
+      "name": "ola de calor",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "feriado 15 de junio",
-      "traffic": "100+",
+      "name": "asignación universal por hijo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "el niño",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
       "name": "15 de junio es feriado en argentina",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "islam makhachev",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "mcgregor",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "donald trump",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "georgia",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "lucas bergvall",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "khedira",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "españa vs cabo verde",
-      "traffic": "10000+",
+      "name": "alex pereira",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
