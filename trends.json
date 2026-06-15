@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T18:00:25Z",
+  "updated": "2026-06-15T18:23:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nico williams",
+      "name": "fin de semana",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "dani olmo",
+      "name": "uruguay fc",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "grupo de españa",
-      "traffic": "100+",
+      "name": "cano verde",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "francia vs senegal",
-      "traffic": "100+",
+      "name": "dani olmo",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "arquero de cabo verde",
-      "traffic": "1000+",
+      "name": "nico williams",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "rodri",
-      "traffic": "200+",
+      "name": "nicki nicole",
+      "traffic": "50000+",
       "rank": 6
     },
     {
-      "name": "flow",
-      "traffic": "5000+",
+      "name": "porque no juega lamine yamal",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "roberto lopes",
-      "traffic": "200+",
+      "name": "francia vs senegal",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "directv go",
-      "traffic": "500+",
+      "name": "arquero de cabo verde",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "tarjeta roja futbol",
-      "traffic": "200+",
+      "name": "rodri",
+      "traffic": "500+",
       "rank": 10
     }
   ]
