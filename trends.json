@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T22:00:17Z",
+  "updated": "2026-06-15T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "darwin núñez",
+      "name": "araujo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tom holland",
-      "traffic": "200+",
+      "name": "ksa",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "muslera",
-      "traffic": "1000+",
+      "name": "sebastián cáceres",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "djalminha",
-      "traffic": "500+",
+      "name": "mathías olivera",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "iran",
-      "traffic": "200+",
+      "name": "seleccion uruguaya",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "colombia",
+      "name": "forlan",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "multa",
+      "name": "tom holland",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "iran vs",
-      "traffic": "200+",
+      "name": "muslera",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "uruguay arabia",
+      "name": "djalminha",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "iran vs nueva zelanda",
-      "traffic": "500+",
+      "name": "iran",
+      "traffic": "200+",
       "rank": 10
     }
   ]
