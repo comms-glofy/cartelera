@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T01:00:15Z",
+  "updated": "2026-06-15T01:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ufc freedom 250",
+      "name": "diego lopes",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ecuador vs guatemala",
+      "name": "drogba",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "caicedo",
+      "name": "amad diallo",
       "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "doue",
+      "name": "ufc freedom 250",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "franck kessié",
-      "traffic": "500+",
+      "name": "ecuador vs guatemala",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "pacho",
-      "traffic": "500+",
+      "name": "caicedo",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "yan diomande",
-      "traffic": "2000+",
+      "name": "doue",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "tati almeida",
-      "traffic": "2000+",
+      "name": "franck kessié",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "enner valencia",
+      "name": "diomande",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "ciclogénesis",
-      "traffic": "1000+",
+      "name": "pacho",
+      "traffic": "500+",
       "rank": 10
     }
   ]
