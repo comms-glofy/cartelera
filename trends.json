@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T12:00:24Z",
+  "updated": "2026-06-15T12:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gobernador",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "la libertad avanza",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "juez",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "guemes",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "azúcar",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "quini6",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "ola de calor",
-      "traffic": "500+",
+      "name": "azúcar",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "asignación universal por hijo",
+      "name": "quini6",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "hoy es feriado",
-      "traffic": "2000+",
+      "name": "ola de calor",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "juan carlos de pablo",
-      "traffic": "1000+",
+      "name": "asignación universal por hijo",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "islam makhachev",
-      "traffic": "200+",
+      "name": "hoy es feriado",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "mcgregor",
-      "traffic": "200+",
+      "name": "juan carlos de pablo",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
