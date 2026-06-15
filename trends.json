@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-15T11:30:23Z",
+  "updated": "2026-06-15T12:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "azúcar",
-      "traffic": "100+",
+      "name": "juez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "quini6",
+      "name": "guemes",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "azúcar",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "quini6",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "ola de calor",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "asignación universal por hijo",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
-      "name": "15 de junio es feriado en argentina",
+      "name": "hoy es feriado",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "juan carlos de pablo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "islam makhachev",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "mcgregor",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "donald trump",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "georgia",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lucas bergvall",
+      "name": "mcgregor",
       "traffic": "200+",
       "rank": 10
     }
