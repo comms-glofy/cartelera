@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T10:00:27Z",
+  "updated": "2026-06-15T10:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "islam makhachev",
+      "name": "asignación universal por hijo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mcgregor",
-      "traffic": "200+",
+      "name": "feriado 15 de junio",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "donald trump",
-      "traffic": "200+",
+      "name": "el niño",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "georgia",
+      "name": "15 de junio es feriado en argentina",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lucas bergvall",
+      "name": "islam makhachev",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "españa vs cabo verde",
-      "traffic": "2000+",
+      "name": "mcgregor",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "khedira",
-      "traffic": "500+",
+      "name": "donald trump",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "alex pereira",
-      "traffic": "2000+",
+      "name": "georgia",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sean o'malley",
-      "traffic": "2000+",
+      "name": "lucas bergvall",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "falcon perez",
-      "traffic": "500+",
+      "name": "españa vs cabo verde",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
