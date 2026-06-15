@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-15T18:23:01Z",
+  "updated": "2026-06-15T18:32:45Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "fin de semana",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "uruguay fc",
+      "name": "grupo h",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cano verde",
+      "name": "uruguay fc",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "dani olmo",
-      "traffic": "500+",
+      "name": "cano verde",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "nicki nicole",
-      "traffic": "50000+",
+      "name": "dani olmo",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "porque no juega lamine yamal",
-      "traffic": "200+",
+      "name": "nicki nicole",
+      "traffic": "50000+",
       "rank": 7
-    },
-    {
-      "name": "francia vs senegal",
-      "traffic": "1000+",
-      "rank": 8
     },
     {
       "name": "arquero de cabo verde",
       "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "roberto lopes",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rodri",
-      "traffic": "500+",
+      "name": "flow",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
