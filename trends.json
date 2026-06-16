@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T12:30:29Z",
+  "updated": "2026-06-16T13:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "el once digital",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
       "name": "catamarca ya",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "diario chaco",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "griselda siciliani",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
