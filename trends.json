@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T09:00:19Z",
+  "updated": "2026-06-16T09:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "griselda siciliani",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "austria vs jordania",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "just",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mehdi ghayedi",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "irán",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "juan gil navarro",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quien se va de gran hermano",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "praearcturus",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "irak vs",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "alireza beiranvand",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "new zealand",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
