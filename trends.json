@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T03:30:16Z",
+  "updated": "2026-06-16T04:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mehdi ghayedi",
+      "name": "austria vs jordania",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "mehdi ghayedi",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "juan gil navarro",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "quien se va de gran hermano",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "praearcturus",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "irak vs",
-      "traffic": "500+",
       "rank": 5
-    },
-    {
-      "name": "max crocombe",
-      "traffic": "200+",
-      "rank": 6
     },
     {
       "name": "sarpreet singh",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "quien es tim payne",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "irak",
-      "traffic": "1000+",
-      "rank": 9
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "chris wood",
       "traffic": "10000+",
+      "rank": 9
+    },
+    {
+      "name": "iran fc",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
