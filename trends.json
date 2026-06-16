@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T02:06:02Z",
+  "updated": "2026-06-16T02:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ramin rezaeian",
+      "name": "quien se va de gran hermano",
       "traffic": "200+",
       "rank": 1
     },
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "irak vs",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "elijah just",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "sarpreet singh",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "quien es tim payne",
       "traffic": "500+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "irak",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "chris wood",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "iran fc",
       "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "iran fc",
-      "traffic": "2000+",
+      "name": "grupo de uruguay",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "grupo de uruguay",
-      "traffic": "1000+",
+      "name": "arquero de arabia saudita",
+      "traffic": "200+",
       "rank": 10
     }
   ]
