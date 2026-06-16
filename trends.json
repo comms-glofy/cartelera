@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T17:30:22Z",
+  "updated": "2026-06-16T18:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "shrek 5",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "puente festivo",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "paredes",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "zidane",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "camiseta argentina",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "kansas",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "evangelina salazar",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "bangladesh",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tomás martín etcheverry",
+      "name": "evangelina salazar",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "kansas city",
-      "traffic": "500+",
+      "name": "familia",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "bono",
-      "traffic": "5000+",
+      "name": "bangladesh",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ciclogénesis",
-      "traffic": "500+",
+      "name": "tomás martín etcheverry",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
