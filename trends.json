@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T03:00:16Z",
+  "updated": "2026-06-16T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mehdi ghayedi",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "juan gil navarro",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "quien se va de gran hermano",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "praearcturus",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "new zealand",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "elijah just",
-      "traffic": "2000+",
+      "name": "irak vs",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "max crocombe",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "sarpreet singh",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "quien es tim payne",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "irak",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "chris wood",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "iran fc",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
