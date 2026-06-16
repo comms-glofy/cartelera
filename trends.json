@@ -1,36 +1,36 @@
 {
-  "updated": "2026-06-16T11:00:21Z",
+  "updated": "2026-06-16T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia del ingeniero",
+      "name": "wsp",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
+      "name": "dia del ingeniero",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "el once",
+      "name": "tiempo de san juan",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "catamarca ya",
-      "traffic": "100+",
+      "name": "el once digital",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "diario chaco",
+      "name": "catamarca ya",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sube",
-      "traffic": "1000+",
+      "name": "diario chaco",
+      "traffic": "100+",
       "rank": 6
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "just",
-      "traffic": "100+",
+      "name": "senegal",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "mehdi ghayedi",
+      "name": "irán",
       "traffic": "200+",
       "rank": 10
     }
