@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T16:00:27Z",
+  "updated": "2026-06-16T16:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "evangelina salazar",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "bangladesh",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "bono",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "kansas city",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "ciclogénesis",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 6
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "movistar arena",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "joão fonseca",
       "traffic": "500+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "lmneuquen",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "noticiasnet",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "resultados partidos mundial 2026",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "timbo",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "wsp",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "dia del ingeniero",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
