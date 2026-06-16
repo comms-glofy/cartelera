@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T00:00:16Z",
+  "updated": "2026-06-16T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "de la cruz",
-      "traffic": "500+",
+      "name": "tim payne",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "ugarte",
-      "traffic": "200+",
+      "name": "iran fc",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "canobbio",
-      "traffic": "5000+",
+      "name": "arquero de arabia saudita",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "de la cruz",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "canobbio",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "juan manuel sanabria",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "mundial 2022",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "porque uruguay tiene 4 estrellas",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mohammed al-owais",
-      "traffic": "500+",
+      "name": "pensión",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "argentina mañana",
+      "name": "maxi araujo",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "luis suarez",
-      "traffic": "500+",
+      "name": "mundial 2022",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "calor",
-      "traffic": "500+",
+      "name": "porque uruguay tiene 4 estrellas",
+      "traffic": "200+",
       "rank": 10
     }
   ]
