@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-15T23:30:15Z",
+  "updated": "2026-06-16T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canobbio",
-      "traffic": "2000+",
+      "name": "de la cruz",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "juan manuel sanabria",
+      "name": "ugarte",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mundial 2022",
-      "traffic": "500+",
+      "name": "canobbio",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "maxi araujo",
-      "traffic": "200+",
+      "name": "juan manuel sanabria",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "mundial 2022",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "porque uruguay tiene 4 estrellas",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mohammed al-owais",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "argentina mañana",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "luis suarez",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "federico valverde",
-      "traffic": "200+",
+      "name": "luis suarez",
+      "traffic": "500+",
       "rank": 9
     },
     {
       "name": "calor",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 10
     }
   ]
