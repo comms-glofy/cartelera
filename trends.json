@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T12:00:18Z",
+  "updated": "2026-06-16T12:30:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "joão fonseca",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "noticiasnet",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "resultados partidos mundial 2026",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "timbo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "wsp",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "dia del ingeniero",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "tiempo de san juan",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "el once digital",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "catamarca ya",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "diario chaco",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "griselda siciliani",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
