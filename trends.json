@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-16T17:00:28Z",
+  "updated": "2026-06-16T17:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kansas",
+      "name": "paredes",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "bangladesh",
-      "traffic": "200+",
+      "name": "zidane",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "evangelina salazar",
+      "name": "camiseta argentina",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
+      "name": "kansas",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bono",
-      "traffic": "5000+",
+      "name": "evangelina salazar",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "bangladesh",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "tomás martín etcheverry",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "kansas city",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "ciclogénesis",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "francisco cerúndolo",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "movistar arena",
-      "traffic": "2000+",
+      "name": "bono",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "joão fonseca",
+      "name": "ciclogénesis",
       "traffic": "500+",
       "rank": 10
     }
