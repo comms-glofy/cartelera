@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T02:30:16Z",
+  "updated": "2026-06-16T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quien se va de gran hermano",
-      "traffic": "200+",
+      "name": "juan gil navarro",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "praearcturus",
+      "name": "quien se va de gran hermano",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "elijah just",
-      "traffic": "1000+",
+      "name": "praearcturus",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sarpreet singh",
+      "name": "new zealand",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "elijah just",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "sarpreet singh",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "quien es tim payne",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "irak",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "chris wood",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "iran fc",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "grupo de uruguay",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "arquero de arabia saudita",
-      "traffic": "200+",
       "rank": 10
     }
   ]
