@@ -1,35 +1,35 @@
 {
-  "updated": "2026-06-16T01:00:24Z",
+  "updated": "2026-06-16T01:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quien es tim payne",
+      "name": "sarpreet singh",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "taremi",
-      "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "como salio uruguay en el mundial 2026",
+      "name": "quien es tim payne",
       "traffic": "500+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "irak",
       "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "tim payne",
+      "traffic": "20000+",
       "rank": 4
     },
     {
-      "name": "chris wood",
-      "traffic": "1000+",
+      "name": "iran fc",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "iran fc",
+      "name": "grupo de uruguay",
       "traffic": "2000+",
       "rank": 6
     },
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "brian rodríguez",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
       "name": "de la cruz",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "canobbio",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "juan manuel sanabria",
+      "traffic": "500+",
       "rank": 10
     }
   ]
