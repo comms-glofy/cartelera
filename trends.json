@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T15:30:23Z",
+  "updated": "2026-06-16T16:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "francisco cerúndolo",
-      "traffic": "2000+",
+      "name": "ciclogénesis",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "movistar arena",
-      "traffic": "1000+",
+      "name": "francisco cerúndolo",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "movistar arena",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "joão fonseca",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "lmneuquen",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "noticiasnet",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "resultados partidos mundial 2026",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "timbo",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "wsp",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "dia del ingeniero",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "tiempo de san juan",
-      "traffic": "200+",
       "rank": 10
     }
   ]
