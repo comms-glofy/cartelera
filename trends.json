@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T19:00:27Z",
+  "updated": "2026-06-16T19:30:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "france vs senegal",
-      "traffic": "500+",
+      "name": "paramount plus",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "nicolas jackson",
+      "name": "rabiot",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "constantini",
+      "name": "ester exposito",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "idrissa gana gueye",
+      "name": "telefe en vivo mundial",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "océano atlántico",
+      "name": "sadio mane",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "servicio militar nacional",
+      "name": "dsports en vivo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "francia - senegal",
-      "traffic": "20000+",
+      "name": "dgo mundial",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "argentina argelia",
-      "traffic": "10000+",
+      "name": "mbappe",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "shrek 5",
-      "traffic": "200+",
+      "name": "france vs senegal",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "puente festivo",
-      "traffic": "500+",
+      "name": "nicolas jackson",
+      "traffic": "200+",
       "rank": 10
     }
   ]
