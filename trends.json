@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T21:00:22Z",
+  "updated": "2026-06-16T21:24:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "goleadores de mundiales",
+      "name": "maximo goleador de los mundiales",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "canal de la mancha",
-      "traffic": "100+",
+      "name": "noruega fc",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dólar estadounidense",
+      "name": "bradley barcola",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "vacuna contra el zóster",
-      "traffic": "100+",
+      "name": "michael olise",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "santiago caputo",
+      "name": "la campora",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "federico coria",
+      "name": "televisión",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mendy",
+      "name": "gareth bale",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "griezmann",
+      "name": "cherki",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "impuesto",
-      "traffic": "200+",
+      "name": "goleadores de mundiales",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "fábrica",
-      "traffic": "500+",
+      "name": "canal de la mancha",
+      "traffic": "200+",
       "rank": 10
     }
   ]
