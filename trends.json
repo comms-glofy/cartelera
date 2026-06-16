@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-16T16:30:21Z",
+  "updated": "2026-06-16T17:00:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "evangelina salazar",
-      "traffic": "200+",
+      "name": "kansas",
+      "traffic": "100+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
+      "name": "evangelina salazar",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "tomás martín etcheverry",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "bono",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "kansas city",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ciclogénesis",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "movistar arena",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "joão fonseca",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "lmneuquen",
-      "traffic": "200+",
       "rank": 10
     }
   ]
