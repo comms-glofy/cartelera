@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T13:30:25Z",
+  "updated": "2026-06-16T14:00:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "movistar arena",
+      "name": "francisco cerúndolo",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "partidos argentina",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "movistar arena",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "joão fonseca",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "noticiasnet",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "resultados partidos mundial 2026",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "timbo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "wsp",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "dia del ingeniero",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "tiempo de san juan",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "el once digital",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "catamarca ya",
-      "traffic": "100+",
       "rank": 10
     }
   ]
