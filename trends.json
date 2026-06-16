@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T20:30:24Z",
+  "updated": "2026-06-16T21:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santiago caputo",
-      "traffic": "100+",
+      "name": "goleadores de mundiales",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "federico coria",
-      "traffic": "200+",
+      "name": "canal de la mancha",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mendy",
+      "name": "dólar estadounidense",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "griezmann",
-      "traffic": "200+",
+      "name": "vacuna contra el zóster",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "impuesto",
-      "traffic": "100+",
+      "name": "santiago caputo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fábrica",
+      "name": "federico coria",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "dazn",
+      "name": "mendy",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "koulibaly",
+      "name": "griezmann",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "canal 13",
+      "name": "impuesto",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "disney",
-      "traffic": "2000+",
+      "name": "fábrica",
+      "traffic": "500+",
       "rank": 10
     }
   ]
