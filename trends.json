@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T22:00:15Z",
+  "updated": "2026-06-16T22:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "megaproyecto",
+      "name": "fredrik aursnes",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ali al-hamadi",
-      "traffic": "200+",
+      "name": "sorloth",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "propiedad privada",
-      "traffic": "100+",
+      "name": "sander berge",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "angela torres",
+      "name": "halland",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "antonio nusa",
-      "traffic": "200+",
+      "name": "desempleo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "solange abraham",
+      "name": "megaproyecto",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "haland",
-      "traffic": "500+",
+      "name": "ali al-hamadi",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lilia lemoine",
-      "traffic": "200+",
+      "name": "propiedad privada",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "hermano",
-      "traffic": "100+",
+      "name": "antonio nusa",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ester esposito",
-      "traffic": "200+",
+      "name": "angela torres",
+      "traffic": "500+",
       "rank": 10
     }
   ]
