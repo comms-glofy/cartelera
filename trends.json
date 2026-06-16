@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T10:30:19Z",
+  "updated": "2026-06-16T11:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "catamarca ya",
-      "traffic": "100+",
+      "name": "dia del ingeniero",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "diario chaco",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sube",
-      "traffic": "1000+",
+      "name": "el once",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "griselda siciliani",
-      "traffic": "500+",
+      "name": "catamarca ya",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "diario chaco",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "sube",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "griselda siciliani",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "austria vs jordania",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "senegal",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "just",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "mehdi ghayedi",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "irán",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "juan gil navarro",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
