@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T11:30:16Z",
+  "updated": "2026-06-16T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wsp",
-      "traffic": "200+",
+      "name": "noticiasnet",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "dia del ingeniero",
-      "traffic": "200+",
+      "name": "resultados partidos mundial 2026",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "200+",
+      "name": "timbo",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "el once digital",
+      "name": "wsp",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "dia del ingeniero",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "tiempo de san juan",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "el once digital",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "catamarca ya",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "diario chaco",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "griselda siciliani",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "austria vs jordania",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "senegal",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "irán",
-      "traffic": "200+",
       "rank": 10
     }
   ]
