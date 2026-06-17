@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-17T10:00:18Z",
+  "updated": "2026-06-17T10:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "guemes",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "thiago messi",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "mousa al-tamari",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "nicolas seiwald",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ronaldo nazario",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "jorge messi",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "laimer",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "konrad laimer",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ghana vs panama pronostico",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "el pais españa",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "antonela roccuzzo",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
