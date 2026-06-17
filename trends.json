@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-17T11:00:18Z",
+  "updated": "2026-06-17T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "que le pasa a messi",
-      "traffic": "200+",
+      "name": "nathy peluso",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "17 de junio que se celebra",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "argentina ayer",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "guemes",
-      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "17 de junio",
-      "traffic": "100+",
+      "name": "guemes",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "thiago messi",
-      "traffic": "100+",
+      "name": "que problema personal tiene messi",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "mousa al-tamari",
+      "name": "17 de junio",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "nicolas seiwald",
-      "traffic": "200+",
+      "name": "thiago messi",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "ronaldo nazario",
+      "name": "mousa al-tamari",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "jorge messi",
-      "traffic": "500+",
+      "name": "nicolas seiwald",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "laimer",
-      "traffic": "500+",
+      "name": "ronaldo nazario",
+      "traffic": "200+",
       "rank": 10
     }
   ]
