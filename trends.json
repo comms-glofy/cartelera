@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-17T11:30:15Z",
+  "updated": "2026-06-17T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nathy peluso",
+      "name": "22 de junio",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "17 de junio que se celebra",
+      "name": "ceniza volcánica",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "argentina ayer",
+      "name": "posiciones de copa mundial de fútbol",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "guemes",
-      "traffic": "1000+",
+      "name": "nathy peluso",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "que problema personal tiene messi",
-      "traffic": "500+",
+      "name": "17 de junio que se celebra",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "argentina ayer",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "guemes",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "17 de junio",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "thiago messi",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "mousa al-tamari",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "nicolas seiwald",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ronaldo nazario",
+      "name": "mousa al-tamari",
       "traffic": "200+",
       "rank": 10
     }
