@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-16T23:30:17Z",
+  "updated": "2026-06-17T00:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guido kaczka",
-      "traffic": "200+",
+      "name": "condenado",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "noriega",
-      "traffic": "200+",
+      "name": "argelia pais",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "trasplante",
+      "name": "algeria",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ezequiel centurión",
-      "traffic": "100+",
+      "name": "guido kaczka",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "bochini",
-      "traffic": "100+",
+      "name": "noriega",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fortaleza - américa-mg",
+      "name": "trasplante",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gabon",
-      "traffic": "200+",
+      "name": "ezequiel centurión",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cuanto mide haaland",
-      "traffic": "200+",
+      "name": "bochini",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "nicole neumann",
-      "traffic": "200+",
+      "name": "fortaleza - américa-mg",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "braut haaland",
-      "traffic": "500+",
+      "name": "gabon",
+      "traffic": "200+",
       "rank": 10
     }
   ]
