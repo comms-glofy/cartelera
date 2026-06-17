@@ -1,45 +1,45 @@
 {
-  "updated": "2026-06-17T18:00:28Z",
+  "updated": "2026-06-17T18:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia jujuy - nueva chicago",
-      "traffic": "500+",
+      "name": "daveigh chase",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "openai",
+      "name": "manuel garcia-rulfo",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "paramount plus",
-      "traffic": "5000+",
+      "name": "bruno fernandes",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "gimnasia jujuy - nueva chicago",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "openai",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "wissa",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "vitinha",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "bakambu",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "lionel mpasi",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "axel tuanzebe",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "nuno mendes",
+      "name": "bakambu",
       "traffic": "200+",
       "rank": 8
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "diogo jota",
-      "traffic": "500+",
+      "name": "lionel mpasi",
+      "traffic": "200+",
       "rank": 10
     }
   ]
