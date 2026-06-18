@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T03:00:14Z",
+  "updated": "2026-06-18T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "david lebón",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
-    },
-    {
-      "name": "lucho diaz",
-      "traffic": "200+",
-      "rank": 2
     },
     {
       "name": "dt colombia",
       "traffic": "100+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "pele",
       "traffic": "100+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "boca sebastian villa",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "widows bay",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "jhon lucumí",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "camilo vargas",
-      "traffic": "200+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "jefferson lerma",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "turco garcía",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "fútbol en vivo tv",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
