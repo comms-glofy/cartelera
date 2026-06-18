@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T19:30:19Z",
+  "updated": "2026-06-18T20:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "norte",
+      "name": "gran premio de austria",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "asociación de trabajadores del estado",
-      "traffic": "100+",
+      "name": "bosnia",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "switzerland vs bosnia and herzegovina world cup 2026",
-      "traffic": "500+",
+      "name": "leandro lozano",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "reconquista hoy",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "apuesta",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "norte",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "asociación de trabajadores del estado",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "posiciones de copa mundial de fútbol",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "suiza - bosnia y herzegovina",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "9z",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "acuerdo",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "palacio libertad",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "alan lescano",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "que paso con messi",
-      "traffic": "100+",
       "rank": 10
     }
   ]
