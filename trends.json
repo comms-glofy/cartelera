@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T16:30:25Z",
+  "updated": "2026-06-18T17:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clarin",
-      "traffic": "2000+",
+      "name": "noticias",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "agencia nova",
+      "name": "urgente24",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "intendente de añelo",
-      "traffic": "200+",
+      "name": "la nacion",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "nicole neumann",
-      "traffic": "1000+",
+      "name": "lanacion",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "elena rybakina",
-      "traffic": "100+",
+      "name": "tn noticias",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "la capital",
-      "traffic": "500+",
+      "name": "clarin",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "grupo a mundial 2026",
-      "traffic": "200+",
+      "name": "intendente de añelo",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "czechia vs south africa",
-      "traffic": "500+",
+      "name": "agencia nova",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "messi",
-      "traffic": "10000+",
+      "name": "nicole neumann",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cronica",
-      "traffic": "500+",
+      "name": "elena rybakina",
+      "traffic": "200+",
       "rank": 10
     }
   ]
