@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T22:30:15Z",
+  "updated": "2026-06-18T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "america tv en vivo",
-      "traffic": "100+",
+      "name": "casa rosada",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "vacuna",
-      "traffic": "100+",
+      "name": "lopetegui",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "invierno",
+      "name": "descarga eléctrica",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ander herrera",
-      "traffic": "500+",
+      "name": "tay keith",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "posiciones de selección de fútbol de suiza contra selección de fútbol de bosnia y herzegovina",
-      "traffic": "20000+",
+      "name": "sistema único de boleto electrónico",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "canadá - catar",
-      "traffic": "10000+",
+      "name": "club atlético boca juniors",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "bochini",
-      "traffic": "500+",
+      "name": "america tv en vivo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "marcos galperin",
+      "name": "ugo ugochukwu",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "canada qatar",
-      "traffic": "5000+",
+      "name": "vacuna",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "sebastián villa",
-      "traffic": "2000+",
+      "name": "invierno",
+      "traffic": "500+",
       "rank": 10
     }
   ]
