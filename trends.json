@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T19:00:18Z",
+  "updated": "2026-06-18T19:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bosnia vs",
-      "traffic": "1000+",
+      "name": "norte",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "posiciones de copa mundial de fútbol",
-      "traffic": "1000+",
+      "name": "asociación de trabajadores del estado",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima buenos aires",
+      "name": "switzerland vs bosnia and herzegovina world cup 2026",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "suiza - bosnia y herzegovina",
-      "traffic": "10000+",
+      "name": "posiciones de copa mundial de fútbol",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "suiza - bosnia y herzegovina",
+      "traffic": "20000+",
+      "rank": 5
     },
     {
       "name": "9z",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "acuerdo",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "palacio libertad",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "alan lescano",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "que paso con messi",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "precipitación",
-      "traffic": "200+",
       "rank": 10
     }
   ]
