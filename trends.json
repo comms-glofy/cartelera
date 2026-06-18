@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T11:00:19Z",
+  "updated": "2026-06-18T11:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tren roca",
-      "traffic": "500+",
+      "name": "18 de junio",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "tren roca",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "clima santa fe",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 3
-    },
-    {
-      "name": "rafael nadal",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "canada vs qatar pronostico",
+      "name": "rafael nadal",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "cucho hernández",
-      "traffic": "1000+",
+      "name": "licencia",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "jáminton campaz",
+      "name": "canada vs qatar pronostico",
       "traffic": "500+",
       "rank": 7
     },
     {
+      "name": "cucho hernández",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "colo",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "cesio 137 rosario",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "pele",
-      "traffic": "100+",
       "rank": 10
     }
   ]
