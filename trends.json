@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T21:30:13Z",
+  "updated": "2026-06-18T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canadá - catar",
-      "traffic": "2000+",
+      "name": "invierno",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bochini",
+      "name": "ander herrera",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "marcos galperin",
-      "traffic": "200+",
+      "name": "posiciones de selección de fútbol de suiza contra selección de fútbol de bosnia y herzegovina",
+      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "canada qatar",
-      "traffic": "500+",
+      "name": "canadá - catar",
+      "traffic": "5000+",
       "rank": 4
+    },
+    {
+      "name": "bochini",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "marcos galperin",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "canada qatar",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "sebastián villa",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "universidad nacional de cuyo",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "hija",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "gran premio de austria",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "reconquista hoy",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "granit xhaka",
-      "traffic": "200+",
       "rank": 10
     }
   ]
