@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-17T23:30:14Z",
+  "updated": "2026-06-18T00:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos queiroz",
-      "traffic": "200+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 1
+    },
+    {
+      "name": "weather tomorrow",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "flor vigna",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "bochini",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "lawrence ati-zigi",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "ayew",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "anthony hopkins",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "cavani",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "ernest nuamah",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "granizo",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "juan grabois",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "sebastián villa",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "jordan ayew",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "chechu bonelli",
+      "name": "granizo",
       "traffic": "200+",
       "rank": 10
     }
