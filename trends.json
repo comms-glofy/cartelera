@@ -1,46 +1,46 @@
 {
-  "updated": "2026-06-18T21:00:18Z",
+  "updated": "2026-06-18T21:21:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "johan manzambi",
-      "traffic": "1000+",
+      "name": "bochini",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "canada qatar",
-      "traffic": "100+",
+      "name": "ruben vargas",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "marcos galperin",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "canada qatar",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "sebastián villa",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "universidad nacional de cuyo",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "hija",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "gran premio de austria",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "breel embolo",
-      "traffic": "100+",
+      "name": "hija",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "bosnia",
-      "traffic": "10000+",
+      "name": "gran premio de austria",
+      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "leandro lozano",
-      "traffic": "200+",
+      "name": "embolo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
