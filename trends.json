@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T16:00:26Z",
+  "updated": "2026-06-18T16:27:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "messi",
-      "traffic": "10000+",
+      "name": "clarin",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "cronica",
+      "name": "agencia nova",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rosario3",
-      "traffic": "1000+",
+      "name": "intendente de añelo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chiche gelblung",
-      "traffic": "500+",
+      "name": "nicole neumann",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "tori penso",
-      "traffic": "200+",
+      "name": "elena rybakina",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "chequia - sudáfrica",
-      "traffic": "20000+",
+      "name": "la capital",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "luciana rubinska",
-      "traffic": "1000+",
+      "name": "grupo a mundial 2026",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "czechia vs south africa world cup 2026",
-      "traffic": "100+",
+      "name": "czechia vs south africa",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "allanamiento",
-      "traffic": "200+",
+      "name": "messi",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "messi padre",
-      "traffic": "10000+",
+      "name": "cronica",
+      "traffic": "500+",
       "rank": 10
     }
   ]
