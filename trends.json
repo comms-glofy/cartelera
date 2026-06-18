@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T09:52:28Z",
+  "updated": "2026-06-18T10:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima",
+      "traffic": "100000+",
+      "rank": 1
+    },
+    {
+      "name": "clima corrientes",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "rafael nadal",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "canada vs qatar",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "cucho hernández",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "colo",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "cesio 137 rosario",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "david ospina",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pele",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "telecom",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "david lebon",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "boca sebastian villa",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
