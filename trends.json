@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-18T18:00:26Z",
+  "updated": "2026-06-18T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "9z",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
       "name": "acuerdo",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "fake news",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
       "name": "alan lescano",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "que paso con messi",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "precipitación",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "checa fc",
-      "traffic": "100+",
-      "rank": 8
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "sube discapacidad",
       "traffic": "100+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "esequiel barco",
       "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "florencia peña",
+      "traffic": "20000+",
+      "rank": 9
+    },
+    {
+      "name": "noticias",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
