@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T20:00:18Z",
+  "updated": "2026-06-18T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gran premio de austria",
+      "name": "universidad nacional de cuyo",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "bosnia",
-      "traffic": "5000+",
+      "name": "hija",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "leandro lozano",
-      "traffic": "100+",
+      "name": "gran premio de austria",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "reconquista hoy",
+      "name": "breel embolo",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "apuesta",
-      "traffic": "200+",
+      "name": "bosnia",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "norte",
-      "traffic": "100+",
+      "name": "leandro lozano",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "asociación de trabajadores del estado",
+      "name": "reconquista hoy",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "posiciones de copa mundial de fútbol",
-      "traffic": "1000+",
+      "name": "feriado 20 de junio",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "suiza - bosnia y herzegovina",
-      "traffic": "20000+",
+      "name": "apuesta",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "9z",
-      "traffic": "1000+",
+      "name": "frente frío",
+      "traffic": "200000+",
       "rank": 10
     }
   ]
