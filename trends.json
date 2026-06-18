@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T12:30:18Z",
+  "updated": "2026-06-18T12:48:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "manuel garcía rulfo",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "recibo de sueldo",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "18 de junio",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "tren roca",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima santa fe",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "rafael nadal",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "licencia",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "canada vs qatar pronostico",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "cucho hernández",
+      "name": "canada vs qatar pronostico",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "jáminton campaz",
-      "traffic": "500+",
+      "name": "cucho hernández",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
