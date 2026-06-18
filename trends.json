@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-18T09:00:24Z",
+  "updated": "2026-06-18T09:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "rafael nadal",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "canada vs qatar",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "cucho hernández",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "canada vs qatar pronostico",
-      "traffic": "200+",
       "rank": 3
     },
     {
