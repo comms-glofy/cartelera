@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T00:30:17Z",
+  "updated": "2026-06-18T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "panamá vs ghana",
-      "traffic": "200+",
+      "name": "ganha",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "decreto",
+      "name": "ontario",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "stranger things",
-      "traffic": "200+",
+      "name": "toy story 5",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "gol",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "weather tomorrow",
-      "traffic": "1000+",
+      "name": "decreto",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "flor vigna",
+      "name": "stranger things",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "bochini",
-      "traffic": "100+",
+      "name": "tiempo de mañana",
+      "traffic": "500000+",
       "rank": 7
     },
     {
-      "name": "lawrence ati-zigi",
-      "traffic": "200+",
+      "name": "weather tomorrow",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "carlos queiroz",
+      "name": "flor vigna",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "anthony hopkins",
-      "traffic": "500+",
+      "name": "bochini",
+      "traffic": "100+",
       "rank": 10
     }
   ]
