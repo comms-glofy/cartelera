@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T00:00:23Z",
+  "updated": "2026-06-18T00:15:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "stranger things",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "weather tomorrow",
-      "traffic": "500+",
+      "name": "toronto",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "flor vigna",
-      "traffic": "100+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 3
+    },
+    {
+      "name": "weather tomorrow",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "flor vigna",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "bochini",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "lawrence ati-zigi",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "ayew",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "anthony hopkins",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "gana",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "cavani",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "ernest nuamah",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "granizo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
