@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T06:00:15Z",
+  "updated": "2026-06-18T06:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "dt de uzbekistan",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
       "name": "dt colombia",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "pele",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "telecom",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "david lebon",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "boca sebastian villa",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "widows bay",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "jhon lucumí",
+      "traffic": "500+",
       "rank": 10
     }
   ]
