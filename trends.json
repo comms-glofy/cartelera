@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T15:00:22Z",
+  "updated": "2026-06-18T15:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "messi padre",
+      "name": "chequia - sudáfrica",
       "traffic": "10000+",
       "rank": 1
     },
     {
+      "name": "luciana rubinska",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "czechia vs south africa world cup 2026",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "allanamiento",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "messi padre",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
       "name": "luis miguel",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "maxi lópez",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "dia del sushi",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "asociación del fútbol argentino",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "gta 6",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "recibo de sueldo",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "manuel garcía rulfo",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "grupo clarín",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "18 de junio",
-      "traffic": "100+",
       "rank": 10
     }
   ]
