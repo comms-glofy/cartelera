@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T14:30:25Z",
+  "updated": "2026-06-18T15:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia del sushi",
-      "traffic": "100+",
+      "name": "messi padre",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "asociación del fútbol argentino",
-      "traffic": "200+",
+      "name": "luis miguel",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gta 6",
+      "name": "maxi lópez",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "dia del sushi",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "asociación del fútbol argentino",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "gta 6",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
       "name": "recibo de sueldo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "manuel garcía rulfo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "grupo clarín",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "18 de junio",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "tren roca",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "clima santa fe",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "clima",
-      "traffic": "200000+",
       "rank": 10
     }
   ]
