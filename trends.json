@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T17:00:17Z",
+  "updated": "2026-06-18T17:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "noticias",
-      "traffic": "500+",
+      "name": "alan lescano",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "urgente24",
-      "traffic": "200+",
+      "name": "que paso con messi",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "la nacion",
-      "traffic": "2000+",
+      "name": "precipitación",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lanacion",
-      "traffic": "500+",
+      "name": "esequiel barco",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tn noticias",
-      "traffic": "200+",
+      "name": "ultimas noticias",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "clarin",
-      "traffic": "5000+",
+      "name": "urgente24",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "intendente de añelo",
+      "name": "tn noticias",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "agencia nova",
-      "traffic": "200+",
+      "name": "clarin",
+      "traffic": "5000+",
       "rank": 8
+    },
+    {
+      "name": "intendente de añelo",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "nicole neumann",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "elena rybakina",
-      "traffic": "200+",
       "rank": 10
     }
   ]
