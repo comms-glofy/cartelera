@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-18T23:30:15Z",
+  "updated": "2026-06-19T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ismaël koné",
-      "traffic": "500+",
+      "name": "saliba",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "u. de chile - o'higgins",
-      "traffic": "200+",
+      "name": "arquitecto",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "casa rosada",
+      "name": "carolina baldini",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "descarga eléctrica",
+      "name": "gualeguaychú",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lopetegui",
-      "traffic": "500+",
+      "name": "fin de semana",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "tay keith",
+      "name": "fuerzas armadas",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sistema único de boleto electrónico",
-      "traffic": "200+",
+      "name": "u. de chile - o'higgins",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "club atlético boca juniors",
-      "traffic": "2000+",
+      "name": "casa rosada",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "ugo ugochukwu",
-      "traffic": "200+",
+      "name": "descarga eléctrica",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "america tv en vivo",
-      "traffic": "200+",
+      "name": "lopetegui",
+      "traffic": "500+",
       "rank": 10
     }
   ]
