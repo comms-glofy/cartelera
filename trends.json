@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T16:00:15Z",
+  "updated": "2026-06-19T16:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "beca progresar",
-      "traffic": "200+",
+      "name": "arthur fery",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "girona",
-      "traffic": "100+",
+      "name": "becas progresar",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "parís",
-      "traffic": "100+",
+      "name": "sube cud",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "jazmin de grazia",
+      "name": "girona",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "anne hathaway",
-      "traffic": "5000+",
+      "name": "queens atp",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "puente festivo",
+      "name": "parís",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "2000+",
+      "name": "jazmin de grazia",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "aryna sabalenka",
-      "traffic": "2000+",
+      "name": "anne hathaway",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "estadísticas de mundial",
-      "traffic": "1000+",
+      "name": "puente festivo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "posiciones de mundial",
-      "traffic": "10000+",
+      "name": "francisco cerúndolo",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
