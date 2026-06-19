@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T15:00:19Z",
+  "updated": "2026-06-19T15:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "anne hathaway",
-      "traffic": "1000+",
+      "name": "parís",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "puente festivo",
+      "name": "jazmin de grazia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "1000+",
+      "name": "anne hathaway",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "puente festivo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "francisco cerúndolo",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "aryna sabalenka",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "estadísticas de mundial",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "posiciones de mundial",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cristina kirchner",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "partidos de mundial",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "cerundolo",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "hsbc championships",
-      "traffic": "100+",
       "rank": 10
     }
   ]
