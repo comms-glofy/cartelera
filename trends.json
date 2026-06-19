@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-19T07:37:27Z",
+  "updated": "2026-06-19T08:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario panorama",
+      "name": "copa mundial de fútbol",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "diario panorama",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "paraguay vs turquia",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "llaves mundial 2026",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "chaco gimenez",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "turco garcía",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "valeria mazza",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "incendio grave",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "estados unidos vs australia",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "brasil vs haiti",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "santiago giménez",
+      "name": "brasil vs haiti",
       "traffic": "500+",
       "rank": 10
     }
