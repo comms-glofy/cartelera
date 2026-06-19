@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-19T03:30:15Z",
+  "updated": "2026-06-19T04:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "turquia vs paraguay",
-      "traffic": "200+",
+      "name": "diario panorama",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "llaves mundial 2026",
+      "name": "turquia vs paraguay",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "turco garcía",
-      "traffic": "100+",
+      "name": "llaves mundial 2026",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "turco garcía",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "valeria mazza",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "incendio grave",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "estados unidos vs australia",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "brasil vs haiti",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "santiago giménez",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "jalisco",
-      "traffic": "200+",
       "rank": 10
     }
   ]
