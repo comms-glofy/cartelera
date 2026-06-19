@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T00:30:15Z",
+  "updated": "2026-06-19T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mexico partidos",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "gustavo petro",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "disney",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "disney+",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "disney plus",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "disney +",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "mexico korea",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "matt damon",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "escocia vs marruecos",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "méxico - corea del sur",
-      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "arquitecto",
-      "traffic": "100+",
+      "name": "mexico korea",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "gualeguaychú",
+      "name": "escocia vs marruecos",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "carolina baldini",
-      "traffic": "200+",
+      "name": "matt damon",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "fin de semana",
-      "traffic": "2000+",
+      "name": "méxico - corea del sur",
+      "traffic": "50000+",
       "rank": 10
     }
   ]
