@@ -2122,43 +2122,27 @@ function buildTrendsHTML(m){
 function buildPubSlides(m){
   const filtered = pubs.filter(p=>p.aud==='all'||p.aud===m);
   if(!filtered.length) return [];
-  const result=[];
-  for(let i=0;i<filtered.length;){
-    const group = filtered.slice(i,i+2);
-    const isHero = group.length===1&&group[0].photos.length>0;
-    const icons={person:'👤',company:'🏢',world:'⚽'};
-    const acColor={person:'var(--g)',company:'var(--d3)',world:'#FFB432'};
-    const tagCls={person:'g',company:'d',world:'w'};
+  const acColor={person:'var(--g)',company:'var(--d3)',world:'#FFB432'};
+  const tagCls={person:'g',company:'d',world:'w'};
+  const icons={person:'👤',company:'🏢',world:'⚽'};
 
-    if(isHero){
-      const p=group[0];
-      result.push({html:`
-        <div style="display:flex;flex-direction:column;height:100%;padding:20px 24px 16px;gap:10px">
-          <div class="tag ${tagCls[p.type]}" style="color:${acColor[p.type]}"><span class="admin-type-dot ${p.type}"></span>Novedades</div>
-          <div class="admin-single" style="border-top:3px solid ${acColor[p.type]}">
-            ${p.photos[0]?`<img class="admin-single-img" src="${p.photos[0]}" alt=""><div class="admin-single-overlay"></div>`:''}
-            <div class="admin-single-body">
-              <h4>${esc(p.title)}</h4>
-              ${p.body?`<p>${esc(p.body)}</p>`:''}
-            </div>
-          </div>
-        </div>`});
-    } else {
-      const cardsHtml = group.map(p=>`
-        <div class="admin-card ${p.type}">
-          ${p.photos[0]?`<img class="admin-card-img" src="${p.photos[0]}" alt="">`:`<div style="height:90px;background:rgba(${p.type==='world'?'255,180,50':p.type==='company'?'74,108,247':'197,240,0'},.06);display:flex;align-items:center;justify-content:center;font-size:44px">${icons[p.type]}</div>`}
-          <div class="admin-card-body"><h4>${esc(p.title)}</h4>${p.body?`<p>${esc(p.body)}</p>`:''}</div>
-        </div>`).join('');
-      result.push({html:`
-        <div class="s-admin">
-          <div class="tag g">Novedades</div>
-          <div class="h1" style="font-size:clamp(28px,4vw,42px);margin-bottom:0">Lo que está pasando</div>
-          <div class="admin-grid">${cardsHtml}</div>
-        </div>`});
-    }
-    i+=group.length;
-  }
-  return result;
+  // Cada publicación = un slide propio, siempre
+  return filtered.map(p => ({html:`
+    <div style="display:flex;flex-direction:column;height:100%;padding:20px 24px 16px;gap:10px">
+      <div class="tag ${tagCls[p.type]}" style="color:${acColor[p.type]}">
+        <span class="admin-type-dot ${p.type}"></span>Novedades
+      </div>
+      <div class="admin-single" style="border-top:3px solid ${acColor[p.type]};flex:1;min-height:0">
+        ${p.photos[0]
+          ? `<img class="admin-single-img" src="${p.photos[0]}" alt=""><div class="admin-single-overlay"></div>`
+          : `<div style="height:120px;background:rgba(${p.type==='world'?'255,180,50':p.type==='company'?'74,108,247':'197,240,0'},.06);display:flex;align-items:center;justify-content:center;font-size:64px">${icons[p.type]}</div>`
+        }
+        <div class="admin-single-body">
+          <h4>${esc(p.title)}</h4>
+          ${p.body?`<p>${esc(p.body)}</p>`:''}
+        </div>
+      </div>
+    </div>`}));
 }
 
 function rebuild(){
@@ -2543,4 +2527,3 @@ setTimeout(()=>{applyMode();rebuild();},ms2mid);
 </script>
 </body>
 </html>
-
