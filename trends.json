@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T01:30:18Z",
+  "updated": "2026-06-19T02:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "son heung-min",
-      "traffic": "2000+",
+      "name": "jalisco",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "son",
-      "traffic": "500+",
+      "name": "raúl jiménez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "corea del norte",
+      "name": "santiago giménez",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "seol young-woo",
+      "name": "brian gutiérrez",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "cho gue-sung",
-      "traffic": "200+",
+      "name": "edson álvarez",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "estadio akron",
-      "traffic": "500+",
+      "name": "julián andrés quiñones",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "agustina chiarino",
+      "name": "kim min-jae",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "mexico partidos",
-      "traffic": "1000+",
+      "name": "korea vs mexico",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "gustavo petro",
-      "traffic": "100+",
+      "name": "harry styles",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "posiciones de selección de fútbol de canadá contra selección de fútbol de catar",
-      "traffic": "50000+",
+      "name": "son heung-min",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
