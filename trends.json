@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T11:30:19Z",
+  "updated": "2026-06-19T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia de la bandera",
-      "traffic": "100+",
+      "name": "tornquist",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "dia de la bandera",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "ben shelton",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "diario chaco",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "datachaco",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "banco provincia",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "tiempo hoy",
-      "traffic": "2000+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "el tiempo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "diario ole",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "aguinaldo",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "diario panorama",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
