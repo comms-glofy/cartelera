@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T16:30:17Z",
+  "updated": "2026-06-19T17:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arthur fery",
+      "name": "cuantos años tiene anne hathaway",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "becas progresar",
-      "traffic": "500+",
+      "name": "adrian ravier",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "zonda",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "sube cud",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "becas progresar",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "girona",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "queens atp",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "parís",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "jazmin de grazia",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "anne hathaway",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "puente festivo",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "2000+",
+      "name": "anne hathaway",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
