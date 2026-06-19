@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T12:03:35Z",
+  "updated": "2026-06-19T12:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tornquist",
+      "name": "lunes 22 de junio es feriado",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "dia de la bandera",
-      "traffic": "200+",
+      "name": "juneteenth",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ben shelton",
-      "traffic": "100+",
+      "name": "tornquist",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "diario chaco",
+      "name": "dia de la bandera",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "datachaco",
+      "name": "ben shelton",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "diario norte",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "banco provincia",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima hoy",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tiempo hoy",
-      "traffic": "1000+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "el tiempo",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "diario ole",
-      "traffic": "100+",
       "rank": 10
     }
   ]
