@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-19T02:00:18Z",
+  "updated": "2026-06-19T02:15:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jalisco",
-      "traffic": "200+",
+      "name": "estados unidos vs australia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "raúl jiménez",
-      "traffic": "200+",
+      "name": "brasil vs haiti",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "santiago giménez",
+      "name": "jalisco",
       "traffic": "200+",
       "rank": 3
     },
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "julián andrés quiñones",
+      "name": "raúl jiménez",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "kim min-jae",
+      "name": "santiago giménez",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "korea vs mexico",
+      "name": "julián andrés quiñones",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "harry styles",
+      "name": "kim min-jae",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "son heung-min",
-      "traffic": "2000+",
+      "name": "harry styles",
+      "traffic": "200+",
       "rank": 10
     }
   ]
