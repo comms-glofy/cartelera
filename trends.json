@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T15:30:18Z",
+  "updated": "2026-06-19T15:47:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "beca progresar",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "girona",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "parís",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "jazmin de grazia",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "anne hathaway",
-      "traffic": "2000+",
-      "rank": 3
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "puente festivo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "aryna sabalenka",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "estadísticas de mundial",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "posiciones de mundial",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "cristina kirchner",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "partidos de mundial",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
