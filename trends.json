@@ -1,51 +1,51 @@
 {
-  "updated": "2026-06-19T14:00:16Z",
+  "updated": "2026-06-19T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aryna sabalenka",
-      "traffic": "200+",
+      "name": "francisco cerúndolo",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "aryna sabalenka",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "estadísticas de mundial",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "posiciones de mundial",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "cristina kirchner",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "partidos de mundial",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "cerundolo",
-      "traffic": "200+",
+      "name": "partidos de mundial",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "cerundolo",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "hsbc championships",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "hiba abouk",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "atp queens",
-      "traffic": "200+",
       "rank": 9
     },
     {
