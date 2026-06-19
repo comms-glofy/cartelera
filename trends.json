@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T18:30:16Z",
+  "updated": "2026-06-19T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estados unidos - australia",
-      "traffic": "10000+",
+      "name": "paris hilton",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "eva bargiela",
-      "traffic": "500+",
+      "name": "byd",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sube",
-      "traffic": "2000+",
+      "name": "rebecca hall",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "refinanciación",
-      "traffic": "100+",
+      "name": "estados unidos - australia",
+      "traffic": "20000+",
       "rank": 4
     },
     {
-      "name": "cristina",
-      "traffic": "100+",
+      "name": "eva bargiela",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "wallpaper engine",
-      "traffic": "200+",
+      "name": "sube",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "medvedev",
+      "name": "refinanciación",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "adorni",
-      "traffic": "2000+",
+      "name": "cristina",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "gago",
-      "traffic": "1000+",
+      "name": "wallpaper engine",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "usa vs australia",
-      "traffic": "500+",
+      "name": "medvedev",
+      "traffic": "200+",
       "rank": 10
     }
   ]
