@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T20:30:17Z",
+  "updated": "2026-06-19T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "secretaría general de la presidencia de la nación",
+      "name": "servicio de control de inmigración y aduanas",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "usa aus",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "tay keith muerte",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "jujutsu kaisen",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "myriam bregman",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "secretaría general de la presidencia de la nación",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "selección de fútbol de argelia",
       "traffic": "500+",
-      "rank": 2
+      "rank": 7
+    },
+    {
+      "name": "alex freeman",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "russell crowe",
       "traffic": "200+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "alex morgan",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "cameron burgess",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "viva dominicus beach",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "incendio en bayahibe",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "usa vs",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "ricardo pepi",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "paris hilton",
-      "traffic": "500+",
       "rank": 10
     }
   ]
