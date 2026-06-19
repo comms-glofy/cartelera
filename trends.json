@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T19:00:15Z",
+  "updated": "2026-06-19T19:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paris hilton",
+      "name": "eeuu",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "byd",
+      "name": "seattle",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rebecca hall",
-      "traffic": "200+",
+      "name": "incendio en bayahibe",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "estados unidos - australia",
-      "traffic": "20000+",
+      "name": "usa vs",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "eva bargiela",
-      "traffic": "1000+",
+      "name": "usa australia",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "sube",
-      "traffic": "5000+",
+      "name": "ricardo pepi",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "refinanciación",
-      "traffic": "200+",
+      "name": "paris hilton",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "cristina",
-      "traffic": "100+",
+      "name": "byd",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "wallpaper engine",
+      "name": "rebecca hall",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "medvedev",
-      "traffic": "200+",
+      "name": "estados unidos - australia",
+      "traffic": "50000+",
       "rank": 10
     }
   ]
