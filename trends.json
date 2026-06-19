@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-19T21:00:17Z",
+  "updated": "2026-06-19T21:06:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "servicio de control de inmigración y aduanas",
-      "traffic": "100+",
+      "name": "la voz del pueblo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "usa aus",
+      "name": "servicio de control de inmigración y aduanas",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tay keith muerte",
+      "name": "estados unidos partido",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "jujutsu kaisen",
+      "name": "tay keith muerte",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "myriam bregman",
+      "name": "jujutsu kaisen",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "secretaría general de la presidencia de la nación",
+      "name": "myriam bregman",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "selección de fútbol de argelia",
-      "traffic": "500+",
+      "name": "secretaría general de la presidencia de la nación",
+      "traffic": "100+",
       "rank": 7
+    },
+    {
+      "name": "selección de fútbol de argelia",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "alex freeman",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "russell crowe",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "alex morgan",
+      "name": "russell crowe",
       "traffic": "200+",
       "rank": 10
     }
