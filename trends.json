@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T20:00:17Z",
+  "updated": "2026-06-19T20:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "russell crowe",
-      "traffic": "200+",
+      "name": "secretaría general de la presidencia de la nación",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "alex freeman",
-      "traffic": "200+",
+      "name": "selección de fútbol de argelia",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "viva dominicus beach",
+      "name": "russell crowe",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "incendio en bayahibe",
-      "traffic": "100+",
+      "name": "alex morgan",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "usa australia",
-      "traffic": "500+",
+      "name": "cameron burgess",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ricardo pepi",
+      "name": "viva dominicus beach",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "paris hilton",
-      "traffic": "500+",
+      "name": "incendio en bayahibe",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "byd",
-      "traffic": "200+",
+      "name": "usa vs",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "rebecca hall",
-      "traffic": "200+",
+      "name": "ricardo pepi",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "estados unidos - australia",
-      "traffic": "100000+",
+      "name": "paris hilton",
+      "traffic": "500+",
       "rank": 10
     }
   ]
