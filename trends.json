@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-19T03:00:15Z",
+  "updated": "2026-06-19T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hwang hee-chan",
-      "traffic": "100+",
+      "name": "turquia vs paraguay",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "llaves mundial 2026",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "turco garcía",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "hwang hee-chan",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "valeria mazza",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "incendio grave",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "estados unidos vs australia",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "brasil vs haiti",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "santiago giménez",
+      "name": "estados unidos vs australia",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "jalisco",
+      "name": "brasil vs haiti",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "brian gutiérrez",
-      "traffic": "200+",
+      "name": "santiago giménez",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "raúl jiménez",
+      "name": "jalisco",
       "traffic": "200+",
       "rank": 10
     }
