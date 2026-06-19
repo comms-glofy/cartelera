@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T22:00:15Z",
+  "updated": "2026-06-19T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "scotland vs morocco",
-      "traffic": "200+",
+      "name": "hakimi",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "playstation",
+      "name": "che adams",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "a qué hora juega argentina el lunes",
+      "name": "scotland vs morocco",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "maxi salas",
+      "name": "playstation",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "raffaella carrà",
-      "traffic": "100+",
+      "name": "a qué hora juega argentina el lunes",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "maxi salas",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "josé manuel urcera",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "silvia de suecia",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "franco picardi",
+      "name": "raffaella carrà",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "marruecos fc",
-      "traffic": "500+",
+      "name": "silvia de suecia",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "escocia - marruecos",
-      "traffic": "20000+",
+      "name": "franco picardi",
+      "traffic": "100+",
       "rank": 10
     }
   ]
