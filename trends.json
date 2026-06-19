@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T00:00:16Z",
+  "updated": "2026-06-19T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "saliba",
-      "traffic": "200+",
+      "name": "disney plus",
+      "traffic": "5000+",
       "rank": 1
+    },
+    {
+      "name": "disney +",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "mexico korea",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "matt damon",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "escocia vs marruecos",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "méxico - corea del sur",
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "arquitecto",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "carolina baldini",
-      "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "gualeguaychú",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
+    },
+    {
+      "name": "carolina baldini",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "fin de semana",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "fuerzas armadas",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "u. de chile - o'higgins",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "casa rosada",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "descarga eléctrica",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "lopetegui",
-      "traffic": "500+",
       "rank": 10
     }
   ]
