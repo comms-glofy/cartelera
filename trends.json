@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T19:30:15Z",
+  "updated": "2026-06-19T19:45:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cameron burgess",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "viva dominicus beach",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "eeuu",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "seattle",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "incendio en bayahibe",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "usa vs",
-      "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "usa australia",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ricardo pepi",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "paris hilton",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "byd",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "rebecca hall",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "estados unidos - australia",
-      "traffic": "50000+",
       "rank": 10
     }
   ]
