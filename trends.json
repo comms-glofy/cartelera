@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T10:00:20Z",
+  "updated": "2026-06-19T10:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "diario norte",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "datachaco",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "banco provincia",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "clima hoy",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "tiempo hoy",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "el tiempo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "diario ole",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "aguinaldo",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "copa mundial de fútbol",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "diario panorama",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "nuevo diario",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "paraguay vs turquia",
-      "traffic": "500+",
       "rank": 10
     }
   ]
