@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T00:00:15Z",
+  "updated": "2026-06-20T00:06:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brazil vs haiti",
+      "name": "loteria nacional nocturna",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "sean connery",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "brazil vs haiti",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "brasil - haití",
       "traffic": "50000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "apagón eléctrico",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "colombia en la copa mundial de fútbol",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "dogos vs pampas",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "asociación de trabajadores del estado",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "condena",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "neil el aynaoui",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "brahim díaz",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "gran hermano",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
