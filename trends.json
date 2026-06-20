@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T08:20:01Z",
+  "updated": "2026-06-20T08:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,13 +29,13 @@
       "rank": 5
     },
     {
-      "name": "calhanoglu",
-      "traffic": "1000+",
+      "name": "yildiz",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "yildiz",
-      "traffic": "500+",
+      "name": "calhanoglu",
+      "traffic": "1000+",
       "rank": 7
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "arda guler",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
