@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T02:30:18Z",
+  "updated": "2026-06-20T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "turquía - paraguay",
-      "traffic": "20000+",
+      "name": "isidro pitta",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "kaka",
-      "traffic": "200+",
+      "name": "ecuador vs curazao",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "seven kayne",
-      "traffic": "200+",
+      "name": "tabla de posiciones mundial 2026",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "bayahibe",
+      "name": "brasi",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "douglas santos",
-      "traffic": "200+",
+      "name": "turquía - paraguay",
+      "traffic": "50000+",
       "rank": 5
     },
     {
-      "name": "eclipse solar del 12 de agosto de 2026",
-      "traffic": "100+",
+      "name": "kaka",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "vinícius júnior",
+      "name": "seven kayne",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "paises bajos vs suecia",
-      "traffic": "100+",
+      "name": "eclipse solar del 12 de agosto de 2026",
+      "traffic": "200+",
       "rank": 8
+    },
+    {
+      "name": "paises bajos vs suecia",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "bruno guimarães",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "rayan",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
