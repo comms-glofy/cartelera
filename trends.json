@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T20:49:02Z",
+  "updated": "2026-06-20T21:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "abel pintos",
-      "traffic": "2000+",
+      "name": "felix nmecha",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nmecha",
+      "name": "cote d'ivoire",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "kimmich",
+      "name": "irlanda",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ibrahim sangaré",
-      "traffic": "100+",
+      "name": "nmecha",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "kessie",
-      "traffic": "1000+",
+      "name": "abel pintos",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "sane",
-      "traffic": "500+",
+      "name": "kimmich",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "alvarado",
+      "name": "ibrahim sangaré",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "frente frío",
-      "traffic": "200+",
+      "name": "sane",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "musiala",
-      "traffic": "500+",
+      "name": "alvarado",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "neuer",
-      "traffic": "500+",
+      "name": "frente frío",
+      "traffic": "200+",
       "rank": 10
     }
   ]
