@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T01:00:14Z",
+  "updated": "2026-06-20T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ronaldo nazario",
+      "name": "casemiro",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ancelotti",
+      "name": "jean-ricner bellegarde",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "grupo de brasil",
+      "name": "arquero de nigeria",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "frantzdy pierrot",
-      "traffic": "200+",
+      "name": "neymar",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "alemania vs costa de marfil",
-      "traffic": "100+",
+      "name": "raphinha",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "jogo do brasil",
-      "traffic": "100+",
+      "name": "endrick",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "quiniela nocturna de mendoza",
-      "traffic": "500+",
+      "name": "ias",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "matheus cunha",
-      "traffic": "200+",
+      "name": "ronaldo nazario",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "brazil haiti",
-      "traffic": "200+",
+      "name": "ancelotti",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "brasil",
-      "traffic": "10000+",
+      "name": "grupo de brasil",
+      "traffic": "200+",
       "rank": 10
     }
   ]
