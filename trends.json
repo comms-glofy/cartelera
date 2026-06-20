@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-20T15:30:15Z",
+  "updated": "2026-06-20T16:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atp halle",
+      "name": "halle open",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "selección de fútbol de portugal",
-      "traffic": "200+",
+      "name": "tommy paul",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "faustino oro",
+      "name": "atp halle",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cerundolo",
-      "traffic": "2000+",
+      "name": "selección de fútbol de portugal",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "prode | mundial 2026",
-      "traffic": "500+",
+      "name": "faustino oro",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "cerundolo",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "bandera argentina en el cielo",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "actc",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "día del padre en argentina",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "accidente en panamericana hoy",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "callum turner",
-      "traffic": "500+",
+      "name": "día del padre en argentina",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "roberto garcia",
+      "name": "accidente en panamericana hoy",
       "traffic": "1000+",
       "rank": 10
     }
