@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T11:30:17Z",
+  "updated": "2026-06-20T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deuda",
-      "traffic": "2000+",
+      "name": "ley",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "orlando gill",
-      "traffic": "500+",
+      "name": "dia de la bandera 20 de junio",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "arbitro paraguay turquia",
+      "name": "solana sierra",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "miguel almirón",
-      "traffic": "5000+",
+      "name": "solsticio de invierno",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "deuda",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "orlando gill",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "ley prestianni",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "para",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "turkia",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "día del padre",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "bandera argentina",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "día de la bandera",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "yildiz",
-      "traffic": "500+",
       "rank": 10
     }
   ]
