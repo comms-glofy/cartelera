@@ -1,51 +1,51 @@
 {
-  "updated": "2026-06-20T04:30:17Z",
+  "updated": "2026-06-20T04:50:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "vincenzo montella",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "ley prestianni",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "para",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "turkia",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "yildiz",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "día del padre",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "paul avery",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "kerem aktürkoğlu",
+      "name": "paul avery",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "arda güler",
-      "traffic": "1000+",
+      "name": "kerem aktürkoğlu",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "galarza",
-      "traffic": "500+",
+      "name": "arda güler",
+      "traffic": "1000+",
       "rank": 9
     },
     {
