@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-20T19:20:43Z",
+  "updated": "2026-06-20T19:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chaco for ever - colón",
+      "name": "temperley - san martín de tucumán",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ronald koeman",
-      "traffic": "100+",
+      "name": "alemania - costa de marfil",
+      "traffic": "10000+",
       "rank": 2
+    },
+    {
+      "name": "chaco for ever - colón",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "copiapó - u. católica",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "japon vs tunez",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "jp morgan chase",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "memphis depay",
+      "name": "jp morgan chase",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "summerville",
-      "traffic": "500+",
+      "name": "memphis depay",
+      "traffic": "200+",
       "rank": 7
+    },
+    {
+      "name": "elanga",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "leandro zapponi",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "juan carlos peinado",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "wout weghorst",
+      "name": "juan carlos peinado",
       "traffic": "200+",
       "rank": 10
     }
