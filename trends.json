@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T05:30:16Z",
+  "updated": "2026-06-20T06:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grupo de paraguay",
-      "traffic": "200+",
-      "rank": 1
-    },
-    {
       "name": "orlando gill",
-      "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "vincenzo montella",
       "traffic": "500+",
-      "rank": 3
+      "rank": 1
     },
     {
       "name": "miguel almirón",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 2
     },
     {
       "name": "para",
       "traffic": "200+",
-      "rank": 5
+      "rank": 3
     },
     {
       "name": "turkia",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "yildiz",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "día del padre",
-      "traffic": "200+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "yildiz",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "paul avery",
       "traffic": "200+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "kerem aktürkoğlu",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "arda güler",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "paraguay fc",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
