@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T18:30:13Z",
+  "updated": "2026-06-20T19:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elanga",
-      "traffic": "200+",
+      "name": "copiapó - u. católica",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "summerville",
-      "traffic": "200+",
+      "name": "jp morgan chase",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sweden",
+      "name": "japon vs tunez",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "gakpo",
-      "traffic": "500+",
+      "name": "memphis depay",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "summerville",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "cody gakpo",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "juan carlos peinado",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "alexander isak",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "bart verbruggen",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "wout weghorst",
+      "name": "alexander isak",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "benjamin nygren",
-      "traffic": "100+",
+      "name": "wout weghorst",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "película",
-      "traffic": "200+",
+      "name": "benjamin nygren",
+      "traffic": "100+",
       "rank": 10
     }
   ]
