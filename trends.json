@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T05:00:14Z",
+  "updated": "2026-06-20T05:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "orlando gill",
+      "name": "grupo de paraguay",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "vincenzo montella",
+      "name": "orlando gill",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "vincenzo montella",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "miguel almirón",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "para",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "turkia",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "yildiz",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "día del padre",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "paul avery",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "kerem aktürkoğlu",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "galarza",
-      "traffic": "500+",
       "rank": 10
     }
   ]
