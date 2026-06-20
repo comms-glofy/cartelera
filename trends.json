@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T01:30:15Z",
+  "updated": "2026-06-20T02:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "eclipse solar del 12 de agosto de 2026",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "filadelfia",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "bruno guimarães",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "paises bajos vs suecia",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "rayan",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "casemiro",
       "traffic": "500+",
-      "rank": 1
+      "rank": 6
     },
     {
       "name": "jean-ricner bellegarde",
       "traffic": "200+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "arquero de nigeria",
       "traffic": "200+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "neymar",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "raphinha",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "endrick",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "ias",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "ronaldo nazario",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "ancelotti",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "grupo de brasil",
-      "traffic": "200+",
+      "name": "cómo va brasil",
+      "traffic": "500+",
       "rank": 10
     }
   ]
