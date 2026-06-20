@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T06:30:14Z",
+  "updated": "2026-06-20T07:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "orlando gill",
-      "traffic": "500+",
+      "name": "tabla de posiciones del mundial 2026",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "vincenzo montella",
+      "name": "orlando gill",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "miguel almirón",
-      "traffic": "2000+",
+      "name": "vincenzo montella",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "ley prestianni",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "para",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "día del padre",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "paul avery",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "yildiz",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "kerem aktürkoğlu",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "arda güler",
-      "traffic": "2000+",
+      "name": "calhanoglu",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "paraguay fc",
-      "traffic": "5000+",
+      "name": "bandera argentina",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
