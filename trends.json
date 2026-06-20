@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T23:00:18Z",
+  "updated": "2026-06-20T23:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "keanu reeves",
-      "traffic": "100+",
+      "name": "ecuador - curazao",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "¿quien se va de gran hermano?",
+      "name": "ian lucas",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "desalojo",
+      "name": "marley",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "uruguay vs cabo verde",
-      "traffic": "200+",
+      "name": "keanu reeves",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fixture de mundial",
-      "traffic": "500+",
+      "name": "¿quien se va de gran hermano?",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "julian nagelsmann",
+      "name": "desalojo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "costa de marfil ecuador",
-      "traffic": "200+",
+      "name": "uruguay vs cabo verde",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "aruba",
-      "traffic": "200+",
+      "name": "fixture de mundial",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "nagelsmann",
+      "name": "julian nagelsmann",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "buenos aires",
-      "traffic": "100+",
+      "name": "costa de marfil ecuador",
+      "traffic": "200+",
       "rank": 10
     }
   ]
