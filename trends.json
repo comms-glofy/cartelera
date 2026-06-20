@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T13:30:17Z",
+  "updated": "2026-06-20T14:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "roberto garcia",
+      "name": "accidente en panamericana hoy",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "coto",
-      "traffic": "1000+",
+      "name": "callum turner",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bruno zuculini",
-      "traffic": "100+",
+      "name": "roberto garcia",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "queens atp",
-      "traffic": "5000+",
+      "name": "coto",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "hsbc championships",
+      "name": "bruno zuculini",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "queens atp",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "hsbc championships",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "20 de junio es feriado en argentina",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "ley",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "solsticio de invierno",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "solana sierra",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "deuda",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "tabla de posiciones del mundial 2026",
-      "traffic": "100+",
       "rank": 10
     }
   ]
