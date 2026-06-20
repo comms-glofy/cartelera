@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T10:00:18Z",
+  "updated": "2026-06-20T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "vincenzo montella",
-      "traffic": "500+",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "turkia",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "día del padre",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "yildiz",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "calhanoglu",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "paul avery",
-      "traffic": "200+",
       "rank": 10
     }
   ]
