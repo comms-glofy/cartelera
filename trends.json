@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-19T23:30:16Z",
+  "updated": "2026-06-20T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "asociación de trabajadores del estado",
-      "traffic": "100+",
+      "name": "brazil vs haiti",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "condena",
-      "traffic": "500+",
+      "name": "brasil - haití",
+      "traffic": "50000+",
       "rank": 2
     },
     {
-      "name": "neil el aynaoui",
-      "traffic": "100+",
+      "name": "apagón eléctrico",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "brahim díaz",
+      "name": "colombia en la copa mundial de fútbol",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gran hermano",
-      "traffic": "500+",
+      "name": "dogos vs pampas",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "hakimi",
-      "traffic": "1000+",
+      "name": "asociación de trabajadores del estado",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "che adams",
-      "traffic": "200+",
+      "name": "condena",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "scotland vs morocco",
-      "traffic": "1000+",
+      "name": "neil el aynaoui",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "alfonso espino",
-      "traffic": "500+",
+      "name": "brahim díaz",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "playstation",
-      "traffic": "200+",
+      "name": "gran hermano",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
