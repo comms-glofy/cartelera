@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-20T17:53:40Z",
+  "updated": "2026-06-20T18:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "graham potter",
-      "traffic": "200+",
+      "name": "alexander isak",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "micky van de ven",
+      "name": "bart verbruggen",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "isak",
+      "name": "wout weghorst",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jan paul van hecke",
-      "traffic": "200+",
+      "name": "benjamin nygren",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "donyell malen",
+      "name": "graham potter",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "coquimbo unido - iquique",
-      "traffic": "100+",
+      "name": "micky van de ven",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "jan paul van hecke",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "donyell malen",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "zlatan",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "luis miguel",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "brian brobbey",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "maxima zorreguieta",
-      "traffic": "200+",
+      "name": "coquimbo unido - iquique",
+      "traffic": "100+",
       "rank": 10
     }
   ]
