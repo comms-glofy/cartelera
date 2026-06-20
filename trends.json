@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-20T04:00:15Z",
+  "updated": "2026-06-20T04:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "turkia",
-      "traffic": "100+",
+      "name": "ley prestianni",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "fútbol libre en vivo mundial",
-      "traffic": "100+",
+      "name": "para",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bandera argentina",
-      "traffic": "2000+",
+      "name": "turkia",
+      "traffic": "100+",
       "rank": 3
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "galarza",
-      "traffic": "500+",
+      "name": "kerem aktürkoğlu",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "kenan yıldız",
-      "traffic": "200+",
+      "name": "arda güler",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "paraguay fc",
-      "traffic": "5000+",
+      "name": "galarza",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "isidro pitta",
-      "traffic": "1000+",
+      "name": "dia de la bandera argentina",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
