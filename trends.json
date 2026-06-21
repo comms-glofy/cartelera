@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T20:30:16Z",
+  "updated": "2026-06-21T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "almirante",
-      "traffic": "200+",
+      "name": "primera nacional",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "sergio denis",
+      "name": "rio ferdinand",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "leandro lozano",
-      "traffic": "200+",
+      "name": "privatización",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "hazard",
-      "traffic": "100+",
+      "name": "atlético güemes - gimnasia jujuy",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "emiliano grillo",
-      "traffic": "100+",
+      "name": "nathan ngoy",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "patronato",
-      "traffic": "100+",
+      "name": "provincia de buenos aires",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cutral co",
+      "name": "house of the dragon",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "central norte - godoy cruz",
-      "traffic": "1000+",
+      "name": "bosque petrificado",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "arbitros argentinos mundial 2026",
-      "traffic": "200+",
+      "name": "avión",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "la nación",
-      "traffic": "1000+",
+      "name": "all boys",
+      "traffic": "100+",
       "rank": 10
     }
   ]
