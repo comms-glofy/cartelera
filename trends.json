@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T03:30:15Z",
+  "updated": "2026-06-21T03:49:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuando es el dia del padre en argentina",
-      "traffic": "500+",
+      "name": "ayase ueda",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "21 de junio",
-      "traffic": "200+",
+      "name": "harlan coben",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "lisandro martinez",
+      "name": "cuando es el dia del padre en argentina",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "21 de junio",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "lisandro martinez",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "angel correa",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "turf",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "joaquín levinton",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "quiniela de tucuman",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "nick robinson",
+      "name": "posiciones mundial 2026",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "grupos mundial 2026",
-      "traffic": "1000+",
+      "name": "joaquín levinton",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "kendry páez",
-      "traffic": "200+",
+      "name": "quiniela de tucuman",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
