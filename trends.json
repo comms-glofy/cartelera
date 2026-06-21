@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T13:00:19Z",
+  "updated": "2026-06-21T13:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "francisco cerúndolo",
-      "traffic": "1000+",
+      "name": "mariano navone",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "arsat",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "canal 9 en vivo",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "francisco cerúndolo",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "cerundolo",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "nicolás cabré",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "hsbc championships",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "tabla de grupos mundial 2026",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "cafayate",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "belgica vs iran pronostico",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "españa vs arabia",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "economía",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "oriana sabatini",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ricardo bochini",
-      "traffic": "500+",
+      "name": "belgica vs iran",
+      "traffic": "100+",
       "rank": 10
     }
   ]
