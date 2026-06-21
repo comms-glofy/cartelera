@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T21:30:16Z",
+  "updated": "2026-06-21T21:52:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima san luis",
+      "name": "abelardo de la espriella",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rio ferdinand",
-      "traffic": "200+",
+      "name": "grupo de uruguay",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "house of the dragon season 3",
-      "traffic": "200+",
+      "name": "deportivo maipú - gimnasia y tiro de salta",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "privatización",
+      "name": "la casa del dragon",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "nathan ngoy",
-      "traffic": "500+",
+      "name": "clima san luis",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "atlético güemes - gimnasia jujuy",
-      "traffic": "1000+",
+      "name": "rio ferdinand",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "provincia de buenos aires",
+      "name": "house of the dragon season 3",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "avión",
+      "name": "privatización",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "bosque petrificado",
-      "traffic": "100+",
+      "name": "atlético güemes - gimnasia jujuy",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ranking",
-      "traffic": "100+",
+      "name": "nathan ngoy",
+      "traffic": "500+",
       "rank": 10
     }
   ]
