@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-21T14:30:19Z",
+  "updated": "2026-06-21T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sistema único de boleto electrónico",
-      "traffic": "100+",
+      "name": "invierno",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "groenlandia",
+      "name": "sistema único de boleto electrónico",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nueva zelanda vs egipto",
+      "name": "groenlandia",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "automóvil",
-      "traffic": "200+",
+      "name": "nueva zelanda vs egipto",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "22 de junio",
-      "traffic": "1000+",
+      "name": "automóvil",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "canal 9",
-      "traffic": "100+",
+      "name": "22 de junio",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "canal 9",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "mariano navone",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "jubilación en españa",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "canal 9 en vivo",
-      "traffic": "500+",
       "rank": 10
     }
   ]
