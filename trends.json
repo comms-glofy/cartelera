@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T18:30:15Z",
+  "updated": "2026-06-21T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de selección de fútbol de españa contra selección de fútbol de arabia saudita",
-      "traffic": "2000+",
+      "name": "maxi lopez",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "macaya",
-      "traffic": "500+",
+      "name": "dallas",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "caza",
+      "name": "us open golf",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bélgica - irán",
-      "traffic": "5000+",
+      "name": "aramco",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "iphone 18",
-      "traffic": "100+",
+      "name": "macaya",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "raphael claus",
+      "name": "caza",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "iñaki williams",
-      "traffic": "200+",
+      "name": "bélgica - irán",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "iberia",
+      "name": "cómo salió españa",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "infantino",
-      "traffic": "500+",
+      "name": "iphone 18",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "aymeric laporte",
-      "traffic": "100+",
+      "name": "raphael claus",
+      "traffic": "200+",
       "rank": 10
     }
   ]
