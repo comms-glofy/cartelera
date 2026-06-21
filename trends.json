@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T02:00:17Z",
+  "updated": "2026-06-21T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quimsa",
-      "traffic": "500+",
+      "name": "turf",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "córdoba",
-      "traffic": "200+",
+      "name": "hernan galindez",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "álex rodríguez",
-      "traffic": "200+",
+      "name": "quiniela de tucuman",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "arquero de curazao",
-      "traffic": "1000+",
+      "name": "joaquín levinton",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "guido kaczka",
-      "traffic": "1000+",
+      "name": "hernán galíndez",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "claudia fontán",
-      "traffic": "1000+",
+      "name": "nick robinson",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "caicedo",
+      "name": "kendry páez",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lunes feriado nacional",
-      "traffic": "500+",
+      "name": "turco garcía",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "loteria nacional nocturna de hoy",
-      "traffic": "200+",
+      "name": "quimsa",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "eloy room",
-      "traffic": "1000+",
+      "name": "córdoba",
+      "traffic": "200+",
       "rank": 10
     }
   ]
