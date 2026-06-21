@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-21T16:00:14Z",
+  "updated": "2026-06-21T16:14:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wimbledon",
-      "traffic": "100+",
+      "name": "españa fc",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "spain vs saudi arabia",
+      "name": "grupo de españa",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "wimbledon",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "spain vs saudi arabia",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "uber",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "sector público",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "a que hora juega argentina el 22 de junio",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "atp queens 2026",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "atp halle",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "invierno",
+      "name": "atp queens 2026",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sistema único de boleto electrónico",
-      "traffic": "200+",
+      "name": "atp halle",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "taylor fritz",
+      "name": "invierno",
       "traffic": "200+",
       "rank": 10
     }
