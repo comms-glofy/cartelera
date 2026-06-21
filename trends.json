@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T06:00:15Z",
+  "updated": "2026-06-21T06:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "junya itō",
-      "traffic": "1000+",
+      "name": "tecnico de tunez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tecnico de tunez",
-      "traffic": "200+",
+      "name": "herve renard",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "herve renard",
-      "traffic": "1000+",
+      "name": "daichi kamada",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "ao tanaka",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "keito nakamura",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "tunisia vs japan",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "harlan coben",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "21 de junio",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "lisandro martinez",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "angel correa",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "turf",
-      "traffic": "100+",
       "rank": 10
     }
   ]
