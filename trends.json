@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T22:00:14Z",
+  "updated": "2026-06-21T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "posiciones de atlético güemes contra gimnasia jujuy",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "arquero de cabo verde",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "cpv",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "cabo verde",
+      "traffic": "50000+",
+      "rank": 4
+    },
+    {
+      "name": "donde queda cabo verde",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "bielsa",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "luis suarez",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "federico viñas",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "u. de chile - santiago wanderers",
       "traffic": "200+",
-      "rank": 1
+      "rank": 9
     },
     {
       "name": "juan martín del potro",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "estadio mâs monumental",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "uruguay partidos",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "grupo de uruguay",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "deportivo maipú - gimnasia y tiro de salta",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "la casa del dragon",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima san luis",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "house of the dragon season 3",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "privatización",
-      "traffic": "200+",
       "rank": 10
     }
   ]
