@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T03:00:16Z",
+  "updated": "2026-06-21T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lisandro martinez",
+      "name": "cuando es el dia del padre en argentina",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "21 de junio",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "lisandro martinez",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "angel correa",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "turf",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "joaquín levinton",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "grupos mundial 2026",
-      "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nick robinson",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "grupos mundial 2026",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "kendry páez",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "turco garcía",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "quimsa",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
