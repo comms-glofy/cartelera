@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T14:02:17Z",
+  "updated": "2026-06-21T14:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "22 de junio",
-      "traffic": "1000+",
+      "name": "sistema único de boleto electrónico",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "canal 9",
-      "traffic": "100+",
+      "name": "taylor fritz",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mariano navone",
-      "traffic": "500+",
+      "name": "groenlandia",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "jubilación en españa",
+      "name": "nueva zelanda vs egipto",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "canal 9 en vivo",
-      "traffic": "500+",
+      "name": "automóvil",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "arsat",
-      "traffic": "100+",
+      "name": "22 de junio",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "2000+",
+      "name": "canal 9",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cerundolo",
-      "traffic": "2000+",
+      "name": "mariano navone",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "hsbc championships",
+      "name": "jubilación en españa",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "nicolás cabré",
-      "traffic": "200+",
+      "name": "canal 9 en vivo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
