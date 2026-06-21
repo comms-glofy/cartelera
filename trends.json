@@ -1,30 +1,30 @@
 {
-  "updated": "2026-06-21T15:30:13Z",
+  "updated": "2026-06-21T16:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "wimbledon",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "spain vs saudi arabia",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "uber",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "sector público",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "grupo h mundial 2026",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "a que hora juega argentina el 22 de junio",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "atp halle",
+      "name": "a que hora juega argentina el 22 de junio",
       "traffic": "100+",
       "rank": 5
     },
@@ -34,7 +34,7 @@
       "rank": 6
     },
     {
-      "name": "frances tiafoe",
+      "name": "atp halle",
       "traffic": "100+",
       "rank": 7
     },
