@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-21T23:09:07Z",
+  "updated": "2026-06-21T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "araujo",
-      "traffic": "200+",
+      "name": "sidny lopes cabral",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "roberto lopes",
+      "name": "wall street",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "vozinha",
-      "traffic": "2000+",
+      "name": "araujo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "maximiliano araújo",
-      "traffic": "500+",
+      "name": "roberto lopes",
+      "traffic": "100+",
       "rank": 4
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "muslera arquero",
-      "traffic": "200+",
+      "name": "vozinha",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "cabo",
+      "name": "muslera arquero",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "kevin pina",
-      "traffic": "2000+",
+      "name": "cabo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
