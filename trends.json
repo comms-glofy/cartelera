@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T17:00:15Z",
+  "updated": "2026-06-21T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elecciones colombia",
-      "traffic": "100+",
+      "name": "toy story",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "porque arabia saudita es ksa",
+      "name": "ferran torres",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rodri",
+      "name": "atlanta",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "unai simón",
+      "name": "pau cubarsí",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lamin yamal",
-      "traffic": "200+",
+      "name": "elecciones colombia",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ester exposito",
+      "name": "porque arabia saudita es ksa",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gavi",
+      "name": "rodri",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "from episode 9",
-      "traffic": "100+",
+      "name": "unai simón",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cucurella",
-      "traffic": "1000+",
+      "name": "lamin yamal",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pedri",
-      "traffic": "500+",
+      "name": "from episode 9",
+      "traffic": "100+",
       "rank": 10
     }
   ]
