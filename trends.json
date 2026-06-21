@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T00:00:16Z",
+  "updated": "2026-06-21T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ecuador - curazao",
-      "traffic": "20000+",
+      "name": "enner valencia",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ian lucas",
+      "name": "julia roberts",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marley",
-      "traffic": "200+",
+      "name": "trabajador",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "toy story 4",
-      "traffic": "200+",
+      "name": "ecuador - curazao",
+      "traffic": "50000+",
       "rank": 4
     },
     {
-      "name": "turismo carretera",
+      "name": "ian lucas",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "keanu reeves",
-      "traffic": "200+",
+      "name": "marley",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "¿quien se va de gran hermano?",
+      "name": "toy story 4",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "partidos de mundial hoy",
-      "traffic": "500+",
+      "name": "keanu reeves",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "desalojo",
-      "traffic": "500+",
+      "name": "turismo carretera",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "uruguay vs cabo verde",
-      "traffic": "500+",
+      "name": "¿quien se va de gran hermano?",
+      "traffic": "200+",
       "rank": 10
     }
   ]
