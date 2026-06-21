@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T17:30:14Z",
+  "updated": "2026-06-21T18:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "toy story",
-      "traffic": "1000+",
+      "name": "iñaki williams",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ferran torres",
-      "traffic": "200+",
+      "name": "iberia",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "atlanta",
-      "traffic": "200+",
+      "name": "infantino",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "pau cubarsí",
-      "traffic": "200+",
+      "name": "tc hoy",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "elecciones colombia",
+      "name": "aymeric laporte",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "porque arabia saudita es ksa",
-      "traffic": "200+",
+      "name": "nico williams",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "rodri",
+      "name": "yeremi pino",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "unai simón",
+      "name": "arquero de nigeria",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "lamin yamal",
+      "name": "enzo fernández",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "from episode 9",
-      "traffic": "100+",
+      "name": "toy story",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
