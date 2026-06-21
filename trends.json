@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T10:30:17Z",
+  "updated": "2026-06-21T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "pago",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "zion suzuki",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "tecnico de tunez",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
-      "name": "herve renard",
-      "traffic": "1000+",
-      "rank": 3
+      "name": "hervé renard",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "ao tanaka",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "keito nakamura",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ayase ueda",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "harlan coben",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "spiderman",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "cuando es el dia del padre en argentina",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "21 de junio",
-      "traffic": "200+",
       "rank": 10
     }
   ]
