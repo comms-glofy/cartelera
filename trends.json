@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-21T21:00:16Z",
+  "updated": "2026-06-21T21:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "primera nacional",
-      "traffic": "1000+",
+      "name": "clima san luis",
+      "traffic": "100+",
       "rank": 1
     },
     {
@@ -14,42 +14,42 @@
       "rank": 2
     },
     {
-      "name": "privatización",
-      "traffic": "100+",
+      "name": "house of the dragon season 3",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "atlético güemes - gimnasia jujuy",
-      "traffic": "500+",
+      "name": "privatización",
+      "traffic": "100+",
       "rank": 4
     },
     {
       "name": "nathan ngoy",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "atlético güemes - gimnasia jujuy",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "provincia de buenos aires",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "house of the dragon",
-      "traffic": "200+",
       "rank": 7
-    },
-    {
-      "name": "bosque petrificado",
-      "traffic": "100+",
-      "rank": 8
     },
     {
       "name": "avión",
       "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "bosque petrificado",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "all boys",
+      "name": "ranking",
       "traffic": "100+",
       "rank": 10
     }
