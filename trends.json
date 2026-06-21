@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-21T04:00:15Z",
+  "updated": "2026-06-21T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ayase ueda",
-      "traffic": "100+",
+      "name": "tecnico de tunez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "harlan coben",
-      "traffic": "100+",
+      "name": "junya itō",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cuando es el dia del padre en argentina",
-      "traffic": "500+",
+      "name": "herve renard",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "21 de junio",
+      "name": "keito nakamura",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lisandro martinez",
-      "traffic": "500+",
+      "name": "zoey deutch",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "angel correa",
-      "traffic": "500+",
+      "name": "harlan coben",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "turf",
-      "traffic": "100+",
+      "name": "21 de junio",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "copa mundial de fútbol posiciones",
+      "name": "lisandro martinez",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "joaquín levinton",
-      "traffic": "200+",
+      "name": "angel correa",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "quiniela de tucuman",
-      "traffic": "1000+",
+      "name": "turf",
+      "traffic": "100+",
       "rank": 10
     }
   ]
