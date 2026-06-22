@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T15:00:24Z",
+  "updated": "2026-06-22T15:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "contra quién juega argentina hoy",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "banco nacion",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
       "name": "federico coria",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "bull market",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "álvaro montoro",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "quinielas de hoy",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "quiniela de mendoza",
+      "name": "álvaro montoro",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "resultado de la quiniela",
+      "name": "quinielas de hoy",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "dolar hoy",
-      "traffic": "5000+",
+      "name": "quiniela de mendoza",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "500+",
+      "name": "resultado de la quiniela",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "patricia bullrich",
-      "traffic": "200+",
+      "name": "dolar hoy",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "irán",
-      "traffic": "200+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
