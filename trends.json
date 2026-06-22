@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T03:00:15Z",
+  "updated": "2026-06-22T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "trezeguet egipto",
-      "traffic": "1000+",
+      "name": "noruega vs senegal",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "micaela viciconte",
-      "traffic": "200+",
+      "name": "trézéguet",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "tim payne",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "chris wood",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "micaela viciconte",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "marmoush",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "pronostico cordoba",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "diarios de uruguay",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "paro de colectivos misiones",
-      "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "posiciones de u. de chile contra santiago wanderers",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "mohamed salah",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "el pais uruguay",
-      "traffic": "100+",
+      "name": "paro de colectivos misiones",
+      "traffic": "200+",
       "rank": 10
     }
   ]
