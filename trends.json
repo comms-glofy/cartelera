@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T06:00:17Z",
+  "updated": "2026-06-22T06:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "trezeguet",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
       "name": "micaela viciconte",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "chris wood",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "marmoush",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "pronostico cordoba",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "diarios de uruguay",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "salah",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
