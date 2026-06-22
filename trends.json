@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T23:16:35Z",
+  "updated": "2026-06-22T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inundación",
-      "traffic": "200+",
+      "name": "noruega - senegal",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "0223",
-      "traffic": "1000+",
+      "name": "policía",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rogelio frigerio",
+      "name": "secretaría de prensa de la presidencia de la nación",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "desempate olimpico",
-      "traffic": "200+",
+      "name": "inundación",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "france",
-      "traffic": "2000+",
+      "name": "0223",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "carlos bianco",
-      "traffic": "200+",
+      "name": "rogelio frigerio",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "dembele",
+      "name": "desempate olimpico",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "francis vs",
-      "traffic": "500+",
+      "name": "france",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "manu koné",
+      "name": "carlos bianco",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "asociación trabajadores del estado",
-      "traffic": "500+",
+      "name": "dembele",
+      "traffic": "200+",
       "rank": 10
     }
   ]
