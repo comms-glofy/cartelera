@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-22T02:30:16Z",
+  "updated": "2026-06-22T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chris wood",
-      "traffic": "500+",
+      "name": "trezeguet egipto",
+      "traffic": "1000+",
       "rank": 1
     },
     {
       "name": "micaela viciconte",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marmoush",
+      "name": "chris wood",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "200+",
+      "name": "marmoush",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "pronostico cordoba",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "diarios de uruguay",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "salah",
-      "traffic": "5000+",
       "rank": 6
-    },
-    {
-      "name": "posiciones de u. de chile contra santiago wanderers",
-      "traffic": "1000+",
-      "rank": 7
     },
     {
       "name": "paro de colectivos misiones",
       "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "posiciones de u. de chile contra santiago wanderers",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "el pais uruguay",
-      "traffic": "100+",
+      "name": "mohamed salah",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "francia vs irak",
+      "name": "el pais uruguay",
       "traffic": "100+",
       "rank": 10
     }
