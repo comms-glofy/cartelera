@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:01:05Z",
+  "updated": "2026-06-22T02:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,33 +14,33 @@
       "rank": 2
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "200+",
+      "name": "marmoush",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "diarios de uruguay",
-      "traffic": "100+",
+      "name": "pronostico cordoba",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "diarios de uruguay",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "salah",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "posiciones de u. de chile contra santiago wanderers",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "omar marmoush",
-      "traffic": "200+",
       "rank": 7
     },
     {
       "name": "paro de colectivos misiones",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "hbo",
-      "traffic": "5000+",
+      "name": "francia vs irak",
+      "traffic": "100+",
       "rank": 10
     }
   ]
