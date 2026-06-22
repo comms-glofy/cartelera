@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T00:00:16Z",
+  "updated": "2026-06-22T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "darwin nuñez",
+      "name": "hard rock stadium",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "de la cruz",
-      "traffic": "200+",
+      "name": "uruguay españa",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "sidny lopes cabral",
-      "traffic": "100+",
+      "name": "posiciones mundial 2026",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "wall street",
-      "traffic": "100+",
+      "name": "partidos de uruguay",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "araujo",
+      "name": "puntos del mundial 2026",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "roberto lopes",
+      "name": "brian rodríguez",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima gélido",
-      "traffic": "500+",
+      "name": "darwin nuñez",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "mariano werner",
+      "name": "de la cruz",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "cabo",
-      "traffic": "500+",
+      "name": "sidny lopes cabral",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "cano verde",
-      "traffic": "200+",
+      "name": "wall street",
+      "traffic": "100+",
       "rank": 10
     }
   ]
