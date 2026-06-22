@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T21:30:15Z",
+  "updated": "2026-06-22T22:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mbappe",
-      "traffic": "2000+",
+      "name": "dembele",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ester exposito",
+      "name": "carlos bianco",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "asociación trabajadores del estado",
+      "name": "france",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "elecciones perú 2026",
+      "name": "manu koné",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "carlos tevez",
-      "traffic": "1000+",
+      "name": "francis vs",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "france vs iraq",
-      "traffic": "2000+",
+      "name": "mbappe",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "tenis en argentina",
-      "traffic": "1000+",
+      "name": "ester exposito",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "francia - irak",
-      "traffic": "50000+",
+      "name": "asociación trabajadores del estado",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "joaquín bruno",
-      "traffic": "500+",
+      "name": "elecciones perú 2026",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cuánto salió argentina",
-      "traffic": "100+",
+      "name": "carlos tevez",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
