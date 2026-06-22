@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T22:30:20Z",
+  "updated": "2026-06-22T23:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "desempate olimpico",
+      "name": "0223",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "france",
-      "traffic": "2000+",
+      "name": "rogelio frigerio",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "carlos bianco",
+      "name": "desempate olimpico",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "dembele",
-      "traffic": "200+",
+      "name": "lucas digne",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "francis vs",
-      "traffic": "200+",
+      "name": "france",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "manu koné",
+      "name": "carlos bianco",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "asociación trabajadores del estado",
-      "traffic": "500+",
+      "name": "dembele",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ester exposito",
+      "name": "francis vs",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "francia iraq",
-      "traffic": "10000+",
+      "name": "manu koné",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "elecciones perú 2026",
-      "traffic": "200+",
+      "name": "asociación trabajadores del estado",
+      "traffic": "500+",
       "rank": 10
     }
   ]
