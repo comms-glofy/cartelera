@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T21:00:21Z",
+  "updated": "2026-06-22T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elecciones perú 2026",
-      "traffic": "100+",
+      "name": "mbappe",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "carlos tevez",
-      "traffic": "500+",
+      "name": "ester exposito",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "france vs iraq",
-      "traffic": "1000+",
+      "name": "asociación trabajadores del estado",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "elecciones perú 2026",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "carlos tevez",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "france vs iraq",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "tenis en argentina",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "francia - irak",
       "traffic": "50000+",
-      "rank": 5
+      "rank": 8
     },
     {
-      "name": "jürgen klopp",
-      "traffic": "100+",
-      "rank": 6
+      "name": "joaquín bruno",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "cuánto salió argentina",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "mundo deportivo",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "general motors",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "kun agüero",
-      "traffic": "500+",
       "rank": 10
     }
   ]
