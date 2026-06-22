@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-22T13:30:19Z",
+  "updated": "2026-06-22T14:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "con quien juega argentina",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "elsa pataky",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "chino darín",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "olivia rodrigo",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "copa mundial de la fifa 2026 partidos",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "gustavo álvarez",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "lady gaga",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "hantavirus",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "argentina vs austria world cup 2026",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "keir starmer",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "justicia cordoba",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "francisco comesaña",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "video de jesica cirio con dolares",
+      "name": "keir starmer",
       "traffic": "200+",
       "rank": 10
     }
