@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-22T23:00:17Z",
+  "updated": "2026-06-22T23:16:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "0223",
+      "name": "inundación",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "0223",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "rogelio frigerio",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "desempate olimpico",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "lucas digne",
-      "traffic": "100+",
       "rank": 4
     },
     {
