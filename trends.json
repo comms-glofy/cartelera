@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T20:30:17Z",
+  "updated": "2026-06-22T21:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "france vs iraq",
-      "traffic": "200+",
+      "name": "elecciones perú 2026",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "carlos tevez",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "france vs iraq",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "tenis en argentina",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
-      "name": "carlos tevez",
-      "traffic": "100+",
-      "rank": 3
+      "name": "francia - irak",
+      "traffic": "50000+",
+      "rank": 5
     },
     {
       "name": "jürgen klopp",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "cuánto salió argentina",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
-      "name": "maxi lopez jugo en la seleccion",
-      "traffic": "500+",
-      "rank": 6
+      "name": "mundo deportivo",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "general motors",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "irak",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "kun agüero",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "klopp",
-      "traffic": "200+",
+      "name": "kun agüero",
+      "traffic": "500+",
       "rank": 10
     }
   ]
