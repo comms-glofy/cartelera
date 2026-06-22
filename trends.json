@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T19:00:20Z",
+  "updated": "2026-06-22T19:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "2026",
-      "traffic": "2000+",
+      "name": "fixture mundial 2026",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "chukwuemeka",
-      "traffic": "500+",
+      "name": "grupo h mundial 2026",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "tagliafico",
+      "name": "goleadores del mundial 2026",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "portugal vs uzbekistan",
-      "traffic": "100+",
+      "name": "lo celso",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "copa america",
-      "traffic": "100+",
+      "name": "uruguay vs españa",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "afa",
-      "traffic": "200+",
+      "name": "as",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tom holland",
+      "name": "partido argentina sabado",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "otamendi",
-      "traffic": "5000+",
+      "name": "elecciones en perú",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "hijos de shakira",
-      "traffic": "2000+",
+      "name": "noruega vs senegal",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "arnautovic",
-      "traffic": "2000+",
+      "name": "simeone",
+      "traffic": "100+",
       "rank": 10
     }
   ]
