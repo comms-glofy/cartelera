@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T01:30:16Z",
+  "updated": "2026-06-22T02:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diarios de uruguay",
-      "traffic": "100+",
+      "name": "chris wood",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "micaela viciconte",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "pronostico cordoba",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "diarios de uruguay",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "salah",
-      "traffic": "2000+",
-      "rank": 3
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "posiciones de u. de chile contra santiago wanderers",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "omar marmoush",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "paro de colectivos misiones",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "omar marmoush",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "hbo max",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "francia vs irak",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "copa mundial fifa 2026",
-      "traffic": "500+",
+      "name": "el pais uruguay",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "resultados del mundial 2026",
-      "traffic": "500+",
+      "name": "hbo",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
