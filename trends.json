@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T08:36:54Z",
+  "updated": "2026-06-22T09:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "trezeguet",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
       "name": "micaela viciconte",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "chris wood",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "new zealand vs",
-      "traffic": "1000+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "marmoush",
       "traffic": "500+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "pronostico cordoba",
       "traffic": "500+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "diarios de uruguay",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "salah",
+      "traffic": "10000+",
+      "rank": 9
+    },
+    {
+      "name": "paro de colectivos misiones",
+      "traffic": "500+",
       "rank": 10
     }
   ]
