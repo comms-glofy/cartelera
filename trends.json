@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T18:30:19Z",
+  "updated": "2026-06-22T18:43:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "shakira",
+      "name": "otamendi",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "500+",
+      "name": "julian alvarez",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "steam machine",
-      "traffic": "200+",
+      "name": "arnautovic",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "argentina jordania mundial 2026",
-      "traffic": "200+",
+      "name": "pique",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "clima dallas",
-      "traffic": "100+",
+      "name": "dybala",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "messi",
-      "traffic": "20000+",
+      "name": "proximo partido argentina",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mundial 2030",
-      "traffic": "1000+",
+      "name": "thiago messi",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "charly garcia",
-      "traffic": "500+",
+      "name": "shakira",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "mariano closs",
+      "name": "mirtha legrand",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cuando es la final del mundial 2026",
-      "traffic": "2000+",
+      "name": "argentina jordania mundial 2026",
+      "traffic": "500+",
       "rank": 10
     }
   ]
