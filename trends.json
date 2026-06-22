@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T10:00:17Z",
+  "updated": "2026-06-22T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "la 100 en vivo",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "tiempo",
+      "traffic": "10000+",
+      "rank": 2
+    },
+    {
       "name": "tiempo en rosario",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "selección de fútbol de túnez",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "clima tucuman",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "jordania vs argelia",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "noruega vs senegal",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "trézéguet",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "egypt vs",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "micaela viciconte",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "chris wood",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "egypto",
-      "traffic": "500+",
       "rank": 10
     }
   ]
