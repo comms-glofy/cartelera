@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T01:00:16Z",
+  "updated": "2026-06-22T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "new zealand vs egypt",
-      "traffic": "200+",
+      "name": "diarios de uruguay",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "pronostico cordoba",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "salah",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "posiciones de u. de chile contra santiago wanderers",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "paro de colectivos misiones",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "omar marmoush",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "hbo max",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "francia vs irak",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "cómo quedó el grupo de uruguay",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "quien juega ahora",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "grupos mundial 2026",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "posiciones mundial 2026",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "fase de grupos mundial 2026",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "partidos de uruguay",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "puntos del mundial 2026",
-      "traffic": "2000+",
+      "name": "copa mundial fifa 2026",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "brian rodríguez",
-      "traffic": "200+",
+      "name": "resultados del mundial 2026",
+      "traffic": "500+",
       "rank": 10
     }
   ]
