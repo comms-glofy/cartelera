@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T16:30:16Z",
+  "updated": "2026-06-22T17:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "directv go",
+      "name": "dibu martinez",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "pampita",
+      "name": "pelota mundial 2026",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "argentina - austria",
-      "traffic": "50000+",
+      "name": "espn",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "flow",
-      "traffic": "10000+",
+      "name": "radio la red",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "disney plus",
-      "traffic": "2000+",
+      "name": "canal 9",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "disney",
-      "traffic": "2000+",
+      "name": "te",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "disney plus argentina",
-      "traffic": "100+",
+      "name": "dgo",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "quiniela",
+      "name": "tyc sports",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "dia del futbolista argentino",
-      "traffic": "100+",
+      "name": "paramount plus",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "disney channel",
-      "traffic": "100+",
+      "name": "kevin danso",
+      "traffic": "200+",
       "rank": 10
     }
   ]
