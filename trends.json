@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T11:00:19Z",
+  "updated": "2026-06-22T11:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "contexto tucuman",
+      "name": "wimbledon",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cadena3",
+      "name": "sanción",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima rosario",
-      "traffic": "500+",
+      "name": "senador",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "diario chaco",
+      "name": "cadena3",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "catamarca ya",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "reconquista hoy",
-      "traffic": "100+",
+      "name": "clima rosario",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "la 100 en vivo",
-      "traffic": "200+",
+      "name": "diario chaco",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "catamarca ya",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "reconquista hoy",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "tiempo",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "misionesonline",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "selección de fútbol de túnez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
