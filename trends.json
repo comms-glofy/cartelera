@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-23T15:00:27Z",
+  "updated": "2026-06-23T15:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wimbledon",
-      "traffic": "100+",
+      "name": "julián álvarez",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "colesterol",
+      "name": "25 de junio",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "reelección",
+      "name": "paul avery",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bangladesh",
-      "traffic": "2000+",
+      "name": "fecha",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "página/12",
-      "traffic": "200+",
+      "name": "wimbledon",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "portugal vs uzbekistan pronostico",
+      "name": "colesterol",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "joaquín levinton",
-      "traffic": "100+",
+      "name": "reelección",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "emova",
-      "traffic": "200+",
+      "name": "bangladesh",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "500+",
+      "name": "página/12",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "los 40 principales",
-      "traffic": "100+",
+      "name": "portugal vs uzbekistan pronostico",
+      "traffic": "200+",
       "rank": 10
     }
   ]
