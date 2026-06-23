@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-23T08:30:18Z",
+  "updated": "2026-06-23T09:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "posiciones de selección de fútbol de jordania contra selección de fútbol de argelia",
+      "traffic": "200000+",
+      "rank": 1
+    },
+    {
       "name": "ibrahim maza",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "accidente colectivo",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "quien se fue de gran hermano hoy",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "andrea frigerio",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "jordania - argelia",
       "traffic": "100000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "senegal vs irak",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nor vs sen",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "duka",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "noriega",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "francia noruega",
-      "traffic": "200+",
       "rank": 10
     }
   ]
