@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-23T15:30:23Z",
+  "updated": "2026-06-23T15:45:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "julián álvarez",
-      "traffic": "5000+",
+      "name": "román andrés burruchaga",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "julián álvarez",
+      "traffic": "10000+",
+      "rank": 2
     },
     {
       "name": "25 de junio",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "paul avery",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "go",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "fecha",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "wimbledon",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "colesterol",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "reelección",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "bangladesh",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "página/12",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "portugal vs uzbekistan pronostico",
-      "traffic": "200+",
       "rank": 10
     }
   ]
