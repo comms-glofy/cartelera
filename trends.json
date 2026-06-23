@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T08:00:20Z",
+  "updated": "2026-06-23T08:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "nor vs sen",
+      "name": "senegal vs irak",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "duka",
+      "name": "nor vs sen",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "noriega",
+      "name": "duka",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "francia noruega",
-      "traffic": "200+",
+      "name": "noriega",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "inglaterra vs ghana",
-      "traffic": "500+",
+      "name": "francia noruega",
+      "traffic": "200+",
       "rank": 10
     }
   ]
