@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-23T10:30:15Z",
+  "updated": "2026-06-23T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "temperatura cordoba",
+      "name": "diario textual",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ibrahim maza",
+      "name": "el territorio",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "temperatura cordoba",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "posiciones de selección de fútbol de jordania contra selección de fútbol de argelia",
+      "traffic": "200000+",
+      "rank": 4
+    },
+    {
+      "name": "ibrahim maza",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "accidente colectivo",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "mousa al-tamari",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "andrea frigerio",
       "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "jordania - argelia",
-      "traffic": "200000+",
-      "rank": 6
-    },
-    {
-      "name": "gh",
-      "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nor vs sen",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "duka",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "andreas schjelderup",
-      "traffic": "200+",
       "rank": 10
     }
   ]
