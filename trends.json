@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-23T04:30:15Z",
+  "updated": "2026-06-23T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quien se fue de gran hermano hoy",
-      "traffic": "5000+",
+      "name": "ibrahim maza",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "andrea frigerio",
+      "name": "quien se fue de gran hermano hoy",
       "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "jordan vs algeria",
-      "traffic": "1000+",
+      "name": "andrea frigerio",
+      "traffic": "5000+",
       "rank": 3
+    },
+    {
+      "name": "jordan vs algeria",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "jordania - argelia",
       "traffic": "100000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gh",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "ismaïla sarr",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "duka",
+      "name": "ismaila sarr",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "marley",
-      "traffic": "1000+",
+      "name": "duka",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "noriega",
-      "traffic": "100+",
+      "name": "marley",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "kalidou koulibaly",
+      "name": "noriega",
       "traffic": "100+",
       "rank": 10
     }
