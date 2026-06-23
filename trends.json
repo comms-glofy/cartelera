@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-23T22:30:16Z",
+  "updated": "2026-06-23T23:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "julio de vido",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "panamá - croacia",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "deschamps",
-      "traffic": "200+",
+      "name": "flavio briatore",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "flavio briatore",
-      "traffic": "200+",
+      "name": "deschamps",
+      "traffic": "500+",
       "rank": 4
     },
     {
@@ -29,18 +29,18 @@
       "rank": 5
     },
     {
-      "name": "posiciones mundial 2026",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
       "name": "san juan",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "club atlético chacarita juniors",
       "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "posiciones mundial 2026",
+      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "se cayo instagram",
-      "traffic": "2000+",
+      "name": "ghana",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
