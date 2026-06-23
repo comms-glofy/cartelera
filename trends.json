@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-23T23:06:08Z",
+  "updated": "2026-06-23T23:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luka modric",
-      "traffic": "1000+",
+      "name": "fiscal",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "steam",
+      "name": "modric",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "club estudiantes de la plata",
+      "name": "26 de junio",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "zonda",
-      "traffic": "200+",
+      "name": "luka modric",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "club estudiantes de la plata",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "ariel lijo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "steam",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "zonda",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "julio de vido",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "panamá - croacia",
       "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "flavio briatore",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "deschamps",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "precio",
-      "traffic": "500+",
       "rank": 10
     }
   ]
