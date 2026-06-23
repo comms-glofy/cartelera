@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-23T16:00:26Z",
+  "updated": "2026-06-23T16:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a qué hora juega portugal",
-      "traffic": "1000+",
+      "name": "portugal - uzbekistán",
+      "traffic": "5000+",
       "rank": 1
+    },
+    {
+      "name": "juan gil navarro",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "economía",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "resultado de la quiniela",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "román andrés burruchaga",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "julián álvarez",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "25 de junio",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "paul avery",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "fecha",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "wimbledon",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "colesterol",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "reelección",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "bangladesh",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
