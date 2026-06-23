@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-23T18:00:23Z",
+  "updated": "2026-06-23T18:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vitinha",
-      "traffic": "100+",
+      "name": "ciclogénesis",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "mercado libre",
+      "name": "vitinha",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "portugal",
-      "traffic": "200+",
+      "name": "mercado libre",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "portugal",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "pedro neto",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "bruno fernandes",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "portugal fc",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "fabio cannavaro",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "georgina rodríguez",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "dolar blue",
-      "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ronaldo",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "edad de cristiano ronaldo",
-      "traffic": "500+",
       "rank": 10
     }
   ]
