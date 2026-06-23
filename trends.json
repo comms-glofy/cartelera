@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-23T09:00:17Z",
+  "updated": "2026-06-23T09:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de selección de fútbol de jordania contra selección de fútbol de argelia",
-      "traffic": "200000+",
-      "rank": 1
-    },
-    {
       "name": "ibrahim maza",
       "traffic": "100+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "accidente colectivo",
       "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "mousa al-tamari",
+      "traffic": "100+",
       "rank": 3
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "jordania - argelia",
-      "traffic": "100000+",
+      "traffic": "200000+",
       "rank": 6
     },
     {
