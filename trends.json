@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T05:00:16Z",
+  "updated": "2026-06-23T05:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "quien se fue de gran hermano hoy",
-      "traffic": "5000+",
+      "name": "accidente colectivo",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "andrea frigerio",
+      "name": "quien se fue de gran hermano hoy",
       "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "jordan vs algeria",
-      "traffic": "2000+",
+      "name": "andrea frigerio",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "jordania - argelia",
-      "traffic": "100000+",
+      "name": "jordan vs algeria",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "jordania - argelia",
+      "traffic": "200000+",
+      "rank": 6
     },
     {
       "name": "gh",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ismaila sarr",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "duka",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "marley",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "noriega",
-      "traffic": "100+",
       "rank": 10
     }
   ]
