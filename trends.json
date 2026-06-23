@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-23T12:00:21Z",
+  "updated": "2026-06-23T12:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "joaquín levinton",
+      "name": "portugal vs uzbekistan pronostico",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "emova",
+      "name": "joaquín levinton",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "thiago agustín tirante",
+      "name": "emova",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "los 40 principales",
-      "traffic": "100+",
+      "name": "thiago agustín tirante",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "diario textual",
+      "name": "los 40 principales",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "el territorio",
+      "name": "diario textual",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "temperatura cordoba",
-      "traffic": "200+",
+      "name": "el territorio",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "posiciones de selección de fútbol de jordania contra selección de fútbol de argelia",
-      "traffic": "50000+",
+      "name": "temperatura cordoba",
+      "traffic": "200+",
       "rank": 8
+    },
+    {
+      "name": "posiciones de selección de fútbol de jordania contra selección de fútbol de argelia",
+      "traffic": "200000+",
+      "rank": 9
     },
     {
       "name": "ibrahim maza",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "accidente colectivo",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
