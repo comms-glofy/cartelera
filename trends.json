@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-23T14:00:21Z",
+  "updated": "2026-06-23T14:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "wimbledon",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "colesterol",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "¿quien se fue de gran hermano?",
+      "traffic": "5000+",
+      "rank": 3
     },
     {
       "name": "bangladesh",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "reelección",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "página/12",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "portugal vs uzbekistan pronostico",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "joaquín levinton",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "emova",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "thiago agustín tirante",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "los 40 principales",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "diario el diario",
-      "traffic": "100+",
       "rank": 10
     }
   ]
