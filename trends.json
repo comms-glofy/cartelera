@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-23T03:00:19Z",
+  "updated": "2026-06-23T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "andrea frigerio",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 1
     },
     {
       "name": "jordan vs algeria",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "ismaila sarr",
+      "name": "duka",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "quien se va de gran hermano hoy",
-      "traffic": "20000+",
-      "rank": 6
-    },
-    {
-      "name": "duka",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
       "name": "marley",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "noriega",
       "traffic": "100+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "kalidou koulibaly",
       "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "grupo de noruega",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "inglaterra vs ghana",
+      "traffic": "500+",
       "rank": 10
     }
   ]
