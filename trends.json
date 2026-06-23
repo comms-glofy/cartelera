@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T07:00:18Z",
+  "updated": "2026-06-23T07:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -25,32 +25,32 @@
     },
     {
       "name": "jordania - argelia",
-      "traffic": "200000+",
+      "traffic": "100000+",
       "rank": 5
     },
     {
-      "name": "gh",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "ismaila sarr",
+      "name": "nor vs sen",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "duka",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "marley",
-      "traffic": "1000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "noriega",
       "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "inglaterra vs ghana",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "vikingos",
+      "traffic": "200+",
       "rank": 10
     }
   ]
