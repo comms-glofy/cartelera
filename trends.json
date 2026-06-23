@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T19:30:21Z",
+  "updated": "2026-06-23T19:57:45Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "portugal va",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
       "name": "mercado libre",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "portugal",
       "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "portugal fc",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "pedro neto",
-      "traffic": "200+",
+      "name": "fabio cannavaro",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "bruno fernandes",
+      "name": "georgina rodríguez",
       "traffic": "200+",
       "rank": 10
     }
