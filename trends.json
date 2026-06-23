@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:44:16Z",
+  "updated": "2026-06-23T22:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "inglaterra fc",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "crédito",
-      "traffic": "2000+",
+      "name": "didier deschamps",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ciclogénesis",
-      "traffic": "1000+",
+      "name": "crédito",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "ciclogénesis",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "vitinha",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "renato veiga",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mercado libre",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "portugal",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
