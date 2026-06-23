@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-23T11:00:17Z",
+  "updated": "2026-06-23T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario textual",
-      "traffic": "100+",
+      "name": "thiago agustín tirante",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "el territorio",
+      "name": "los 40 principales",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "temperatura cordoba",
+      "name": "diario textual",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "el territorio",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "temperatura cordoba",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "posiciones de selección de fútbol de jordania contra selección de fútbol de argelia",
       "traffic": "200000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "ibrahim maza",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "accidente colectivo",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "mousa al-tamari",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "andrea frigerio",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "nor vs sen",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "duka",
-      "traffic": "100+",
       "rank": 10
     }
   ]
