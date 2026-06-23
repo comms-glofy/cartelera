@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-23T13:30:18Z",
+  "updated": "2026-06-23T14:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bangladesh",
-      "traffic": "1000+",
+      "name": "colesterol",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "reelección",
-      "traffic": "100+",
+      "name": "bangladesh",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "portugal vs uzbekistan pronostico",
-      "traffic": "100+",
+      "name": "reelección",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "joaquín levinton",
-      "traffic": "100+",
+      "name": "página/12",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "emova",
+      "name": "portugal vs uzbekistan pronostico",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "joaquín levinton",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "emova",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "thiago agustín tirante",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "los 40 principales",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "diario el diario",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "diario textual",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "el territorio",
+      "name": "diario el diario",
       "traffic": "100+",
       "rank": 10
     }
