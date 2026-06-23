@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-23T04:00:16Z",
+  "updated": "2026-06-23T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "quien se fue de gran hermano hoy",
-      "traffic": "10000+",
+      "traffic": "5000+",
       "rank": 1
     },
     {
@@ -25,32 +25,32 @@
     },
     {
       "name": "gh",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "ismaïla sarr",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "duka",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "marley",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "noriega",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "kalidou koulibaly",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "inglaterra vs ghana",
-      "traffic": "500+",
       "rank": 10
     }
   ]
