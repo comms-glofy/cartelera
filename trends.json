@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-23T10:00:19Z",
+  "updated": "2026-06-23T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ibrahim maza",
+      "name": "temperatura cordoba",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "ibrahim maza",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "accidente colectivo",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mousa al-tamari",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "quien se fue de gran hermano hoy",
-      "traffic": "2000+",
       "rank": 4
     },
     {
@@ -34,8 +34,8 @@
       "rank": 6
     },
     {
-      "name": "senegal vs irak",
-      "traffic": "100+",
+      "name": "gh",
+      "traffic": "5000+",
       "rank": 7
     },
     {
