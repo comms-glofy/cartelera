@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-22T23:30:15Z",
+  "updated": "2026-06-23T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "noruega - senegal",
-      "traffic": "10000+",
+      "name": "jurgen klopp",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "policía",
-      "traffic": "100+",
+      "name": "noruega - senegal",
+      "traffic": "20000+",
       "rank": 2
+    },
+    {
+      "name": "senegal vs",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "policía",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "secretaría de prensa de la presidencia de la nación",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "inundación",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "0223",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "rogelio frigerio",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "desempate olimpico",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "france",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "carlos bianco",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dembele",
-      "traffic": "200+",
+      "name": "france",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
