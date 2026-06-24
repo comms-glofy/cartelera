@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T05:34:10Z",
+  "updated": "2026-06-24T06:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,47 +10,47 @@
     },
     {
       "name": "quien cumple el 24 de junio",
-      "traffic": "1000+",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "grupo colombia mundial",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "jhon córdoba",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "fangio",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lumumba",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "24 de junio",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "camilo vargas",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lionel mpasi",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lumumba vea",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "gustavo puerta",
-      "traffic": "500+",
       "rank": 10
     }
   ]
