@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-24T23:00:15Z",
+  "updated": "2026-06-24T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rivaldo",
-      "traffic": "200+",
+      "name": "ekaterina",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "morocco vs haiti",
-      "traffic": "200+",
+      "name": "venezuela",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "emilia clarke",
+      "name": "ovnis",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "marruecos vs haiti",
-      "traffic": "20000+",
+      "name": "brasil",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "scotland vs brazil",
-      "traffic": "1000+",
+      "name": "rivaldo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "rayan",
-      "traffic": "1000+",
+      "name": "morocco vs haiti",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "hernán crespo",
-      "traffic": "500+",
+      "name": "emilia clarke",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "escócia x brasil",
-      "traffic": "500+",
+      "name": "marruecos vs haiti",
+      "traffic": "50000+",
       "rank": 8
     },
     {
-      "name": "ronaldo nazario",
-      "traffic": "500+",
+      "name": "scotland vs brazil",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "mexico vs republica checa",
-      "traffic": "200+",
+      "name": "hernán crespo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
