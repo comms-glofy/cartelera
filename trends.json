@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-24T01:23:59Z",
+  "updated": "2026-06-24T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "colombia - rd congo",
+      "traffic": "10000+",
+      "rank": 1
+    },
+    {
       "name": "meteored",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "salario",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "luka modrić",
-      "traffic": "200+",
       "rank": 3
     },
     {
