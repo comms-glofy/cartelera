@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-24T03:00:18Z",
+  "updated": "2026-06-24T03:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "james",
-      "traffic": "500+",
+      "name": "dia de san juan",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "gustavo puerta",
-      "traffic": "200+",
+      "name": "lumumba",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "pelota libre argentina austria",
+      "name": "24 de junio",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lumumba vea",
+      "name": "camilo vargas",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "james rodríguez",
-      "traffic": "2000+",
+      "name": "james",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "turco garcía",
-      "traffic": "2000+",
+      "name": "lumumba vea",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "congo",
-      "traffic": "2000+",
+      "name": "gustavo puerta",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "caido instagram",
-      "traffic": "2000+",
+      "name": "pelota libre argentina austria",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "brasil vs escocia",
-      "traffic": "100+",
+      "name": "james rodríguez",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "marley",
-      "traffic": "200+",
+      "name": "congo",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
