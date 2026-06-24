@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-24T00:30:14Z",
+  "updated": "2026-06-24T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ante budimir",
+      "name": "grupo de croacia",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "grupo de croacia",
-      "traffic": "100+",
-      "rank": 2
-    },
-    {
       "name": "everton - u. católica",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "pablo moyano",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "elecciones uncuyo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "fiscal",
       "traffic": "500+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "modric",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "26 de junio",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "luka modric",
-      "traffic": "1000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "panama vs croatia world cup 2026",
       "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "club estudiantes de la plata",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "ariel lijo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
