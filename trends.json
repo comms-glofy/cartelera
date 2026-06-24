@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-24T20:30:20Z",
+  "updated": "2026-06-24T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "comercio",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "río",
-      "traffic": "100+",
+      "name": "mauro zarate",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "río",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "tenis",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "quiniela nacional",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "industria automotriz",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "fifa world cup 2026 standings",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
