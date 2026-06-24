@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T23:30:17Z",
+  "updated": "2026-06-24T00:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,38 +9,38 @@
       "rank": 1
     },
     {
-      "name": "modric",
-      "traffic": "1000+",
+      "name": "26 de junio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "26 de junio",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "luka modric",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "club estudiantes de la plata",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "ariel lijo",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "steam",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "zonda",
       "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "posiciones de selección de fútbol de inglaterra contra selección de fútbol de ghana",
+      "traffic": "2000+",
       "rank": 8
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "panamá - croacia",
-      "traffic": "20000+",
+      "traffic": "50000+",
       "rank": 10
     }
   ]
