@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-24T04:00:16Z",
+  "updated": "2026-06-24T04:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lumumba",
-      "traffic": "500+",
+      "name": "riquelme",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "24 de junio",
-      "traffic": "200+",
+      "name": "quien cumple el 24 de junio",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "camilo vargas",
-      "traffic": "200+",
+      "name": "jhon córdoba",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lionel mpasi",
-      "traffic": "500+",
+      "name": "fangio",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gustavo puerta",
-      "traffic": "500+",
+      "name": "lumumba",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "james",
+      "name": "24 de junio",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "pelota libre argentina austria",
-      "traffic": "500+",
+      "name": "camilo vargas",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "james rodríguez",
-      "traffic": "2000+",
+      "name": "lionel mpasi",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "congo",
-      "traffic": "5000+",
+      "name": "lumumba vea",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "turco garcía",
-      "traffic": "2000+",
+      "name": "gustavo puerta",
+      "traffic": "500+",
       "rank": 10
     }
   ]
