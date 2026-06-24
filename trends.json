@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-24T18:30:18Z",
+  "updated": "2026-06-24T19:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela nacional",
+      "name": "río",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "quiniela nacional",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "fifa world cup 2026 standings",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "tabla de posiciones de la copa mundial de la fifa 2026",
       "traffic": "20000+",
-      "rank": 3
-    },
-    {
-      "name": "bosnia vs qatar pronostico",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "feliz cumple messi",
+      "name": "bosnia vs qatar pronostico",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "feliz cumple messi",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "gta 6",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "juan manuel cerúndolo",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cumpleaños 24 de junio",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "wang chuanfu",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "peaje",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "rockstar",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
