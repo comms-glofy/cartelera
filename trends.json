@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T15:00:19Z",
+  "updated": "2026-06-24T15:17:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "feliz cumple messi",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
       "name": "gta 6",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "500+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "wang chuanfu",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "cumpleaños 24 de junio",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "peaje",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "san juan bautista",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "rockstar",
+      "traffic": "500+",
       "rank": 10
     }
   ]
