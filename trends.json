@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-24T16:00:18Z",
+  "updated": "2026-06-24T16:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fifa world cup 2026 standings",
+      "name": "quiniela nacional",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "fifa world cup 2026 standings",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "tabla de posiciones de la copa mundial de la fifa 2026",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "bosnia vs qatar pronostico",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "gta 6",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "juan manuel cerúndolo",
+      "name": "feliz cumple messi",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "cumpleaños 24 de junio",
+      "name": "gta 6",
       "traffic": "1000+",
       "rank": 6
     },
     {
+      "name": "juan manuel cerúndolo",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "wang chuanfu",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "peaje",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "rockstar",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "san juan bautista",
+      "name": "rockstar",
       "traffic": "1000+",
       "rank": 10
     }
