@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-24T10:00:16Z",
+  "updated": "2026-06-24T10:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "copa mundial de fútbol",
+      "name": "cruces de 16vos del mundial 2026",
       "traffic": "2000+",
       "rank": 1
     },
     {
+      "name": "rodrigo",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "ricardo lorenzetti",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "posiciones de selección de fútbol de colombia contra selección de fútbol de la república democrática del congo",
       "traffic": "20000+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "fangio",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "rituales noche de san juan",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "riquelme",
-      "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "quien cumple el 24 de junio",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "jhon córdoba",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
-      "name": "fangio",
+      "name": "grupo colombia mundial",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "24 de junio",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "lumumba",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "lionel mpasi",
-      "traffic": "500+",
       "rank": 10
     }
   ]
