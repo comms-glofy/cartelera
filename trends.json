@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-24T21:00:17Z",
+  "updated": "2026-06-24T21:09:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "comercio",
-      "traffic": "200+",
+      "name": "johan manzambi",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "bosnia vs qatar",
-      "traffic": "10000+",
+      "name": "comercio",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "bosnia vs qatar",
+      "traffic": "20000+",
+      "rank": 3
     },
     {
       "name": "auca mahuida",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "seguridad aeroportuaria",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "rodrigo de paul",
+      "name": "seguridad aeroportuaria",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "mauro zarate",
-      "traffic": "200+",
+      "name": "rodrigo de paul",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "río",
+      "name": "mauro zarate",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tenis",
-      "traffic": "100+",
+      "name": "río",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "quiniela nacional",
+      "name": "tenis",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "industria automotriz",
-      "traffic": "200+",
+      "name": "quiniela nacional",
+      "traffic": "100+",
       "rank": 10
     }
   ]
