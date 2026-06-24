@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-24T00:00:18Z",
+  "updated": "2026-06-24T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fiscal",
-      "traffic": "200+",
+      "name": "ante budimir",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "grupo de croacia",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "everton - u. católica",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "pablo moyano",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "elecciones uncuyo",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "fiscal",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "modric",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "26 de junio",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "luka modric",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "club estudiantes de la plata",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "ariel lijo",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "steam",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "zonda",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "posiciones de selección de fútbol de inglaterra contra selección de fútbol de ghana",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "julio de vido",
-      "traffic": "200+",
+      "name": "luka modric",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "panamá - croacia",
-      "traffic": "50000+",
+      "name": "panama vs croatia world cup 2026",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
