@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-24T20:00:17Z",
+  "updated": "2026-06-24T20:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bosnia vs qatar",
-      "traffic": "1000+",
+      "name": "comercio",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "auca mahuida",
-      "traffic": "100+",
+      "name": "bosnia vs qatar",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "seguridad aeroportuaria",
-      "traffic": "100+",
+      "name": "auca mahuida",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rodrigo de paul",
+      "name": "seguridad aeroportuaria",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "río",
-      "traffic": "100+",
+      "name": "rodrigo de paul",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "tenis",
+      "name": "río",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "quiniela nacional",
+      "name": "tenis",
       "traffic": "100+",
       "rank": 7
     },
     {
+      "name": "quiniela nacional",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "industria automotriz",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "fifa world cup 2026 standings",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "tabla de posiciones de la copa mundial de la fifa 2026",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
