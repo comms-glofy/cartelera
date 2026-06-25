@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-25T02:00:16Z",
+  "updated": "2026-06-25T02:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "south africa vs south korea",
-      "traffic": "5000+",
+      "name": "mexico fc",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "czechia vs mexico world cup 2026",
+      "name": "29 de junio",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "selección de fútbol de ecuador",
+      "name": "gilberto mora",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "czechia vs mexico world cup 2026",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "south africa vs south korea",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "selección de fútbol de ecuador",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "cámara federal de casación penal comodoro py",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "kevin zenón",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "#cumpleleo",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "hijo de neymar",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "bruna biancardi",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "avenida brasil",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "u. la calera - u. de chile",
-      "traffic": "500+",
       "rank": 10
     }
   ]
