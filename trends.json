@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-25T18:00:16Z",
+  "updated": "2026-06-25T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ecuador vs alemania",
-      "traffic": "2000+",
+      "name": "maxi meza",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bono",
-      "traffic": "1000+",
+      "name": "25 de junio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "selección de fútbol de jordania",
-      "traffic": "200+",
+      "name": "ecuador vs alemania",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "selección de fútbol sub-17 de argentina",
-      "traffic": "200+",
+      "name": "bono",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "riesgo pais argentina",
+      "name": "selección de fútbol de jordania",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "escuela",
-      "traffic": "500+",
+      "name": "selección de fútbol sub-17 de argentina",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "esteban bullrich",
+      "name": "riesgo pais argentina",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "hinchada",
+      "name": "escuela",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "justicia",
+      "name": "esteban bullrich",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "la mañana de neuquen",
-      "traffic": "200+",
+      "name": "hinchada",
+      "traffic": "500+",
       "rank": 10
     }
   ]
