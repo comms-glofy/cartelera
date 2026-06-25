@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T13:34:48Z",
+  "updated": "2026-06-25T14:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,37 +9,37 @@
       "rank": 1
     },
     {
-      "name": "la mañana de neuquen",
+      "name": "noticias",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "la mañana de neuquen",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "juan manuel cerúndolo",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "aval",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lucas trejo",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nacho levy",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "clima salta",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "datachaco",
+      "name": "clima salta",
       "traffic": "100+",
       "rank": 8
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "tiempo hoy",
-      "traffic": "500+",
+      "name": "clima hoy",
+      "traffic": "200+",
       "rank": 10
     }
   ]
