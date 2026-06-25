@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-25T23:00:14Z",
+  "updated": "2026-06-25T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "japón - suecia",
-      "traffic": "10000+",
+      "name": "colo-colo - o'higgins",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fifa world cup 2026™",
+      "name": "tunisia vs netherlands",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "túnez - países bajos",
-      "traffic": "5000+",
+      "name": "japan vs sweden",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "japón - suecia",
+      "traffic": "20000+",
+      "rank": 4
+    },
+    {
+      "name": "fifa world cup 2026™",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "túnez - países bajos",
+      "traffic": "20000+",
+      "rank": 6
+    },
+    {
+      "name": "mejores terceros mundial 2026",
+      "traffic": "20000+",
+      "rank": 7
     },
     {
       "name": "grupo de ecuador",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 8
     },
     {
-      "name": "mejores terceros mundial 2026",
-      "traffic": "2000+",
-      "rank": 5
+      "name": "refinanciación",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "grupos mundial 2026",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "refinanciación",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "16avos de final mundial 2026",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "turquia vs estados unidos",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "eliminados del mundial 2026",
-      "traffic": "200+",
       "rank": 10
     }
   ]
