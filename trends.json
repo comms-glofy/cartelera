@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-25T09:30:16Z",
+  "updated": "2026-06-25T10:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hora",
-      "traffic": "500+",
-      "rank": 1
-    },
-    {
-      "name": "pronostico del tiempo",
-      "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "temperatura",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "tiempo hoy",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 1
     },
     {
       "name": "google",
       "traffic": "200+",
-      "rank": 5
+      "rank": 2
     },
     {
       "name": "grupo f mundial 2026",
       "traffic": "100+",
-      "rank": 6
+      "rank": 3
     },
     {
       "name": "posiciones de selección de fútbol de la república checa contra selección de fútbol de méxico",
-      "traffic": "50000+",
-      "rank": 7
+      "traffic": "100000+",
+      "rank": 4
+    },
+    {
+      "name": "cloud",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "japon vs suecia",
       "traffic": "200+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "allanamiento",
       "traffic": "500+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "ochoa",
-      "traffic": "1000+",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "nacho levy y cecilia ce",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "como va mexico",
+      "traffic": "500+",
       "rank": 10
     }
   ]
