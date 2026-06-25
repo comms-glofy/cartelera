@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T05:30:13Z",
+  "updated": "2026-06-25T06:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "google",
+      "name": "play store",
       "traffic": "200+",
       "rank": 1
     },
@@ -25,22 +25,22 @@
     },
     {
       "name": "allanamiento",
-      "traffic": "1000+",
+      "traffic": "500+",
       "rank": 5
     },
     {
       "name": "ochoa",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "mexico hoy",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "nacho levy y cecilia ce",
       "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "como va mexico",
+      "traffic": "500+",
       "rank": 8
     },
     {
