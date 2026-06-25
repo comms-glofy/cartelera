@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-25T16:00:16Z",
+  "updated": "2026-06-25T16:21:10Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "esteban bullrich",
+      "name": "escuela",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "hinchada",
+      "name": "riesgo pais hoy",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "justicia",
+      "name": "riesgo pais argentina",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "noticias",
-      "traffic": "200+",
+      "name": "alemania vs ecuador",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "la mañana de neuquen",
+      "name": "esteban bullrich",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "500+",
+      "name": "hinchada",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "aval",
-      "traffic": "100+",
+      "name": "justicia",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "lucas trejo",
-      "traffic": "5000+",
+      "name": "noticias",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "nacho levy",
-      "traffic": "5000+",
+      "name": "la mañana de neuquen",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima salta",
-      "traffic": "100+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
