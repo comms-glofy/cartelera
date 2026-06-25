@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-25T08:30:17Z",
+  "updated": "2026-06-25T09:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "tiempo hoy",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "japon vs suecia",
+      "name": "playstation",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "japon vs suecia",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "allanamiento",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ochoa",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nacho levy y cecilia ce",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "29 de junio",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "mexico fc",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
