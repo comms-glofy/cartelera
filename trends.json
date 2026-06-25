@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-24T23:30:15Z",
+  "updated": "2026-06-25T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ekaterina",
-      "traffic": "100+",
+      "name": "neymar",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "venezuela",
-      "traffic": "5000+",
+      "name": "gerard butler",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "ovnis",
+      "name": "ekaterina",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "brasil",
-      "traffic": "10000+",
+      "name": "venezuela",
+      "traffic": "5000+",
       "rank": 4
+    },
+    {
+      "name": "ovnis",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "rivaldo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "morocco vs haiti",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "emilia clarke",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "marruecos vs haiti",
       "traffic": "50000+",
-      "rank": 8
-    },
-    {
-      "name": "scotland vs brazil",
-      "traffic": "2000+",
       "rank": 9
     },
     {
       "name": "hernán crespo",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
