@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T16:21:10Z",
+  "updated": "2026-06-25T16:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,18 +14,18 @@
       "rank": 2
     },
     {
-      "name": "riesgo pais argentina",
-      "traffic": "200+",
+      "name": "alemania vs ecuador",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "alemania vs ecuador",
-      "traffic": "500+",
+      "name": "riesgo pais argentina",
+      "traffic": "200+",
       "rank": 4
     },
     {
       "name": "esteban bullrich",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "noticias",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
       "name": "la mañana de neuquen",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "aval",
+      "traffic": "100+",
       "rank": 10
     }
   ]
