@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-25T10:00:14Z",
+  "updated": "2026-06-25T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo hoy",
-      "traffic": "1000+",
+      "name": "temperatura caba",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "google",
-      "traffic": "200+",
+      "name": "nacho levy",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "grupo f mundial 2026",
+      "name": "clima salta",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "posiciones de selección de fútbol de la república checa contra selección de fútbol de méxico",
-      "traffic": "100000+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "cloud",
-      "traffic": "200+",
+      "name": "tn en vivo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "japon vs suecia",
+      "name": "clima hoy",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "allanamiento",
+      "name": "tiempo hoy",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "ochoa",
-      "traffic": "500+",
+      "name": "google",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "nacho levy y cecilia ce",
-      "traffic": "200+",
+      "name": "posiciones de selección de fútbol de la república checa contra selección de fútbol de méxico",
+      "traffic": "100000+",
       "rank": 9
     },
     {
-      "name": "como va mexico",
-      "traffic": "500+",
+      "name": "cloud",
+      "traffic": "200+",
       "rank": 10
     }
   ]
