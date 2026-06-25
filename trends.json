@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T05:00:14Z",
+  "updated": "2026-06-25T05:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -25,7 +25,7 @@
     },
     {
       "name": "allanamiento",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "nacho levy y cecilia ce",
-      "traffic": "200+",
+      "name": "mexico hoy",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "gilberto mora zambrano",
+      "name": "nacho levy y cecilia ce",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "como va mexico",
-      "traffic": "200+",
+      "name": "29 de junio",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "29 de junio",
-      "traffic": "500+",
+      "name": "mexico fc",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
