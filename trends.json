@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-25T15:00:20Z",
+  "updated": "2026-06-25T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hinchada",
-      "traffic": "100+",
+      "name": "esteban bullrich",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "justicia",
+      "name": "hinchada",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "noticias",
+      "name": "justicia",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "la mañana de neuquen",
+      "name": "noticias",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "la mañana de neuquen",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "juan manuel cerúndolo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "aval",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lucas trejo",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nacho levy",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "clima salta",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "datachaco",
+      "name": "clima salta",
       "traffic": "100+",
       "rank": 10
     }
