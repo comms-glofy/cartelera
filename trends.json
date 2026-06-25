@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-25T17:00:17Z",
+  "updated": "2026-06-25T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "riesgo pais hoy",
-      "traffic": "500+",
+      "name": "ecuador vs alemania",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "alemania vs ecuador",
+      "name": "bono",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "escuela",
+      "name": "selección de fútbol de jordania",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "esteban bullrich",
-      "traffic": "500+",
+      "name": "selección de fútbol sub-17 de argentina",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "hinchada",
-      "traffic": "500+",
+      "name": "riesgo pais argentina",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "justicia",
+      "name": "escuela",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "noticias",
-      "traffic": "200+",
+      "name": "esteban bullrich",
+      "traffic": "1000+",
       "rank": 7
+    },
+    {
+      "name": "hinchada",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "justicia",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "la mañana de neuquen",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "juan manuel cerúndolo",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "aval",
-      "traffic": "100+",
       "rank": 10
     }
   ]
