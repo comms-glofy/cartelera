@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-25T22:19:01Z",
+  "updated": "2026-06-25T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "copa mundial de fútbol de 2026",
-      "traffic": "50000+",
+      "name": "japón - suecia",
+      "traffic": "5000+",
       "rank": 1
+    },
+    {
+      "name": "fifa world cup 2026™",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "grupo de ecuador",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "grupos mundial 2026",
+      "traffic": "20000+",
+      "rank": 4
+    },
+    {
+      "name": "túnez - países bajos",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "galindez",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "túnez - países bajos",
-      "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "refinanciación",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "francia vs noruega",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "turquia vs estados unidos",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "16avos de final mundial 2026",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "cabo verde vs arabia saudita",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mundial 2026",
-      "traffic": "10000+",
+      "name": "francia vs noruega",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "daniel castellani",
-      "traffic": "1000+",
+      "name": "turquia vs estados unidos",
+      "traffic": "200+",
       "rank": 10
     }
   ]
