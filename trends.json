@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-25T00:08:05Z",
+  "updated": "2026-06-25T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "neymar jr",
-      "traffic": "500+",
+      "name": "hijo de neymar",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pele",
+      "name": "bruna biancardi",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "u. la calera - u. de chile",
+      "name": "avenida brasil",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "elías piccirillo",
-      "traffic": "200+",
+      "name": "neymar jr",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "neymar",
-      "traffic": "5000+",
+      "name": "u. la calera - u. de chile",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "pele",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "elías piccirillo",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "gerard butler",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "ekaterina",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "venezuela",
-      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "ovnis",
+      "name": "ekaterina",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "scotland vs brazil world cup 2026",
-      "traffic": "500+",
+      "name": "venezuela",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
