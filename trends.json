@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-25T00:00:15Z",
+  "updated": "2026-06-25T00:08:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "neymar",
-      "traffic": "2000+",
+      "name": "neymar jr",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "pele",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "u. la calera - u. de chile",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "elías piccirillo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "neymar",
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "gerard butler",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "ekaterina",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "venezuela",
-      "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "ovnis",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "rivaldo",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "morocco vs haiti",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "emilia clarke",
-      "traffic": "100+",
+      "name": "venezuela",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "marruecos vs haiti",
-      "traffic": "50000+",
+      "name": "ovnis",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "hernán crespo",
-      "traffic": "2000+",
+      "name": "scotland vs brazil world cup 2026",
+      "traffic": "500+",
       "rank": 10
     }
   ]
