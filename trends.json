@@ -1,25 +1,25 @@
 {
-  "updated": "2026-06-25T21:30:16Z",
+  "updated": "2026-06-25T22:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "beccacece",
-      "traffic": "1000+",
+      "name": "neuer",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "delantero",
-      "traffic": "200+",
+      "name": "beccacece",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "estafa",
-      "traffic": "200+",
+      "name": "delantero",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "musiala",
+      "name": "estafa",
       "traffic": "200+",
       "rank": 4
     },
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "piero hincapié",
+      "name": "musiala",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "piero hincapié",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "the beatles all you need is love",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tabla de grupos mundial 2026",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "costa de marfil vs",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "angulo ecuador",
-      "traffic": "1000+",
+      "name": "costa de marfil vs",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
