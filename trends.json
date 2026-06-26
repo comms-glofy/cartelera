@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-26T17:00:18Z",
+  "updated": "2026-06-26T17:15:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "claudia villafañe",
-      "traffic": "200+",
+      "name": "producto",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "kosteki y santillan",
-      "traffic": "200+",
+      "name": "encuesta",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "from episodio 10",
+      "name": "dylan gorosito",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "blender",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "claudia villafañe",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "from episodio 10",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "kosteki y santillan",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "f1 austria",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "diario huarpe",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "26 de junio",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "cronograma",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "selección de fútbol de brasil",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "impuesto a las ganancias",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "cloud",
-      "traffic": "200+",
+      "name": "26 de junio",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
