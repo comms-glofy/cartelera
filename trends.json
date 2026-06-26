@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-26T04:30:13Z",
+  "updated": "2026-06-26T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "usa vs",
-      "traffic": "2000+",
+      "name": "álvaro montero",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "álvaro montero",
-      "traffic": "1000+",
+      "name": "usa vs",
+      "traffic": "2000+",
       "rank": 2
     },
     {
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
+      "name": "información de seguridad sobre sismos",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "enciso",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "andres cubas",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ashton kutcher",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lucas herrington",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "colin farrell",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "gabriel ávalos",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cristian volpato",
+      "name": "gabriel ávalos",
       "traffic": "500+",
       "rank": 10
     }
