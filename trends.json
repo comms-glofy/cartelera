@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T11:30:15Z",
+  "updated": "2026-06-26T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "26 de junio",
-      "traffic": "20000+",
+      "traffic": "10000+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "el litoral",
+      "name": "selección de fútbol de brasil",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "selección de fútbol de brasil",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
       "name": "impuesto a las ganancias",
       "traffic": "500+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "cloud",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "alvaro montero",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "usa vs",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "jordan bos",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "información de seguridad sobre sismos",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
