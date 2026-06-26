@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-26T19:17:43Z",
+  "updated": "2026-06-26T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "falla de san andrés",
+      "name": "senegal vs iraq",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "amenaza",
+      "name": "oscar bobb",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "noruega - francia",
-      "traffic": "50000+",
+      "name": "didier deschamps",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "senegal - irak",
-      "traffic": "5000+",
+      "name": "yimvert berroteran",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "norway vs france",
-      "traffic": "500+",
+      "name": "falla de san andrés",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "amenaza",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "noruega - francia",
+      "traffic": "50000+",
+      "rank": 7
+    },
+    {
+      "name": "senegal - irak",
+      "traffic": "10000+",
+      "rank": 8
+    },
+    {
+      "name": "norway vs france",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "manuel adorni",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "producto",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "encuesta",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "dylan gorosito",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "blender",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
