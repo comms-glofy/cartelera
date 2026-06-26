@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-26T21:05:50Z",
+  "updated": "2026-06-26T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "michael olise",
-      "traffic": "100+",
+      "name": "microsoft",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "egipto vs iran",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "senegal iraq",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "senegal",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "michael olise",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "lácteo",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "goleadores del mundial",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "thelo aasgaard",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "ester exposito",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "jørgen strand larsen",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "senegal vs",
-      "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "dembele",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "yimvert berroteran",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "didier deschamps",
+      "name": "jørgen strand larsen",
       "traffic": "200+",
       "rank": 10
     }
