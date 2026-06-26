@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T17:15:28Z",
+  "updated": "2026-06-26T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,13 +9,13 @@
       "rank": 1
     },
     {
-      "name": "encuesta",
+      "name": "dylan gorosito",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "dylan gorosito",
-      "traffic": "200+",
+      "name": "encuesta",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "26 de junio",
-      "traffic": "20000+",
+      "name": "cronograma",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
