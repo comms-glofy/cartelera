@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-26T20:00:17Z",
+  "updated": "2026-06-26T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "senegal vs",
-      "traffic": "2000+",
+      "name": "michael olise",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "oscar bobb",
-      "traffic": "200+",
+      "name": "goleadores del mundial",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "didier deschamps",
-      "traffic": "200+",
+      "name": "jørgen strand larsen",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "ester exposito",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "senegal vs",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "dembele",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "yimvert berroteran",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "name": "didier deschamps",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "falla de san andrés",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "amenaza",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "noruega - francia",
-      "traffic": "100000+",
-      "rank": 7
-    },
-    {
-      "name": "senegal - irak",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "norway vs france",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "manuel adorni",
-      "traffic": "2000+",
+      "name": "amenaza",
+      "traffic": "200+",
       "rank": 10
     }
   ]
