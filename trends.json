@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-26T09:00:17Z",
+  "updated": "2026-06-26T09:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "murió gorutta jones",
-      "traffic": "2000+",
+      "name": "selección de fútbol de brasil",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cloud",
-      "traffic": "100+",
+      "name": "murió gorutta jones",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "cloud",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "alvaro montero",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "usa vs",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "jordan bos",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "información de seguridad sobre sismos",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "andres cubas",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ashton kutcher",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lucas herrington",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "colin farrell",
-      "traffic": "200+",
       "rank": 10
     }
   ]
