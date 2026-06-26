@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-26T22:30:14Z",
+  "updated": "2026-06-26T22:43:47Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "prince",
-      "traffic": "200+",
+      "name": "diego santilli",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "diego santilli",
-      "traffic": "2000+",
+      "name": "prince",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "senegal",
+      "traffic": "10000+",
+      "rank": 8
+    },
+    {
       "name": "michael olise",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lácteo",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "goleadores del mundial",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
