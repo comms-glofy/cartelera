@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-26T11:00:19Z",
+  "updated": "2026-06-26T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cronograma",
-      "traffic": "200+",
+      "name": "diario huarpe",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "26 de junio",
+      "traffic": "20000+",
+      "rank": 2
+    },
+    {
+      "name": "cronograma",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "el litoral",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "selección de fútbol de brasil",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "impuesto a las ganancias",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "cloud",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "alvaro montero",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "usa vs",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "jordan bos",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "información de seguridad sobre sismos",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "enciso",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "andres cubas",
-      "traffic": "200+",
       "rank": 10
     }
   ]
