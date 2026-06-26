@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-26T19:00:16Z",
+  "updated": "2026-06-26T19:17:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "noruega - francia",
-      "traffic": "20000+",
+      "name": "falla de san andrés",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "amenaza",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "noruega - francia",
+      "traffic": "50000+",
+      "rank": 3
     },
     {
       "name": "senegal - irak",
       "traffic": "5000+",
-      "rank": 2
-    },
-    {
-      "name": "norway vs france",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "manuel adorni",
-      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "producto",
-      "traffic": "1000+",
+      "name": "norway vs france",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "encuesta",
+      "name": "manuel adorni",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "dylan gorosito",
-      "traffic": "1000+",
+      "name": "producto",
+      "traffic": "2000+",
       "rank": 7
+    },
+    {
+      "name": "encuesta",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "dylan gorosito",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "blender",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "claudia villafañe",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "from episodio 10",
-      "traffic": "500+",
       "rank": 10
     }
   ]
