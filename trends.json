@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T08:30:16Z",
+  "updated": "2026-06-26T09:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "enciso",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
       "name": "andres cubas",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "ashton kutcher",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "lucas herrington",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "colin farrell",
+      "traffic": "200+",
       "rank": 10
     }
   ]
