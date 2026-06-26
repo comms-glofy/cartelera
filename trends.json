@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-26T04:00:17Z",
+  "updated": "2026-06-26T04:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "enciso",
-      "traffic": "500+",
+      "name": "usa vs",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "ashton kutcher",
-      "traffic": "200+",
+      "name": "álvaro montero",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "lucas herrington",
+      "name": "jordan bos",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "colin farrell",
-      "traffic": "200+",
+      "name": "enciso",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "türkiye vs united states world cup 2026",
-      "traffic": "500+",
+      "name": "andres cubas",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gabriel ávalos",
+      "name": "ashton kutcher",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cristian volpato",
-      "traffic": "500+",
+      "name": "lucas herrington",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "impuesto",
+      "name": "colin farrell",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "brasil vs japon",
-      "traffic": "200+",
+      "name": "gabriel ávalos",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "japon vs brasil",
-      "traffic": "100+",
+      "name": "cristian volpato",
+      "traffic": "500+",
       "rank": 10
     }
   ]
