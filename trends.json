@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-26T01:00:16Z",
+  "updated": "2026-06-26T01:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colo-colo - o'higgins",
-      "traffic": "500+",
+      "name": "elanga",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "tunisia vs netherlands",
+      "name": "goruta jones",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "japan vs sweden",
-      "traffic": "1000+",
+      "name": "nagatomo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "japón - suecia",
-      "traffic": "50000+",
+      "name": "paraguay vs. australia",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "colo-colo - o'higgins",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "tunisia vs netherlands",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "japón - suecia",
+      "traffic": "100000+",
+      "rank": 7
     },
     {
       "name": "fifa world cup 2026™",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "túnez - países bajos",
       "traffic": "50000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "mejores terceros mundial 2026",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "refinanciación",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "francia vs noruega",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "turquia vs estados unidos",
-      "traffic": "500+",
       "rank": 10
     }
   ]
