@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-27T03:30:13Z",
+  "updated": "2026-06-27T04:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "egypt vs iran",
-      "traffic": "500+",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "new zealand vs belgium",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
@@ -39,7 +39,7 @@
       "rank": 7
     },
     {
-      "name": "el pais uruguay",
+      "name": "mundial 2022",
       "traffic": "500+",
       "rank": 8
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "mundial 2022",
-      "traffic": "500+",
+      "name": "nueva zelanda - bélgica",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
