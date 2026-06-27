@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T20:00:16Z",
+  "updated": "2026-06-27T20:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "copa mundial de la fifa 2026™",
-      "traffic": "200+",
+      "name": "panamá - inglaterra",
+      "traffic": "5000+",
       "rank": 1
+    },
+    {
+      "name": "croacia - ghana",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
+      "name": "copa mundial de la fifa 2026™",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "rafael fiziev",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "paris saint-germain football club",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "shara magomedov",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "dia del boludo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "giovanni gonzález",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "copa mundial de fútbol",
-      "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "josé coronado",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "f1 clasificacion austria",
-      "traffic": "500+",
+      "name": "josé coronado",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "república dominicana",
-      "traffic": "200+",
+      "name": "f1 clasificacion austria",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
