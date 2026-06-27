@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T22:09:23Z",
+  "updated": "2026-06-27T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "adorni",
-      "traffic": "5000+",
+      "name": "portugal vs colombia",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "audax italiano - magallanes",
+      "name": "28 de junio",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "adorni",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "audax italiano - magallanes",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "urba top 14",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "nico williams",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "panama vs england",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "croatia vs ghana",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "croacia - ghana",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "panamá - inglaterra",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "copa mundial de la fifa 2026™",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "rafael fiziev",
-      "traffic": "100+",
       "rank": 10
     }
   ]
