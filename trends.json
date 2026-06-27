@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T06:00:15Z",
+  "updated": "2026-06-27T06:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -25,17 +25,17 @@
     },
     {
       "name": "egipto - irán",
-      "traffic": "20000+",
+      "traffic": "50000+",
       "rank": 5
     },
     {
       "name": "argentina vs cabo verde",
-      "traffic": "20000+",
+      "traffic": "50000+",
       "rank": 6
     },
     {
-      "name": "posiciones de mundial",
-      "traffic": "10000+",
+      "name": "gabriel corrado",
+      "traffic": "2000+",
       "rank": 7
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "gabriel corrado",
-      "traffic": "2000+",
+      "name": "el pais uruguay",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "el pais uruguay",
+      "name": "mundial 2022",
       "traffic": "500+",
       "rank": 10
     }
