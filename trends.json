@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-27T04:33:11Z",
+  "updated": "2026-06-27T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "egypt vs iran",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "gabriel corrado",
-      "traffic": "2000+",
+      "name": "argentina vs cabo verde",
+      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "el pais uruguay",
-      "traffic": "500+",
+      "name": "gabriel corrado",
+      "traffic": "2000+",
       "rank": 7
-    },
-    {
-      "name": "mundial 2022",
-      "traffic": "500+",
-      "rank": 8
     },
     {
       "name": "croacia vs ghana",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "mundial 2022",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nueva zelanda - bélgica",
-      "traffic": "20000+",
+      "name": "fifa world cup",
+      "traffic": "500+",
       "rank": 10
     }
   ]
