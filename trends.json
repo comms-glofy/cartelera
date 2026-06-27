@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T18:30:15Z",
+  "updated": "2026-06-27T19:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "lucas beltrán",
-      "traffic": "500+",
-      "rank": 2
-    },
-    {
       "name": "shara magomedov",
       "traffic": "100+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "dia del boludo",
       "traffic": "100+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "giovanni gonzález",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "josé coronado",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "f1 clasificacion austria",
-      "traffic": "1000+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "república dominicana",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "entre ríos",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "red bull tv",
+      "traffic": "100+",
       "rank": 9
     },
     {
       "name": "f1 clasificacion",
-      "traffic": "500+",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
