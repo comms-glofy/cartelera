@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T00:30:12Z",
+  "updated": "2026-06-27T01:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cucurella",
-      "traffic": "500+",
+      "name": "muslera",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "pedri",
-      "traffic": "500+",
+      "name": "canobbio",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "pedri",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "cucurella",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "unai simon",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "ernestina pais",
       "traffic": "100000+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "cabo verde vs saudi arabia",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "forlan",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "cabo verde vs saudi arabia",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "estadio akron",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "línea sarmiento",
-      "traffic": "200+",
       "rank": 8
     },
     {
       "name": "rey de españa",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "jorge sampaoli",
-      "traffic": "100+",
+      "name": "línea sarmiento",
+      "traffic": "200+",
       "rank": 10
     }
   ]
