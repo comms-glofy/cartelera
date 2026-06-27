@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T02:30:13Z",
+  "updated": "2026-06-27T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "egipto - irán",
-      "traffic": "5000+",
+      "name": "argentina vs cabo verde",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "posiciones de mundial",
+      "name": "egipto - irán",
       "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "mundial 2022",
-      "traffic": "500+",
+      "name": "posiciones de mundial",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "fifa world cup",
+      "name": "mundial 2022",
       "traffic": "500+",
       "rank": 4
     },
     {
       "name": "croacia vs ghana",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "uruguay qatar 2022",
-      "traffic": "100+",
+      "name": "nueva zelanda - bélgica",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "nueva zelanda - bélgica",
-      "traffic": "5000+",
+      "name": "eliminados del mundial 2026",
+      "traffic": "200+",
       "rank": 7
-    },
-    {
-      "name": "copa mundial de fútbol de 2026",
-      "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "fase de grupos mundial 2026",
-      "traffic": "500+",
-      "rank": 9
     },
     {
       "name": "fifa world cup 2026™",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "viñas",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "nico williams",
+      "traffic": "500+",
       "rank": 10
     }
   ]
