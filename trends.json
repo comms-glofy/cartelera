@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T05:00:16Z",
+  "updated": "2026-06-27T05:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "egypt vs iran",
+      "name": "iran",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "new zealand vs belgium",
-      "traffic": "500+",
+      "name": "egypt vs iran",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "denuncia",
+      "name": "new zealand vs belgium",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "denuncia",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "pergolini",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "egipto - irán",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "argentina vs cabo verde",
       "traffic": "20000+",
-      "rank": 6
-    },
-    {
-      "name": "gabriel corrado",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "croacia vs ghana",
-      "traffic": "200+",
+      "name": "posiciones de mundial",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "mundial 2022",
+      "name": "croacia vs ghana",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fifa world cup",
-      "traffic": "500+",
+      "name": "gabriel corrado",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
