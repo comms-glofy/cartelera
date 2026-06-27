@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T19:00:16Z",
+  "updated": "2026-06-27T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paris saint-germain football club",
-      "traffic": "100+",
+      "name": "copa mundial de la fifa 2026™",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "shara magomedov",
+      "name": "rafael fiziev",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "paris saint-germain football club",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "shara magomedov",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "dia del boludo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "giovanni gonzález",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "copa mundial de fútbol",
+      "traffic": "20000+",
+      "rank": 7
     },
     {
       "name": "josé coronado",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "f1 clasificacion austria",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "república dominicana",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "entre ríos",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "red bull tv",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "f1 clasificacion",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
