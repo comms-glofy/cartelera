@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T22:00:15Z",
+  "updated": "2026-06-27T22:09:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "adorni",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
+      "name": "audax italiano - magallanes",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "urba top 14",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "nico williams",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "panama vs england",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "croatia vs ghana",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "croacia - ghana",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "panamá - inglaterra",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "copa mundial de la fifa 2026™",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "rafael fiziev",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "paris saint-germain football club",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "shara magomedov",
-      "traffic": "200+",
       "rank": 10
     }
   ]
