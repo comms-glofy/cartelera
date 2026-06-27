@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T14:00:15Z",
+  "updated": "2026-06-27T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "iker muniain",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "a que hora juega argentina el 27 de junio",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "a que hora es la clasificacion de f1",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "dólar blue hoy",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "argelia vs austria",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "29 de junio",
+      "name": "argelia vs austria",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "29 de junio",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "futbol copa mundial",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "iran",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "egypt vs iran",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "new zealand vs belgium",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "denuncia",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
