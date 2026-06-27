@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T22:30:15Z",
+  "updated": "2026-06-27T23:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "portugal vs colombia",
+      "name": "rd congo - uzbekistán",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "28 de junio",
-      "traffic": "200+",
+      "name": "colombia - portugal",
+      "traffic": "20000+",
       "rank": 2
     },
     {
-      "name": "adorni",
-      "traffic": "5000+",
+      "name": "28 de junio",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "adorni",
+      "traffic": "10000+",
+      "rank": 4
+    },
+    {
+      "name": "unionbat s.a",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "audax italiano - magallanes",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "urba top 14",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "nico williams",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "panama vs england",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "croatia vs ghana",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "croacia - ghana",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "panamá - inglaterra",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
