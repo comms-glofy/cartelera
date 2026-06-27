@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-27T03:00:15Z",
+  "updated": "2026-06-27T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentina vs cabo verde",
-      "traffic": "20000+",
+      "name": "egypt vs iran",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "egipto - irán",
-      "traffic": "5000+",
+      "name": "new zealand vs belgium",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "posiciones de mundial",
-      "traffic": "5000+",
+      "name": "denuncia",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mundial 2022",
-      "traffic": "500+",
+      "name": "pergolini",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "egipto - irán",
+      "traffic": "20000+",
+      "rank": 5
+    },
+    {
+      "name": "argentina vs cabo verde",
+      "traffic": "20000+",
+      "rank": 6
+    },
+    {
+      "name": "gabriel corrado",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "el pais uruguay",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "croacia vs ghana",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "nueva zelanda - bélgica",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "eliminados del mundial 2026",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "fifa world cup 2026™",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "viñas",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "nico williams",
+      "name": "mundial 2022",
       "traffic": "500+",
       "rank": 10
     }
