@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T12:00:13Z",
+  "updated": "2026-06-27T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "29 de junio",
-      "traffic": "100+",
+      "name": "selección de fútbol de jordania",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "horarios f1 austria",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "29 de junio",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "futbol copa mundial",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "iran",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "egypt vs iran",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "new zealand vs belgium",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "denuncia",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "kick",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "pergolini",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "egipto - irán",
-      "traffic": "50000+",
-      "rank": 8
-    },
-    {
-      "name": "argentina vs cabo verde",
-      "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "el pais uruguay",
-      "traffic": "500+",
       "rank": 10
     }
   ]
