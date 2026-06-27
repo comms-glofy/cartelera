@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-27T11:00:13Z",
+  "updated": "2026-06-27T11:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "iran",
-      "traffic": "1000+",
+      "name": "29 de junio",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "egypt vs iran",
+      "name": "iran",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "new zealand vs belgium",
+      "name": "egypt vs iran",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "denuncia",
+      "name": "new zealand vs belgium",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "kick",
+      "name": "denuncia",
       "traffic": "2000+",
       "rank": 5
     },
     {
+      "name": "kick",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
       "name": "pergolini",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "egipto - irán",
       "traffic": "50000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "argentina vs cabo verde",
       "traffic": "50000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "el pais uruguay",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "gabriel corrado",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
