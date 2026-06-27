@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-26T23:30:13Z",
+  "updated": "2026-06-27T00:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "uruguay - españa",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 1
     },
     {
       "name": "uruguay vs spain",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
       "name": "cabo verde - arabia saudita",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 3
     },
     {
@@ -35,22 +35,22 @@
     },
     {
       "name": "colombia vs portugal",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 7
     },
     {
       "name": "adorni",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 8
+    },
+    {
+      "name": "doue",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "microsoft",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "información de seguridad sobre sismos",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
