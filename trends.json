@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-28T23:00:17Z",
+  "updated": "2026-06-28T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "frente frío",
-      "traffic": "50000+",
+      "name": "santilli",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "airbnb",
-      "traffic": "500+",
+      "name": "rebord",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "telekino 2434",
+      "name": "marmol",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "u. de chile - unión san felipe",
-      "traffic": "500+",
+      "name": "frente frío",
+      "traffic": "50000+",
       "rank": 4
+    },
+    {
+      "name": "airbnb",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "telekino 2434",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "u. de chile - unión san felipe",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "fortaleza - sport recife",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "planta",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "mexico vs ecuador",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "brian sarmiento",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "pamela anderson",
+      "name": "planta",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "juventud antoniana",
+      "name": "mexico vs ecuador",
       "traffic": "200+",
       "rank": 10
     }
