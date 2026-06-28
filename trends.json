@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T14:00:17Z",
+  "updated": "2026-06-28T14:21:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "brasil vs japon",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "fifa world cup 2026 bracket",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "cuadro de partidos de la copa mundial de la fifa 2026",
       "traffic": "20000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "pronostico rosario",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "f1 horarios",
-      "traffic": "2000+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "la nueva provincia",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "juan sebastián verón",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "rania de jordania",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "juan sebastián verón",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "robo",
+      "name": "rania de jordania",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "lucas trejo familia",
-      "traffic": "2000+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 9
     },
     {
-      "name": "natalia villalba",
-      "traffic": "100+",
+      "name": "robo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
