@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T06:30:14Z",
+  "updated": "2026-06-28T07:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "fixture mundial 2026",
-      "traffic": "5000+",
-      "rank": 3
-    },
-    {
-      "name": "copa mundial de fútbol de 2026",
-      "traffic": "10000+",
-      "rank": 4
-    },
-    {
       "name": "hijos de messi",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 3
     },
     {
       "name": "almada argentina",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "cambiaso",
       "traffic": "500+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "dembele",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "fifa world cup 2026™",
-      "traffic": "200+",
-      "rank": 9
+      "rank": 6
     },
     {
       "name": "barco",
       "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "thiago almada",
+      "traffic": "10000+",
+      "rank": 8
+    },
+    {
+      "name": "inpres",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "altamari",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
