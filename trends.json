@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T20:10:45Z",
+  "updated": "2026-06-28T20:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "pamela anderson",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "eustaquio",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "juventud antoniana",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "canada",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "refinanciación",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "jesica alba",
-      "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "paraguay vs alemania",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "arsenal de sarandi",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "jessica alba",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "south africa vs canada world cup 2026",
-      "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "canada vs",
-      "traffic": "5000+",
-      "rank": 8
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "tani oluwaseyi",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "alphonso davies",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
