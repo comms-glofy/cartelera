@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-28T22:00:16Z",
+  "updated": "2026-06-28T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mexico vs ecuador",
-      "traffic": "100+",
+      "name": "frente frío",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "brian sarmiento",
+      "name": "airbnb",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "pamela anderson",
-      "traffic": "200+",
+      "name": "u. de chile - unión san felipe",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "eustaquio",
+      "name": "telekino 2434",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "juventud antoniana",
+      "name": "fortaleza - sport recife",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "refinanciación",
-      "traffic": "1000+",
+      "name": "planta",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "paraguay vs alemania",
-      "traffic": "500+",
+      "name": "mexico vs ecuador",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "camila morrone",
-      "traffic": "200+",
+      "name": "brian sarmiento",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "excavación",
-      "traffic": "200+",
+      "name": "pamela anderson",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "chile",
+      "name": "juventud antoniana",
       "traffic": "200+",
       "rank": 10
     }
