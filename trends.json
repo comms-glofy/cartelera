@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T07:30:16Z",
+  "updated": "2026-06-28T07:37:47Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "como quedaron los 16avos del mundial",
-      "traffic": "20000+",
-      "rank": 2
-    },
-    {
       "name": "canada vs sudafrica",
       "traffic": "100+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "hijos de messi",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "cambiaso",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "dembele",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "almada argentina",
-      "traffic": "500+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "tiago almada",
       "traffic": "500+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "barco",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "thiago almada",
-      "traffic": "10000+",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
+      "name": "inpres",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "altamari",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
