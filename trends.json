@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T12:01:36Z",
+  "updated": "2026-06-28T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1 austria",
-      "traffic": "2000+",
+      "name": "horarios f1",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "beca",
-      "traffic": "500+",
+      "name": "antonela roccuzzo",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "línea sarmiento",
-      "traffic": "100+",
+      "name": "lucas trejo familia",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "juan grabois",
-      "traffic": "200+",
+      "name": "el destape",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "corte de luz mar del plata",
+      "name": "gp austria",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "0223",
-      "traffic": "200+",
+      "name": "beca",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "bomba quinta de olivos",
-      "traffic": "2000+",
+      "name": "línea sarmiento",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "como quedaron los 16avos del mundial",
-      "traffic": "20000+",
+      "name": "gala de eliminación",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "canada vs sudafrica",
-      "traffic": "5000+",
+      "name": "juan grabois",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "posiciones de selección de fútbol de argelia contra selección de fútbol de austria",
-      "traffic": "200000+",
+      "name": "corte de luz mar del plata",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
