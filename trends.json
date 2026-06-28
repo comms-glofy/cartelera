@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T18:30:14Z",
+  "updated": "2026-06-28T18:42:54Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
+      "name": "gianni infantino",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "luna llena",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "club atlético unión",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "crucero",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "copa mundial de fútbol",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "verstappen",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "f1 vote",
+      "name": "verstappen",
       "traffic": "200+",
       "rank": 10
     }
