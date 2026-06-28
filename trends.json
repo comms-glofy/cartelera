@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T18:00:13Z",
+  "updated": "2026-06-28T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estación espacial",
-      "traffic": "100+",
+      "name": "barby franco",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gianni infantino",
-      "traffic": "500+",
+      "name": "sporting",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "luna llena",
-      "traffic": "500+",
+      "name": "pádel",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "club atlético unión",
+      "name": "estación espacial",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "crucero",
+      "name": "luna llena",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "verstappen",
+      "name": "club atlético unión",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "f1 vote",
-      "traffic": "200+",
+      "name": "crucero",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "brasil vs japon",
-      "traffic": "2000+",
+      "name": "copa mundial de fútbol",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "fifa world cup 2026 bracket",
-      "traffic": "2000+",
+      "name": "verstappen",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cuadro de partidos de la copa mundial de la fifa 2026",
-      "traffic": "100000+",
+      "name": "f1 vote",
+      "traffic": "200+",
       "rank": 10
     }
   ]
