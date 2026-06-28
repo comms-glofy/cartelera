@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T19:00:15Z",
+  "updated": "2026-06-28T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barby franco",
-      "traffic": "200+",
+      "name": "jessica alba",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "sporting",
-      "traffic": "200+",
+      "name": "canada vs",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "pádel",
-      "traffic": "100+",
+      "name": "alphonso davies",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "estación espacial",
+      "name": "barby franco",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gianni infantino",
-      "traffic": "1000+",
+      "name": "sporting",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "luna llena",
-      "traffic": "1000+",
+      "name": "pádel",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "club atlético unión",
-      "traffic": "500+",
+      "name": "estación espacial",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "crucero",
+      "name": "gianni infantino",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "copa mundial de fútbol",
-      "traffic": "5000+",
+      "name": "luna llena",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "f1 vote",
-      "traffic": "200+",
+      "name": "club atlético unión",
+      "traffic": "500+",
       "rank": 10
     }
   ]
