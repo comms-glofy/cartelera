@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T08:00:16Z",
+  "updated": "2026-06-28T08:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "canada vs sudafrica",
-      "traffic": "100+",
+      "name": "fixture mundial 2026",
+      "traffic": "10000+",
       "rank": 2
+    },
+    {
+      "name": "lionel messi",
+      "traffic": "10000+",
+      "rank": 3
     },
     {
       "name": "hijos de messi",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "el colo barco",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "cambiaso",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "dembele",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "almada argentina",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tiago almada",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "barco",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "thiago almada",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "posiciones de u. católica contra san luis de quillota",
-      "traffic": "5000+",
+      "name": "antonella",
+      "traffic": "200+",
       "rank": 10
     }
   ]
