@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T13:00:14Z",
+  "updated": "2026-06-28T13:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "cuadro de partidos de la copa mundial de la fifa 2026",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "horarios f1",
-      "traffic": "500+",
+      "name": "f1 horarios",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "antonela roccuzzo",
-      "traffic": "1000+",
+      "name": "tiempo en rosario",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lucas trejo familia",
-      "traffic": "1000+",
+      "name": "la nueva provincia",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "natalia villalba",
+      "name": "rania de jordania",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "el destape",
+      "name": "juan sebastián verón",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gp austria",
-      "traffic": "10000+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 7
     },
     {
-      "name": "beca",
-      "traffic": "1000+",
+      "name": "robo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "línea sarmiento",
-      "traffic": "200+",
+      "name": "antonela roccuzzo",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "gala de eliminación",
-      "traffic": "100+",
+      "name": "lucas trejo familia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
