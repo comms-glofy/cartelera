@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T15:47:17Z",
+  "updated": "2026-06-28T16:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "copa mundial de fútbol",
-      "traffic": "5000+",
-      "rank": 2
-    },
-    {
       "name": "crucero",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "verstappen",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "f1 vote",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "brasil vs japon",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "fifa world cup 2026 bracket",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "pronostico rosario",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "tiempo en rosario",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "f1 horarios",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "la nueva provincia",
+      "traffic": "100+",
       "rank": 10
     }
   ]
