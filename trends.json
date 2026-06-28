@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T01:30:16Z",
+  "updated": "2026-06-28T02:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quinta de olivos",
-      "traffic": "200+",
+      "name": "jordania",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "simeone",
-      "traffic": "200+",
+      "name": "cristiano ronaldo",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "jordania - argentina",
-      "traffic": "100000+",
+      "name": "fixture de mundial",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "argelia - austria",
-      "traffic": "10000+",
+      "name": "maxi lópez",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "maxi lopez",
-      "traffic": "1000+",
+      "name": "simeone",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "quinta de olivos",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "jordania - argentina",
+      "traffic": "200000+",
+      "rank": 7
+    },
+    {
+      "name": "argelia - austria",
+      "traffic": "20000+",
+      "rank": 8
+    },
+    {
+      "name": "jordania donde queda",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "jimmy butler",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "gustavo puerta",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "loteria chaqueña",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "pedro neto",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "luis díaz",
-      "traffic": "200+",
       "rank": 10
     }
   ]
