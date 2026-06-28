@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T16:00:16Z",
+  "updated": "2026-06-28T16:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético unión",
+      "name": "gianni infantino",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "crucero",
+      "name": "luna llena",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "verstappen",
+      "name": "club atlético unión",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "f1 vote",
+      "name": "crucero",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "brasil vs japon",
-      "traffic": "1000+",
+      "name": "copa mundial de fútbol",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "fifa world cup 2026 bracket",
-      "traffic": "500+",
+      "name": "f1 vote",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "brasil vs japon",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "fifa world cup 2026 bracket",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "pronostico rosario",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "tiempo en rosario",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "f1 horarios",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "la nueva provincia",
-      "traffic": "100+",
       "rank": 10
     }
   ]
