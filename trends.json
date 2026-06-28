@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-28T05:00:17Z",
+  "updated": "2026-06-28T05:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fixture mundial 2026",
-      "traffic": "5000+",
+      "name": "como quedaron los 16avos del mundial",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "posiciones de mundial",
-      "traffic": "10000+",
+      "name": "canada vs sudafrica",
+      "traffic": "100+",
       "rank": 2
     },
     {
@@ -19,28 +19,28 @@
       "rank": 3
     },
     {
-      "name": "hijos de messi",
-      "traffic": "1000+",
+      "name": "posiciones de selección de fútbol de argelia contra selección de fútbol de austria",
+      "traffic": "200000+",
       "rank": 4
     },
     {
-      "name": "fifa world cup 2026™",
-      "traffic": "200+",
+      "name": "hijos de messi",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "almada argentina",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "dembele",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "almada argentina",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "tiago almada",
-      "traffic": "500+",
+      "name": "fifa world cup 2026™",
+      "traffic": "200+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "barco argentina",
-      "traffic": "5000+",
+      "name": "thiago almada",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
