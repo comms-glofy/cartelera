@@ -1,45 +1,45 @@
 {
-  "updated": "2026-06-28T03:30:13Z",
+  "updated": "2026-06-28T04:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inpres",
-      "traffic": "1000+",
+      "name": "thiago almada",
+      "traffic": "10000+",
       "rank": 1
+    },
+    {
+      "name": "inpres",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "altamari",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "pablo giralt",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "austria vs",
       "traffic": "5000+",
-      "rank": 3
-    },
-    {
-      "name": "nico paz donde juega",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "hydration break",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "partidos hoy en vivo",
+      "name": "di maria",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "lucas trejo futbolista",
+      "name": "hydration break",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "senesi donde juega",
+      "name": "lucas trejo futbolista",
       "traffic": "200+",
       "rank": 8
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "texas",
-      "traffic": "200+",
+      "name": "nico paz donde juega",
+      "traffic": "500+",
       "rank": 10
     }
   ]
