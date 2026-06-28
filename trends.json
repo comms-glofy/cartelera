@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T17:00:18Z",
+  "updated": "2026-06-28T17:05:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gianni infantino",
-      "traffic": "200+",
+      "name": "estación espacial",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "luna llena",
+      "name": "gianni infantino",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "luna llena",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "club atlético unión",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "crucero",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "copa mundial de fútbol",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "f1 vote",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "brasil vs japon",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fifa world cup 2026 bracket",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "cuadro de partidos de la copa mundial de la fifa 2026",
       "traffic": "100000+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico rosario",
-      "traffic": "500+",
       "rank": 10
     }
   ]
