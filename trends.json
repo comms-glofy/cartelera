@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T02:30:16Z",
+  "updated": "2026-06-28T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mario kempes",
+      "name": "exequiel palacios",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "donde juega lo celso",
-      "traffic": "500+",
+      "name": "algeria vs austria",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "dibu",
-      "traffic": "200+",
+      "name": "cholo simeone",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "diego simeone",
-      "traffic": "200+",
+      "name": "giuliano simeone",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "dybala",
-      "traffic": "200+",
+      "name": "ginobili",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "kempes",
+      "name": "mario kempes",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "nico paz",
-      "traffic": "10000+",
+      "name": "lo celso donde juega",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "mi telefe en vivo",
-      "traffic": "10000+",
+      "name": "dibu",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "tagliafico",
-      "traffic": "1000+",
+      "name": "diego simeone",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "palestina",
-      "traffic": "1000+",
+      "name": "dybala",
+      "traffic": "200+",
       "rank": 10
     }
   ]
