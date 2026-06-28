@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T15:00:16Z",
+  "updated": "2026-06-28T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brasil vs japon",
-      "traffic": "500+",
+      "name": "club atlético unión",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fifa world cup 2026 bracket",
-      "traffic": "200+",
+      "name": "copa mundial de fútbol",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "cuadro de partidos de la copa mundial de la fifa 2026",
-      "traffic": "20000+",
+      "name": "verstappen",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "crucero",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "f1 vote",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "brasil vs japon",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "fifa world cup 2026 bracket",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "pronostico rosario",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "f1 horarios",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "la nueva provincia",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "juan sebastián verón",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "rania de jordania",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima",
-      "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "robo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
