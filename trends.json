@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T01:00:17Z",
+  "updated": "2026-06-28T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pedro neto",
+      "name": "quinta de olivos",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "luis díaz",
+      "name": "simeone",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rúben neves",
-      "traffic": "100+",
+      "name": "jordania - argentina",
+      "traffic": "100000+",
       "rank": 3
     },
     {
-      "name": "tiempo mañana",
+      "name": "argelia - austria",
       "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "matt damon",
-      "traffic": "200+",
+      "name": "maxi lopez",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "georgina rodríguez",
-      "traffic": "200+",
+      "name": "jimmy butler",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "u. católica - san luis",
-      "traffic": "2000+",
+      "name": "gustavo puerta",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "uzbekistan vs",
-      "traffic": "2000+",
+      "name": "loteria chaqueña",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "james",
-      "traffic": "500+",
+      "name": "pedro neto",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "grupo de colombia en el mundial",
-      "traffic": "1000+",
+      "name": "luis díaz",
+      "traffic": "200+",
       "rank": 10
     }
   ]
