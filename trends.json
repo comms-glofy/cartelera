@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T12:30:14Z",
+  "updated": "2026-06-28T13:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "horarios f1",
-      "traffic": "1000+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 1
+    },
+    {
+      "name": "horarios f1",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "antonela roccuzzo",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "lucas trejo familia",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "natalia villalba",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "el destape",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "gp austria",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "beca",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "línea sarmiento",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "gala de eliminación",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "juan grabois",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "corte de luz mar del plata",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
