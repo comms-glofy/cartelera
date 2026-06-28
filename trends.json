@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-28T21:00:26Z",
+  "updated": "2026-06-28T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pamela anderson",
+      "name": "mexico vs ecuador",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "eustaquio",
-      "traffic": "100+",
+      "name": "brian sarmiento",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juventud antoniana",
-      "traffic": "100+",
+      "name": "pamela anderson",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "canada",
-      "traffic": "10000+",
+      "name": "eustaquio",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "refinanciación",
-      "traffic": "500+",
+      "name": "juventud antoniana",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "paraguay vs alemania",
-      "traffic": "200+",
+      "name": "refinanciación",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "camila morrone",
-      "traffic": "200+",
+      "name": "paraguay vs alemania",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "chile",
+      "name": "camila morrone",
       "traffic": "200+",
       "rank": 8
     },
     {
       "name": "excavación",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "arsenal de sarandi",
-      "traffic": "100+",
+      "name": "chile",
+      "traffic": "200+",
       "rank": 10
     }
   ]
