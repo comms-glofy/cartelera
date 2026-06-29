@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T06:00:16Z",
+  "updated": "2026-06-29T06:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "forlan",
-      "traffic": "500+",
+      "name": "diego forlan",
+      "traffic": "100+",
       "rank": 7
+    },
+    {
+      "name": "forlan",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "marley",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "eduardo coudet",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "hbo",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
