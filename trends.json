@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-29T02:00:17Z",
+  "updated": "2026-06-29T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marley",
+      "name": "aura",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "eduardo coudet",
+      "name": "decreta",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "hbo",
+      "name": "marley",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "nueve reinas",
-      "traffic": "200+",
+      "name": "eduardo coudet",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "fábrica",
-      "traffic": "1000+",
+      "name": "hbo",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "rebord",
-      "traffic": "500+",
+      "name": "nueve reinas",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "santilli",
+      "name": "fábrica",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "marmol",
+      "name": "telekino sorteo 2434",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "frente frío",
-      "traffic": "50000+",
+      "name": "santilli",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "airbnb",
-      "traffic": "2000+",
+      "name": "rebord",
+      "traffic": "500+",
       "rank": 10
     }
   ]
