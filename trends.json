@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-29T03:00:16Z",
+  "updated": "2026-06-29T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "inpres",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "avenida brasil",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "temblor",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "aura",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "decreta",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "diego forlan",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "forlan",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "marley",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "eduardo coudet",
+      "name": "forlan",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "hbo",
-      "traffic": "2000+",
+      "name": "marley",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "nueve reinas",
-      "traffic": "200+",
+      "name": "eduardo coudet",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "fábrica",
+      "name": "hbo",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "telekino sorteo 2434",
-      "traffic": "2000+",
+      "name": "nueve reinas",
+      "traffic": "200+",
       "rank": 10
     }
   ]
