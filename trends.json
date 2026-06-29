@@ -1,31 +1,31 @@
 {
-  "updated": "2026-06-29T20:00:15Z",
+  "updated": "2026-06-29T20:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alemania - paraguay",
-      "traffic": "20000+",
+      "name": "germany vs paraguay world cup 2026",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ao tanaka",
-      "traffic": "100+",
+      "name": "alemania - paraguay",
+      "traffic": "50000+",
       "rank": 2
+    },
+    {
+      "name": "vinícius júnior",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "mexico vs ecuador",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "hay alargue en los 16avos del mundial",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "bruno guimarães",
-      "traffic": "200+",
       "rank": 5
     },
     {
@@ -35,22 +35,22 @@
     },
     {
       "name": "fixture de copa mundial de fútbol",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "casimiro",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
       "name": "novak djokovic",
-      "traffic": "1000+",
-      "rank": 9
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "dólar",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "tomiyasu",
+      "traffic": "500+",
       "rank": 10
     }
   ]
