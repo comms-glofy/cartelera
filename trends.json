@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T03:30:14Z",
+  "updated": "2026-06-29T04:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "temblor cordoba",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "avenida brasil",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "temblor",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "aura",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "decreta",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "forlan",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "marley",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "eduardo coudet",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "hbo",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "nueve reinas",
-      "traffic": "200+",
       "rank": 10
     }
   ]
