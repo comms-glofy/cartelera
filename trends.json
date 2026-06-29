@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-29T18:00:22Z",
+  "updated": "2026-06-29T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "novak djokovic",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "dólar",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "brasil",
+      "traffic": "10000+",
+      "rank": 3
+    },
+    {
+      "name": "takehiro tomiyasu",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "ganamos",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "disney plus",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 6
+    },
+    {
+      "name": "suzuki arquero",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "casemiro",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "disney",
       "traffic": "5000+",
-      "rank": 2
-    },
-    {
-      "name": "suzuki arquero",
-      "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "casemiro",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "paqueta",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "takefusa kubo",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "mitoma",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "kubo",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "daizen maeda",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "keito nakamura",
+      "name": "paqueta",
       "traffic": "500+",
       "rank": 10
     }
