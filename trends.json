@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-29T00:00:18Z",
+  "updated": "2026-06-29T00:15:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "fábrica",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "chilavert",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "santilli",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "rebord",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "marmol",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "frente frío",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "airbnb",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "telekino 2434",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "u. de chile - unión san felipe",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "fortaleza - sport recife",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "planta",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "danny ramirez",
-      "traffic": "200+",
+      "name": "fortaleza - sport recife",
+      "traffic": "500+",
       "rank": 10
     }
   ]
