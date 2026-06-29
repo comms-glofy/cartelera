@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T00:30:15Z",
+  "updated": "2026-06-29T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "chilavert",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "u. de chile - unión san felipe",
-      "traffic": "1000+",
+      "name": "fortaleza - sport recife",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fortaleza - sport recife",
-      "traffic": "500+",
+      "name": "planta",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
