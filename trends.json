@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-29T19:00:18Z",
+  "updated": "2026-06-29T19:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "novak djokovic",
+      "name": "posiciones de copa mundial de fútbol",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "hay alargue en los 16avos del mundial",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "mexico vs ecuador",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "ao tanaka",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "bruno guimarães",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "techint",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "novak djokovic",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "dólar",
       "traffic": "200+",
-      "rank": 2
+      "rank": 8
     },
     {
       "name": "brasil",
       "traffic": "20000+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "takehiro tomiyasu",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "ganamos",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "disney plus",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "casemiro",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "suzuki",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "takefusa kubo",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "disney",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
