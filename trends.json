@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-29T23:00:15Z",
+  "updated": "2026-06-29T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "maurício",
-      "traffic": "500+",
+      "name": "neuer",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "dólar estadounidense",
+      "name": "arquero de paraguay",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "leon goretzka",
-      "traffic": "200+",
+      "name": "nick woltemade",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "recibo de sueldo",
-      "traffic": "200+",
+      "name": "gill",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "galarza fonda",
+      "name": "rudi voller",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "kimmich",
-      "traffic": "500+",
+      "name": "alerta",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gustavo gomez",
-      "traffic": "200+",
+      "name": "dt paraguay",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "rudiger",
-      "traffic": "500+",
+      "name": "voller",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "manuel neuer",
-      "traffic": "500+",
+      "name": "viernes",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "orlando gill",
-      "traffic": "2000+",
+      "name": "waldemar anton",
+      "traffic": "200+",
       "rank": 10
     }
   ]
