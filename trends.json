@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-29T19:30:13Z",
+  "updated": "2026-06-29T19:52:06Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de copa mundial de fútbol",
-      "traffic": "500+",
+      "name": "ao tanaka",
+      "traffic": "100+",
       "rank": 1
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "ao tanaka",
-      "traffic": "100+",
+      "name": "techint",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bruno guimarães",
-      "traffic": "200+",
+      "name": "fixture de copa mundial de fútbol",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "techint",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
       "name": "novak djokovic",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "dólar",
       "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "tomiyasu",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "brasil",
-      "traffic": "20000+",
+      "name": "disney plus",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "takehiro tomiyasu",
-      "traffic": "200+",
+      "name": "suzuki",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
