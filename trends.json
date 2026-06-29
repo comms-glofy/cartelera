@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-29T22:00:17Z",
+  "updated": "2026-06-29T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "galarza fonda",
-      "traffic": "500+",
+      "name": "maurício",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "kimmich",
-      "traffic": "200+",
+      "name": "dólar estadounidense",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "gustavo gomez",
+      "name": "leon goretzka",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rudiger",
+      "name": "recibo de sueldo",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "manuel neuer",
-      "traffic": "200+",
+      "name": "kimmich",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "orlando gill",
-      "traffic": "500+",
+      "name": "galarza fonda",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "alfaro",
-      "traffic": "500+",
+      "name": "gustavo gomez",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "boston",
-      "traffic": "200+",
+      "name": "rudiger",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "kai havertz",
-      "traffic": "200+",
+      "name": "manuel neuer",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "germany vs paraguay world cup 2026",
-      "traffic": "1000+",
+      "name": "orlando gill",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
