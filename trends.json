@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-29T21:23:05Z",
+  "updated": "2026-06-29T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rudiger",
+      "name": "galarza fonda",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "manuel neuer",
+      "name": "kimmich",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "orlando gill",
-      "traffic": "500+",
+      "name": "gustavo gomez",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "boston",
+      "name": "rudiger",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "manuel neuer",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "orlando gill",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "alfaro",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "boston",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "tycsports en vivo",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "kai havertz",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "germany vs paraguay world cup 2026",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "alemania - paraguay",
-      "traffic": "200000+",
-      "rank": 9
-    },
-    {
-      "name": "vinícius júnior",
-      "traffic": "200+",
       "rank": 10
     }
   ]
