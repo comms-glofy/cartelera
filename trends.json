@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-29T01:00:16Z",
+  "updated": "2026-06-29T01:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fábrica",
-      "traffic": "500+",
+      "name": "marley",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "chilavert",
+      "name": "eduardo coudet",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "santilli",
-      "traffic": "2000+",
+      "name": "hbo",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "rebord",
-      "traffic": "500+",
+      "name": "nueve reinas",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "marmol",
+      "name": "fábrica",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "frente frío",
-      "traffic": "5000+",
+      "name": "chilavert",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "airbnb",
+      "name": "santilli",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "telekino 2434",
-      "traffic": "1000+",
+      "name": "rebord",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "fortaleza - sport recife",
-      "traffic": "500+",
+      "name": "marmol",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "planta",
-      "traffic": "1000+",
+      "name": "frente frío",
+      "traffic": "50000+",
       "rank": 10
     }
   ]
