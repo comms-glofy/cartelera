@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-29T10:07:08Z",
+  "updated": "2026-06-29T10:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima",
+      "traffic": "50000+",
+      "rank": 1
+    },
+    {
+      "name": "wimbledon",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "combustible",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "temblor cordoba",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "inpres",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "avenida brasil",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "aura",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "decreta",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "diego forlan",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "forlan",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "marley",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "eduardo coudet",
-      "traffic": "500+",
       "rank": 10
     }
   ]
