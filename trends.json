@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T17:30:17Z",
+  "updated": "2026-06-30T18:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "yan diomandé",
-      "traffic": "200+",
+      "name": "antonio nusa",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "ange-yoan bonny",
-      "traffic": "200+",
+      "name": "daniel melingo",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "cuenta d n i",
+      "name": "yan diomandé",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "empleado público",
+      "name": "ange-yoan bonny",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "marcela tauro",
-      "traffic": "1000+",
+      "name": "cuenta d n i",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "empleado público",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "marcela tauro",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "luis juez",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "costa de marfil - noruega",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "alexander zverev",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "elliot page",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "comercio",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
