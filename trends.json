@@ -1,25 +1,25 @@
 {
-  "updated": "2026-06-30T22:30:17Z",
+  "updated": "2026-06-30T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "goleadores del mundial",
-      "traffic": "500+",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "kylian mbappé",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "martha stewart",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "michael olise",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "portugal vs croacia",
+      "name": "michael olise",
       "traffic": "200+",
       "rank": 4
     },
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "anthony elanga",
+      "name": "portugal vs croacia",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "digne",
+      "name": "arquero de suecia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jacob widell zetterström",
-      "traffic": "1000+",
+      "name": "digne",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "viktor gyökeres",
+      "name": "anthony elanga",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "la nación",
-      "traffic": "2000+",
+      "name": "jacob widell zetterström",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
