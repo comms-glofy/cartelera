@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T04:00:19Z",
+  "updated": "2026-06-30T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bart verbruggen",
+      "name": "bono",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "issa diop",
-      "traffic": "5000+",
+      "name": "mundial 2018",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "wout weghorst",
-      "traffic": "2000+",
+      "name": "costa de marfil vs noruega",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "quinten timber",
+      "name": "de jong",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "leo montero",
+      "name": "bart verbruggen",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "ounahi",
-      "traffic": "500+",
+      "name": "wout weghorst",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "van de ven",
-      "traffic": "100+",
+      "name": "quinten timber",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "bono arquero",
+      "name": "leo montero",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "summerville",
-      "traffic": "1000+",
+      "name": "ounahi",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ronald koeman",
-      "traffic": "500+",
+      "name": "bono arquero",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
