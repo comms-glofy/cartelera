@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T18:00:19Z",
+  "updated": "2026-06-30T18:18:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "antonio nusa",
-      "traffic": "2000+",
+      "name": "martin ødegaard",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "diomande",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "economista",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "partido de hoy",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "daniel melingo",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "côte d'ivoire vs norway",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "yan diomandé",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "ange-yoan bonny",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "cuenta d n i",
       "traffic": "500+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "empleado público",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "marcela tauro",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "luis juez",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "costa de marfil - noruega",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "alexander zverev",
-      "traffic": "500+",
       "rank": 10
     }
   ]
