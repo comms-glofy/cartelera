@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T08:00:19Z",
+  "updated": "2026-06-30T08:28:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "mundial 2018",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
       "name": "costa de marfil vs noruega",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "de jong",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "bart verbruggen",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "rahimi",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "wout weghorst",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "leo montero",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "ounahi",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "van de ven",
+      "traffic": "100+",
       "rank": 10
     }
   ]
