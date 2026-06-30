@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T18:18:18Z",
+  "updated": "2026-06-30T18:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "martin ødegaard",
+      "name": "lebron james",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "diomande",
-      "traffic": "100+",
+      "name": "economista",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "economista",
-      "traffic": "200+",
+      "name": "daniel melingo",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "partido de hoy",
+      "name": "francia vs suecia",
       "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "daniel melingo",
-      "traffic": "1000+",
+      "name": "yan diomandé",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "côte d'ivoire vs norway",
-      "traffic": "1000+",
+      "name": "ange-yoan bonny",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "yan diomandé",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "ange-yoan bonny",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
       "name": "cuenta d n i",
-      "traffic": "500+",
-      "rank": 9
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "empleado público",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "marcela tauro",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "luis juez",
+      "traffic": "500+",
       "rank": 10
     }
   ]
