@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T01:30:16Z",
+  "updated": "2026-06-30T02:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "crysencio summerville",
-      "traffic": "200+",
+      "name": "van hecke",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "van hecke",
+      "name": "brahim díaz",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "brahim díaz",
-      "traffic": "100+",
+      "name": "crysencio summerville",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "van dijk",
-      "traffic": "500+",
+      "name": "virgil van dijk",
+      "traffic": "1000+",
       "rank": 4
     },
     {
       "name": "sampaio",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
     },
     {
       "name": "gakpo",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "monterrey",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "países bajos - marruecos",
       "traffic": "100000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "francia suecia",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "alfaro dt",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "u. española - colo-colo",
-      "traffic": "500+",
+      "name": "alfaro dt",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
