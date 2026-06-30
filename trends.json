@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T15:00:19Z",
+  "updated": "2026-06-30T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "comercio",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "militar",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "carl rinsch",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "ricardo darín",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "vivienda prefabricada",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "côte d'ivoire vs norway world cup 2026",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "nancy pazos",
-      "traffic": "200+",
+      "name": "vivienda prefabricada",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "francisco comesaña",
+      "name": "nancy pazos",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "agencia de recaudación y control aduanero",
-      "traffic": "100+",
+      "name": "côte d'ivoire vs norway world cup 2026",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "iprofesional",
-      "traffic": "2000+",
+      "name": "francisco comesaña",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "papa león xiv",
-      "traffic": "1000+",
+      "name": "agencia de recaudación y control aduanero",
+      "traffic": "100+",
       "rank": 10
     }
   ]
