@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T22:00:17Z",
+  "updated": "2026-06-30T22:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jacob widell zetterström",
+      "name": "goleadores del mundial",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "viktor gyökeres",
+      "name": "martha stewart",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "temporada 2026 de fórmula 1",
+      "name": "michael olise",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "la nación",
-      "traffic": "500+",
+      "name": "portugal vs croacia",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "alan velasco",
-      "traffic": "100+",
+      "name": "política",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "france vs sweden",
-      "traffic": "2000+",
+      "name": "anthony elanga",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "francia - suecia",
-      "traffic": "100000+",
+      "name": "digne",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ciudadano",
-      "traffic": "500+",
+      "name": "jacob widell zetterström",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "serena williams",
-      "traffic": "1000+",
+      "name": "viktor gyökeres",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "wawrinka",
-      "traffic": "500+",
+      "name": "la nación",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
