@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T19:00:17Z",
+  "updated": "2026-06-30T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lebron james",
-      "traffic": "200+",
+      "name": "wawrinka",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "economista",
+      "name": "braut haaland",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "estafa",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "jubilación",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "nicolas pépé",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "lebron james",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "economista",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "diomande",
       "traffic": "500+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "daniel melingo",
       "traffic": "10000+",
-      "rank": 4
-    },
-    {
-      "name": "yan diomandé",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "ange-yoan bonny",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "cuenta d n i",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "empleado público",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "marcela tauro",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "luis juez",
-      "traffic": "500+",
+      "name": "francia vs suecia",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
