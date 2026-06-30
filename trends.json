@@ -1,35 +1,35 @@
 {
-  "updated": "2026-06-30T19:30:16Z",
+  "updated": "2026-06-30T20:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wawrinka",
+      "name": "serena williams",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "braut haaland",
+      "name": "wawrinka",
       "traffic": "200+",
       "rank": 2
     },
     {
       "name": "estafa",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "braut haaland",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "jubilación",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "nicolas pépé",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lebron james",
+      "name": "nicolas pépé",
       "traffic": "200+",
       "rank": 6
     },
@@ -39,17 +39,17 @@
       "rank": 7
     },
     {
-      "name": "diomande",
-      "traffic": "500+",
+      "name": "lebron james",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "daniel melingo",
-      "traffic": "10000+",
+      "name": "diomande",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "francia vs suecia",
+      "name": "daniel melingo",
       "traffic": "10000+",
       "rank": 10
     }
