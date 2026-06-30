@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-30T16:02:38Z",
+  "updated": "2026-06-30T16:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "comercio",
+      "name": "luis juez",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "costa de marfil - noruega",
+      "traffic": "10000+",
+      "rank": 2
+    },
+    {
+      "name": "alexander zverev",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "elliot page",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "comercio",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "militar",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "3 de julio",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "carl rinsch",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "ricardo darín",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "vivienda prefabricada",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "nancy pazos",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "côte d'ivoire vs norway world cup 2026",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "francisco comesaña",
+      "name": "ricardo darín",
       "traffic": "500+",
       "rank": 10
     }
