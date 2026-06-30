@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-30T21:30:20Z",
+  "updated": "2026-06-30T21:57:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "jacob widell zetterström",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "gyokeres",
+      "name": "viktor gyökeres",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "viktor gyökeres",
+      "name": "temporada 2026 de fórmula 1",
       "traffic": "200+",
       "rank": 3
     },
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "temporada 2026 de fórmula 1",
-      "traffic": "200+",
+      "name": "alan velasco",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "alan velasco",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
       "name": "france vs sweden",
-      "traffic": "1000+",
-      "rank": 7
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "francia - suecia",
       "traffic": "100000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "ciudadano",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "serena williams",
-      "traffic": "200+",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "wawrinka",
+      "traffic": "500+",
       "rank": 10
     }
   ]
