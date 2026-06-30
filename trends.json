@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T07:00:17Z",
+  "updated": "2026-06-30T07:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
+      "name": "de jong",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "bart verbruggen",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "rahimi",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "wout weghorst",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "leo montero",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "ounahi",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "mazraoui",
+      "name": "ounahi",
       "traffic": "500+",
       "rank": 10
     }
