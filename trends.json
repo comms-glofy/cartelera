@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T20:00:19Z",
+  "updated": "2026-06-30T20:28:00Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "serena williams",
-      "traffic": "100+",
+      "name": "france vs sweden",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "wawrinka",
-      "traffic": "200+",
+      "name": "francia - suecia",
+      "traffic": "20000+",
       "rank": 2
     },
     {
-      "name": "estafa",
+      "name": "ciudadano",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "braut haaland",
-      "traffic": "200+",
+      "name": "serena williams",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "jubilación",
-      "traffic": "1000+",
+      "name": "partidos del mundial",
+      "traffic": "50000+",
       "rank": 5
     },
     {
-      "name": "nicolas pépé",
+      "name": "wawrinka",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "economista",
+      "name": "estafa",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lebron james",
+      "name": "braut haaland",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "diomande",
-      "traffic": "500+",
+      "name": "jubilación",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "daniel melingo",
-      "traffic": "10000+",
+      "name": "nicolas pépé",
+      "traffic": "200+",
       "rank": 10
     }
   ]
