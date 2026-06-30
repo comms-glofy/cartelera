@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T03:00:15Z",
+  "updated": "2026-06-30T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ounahi",
+      "name": "nederland",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "van de ven",
-      "traffic": "100+",
+      "name": "wout weghorst",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "mazraoui",
-      "traffic": "200+",
+      "name": "partidos del mundial mañana",
+      "traffic": "50000+",
       "rank": 3
     },
     {
-      "name": "netherlands vs morocco",
-      "traffic": "1000+",
+      "name": "quinten timber",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "summerville",
+      "name": "ounahi",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "ismael saibari",
-      "traffic": "200+",
+      "name": "netherlands vs morocco",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "ronald koeman",
-      "traffic": "500+",
+      "name": "summerville",
+      "traffic": "1000+",
       "rank": 7
     },
     {
       "name": "bono arquero",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "van gaal",
-      "traffic": "200+",
+      "name": "ronald koeman",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "koeman",
-      "traffic": "200+",
+      "name": "van gaal",
+      "traffic": "500+",
       "rank": 10
     }
   ]
