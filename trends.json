@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-30T10:00:16Z",
+  "updated": "2026-06-30T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "papa león xiv",
+      "name": "iprofesional",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "costa de marfil vs noruega",
+      "name": "papa león xiv",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bono",
-      "traffic": "1000+",
+      "name": "costa de marfil vs noruega",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "de jong",
-      "traffic": "200+",
+      "name": "bono",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "van de ven",
-      "traffic": "100+",
+      "name": "mazraoui",
+      "traffic": "500+",
       "rank": 10
     }
   ]
