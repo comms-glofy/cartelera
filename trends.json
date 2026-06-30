@@ -1,56 +1,56 @@
 {
-  "updated": "2026-06-30T16:30:16Z",
+  "updated": "2026-06-30T17:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "marcela tauro",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "luis juez",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "costa de marfil - noruega",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "alexander zverev",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "elliot page",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "comercio",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "militar",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "3 de julio",
+      "name": "militar",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "2000+",
+      "name": "3 de julio",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "carl rinsch",
-      "traffic": "500+",
+      "name": "francisco cerúndolo",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "ricardo darín",
-      "traffic": "500+",
+      "name": "carl rinsch",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
