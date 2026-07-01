@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:30:18Z",
+  "updated": "2026-07-01T21:58:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "de bruyne",
+      "name": "mory diaw",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mory diaw",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "senegal",
-      "traffic": "10000+",
-      "rank": 8
-    },
-    {
       "name": "juez",
-      "traffic": "1000+",
-      "rank": 9
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "courtois",
       "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "alerta meteorológica",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "belgium vs senegal world cup 2026",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
