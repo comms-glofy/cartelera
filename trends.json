@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-01T06:30:17Z",
+  "updated": "2026-07-01T07:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cadena 3",
+      "name": "información de seguridad en caso de seísmo",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "información de seguridad en caso de seísmo",
-      "traffic": "500+",
-      "rank": 2
-    },
-    {
       "name": "sismo",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "temblor cordoba",
       "traffic": "10000+",
+      "rank": 3
+    },
+    {
+      "name": "temblor en cordoba hoy",
+      "traffic": "2000+",
       "rank": 4
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "cruces mundial 2026",
-      "traffic": "10000+",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
