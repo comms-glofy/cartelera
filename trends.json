@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T12:30:15Z",
+  "updated": "2026-07-01T13:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,8 +9,8 @@
       "rank": 1
     },
     {
-      "name": "afip",
-      "traffic": "2000+",
+      "name": "desalojo",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,7 +19,7 @@
       "rank": 3
     },
     {
-      "name": "desalojo",
+      "name": "river id",
       "traffic": "200+",
       "rank": 4
     },
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "river id",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
       "name": "recibo de sueldo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "clima san luis",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "la voz del interior",
-      "traffic": "200+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "weather",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "clima",
+      "traffic": "100000+",
+      "rank": 9
+    },
+    {
+      "name": "temperatura mendoza",
+      "traffic": "500+",
       "rank": 10
     }
   ]
