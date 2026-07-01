@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-01T20:30:16Z",
+  "updated": "2026-07-01T21:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "juez",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "ismaïla sarr",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "alerta meteorológica",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "belgium vs senegal world cup 2026",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "iliman ndiaye",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "locomia",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "bélgica - senegal",
-      "traffic": "20000+",
-      "rank": 6
+      "traffic": "50000+",
+      "rank": 7
     },
     {
       "name": "novak djokovic",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "joan manuel serrat",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mexico vs inglaterra",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "england vs",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
