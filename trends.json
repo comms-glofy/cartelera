@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-01T05:30:16Z",
+  "updated": "2026-07-01T06:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cadena 3",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "sismo",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "temblor cordoba",
       "traffic": "10000+",
-      "rank": 2
-    },
-    {
-      "name": "temblor",
-      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "cruces mundial 2026",
-      "traffic": "10000+",
+      "traffic": "5000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "llave mundial 2026",
-      "traffic": "1000+",
+      "name": "caicedo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
