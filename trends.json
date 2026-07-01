@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-01T00:00:17Z",
+  "updated": "2026-07-01T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tenaris",
-      "traffic": "500+",
+      "name": "méxico - ecuador",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "goleadores mundial",
-      "traffic": "500+",
+      "name": "paritarias camioneros 2026",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
+      "rank": 3
+    },
+    {
+      "name": "ángel de brito",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "goleadores mundiales",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "tenaris",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "deschamps",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
+    },
+    {
+      "name": "kylian mbappé",
+      "traffic": "20000+",
+      "rank": 8
     },
     {
       "name": "goleadores del mundial",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "martha stewart",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "mbappe",
-      "traffic": "20000+",
-      "rank": 6
-    },
-    {
-      "name": "política",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "portugal vs croacia",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "arquero de suecia",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "digne",
-      "traffic": "200+",
       "rank": 10
     }
   ]
