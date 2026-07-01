@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-01T17:00:17Z",
+  "updated": "2026-07-01T17:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flow",
-      "traffic": "2000+",
+      "name": "lionel mpasi",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "congo",
-      "traffic": "5000+",
+      "name": "converse",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "declan rice",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "mpasi",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "portugal vs croacia",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "flow",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "congo",
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "nathanaël mbuku",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "santiago caputo",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "sebastián villa",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "inglaterra - rd congo",
-      "traffic": "100000+",
-      "rank": 6
-    },
-    {
-      "name": "solana sierra",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "jannik sinner",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "alessandra smerilli",
+      "name": "jude bellingham",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "victor willis",
-      "traffic": "500+",
+      "name": "santiago caputo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
