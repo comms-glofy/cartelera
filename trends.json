@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-01T11:00:15Z",
+  "updated": "2026-07-01T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "recibo de sueldo",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima san luis",
-      "traffic": "100+",
+      "name": "la voz del interior",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,17 +19,17 @@
       "rank": 3
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "clima san luis",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "temperatura mendoza",
-      "traffic": "500+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 5
     },
     {
-      "name": "diario de cuyo",
+      "name": "temperatura mendoza",
       "traffic": "500+",
       "rank": 6
     },
@@ -50,7 +50,7 @@
     },
     {
       "name": "gran hermano",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
