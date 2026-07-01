@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-01T15:00:19Z",
+  "updated": "2026-07-01T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "england vs dr congo",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "solana sierra",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "jannik sinner",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "inglaterra vs congo",
       "traffic": "10000+",
-      "rank": 1
+      "rank": 4
+    },
+    {
+      "name": "cnea",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "alessandra smerilli",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "victor willis",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "aryna sabalenka",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "england vs dr congo world cup 2026",
-      "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "river id",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "desalojo",
-      "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "1 de julio que se celebra",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "peron",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "recibo de sueldo",
-      "traffic": "500+",
       "rank": 10
     }
   ]
