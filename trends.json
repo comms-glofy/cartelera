@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-01T04:30:15Z",
+  "updated": "2026-07-01T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de u. católica contra everton de viña del mar",
-      "traffic": "2000+",
+      "name": "sismo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "santi giménez",
-      "traffic": "100+",
+      "name": "temblor cordoba",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "moises caicedo",
-      "traffic": "200+",
+      "name": "temblor",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "inpres",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "posiciones de u. católica contra everton de viña del mar",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "jordy caicedo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "cruces mundial 2026",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "santiago giménez",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "llave mundial 2026",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "galindez",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "raul jimenez mexico",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "luis romo",
+      "name": "galindez",
       "traffic": "500+",
       "rank": 10
     }
