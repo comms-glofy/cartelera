@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-01T04:00:14Z",
+  "updated": "2026-07-01T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "moises caicedo",
-      "traffic": "100+",
+      "name": "posiciones de u. católica contra everton de viña del mar",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "caicedo",
-      "traffic": "1000+",
+      "name": "santi giménez",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "moises caicedo",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "jordy caicedo",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "cruces mundial 2026",
       "traffic": "10000+",
-      "rank": 3
-    },
-    {
-      "name": "cuadro mundial 2026",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "santiago giménez",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "luis romo",
-      "traffic": "200+",
+      "name": "santiago giménez",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "que tiene raul jimenez en la cabeza",
-      "traffic": "500+",
+      "name": "llave mundial 2026",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "raul jimenez mexico",
+      "name": "galindez",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "galindez",
-      "traffic": "200+",
+      "name": "raul jimenez mexico",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "raul giménez",
-      "traffic": "200+",
+      "name": "luis romo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
