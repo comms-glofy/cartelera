@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-01T19:00:18Z",
+  "updated": "2026-07-01T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "belgica vs senegal",
-      "traffic": "2000+",
+      "name": "novak djokovic",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "tuchel",
-      "traffic": "200+",
+      "name": "mexico vs inglaterra",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "empire state",
+      "name": "joan manuel serrat",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "harry kane",
-      "traffic": "10000+",
+      "name": "belgica vs senegal",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "converse",
-      "traffic": "500+",
+      "name": "kane",
+      "traffic": "20000+",
       "rank": 5
+    },
+    {
+      "name": "tuchel",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "empire state",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "lionel mpasi",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "declan rice",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "portugal vs croacia",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "mpasi",
-      "traffic": "1000+",
+      "name": "converse",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "dgo",
+      "name": "declan rice",
       "traffic": "500+",
       "rank": 10
     }
