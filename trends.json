@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-30T23:30:15Z",
+  "updated": "2026-07-01T00:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "tenaris",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "goleador mundial 2026",
+      "name": "goleadores mundial",
       "traffic": "500+",
       "rank": 2
     },
@@ -35,7 +35,7 @@
     },
     {
       "name": "política",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 7
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "digne",
-      "traffic": "200+",
+      "name": "arquero de suecia",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "anthony elanga",
+      "name": "digne",
       "traffic": "200+",
       "rank": 10
     }
