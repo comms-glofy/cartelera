@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T06:00:15Z",
+  "updated": "2026-07-01T06:23:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "información de seguridad en caso de seísmo",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "sismo",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "temblor cordoba",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "inpres",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "kendry páez",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "posiciones de u. católica contra everton de viña del mar",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "moises caicedo",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "jordy caicedo",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "cruces mundial 2026",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "santiago giménez",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "caicedo",
-      "traffic": "500+",
+      "name": "cruces mundial 2026",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
