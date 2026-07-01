@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-01T19:30:14Z",
+  "updated": "2026-07-01T20:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "novak djokovic",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
-    },
-    {
-      "name": "mexico vs inglaterra",
-      "traffic": "500+",
-      "rank": 2
     },
     {
       "name": "joan manuel serrat",
       "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "mexico vs inglaterra",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "partidos mundial hoy",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "belgica vs senegal",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "kane",
-      "traffic": "20000+",
       "rank": 5
     },
     {
-      "name": "tuchel",
+      "name": "saka",
       "traffic": "200+",
       "rank": 6
     },
@@ -39,8 +39,8 @@
       "rank": 7
     },
     {
-      "name": "lionel mpasi",
-      "traffic": "2000+",
+      "name": "harry kane",
+      "traffic": "20000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "declan rice",
-      "traffic": "500+",
+      "name": "lionel mpasi",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
