@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-01T16:00:17Z",
+  "updated": "2026-07-01T16:04:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "sebastián villa",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "england vs dr congo",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "inglaterra - rd congo",
       "traffic": "20000+",
-      "rank": 2
-    },
-    {
-      "name": "jannik sinner",
-      "traffic": "500+",
       "rank": 3
     },
     {
@@ -24,8 +24,8 @@
       "rank": 4
     },
     {
-      "name": "cnea",
-      "traffic": "1000+",
+      "name": "jannik sinner",
+      "traffic": "500+",
       "rank": 5
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "river id",
-      "traffic": "500+",
+      "name": "desalojo",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "1 de julio que se celebra",
-      "traffic": "200+",
+      "name": "river id",
+      "traffic": "500+",
       "rank": 10
     }
   ]
