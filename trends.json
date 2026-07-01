@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-01T18:30:18Z",
+  "updated": "2026-07-01T19:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "belgica vs senegal",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -24,13 +24,13 @@
       "rank": 4
     },
     {
-      "name": "lionel mpasi",
-      "traffic": "2000+",
+      "name": "converse",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "converse",
-      "traffic": "500+",
+      "name": "lionel mpasi",
+      "traffic": "2000+",
       "rank": 6
     },
     {
@@ -39,7 +39,7 @@
       "rank": 7
     },
     {
-      "name": "bellingham",
+      "name": "portugal vs croacia",
       "traffic": "1000+",
       "rank": 8
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "portugal vs croacia",
-      "traffic": "1000+",
+      "name": "dgo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
