@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-01T10:30:15Z",
+  "updated": "2026-07-01T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "weather",
-      "traffic": "200+",
-      "rank": 1
-    },
-    {
       "name": "recibo de sueldo",
       "traffic": "100+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "clima san luis",
       "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "weather",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "diario de cuyo",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 6
     },
     {
