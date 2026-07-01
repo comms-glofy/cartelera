@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-01T12:00:16Z",
+  "updated": "2026-07-01T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "recibo de sueldo",
-      "traffic": "200+",
+      "name": "england vs dr congo world cup 2026",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "afip",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "1 de julio",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "desalojo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "1 de julio que se celebra",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "river id",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "recibo de sueldo",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "clima san luis",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "la voz del interior",
       "traffic": "200+",
-      "rank": 2
+      "rank": 9
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "clima san luis",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "clima",
-      "traffic": "100000+",
-      "rank": 5
-    },
-    {
-      "name": "temperatura mendoza",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "terremoto",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "edea mar del plata",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "clima san juan",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "gran hermano",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
