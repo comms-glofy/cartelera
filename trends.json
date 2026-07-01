@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-01T16:04:33Z",
+  "updated": "2026-07-01T16:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sebastián villa",
-      "traffic": "200+",
+      "name": "congo",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "england vs dr congo",
-      "traffic": "500+",
+      "name": "nathanaël mbuku",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inglaterra - rd congo",
-      "traffic": "20000+",
+      "name": "santiago caputo",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "sebastián villa",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "inglaterra - rd congo",
+      "traffic": "50000+",
+      "rank": 5
     },
     {
       "name": "solana sierra",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "jannik sinner",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "alessandra smerilli",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "victor willis",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "aryna sabalenka",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "desalojo",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "river id",
-      "traffic": "500+",
       "rank": 10
     }
   ]
