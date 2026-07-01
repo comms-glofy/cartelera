@@ -1,46 +1,46 @@
 {
-  "updated": "2026-07-01T18:23:08Z",
+  "updated": "2026-07-01T18:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "belgica senegal",
-      "traffic": "200+",
-      "rank": 1
-    },
-    {
-      "name": "kane",
+      "name": "belgica vs senegal",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "tuchel",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "empire state",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "harry kane",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "lionel mpasi",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "converse",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "declan rice",
       "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "bellingham",
+      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,7 +49,7 @@
       "rank": 9
     },
     {
-      "name": "bellingham",
+      "name": "portugal vs croacia",
       "traffic": "1000+",
       "rank": 10
     }
