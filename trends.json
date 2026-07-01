@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-01T13:30:16Z",
+  "updated": "2026-07-01T14:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cnea",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "alessandra smerilli",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "aryna sabalenka",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "victor willis",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "england vs dr congo world cup 2026",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "desalojo",
-      "traffic": "500+",
       "rank": 5
-    },
-    {
-      "name": "river id",
-      "traffic": "500+",
-      "rank": 6
     },
     {
       "name": "1 de julio",
       "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "river id",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "desalojo",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "1 de julio que se celebra",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "recibo de sueldo",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima san luis",
-      "traffic": "200+",
+      "name": "peron",
+      "traffic": "500+",
       "rank": 10
     }
   ]
