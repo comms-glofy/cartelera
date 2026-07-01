@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-01T00:30:16Z",
+  "updated": "2026-07-01T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "méxico - ecuador",
-      "traffic": "20000+",
+      "name": "u. católica - everton",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "paritarias camioneros 2026",
-      "traffic": "100+",
+      "name": "méxico - ecuador",
+      "traffic": "50000+",
       "rank": 2
+    },
+    {
+      "name": "paritarias camioneros 2026",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ángel de brito",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "goleadores mundiales",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tenaris",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "deschamps",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
-      "name": "kylian mbappé",
-      "traffic": "20000+",
-      "rank": 8
+      "name": "tabla goleadores mundial 2026",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "goleadores del mundial",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "martha stewart",
-      "traffic": "500+",
       "rank": 10
     }
   ]
