@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T05:30:17Z",
+  "updated": "2026-07-02T05:56:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "ricardo pepi",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "graciela alfano",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "españa vs austria",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "balogun",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "u. de chile - u. la calera",
+      "traffic": "500+",
       "rank": 10
     }
   ]
