@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-02T21:00:18Z",
+  "updated": "2026-07-02T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "german denis",
+      "name": "jason momoa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "casilda",
-      "traffic": "1000+",
+      "name": "penélope cruz",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cuerpo técnico",
-      "traffic": "500+",
+      "name": "tren sarmiento",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "emova",
+      "name": "javier bardem",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "partidos mundial futbol",
-      "traffic": "1000+",
+      "name": "generación z",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "paramount",
-      "traffic": "100+",
+      "name": "miniserie",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "instituto geofísico del perú",
-      "traffic": "100+",
+      "name": "salma hayek",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "directv go",
+      "name": "pedri",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "google",
-      "traffic": "200+",
+      "name": "german denis",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "penelope cruz",
-      "traffic": "1000+",
+      "name": "casilda",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
