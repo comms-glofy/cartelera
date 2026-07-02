@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-02T03:00:19Z",
+  "updated": "2026-07-02T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "refinanciación",
+      "name": "paula chaves",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "john denver take me home, country roads",
-      "traffic": "500+",
+      "name": "suiza vs argelia",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "refinanciación",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "partidos del mundial mañana",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "graciela alfano",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "españa vs austria",
+      "name": "john denver take me home, country roads",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "u. de chile - u. la calera",
-      "traffic": "500+",
+      "name": "ricardo pepi",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "china suárez",
-      "traffic": "500+",
+      "name": "graciela alfano",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "usa fc",
-      "traffic": "200+",
+      "name": "españa vs austria",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "manuel arjona locomia",
+      "name": "u. de chile - u. la calera",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "raphael claus",
+      "name": "china suárez",
       "traffic": "500+",
       "rank": 10
     }
