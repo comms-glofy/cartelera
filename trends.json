@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T02:30:17Z",
+  "updated": "2026-07-02T03:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,13 +9,13 @@
       "rank": 1
     },
     {
-      "name": "partidos del mundial mañana",
-      "traffic": "2000+",
+      "name": "john denver take me home, country roads",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "ricardo pepi",
-      "traffic": "200+",
+      "name": "partidos del mundial mañana",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -25,22 +25,22 @@
     },
     {
       "name": "españa vs austria",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "raphael claus",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "usa fc",
-      "traffic": "200+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "u. de chile - u. la calera",
       "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "china suárez",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "usa fc",
+      "traffic": "200+",
       "rank": 8
     },
     {
@@ -49,7 +49,7 @@
       "rank": 9
     },
     {
-      "name": "china suárez",
+      "name": "raphael claus",
       "traffic": "500+",
       "rank": 10
     }
