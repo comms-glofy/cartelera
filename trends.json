@@ -1,36 +1,36 @@
 {
-  "updated": "2026-07-02T22:00:19Z",
+  "updated": "2026-07-02T22:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jason momoa",
-      "traffic": "200+",
+      "name": "millie bobby brown",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "penélope cruz",
-      "traffic": "200+",
+      "name": "lucas gamez venezuela",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "tren sarmiento",
+      "name": "rodrigo battaglia",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "generación z",
+      "name": "jason momoa",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "javier bardem",
-      "traffic": "200+",
+      "name": "tren sarmiento",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "salma hayek",
-      "traffic": "200+",
+      "name": "generación z",
+      "traffic": "500+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "german denis",
-      "traffic": "500+",
+      "name": "salma hayek",
+      "traffic": "200+",
       "rank": 8
+    },
+    {
+      "name": "german denis",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "redengas",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "casilda",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
