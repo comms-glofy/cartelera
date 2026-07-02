@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-02T15:00:22Z",
+  "updated": "2026-07-02T15:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guillermo moreno",
+      "name": "hernan gil",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "si argentina pasa a octavos cuando juega",
-      "traffic": "200+",
+      "name": "alexander zverev",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "magiclick",
-      "traffic": "1000+",
+      "name": "guillermo moreno",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "si argentina pasa a octavos cuando juega",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "magiclick",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "2 de julio",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "nieve en mar del plata",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "helmut ditsch",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "dinero",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "clima neuquen",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "tiempo en mendoza",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "widows bay",
-      "traffic": "500+",
+      "name": "dinero",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "clima tucuman",
+      "name": "clima neuquen",
       "traffic": "100+",
       "rank": 10
     }
