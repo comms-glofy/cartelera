@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-02T22:30:20Z",
+  "updated": "2026-07-02T23:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "millie bobby brown",
-      "traffic": "1000+",
+      "name": "portugal - croacia",
+      "traffic": "50000+",
       "rank": 1
     },
     {
       "name": "lucas gamez venezuela",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 2
     },
     {
@@ -25,32 +25,32 @@
     },
     {
       "name": "tren sarmiento",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "penélope cruz",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "generación z",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "miniserie",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "javier bardem",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "salma hayek",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "german denis",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "redengas",
-      "traffic": "500+",
       "rank": 10
     }
   ]
