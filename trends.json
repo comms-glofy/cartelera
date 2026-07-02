@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-02T10:00:19Z",
+  "updated": "2026-07-02T10:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "smn",
-      "traffic": "200+",
+      "name": "clima tucuman",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pronostico posadas",
-      "traffic": "100+",
+      "name": "quini 6 1 de julio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "araceli gonzález",
-      "traffic": "100+",
+      "name": "suspensión de clases mendoza",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "pronóstico del tiempo",
-      "traffic": "100+",
+      "name": "pronostico posadas",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "pronóstico del tiempo",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "araceli gonzález",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "cloud",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "paula chaves",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "suiza vs argelia",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "refinanciación",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "pochettino",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "partidos del mundial mañana",
+      "name": "refinanciación",
       "traffic": "2000+",
       "rank": 10
     }
