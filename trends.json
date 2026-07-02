@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:30:19Z",
+  "updated": "2026-07-02T21:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "españa fc",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "cubarsi",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
       "name": "cuerpo técnico",
-      "traffic": "20000+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "emova",
       "traffic": "200+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "partidos mundial futbol",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "paramount",
       "traffic": "100+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "instituto geofísico del perú",
       "traffic": "100+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "directv go",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "google",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "penelope cruz",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
