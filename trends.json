@@ -1,36 +1,36 @@
 {
-  "updated": "2026-07-02T18:12:25Z",
+  "updated": "2026-07-02T18:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jhohan romaña",
-      "traffic": "200+",
+      "name": "españa - austria",
+      "traffic": "20000+",
       "rank": 1
+    },
+    {
+      "name": "condenado",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "jhohan romaña",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "lucas beltran",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "colombia vs ghana",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "partidos de hoy",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "a qué hora juega portugal",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "noticia",
-      "traffic": "500+",
       "rank": 6
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "lucas gamez",
-      "traffic": "200+",
+      "name": "noticia",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "river",
-      "traffic": "1000+",
+      "name": "lucas gamez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
