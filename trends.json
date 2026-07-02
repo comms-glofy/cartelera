@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T12:30:18Z",
+  "updated": "2026-07-02T13:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "lu24",
+      "name": "clima tucuman",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima tucuman",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
       "name": "quini 6 1 de julio",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "suspensión de clases mendoza",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "clima mar del plata",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "pronostico posadas",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "araceli gonzález",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "cloud",
+      "traffic": "100+",
       "rank": 10
     }
   ]
