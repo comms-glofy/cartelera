@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T14:30:25Z",
+  "updated": "2026-07-02T15:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,8 +14,8 @@
       "rank": 2
     },
     {
-      "name": "2 de julio",
-      "traffic": "100+",
+      "name": "magiclick",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "tiempo en mendoza",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "widows bay",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "clima tucuman",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "quini 6 1 de julio",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
