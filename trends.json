@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-02T11:00:20Z",
+  "updated": "2026-07-02T11:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima tucuman",
+      "name": "dinero",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "quini 6 1 de julio",
-      "traffic": "200+",
+      "name": "clima neuquen",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "suspensión de clases mendoza",
-      "traffic": "200+",
+      "name": "tiempo en mendoza",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima mar del plata",
+      "name": "widows bay",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "pronostico posadas",
-      "traffic": "200+",
+      "name": "clima tucuman",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "araceli gonzález",
-      "traffic": "200+",
+      "name": "quini 6 1 de julio",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "pronóstico del tiempo",
+      "name": "suspensión de clases mendoza",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cloud",
-      "traffic": "100+",
+      "name": "clima mar del plata",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "paula chaves",
-      "traffic": "1000+",
+      "name": "pronostico posadas",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "suiza vs argelia",
-      "traffic": "100+",
+      "name": "araceli gonzález",
+      "traffic": "200+",
       "rank": 10
     }
   ]
