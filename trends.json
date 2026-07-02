@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-02T18:30:19Z",
+  "updated": "2026-07-02T19:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "españa - austria",
-      "traffic": "20000+",
+      "traffic": "50000+",
       "rank": 1
     },
     {
       "name": "condenado",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "lucas beltran",
+      "name": "colombia vs ghana",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "colombia vs ghana",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
       "name": "a qué hora juega portugal",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "federación argentina de empleados de comercio y servicios",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "ángel de brito",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "noticia",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "lucas gamez",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "river",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
