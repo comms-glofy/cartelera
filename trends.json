@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-01T23:30:17Z",
+  "updated": "2026-07-02T00:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "usa bosnia",
-      "traffic": "100+",
+      "name": "bosnia",
+      "traffic": "2000+",
       "rank": 1
     },
     {
       "name": "estados unidos - bosnia y herzegovina",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 2
+    },
+    {
+      "name": "ola de frío",
+      "traffic": "5000+",
+      "rank": 3
     },
     {
       "name": "onana",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "amadou onana",
-      "traffic": "200+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
+      "name": "amadou onana",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "lukebakio",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "eka ojeda",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "nicolas raskin",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "santiago rios",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "rudi garcia",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "aeropuerto internacional rosario islas malvinas",
-      "traffic": "200+",
       "rank": 10
     }
   ]
