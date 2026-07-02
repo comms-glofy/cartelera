@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-02T09:00:19Z",
+  "updated": "2026-07-02T09:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paula chaves",
-      "traffic": "1000+",
+      "name": "smn",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "suiza vs argelia",
+      "name": "araceli gonzález",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "pronóstico del tiempo",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "cloud",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "paula chaves",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "suiza vs argelia",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "refinanciación",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "pochettino",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "partidos de mañana mundial 2026",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "john denver take me home, country roads",
-      "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "partidos del mundial mañana",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "ermedin demirovic",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "graciela alfano",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "españa vs austria",
-      "traffic": "1000+",
+      "name": "john denver take me home, country roads",
+      "traffic": "500+",
       "rank": 10
     }
   ]
