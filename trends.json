@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T09:30:19Z",
+  "updated": "2026-07-02T10:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "araceli gonzález",
+      "name": "pronostico posadas",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pronóstico del tiempo",
+      "name": "araceli gonzález",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cloud",
+      "name": "pronóstico del tiempo",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "cloud",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "paula chaves",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "suiza vs argelia",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "refinanciación",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pochettino",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "partidos del mundial mañana",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "john denver take me home, country roads",
-      "traffic": "500+",
       "rank": 10
     }
   ]
