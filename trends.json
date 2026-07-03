@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T15:32:53Z",
+  "updated": "2026-07-03T16:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "gremio",
-      "traffic": "100+",
+      "name": "djokovic",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "murió manuel arjona",
-      "traffic": "200+",
+      "name": "gremio",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "murió manuel arjona",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "jlo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "novak djokovic",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "horarios f1 silverstone 2026",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "comisión nacional de energía atómica",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "vito quiles",
-      "traffic": "500+",
       "rank": 10
     }
   ]
