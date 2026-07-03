@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-03T03:30:17Z",
+  "updated": "2026-07-03T04:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manzambi",
-      "traffic": "200+",
+      "name": "suiza vs",
+      "traffic": "10000+",
       "rank": 1
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "marco antonio caponi",
+      "name": "switzerland vs algeria",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "switzerland vs algeria",
-      "traffic": "1000+",
+      "name": "marco antonio caponi",
+      "traffic": "2000+",
       "rank": 6
-    },
-    {
-      "name": "portugal vs españa",
-      "traffic": "1000+",
-      "rank": 7
     },
     {
       "name": "verano del 36 netflix",
       "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "portugal vs españa",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "julian guarino",
+      "name": "como salio portugal",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "suiza argelia",
-      "traffic": "5000+",
+      "name": "julian guarino",
+      "traffic": "200+",
       "rank": 10
     }
   ]
