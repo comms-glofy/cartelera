@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T06:30:17Z",
+  "updated": "2026-07-03T07:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "river vs",
+      "name": "facundo arana",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "facundo arana",
+      "name": "susana freyre",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "susana freyre",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
       "name": "switzerland vs algeria",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "marco antonio caponi",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "verano del 36 netflix",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "portugal vs españa",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "julian guarino",
+      "traffic": "200+",
       "rank": 10
     }
   ]
