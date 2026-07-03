@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-03T14:00:21Z",
+  "updated": "2026-07-03T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jlo",
-      "traffic": "200+",
+      "name": "empleado municipal",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "murió manuel arjona",
+      "name": "australia vs egipto",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "novak djokovic",
-      "traffic": "1000+",
+      "name": "gremio",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "horarios f1 silverstone 2026",
-      "traffic": "100+",
+      "name": "murió manuel arjona",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "australia vs egipto pronostico",
-      "traffic": "100+",
+      "name": "jlo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "comisión nacional de energía atómica",
-      "traffic": "500+",
+      "name": "novak djokovic",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "vito quiles",
+      "name": "horarios f1 silverstone 2026",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "roman safiullin",
-      "traffic": "200+",
+      "name": "comisión nacional de energía atómica",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "tim sweeney",
-      "traffic": "200+",
+      "name": "vito quiles",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "dia del locutor",
-      "traffic": "500+",
+      "name": "roman safiullin",
+      "traffic": "200+",
       "rank": 10
     }
   ]
