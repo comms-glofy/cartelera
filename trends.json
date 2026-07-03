@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T13:21:09Z",
+  "updated": "2026-07-03T13:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "novak djokovic",
-      "traffic": "1000+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -39,17 +39,17 @@
       "rank": 7
     },
     {
-      "name": "tim sweeney",
+      "name": "roman safiullin",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "dia del locutor",
-      "traffic": "500+",
+      "name": "tim sweeney",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "jorge d'alessandro",
+      "name": "dia del locutor",
       "traffic": "500+",
       "rank": 10
     }
