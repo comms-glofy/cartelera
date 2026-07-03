@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-03T17:00:20Z",
+  "updated": "2026-07-03T17:21:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "prácticas f1",
+      "name": "ostapenko",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "feriado 9 de julio",
-      "traffic": "100+",
+      "name": "comercio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "shintaro mochizuki",
-      "traffic": "100+",
+      "name": "prácticas f1",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "taylor swift",
+      "name": "feriado 9 de julio",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "quiniela en vivo",
+      "name": "taylor swift",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "paraguay francia",
+      "name": "shintaro mochizuki",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "empleado municipal",
-      "traffic": "500+",
+      "name": "quiniela en vivo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "australia vs egipto",
-      "traffic": "2000+",
+      "name": "paraguay francia",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "gremio",
-      "traffic": "100+",
+      "name": "empleado municipal",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "murió manuel arjona",
-      "traffic": "500+",
+      "name": "australia vs egipto",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
