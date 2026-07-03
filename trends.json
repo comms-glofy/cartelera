@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-03T22:30:19Z",
+  "updated": "2026-07-03T22:58:34Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "victoria beckham",
-      "traffic": "2000+",
+      "name": "shakira",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "arbitro argentina cabo verde",
+      "name": "batistuta",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "cpv",
-      "traffic": "1000+",
+      "name": "victoria beckham",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "arbitro argentina cabo verde",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "cpv",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "francia paraguay",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "cabo verde cpv",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "presidente de la fifa",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "miami temperatura",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "futbol en vivo",
-      "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "te",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "roberto lopes",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "cabo verde",
-      "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "vozinha",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
