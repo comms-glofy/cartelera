@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-03T10:00:22Z",
+  "updated": "2026-07-03T10:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "página/12",
-      "traffic": "200+",
+      "name": "clima hoy",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "weather",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "página/12",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "bet365",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "luca zidane",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "granit xhaka",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "suiza vs",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 7
     },
     {
-      "name": "river vs",
-      "traffic": "500+",
-      "rank": 6
+      "name": "caponi",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "facundo arana",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "susana freyre",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "switzerland vs algeria",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "marco antonio caponi",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
