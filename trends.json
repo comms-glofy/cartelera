@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-03T12:00:21Z",
+  "updated": "2026-07-03T12:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tim sweeney",
-      "traffic": "100+",
+      "name": "comisión nacional de energía atómica",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jorge d'alessandro",
+      "name": "roman safiullin",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dia del locutor",
+      "name": "vito quiles",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "tim sweeney",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "jorge d'alessandro",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "dia del locutor",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "clima hoy",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "página/12",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "bet365",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "luca zidane",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "granit xhaka",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "suiza vs",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
