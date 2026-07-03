@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-03T09:00:22Z",
+  "updated": "2026-07-03T09:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bet365",
+      "name": "página/12",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "luca zidane",
+      "name": "bet365",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "luca zidane",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "granit xhaka",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "suiza vs",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "river vs",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "caponi",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "facundo arana",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "susana freyre",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "switzerland vs algeria",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "marco antonio caponi",
+      "name": "switzerland vs algeria",
       "traffic": "2000+",
       "rank": 10
     }
