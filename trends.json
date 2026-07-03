@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-03T15:00:18Z",
+  "updated": "2026-07-03T15:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "empleado municipal",
+      "name": "paraguay francia",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "australia vs egipto",
-      "traffic": "500+",
+      "name": "empleado municipal",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "australia vs egipto",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "gremio",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "murió manuel arjona",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "jlo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "novak djokovic",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "horarios f1 silverstone 2026",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "comisión nacional de energía atómica",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "vito quiles",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "roman safiullin",
-      "traffic": "200+",
       "rank": 10
     }
   ]
