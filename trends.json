@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-03T01:08:37Z",
+  "updated": "2026-07-03T01:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ronaldo",
+      "name": "diogo jota",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "españa vs portugal",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "georgina",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "o'higgins - colo-colo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "portugal vs croatia",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
       "name": "georgina rodríguez",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "drake",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "uruguay - argentina",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "leao",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "cristiano ronaldo",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "argentina vs. cabo verde",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "mexico inglaterra",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "portugal",
-      "traffic": "20000+",
+      "name": "kovacic",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "portugal fc",
-      "traffic": "2000+",
+      "name": "leao",
+      "traffic": "200+",
       "rank": 10
     }
   ]
