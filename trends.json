@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-03T00:30:17Z",
+  "updated": "2026-07-03T01:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "uruguay - argentina",
-      "traffic": "500+",
+      "name": "drake",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "leao",
-      "traffic": "100+",
+      "name": "uruguay - argentina",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "argentina vs. cabo verde",
-      "traffic": "500+",
+      "name": "kovacic",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "mexico inglaterra",
+      "name": "leao",
       "traffic": "100+",
       "rank": 4
     },
     {
       "name": "cristiano ronaldo",
-      "traffic": "500+",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "argentina vs. cabo verde",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "mexico inglaterra",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "portugal",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "portugal fc",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "weather tomorrow",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "bernardo silva",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "nuno mendes",
+      "name": "bernardo silva",
       "traffic": "200+",
       "rank": 10
     }
