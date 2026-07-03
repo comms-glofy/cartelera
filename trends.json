@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-03T09:30:20Z",
+  "updated": "2026-07-03T10:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "página/12",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "caponi",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "facundo arana",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "susana freyre",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "switzerland vs algeria",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "marco antonio caponi",
       "traffic": "2000+",
       "rank": 10
     }
