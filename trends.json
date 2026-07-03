@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-03T11:00:20Z",
+  "updated": "2026-07-03T11:29:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "tim sweeney",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "weather",
+      "name": "jorge d'alessandro",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "dia del locutor",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "weather",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "página/12",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "bet365",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "luca zidane",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "granit xhaka",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "suiza vs",
-      "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "caponi",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "facundo arana",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "susana freyre",
+      "name": "river vs flamengo",
       "traffic": "500+",
       "rank": 10
     }
