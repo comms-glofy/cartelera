@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-03T01:00:19Z",
+  "updated": "2026-07-03T01:08:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "drake",
+      "name": "ronaldo",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "uruguay - argentina",
-      "traffic": "2000+",
+      "name": "georgina rodríguez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "kovacic",
-      "traffic": "2000+",
+      "name": "drake",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "uruguay - argentina",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "leao",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "cristiano ronaldo",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "argentina vs. cabo verde",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "mexico inglaterra",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "portugal",
-      "traffic": "10000+",
+      "name": "mexico inglaterra",
+      "traffic": "200+",
       "rank": 8
+    },
+    {
+      "name": "portugal",
+      "traffic": "20000+",
+      "rank": 9
     },
     {
       "name": "portugal fc",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "bernardo silva",
-      "traffic": "200+",
       "rank": 10
     }
   ]
