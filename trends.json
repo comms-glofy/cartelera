@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-03T02:30:20Z",
+  "updated": "2026-07-03T03:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "marco antonio caponi",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -15,11 +15,11 @@
     },
     {
       "name": "portugal vs españa",
-      "traffic": "2000+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "como salio portugal",
+      "name": "verano del 36 netflix",
       "traffic": "200+",
       "rank": 4
     },
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "verano del 36 netflix",
-      "traffic": "200+",
+      "name": "diogo jota",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "llaves mundial 2026",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "diogo jota",
+      "name": "suiza argelia",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "offside",
-      "traffic": "200+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "gonzalo ramos",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "matanovic",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "georgina",
+      "traffic": "100+",
       "rank": 10
     }
   ]
