@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-04T00:00:20Z",
+  "updated": "2026-07-04T00:10:04Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chiqui tapia",
+      "name": "nico gonzalez",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "dibu martinez",
+      "name": "julian alvarez",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "de paul",
-      "traffic": "1000+",
+      "name": "mac allister",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "brasil noruega",
+      "name": "independiente del valle - manta",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "pausa de hidratación",
+      "name": "pico lopes",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "molina",
-      "traffic": "1000+",
+      "name": "vozinha cabo verde",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "aramco",
-      "traffic": "500+",
+      "name": "pico lopez",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pique",
-      "traffic": "500+",
+      "name": "weather tomorrow",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "simeone",
-      "traffic": "1000+",
+      "name": "sidny lopes cabral",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "thiago messi",
-      "traffic": "200+",
+      "name": "chiqui tapia",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
