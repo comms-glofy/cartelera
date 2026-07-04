@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-04T05:00:16Z",
+  "updated": "2026-07-04T05:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "richard ríos",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "canada vs marruecos",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "como va colombia",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "quiniela de tucumán",
-      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "luis díaz",
+      "name": "quiniela de tucumán",
       "traffic": "500+",
       "rank": 4
     },
