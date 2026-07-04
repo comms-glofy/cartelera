@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-04T10:30:20Z",
+  "updated": "2026-07-04T11:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juan fernando quintero",
+      "name": "infobae",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "richard ríos",
-      "traffic": "100+",
+      "name": "juan fernando quintero",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "canada vs marruecos",
-      "traffic": "500+",
+      "name": "richard ríos",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "canada vs marruecos",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "como va colombia",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "quiniela de tucumán",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "luis díaz",
+      "name": "quiniela de tucumán",
       "traffic": "500+",
       "rank": 6
     },
@@ -49,7 +49,7 @@
       "rank": 9
     },
     {
-      "name": "camilo vargas",
+      "name": "jordan ayew",
       "traffic": "500+",
       "rank": 10
     }
