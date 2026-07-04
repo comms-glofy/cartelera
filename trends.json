@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T06:00:20Z",
+  "updated": "2026-07-04T06:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,42 +15,42 @@
     },
     {
       "name": "canada vs marruecos",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
-    },
-    {
-      "name": "sprint f1",
-      "traffic": "2000+",
-      "rank": 4
     },
     {
       "name": "como va colombia",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "quiniela de tucumán",
       "traffic": "500+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "luis díaz",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "colombia fc",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "jhon arias",
-      "traffic": "1000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "iñaki williams",
       "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "semenyo",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "camilo vargas",
+      "traffic": "500+",
       "rank": 10
     }
   ]
