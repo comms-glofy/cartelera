@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-04T22:30:24Z",
+  "updated": "2026-07-04T23:00:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "enciso",
-      "traffic": "200+",
+      "name": "mbappe",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "telefe en vivo",
-      "traffic": "200000+",
+      "name": "enciso",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "tyc",
-      "traffic": "10000+",
+      "name": "mi telefe",
+      "traffic": "100000+",
       "rank": 4
-    },
-    {
-      "name": "olise",
-      "traffic": "100+",
-      "rank": 5
     },
     {
       "name": "pelota mundial 2026",
       "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "olise",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "tyc",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "ester exposito",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "play store",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lpf",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "colisión",
-      "traffic": "100+",
       "rank": 10
     }
   ]
