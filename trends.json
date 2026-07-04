@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-04T02:30:16Z",
+  "updated": "2026-07-04T03:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gustavo puerta",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "quiniela de tucumán",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "luis díaz",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "quien juega mañana en el mundial 2026",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "iñaki williams",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "semenyo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "thomas partey",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "james",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
-      "name": "antoine semenyo",
-      "traffic": "200+",
-      "rank": 8
+      "name": "jhon córdoba",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "camilo vargas",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "partidos de mañana",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
