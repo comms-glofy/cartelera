@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-04T15:00:25Z",
+  "updated": "2026-07-04T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "alexander zverev",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "alexandra eala",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "sofía martínez",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
       "name": "central de deudores",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "elena rybakina",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "pronostico caba",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "nations championship",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "tour de france 2026",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "yahoo correo",
-      "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "epicentro",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "whatsapp",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico buenos aires",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "la capital",
-      "traffic": "100+",
       "rank": 10
     }
   ]
