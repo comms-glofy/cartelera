@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-04T18:00:28Z",
+  "updated": "2026-07-04T18:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canada vs morocco",
-      "traffic": "500+",
+      "name": "canada",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "ismael saibari",
+      "name": "saibari",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "quienes juegan hoy en el mundial",
+      "name": "eustaquio",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "ismael saibari",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "ola de frío",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "compensación",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "miniserie",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "alexandra eala",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "travis kelce",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "sofía martínez",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
