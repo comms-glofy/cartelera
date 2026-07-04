@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T10:00:20Z",
+  "updated": "2026-07-04T10:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -35,7 +35,7 @@
     },
     {
       "name": "colombia fc",
-      "traffic": "20000+",
+      "traffic": "10000+",
       "rank": 7
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "camilo vargas",
-      "traffic": "500+",
+      "name": "jhon córdoba",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "antoine semenyo",
-      "traffic": "200+",
+      "name": "camilo vargas",
+      "traffic": "500+",
       "rank": 10
     }
   ]
