@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-04T04:00:18Z",
+  "updated": "2026-07-04T04:10:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "canada vs marruecos",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -24,7 +24,7 @@
       "rank": 4
     },
     {
-      "name": "iñaki williams",
+      "name": "jhon arias",
       "traffic": "1000+",
       "rank": 5
     },
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "jhon arias",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
       "name": "camilo vargas",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "jhon córdoba",
       "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "iñaki williams",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "james rodriguez",
-      "traffic": "500+",
+      "name": "partidos de mañana",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
