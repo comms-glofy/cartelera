@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T20:06:56Z",
+  "updated": "2026-07-04T20:30:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "colisión",
-      "traffic": "100+",
+      "name": "lpf",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "canada",
-      "traffic": "5000+",
+      "name": "colisión",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "canada",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "canada vs",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "saibari",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "desastre",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "eustaquio",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ismael saibari",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "ola de frío",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "compensación",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "miniserie",
-      "traffic": "500+",
       "rank": 10
     }
   ]
