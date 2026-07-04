@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-04T00:10:04Z",
+  "updated": "2026-07-04T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nico gonzalez",
-      "traffic": "1000+",
+      "name": "julian alvarez",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "julian alvarez",
-      "traffic": "2000+",
+      "name": "sidny lopes cabral",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "nico gonzalez",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "mac allister",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "independiente del valle - manta",
-      "traffic": "200+",
       "rank": 4
     },
     {
       "name": "pico lopes",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "vozinha cabo verde",
+      "name": "independiente del valle - manta",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pico lopez",
+      "name": "vozinha cabo verde",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "weather tomorrow",
+      "name": "pico lopez",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sidny lopes cabral",
-      "traffic": "100+",
+      "name": "weather tomorrow",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "chiqui tapia",
-      "traffic": "1000+",
+      "name": "dibu martinez",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
