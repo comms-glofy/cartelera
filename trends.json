@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-04T12:00:20Z",
+  "updated": "2026-07-04T12:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ole",
-      "traffic": "200+",
+      "name": "epicentro",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "f1 en vivo",
-      "traffic": "500+",
+      "name": "tour de france 2026",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "avión",
-      "traffic": "100+",
+      "name": "whatsapp",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "cadena 3",
+      "name": "pronostico buenos aires",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "juan fernando quintero",
-      "traffic": "200+",
+      "name": "los pumas",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "richard ríos",
-      "traffic": "100+",
+      "name": "8vos de final mundial 2026",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "canada vs marruecos",
-      "traffic": "20000+",
+      "name": "google",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "como va colombia",
-      "traffic": "1000+",
+      "name": "ole",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "quiniela de tucumán",
-      "traffic": "500+",
+      "name": "avión",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "luis díaz",
-      "traffic": "500+",
+      "name": "cadena 3",
+      "traffic": "200+",
       "rank": 10
     }
   ]
