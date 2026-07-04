@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-04T16:00:27Z",
+  "updated": "2026-07-04T16:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexander zverev",
-      "traffic": "500+",
+      "name": "quienes juegan hoy en el mundial",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alexandra eala",
-      "traffic": "200+",
+      "name": "ola de frío",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "compensación",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "miniserie",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "alexander zverev",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "travis kelce",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "sofía martínez",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "central de deudores",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "elena rybakina",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "pronostico caba",
+      "name": "alexandra eala",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "nations championship",
-      "traffic": "100+",
+      "name": "central de deudores",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "tour de france 2026",
-      "traffic": "500+",
+      "name": "sofía martínez",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "epicentro",
-      "traffic": "200+",
+      "name": "elena rybakina",
+      "traffic": "100+",
       "rank": 10
     }
   ]
