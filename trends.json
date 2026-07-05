@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T12:00:29Z",
+  "updated": "2026-07-05T12:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "josé luis chilavert",
-      "traffic": "500+",
+      "name": "brasil vs noruega",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sanción",
+      "name": "horarios f1 silverstone 2026",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pierre gasly",
-      "traffic": "2000+",
+      "name": "falabella",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima caba",
-      "traffic": "100+",
+      "name": "mexico vs inglaterra",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "wimbledon 2026",
-      "traffic": "200+",
+      "name": "bandera",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "josé luis chilavert",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "elías piccirillo",
-      "traffic": "100+",
+      "name": "sanción",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "tormenta",
+      "name": "pierre gasly",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "x",
+      "name": "wimbledon 2026",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "terremoto",
-      "traffic": "2000+",
+      "name": "clima",
+      "traffic": "200000+",
       "rank": 10
     }
   ]
