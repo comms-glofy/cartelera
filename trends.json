@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T03:00:26Z",
+  "updated": "2026-07-05T03:30:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "susana roccasalvo",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "posiciones de barcelona sc contra deportivo cuenca",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "diego ramos",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "2025",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "u. católica - copiapó",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "issste",
-      "traffic": "500+",
+      "name": "u. católica - copiapó",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "juliana awada",
-      "traffic": "200+",
+      "name": "issste",
+      "traffic": "1000+",
       "rank": 6
     },
     {
       "name": "lunes",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "quiniela de tucumán",
+      "name": "juliana awada",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "marcelo gallardo",
-      "traffic": "200+",
+      "name": "quiniela de tucumán",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "netflix",
-      "traffic": "5000+",
+      "name": "marcelo gallardo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
