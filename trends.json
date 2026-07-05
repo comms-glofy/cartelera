@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T23:00:27Z",
+  "updated": "2026-07-05T23:05:10Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "folha de sao paulo",
-      "traffic": "500+",
+      "name": "briatore",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "o globo",
-      "traffic": "500+",
+      "name": "oglobo brasil",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "vikingo",
+      "name": "vinícius júnior",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "folha de sao paulo",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "o globo",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "llave del mundial 2026",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "raphinha",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "goleadores del mundial 2026",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "roja a balogun",
       "traffic": "20000+",
-      "rank": 6
-    },
-    {
-      "name": "tobey maguire",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "woody harrelson",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "zombieland",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "erling haaland",
-      "traffic": "20000+",
+      "name": "goleadores mundial 2026",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
