@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T12:48:57Z",
+  "updated": "2026-07-05T13:00:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "falabella",
-      "traffic": "200+",
+      "name": "radar de tramo",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mexico vs inglaterra",
-      "traffic": "500+",
+      "name": "falabella",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "mexico vs inglaterra",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "bandera",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "josé luis chilavert",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sanción",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "pierre gasly",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "wimbledon 2026",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima",
-      "traffic": "200000+",
+      "name": "wimbledon 2026",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
