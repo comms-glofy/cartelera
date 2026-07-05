@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T20:34:53Z",
+  "updated": "2026-07-05T21:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "alisson becker",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "gabriel magalhães",
+      "name": "david møller wolfe",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "antonio nusa",
-      "traffic": "1000+",
+      "name": "gabriel magalhães",
+      "traffic": "200+",
       "rank": 3
     },
     {
       "name": "ørjan nyland",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "sorloth",
-      "traffic": "500+",
+      "name": "antonio nusa",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "sorloth",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "matheus cunha",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "television publica",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ancelotti",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "river vs boca reserva",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "autopista",
-      "traffic": "200+",
       "rank": 10
     }
   ]
