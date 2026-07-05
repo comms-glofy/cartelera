@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T11:00:25Z",
+  "updated": "2026-07-05T11:27:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo",
-      "traffic": "10000+",
+      "name": "pierre gasly",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "clima caba",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tormenta",
-      "traffic": "1000+",
+      "name": "wimbledon 2026",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "x",
-      "traffic": "500+",
+      "name": "tiempo",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "terremoto",
-      "traffic": "1000+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 5
     },
     {
-      "name": "susana roccasalvo",
+      "name": "elías piccirillo",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "posiciones de barcelona sc contra deportivo cuenca",
+      "name": "tormenta",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "diego ramos",
-      "traffic": "200+",
+      "name": "x",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "2025",
-      "traffic": "100+",
+      "name": "terremoto",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "issste",
-      "traffic": "1000+",
+      "name": "susana roccasalvo",
+      "traffic": "100+",
       "rank": 10
     }
   ]
