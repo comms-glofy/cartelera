@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T14:00:25Z",
+  "updated": "2026-07-05T14:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "novak djokovic",
+      "name": "disney plus",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "a que hora es la carrera de f1",
+      "name": "disney",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "brasil vs noruega",
-      "traffic": "2000+",
+      "name": "san luis",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "radar de tramo",
-      "traffic": "100+",
+      "name": "novak djokovic",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "falabella",
-      "traffic": "500+",
+      "name": "a que hora es la carrera de f1",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "mexico vs inglaterra",
+      "name": "brasil vs noruega",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "bandera",
+      "name": "radar de tramo",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "josé luis chilavert",
-      "traffic": "2000+",
+      "name": "falabella",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "sanción",
-      "traffic": "1000+",
+      "name": "mexico vs inglaterra",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "pierre gasly",
-      "traffic": "2000+",
+      "name": "bandera",
+      "traffic": "100+",
       "rank": 10
     }
   ]
