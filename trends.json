@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T17:00:30Z",
+  "updated": "2026-07-05T17:30:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia",
-      "traffic": "200+",
+      "name": "aryna sabalenka",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "brasil noruega",
-      "traffic": "1000+",
+      "name": "naomi osaka",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "karina jelinek",
-      "traffic": "500+",
+      "name": "santiago wanderers - u. de chile",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "f1 hoy",
-      "traffic": "10000+",
+      "name": "portugal vs españa",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "paulo dybala",
+      "name": "gimnasia",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "leclerc",
-      "traffic": "2000+",
+      "name": "karina jelinek",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "precio",
+      "name": "paulo dybala",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "partidos mundial hoy",
-      "traffic": "20000+",
+      "name": "leclerc",
+      "traffic": "2000+",
       "rank": 8
+    },
+    {
+      "name": "precio",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "eduardo coudet",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "f1 en vivo gratis",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
