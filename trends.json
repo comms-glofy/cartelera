@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T10:30:26Z",
+  "updated": "2026-07-05T11:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "20000+",
+      "name": "tiempo",
+      "traffic": "10000+",
       "rank": 1
+    },
+    {
+      "name": "clima",
+      "traffic": "50000+",
+      "rank": 2
     },
     {
       "name": "tormenta",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "x",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "terremoto",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "susana roccasalvo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "posiciones de barcelona sc contra deportivo cuenca",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "diego ramos",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "2025",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "issste",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "juliana awada",
-      "traffic": "500+",
       "rank": 10
     }
   ]
