@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T21:30:24Z",
+  "updated": "2026-07-05T21:58:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "zombieland",
-      "traffic": "500+",
+      "name": "neymar",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "odegaard",
-      "traffic": "2000+",
+      "name": "woody harrelson",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "tobey maguire",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "zombieland",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "erling haaland",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
-      "name": "nusa",
-      "traffic": "1000+",
-      "rank": 4
+      "name": "odegaard",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "braut haaland",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "nusa noruega",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "pele",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tyc sport en vivo",
+      "name": "new jersey",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "alisson becker",
+      "name": "nusa",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "gabriel magalhães",
-      "traffic": "200+",
+      "name": "nusa noruega",
+      "traffic": "500+",
       "rank": 10
     }
   ]
