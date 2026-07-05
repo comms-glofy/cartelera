@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-05T22:30:26Z",
+  "updated": "2026-07-05T23:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "folha de sao paulo",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "vikingo",
-      "traffic": "200+",
+      "name": "o globo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "arquero de noruega 2026",
+      "name": "vikingo",
       "traffic": "200+",
       "rank": 3
     },
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "neymar jr",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "haaland meme",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "roja a balogun",
-      "traffic": "10000+",
-      "rank": 8
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "tobey maguire",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "woody harrelson",
       "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "zombieland",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "erling haaland",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
