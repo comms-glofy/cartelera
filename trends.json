@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T19:30:20Z",
+  "updated": "2026-07-05T20:00:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "brazil vs norway",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "brasil x noruega",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "balogun roja",
       "traffic": "5000+",
-      "rank": 2
-    },
-    {
-      "name": "brasil x noruega",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "brasil - noruega",
-      "traffic": "50000+",
+      "name": "ferro",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "brasil - noruega",
+      "traffic": "100000+",
+      "rank": 5
     },
     {
       "name": "san martin de tucuman",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "jannik sinner",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "colon",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "balogun",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "macará - ldu quito",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "valentina bassi",
-      "traffic": "200+",
       "rank": 10
     }
   ]
