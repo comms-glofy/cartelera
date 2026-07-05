@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T16:30:27Z",
+  "updated": "2026-07-05T17:00:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,18 +9,18 @@
       "rank": 1
     },
     {
-      "name": "karina jelinek",
-      "traffic": "200+",
+      "name": "brasil noruega",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "leclerc",
-      "traffic": "1000+",
+      "name": "karina jelinek",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "partidos hoy",
-      "traffic": "2000+",
+      "name": "f1 hoy",
+      "traffic": "10000+",
       "rank": 4
     },
     {
@@ -29,23 +29,23 @@
       "rank": 5
     },
     {
-      "name": "franco colapinto",
-      "traffic": "10000+",
+      "name": "leclerc",
+      "traffic": "2000+",
       "rank": 6
     },
     {
       "name": "precio",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 7
+    },
+    {
+      "name": "partidos mundial hoy",
+      "traffic": "20000+",
+      "rank": 8
     },
     {
       "name": "eduardo coudet",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "mundial hoy",
-      "traffic": "20000+",
       "rank": 9
     },
     {
