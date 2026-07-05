@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-05T20:30:24Z",
+  "updated": "2026-07-05T20:34:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tyc sports en vivo",
-      "traffic": "2000+",
-      "rank": 1
-    },
-    {
       "name": "alisson becker",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "gabriel magalhães",
       "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "antonio nusa",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "antonio nusa",
+      "name": "matheus cunha",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "matheus cunha",
-      "traffic": "500+",
+      "name": "television publica",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "television publica",
-      "traffic": "5000+",
+      "name": "ancelotti",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "rayan",
-      "traffic": "1000+",
+      "name": "river vs boca reserva",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ancelotti",
-      "traffic": "1000+",
+      "name": "autopista",
+      "traffic": "200+",
       "rank": 10
     }
   ]
