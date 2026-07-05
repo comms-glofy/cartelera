@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T00:00:30Z",
+  "updated": "2026-07-05T00:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "susana gimenez",
-      "traffic": "200+",
+      "name": "netflix",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "mbappe",
-      "traffic": "1000+",
+      "name": "tn",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "enciso",
+      "name": "susana gimenez",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "mbappe",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "enciso",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "tyc sports en vivo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "telefe",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "mi telefe",
-      "traffic": "50000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pelota mundial 2026",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "ester exposito",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "play store",
-      "traffic": "200+",
+      "name": "tyc",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "lpf",
-      "traffic": "200+",
+      "name": "ester exposito",
+      "traffic": "500+",
       "rank": 10
     }
   ]
