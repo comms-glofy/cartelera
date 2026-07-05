@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T23:05:10Z",
+  "updated": "2026-07-05T23:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "briatore",
-      "traffic": "1000+",
+      "name": "cristiano ronaldo",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "oglobo brasil",
+      "name": "telekino 2435",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "vinícius júnior",
-      "traffic": "200+",
+      "name": "briatore",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "folha de sao paulo",
-      "traffic": "500+",
+      "name": "oglobo brasil",
+      "traffic": "200+",
       "rank": 4
-    },
-    {
-      "name": "o globo",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "llave del mundial 2026",
-      "traffic": "500+",
-      "rank": 6
     },
     {
       "name": "raphinha",
       "traffic": "200+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "goleadores del mundial 2026",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "roja a balogun",
       "traffic": "20000+",
+      "rank": 7
+    },
+    {
+      "name": "tobey maguire",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "woody harrelson",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "goleadores mundial 2026",
-      "traffic": "1000+",
+      "name": "endrick",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
