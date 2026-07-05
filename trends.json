@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T16:00:26Z",
+  "updated": "2026-07-05T16:04:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "franco colapinto",
-      "traffic": "5000+",
+      "name": "leclerc",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "precio",
+      "name": "paulo dybala",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "eduardo coudet",
-      "traffic": "200+",
+      "name": "franco colapinto",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "mundial hoy",
-      "traffic": "10000+",
+      "name": "precio",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "eduardo coudet",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "mundial hoy",
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "f1 en vivo gratis",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "disney plus",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "disney",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "san luis",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "novak djokovic",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "brasil vs noruega",
-      "traffic": "5000+",
+      "name": "san luis",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
