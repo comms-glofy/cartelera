@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T01:00:23Z",
+  "updated": "2026-07-05T01:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "netflix",
-      "traffic": "500+",
+      "name": "barcelona sc - dep. cuenca",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "netflix",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "tn",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "susana gimenez",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "enciso",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tyc sports en vivo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "telefe",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "olise",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pelota mundial 2026",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ester exposito",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "paraguay - francia",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
