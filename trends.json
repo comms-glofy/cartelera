@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-05T18:00:30Z",
+  "updated": "2026-07-05T18:30:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aryna sabalenka",
+      "name": "colon",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "naomi osaka",
+      "name": "balogun",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "portugal vs españa",
-      "traffic": "500+",
+      "name": "macará - ldu quito",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "santiago wanderers - u. de chile",
-      "traffic": "200+",
+      "name": "aryna sabalenka",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "gimnasia",
-      "traffic": "500+",
+      "name": "portugal vs españa",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "brasil noruega",
-      "traffic": "2000+",
+      "name": "santiago wanderers - u. de chile",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "gimnasia",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "brasil noruega",
+      "traffic": "100000+",
+      "rank": 8
     },
     {
       "name": "karina jelinek",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "paulo dybala",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "leclerc",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "franco colapinto",
-      "traffic": "10000+",
+      "name": "paulo dybala",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
