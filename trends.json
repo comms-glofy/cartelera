@@ -1,45 +1,45 @@
 {
-  "updated": "2026-07-05T09:00:29Z",
+  "updated": "2026-07-05T09:30:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "x",
+      "name": "tormenta",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "terremoto",
-      "traffic": "200+",
+      "name": "x",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "terremoto",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "susana roccasalvo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "posiciones de barcelona sc contra deportivo cuenca",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "diego ramos",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "2025",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "issste",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "u. católica - copiapó",
+      "name": "issste",
       "traffic": "1000+",
       "rank": 8
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "lunes",
-      "traffic": "500+",
+      "name": "u. católica - copiapó",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
