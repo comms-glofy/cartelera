@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-06T21:30:32Z",
+  "updated": "2026-07-06T22:00:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "cristiano ronaldo",
-      "traffic": "5000+",
+      "traffic": "20000+",
       "rank": 1
-    },
-    {
-      "name": "cuartos de final mundial 2026",
-      "traffic": "5000+",
-      "rank": 2
     },
     {
       "name": "san fermin",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "gavi",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "bernardo silva",
-      "traffic": "5000+",
-      "rank": 5
+      "rank": 3
     },
     {
       "name": "alexander zverev",
       "traffic": "500+",
-      "rank": 6
+      "rank": 4
+    },
+    {
+      "name": "martín menem",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "unai simon",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "martín menem",
-      "traffic": "100+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "lamine yamal",
       "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "españa fc",
+      "traffic": "10000+",
+      "rank": 8
+    },
+    {
+      "name": "fecha de pago de jubilaciones y pensiones",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "pedri",
+      "name": "dani olmo",
       "traffic": "500+",
       "rank": 10
     }
