@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T19:30:51Z",
+  "updated": "2026-07-06T20:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diogo costa",
-      "traffic": "200+",
+      "name": "paramount",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "mikel oyarzabal",
-      "traffic": "200+",
+      "name": "futbol libre brasil vs noruega",
+      "traffic": "200000+",
       "rank": 2
+    },
+    {
+      "name": "diogo costa",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "renato veiga",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "rodri",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "chatterbox",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "portugal vs spain",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "celeste amarilla",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "javier bardem",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "portugal - españa",
       "traffic": "100000+",
-      "rank": 9
-    },
-    {
-      "name": "georgina rodríguez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
