@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T04:00:31Z",
+  "updated": "2026-07-06T04:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kick",
-      "traffic": "5000+",
+      "name": "wonderwall",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "henderson",
-      "traffic": "500+",
+      "name": "sandra pettovello",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "estados unidos vs belgica",
-      "traffic": "200+",
+      "name": "suiza vs colombia",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "arquero de inglaterra",
-      "traffic": "200+",
+      "name": "davo",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "ochoa",
-      "traffic": "200+",
+      "name": "kick",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "dan burn",
+      "name": "henderson",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "santi giménez",
-      "traffic": "1000+",
+      "name": "estados unidos vs belgica",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "brian gutiérrez",
-      "traffic": "500+",
+      "name": "arquero de inglaterra",
+      "traffic": "200+",
       "rank": 8
+    },
+    {
+      "name": "santi giménez",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "infantino",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "edson álvarez",
-      "traffic": "200+",
       "rank": 10
     }
   ]
