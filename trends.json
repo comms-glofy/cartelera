@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T15:00:23Z",
+  "updated": "2026-07-06T15:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ecogas",
-      "traffic": "1000+",
+      "name": "aeropuerto",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "si argentina le gana a egipto cuando vuelve a jugar",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "ecogas",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "feriado julio 2026",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "banco provincia",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "pronostico extendido",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "clima tucuman",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "temperatura tucuman",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "quini6",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "gran premio de gran bretaña",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "sandra pettovello",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "suiza vs colombia",
-      "traffic": "100+",
       "rank": 10
     }
   ]
