@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T10:00:33Z",
+  "updated": "2026-07-06T10:11:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "quini6",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "memes mexico vs inglaterra",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "sandra pettovello",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "suiza vs colombia",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "davo",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "henderson",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "kick",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "estados unidos vs belgica",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "arquero de inglaterra",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "santiago giménez",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "boxeador mexicano",
-      "traffic": "200+",
       "rank": 10
     }
   ]
