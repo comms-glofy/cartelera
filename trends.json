@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T16:00:30Z",
+  "updated": "2026-07-06T16:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aeropuerto",
+      "name": "jesica cirio",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "grigor dimitrov",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "aeropuerto",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "si argentina le gana a egipto cuando vuelve a jugar",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "ecogas",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "feriado julio 2026",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "banco provincia",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "pronostico extendido",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima tucuman",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "temperatura tucuman",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "quini6",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "gran premio de gran bretaña",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
