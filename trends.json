@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-06T14:30:36Z",
+  "updated": "2026-07-06T15:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "ecogas",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "feriados argentina 2026",
+      "name": "feriado julio 2026",
       "traffic": "1000+",
       "rank": 2
     },
@@ -19,18 +19,18 @@
       "rank": 3
     },
     {
-      "name": "henderson inglaterra",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
       "name": "pronostico extendido",
       "traffic": "100+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "clima tucuman",
       "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "temperatura tucuman",
+      "traffic": "100+",
       "rank": 6
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "wonderwall",
-      "traffic": "1000+",
+      "name": "suiza vs colombia",
+      "traffic": "100+",
       "rank": 10
     }
   ]
