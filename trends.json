@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T18:00:26Z",
+  "updated": "2026-07-06T18:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "9 de julio",
-      "traffic": "2000+",
+      "name": "georgina rodríguez",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "taylor fritz",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "9 de julio",
+      "traffic": "5000+",
+      "rank": 3
     },
     {
       "name": "jesica cirio",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "grigor dimitrov",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "si argentina le gana a egipto cuando vuelve a jugar",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "aeropuerto",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "ecogas",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "banco provincia",
       "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "españa portugal",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico extendido",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima tucuman",
-      "traffic": "500+",
+      "name": "españa portugal",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
