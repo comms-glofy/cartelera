@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-06T18:30:25Z",
+  "updated": "2026-07-06T19:00:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "georgina rodríguez",
-      "traffic": "100+",
+      "name": "portugal - españa",
+      "traffic": "20000+",
       "rank": 1
+    },
+    {
+      "name": "georgina rodríguez",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "taylor fritz",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "a que hora juega argentina mañana",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "9 de julio",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "jesica cirio",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "grigor dimitrov",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "si argentina le gana a egipto cuando vuelve a jugar",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "aeropuerto",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ecogas",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "banco provincia",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "españa portugal",
+      "name": "banco provincia",
       "traffic": "10000+",
       "rank": 10
     }
