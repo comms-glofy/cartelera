@@ -1,31 +1,31 @@
 {
-  "updated": "2026-07-06T02:30:25Z",
+  "updated": "2026-07-06T03:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "julian quiñones",
+      "name": "raúl jiménez",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "raúl jiménez",
-      "traffic": "2000+",
+      "name": "gordon inglaterra",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "raul jimenez",
-      "traffic": "2000+",
+      "name": "gimenez mexico",
+      "traffic": "200+",
       "rank": 3
-    },
-    {
-      "name": "gordon inglaterra",
-      "traffic": "500+",
-      "rank": 4
     },
     {
       "name": "que tiene raul jimenez en la cabeza",
       "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "konsa",
+      "traffic": "200+",
       "rank": 5
     },
     {
@@ -34,12 +34,12 @@
       "rank": 6
     },
     {
-      "name": "gimenez mexico",
+      "name": "sebastian rulli",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "konsa",
+      "name": "sebastián rulli",
       "traffic": "200+",
       "rank": 8
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "seleccion mexico",
-      "traffic": "200+",
+      "name": "bellingham",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
