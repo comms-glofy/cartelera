@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-06T20:30:31Z",
+  "updated": "2026-07-06T21:00:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "unai simon",
-      "traffic": "200+",
+      "name": "alexander zverev",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -14,8 +14,8 @@
       "rank": 2
     },
     {
-      "name": "lamine yamal",
-      "traffic": "1000+",
+      "name": "unai simon",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "pedro neto",
-      "traffic": "200+",
+      "name": "lamine yamal",
+      "traffic": "1000+",
       "rank": 5
-    },
-    {
-      "name": "dani olmo",
-      "traffic": "200+",
-      "rank": 6
     },
     {
       "name": "pedri",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "fecha de pago de jubilaciones y pensiones",
       "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "pedro neto",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "personal flow",
+      "name": "dani olmo",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "joao felix",
-      "traffic": "500+",
+      "name": "personal flow",
+      "traffic": "200+",
       "rank": 10
     }
   ]
