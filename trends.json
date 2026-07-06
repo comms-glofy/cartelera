@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T01:14:53Z",
+  "updated": "2026-07-06T01:30:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alireza faghani",
+      "name": "pickford",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "julián andrés quiñones",
+      "name": "roberto alvarado",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bukayo saka",
+      "name": "erik lira",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "alireza faghani",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "bukayo saka",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "julián andrés quiñones",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "arbitro mexico inglaterra",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "harry kane",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "gilberto mora",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "kane",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "declan rice",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "anthony gordon",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "elliot anderson",
-      "traffic": "200+",
       "rank": 10
     }
   ]
