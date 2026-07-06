@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-06T16:30:25Z",
+  "updated": "2026-07-06T17:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "jesica cirio",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
       "name": "grigor dimitrov",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "españa portugal",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
       "name": "pronostico extendido",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "clima tucuman",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "temperatura tucuman",
-      "traffic": "100+",
       "rank": 10
     }
   ]
