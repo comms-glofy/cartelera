@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T23:30:24Z",
+  "updated": "2026-07-06T00:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "raphinha",
-      "traffic": "200+",
+      "name": "folha de sao paulo",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "goleadores del mundial 2026",
-      "traffic": "2000+",
+      "name": "raphinha",
+      "traffic": "200+",
       "rank": 6
-    },
-    {
-      "name": "roja a balogun",
-      "traffic": "20000+",
-      "rank": 7
     },
     {
       "name": "tobey maguire",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "woody harrelson",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "endrick",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "zombieland",
+      "traffic": "500+",
       "rank": 10
     }
   ]
