@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-06T03:30:25Z",
+  "updated": "2026-07-06T04:00:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estados unidos vs belgica",
-      "traffic": "200+",
+      "name": "kick",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "santiago gimenez",
-      "traffic": "200+",
+      "name": "henderson",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "jordan henderson",
+      "name": "estados unidos vs belgica",
       "traffic": "200+",
       "rank": 3
     },
@@ -30,7 +30,7 @@
     },
     {
       "name": "dan burn",
-      "traffic": "5000+",
+      "traffic": "1000+",
       "rank": 6
     },
     {
@@ -39,17 +39,17 @@
       "rank": 7
     },
     {
-      "name": "infantino",
-      "traffic": "5000+",
+      "name": "brian gutiérrez",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "edson álvarez",
-      "traffic": "200+",
+      "name": "infantino",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "boxeador mexicano",
+      "name": "edson álvarez",
       "traffic": "200+",
       "rank": 10
     }
