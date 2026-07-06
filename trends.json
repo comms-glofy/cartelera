@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T22:44:21Z",
+  "updated": "2026-07-06T23:00:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "edad de cristiano ronaldo",
-      "traffic": "5000+",
-      "rank": 5
-    },
-    {
       "name": "cuartos de final mundial 2026",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "san fermin",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "gavi",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "bernardo silva",
-      "traffic": "2000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "alexander zverev",
       "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "martín menem",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "unai simon",
+      "traffic": "200+",
       "rank": 10
     }
   ]
