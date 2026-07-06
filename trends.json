@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T00:00:26Z",
+  "updated": "2026-07-06T00:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cristiano ronaldo",
-      "traffic": "2000+",
+      "name": "mexico vs england world cup 2026",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "telekino 2435",
-      "traffic": "200+",
+      "name": "cristiano ronaldo",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "briatore",
-      "traffic": "1000+",
+      "name": "telekino 2435",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "briatore",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "oglobo brasil",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "folha de sao paulo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "noruega mundial 2022",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "raphinha",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tobey maguire",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "woody harrelson",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "endrick",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "zombieland",
-      "traffic": "500+",
       "rank": 10
     }
   ]
