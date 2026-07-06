@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T01:30:27Z",
+  "updated": "2026-07-06T02:00:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pickford",
-      "traffic": "500+",
+      "name": "quiñones",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "roberto alvarado",
-      "traffic": "200+",
+      "name": "bellingham",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "erik lira",
-      "traffic": "200+",
+      "name": "pickford",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "alireza faghani",
-      "traffic": "500+",
+      "name": "gordon",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "bukayo saka",
+      "name": "roberto alvarado",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "julián andrés quiñones",
+      "name": "erik lira",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "arbitro mexico inglaterra",
-      "traffic": "200+",
+      "name": "alireza faghani",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "harry kane",
-      "traffic": "5000+",
+      "name": "arbitro mexico inglaterra",
+      "traffic": "500+",
       "rank": 8
     },
     {
       "name": "gilberto mora",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "kane",
-      "traffic": "1000+",
+      "name": "harry kane",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
