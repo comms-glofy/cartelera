@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T21:00:31Z",
+  "updated": "2026-07-06T21:09:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexander zverev",
-      "traffic": "500+",
+      "name": "bernardo silva",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "martín menem",
-      "traffic": "100+",
+      "name": "spain vs portugal",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "alexander zverev",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "unai simon",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "martín menem",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "españa fc",
       "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "lamine yamal",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "pedri",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "fecha de pago de jubilaciones y pensiones",
+      "name": "lamine yamal",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "pedro neto",
-      "traffic": "200+",
+      "name": "pedri",
+      "traffic": "500+",
       "rank": 8
     },
     {
       "name": "dani olmo",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "personal flow",
-      "traffic": "200+",
+      "name": "fecha de pago de jubilaciones y pensiones",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
