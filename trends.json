@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-06T19:00:31Z",
+  "updated": "2026-07-06T19:14:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "portugal - españa",
-      "traffic": "20000+",
+      "name": "portugal vs spain",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "georgina rodríguez",
+      "name": "celeste amarilla",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "taylor fritz",
-      "traffic": "100+",
+      "name": "javier bardem",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "a que hora juega argentina mañana",
-      "traffic": "500+",
+      "name": "portugal - españa",
+      "traffic": "20000+",
       "rank": 4
+    },
+    {
+      "name": "georgina rodríguez",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "taylor fritz",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "9 de julio",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "jesica cirio",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "grigor dimitrov",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "aeropuerto",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ecogas",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "banco provincia",
-      "traffic": "10000+",
+      "name": "si argentina le gana a egipto cuando vuelve a jugar",
+      "traffic": "500+",
       "rank": 10
     }
   ]
