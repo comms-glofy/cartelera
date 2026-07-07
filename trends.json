@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T11:23:36Z",
+  "updated": "2026-07-07T11:30:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "news",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
       "name": "stock market today",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "tesla",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "new york weather",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "iphone 17",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "julieta ortega",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
