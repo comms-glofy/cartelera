@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-07T14:30:38Z",
+  "updated": "2026-07-07T15:00:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a q hora juega argentina el martes",
-      "traffic": "5000+",
+      "name": "argentina vs egipto",
+      "traffic": "10000+",
       "rank": 1
     },
     {
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
+      "name": "abc",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "frío",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tormenta",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico posadas",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "weather",
+      "name": "pronostico posadas",
       "traffic": "100+",
       "rank": 10
     }
