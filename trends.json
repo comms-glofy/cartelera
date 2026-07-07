@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T09:30:31Z",
+  "updated": "2026-07-07T10:00:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tormenta",
+      "name": "frío",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "weather",
-      "traffic": "100+",
+      "name": "tormenta",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "news",
+      "name": "pronostico posadas",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "stock market today",
-      "traffic": "200+",
+      "name": "weather",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tesla",
-      "traffic": "200+",
+      "name": "news",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "new york weather",
+      "name": "stock market today",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "iphone 17",
-      "traffic": "500+",
+      "name": "tesla",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "julieta ortega",
-      "traffic": "2000+",
+      "name": "new york weather",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "doku",
-      "traffic": "1000+",
+      "name": "iphone 17",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "hasta donde llego argentina en el mundial 2026",
-      "traffic": "2000+",
+      "name": "españa vs belgica",
+      "traffic": "100+",
       "rank": 10
     }
   ]
