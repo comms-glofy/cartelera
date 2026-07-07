@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T22:00:35Z",
+  "updated": "2026-07-07T22:30:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "embolo",
+      "name": "cuándo juega francia",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "akanji",
-      "traffic": "500+",
+      "name": "juanfer quintero",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "colombia suecia",
-      "traffic": "500+",
+      "name": "ingreso",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ricardo rodriguez",
+      "name": "luis javier suárez",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "kobel",
-      "traffic": "200+",
+      "name": "embolo",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "ziko",
+      "name": "akanji",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "vancouver",
-      "traffic": "500+",
+      "name": "colombia fc",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "gregor kobel",
-      "traffic": "500+",
+      "name": "colombia suecia",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "james rodríguez",
-      "traffic": "2000+",
+      "name": "ricardo rodriguez",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "granit xhaka",
-      "traffic": "500+",
+      "name": "kobel",
+      "traffic": "200+",
       "rank": 10
     }
   ]
