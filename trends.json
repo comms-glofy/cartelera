@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-07T22:30:30Z",
+  "updated": "2026-07-07T22:57:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuándo juega francia",
-      "traffic": "500+",
-      "rank": 1
-    },
-    {
       "name": "juanfer quintero",
-      "traffic": "200+",
-      "rank": 2
+      "traffic": "1000+",
+      "rank": 1
     },
     {
       "name": "ingreso",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "luis javier suárez",
       "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "akanji",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "akanji",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
       "name": "colombia fc",
-      "traffic": "5000+",
-      "rank": 7
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "colombia suecia",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "ricardo rodriguez",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "gregor kobel",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "kobel",
-      "traffic": "200+",
+      "name": "vancouver",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
