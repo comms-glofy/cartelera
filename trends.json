@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T00:04:40Z",
+  "updated": "2026-07-07T00:30:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estados unidos - bélgica",
-      "traffic": "50000+",
+      "name": "onana",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "usa vs belgium",
-      "traffic": "500+",
+      "name": "leandro trossard",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inteligencia artificial",
-      "traffic": "500+",
+      "name": "lukebakio",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ley",
+      "name": "balogun",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "colombia vs suiza",
-      "traffic": "1000+",
+      "name": "christian pulisic",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "riesgo país",
-      "traffic": "500+",
+      "name": "kevin de bruyne",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "mundial 2030",
-      "traffic": "500+",
+      "name": "rudi garcia",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "edad de cristiano ronaldo",
+      "name": "nicolas raskin",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "san fermin",
+      "name": "colo-colo - recoleta",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "gavi",
-      "traffic": "100+",
+      "name": "estados unidos - bélgica",
+      "traffic": "100000+",
       "rank": 10
     }
   ]
