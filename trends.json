@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T07:30:33Z",
+  "updated": "2026-07-07T08:00:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "weather",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "news",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "stock market today",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "tesla",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "new york weather",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "iphone 17",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "julieta ortega",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "doku",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "hasta donde llego argentina en el mundial 2026",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "pulisic",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "malik tillman",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "weston mckennie",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "camiseta belgica",
-      "traffic": "200+",
       "rank": 10
     }
   ]
