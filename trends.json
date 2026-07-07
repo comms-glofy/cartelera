@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T13:00:32Z",
+  "updated": "2026-07-07T13:30:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "coco gauff",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "river id",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "daniela celis",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "jannik sinner",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "clima formosa",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "frío",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "tormenta",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "pronostico posadas",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "weather",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "news",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "stock market today",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tesla",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "new york weather",
-      "traffic": "500+",
       "rank": 10
     }
   ]
