@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T18:30:32Z",
+  "updated": "2026-07-07T19:00:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuando vuelve a jugar argentina",
-      "traffic": "20000+",
+      "name": "marca",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "cuando juega francia",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "lionel messi",
+      "traffic": "20000+",
+      "rank": 3
+    },
+    {
+      "name": "llaves mundial 2026",
+      "traffic": "10000+",
+      "rank": 4
+    },
+    {
+      "name": "leandro paredes",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "tabla mundial",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
-      "name": "as",
-      "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "paredes argentina",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "cuando se juegan los cuartos de final del mundial 2026",
-      "traffic": "5000+",
-      "rank": 5
+      "name": "proximo partido de argentina",
+      "traffic": "100000+",
+      "rank": 7
     },
     {
       "name": "ayala",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "quien gano",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "rubén cuestas",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "delay",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "argentina e egito",
-      "traffic": "200+",
+      "name": "hassan",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
