@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T21:00:38Z",
+  "updated": "2026-07-07T21:30:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "camilo vargas",
+      "name": "colombia suecia",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ziko",
-      "traffic": "500+",
+      "name": "ricardo rodriguez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "vancouver",
+      "name": "kobel",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gregor kobel",
-      "traffic": "200+",
+      "name": "camilo vargas",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "granit xhaka",
-      "traffic": "200+",
+      "name": "ziko",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "marine le pen",
-      "traffic": "200+",
+      "name": "vancouver",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "bangladesh",
-      "traffic": "100+",
+      "name": "james rodríguez",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "switzerland vs colombia",
+      "name": "granit xhaka",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "musso",
+      "name": "marine le pen",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "poder adquisitivo",
-      "traffic": "200+",
+      "name": "bangladesh",
+      "traffic": "100+",
       "rank": 10
     }
   ]
