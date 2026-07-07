@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T15:00:35Z",
+  "updated": "2026-07-07T15:30:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ministerio de salud",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "masa de aire",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "argentina vs egipto",
       "traffic": "10000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "coco gauff",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "river id",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "daniela celis",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "jannik sinner",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "clima formosa",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "abc",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "frío",
-      "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tormenta",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico posadas",
-      "traffic": "100+",
       "rank": 10
     }
   ]
