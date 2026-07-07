@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T05:30:30Z",
+  "updated": "2026-07-07T06:00:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "soccer",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "doku",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "cae",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "hasta donde llego argentina en el mundial 2026",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "pulisic",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "malik tillman",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "weston mckennie",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "camiseta belgica",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "belgica",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
