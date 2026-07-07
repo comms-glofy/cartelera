@@ -1,46 +1,46 @@
 {
-  "updated": "2026-07-07T09:00:34Z",
+  "updated": "2026-07-07T09:30:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "weather",
-      "traffic": "100+",
+      "name": "tormenta",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "news",
+      "name": "weather",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "stock market today",
-      "traffic": "200+",
+      "name": "news",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tesla",
+      "name": "stock market today",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "new york weather",
+      "name": "tesla",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "new york weather",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "iphone 17",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "julieta ortega",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "soccer",
-      "traffic": "200+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "cae",
-      "traffic": "200+",
+      "name": "hasta donde llego argentina en el mundial 2026",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
