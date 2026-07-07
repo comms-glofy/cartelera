@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T02:00:34Z",
+  "updated": "2026-07-07T02:30:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lukaku",
-      "traffic": "2000+",
+      "name": "doku",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "pochettino",
-      "traffic": "10000+",
+      "name": "romelu lukaku",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "cae",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "mauricio pochettino",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "pulisic",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "malik tillman",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "hans vanaken",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "trump",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "tielemans",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "onana",
-      "traffic": "1000+",
+      "name": "hans vanaken",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "lukebakio",
+      "name": "trump",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "amadou onana",
+      "name": "tielemans",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "leandro trossard",
-      "traffic": "500+",
+      "name": "weston mckennie",
+      "traffic": "200+",
       "rank": 10
     }
   ]
