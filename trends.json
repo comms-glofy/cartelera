@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T19:00:37Z",
+  "updated": "2026-07-07T19:30:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marca",
+      "name": "mi argentina",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "cuando juega francia",
-      "traffic": "500+",
+      "name": "switzerland vs colombia",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lionel messi",
-      "traffic": "20000+",
+      "name": "musso",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "llaves mundial 2026",
-      "traffic": "10000+",
+      "name": "lequipe",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "leandro paredes",
-      "traffic": "10000+",
+      "name": "poder adquisitivo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tabla mundial",
-      "traffic": "200+",
+      "name": "o globo",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "proximo partido de argentina",
-      "traffic": "100000+",
+      "name": "marca españa",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "ayala",
-      "traffic": "500+",
+      "name": "camiseta argentina 2026",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "quien gano",
-      "traffic": "200+",
+      "name": "twitch",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "hassan",
-      "traffic": "1000+",
+      "name": "oglobo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
