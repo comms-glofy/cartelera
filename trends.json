@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-07T01:00:30Z",
+  "updated": "2026-07-07T01:30:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "belgica",
-      "traffic": "10000+",
+      "name": "mauricio pochettino",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "onana",
-      "traffic": "1000+",
+      "name": "pochettino",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "amadou onana",
-      "traffic": "500+",
+      "name": "pulisic",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "lukebakio",
-      "traffic": "500+",
+      "name": "malik tillman",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "leandro trossard",
-      "traffic": "500+",
+      "name": "trump",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "christian pulisic",
+      "name": "tielemans",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "kevin de bruyne",
-      "traffic": "2000+",
+      "name": "hans vanaken",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "rudi garcia",
-      "traffic": "500+",
+      "name": "belgica",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "colo-colo - recoleta",
-      "traffic": "200+",
+      "name": "onana",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "estados unidos - bélgica",
-      "traffic": "100000+",
+      "name": "lukebakio",
+      "traffic": "500+",
       "rank": 10
     }
   ]
