@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-07T14:00:35Z",
+  "updated": "2026-07-07T14:30:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "a q hora juega argentina el martes",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
       "name": "coco gauff",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "river id",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "daniela celis",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "jannik sinner",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima formosa",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "frío",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tormenta",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pronostico posadas",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "weather",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "news",
+      "name": "weather",
       "traffic": "100+",
       "rank": 10
     }
