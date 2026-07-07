@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T06:30:31Z",
+  "updated": "2026-07-07T07:00:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "cae",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
       "name": "hasta donde llego argentina en el mundial 2026",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "trump",
-      "traffic": "2000+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "pulisic",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "malik tillman",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "weston mckennie",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "camiseta belgica",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "belgica",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
