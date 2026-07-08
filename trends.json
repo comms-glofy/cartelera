@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T09:30:36Z",
+  "updated": "2026-07-08T10:00:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,42 +14,42 @@
       "rank": 2
     },
     {
-      "name": "claudio uberti",
+      "name": "hija",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ypf",
-      "traffic": "100+",
+      "name": "claudio uberti",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "ypf",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "copa mundial de fútbol",
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "boca hoy",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "anses",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "río atmosférico",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "connor murphy",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "gesto del dt de egipto",
-      "traffic": "50000+",
       "rank": 9
     },
     {
-      "name": "dólar estadounidense",
+      "name": "connor murphy",
       "traffic": "500+",
       "rank": 10
     }
