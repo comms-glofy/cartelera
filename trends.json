@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-08T10:30:38Z",
+  "updated": "2026-07-08T11:00:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "apple",
+      "name": "stock market today",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "openai",
-      "traffic": "100+",
+      "name": "world cup",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tesla",
+      "name": "openai",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima la plata",
+      "name": "tesla",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "bitcoin",
+      "name": "apple",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "rodrigo de paul",
-      "traffic": "500+",
+      "name": "clima la plata",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "zlatan ibrahimović",
-      "traffic": "10000+",
+      "name": "bitcoin",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "hija",
+      "name": "condena",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "claudio uberti",
-      "traffic": "200+",
+      "name": "rodrigo de paul",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ypf",
-      "traffic": "200+",
+      "name": "zlatan ibrahimović",
+      "traffic": "500+",
       "rank": 10
     }
   ]
