@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-08T09:05:31Z",
+  "updated": "2026-07-08T09:30:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "rodrigo de paul",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "zlatan ibrahimović",
+      "traffic": "10000+",
+      "rank": 2
+    },
+    {
       "name": "claudio uberti",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "name": "ypf",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "boca hoy",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "anses",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "río atmosférico",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "connor murphy",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "gesto del dt de egipto",
-      "traffic": "20000+",
-      "rank": 6
+      "traffic": "50000+",
+      "rank": 9
     },
     {
       "name": "dólar estadounidense",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "movistar arena",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "lucas lavagnino",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "boca vs",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
