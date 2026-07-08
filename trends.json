@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-08T06:30:28Z",
+  "updated": "2026-07-08T07:00:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "boca hoy",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "anses",
       "traffic": "10000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "río atmosférico",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "connor murphy",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "gesto del dt de egipto",
+      "traffic": "20000+",
+      "rank": 5
     },
     {
       "name": "dólar estadounidense",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "movistar arena",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "lucas lavagnino",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "francia vs marruecos",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "yerry mina",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "ruben vargas suiza",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "españa vs belgica",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
