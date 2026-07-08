@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-08T22:30:37Z",
+  "updated": "2026-07-08T23:00:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela de hoy",
-      "traffic": "100+",
+      "name": "monica ayos",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "monica ayos",
-      "traffic": "200+",
+      "name": "quiniela de hoy",
+      "traffic": "100+",
       "rank": 2
     },
     {
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "jorge giordano",
-      "traffic": "200+",
+      "name": "lucas gamez",
+      "traffic": "1000+",
       "rank": 7
+    },
+    {
+      "name": "jorge giordano",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "guido herrera",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "banco macro",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "nba",
+      "name": "banco macro",
       "traffic": "100+",
       "rank": 10
     }
