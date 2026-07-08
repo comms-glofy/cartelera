@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-08T16:30:40Z",
+  "updated": "2026-07-08T16:58:48Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexander zverev",
-      "traffic": "1000+",
+      "name": "jetsmart",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "playstation plus",
-      "traffic": "200+",
+      "name": "casa rosada",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "buque de guerra",
+      "name": "playstation plus",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "ranking fifa",
+      "name": "arthur fery",
       "traffic": "2000+",
       "rank": 4
     },
     {
+      "name": "buque de guerra",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "ranking fifa",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
       "name": "viernes 10 de julio es feriado",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "concurso preventivo",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "la nueva",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "stock market today",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "iphone 17",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "openai",
+      "name": "stock market today",
       "traffic": "100+",
       "rank": 10
     }
