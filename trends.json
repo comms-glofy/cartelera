@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-08T19:00:36Z",
+  "updated": "2026-07-08T19:30:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santiago del moro",
+      "name": "diego brancatelli",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "minuto uno",
+      "name": "bcra",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "k2 airways",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "julián álvarez",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "santiago del moro",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "minuto uno",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "musimundo",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "flybondi",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "drew starkey",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "repercusiones argentina egipto",
       "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "metalfor",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "noruega vs inglaterra",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "quién juega hoy en el mundial 2026",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "jetsmart",
-      "traffic": "500+",
       "rank": 10
     }
   ]
