@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-08T10:00:36Z",
+  "updated": "2026-07-08T10:30:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rodrigo de paul",
-      "traffic": "500+",
+      "name": "apple",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "zlatan ibrahimović",
-      "traffic": "10000+",
+      "name": "openai",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "hija",
+      "name": "tesla",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "clima la plata",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "bitcoin",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "rodrigo de paul",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "zlatan ibrahimović",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "hija",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "claudio uberti",
       "traffic": "200+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "ypf",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "copa mundial de fútbol",
-      "traffic": "20000+",
-      "rank": 6
-    },
-    {
-      "name": "boca hoy",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "anses",
-      "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "río atmosférico",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "connor murphy",
-      "traffic": "500+",
       "rank": 10
     }
   ]
