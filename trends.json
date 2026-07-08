@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T07:00:36Z",
+  "updated": "2026-07-08T07:30:34Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "gesto del dt de egipto",
-      "traffic": "20000+",
-      "rank": 5
-    },
-    {
       "name": "dólar estadounidense",
       "traffic": "500+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "movistar arena",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "lucas lavagnino",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "francia vs marruecos",
       "traffic": "5000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "yerry mina",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "murat yakin",
+      "traffic": "200+",
       "rank": 10
     }
   ]
