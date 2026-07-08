@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-08T20:30:41Z",
+  "updated": "2026-07-08T21:00:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jorge giordano",
-      "traffic": "100+",
+      "name": "lucas gamez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "guido herrera",
+      "name": "jorge giordano",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "banco macro",
+      "name": "guido herrera",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "banco macro",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "precio dolar hoy",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "nba",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "diego brancatelli",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "juegos",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "k2 airways",
-      "traffic": "500+",
+      "name": "juegos",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "julián álvarez",
-      "traffic": "500+",
+      "name": "metalfor despidos",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "la nacion",
+      "name": "k2 airways",
       "traffic": "500+",
       "rank": 10
     }
