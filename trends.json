@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-08T08:00:33Z",
+  "updated": "2026-07-08T08:30:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "boca juniors",
+      "traffic": "10000+",
+      "rank": 1
+    },
+    {
       "name": "boca hoy",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "anses",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "río atmosférico",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "connor murphy",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "gesto del dt de egipto",
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "dólar estadounidense",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "movistar arena",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "lucas lavagnino",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "francia vs marruecos",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "yerry mina",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "murat yakin",
-      "traffic": "200+",
+      "name": "francia vs marruecos",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
