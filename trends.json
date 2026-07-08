@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-08T15:30:37Z",
+  "updated": "2026-07-08T16:00:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "alexander zverev",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "arthur fery",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "buque de guerra",
       "traffic": "500+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "ranking fifa",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "viernes 10 de julio es feriado",
       "traffic": "500+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "concurso preventivo",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "la nueva",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "stock market today",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "iphone 17",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "openai",
+      "traffic": "100+",
       "rank": 10
     }
   ]
