@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T11:00:36Z",
+  "updated": "2026-07-08T11:21:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,18 +9,18 @@
       "rank": 1
     },
     {
-      "name": "world cup",
-      "traffic": "200+",
-      "rank": 2
-    },
-    {
       "name": "openai",
       "traffic": "100+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "tesla",
       "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "world cup",
+      "traffic": "5000+",
       "rank": 4
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "bitcoin",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 7
     },
     {
