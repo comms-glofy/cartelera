@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-08T20:02:07Z",
+  "updated": "2026-07-08T20:30:41Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diego brancatelli",
-      "traffic": "200+",
+      "name": "jorge giordano",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "juegos",
+      "name": "guido herrera",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "k2 airways",
-      "traffic": "200+",
+      "name": "banco macro",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "julián álvarez",
-      "traffic": "200+",
+      "name": "precio dolar hoy",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "new york weather",
+      "name": "nba",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "santiago del moro",
-      "traffic": "1000+",
+      "name": "diego brancatelli",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "musimundo",
-      "traffic": "1000+",
+      "name": "juegos",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "flybondi",
-      "traffic": "1000+",
+      "name": "k2 airways",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "drew starkey",
-      "traffic": "200+",
+      "name": "julián álvarez",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "repercusiones argentina egipto",
-      "traffic": "10000+",
+      "name": "la nacion",
+      "traffic": "500+",
       "rank": 10
     }
   ]
