@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T21:00:23Z",
+  "updated": "2026-07-09T21:20:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "griezmann",
-      "traffic": "2000+",
+      "name": "kounde",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "kylian mbappé",
-      "traffic": "5000+",
+      "name": "futbol libre francia marruecos",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "ester exposito",
-      "traffic": "1000+",
+      "name": "maría belén ludueña",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "digne",
-      "traffic": "1000+",
+      "name": "griezmann",
+      "traffic": "2000+",
       "rank": 4
     },
     {
       "name": "donald trump",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "upamecano",
-      "traffic": "200+",
+      "name": "ester exposito",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "dembele",
+      "name": "digne",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "pelota",
-      "traffic": "500+",
+      "name": "arquero de marruecos",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "bono arquero",
-      "traffic": "2000+",
+      "name": "dembele",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "arbitros francia marruecos",
-      "traffic": "1000+",
+      "name": "bounou",
+      "traffic": "500+",
       "rank": 10
     }
   ]
