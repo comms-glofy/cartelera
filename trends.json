@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T02:00:37Z",
+  "updated": "2026-07-09T02:30:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "armani",
+      "name": "marley",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "intendente",
-      "traffic": "200+",
+      "name": "armani",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "intendente",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "tarjeta roja futbol",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "fluminense - nova iguaçu",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "instagram",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "8 de julio",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "cotización dólar blue",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "play store",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "lucas gamez",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "marruecos vs francia",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
