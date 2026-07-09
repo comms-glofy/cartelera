@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T12:00:23Z",
+  "updated": "2026-07-09T12:34:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "milei casa rosada seleccion",
+      "name": "ministerio de salud",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "que se festeja el 9 de julio",
-      "traffic": "200+",
+      "name": "milei casa rosada seleccion",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "arresto domiciliario",
-      "traffic": "100+",
+      "name": "9 de julio argentina",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "jorge messi",
-      "traffic": "1000+",
+      "name": "arresto domiciliario",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "cruz hewitt",
-      "traffic": "100+",
+      "name": "jorge messi",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "cruz hewitt",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "bonnie tyler",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "juan bautista mahiques",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "sorteo quini 6",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "weather",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "día de la independencia de argentina",
-      "traffic": "50000+",
       "rank": 10
     }
   ]
