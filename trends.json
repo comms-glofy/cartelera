@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T21:30:20Z",
+  "updated": "2026-07-09T22:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kounde",
-      "traffic": "200+",
+      "name": "emiliano martínez",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "futbol libre francia marruecos",
+      "name": "españa belgica",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "maría belén ludueña",
-      "traffic": "500+",
+      "name": "mateta",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "griezmann",
-      "traffic": "2000+",
+      "name": "antonela roccuzzo",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "donald trump",
-      "traffic": "1000+",
+      "name": "fernando beron",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "ester exposito",
+      "name": "issa diop",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "digne",
+      "name": "kone",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "dembele",
-      "traffic": "1000+",
+      "name": "deschamps",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "bounou",
-      "traffic": "500+",
+      "name": "kounde",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "google",
-      "traffic": "100+",
+      "name": "maría belén ludueña",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
