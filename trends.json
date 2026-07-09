@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T17:30:22Z",
+  "updated": "2026-07-09T17:52:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "haaland",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
       "name": "automóvil",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "marta kostiuk",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "sakura",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "twitch",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "linda nosková",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "monica ayos",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ramiro agulla",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "a qué hora juega francia",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "máximo kirchner",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "erling haaland",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
