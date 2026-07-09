@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T13:02:26Z",
+  "updated": "2026-07-09T13:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ministerio de salud",
+      "name": "coco gauff",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "milei casa rosada seleccion",
-      "traffic": "500+",
+      "name": "25 de mayo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "arresto domiciliario",
+      "name": "ministerio de salud",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jorge messi",
-      "traffic": "2000+",
+      "name": "milei casa rosada seleccion",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "cruz hewitt",
+      "name": "arresto domiciliario",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "jorge messi",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "cruz hewitt",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "bonnie tyler",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "juan bautista mahiques",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "sorteo quini 6",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "weather",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "día de la independencia de argentina",
-      "traffic": "50000+",
       "rank": 10
     }
   ]
