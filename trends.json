@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T10:30:40Z",
+  "updated": "2026-07-09T11:00:41Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bonnie tyler",
-      "traffic": "500+",
+      "name": "jorge messi",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sorteo quini 6",
-      "traffic": "100+",
+      "name": "bonnie tyler",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "weather",
+      "name": "juan bautista mahiques",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "sorteo quini 6",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "weather",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "día de la independencia de argentina",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "marley",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "armani",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "intendente",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "tarjeta roja futbol",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "fluminense - nova iguaçu",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "lucas venezuela niño",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
