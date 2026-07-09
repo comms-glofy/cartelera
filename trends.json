@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T01:08:34Z",
+  "updated": "2026-07-09T01:30:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "quiniela de hoy",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
       "name": "instagram",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "8 de julio",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "play store",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "lucas gamez",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "marruecos vs francia",
       "traffic": "1000+",
       "rank": 10
     }
