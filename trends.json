@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T15:00:24Z",
+  "updated": "2026-07-09T15:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "máximo kirchner",
-      "traffic": "200+",
+      "name": "monica ayos",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "erling haaland",
-      "traffic": "2000+",
+      "name": "linda nosková",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "diseñadora vera wang",
-      "traffic": "200+",
+      "name": "ramiro agulla",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "arsenal football club",
+      "name": "máximo kirchner",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "easy",
-      "traffic": "1000+",
+      "name": "erling haaland",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "coco gauff",
-      "traffic": "500+",
+      "name": "arsenal football club",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "25 de mayo",
+      "name": "diseñadora vera wang",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ministerio de salud",
-      "traffic": "500+",
+      "name": "easy",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "milei casa rosada seleccion",
-      "traffic": "1000+",
+      "name": "tedeum",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "arresto domiciliario",
-      "traffic": "500+",
+      "name": "coco gauff",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
