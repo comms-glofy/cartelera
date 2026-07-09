@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T15:42:27Z",
+  "updated": "2026-07-09T16:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "monica ayos",
-      "traffic": "500+",
+      "name": "twitch",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "linda nosková",
-      "traffic": "100+",
+      "name": "monica ayos",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "linda nosková",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "ramiro agulla",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "máximo kirchner",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "erling haaland",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "arsenal football club",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "diseñadora vera wang",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "easy",
-      "traffic": "1000+",
-      "rank": 8
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "tedeum",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "coco gauff",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
