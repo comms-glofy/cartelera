@@ -1,45 +1,45 @@
 {
-  "updated": "2026-07-09T06:30:35Z",
+  "updated": "2026-07-09T07:30:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "weather",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "día de la independencia de argentina",
       "traffic": "20000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "marley",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "armani",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "intendente",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tarjeta roja futbol",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "9 de julio",
-      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "fluminense - nova iguaçu",
-      "traffic": "2000+",
+      "name": "9 de julio",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "lucas venezuela niño",
+      "name": "fluminense - nova iguaçu",
       "traffic": "2000+",
       "rank": 8
     },
