@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T16:00:22Z",
+  "updated": "2026-07-09T16:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "twitch",
+      "name": "marta kostiuk",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "monica ayos",
-      "traffic": "500+",
+      "name": "sakura",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "linda nosková",
+      "name": "twitch",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ramiro agulla",
-      "traffic": "2000+",
+      "name": "monica ayos",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "máximo kirchner",
+      "name": "linda nosková",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "erling haaland",
-      "traffic": "5000+",
+      "name": "ramiro agulla",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "a qué hora juega francia",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "máximo kirchner",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "erling haaland",
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "arsenal football club",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "diseñadora vera wang",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "easy",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "tedeum",
-      "traffic": "200+",
       "rank": 10
     }
   ]
