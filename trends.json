@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T20:30:19Z",
+  "updated": "2026-07-09T21:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "futbol para todos",
-      "traffic": "5000+",
+      "name": "griezmann",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "mbappe",
-      "traffic": "2000+",
+      "name": "kylian mbappé",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "tarjeta roja",
+      "name": "ester exposito",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "olise",
-      "traffic": "500+",
+      "name": "digne",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "television publica",
-      "traffic": "200+",
+      "name": "donald trump",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "hakimi",
-      "traffic": "2000+",
+      "name": "upamecano",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "kante",
-      "traffic": "500+",
+      "name": "dembele",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "yassine bounou",
+      "name": "pelota",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "anass salah-eddine",
-      "traffic": "200+",
+      "name": "bono arquero",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "désiré doué",
-      "traffic": "200+",
+      "name": "arbitros francia marruecos",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
