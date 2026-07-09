@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-09T02:30:35Z",
+  "updated": "2026-07-09T03:00:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "marley",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "monica ayos",
-      "traffic": "200+",
+      "name": "9 de julio",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "instagram",
+      "name": "monica ayos",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "8 de julio",
+      "name": "instagram",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cotización dólar blue",
+      "name": "8 de julio",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "play store",
-      "traffic": "100+",
+      "name": "cotización dólar blue",
+      "traffic": "200+",
       "rank": 10
     }
   ]
