@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:20:07Z",
+  "updated": "2026-07-09T21:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "arquero de marruecos",
+      "name": "dembele",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "dembele",
-      "traffic": "1000+",
+      "name": "bounou",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "bounou",
-      "traffic": "500+",
+      "name": "google",
+      "traffic": "100+",
       "rank": 10
     }
   ]
