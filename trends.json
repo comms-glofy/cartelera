@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T19:00:22Z",
+  "updated": "2026-07-09T19:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estafa",
-      "traffic": "2000+",
+      "name": "france vs morocco",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "maría becerra",
+      "name": "chemsdine talbi",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dalma maradona",
-      "traffic": "1000+",
+      "name": "victoria villarruel",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "automóvil",
-      "traffic": "1000+",
+      "name": "fecha",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "haaland",
-      "traffic": "10000+",
+      "name": "estafa",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "maría becerra",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "dalma maradona",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "empresa",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "automóvil",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "marta kostiuk",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "sakura",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "twitch",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "linda nosková",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "monica ayos",
-      "traffic": "500+",
       "rank": 10
     }
   ]
