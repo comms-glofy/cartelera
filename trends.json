@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-08T23:30:34Z",
+  "updated": "2026-07-09T00:00:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "fluminense - nova iguaçu",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "francia - marruecos",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "cuándo juega boca",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "quiniela de hoy",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "instagram",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "8 de julio",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "play store",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cotización dólar blue",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "lucas gamez",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "jorge giordano",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "guido herrera",
-      "traffic": "200+",
       "rank": 10
     }
   ]
