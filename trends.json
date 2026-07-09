@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-09T00:30:34Z",
+  "updated": "2026-07-09T01:00:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fluminense - nova iguaçu",
-      "traffic": "1000+",
+      "name": "tarjeta roja futbol",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cuándo juega boca",
-      "traffic": "500+",
+      "name": "fluminense - nova iguaçu",
+      "traffic": "2000+",
       "rank": 2
     },
     {
@@ -19,12 +19,12 @@
       "rank": 3
     },
     {
-      "name": "quiniela de hoy",
-      "traffic": "100+",
+      "name": "instagram",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "instagram",
+      "name": "8 de julio",
       "traffic": "200+",
       "rank": 5
     },
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "marruecos vs francia",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "jorge giordano",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "guido herrera",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "banco macro",
-      "traffic": "100+",
       "rank": 10
     }
   ]
