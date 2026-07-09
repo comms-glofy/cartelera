@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T08:30:37Z",
+  "updated": "2026-07-09T09:05:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "9 de julio",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
       "name": "fluminense - nova iguaçu",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "instagram",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "felipe melo",
       "traffic": "200+",
       "rank": 10
     }
