@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-09T18:30:31Z",
+  "updated": "2026-07-09T19:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dalma maradona",
-      "traffic": "1000+",
+      "name": "estafa",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "automóvil",
-      "traffic": "1000+",
+      "name": "maría becerra",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marta kostiuk",
+      "name": "dalma maradona",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "sakura",
-      "traffic": "200+",
+      "name": "automóvil",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "twitch",
-      "traffic": "200+",
+      "name": "haaland",
+      "traffic": "10000+",
       "rank": 5
     },
     {
-      "name": "linda nosková",
+      "name": "marta kostiuk",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "monica ayos",
-      "traffic": "500+",
+      "name": "sakura",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ramiro agulla",
-      "traffic": "5000+",
+      "name": "twitch",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "a qué hora juega francia",
-      "traffic": "20000+",
+      "name": "linda nosková",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "máximo kirchner",
-      "traffic": "1000+",
+      "name": "monica ayos",
+      "traffic": "500+",
       "rank": 10
     }
   ]
