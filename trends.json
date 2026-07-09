@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-09T03:00:37Z",
+  "updated": "2026-07-09T03:30:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marley",
-      "traffic": "500+",
+      "name": "día de la independencia de argentina",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "armani",
-      "traffic": "500+",
+      "name": "marley",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "armani",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "intendente",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tarjeta roja futbol",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "fluminense - nova iguaçu",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "9 de julio",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "lucas venezuela niño",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "instagram",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "8 de julio",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cotización dólar blue",
+      "name": "instagram",
       "traffic": "200+",
       "rank": 10
     }
