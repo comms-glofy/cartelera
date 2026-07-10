@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-10T17:00:25Z",
+  "updated": "2026-07-10T17:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mbappe lesion",
-      "traffic": "1000+",
+      "name": "almeria",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jubilación",
-      "traffic": "1000+",
+      "name": "mbappe lesion",
+      "traffic": "2000+",
       "rank": 2
     },
     {
       "name": "river reserva",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "novak djokovic",
-      "traffic": "5000+",
+      "traffic": "2000+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "djokovic",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "quiniela de tucuman",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "the rolling stones foreign tongues",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "parque leloir",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
