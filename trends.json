@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-10T02:30:22Z",
+  "updated": "2026-07-10T03:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "falleció fernando beron",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "sebastián galmarini",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 2
-    },
-    {
-      "name": "tiempo mañana",
-      "traffic": "20000+",
       "rank": 3
-    },
-    {
-      "name": "rania de jordania",
-      "traffic": "1000+",
-      "rank": 4
     },
     {
       "name": "afa",
       "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "tiempo mañana",
+      "traffic": "20000+",
       "rank": 5
+    },
+    {
+      "name": "rania de jordania",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "axel kicillof",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "netflix",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "gran premio de bélgica",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "facebook",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "roberto cachanosky",
+      "name": "facebook",
       "traffic": "500+",
       "rank": 10
     }
