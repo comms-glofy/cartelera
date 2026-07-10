@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T22:00:19Z",
+  "updated": "2026-07-10T22:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "claudia villafañe",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
       "name": "wanda nara",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
       "name": "pensión",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "eurocopa",
+      "name": "luis de la fuente",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "españa vs francia",
-      "traffic": "2000+",
+      "name": "eurocopa",
+      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "lluvia",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 6
+    },
+    {
+      "name": "españa vs francia",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "laporte",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "película",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "nico williams",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "senne lammens",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
