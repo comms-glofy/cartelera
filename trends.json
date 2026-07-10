@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-10T15:00:25Z",
+  "updated": "2026-07-10T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela",
-      "traffic": "2000+",
+      "name": "quiniela de tucuman",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "monica ayos",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "sinner vs djokovic",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "the rolling stones foreign tongues",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "parque leloir",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "quiniela",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "reforma tributaria",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "alexander zverev",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "banco nacion",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "clima mar del plata",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "victoria beckham",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "lotería",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "pronóstico del tiempo",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "premio",
+      "name": "clima mar del plata",
       "traffic": "200+",
       "rank": 10
     }
