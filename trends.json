@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T14:00:25Z",
+  "updated": "2026-07-10T14:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arthur fery",
-      "traffic": "500+",
+      "name": "quiniela de hoy",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "alexander zverev",
-      "traffic": "1000+",
+      "name": "parque leloir",
+      "traffic": "5000+",
       "rank": 2
+    },
+    {
+      "name": "reforma tributaria",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "alexander zverev",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "banco nacion",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "clima mar del plata",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "victoria beckham",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "lotería",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "premio",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "baloncesto",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "hoy es feriado",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
