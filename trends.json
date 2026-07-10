@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-10T11:23:40Z",
+  "updated": "2026-07-10T11:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lotería",
+      "name": "victoria beckham",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pronóstico del tiempo",
+      "name": "lotería",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "premio",
+      "name": "pronóstico del tiempo",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "baloncesto",
+      "name": "premio",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "baloncesto",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "hoy es feriado",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima neuquen",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "messi",
-      "traffic": "1000+",
       "rank": 7
     },
     {
