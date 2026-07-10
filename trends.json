@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-10T16:00:24Z",
+  "updated": "2026-07-10T16:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jannik sinner",
-      "traffic": "1000+",
+      "name": "river reserva",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "djokovic",
-      "traffic": "500+",
+      "name": "ajax - aek larnaca",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "novak djokovic",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "jannik sinner",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "djokovic",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "sinner vs djokovic",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "the rolling stones foreign tongues",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "quiniela",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "parque leloir",
-      "traffic": "5000+",
+      "name": "sinner vs djokovic",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "reforma tributaria",
+      "name": "the rolling stones foreign tongues",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "alexander zverev",
+      "name": "parque leloir",
       "traffic": "5000+",
       "rank": 10
     }
