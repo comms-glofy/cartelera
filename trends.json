@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T18:30:21Z",
+  "updated": "2026-07-10T19:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "spain vs belgium",
+      "name": "diego valenzuela",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "noruega inglaterra",
-      "traffic": "1000+",
+      "name": "spain vs belgium",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "españa - bélgica",
-      "traffic": "50000+",
+      "name": "noruega inglaterra",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "mbappe",
-      "traffic": "10000+",
+      "name": "españa - bélgica",
+      "traffic": "100000+",
       "rank": 4
+    },
+    {
+      "name": "mbappe",
+      "traffic": "20000+",
+      "rank": 5
     },
     {
       "name": "almeria",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "mbappe lesion",
-      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "jubilación",
-      "traffic": "10000+",
+      "name": "mbappe lesion",
+      "traffic": "5000+",
       "rank": 7
+    },
+    {
+      "name": "jubilación",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "river reserva",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ajax - aek larnaca",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "novak djokovic",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
