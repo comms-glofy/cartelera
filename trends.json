@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T06:30:21Z",
+  "updated": "2026-07-10T07:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "messi",
+      "name": "hasta donde llego belgica en el mundial 2026",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "iker casillas",
-      "traffic": "200+",
+      "name": "messi",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "black ops 2 ps5",
+      "name": "iker casillas",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "kobe bryant",
+      "name": "black ops 2 ps5",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sebastián galmarini",
+      "name": "kobe bryant",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "sebastián galmarini",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tiempo mañana",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "afa",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "rania de jordania",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "axel kicillof",
-      "traffic": "200+",
       "rank": 10
     }
   ]
