@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T19:00:21Z",
+  "updated": "2026-07-10T19:22:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diego valenzuela",
-      "traffic": "200+",
+      "name": "pedro porro",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "spain vs belgium",
-      "traffic": "500+",
+      "name": "javier bardem",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "charles de ketelaere",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "rodri",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "tielemans",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "ricardo arjona",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "diego valenzuela",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "spain vs belgium",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "noruega inglaterra",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "españa - bélgica",
       "traffic": "100000+",
-      "rank": 4
-    },
-    {
-      "name": "mbappe",
-      "traffic": "20000+",
-      "rank": 5
-    },
-    {
-      "name": "almeria",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "mbappe lesion",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "jubilación",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "river reserva",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "ajax - aek larnaca",
-      "traffic": "200+",
       "rank": 10
     }
   ]
