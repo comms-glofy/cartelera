@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T18:00:26Z",
+  "updated": "2026-07-10T18:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mbappe",
-      "traffic": "10000+",
+      "name": "spain vs belgium",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "almeria",
-      "traffic": "200+",
+      "name": "noruega inglaterra",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "españa - bélgica",
+      "traffic": "50000+",
+      "rank": 3
+    },
+    {
+      "name": "mbappe",
+      "traffic": "10000+",
+      "rank": 4
+    },
+    {
+      "name": "almeria",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "mbappe lesion",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "jubilación",
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "river reserva",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "ajax - aek larnaca",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "novak djokovic",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "jannik sinner",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "djokovic",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "quiniela de tucuman",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "monica ayos",
-      "traffic": "200+",
+      "name": "novak djokovic",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
