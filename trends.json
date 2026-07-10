@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T21:00:22Z",
+  "updated": "2026-07-10T21:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nico williams",
-      "traffic": "1000+",
+      "name": "wanda nara",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mikel merino",
+      "name": "pensión",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "película",
-      "traffic": "200+",
+      "name": "lluvia",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "senne lammens",
-      "traffic": "2000+",
+      "name": "eurocopa 2024",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lukaku",
-      "traffic": "2000+",
+      "name": "laporte",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lunes",
-      "traffic": "5000+",
+      "name": "nico williams",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "ferran torres",
+      "name": "película",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "10 de julio",
-      "traffic": "500+",
+      "name": "senne lammens",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "gavi",
-      "traffic": "200+",
+      "name": "lukaku",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "jérémy doku",
-      "traffic": "200+",
+      "name": "lammens arquero",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
