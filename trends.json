@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T11:00:22Z",
+  "updated": "2026-07-10T11:23:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronóstico del tiempo",
+      "name": "lotería",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "baloncesto",
+      "name": "pronóstico del tiempo",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "hoy es feriado",
-      "traffic": "500+",
+      "name": "premio",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima neuquen",
+      "name": "baloncesto",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "messi",
+      "name": "hoy es feriado",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "iker casillas",
-      "traffic": "200+",
+      "name": "clima neuquen",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "black ops 2 ps5",
-      "traffic": "200+",
+      "name": "messi",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "kobe bryant",
+      "name": "iker casillas",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sebastián galmarini",
+      "name": "black ops 2 ps5",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "kobe bryant",
+      "traffic": "200+",
       "rank": 10
     }
   ]
