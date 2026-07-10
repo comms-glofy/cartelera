@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T20:00:21Z",
+  "updated": "2026-07-10T20:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cubarsi",
+      "name": "ferran torres",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "10 de julio",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "gavi",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "jérémy doku",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "camiseta belgica",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "cubarsi",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "pau cubarsí",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "oyarzabal",
       "traffic": "500+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "penelope cruz",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "fabián ruiz peña",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "brad pitt",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "thibaut courtois",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "aterrizaje",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "lamine yamal edad",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "pelota libre deportivo",
-      "traffic": "200000+",
       "rank": 10
     }
   ]
