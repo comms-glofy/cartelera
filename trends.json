@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T04:00:20Z",
+  "updated": "2026-07-10T04:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "black ops 2 ps5",
+      "name": "iker casillas",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "black ops 2 ps5",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "kobe bryant",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "falleció fernando beron",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "sebastián galmarini",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "afa",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tiempo mañana",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "rania de jordania",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "axel kicillof",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "netflix",
-      "traffic": "100+",
       "rank": 10
     }
   ]
