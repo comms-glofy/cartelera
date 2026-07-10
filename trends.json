@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T00:01:12Z",
+  "updated": "2026-07-10T00:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "axel kicillof",
-      "traffic": "200+",
+      "name": "tiempo de mañana",
+      "traffic": "100000+",
       "rank": 1
     },
     {
-      "name": "hasta donde llegó argentina en el mundial 2026",
-      "traffic": "500+",
+      "name": "tiempo mañana",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "gran premio de bélgica",
-      "traffic": "200+",
+      "name": "afa",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "roberto cachanosky",
+      "name": "rania de jordania",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "facebook",
+      "name": "axel kicillof",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "goycochea",
-      "traffic": "200+",
+      "name": "hasta donde llegó argentina en el mundial 2026",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "infobae",
-      "traffic": "100+",
+      "name": "gran premio de bélgica",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "martin palermo",
+      "name": "infobae",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "evil dead",
+      "name": "roberto cachanosky",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "goleadores del mundial 2026",
-      "traffic": "500+",
+      "name": "facebook",
+      "traffic": "200+",
       "rank": 10
     }
   ]
