@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T12:00:22Z",
+  "updated": "2026-07-10T12:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "banco nacion",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "clima mar del plata",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "victoria beckham",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "lotería",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "premio",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "baloncesto",
+      "name": "premio",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "baloncesto",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "hoy es feriado",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima neuquen",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "iker casillas",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "black ops 2 ps5",
-      "traffic": "200+",
+      "name": "iker casillas",
+      "traffic": "500+",
       "rank": 10
     }
   ]
