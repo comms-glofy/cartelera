@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T20:30:19Z",
+  "updated": "2026-07-10T20:48:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ferran torres",
-      "traffic": "500+",
+      "name": "senne lammens",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "10 de julio",
-      "traffic": "500+",
+      "name": "lukaku",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "gavi",
-      "traffic": "200+",
+      "name": "lunes",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "jérémy doku",
-      "traffic": "200+",
+      "name": "ferran torres",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "camiseta belgica",
+      "name": "marc cucurella",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cubarsi",
+      "name": "10 de julio",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "pau cubarsí",
-      "traffic": "5000+",
+      "name": "gavi",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "oyarzabal",
-      "traffic": "500+",
+      "name": "jérémy doku",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "penelope cruz",
-      "traffic": "1000+",
+      "name": "camiseta belgica",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "fabián ruiz peña",
-      "traffic": "1000+",
+      "name": "pau cubarsí",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
