@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T13:00:22Z",
+  "updated": "2026-07-10T13:25:34Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexander zverev",
+      "name": "arthur fery",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "alexander zverev",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "banco nacion",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima mar del plata",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "victoria beckham",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lotería",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "premio",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "baloncesto",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "hoy es feriado",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "clima neuquen",
-      "traffic": "100+",
+      "name": "viernes 10 de julio es feriado",
+      "traffic": "500+",
       "rank": 10
     }
   ]
