@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T17:30:21Z",
+  "updated": "2026-07-10T17:44:46Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "novak djokovic",
+      "name": "jannik sinner",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "jannik sinner",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
       "name": "djokovic",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "the rolling stones foreign tongues",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "parque leloir",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
