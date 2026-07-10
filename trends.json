@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-10T12:30:22Z",
+  "updated": "2026-07-10T13:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "banco nacion",
-      "traffic": "1000+",
+      "name": "alexander zverev",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "banco nacion",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "clima mar del plata",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "victoria beckham",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "lotería",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "premio",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "baloncesto",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "hoy es feriado",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "clima neuquen",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "iker casillas",
-      "traffic": "500+",
       "rank": 10
     }
   ]
