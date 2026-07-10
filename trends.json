@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T15:52:51Z",
+  "updated": "2026-07-10T16:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "djokovic",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "quiniela de tucuman",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "sinner vs djokovic",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "the rolling stones foreign tongues",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "parque leloir",
-      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "quiniela de hoy",
+      "name": "quiniela",
       "traffic": "2000+",
       "rank": 7
     },
     {
+      "name": "parque leloir",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
       "name": "reforma tributaria",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "alexander zverev",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "banco nacion",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
