@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T18:00:20Z",
+  "updated": "2026-07-11T18:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "danubio - nacional",
-      "traffic": "200+",
+      "name": "los pumas",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "grand theft auto vi",
-      "traffic": "200+",
+      "name": "nueva chicago",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alcalde de kansas city",
-      "traffic": "100+",
+      "name": "levante - leganés",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cotización",
-      "traffic": "1000+",
+      "name": "rodolfo arruabarrena",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "max verstappen",
+      "name": "actc",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "quiniela de hoy",
-      "traffic": "1000+",
+      "name": "danubio - nacional",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "linda nosková",
-      "traffic": "5000+",
+      "name": "crisis",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "ola de frío",
-      "traffic": "5000+",
+      "name": "grand theft auto vi",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "rating",
-      "traffic": "500+",
+      "name": "españa francia",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "argentina vs suiza 2026",
-      "traffic": "2000+",
+      "name": "alcalde de kansas city",
+      "traffic": "200+",
       "rank": 10
     }
   ]
