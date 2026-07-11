@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T04:10:29Z",
+  "updated": "2026-07-11T04:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "matrimonio",
+      "name": "jubilaciones",
       "traffic": "1000+",
       "rank": 7
     },
     {
+      "name": "matrimonio",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "claudia villafañe",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "wanda nara",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "pensión",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
