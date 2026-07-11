@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-11T17:30:23Z",
+  "updated": "2026-07-11T18:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grand theft auto vi",
+      "name": "danubio - nacional",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "españa francia",
-      "traffic": "2000+",
+      "name": "grand theft auto vi",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "cotización",
-      "traffic": "5000+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "muchova",
-      "traffic": "2000+",
+      "name": "quiniela de hoy",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "ola de frío",
+      "name": "linda nosková",
       "traffic": "5000+",
       "rank": 7
     },
     {
+      "name": "ola de frío",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
       "name": "rating",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "argentina vs suiza 2026",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "jayden adams de que murio",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
