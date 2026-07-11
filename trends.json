@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-11T16:30:22Z",
+  "updated": "2026-07-11T17:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cotización",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
       "name": "max verstappen",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "quiniela de hoy",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "linda nosková",
-      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "ola de frío",
+      "name": "linda nosková",
       "traffic": "2000+",
       "rank": 4
     },
     {
+      "name": "ola de frío",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "rating",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "argentina vs suiza 2026",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "jayden adams de que murio",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "rattin",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "peppino di capri",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "canal 13",
+      "name": "peppino di capri",
       "traffic": "500+",
       "rank": 10
     }
