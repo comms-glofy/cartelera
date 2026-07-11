@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T21:13:42Z",
+  "updated": "2026-07-11T21:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paramount",
-      "traffic": "2000+",
+      "name": "serena williams",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "patrick berg",
-      "traffic": "200+",
+      "name": "infantino",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "andreas schjelderup",
+      "name": "san luis - u. católica",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "indiana cubero",
+      "name": "television publica",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "universitario - millonarios",
-      "traffic": "200+",
+      "name": "madueke",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "norway vs england",
-      "traffic": "2000+",
+      "name": "futbol libre noruega vs inglaterra",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "niebla",
-      "traffic": "100+",
+      "name": "elliot anderson",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "noruega - inglaterra",
-      "traffic": "100000+",
+      "name": "tuchel",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "norway vs england world cup 2026",
-      "traffic": "200+",
+      "name": "pelota libre deportivo",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "eduardo coudet",
-      "traffic": "1000+",
+      "name": "paramount",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
