@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-11T13:30:19Z",
+  "updated": "2026-07-11T14:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jayden adams",
+      "name": "javier milei",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bangladesh",
-      "traffic": "500+",
+      "name": "jayden adams",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "clima cordoba",
+      "name": "bangladesh",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "clima cordoba",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "11 de julio",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "presupuesto",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "gas",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "luisana lopilato",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "flybondi",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima de hoy",
+      "name": "flybondi",
       "traffic": "200+",
       "rank": 10
     }
