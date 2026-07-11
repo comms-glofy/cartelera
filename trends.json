@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T12:31:13Z",
+  "updated": "2026-07-11T13:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "11 de julio",
-      "traffic": "100+",
+      "name": "clima cordoba",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "presupuesto",
+      "name": "pronostico cordoba",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gas",
-      "traffic": "100+",
+      "name": "11 de julio",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "luisana lopilato",
-      "traffic": "100+",
+      "name": "presupuesto",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "flybondi",
+      "name": "gas",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "clima de hoy",
-      "traffic": "200+",
+      "name": "luisana lopilato",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "rey carlos iii",
-      "traffic": "100+",
+      "name": "flybondi",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "maría vázquez",
+      "name": "clima de hoy",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "árbol",
-      "traffic": "200+",
+      "name": "rey carlos iii",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pronóstico del tiempo",
-      "traffic": "200+",
+      "name": "maría vázquez",
+      "traffic": "500+",
       "rank": 10
     }
   ]
