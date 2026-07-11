@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T17:00:22Z",
+  "updated": "2026-07-11T17:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "grand theft auto vi",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "españa francia",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "alcalde de kansas city",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "cotización",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "max verstappen",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "quiniela de hoy",
-      "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "linda nosková",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "ola de frío",
-      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "rating",
-      "traffic": "200+",
+      "name": "muchova",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "ola de frío",
+      "traffic": "5000+",
+      "rank": 7
+    },
+    {
+      "name": "rating",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "argentina vs suiza 2026",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "jayden adams de que murio",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "rattin",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "peppino di capri",
-      "traffic": "500+",
       "rank": 10
     }
   ]
