@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T23:00:23Z",
+  "updated": "2026-07-11T23:24:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "magnus carlsen",
+      "name": "spence",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "nusa",
-      "traffic": "1000+",
+      "name": "arquero de suiza",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "oscar bobb",
-      "traffic": "500+",
+      "name": "reino unido",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "saka",
-      "traffic": "500+",
+      "name": "luis suarez",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "magnus",
+      "name": "karina mazzocco",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "peppino di capri murio",
+      "name": "eberechi eze",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ronaldo nazario",
-      "traffic": "200+",
+      "name": "magnus carlsen",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "pickford",
-      "traffic": "1000+",
+      "name": "nusa",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "ryerson",
-      "traffic": "1000+",
+      "name": "oscar bobb",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "haaland tiene hijos",
-      "traffic": "200+",
+      "name": "saka",
+      "traffic": "500+",
       "rank": 10
     }
   ]
