@@ -1,45 +1,45 @@
 {
-  "updated": "2026-07-11T02:00:22Z",
+  "updated": "2026-07-11T02:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mcgregor",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "hackearon afa argentina",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "esteban lamothe",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "meteored",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "luis gasulla",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "matrimonio",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "claudia villafañe",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "wanda nara",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "cómo salió españa",
+      "name": "wanda nara",
       "traffic": "2000+",
       "rank": 8
     },
