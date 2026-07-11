@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T00:30:19Z",
+  "updated": "2026-07-11T00:55:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "wanda nara",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -25,32 +25,32 @@
     },
     {
       "name": "pensión",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 5
-    },
-    {
-      "name": "selección de fútbol de suiza",
-      "traffic": "500+",
-      "rank": 6
     },
     {
       "name": "luis de la fuente",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "lluvia",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "españa vs francia",
-      "traffic": "2000+",
-      "rank": 9
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "laporte",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "película",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
