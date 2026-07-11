@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T04:30:18Z",
+  "updated": "2026-07-11T05:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "hackearon afa argentina",
+      "name": "evil dead",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "esteban lamothe",
-      "traffic": "500+",
+      "name": "hackearon afa argentina",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "meteored",
+      "name": "esteban lamothe",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "meteored",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "luis gasulla",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "jubilaciones",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "matrimonio",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "claudia villafañe",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "wanda nara",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
