@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T20:00:22Z",
+  "updated": "2026-07-11T20:05:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "eduardo coudet",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "nasa",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "reestructuración",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "murió rodolfo pousa",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "mushuc runa - independiente del valle",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "sevilla - juventud torremolinos",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "ferro",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "all boys",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "deportivo morón - deportivo madryn",
+      "name": "ferro",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "los pumas",
-      "traffic": "2000+",
+      "name": "all boys",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "nueva chicago",
+      "name": "deportivo morón - deportivo madryn",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "rodolfo arruabarrena",
-      "traffic": "500+",
+      "name": "los pumas",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
