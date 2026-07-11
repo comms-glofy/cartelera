@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T12:00:21Z",
+  "updated": "2026-07-11T12:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gas",
+      "name": "11 de julio",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "flybondi",
-      "traffic": "200+",
+      "name": "presupuesto",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima de hoy",
-      "traffic": "200+",
+      "name": "gas",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "rey carlos iii",
+      "name": "luisana lopilato",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "maría vázquez",
+      "name": "flybondi",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "árbol",
+      "name": "clima de hoy",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pronóstico del tiempo",
-      "traffic": "200+",
+      "name": "rey carlos iii",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "rusia",
+      "name": "maría vázquez",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "el cronista",
-      "traffic": "100+",
+      "name": "árbol",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "sebastián villa",
-      "traffic": "1000+",
+      "name": "pronóstico del tiempo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
