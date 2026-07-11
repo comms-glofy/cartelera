@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T09:30:20Z",
+  "updated": "2026-07-11T10:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "sebastián villa",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "hasta donde llego noruega en el mundial 2026",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "hasta donde llegó suiza en el mundial 2026",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "cuando pelea mcgregor",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mcgregor",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "evil dead",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "hackearon afa argentina",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "esteban lamothe",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "meteored",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "luis gasulla",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "matrimonio",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
