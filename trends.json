@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T11:30:19Z",
+  "updated": "2026-07-11T12:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima de hoy",
+      "name": "gas",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rey carlos iii",
-      "traffic": "100+",
+      "name": "flybondi",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "maría vázquez",
-      "traffic": "100+",
+      "name": "clima de hoy",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "pronóstico del tiempo",
+      "name": "rey carlos iii",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "árbol",
-      "traffic": "100+",
+      "name": "maría vázquez",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "rusia",
+      "name": "árbol",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "el cronista",
-      "traffic": "100+",
+      "name": "pronóstico del tiempo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sebastián villa",
-      "traffic": "500+",
+      "name": "rusia",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "periodista",
-      "traffic": "200+",
+      "name": "el cronista",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "hasta donde llego noruega en el mundial 2026",
-      "traffic": "200+",
+      "name": "sebastián villa",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
