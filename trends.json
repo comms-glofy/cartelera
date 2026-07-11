@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T05:00:20Z",
+  "updated": "2026-07-11T05:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuando pelea mcgregor",
+      "name": "hasta donde llego noruega en el mundial 2026",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mcgregor",
-      "traffic": "1000+",
+      "name": "cuando pelea mcgregor",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "mcgregor",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "evil dead",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "hackearon afa argentina",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "esteban lamothe",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "meteored",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "luis gasulla",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "jubilaciones",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "matrimonio",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "claudia villafañe",
-      "traffic": "500+",
+      "name": "matrimonio",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
