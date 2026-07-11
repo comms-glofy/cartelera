@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T19:30:19Z",
+  "updated": "2026-07-11T20:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mushuc runa - independiente del valle",
-      "traffic": "200+",
+      "name": "reestructuración",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "reestructuración",
-      "traffic": "200+",
+      "name": "murió rodolfo pousa",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "sevilla - juventud torremolinos",
+      "name": "mushuc runa - independiente del valle",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ferro",
-      "traffic": "200+",
+      "name": "sevilla - juventud torremolinos",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "all boys",
-      "traffic": "100+",
+      "name": "ferro",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "deportivo morón - deportivo madryn",
+      "name": "all boys",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "los pumas",
-      "traffic": "2000+",
+      "name": "deportivo morón - deportivo madryn",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "nueva chicago",
-      "traffic": "200+",
+      "name": "los pumas",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "rodolfo arruabarrena",
+      "name": "nueva chicago",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "levante - leganés",
-      "traffic": "200+",
+      "name": "rodolfo arruabarrena",
+      "traffic": "500+",
       "rank": 10
     }
   ]
