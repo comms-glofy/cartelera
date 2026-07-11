@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-11T14:00:21Z",
+  "updated": "2026-07-11T14:20:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "javier milei",
+      "name": "rattin",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "peppino di capri",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "javier milei",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "jayden adams",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "bangladesh",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "clima cordoba",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "11 de julio",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "presupuesto",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "gas",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "luisana lopilato",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "flybondi",
+      "name": "gas",
       "traffic": "200+",
       "rank": 10
     }
