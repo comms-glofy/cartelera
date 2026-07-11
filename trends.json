@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T15:30:20Z",
+  "updated": "2026-07-11T16:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ola de frío",
-      "traffic": "500+",
+      "name": "quiniela de hoy",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "rating",
-      "traffic": "200+",
+      "name": "linda nosková",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "argentina vs suiza 2026",
+      "name": "ola de frío",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "jayden adams de que murio",
+      "name": "rating",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "argentina vs suiza 2026",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "jayden adams de que murio",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "rattin",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "peppino di capri",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "javier milei",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "jayden adams",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "bangladesh",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "clima cordoba",
-      "traffic": "500+",
       "rank": 10
     }
   ]
