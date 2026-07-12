@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-12T13:30:24Z",
+  "updated": "2026-07-12T14:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pagina 12",
-      "traffic": "500+",
+      "name": "bangladesh",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "moto gp",
-      "traffic": "100+",
+      "name": "pagina 12",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "esteban lamothe",
+      "name": "moto gp",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "esteban lamothe",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "hugo moyano",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "diario clarin",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "loto plus",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "la voz del interior",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "la nacion",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "clarín",
-      "traffic": "100+",
+      "name": "la nacion",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "contexto",
+      "name": "clarín",
       "traffic": "100+",
       "rank": 10
     }
