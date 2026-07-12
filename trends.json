@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-12T22:42:43Z",
+  "updated": "2026-07-12T23:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "emelec - barcelona sc",
-      "traffic": "200+",
+      "name": "fin de semana",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "emelec - barcelona sc",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "forlan",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mar de la china meridional",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "danna paola",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "san martin de tucuman",
+      "name": "danna paola",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "nico paz",
-      "traffic": "2000+",
+      "name": "san martin de tucuman",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "racing - peñarol",
-      "traffic": "1000+",
+      "name": "nico paz",
+      "traffic": "2000+",
       "rank": 7
+    },
+    {
+      "name": "racing - peñarol",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "san martin de san juan",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "kendry páez",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ludovica squirru",
+      "name": "kendry páez",
       "traffic": "500+",
       "rank": 10
     }
