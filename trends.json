@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-12T15:30:22Z",
+  "updated": "2026-07-12T15:56:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sinner",
+      "name": "alexander zverev",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "wimbledon",
-      "traffic": "5000+",
+      "name": "jannik sinner",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "wimbledon 2026",
-      "traffic": "2000+",
+      "name": "administración nacional de la seguridad social",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "final wimbledon 2026",
+      "name": "primavera",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bangladesh",
-      "traffic": "1000+",
+      "name": "sinner",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "pagina 12",
+      "name": "wimbledon",
       "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "moto gp",
-      "traffic": "500+",
+      "name": "wimbledon 2026",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "esteban lamothe",
+      "name": "bangladesh",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "hugo moyano",
-      "traffic": "1000+",
+      "name": "pagina 12",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "diario clarin",
-      "traffic": "100+",
+      "name": "moto gp",
+      "traffic": "500+",
       "rank": 10
     }
   ]
