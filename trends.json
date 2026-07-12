@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-12T01:02:29Z",
+  "updated": "2026-07-12T01:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dibu martinez",
+      "name": "julian alvarez",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "xhaka",
-      "traffic": "1000+",
+      "name": "de paul",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "mundial 2030",
-      "traffic": "500+",
+      "name": "tagliafico",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "tvp",
-      "traffic": "500+",
+      "name": "sommer",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "argentina x suíça",
+      "name": "tele",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ricardo rodríguez",
-      "traffic": "500+",
+      "name": "ishowspeed",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "maxi lopez",
-      "traffic": "500+",
+      "name": "arbitro argentina suiza",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "dan ndoye",
-      "traffic": "500+",
+      "name": "embolo",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "granit xhaka",
+      "name": "disney",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "djibril sow",
-      "traffic": "500+",
+      "name": "mads mikkelsen",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
