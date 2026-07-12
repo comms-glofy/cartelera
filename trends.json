@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-12T02:30:22Z",
+  "updated": "2026-07-12T03:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kansas city chiefs",
-      "traffic": "200+",
+      "name": "palacios",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "raton ayala",
+      "name": "paddy pimblett",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ayala",
-      "traffic": "200+",
+      "name": "nico gonzalez",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "kansas city chiefs",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "ayala",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "raton ayala",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "enzo fernandez",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "cuando es la semifinal del mundial 2026",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "enzo fernández",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "mirtha legrand",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "cami mayan",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ivan de pineda",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "kansas city clima",
+      "name": "mirtha legrand",
       "traffic": "500+",
       "rank": 10
     }
