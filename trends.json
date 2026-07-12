@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-12T06:30:24Z",
+  "updated": "2026-07-12T07:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marca",
+      "name": "aura",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "tn en vivo",
+      "name": "marca",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "mundial 2022",
-      "traffic": "1000+",
+      "name": "ranking fifa",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "cuando es la final del mundial",
-      "traffic": "200+",
+      "name": "tn en vivo",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "mundial 2022",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "lionel messi",
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "cuando juega francia y españa",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "fixture mundial 2026",
+      "traffic": "20000+",
+      "rank": 8
     },
     {
       "name": "malvinas",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "tatuajes de messi",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "jugadores de inglaterra",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tatuaje de messi",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "cuando se juega la final del mundial 2026",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
