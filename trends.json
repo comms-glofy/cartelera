@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-12T04:30:20Z",
+  "updated": "2026-07-12T04:50:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "semis",
-      "traffic": "20000+",
+      "name": "marca",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -14,8 +14,8 @@
       "rank": 2
     },
     {
-      "name": "cuando es la final del mundial",
-      "traffic": "200+",
+      "name": "lionel messi",
+      "traffic": "50000+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "lionel messi",
-      "traffic": "10000+",
-      "rank": 5
-    },
-    {
       "name": "cuando juega francia y españa",
-      "traffic": "2000+",
-      "rank": 6
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "tatuajes de messi",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "tatuaje de messi",
-      "traffic": "200+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "semi final",
-      "traffic": "200+",
-      "rank": 9
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "malvinas",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "vamos argentina",
+      "traffic": "500+",
       "rank": 10
     }
   ]
