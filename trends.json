@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T05:00:25Z",
+  "updated": "2026-07-12T05:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "obelisco",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "a que hora es la final del mundial 2026",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "mundial 2022",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "cuando es la final del mundial",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "lionel messi",
       "traffic": "20000+",
-      "rank": 3
-    },
-    {
-      "name": "fixture mundial 2026",
-      "traffic": "20000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "cuando juega francia y españa",
       "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "malvinas",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "tatuajes de messi",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "semi final",
-      "traffic": "200+",
+      "name": "fixture mundial 2026",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "tatuaje de messi",
+      "name": "malvinas",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "almada thiago",
-      "traffic": "200+",
+      "name": "de donde es julian alvarez",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
