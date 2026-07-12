@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-12T12:00:26Z",
+  "updated": "2026-07-12T12:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "página/12",
-      "traffic": "100+",
+      "name": "hugo moyano",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "temperatura",
-      "traffic": "500+",
+      "name": "diario clarin",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "megaproyecto",
+      "name": "la voz del interior",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "x",
+      "name": "loto plus",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "hebe casado",
-      "traffic": "200+",
+      "name": "página/12",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "isabel haugseng johansen",
+      "name": "lanacion",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "lindsey graham",
-      "traffic": "200+",
+      "name": "reforma",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "aura",
-      "traffic": "1000+",
+      "name": "deudor",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "marca",
-      "traffic": "1000+",
+      "name": "megaproyecto",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "margaret thatcher",
+      "name": "frío",
       "traffic": "200+",
       "rank": 10
     }
