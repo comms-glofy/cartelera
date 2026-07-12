@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-12T21:00:26Z",
+  "updated": "2026-07-12T21:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "joaquín sabina",
-      "traffic": "100+",
+      "name": "racing - peñarol",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "godoy cruz",
-      "traffic": "500+",
+      "name": "nico paz",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "san martin de san juan",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "ludovica squirru",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "kendry páez",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "joaquín sabina",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "godoy cruz",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "meteorología",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "independiente rivadavia",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "colon hoy",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "fluminense - bahía",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "gimnasia de jujuy",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "colon",
-      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "showcase",
+      "name": "fluminense - bahía",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "precio dolar hoy",
-      "traffic": "100+",
+      "name": "gimnasia de jujuy",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
