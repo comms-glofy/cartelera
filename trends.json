@@ -1,31 +1,31 @@
 {
-  "updated": "2026-07-12T10:30:21Z",
+  "updated": "2026-07-12T10:52:56Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "frío",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "a",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "aura",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "marca",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "margaret thatcher",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "ranking fifa",
-      "traffic": "2000+",
       "rank": 5
     },
     {
