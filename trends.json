@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-12T22:30:21Z",
+  "updated": "2026-07-12T22:42:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "forlan",
+      "name": "emelec - barcelona sc",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "forlan",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "mar de la china meridional",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "danna paola",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "san martin de tucuman",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "nico paz",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "racing - peñarol",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "san martin de san juan",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "kendry páez",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "ludovica squirru",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "joaquín sabina",
+      "name": "ludovica squirru",
       "traffic": "500+",
       "rank": 10
     }
