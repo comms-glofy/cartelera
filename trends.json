@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T04:50:01Z",
+  "updated": "2026-07-12T05:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "lionel messi",
-      "traffic": "50000+",
+      "traffic": "20000+",
       "rank": 3
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "tatuajes de messi",
-      "traffic": "500+",
+      "name": "malvinas",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tatuaje de messi",
+      "name": "tatuajes de messi",
       "traffic": "500+",
       "rank": 7
     },
     {
       "name": "semi final",
-      "traffic": "2000+",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "malvinas",
-      "traffic": "200+",
+      "name": "tatuaje de messi",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "vamos argentina",
-      "traffic": "500+",
+      "name": "almada thiago",
+      "traffic": "200+",
       "rank": 10
     }
   ]
