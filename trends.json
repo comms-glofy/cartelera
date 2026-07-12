@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-12T18:01:36Z",
+  "updated": "2026-07-12T18:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ldu quito - libertad fc",
-      "traffic": "200+",
+      "name": "precio dolar hoy",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "árbitro",
-      "traffic": "5000+",
+      "name": "colon de santa fe",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "decreto",
-      "traffic": "500+",
+      "name": "ldu quito - libertad fc",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jannik sinner",
+      "name": "árbitro",
       "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "primavera",
+      "name": "decreto",
       "traffic": "1000+",
       "rank": 5
     },
     {
+      "name": "jannik sinner",
+      "traffic": "10000+",
+      "rank": 6
+    },
+    {
+      "name": "primavera",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "administración nacional de la seguridad social",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "wimbledon",
       "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "bangladesh",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "pagina 12",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "moto gp",
-      "traffic": "500+",
+      "name": "wimbledon 2026",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
