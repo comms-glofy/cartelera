@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-12T22:00:27Z",
+  "updated": "2026-07-12T22:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "forlan",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "mar de la china meridional",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "danna paola",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "san martin de tucuman",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "nico paz",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "racing - peñarol",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "nico paz",
-      "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "san martin de san juan",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "kendry páez",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "ludovica squirru",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "joaquín sabina",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "godoy cruz",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "meteorología",
-      "traffic": "1000+",
+      "name": "joaquín sabina",
+      "traffic": "500+",
       "rank": 10
     }
   ]
