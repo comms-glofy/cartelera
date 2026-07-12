@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-12T11:30:22Z",
+  "updated": "2026-07-12T11:56:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "temperatura",
-      "traffic": "200+",
+      "name": "página/12",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "temperatura",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "megaproyecto",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "x",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "a",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "aura",
-      "traffic": "1000+",
+      "name": "hebe casado",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "marca",
-      "traffic": "1000+",
+      "name": "isabel haugseng johansen",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "margaret thatcher",
+      "name": "lindsey graham",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "a que hora es la final del mundial 2026",
+      "name": "aura",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "mundial 2022",
+      "name": "marca",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "lionel messi",
-      "traffic": "20000+",
+      "name": "margaret thatcher",
+      "traffic": "200+",
       "rank": 10
     }
   ]
