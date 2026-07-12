@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-12T18:30:23Z",
+  "updated": "2026-07-12T19:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "precio dolar hoy",
-      "traffic": "100+",
+      "name": "chacarita",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "colon de santa fe",
-      "traffic": "200+",
+      "name": "colon",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "showcase",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "precio dolar hoy",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "ldu quito - libertad fc",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "árbitro",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "decreto",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "jannik sinner",
-      "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "primavera",
-      "traffic": "1000+",
-      "rank": 7
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "administración nacional de la seguridad social",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "wimbledon",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "wimbledon 2026",
-      "traffic": "5000+",
+      "name": "sinner",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
