@@ -1,31 +1,31 @@
 {
-  "updated": "2026-07-12T16:00:22Z",
+  "updated": "2026-07-12T16:30:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexander zverev",
-      "traffic": "500+",
+      "name": "árbitro",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "jannik sinner",
-      "traffic": "1000+",
+      "name": "decreto",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "200+",
+      "name": "jannik sinner",
+      "traffic": "5000+",
       "rank": 3
+    },
+    {
+      "name": "administración nacional de la seguridad social",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "primavera",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "sinner",
-      "traffic": "500+",
       "rank": 5
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "pagina 12",
-      "traffic": "5000+",
+      "name": "moto gp",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "moto gp",
-      "traffic": "500+",
+      "name": "esteban lamothe",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
