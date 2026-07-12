@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-12T15:00:29Z",
+  "updated": "2026-07-12T15:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wimbledon",
-      "traffic": "5000+",
+      "name": "sinner",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "wimbledon 2026",
-      "traffic": "500+",
+      "name": "wimbledon",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "bangladesh",
-      "traffic": "500+",
+      "name": "wimbledon 2026",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "pagina 12",
-      "traffic": "1000+",
+      "name": "final wimbledon 2026",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "bangladesh",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "pagina 12",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "moto gp",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "esteban lamothe",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "hugo moyano",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "diario clarin",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "loto plus",
-      "traffic": "500+",
+      "name": "hugo moyano",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "la voz del interior",
+      "name": "diario clarin",
       "traffic": "100+",
       "rank": 10
     }
