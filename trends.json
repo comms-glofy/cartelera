@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T13:00:27Z",
+  "updated": "2026-07-12T13:17:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "hugo moyano",
+      "name": "esteban lamothe",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "diario clarin",
-      "traffic": "100+",
+      "name": "hugo moyano",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "la voz del interior",
+      "name": "diario clarin",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "la voz del interior",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "loto plus",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "la nacion",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "contexto",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "página/12",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "reforma",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "temperatura",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
