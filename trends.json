@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-11T23:30:26Z",
+  "updated": "2026-07-12T00:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "spence",
-      "traffic": "2000+",
+      "name": "ousmane dembélé",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "arquero de suiza",
-      "traffic": "500+",
+      "name": "halland",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "reino unido",
-      "traffic": "200+",
+      "name": "goleadores del mundial 2026",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "luis suarez",
-      "traffic": "200+",
+      "name": "karina milei",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "karina mazzocco",
+      "name": "djed spence",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "eberechi eze",
-      "traffic": "200+",
+      "name": "arquero de suiza",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "magnus carlsen",
-      "traffic": "2000+",
+      "name": "spence",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "nusa",
-      "traffic": "2000+",
+      "name": "reino unido",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "oscar bobb",
-      "traffic": "500+",
+      "name": "karina mazzocco",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "saka",
-      "traffic": "500+",
+      "name": "luis suarez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
