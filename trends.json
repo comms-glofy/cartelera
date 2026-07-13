@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T10:30:22Z",
+  "updated": "2026-07-13T11:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "datachaco",
-      "traffic": "100+",
+      "name": "diario panorama",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "monotributo",
+      "name": "claudia villafañe",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "radio mitre en vivo",
+      "name": "diario de cuyo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "telekino",
+      "name": "clima caba",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "que le dijo messi al arbitro",
-      "traffic": "100+",
+      "name": "datachaco",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "club atlético river plate",
+      "name": "monotributo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tobías andrada",
-      "traffic": "200+",
+      "name": "radio mitre en vivo",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "hola",
-      "traffic": "100+",
+      "name": "telekino",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "sam neill",
-      "traffic": "5000+",
+      "name": "club atlético river plate",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "san martin",
-      "traffic": "2000+",
+      "name": "tobías andrada",
+      "traffic": "500+",
       "rank": 10
     }
   ]
