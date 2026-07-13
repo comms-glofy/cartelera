@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-13T23:00:30Z",
+  "updated": "2026-07-13T23:27:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "meteored",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
       "name": "allanamiento",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
       "name": "comercio",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "ejército",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "asociación del fútbol argentino",
+      "name": "sindicato",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "sindicato",
+      "name": "asociación del fútbol argentino",
       "traffic": "1000+",
       "rank": 10
     }
