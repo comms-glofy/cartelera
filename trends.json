@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T06:00:26Z",
+  "updated": "2026-07-13T06:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "sam neill",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "san martin",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "feriado",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "murio danna paola",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "quini 6: controlar",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "hbo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "fin de semana",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "emelec - barcelona sc",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "forlan",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "mar de la china meridional",
-      "traffic": "100+",
       "rank": 10
     }
   ]
