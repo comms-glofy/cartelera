@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T22:30:24Z",
+  "updated": "2026-07-13T23:00:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "comercio",
-      "traffic": "200+",
+      "name": "meteored",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "axel kicillof",
-      "traffic": "500+",
+      "name": "allanamiento",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "comercio",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "axel kicillof",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "ejército",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "gabriel rolón",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "juan bautista mahiques",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "asociación del fútbol argentino",
-      "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "armani",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "asociación del fútbol argentino",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "sindicato",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "banco provincia",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "franco colapinto",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
