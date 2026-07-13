@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T19:00:27Z",
+  "updated": "2026-07-13T19:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "franco colapinto",
+      "name": "banco provincia",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "mendoza",
-      "traffic": "200+",
+      "name": "franco colapinto",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "starlink",
+      "name": "mendoza",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "exequiel zeballos",
+      "name": "starlink",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "exequiel zeballos",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "liam gallagher",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "felipe melo",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "juan román riquelme",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "mercado de divisas",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "naturgy",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "asignación universal por hijo",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
