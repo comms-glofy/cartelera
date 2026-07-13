@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T15:30:24Z",
+  "updated": "2026-07-13T16:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "quiniela de tucuman",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "asignación universal por hijo",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "gary neville",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "13 de julio",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "claudia villafañe",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "diario de cuyo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "clima caba",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "datachaco",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "monotributo",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "radio mitre en vivo",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "tu jugada",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "telekino",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
