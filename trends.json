@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T03:00:24Z",
+  "updated": "2026-07-13T03:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,12 +10,12 @@
     },
     {
       "name": "feriado",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
       "name": "murio danna paola",
-      "traffic": "1000+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -49,7 +49,7 @@
       "rank": 9
     },
     {
-      "name": "san martin de tucuman",
+      "name": "danna paola",
       "traffic": "1000+",
       "rank": 10
     }
