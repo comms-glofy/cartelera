@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T11:00:23Z",
+  "updated": "2026-07-13T11:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario panorama",
-      "traffic": "200+",
+      "name": "gary neville",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "claudia villafañe",
+      "name": "13 de julio",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "diario de cuyo",
+      "name": "claudia villafañe",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima caba",
+      "name": "diario de cuyo",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "datachaco",
+      "name": "clima caba",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "monotributo",
+      "name": "datachaco",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "radio mitre en vivo",
-      "traffic": "500+",
+      "name": "monotributo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "telekino",
+      "name": "radio mitre en vivo",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "club atlético river plate",
-      "traffic": "200+",
+      "name": "telekino",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tobías andrada",
-      "traffic": "500+",
+      "name": "que le dijo messi al arbitro",
+      "traffic": "200+",
       "rank": 10
     }
   ]
