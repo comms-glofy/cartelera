@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-13T07:00:27Z",
+  "updated": "2026-07-13T07:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "sam neill",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "posiciones de emelec contra barcelona sc",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "murio danna paola",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "quini 6: controlar",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "hbo",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fin de semana",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "emelec - barcelona sc",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "forlan",
-      "traffic": "200+",
       "rank": 10
     }
   ]
