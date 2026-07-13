@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T01:30:22Z",
+  "updated": "2026-07-13T02:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "quini 6: controlar",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "hbo",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "monica ayos",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "fin de semana",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "emelec - barcelona sc",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "forlan",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mar de la china meridional",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "danna paola",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "san martin de tucuman",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "nico paz",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "racing - peñarol",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
