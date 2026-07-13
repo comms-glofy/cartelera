@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T16:00:25Z",
+  "updated": "2026-07-13T16:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela de tucuman",
-      "traffic": "1000+",
+      "name": "mercado de divisas",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "naturgy",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "asignación universal por hijo",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
-      "name": "gary neville",
-      "traffic": "500+",
-      "rank": 3
+      "name": "quiniela de tucuman",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "13 de julio",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "gary neville",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "claudia villafañe",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "diario de cuyo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima caba",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "datachaco",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "monotributo",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "radio mitre en vivo",
-      "traffic": "500+",
+      "name": "jurassic park",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
