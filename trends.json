@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T21:30:23Z",
+  "updated": "2026-07-13T22:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,12 +24,12 @@
       "rank": 4
     },
     {
-      "name": "sindicato",
+      "name": "asociación del fútbol argentino",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "asociación del fútbol argentino",
+      "name": "sindicato",
       "traffic": "500+",
       "rank": 6
     },
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "cuti romero",
+      "name": "banco provincia",
       "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "banco provincia",
+      "name": "franco colapinto",
       "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "franco colapinto",
-      "traffic": "5000+",
+      "name": "mendoza",
+      "traffic": "200+",
       "rank": 10
     }
   ]
