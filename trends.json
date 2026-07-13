@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T20:14:43Z",
+  "updated": "2026-07-13T20:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "franco armani",
-      "traffic": "500+",
+      "name": "juan bautista mahiques",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "armani",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "sindicato",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "asociación del fútbol argentino",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "cuti romero",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "banco provincia",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "franco colapinto",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "mendoza",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "starlink",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "exequiel zeballos",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "liam gallagher",
-      "traffic": "1000+",
+      "name": "exequiel zeballos",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
