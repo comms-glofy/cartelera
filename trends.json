@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T18:30:22Z",
+  "updated": "2026-07-13T18:57:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,13 +19,13 @@
       "rank": 3
     },
     {
-      "name": "liam gallagher",
+      "name": "exequiel zeballos",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "juan román riquelme",
-      "traffic": "1000+",
+      "name": "liam gallagher",
+      "traffic": "500+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "mercado de divisas",
+      "name": "juan román riquelme",
       "traffic": "500+",
       "rank": 7
     },
     {
+      "name": "mercado de divisas",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "naturgy",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "asignación universal por hijo",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "quiniela de tucuman",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
