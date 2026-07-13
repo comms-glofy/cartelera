@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T17:00:31Z",
+  "updated": "2026-07-13T17:28:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "felipe melo",
+      "name": "liam gallagher",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mercado de divisas",
-      "traffic": "100+",
+      "name": "felipe melo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "naturgy",
+      "name": "juan román riquelme",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "mercado de divisas",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "naturgy",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "asignación universal por hijo",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "13 de julio",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "gary neville",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "claudia villafañe",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "diario de cuyo",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima caba",
-      "traffic": "200+",
       "rank": 10
     }
   ]
