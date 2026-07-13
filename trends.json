@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T21:00:24Z",
+  "updated": "2026-07-13T21:27:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juan bautista mahiques",
+      "name": "axel kicillof",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sindicato",
-      "traffic": "500+",
+      "name": "ejército",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "armani",
-      "traffic": "1000+",
+      "name": "gabriel rolón",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "asociación del fútbol argentino",
-      "traffic": "200+",
+      "name": "juan bautista mahiques",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "cuti romero",
-      "traffic": "2000+",
+      "name": "sindicato",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "banco provincia",
-      "traffic": "5000+",
+      "name": "asociación del fútbol argentino",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "franco colapinto",
+      "name": "armani",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "mendoza",
-      "traffic": "200+",
+      "name": "cuti romero",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "starlink",
-      "traffic": "500+",
+      "name": "banco provincia",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "exequiel zeballos",
-      "traffic": "2000+",
+      "name": "franco colapinto",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
