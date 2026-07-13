@@ -1,36 +1,36 @@
 {
-  "updated": "2026-07-13T22:00:24Z",
+  "updated": "2026-07-13T22:28:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "axel kicillof",
+      "name": "comercio",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ejército",
-      "traffic": "200+",
+      "name": "axel kicillof",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "ejército",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "gabriel rolón",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "juan bautista mahiques",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "asociación del fútbol argentino",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "sindicato",
-      "traffic": "500+",
+      "name": "asociación del fútbol argentino",
+      "traffic": "1000+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "banco provincia",
-      "traffic": "5000+",
+      "name": "sindicato",
+      "traffic": "1000+",
       "rank": 8
+    },
+    {
+      "name": "banco provincia",
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "franco colapinto",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "mendoza",
-      "traffic": "200+",
       "rank": 10
     }
   ]
