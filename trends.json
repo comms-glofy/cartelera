@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-13T20:00:29Z",
+  "updated": "2026-07-13T20:14:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "banco provincia",
-      "traffic": "2000+",
+      "name": "franco armani",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "franco colapinto",
-      "traffic": "2000+",
+      "name": "sindicato",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mendoza",
+      "name": "asociación del fútbol argentino",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "cuti romero",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "banco provincia",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "franco colapinto",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "mendoza",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "starlink",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "exequiel zeballos",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "liam gallagher",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "felipe melo",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "juan román riquelme",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "mercado de divisas",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "naturgy",
-      "traffic": "200+",
       "rank": 10
     }
   ]
