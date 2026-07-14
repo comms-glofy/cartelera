@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-14T03:00:25Z",
+  "updated": "2026-07-14T03:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quien se va de gran hermano",
-      "traffic": "1000+",
+      "name": "eclipse",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "teté coustarot",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "política",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "quien se va de gran hermano",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "kirchnerismo",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "xabi alonso",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "bandana",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "carla czudnowsky",
+      "name": "el partido",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ismail elfath",
-      "traffic": "1000+",
+      "name": "xabi alonso",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tomas dente",
-      "traffic": "1000+",
+      "name": "bandana",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "meteored",
-      "traffic": "2000+",
+      "name": "carla czudnowsky",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "allanamiento",
+      "name": "ismail elfath",
       "traffic": "1000+",
       "rank": 10
     }
