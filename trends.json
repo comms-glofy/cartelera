@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-14T08:30:22Z",
+  "updated": "2026-07-14T08:34:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ebola",
+      "name": "que",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "eclipse",
-      "traffic": "500+",
+      "name": "ebola",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "teté coustarot",
+      "name": "eclipse",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "política",
+      "name": "teté coustarot",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "quien se va de gran hermano",
-      "traffic": "1000+",
+      "name": "política",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "kirchnerismo",
-      "traffic": "500+",
+      "name": "quien se va de gran hermano",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "el partido",
+      "name": "tobias andrada",
       "traffic": "200+",
       "rank": 7
     },
     {
+      "name": "kirchnerismo",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "xabi alonso",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "bandana",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "carla czudnowsky",
-      "traffic": "200+",
       "rank": 10
     }
   ]
