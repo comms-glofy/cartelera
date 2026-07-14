@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-14T19:30:22Z",
+  "updated": "2026-07-14T20:00:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "javier bardem",
-      "traffic": "1000+",
+      "name": "disney plus",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "directv go",
+      "name": "olise",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "oyarzabal",
-      "traffic": "500+",
+      "name": "william saliba",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "rodri",
+      "name": "deuda",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "yamal",
+      "name": "pedri",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "digne",
-      "traffic": "200+",
+      "name": "unai simón",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "pedro porro",
+      "name": "marc cucurella",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "disney+",
+      "name": "upamecano",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "adrien rabiot",
-      "traffic": "200+",
+      "name": "dgo",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "rabiot",
-      "traffic": "1000+",
+      "name": "disney",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
