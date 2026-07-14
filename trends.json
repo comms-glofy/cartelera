@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-14T21:30:24Z",
+  "updated": "2026-07-14T22:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mundial 2014",
-      "traffic": "200+",
+      "name": "tormenta",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "kylian mbappé",
-      "traffic": "5000+",
+      "name": "hossam hassan",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "luis de la fuente",
-      "traffic": "1000+",
+      "name": "diego santilli",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "de la fuente",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "mundial 2014",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "kylian mbappé",
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "hasta donde llego argentina en el mundial 2026",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "name": "luis de la fuente",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "mundial 2022",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "eurocopa",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "cuántas copas del mundo tiene españa",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "mundial 2018",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "dt de españa",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "hasta donde llego inglaterra en el mundial 2026",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
