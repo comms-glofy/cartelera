@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-14T02:00:22Z",
+  "updated": "2026-07-14T02:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kirchnerismo",
+      "name": "quien se va de gran hermano",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "xabi alonso",
+      "name": "política",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bandana",
-      "traffic": "200+",
+      "name": "kirchnerismo",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "xabi alonso",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "bandana",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "ismail elfath",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "tomas dente",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "meteored",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "allanamiento",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "comercio",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "axel kicillof",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "ejército",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
