@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-14T01:00:23Z",
+  "updated": "2026-07-14T01:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "kirchnerismo",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
-    },
-    {
-      "name": "el partido",
-      "traffic": "2000+",
-      "rank": 2
     },
     {
       "name": "xabi alonso",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "bandana",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "ismail elfath",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "tomas dente",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "allanamiento",
       "traffic": "1000+",
       "rank": 6
     },
@@ -39,17 +39,17 @@
       "rank": 7
     },
     {
-      "name": "allanamiento",
-      "traffic": "1000+",
+      "name": "comercio",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "comercio",
-      "traffic": "500+",
+      "name": "axel kicillof",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "axel kicillof",
+      "name": "ejército",
       "traffic": "2000+",
       "rank": 10
     }
