@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-14T16:30:25Z",
+  "updated": "2026-07-14T17:00:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "predicción",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -25,32 +25,32 @@
     },
     {
       "name": "pedro ignacio calderón",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "actor sam neill",
+      "name": "joaquin levinton",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "jugador",
-      "traffic": "1000+",
+      "name": "actor sam neill",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "embajador",
+      "name": "jugador",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "a que hora juega francia y españa",
-      "traffic": "5000+",
+      "name": "embajador",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "extinción masiva",
-      "traffic": "200+",
+      "name": "a que hora juega francia y españa",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
