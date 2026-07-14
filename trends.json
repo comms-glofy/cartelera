@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-14T17:00:28Z",
+  "updated": "2026-07-14T17:11:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "predicción",
+      "name": "sebastián báez",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "fernández prieto",
-      "traffic": "5000+",
+      "name": "cámara federal de casación penal comodoro py",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "azúcar",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "predicción",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "ipc junio 2026",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "camilo ugo carabelli",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pedro ignacio calderón",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "joaquin levinton",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "actor sam neill",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "jugador",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "embajador",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "a que hora juega francia y españa",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
