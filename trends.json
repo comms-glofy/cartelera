@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-14T02:30:23Z",
+  "updated": "2026-07-14T03:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "quien se va de gran hermano",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "ismail elfath",
-      "traffic": "1000+",
+      "name": "carla czudnowsky",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tomas dente",
+      "name": "ismail elfath",
       "traffic": "1000+",
       "rank": 7
     },
     {
+      "name": "tomas dente",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "meteored",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "allanamiento",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "comercio",
-      "traffic": "500+",
       "rank": 10
     }
   ]
