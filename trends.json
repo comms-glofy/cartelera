@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T12:07:47Z",
+  "updated": "2026-07-14T12:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "a que hora juega francia y españa",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "pronostico caba",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "juan manuel cerúndolo",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "temperatura",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "volver al trabajo",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "2026",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
