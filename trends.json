@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-14T13:00:27Z",
+  "updated": "2026-07-14T13:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jugador",
+      "name": "joaquin levinton",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "embajador",
-      "traffic": "500+",
+      "name": "actor sam neill",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "a que hora juega francia y españa",
-      "traffic": "1000+",
+      "name": "jugador",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "extinción masiva",
-      "traffic": "100+",
+      "name": "embajador",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "100+",
+      "name": "a que hora juega francia y españa",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "pronóstico del tiempo",
+      "name": "extinción masiva",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pronostico caba",
+      "name": "thiago agustín tirante",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "1000+",
+      "name": "pronóstico del tiempo",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "temperatura",
-      "traffic": "5000+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "volver al trabajo",
-      "traffic": "500+",
+      "name": "temperatura",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
