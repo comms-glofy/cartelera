@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-14T23:00:26Z",
+  "updated": "2026-07-14T23:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "¿donde será el mundial de fútbol 2030?",
-      "traffic": "200+",
+      "name": "el niño",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "tormenta",
-      "traffic": "10000+",
+      "name": "instagram",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "hossam hassan",
-      "traffic": "1000+",
+      "name": "¿donde será el mundial de fútbol 2030?",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "tormenta",
+      "traffic": "20000+",
+      "rank": 4
     },
     {
       "name": "diego santilli",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "hossam hassan",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "gobierno",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "mundial 2014",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "hasta donde llego argentina en el mundial 2026",
-      "traffic": "10000+",
-      "rank": 6
+      "traffic": "20000+",
+      "rank": 9
     },
     {
       "name": "kylian mbappé",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "luis de la fuente",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "eurocopa",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "mundial 2022",
-      "traffic": "500+",
       "rank": 10
     }
   ]
