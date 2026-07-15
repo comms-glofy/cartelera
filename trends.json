@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-15T18:00:30Z",
+  "updated": "2026-07-15T18:30:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fifa",
-      "traffic": "500+",
+      "name": "harry kane",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "de paul",
+      "name": "rio ferdinand",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "derio - athletic",
-      "traffic": "500+",
+      "name": "jordan pickford",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "morgan rogers",
-      "traffic": "500+",
+      "name": "spence",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ascensor",
-      "traffic": "500+",
+      "name": "juan musso",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lyon - servette",
+      "name": "cabala",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "marco trungelliti",
+      "name": "djed spence",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "franco mastantuono",
-      "traffic": "500+",
+      "name": "quinta flota de los estados unidos",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "copa argentina",
-      "traffic": "1000+",
+      "name": "inglaterra - argentina",
+      "traffic": "50000+",
       "rank": 9
     },
     {
-      "name": "jugadores de inglaterra",
-      "traffic": "500+",
+      "name": "maxi lopez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
