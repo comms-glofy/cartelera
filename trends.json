@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-15T16:00:26Z",
+  "updated": "2026-07-15T16:17:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "josé antonio neme",
-      "traffic": "500+",
+      "name": "jugadores de inglaterra",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "arquero de inglaterra",
-      "traffic": "200+",
+      "name": "josé antonio neme",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "tomás martín etcheverry",
+      "name": "arquero de inglaterra",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "mariano navone",
+      "name": "tomás martín etcheverry",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "córdoba",
+      "name": "mariano navone",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "córdoba",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "sporting",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "el economista",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "formacion argentina vs inglaterra",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "ryanair",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "steve nielsen",
+      "name": "ryanair",
       "traffic": "1000+",
       "rank": 10
     }
