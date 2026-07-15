@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-15T22:30:24Z",
+  "updated": "2026-07-15T22:57:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "robo",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "antonela roccuzzo",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "speed youtuber",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "hossam hassan",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "thesun",
-      "traffic": "100+",
       "rank": 4
     },
     {
@@ -39,17 +39,17 @@
       "rank": 7
     },
     {
-      "name": "sucesos",
-      "traffic": "200+",
+      "name": "camiseta argentina 2026",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "diario as",
+      "name": "sucesos",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "u. católica - ldu quito",
+      "name": "javier bardem",
       "traffic": "200+",
       "rank": 10
     }
