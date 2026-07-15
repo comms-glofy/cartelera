@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T01:00:23Z",
+  "updated": "2026-07-15T01:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,23 +9,23 @@
       "rank": 1
     },
     {
+      "name": "negocio",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "instagram",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "luna de miel",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "¿donde será el mundial de fútbol 2030?",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "hasta donde llegó inglaterra en el mundial 2026",
-      "traffic": "200+",
       "rank": 5
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "mundial 2014",
-      "traffic": "200+",
+      "name": "gobierno",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "mbappé",
-      "traffic": "10000+",
+      "name": "mundial 2014",
+      "traffic": "200+",
       "rank": 10
     }
   ]
