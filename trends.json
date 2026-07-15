@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T06:30:24Z",
+  "updated": "2026-07-15T07:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
+      "name": "duggan",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "negocio",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "instagram",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "luna de miel",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "¿donde será el mundial de fútbol 2030?",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tormenta",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "diego santilli",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "hossam hassan",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
