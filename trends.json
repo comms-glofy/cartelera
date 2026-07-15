@@ -1,45 +1,45 @@
 {
-  "updated": "2026-07-15T13:00:25Z",
+  "updated": "2026-07-15T13:30:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ryanair",
+      "name": "el economista",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "ryanair",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "steve nielsen",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "bangladesh",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "elina costantini",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "jamie carragher",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pronostico caba",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "encuesta",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "bet 365",
+      "name": "encuesta",
       "traffic": "1000+",
       "rank": 8
     },
