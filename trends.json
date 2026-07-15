@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-15T04:00:27Z",
+  "updated": "2026-07-15T04:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gaston soffritti",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "chatgpt",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "negocio",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "instagram",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "luna de miel",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "¿donde será el mundial de fútbol 2030?",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tormenta",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "diego santilli",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "hossam hassan",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "gobierno",
+      "name": "hossam hassan",
       "traffic": "1000+",
       "rank": 10
     }
