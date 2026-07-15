@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-15T15:00:31Z",
+  "updated": "2026-07-15T15:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tomás martín etcheverry",
+      "name": "josé antonio neme",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mariano navone",
-      "traffic": "500+",
+      "name": "arquero de inglaterra",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "córdoba",
+      "name": "tomás martín etcheverry",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sporting",
-      "traffic": "200+",
+      "name": "mariano navone",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "el economista",
+      "name": "córdoba",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "sporting",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "el economista",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "ryanair",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "steve nielsen",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "bangladesh",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "elina costantini",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "jamie carragher",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
