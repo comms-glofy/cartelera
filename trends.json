@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-15T13:30:26Z",
+  "updated": "2026-07-15T14:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el economista",
+      "name": "sporting",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "el economista",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "formacion argentina vs inglaterra",
+      "traffic": "20000+",
+      "rank": 3
+    },
+    {
       "name": "ryanair",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "steve nielsen",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "bangladesh",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "elina costantini",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "jamie carragher",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "pronostico caba",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "encuesta",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "salario",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "gaston soffritti",
+      "name": "encuesta",
       "traffic": "1000+",
       "rank": 10
     }
