@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-15T17:30:23Z",
+  "updated": "2026-07-15T17:46:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "simeone",
-      "traffic": "1000+",
+      "name": "de paul",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "morgan rogers",
+      "name": "derio - athletic",
       "traffic": "500+",
       "rank": 2
     },
     {
       "name": "ascensor",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "morgan rogers",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "simeone argentina",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "lyon - servette",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "franco mastantuono",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "copa argentina",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "jugadores de inglaterra",
+      "name": "franco mastantuono",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "josé antonio neme",
+      "name": "copa argentina",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "arquero de inglaterra",
-      "traffic": "2000+",
+      "name": "jugadores de inglaterra",
+      "traffic": "500+",
       "rank": 10
     }
   ]
