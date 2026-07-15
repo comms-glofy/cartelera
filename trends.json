@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-15T14:46:03Z",
+  "updated": "2026-07-15T15:00:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mariano navone",
+      "name": "tomás martín etcheverry",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "córdoba",
-      "traffic": "200+",
+      "name": "mariano navone",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "sporting",
+      "name": "córdoba",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "sporting",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "el economista",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ryanair",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "steve nielsen",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "bangladesh",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "elina costantini",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "jamie carragher",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico caba",
-      "traffic": "100+",
       "rank": 10
     }
   ]
