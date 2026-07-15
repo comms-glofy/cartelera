@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T14:30:24Z",
+  "updated": "2026-07-15T14:46:03Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "formacion argentina vs inglaterra",
-      "traffic": "20000+",
-      "rank": 5
-    },
-    {
       "name": "ryanair",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "steve nielsen",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "bangladesh",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "elina costantini",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "jamie carragher",
-      "traffic": "500+",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "pronostico caba",
+      "traffic": "100+",
       "rank": 10
     }
   ]
