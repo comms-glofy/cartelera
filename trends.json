@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-15T17:00:38Z",
+  "updated": "2026-07-15T17:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "franco mastantuono",
-      "traffic": "200+",
+      "name": "simeone",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "copa argentina",
+      "name": "morgan rogers",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "jugadores de inglaterra",
+      "name": "ascensor",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "josé antonio neme",
-      "traffic": "1000+",
+      "name": "lyon - servette",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "arquero de inglaterra",
-      "traffic": "1000+",
+      "name": "marco trungelliti",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
+      "name": "franco mastantuono",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mariano navone",
-      "traffic": "500+",
+      "name": "copa argentina",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "córdoba",
+      "name": "jugadores de inglaterra",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "sporting",
-      "traffic": "200+",
+      "name": "josé antonio neme",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "el economista",
-      "traffic": "500+",
+      "name": "arquero de inglaterra",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
