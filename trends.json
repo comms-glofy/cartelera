@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-15T09:00:24Z",
+  "updated": "2026-07-15T09:29:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "bet 365",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "salario",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "gaston soffritti",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "chatgpt",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "duggan",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "negocio",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "instagram",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "luna de miel",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "¿donde será el mundial de fútbol 2030?",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "tormenta",
-      "traffic": "20000+",
+      "name": "ruta nacional 7",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
