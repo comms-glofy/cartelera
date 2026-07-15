@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-15T00:00:24Z",
+  "updated": "2026-07-15T00:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "el niño",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "diego santilli",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "gobierno",
-      "traffic": "1000+",
+      "name": "mundial 2014",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mundial 2014",
-      "traffic": "200+",
+      "name": "hasta donde llego argentina en el mundial 2026",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "kylian mbappé",
-      "traffic": "10000+",
+      "name": "luis de la fuente",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
