@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T06:00:23Z",
+  "updated": "2026-07-16T06:30:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,22 +14,22 @@
       "rank": 2
     },
     {
+      "name": "posiciones de barcelona sc contra guayaquil city",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
       "name": "quini 6 15 de julio 2026",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "vicky xipolitakis",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "real salt lake - burnley",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gran hermano hoy",
+      "name": "real salt lake - burnley",
       "traffic": "200+",
       "rank": 6
     },
@@ -50,7 +50,7 @@
     },
     {
       "name": "dalma maradona",
-      "traffic": "10000+",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
