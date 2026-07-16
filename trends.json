@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T23:00:18Z",
+  "updated": "2026-07-16T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuando juega river",
-      "traffic": "200+",
+      "name": "boca",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "alta montaña",
+      "name": "marcos rojo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "san lorenzo",
-      "traffic": "200+",
+      "name": "cuando juega river",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "botafogo - santos",
-      "traffic": "1000+",
+      "name": "alta montaña",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "chile",
-      "traffic": "500+",
+      "name": "san lorenzo",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "botafogo - santos",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "chile",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "antonio mohamed",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "aucas - independiente del valle",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "boca vs sarmiento",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "racing - defensa y justicia",
-      "traffic": "50000+",
       "rank": 9
     },
     {
-      "name": "capital humano",
-      "traffic": "500+",
+      "name": "selección de fútbol de argentina",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
