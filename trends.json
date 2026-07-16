@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-16T15:00:16Z",
+  "updated": "2026-07-16T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "bastian schweinsteiger",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "virgen del carmen",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "weather",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "claudio tapia",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "clima de hoy",
-      "traffic": "100+",
       "rank": 10
     }
   ]
