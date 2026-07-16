@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T06:30:26Z",
+  "updated": "2026-07-16T07:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,13 +9,13 @@
       "rank": 1
     },
     {
-      "name": "joaquin levinton oasis",
-      "traffic": "100+",
+      "name": "feriado 16 de julio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "posiciones de barcelona sc contra guayaquil city",
-      "traffic": "2000+",
+      "name": "joaquin levinton oasis",
+      "traffic": "100+",
       "rank": 3
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "iker casillas",
+      "name": "gran hermano hoy",
       "traffic": "200+",
       "rank": 7
     },
     {
+      "name": "iker casillas",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "feriado argentina",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "quinielas de hoy",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "dalma maradona",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
