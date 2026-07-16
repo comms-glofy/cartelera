@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T23:30:16Z",
+  "updated": "2026-07-16T23:55:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "javier milei",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "weather tomorrow",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "boca",
       "traffic": "20000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "marcos rojo",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "cuando juega river",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "alta montaña",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "san lorenzo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "botafogo - santos",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "marcelo tinelli",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "chile",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "antonio mohamed",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "aucas - independiente del valle",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "selección de fútbol de argentina",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
