@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T21:31:44Z",
+  "updated": "2026-07-16T22:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "selección de fútbol de argentina",
-      "traffic": "20000+",
+      "name": "chile",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "antonio mohamed",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "aucas - independiente del valle",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "boca vs sarmiento",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
-      "name": "diego maradona",
-      "traffic": "1000+",
-      "rank": 3
+      "name": "selección de fútbol de argentina",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "racing - defensa y justicia",
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "capital humano",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "clima mañana",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "tasa",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "cotización dólar blue hoy",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "georgina barbarossa",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "valentina cervantes",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "mario pergolini",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
