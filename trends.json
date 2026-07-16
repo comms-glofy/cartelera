@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T10:30:21Z",
+  "updated": "2026-07-16T11:00:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "weather",
+      "name": "diario de cuyo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "claudio tapia",
+      "name": "clima caba",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "clima de hoy",
+      "name": "ruta nacional 33",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "la capital",
-      "traffic": "100+",
+      "name": "weather",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "pronostico del tiempo",
-      "traffic": "200+",
+      "name": "claudio tapia",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "juan manuel cerúndolo",
+      "name": "clima de hoy",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "pronostico caba",
+      "name": "la capital",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "mar del plata",
+      "name": "juan manuel cerúndolo",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "loto plus",
+      "name": "pronostico caba",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "victoria villarruel",
-      "traffic": "500+",
+      "name": "loto plus",
+      "traffic": "200+",
       "rank": 10
     }
   ]
