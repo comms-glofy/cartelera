@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T21:00:15Z",
+  "updated": "2026-07-16T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tasa",
-      "traffic": "200+",
+      "name": "selección de fútbol de argentina",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "cotización dólar blue hoy",
-      "traffic": "200+",
+      "name": "boca vs sarmiento",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "diego maradona",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "capital humano",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "clima mañana",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "tasa",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "cotización dólar blue hoy",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "georgina barbarossa",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "sarmiento de junin contra boca juniors",
-      "traffic": "5000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "valentina cervantes",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "mario pergolini",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "joaquín cabrales",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "real madrid",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "fuego",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "ley de tierras",
-      "traffic": "500+",
       "rank": 10
     }
   ]
