@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T00:30:24Z",
+  "updated": "2026-07-16T01:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "misiones",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "gary neville",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "himno nacional",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "barcelona sc - guayaquil city",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "noticia",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "servicio meteorológico",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "zlatan ibrahimović",
-      "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "liam gallagher",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sandra arroyo salgado",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "zlatan ibrahimović",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "robo",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "antonela roccuzzo",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "speed youtuber",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
