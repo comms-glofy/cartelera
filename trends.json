@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T03:00:25Z",
+  "updated": "2026-07-16T03:26:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vicky xipolitakis",
+      "name": "joaquin levinton oasis",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "real salt lake - burnley",
-      "traffic": "200+",
+      "name": "vicky xipolitakis",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gran hermano hoy",
+      "name": "real salt lake - burnley",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "iker casillas",
+      "name": "gran hermano hoy",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "iker casillas",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "feriado argentina",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quinielas de hoy",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "quini 6",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "dalma maradona",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "misiones",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "gary neville",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
