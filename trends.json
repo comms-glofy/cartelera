@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T01:00:22Z",
+  "updated": "2026-07-16T01:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "misiones",
+      "name": "quinielas de hoy",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gary neville",
-      "traffic": "1000+",
+      "name": "quini 6",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "himno nacional",
-      "traffic": "2000+",
+      "name": "misiones",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "barcelona sc - guayaquil city",
+      "name": "gary neville",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "noticia",
-      "traffic": "500+",
+      "name": "himno nacional",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "barcelona sc - guayaquil city",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "noticia",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "liam gallagher",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "servicio meteorológico",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "liam gallagher",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "sandra arroyo salgado",
-      "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "zlatan ibrahimović",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "robo",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
