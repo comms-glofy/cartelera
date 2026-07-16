@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T17:00:16Z",
+  "updated": "2026-07-16T17:11:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing",
+      "name": "alerta meteorológica",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "joaquin cabrales",
+      "name": "racing",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "la odisea",
-      "traffic": "100+",
+      "name": "joaquin cabrales",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bastian schweinsteiger",
+      "name": "la odisea",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "fútbol",
+      "traffic": "20000+",
+      "rank": 5
+    },
+    {
+      "name": "bastian schweinsteiger",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "guardameta",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "fuegos artificiales",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "rock and pop",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "diario de cuyo",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "clima caba",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "ruta nacional 33",
-      "traffic": "200+",
       "rank": 10
     }
   ]
