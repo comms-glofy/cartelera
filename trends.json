@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T17:11:25Z",
+  "updated": "2026-07-16T17:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alerta meteorológica",
-      "traffic": "200+",
+      "name": "islas malvinas (falkland islands)",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "racing",
-      "traffic": "200+",
+      "name": "zonda",
+      "traffic": "200000+",
       "rank": 2
     },
     {
-      "name": "joaquin cabrales",
+      "name": "ley de inviolabilidad de la propiedad privada",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "la odisea",
+      "name": "alerta meteorológica",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "fútbol",
-      "traffic": "20000+",
+      "name": "racing",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "bastian schweinsteiger",
+      "name": "joaquin cabrales",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "guardameta",
-      "traffic": "10000+",
+      "name": "la odisea",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "fuegos artificiales",
-      "traffic": "2000+",
+      "name": "fútbol",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "rock and pop",
-      "traffic": "500+",
+      "name": "bastian schweinsteiger",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "diario de cuyo",
-      "traffic": "500+",
+      "name": "guardameta",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
