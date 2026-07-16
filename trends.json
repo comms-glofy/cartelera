@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-16T20:30:19Z",
+  "updated": "2026-07-16T21:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cotización dólar blue hoy",
+      "name": "tasa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sarmiento de junin contra boca juniors",
-      "traffic": "5000+",
+      "name": "cotización dólar blue hoy",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,28 +19,28 @@
       "rank": 3
     },
     {
-      "name": "valentina cervantes",
-      "traffic": "200+",
+      "name": "sarmiento de junin contra boca juniors",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "mario pergolini",
-      "traffic": "500+",
+      "name": "valentina cervantes",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "mario pergolini",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "joaquín cabrales",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "real madrid",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "piers morgan",
-      "traffic": "2000+",
       "rank": 8
     },
     {
