@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T20:00:19Z",
+  "updated": "2026-07-16T20:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mario pergolini",
+      "name": "cotización dólar blue hoy",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "joaquín cabrales",
+      "name": "sarmiento de junin contra boca juniors",
       "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "piers morgan",
-      "traffic": "1000+",
+      "name": "georgina barbarossa",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "valentina cervantes",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "mario pergolini",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "joaquín cabrales",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "real madrid",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "name": "piers morgan",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "fuego",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "ley de tierras",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "sebastián báez",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "argentina pancarta malvinas",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "club atlético river plate",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "zonda",
-      "traffic": "200000+",
       "rank": 10
     }
   ]
