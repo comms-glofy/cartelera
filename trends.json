@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T10:00:26Z",
+  "updated": "2026-07-16T10:25:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "weather",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "claudio tapia",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "clima de hoy",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "la capital",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "pronostico del tiempo",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "pronostico caba",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "loto plus",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "victoria villarruel",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "hola",
+      "name": "juan manuel cerúndolo",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "feriado 16 de julio",
-      "traffic": "200+",
+      "name": "pronostico caba",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "joaquin levinton oasis",
-      "traffic": "100+",
+      "name": "mar del plata",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "posiciones de barcelona sc contra guayaquil city",
-      "traffic": "5000+",
+      "name": "loto plus",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "quini 6 15 de julio 2026",
-      "traffic": "10000+",
+      "name": "victoria villarruel",
+      "traffic": "500+",
       "rank": 10
     }
   ]
