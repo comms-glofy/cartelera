@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T19:00:16Z",
+  "updated": "2026-07-16T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético river plate",
-      "traffic": "2000+",
+      "name": "piers morgan",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "islas malvinas (falkland islands)",
-      "traffic": "20000+",
+      "name": "real madrid",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "zonda",
-      "traffic": "200000+",
+      "name": "fuego",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ley de inviolabilidad de la propiedad privada",
+      "name": "sebastián báez",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "alerta meteorológica",
-      "traffic": "200+",
+      "name": "club atlético river plate",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "racing",
-      "traffic": "1000+",
+      "name": "islas malvinas (falkland islands)",
+      "traffic": "20000+",
       "rank": 6
+    },
+    {
+      "name": "zonda",
+      "traffic": "200000+",
+      "rank": 7
+    },
+    {
+      "name": "ley de inviolabilidad de la propiedad privada",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "joaquin cabrales",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "la odisea",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "fútbol",
-      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "bastian schweinsteiger",
-      "traffic": "200+",
+      "name": "racing",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
