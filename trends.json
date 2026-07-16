@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T13:30:26Z",
+  "updated": "2026-07-16T14:00:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fuegos artificiales",
-      "traffic": "500+",
+      "name": "prensa inglesa",
+      "traffic": "20000+",
       "rank": 1
+    },
+    {
+      "name": "fuegos artificiales",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "rock and pop",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "diario de cuyo",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima caba",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ruta nacional 33",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "claudio tapia",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima de hoy",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "la capital",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "juan manuel cerúndolo",
-      "traffic": "500+",
       "rank": 10
     }
   ]
