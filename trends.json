@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-16T11:30:22Z",
+  "updated": "2026-07-16T12:00:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario de cuyo",
+      "name": "rock and pop",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "fuegos artificiales",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "diario de cuyo",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "clima caba",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "ruta nacional 33",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "claudio tapia",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "clima de hoy",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "la capital",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "juan manuel cerúndolo",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico caba",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mar del plata",
-      "traffic": "200+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
