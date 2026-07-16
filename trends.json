@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-16T09:00:28Z",
+  "updated": "2026-07-16T09:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "loto plus",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "victoria villarruel",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "hola",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "feriado 16 de julio",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "joaquin levinton oasis",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "posiciones de barcelona sc contra guayaquil city",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quini 6 15 de julio 2026",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "vicky xipolitakis",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "real salt lake - burnley",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "gran hermano hoy",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "iker casillas",
+      "name": "gran hermano hoy",
       "traffic": "200+",
       "rank": 10
     }
