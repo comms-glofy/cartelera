@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T18:00:18Z",
+  "updated": "2026-07-17T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "puente",
-      "traffic": "2000+",
+      "name": "ciclón",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "meteorito",
+      "name": "allanamiento",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "quien canta el himno argentino en el mundial 2026",
-      "traffic": "200+",
+      "name": "meteorito",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "marc cucurella",
+      "name": "quien canta el himno argentino en el mundial 2026",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "marc cucurella",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "refinanciación",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "guatemala",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "uruguay",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "antonio mohamed",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "juan manuel cerúndolo",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "amia",
-      "traffic": "2000+",
+      "name": "alerta meteorológica",
+      "traffic": "500000+",
       "rank": 10
     }
   ]
