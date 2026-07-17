@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-17T16:11:40Z",
+  "updated": "2026-07-17T16:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "antonio mohamed",
-      "traffic": "2000+",
+      "name": "terremoto mexico",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "terremoto mexico",
-      "traffic": "200+",
+      "name": "antonio mohamed",
+      "traffic": "2000+",
       "rank": 2
     },
     {
@@ -39,17 +39,17 @@
       "rank": 7
     },
     {
-      "name": "windy",
-      "traffic": "1000+",
+      "name": "clima tucuman",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "el tiempo en buenos aires",
-      "traffic": "100+",
+      "name": "windy",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "tiempo en cordoba",
+      "name": "el tiempo en buenos aires",
       "traffic": "100+",
       "rank": 10
     }
