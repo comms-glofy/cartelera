@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T20:00:16Z",
+  "updated": "2026-07-17T20:26:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lotería chaqueña",
-      "traffic": "200+",
+      "name": "petrolero",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "will ferrell",
+      "name": "chevrolet onix",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ciclón",
-      "traffic": "500+",
+      "name": "a qué hora juega river",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "allanamiento",
+      "name": "deportivo toluca fútbol club",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "meteorito",
-      "traffic": "1000+",
+      "name": "lotería chaqueña",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "puente",
-      "traffic": "2000+",
+      "name": "will ferrell",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "quien canta el himno argentino en el mundial 2026",
+      "name": "ciclón",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "marc cucurella",
-      "traffic": "1000+",
+      "name": "allanamiento",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "refinanciación",
+      "name": "meteorito",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "guatemala",
-      "traffic": "5000+",
+      "name": "puente",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
