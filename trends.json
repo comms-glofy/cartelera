@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-17T10:00:19Z",
+  "updated": "2026-07-17T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "apagón eléctrico",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "weather",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 2
     },
     {
-      "name": "el tiempo",
-      "traffic": "200+",
+      "name": "tiempo",
+      "traffic": "20000+",
       "rank": 3
+    },
+    {
+      "name": "weather",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "el tiempo",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "ángel de brito",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "clima rosario",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "temperatura caba",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "pronostico caba",
-      "traffic": "100+",
       "rank": 7
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "smn",
-      "traffic": "500+",
+      "name": "temperatura caba",
+      "traffic": "200+",
       "rank": 10
     }
   ]
