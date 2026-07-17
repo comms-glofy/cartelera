@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T17:36:22Z",
+  "updated": "2026-07-17T18:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "meteorito",
-      "traffic": "200+",
+      "name": "puente",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "quien canta el himno argentino en el mundial 2026",
+      "name": "meteorito",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marc cucurella",
-      "traffic": "500+",
+      "name": "quien canta el himno argentino en el mundial 2026",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "guatemala",
-      "traffic": "2000+",
+      "name": "marc cucurella",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "uruguay",
+      "name": "refinanciación",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "antonio mohamed",
+      "name": "guatemala",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "2000+",
+      "name": "uruguay",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "carmen de areco",
+      "name": "antonio mohamed",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "amia",
+      "name": "juan manuel cerúndolo",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "lu24",
-      "traffic": "200+",
+      "name": "amia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
