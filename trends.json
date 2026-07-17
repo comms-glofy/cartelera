@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T22:30:16Z",
+  "updated": "2026-07-17T23:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fluminense - bragantino",
-      "traffic": "200+",
+      "name": "colon",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "fluminense - bragantino",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "asueto",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "meteored",
-      "traffic": "2000+",
-      "rank": 3
+      "traffic": "500000+",
+      "rank": 4
     },
     {
       "name": "marca",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "rodri",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "river hoy",
-      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "nueva chicago",
-      "traffic": "200+",
+      "name": "river hoy",
+      "traffic": "10000+",
       "rank": 7
+    },
+    {
+      "name": "nueva chicago",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "juego de tronos",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "justicia",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "san lorenzo - deportivo riestra",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
