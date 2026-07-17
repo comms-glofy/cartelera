@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-17T23:00:17Z",
+  "updated": "2026-07-17T23:22:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colon",
-      "traffic": "500+",
+      "name": "conferencia de prensa scaloni",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fluminense - bragantino",
-      "traffic": "500+",
+      "name": "mirassol - grêmio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "asueto",
+      "name": "bahía - chapecoense",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "meteored",
-      "traffic": "500000+",
+      "name": "nacional b",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "marca",
+      "name": "tom brady",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "rodri",
-      "traffic": "200+",
+      "name": "el niño",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "river hoy",
-      "traffic": "10000+",
+      "name": "álvaro montero",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "nueva chicago",
-      "traffic": "500+",
+      "name": "viento",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juego de tronos",
+      "name": "18 de julio",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "justicia",
+      "name": "colon",
       "traffic": "1000+",
       "rank": 10
     }
