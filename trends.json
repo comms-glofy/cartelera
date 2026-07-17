@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T00:30:28Z",
+  "updated": "2026-07-17T01:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "slavko vinčić",
+      "name": "tomas dente",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "sarmiento - boca juniors",
-      "traffic": "100000+",
+      "name": "valle salvaje",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "javier milei",
-      "traffic": "500+",
+      "name": "slavko vinčić",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "weather tomorrow",
-      "traffic": "500+",
+      "name": "sarmiento - boca juniors",
+      "traffic": "200000+",
       "rank": 4
     },
     {
-      "name": "marcos rojo",
-      "traffic": "200+",
+      "name": "javier milei",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "tiempo de mañana",
+      "traffic": "500000+",
+      "rank": 6
+    },
+    {
+      "name": "weather tomorrow",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "cuando juega river",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "alta montaña",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "san lorenzo",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "botafogo - santos",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "marcelo tinelli",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
