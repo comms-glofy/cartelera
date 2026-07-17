@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T22:00:16Z",
+  "updated": "2026-07-17T22:13:10Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rodri",
-      "traffic": "200+",
+      "name": "marca",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "nueva chicago",
+      "name": "rodri",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juego de tronos",
-      "traffic": "100+",
+      "name": "river hoy",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "justicia",
-      "traffic": "500+",
+      "name": "nueva chicago",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "san lorenzo - deportivo riestra",
-      "traffic": "20000+",
+      "name": "juego de tronos",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "petrolero",
+      "name": "justicia",
       "traffic": "2000+",
       "rank": 6
     },
     {
+      "name": "san lorenzo - deportivo riestra",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "petrolero",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
       "name": "chevrolet onix",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "deportivo toluca fútbol club",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "lotería chaqueña",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "will ferrell",
-      "traffic": "200+",
       "rank": 10
     }
   ]
