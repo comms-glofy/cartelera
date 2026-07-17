@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T06:00:14Z",
+  "updated": "2026-07-17T06:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "velada del año 2026",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "quentin tarantino",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "corte de luz",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima mar del plata",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mls",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "necaxa",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "zeballos",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "boc",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "luciana salazar",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "independiente",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "quini 6",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
