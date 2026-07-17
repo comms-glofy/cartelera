@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T09:30:14Z",
+  "updated": "2026-07-17T09:53:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "smn",
-      "traffic": "500+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "pronostico",
-      "traffic": "2000+",
+      "name": "clima rosario",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "el tiempo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima de hoy",
+      "name": "ángel de brito",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tiempo hoy",
-      "traffic": "500+",
+      "name": "weather",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "velada del año 2026",
+      "name": "pronostico caba",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "quentin tarantino",
-      "traffic": "200+",
+      "name": "clima la plata",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "la velada",
-      "traffic": "200+",
+      "name": "clima para hoy",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "corte de luz",
-      "traffic": "100+",
+      "name": "smn",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "500+",
+      "name": "clima hoy",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
