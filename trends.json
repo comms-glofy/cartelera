@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-17T14:00:25Z",
+  "updated": "2026-07-17T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "alerta de tsunami",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "river id",
       "traffic": "20000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "carmen de areco",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "amia",
-      "traffic": "2000+",
       "rank": 4
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "granizo",
+      "traffic": "5000+",
+      "rank": 7
+    },
+    {
       "name": "windy",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "el tiempo en buenos aires",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tiempo en cordoba",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "apagón eléctrico",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
