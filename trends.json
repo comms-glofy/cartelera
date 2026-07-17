@@ -1,50 +1,50 @@
 {
-  "updated": "2026-07-17T04:30:15Z",
+  "updated": "2026-07-17T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corte de luz",
+      "name": "quentin tarantino",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "corte de luz",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "clima mar del plata",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mls",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "milei",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "necaxa",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "zeballos",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "boc",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "luciana salazar",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "murio gaspi",
+      "name": "luciana salazar",
       "traffic": "200+",
       "rank": 9
     },
