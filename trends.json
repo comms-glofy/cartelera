@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-17T19:01:37Z",
+  "updated": "2026-07-17T19:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "will ferrell",
+      "name": "lotería chaqueña",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ciclón",
+      "name": "will ferrell",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "allanamiento",
-      "traffic": "200+",
+      "name": "ciclón",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "meteorito",
-      "traffic": "500+",
+      "name": "allanamiento",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "quien canta el himno argentino en el mundial 2026",
-      "traffic": "500+",
+      "name": "meteorito",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "puente",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "quien canta el himno argentino en el mundial 2026",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "marc cucurella",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "refinanciación",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "guatemala",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "uruguay",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "antonio mohamed",
+      "name": "guatemala",
       "traffic": "2000+",
       "rank": 10
     }
