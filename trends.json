@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T11:19:04Z",
+  "updated": "2026-07-17T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima tucuman",
-      "traffic": "200+",
+      "name": "accuweather",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "granizo",
+      "name": "clima tucuman",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "windy",
+      "name": "granizo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "el tiempo en buenos aires",
-      "traffic": "100+",
+      "name": "windy",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tiempo en cordoba",
+      "name": "el tiempo en buenos aires",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "tiempo en cordoba",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "apagón eléctrico",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tiempo",
-      "traffic": "50000+",
-      "rank": 8
+      "traffic": "500000+",
+      "rank": 9
     },
     {
       "name": "weather",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "ángel de brito",
-      "traffic": "200+",
       "rank": 10
     }
   ]
