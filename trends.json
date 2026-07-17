@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-17T09:53:32Z",
+  "updated": "2026-07-17T10:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "clima",
-      "traffic": "50000+",
+      "traffic": "100000+",
       "rank": 1
     },
     {
-      "name": "clima rosario",
+      "name": "weather",
       "traffic": "200+",
       "rank": 2
     },
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "weather",
+      "name": "clima rosario",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pronostico caba",
-      "traffic": "100+",
+      "name": "temperatura caba",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima la plata",
+      "name": "pronostico caba",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "clima para hoy",
+      "name": "clima la plata",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "smn",
-      "traffic": "1000+",
+      "name": "pronostico rosario",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "smn",
+      "traffic": "500+",
       "rank": 10
     }
   ]
