@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T03:00:19Z",
+  "updated": "2026-07-17T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luciana salazar",
+      "name": "necaxa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "boc",
-      "traffic": "200+",
+      "name": "zeballos",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "murio gaspi",
+      "name": "boc",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lozano boca",
-      "traffic": "500+",
+      "name": "luciana salazar",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "independiente",
-      "traffic": "500+",
+      "name": "murio gaspi",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "lozano boca",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "independiente",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "quini 6",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tyc sports play",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "valle salvaje",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "tomas dente",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "slavko vinčić",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
