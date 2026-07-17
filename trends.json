@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T10:30:14Z",
+  "updated": "2026-07-17T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "apagón eléctrico",
-      "traffic": "200+",
+      "name": "servicio meteorologico nacional",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "windy",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "tiempo en cordoba",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "el tiempo en buenos aires",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "apagón eléctrico",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "clima",
+      "traffic": "200000+",
+      "rank": 6
     },
     {
       "name": "tiempo",
       "traffic": "20000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "weather",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "el tiempo",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "ángel de brito",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "clima rosario",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "clima la plata",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "pronostico rosario",
-      "traffic": "100+",
+      "name": "ángel de brito",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "temperatura caba",
-      "traffic": "200+",
+      "name": "clima rosario",
+      "traffic": "500+",
       "rank": 10
     }
   ]
