@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T08:30:19Z",
+  "updated": "2026-07-17T09:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo hoy",
-      "traffic": "200+",
+      "name": "clima hoy",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "pronóstico",
-      "traffic": "500+",
+      "name": "pronostico del tiempo",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "velada del año 2026",
+      "name": "clima de hoy",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "quentin tarantino",
+      "name": "tiempo hoy",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "corte de luz",
+      "name": "velada del año 2026",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "500+",
+      "name": "quentin tarantino",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mls",
+      "name": "corte de luz",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "milei",
-      "traffic": "2000+",
+      "name": "clima mar del plata",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "necaxa",
-      "traffic": "200+",
+      "name": "mls",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "zeballos",
-      "traffic": "100+",
+      "name": "milei",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
