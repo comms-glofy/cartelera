@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-17T13:00:19Z",
+  "updated": "2026-07-17T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "river id",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 1
     },
     {
       "name": "juan manuel cerúndolo",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "amia",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "windy",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 7
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "apagón eléctrico",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
