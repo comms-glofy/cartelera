@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-17T23:22:20Z",
+  "updated": "2026-07-17T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "conferencia de prensa scaloni",
-      "traffic": "200+",
+      "name": "federico molinari",
+      "traffic": "100+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "bahía - chapecoense",
-      "traffic": "100+",
+      "name": "conferencia de prensa scaloni",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "nacional b",
+      "name": "bahía - chapecoense",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tom brady",
-      "traffic": "500+",
+      "name": "nacional b",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "el niño",
+      "name": "tom brady",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "álvaro montero",
-      "traffic": "200+",
+      "name": "el niño",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "viento",
+      "name": "álvaro montero",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "18 de julio",
+      "name": "viento",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "colon",
-      "traffic": "1000+",
+      "name": "18 de julio",
+      "traffic": "200+",
       "rank": 10
     }
   ]
