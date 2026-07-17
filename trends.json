@@ -1,36 +1,36 @@
 {
-  "updated": "2026-07-17T17:00:17Z",
+  "updated": "2026-07-17T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "refinanciación",
+      "name": "meteorito",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "marc cucurella",
+      "name": "quien canta el himno argentino en el mundial 2026",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "uruguay",
-      "traffic": "200+",
+      "name": "marc cucurella",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "terremoto mexico",
-      "traffic": "1000+",
+      "name": "guatemala",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "uruguay",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "antonio mohamed",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "river id",
-      "traffic": "20000+",
       "rank": 6
     },
     {
