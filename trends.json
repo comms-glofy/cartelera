@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T09:00:19Z",
+  "updated": "2026-07-17T09:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima hoy",
+      "name": "smn",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "pronostico del tiempo",
-      "traffic": "1000+",
+      "name": "pronostico",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "clima de hoy",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tiempo hoy",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "velada del año 2026",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quentin tarantino",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "la velada",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "corte de luz",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "clima mar del plata",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "mls",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "milei",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
