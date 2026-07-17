@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-17T11:00:15Z",
+  "updated": "2026-07-17T11:19:04Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "servicio meteorologico nacional",
-      "traffic": "500+",
+      "name": "clima tucuman",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "windy",
-      "traffic": "100+",
+      "name": "granizo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tiempo en cordoba",
-      "traffic": "100+",
+      "name": "windy",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "apagón eléctrico",
-      "traffic": "200+",
+      "name": "tiempo en cordoba",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "apagón eléctrico",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 6
-    },
-    {
-      "name": "tiempo",
-      "traffic": "20000+",
       "rank": 7
     },
     {
-      "name": "weather",
-      "traffic": "500+",
+      "name": "tiempo",
+      "traffic": "50000+",
       "rank": 8
+    },
+    {
+      "name": "weather",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "ángel de brito",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima rosario",
-      "traffic": "500+",
       "rank": 10
     }
   ]
