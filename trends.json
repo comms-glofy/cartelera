@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T11:30:15Z",
+  "updated": "2026-07-17T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "accuweather",
-      "traffic": "100+",
+      "name": "carmen de areco",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima tucuman",
+      "name": "amia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "granizo",
-      "traffic": "200+",
+      "name": "lu24",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "windy",
-      "traffic": "200+",
+      "name": "accuweather",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "granizo",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "windy",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "el tiempo en buenos aires",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "tiempo en cordoba",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "apagón eléctrico",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "clima",
-      "traffic": "200000+",
-      "rank": 8
-    },
-    {
-      "name": "tiempo",
-      "traffic": "500000+",
       "rank": 9
     },
     {
-      "name": "weather",
-      "traffic": "1000+",
+      "name": "clima",
+      "traffic": "1000000+",
       "rank": 10
     }
   ]
