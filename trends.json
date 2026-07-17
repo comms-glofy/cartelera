@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T15:30:26Z",
+  "updated": "2026-07-17T16:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "juan manuel cerúndolo",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "granizo",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
       "name": "windy",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "el tiempo en buenos aires",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tiempo en cordoba",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "apagón eléctrico",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
