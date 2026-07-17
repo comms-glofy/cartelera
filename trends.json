@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T07:32:39Z",
+  "updated": "2026-07-17T08:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
+      "name": "milei",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "necaxa",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "zeballos",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "boc",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "luciana salazar",
+      "name": "boc",
       "traffic": "200+",
       "rank": 10
     }
