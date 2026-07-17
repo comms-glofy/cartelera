@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-17T21:20:39Z",
+  "updated": "2026-07-17T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "juego de tronos",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "justicia",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "petrolero",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "chevrolet onix",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "deportivo toluca fútbol club",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lotería chaqueña",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "will ferrell",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ciclón",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "allanamiento",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "meteorito",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "puente",
+      "name": "meteorito",
       "traffic": "2000+",
       "rank": 10
     }
