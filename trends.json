@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-17T21:00:19Z",
+  "updated": "2026-07-17T21:20:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "justicia",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "petrolero",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "chevrolet onix",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "a qué hora juega river",
-      "traffic": "5000+",
       "rank": 3
     },
     {
       "name": "deportivo toluca fútbol club",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 4
     },
     {
