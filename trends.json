@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T14:34:28Z",
+  "updated": "2026-07-18T15:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester united - wrexham",
+      "name": "rot-weiß oberhausen - dortmund",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "notts county - nottingham forest",
-      "traffic": "500+",
+      "name": "manchester united - wrexham",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "los pumas vs inglaterra",
+      "name": "notts county - nottingham forest",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "los pumas vs inglaterra",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "transporte público",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "basel - juventus",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "camiseta",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "intendente",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "yamal",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "irán",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "francia inglaterra",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
