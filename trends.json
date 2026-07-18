@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T12:00:13Z",
+  "updated": "2026-07-18T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "francia inglaterra",
-      "traffic": "500+",
+      "name": "yamal",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clasificacion f1",
-      "traffic": "200+",
+      "name": "irán",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "martín menem",
-      "traffic": "100+",
+      "name": "francia inglaterra",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "2000+",
+      "name": "clasificacion f1",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "tiempo en rosario",
-      "traffic": "100+",
+      "name": "martín menem",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "nasa",
+      "name": "juan manuel cerúndolo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "tiempo en rosario",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "condena",
+      "name": "nasa",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "accidente",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 9
     },
     {
-      "name": "agencia nacional de seguridad vial",
-      "traffic": "200+",
+      "name": "condena",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
