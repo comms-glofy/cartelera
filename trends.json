@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T02:30:12Z",
+  "updated": "2026-07-18T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "incendio en salta",
+      "name": "libia",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lucas beltrán",
-      "traffic": "1000+",
+      "name": "river va",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "independiente",
-      "traffic": "500+",
+      "name": "incendio en salta",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "estadio padre ernesto martearena",
+      "name": "lucas beltrán",
       "traffic": "1000+",
       "rank": 4
     },
     {
+      "name": "independiente",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "estadio padre ernesto martearena",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
       "name": "natacha jaitt",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "river plate - aldosivi",
       "traffic": "500000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "temperley",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "atlético nacional - deportivo táchira",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "olimpia",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "adabel guerrero",
-      "traffic": "200+",
       "rank": 10
     }
   ]
