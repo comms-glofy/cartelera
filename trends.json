@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T01:00:13Z",
+  "updated": "2026-07-18T01:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "river plate - aldosivi",
-      "traffic": "200000+",
+      "name": "lucas beltrán",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "atlético nacional - deportivo táchira",
+      "name": "independiente",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "temperley",
+      "name": "natacha jaitt",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "olimpia",
-      "traffic": "200+",
+      "name": "river plate - aldosivi",
+      "traffic": "200000+",
       "rank": 4
     },
     {
-      "name": "adabel guerrero",
-      "traffic": "200+",
+      "name": "temperley",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "olimpia",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "weather tomorrow",
+      "name": "atlético nacional - deportivo táchira",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "federico molinari",
+      "name": "adabel guerrero",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mirassol - grêmio",
-      "traffic": "500+",
+      "name": "tiempo de mañana",
+      "traffic": "500000+",
       "rank": 9
     },
     {
-      "name": "conferencia de prensa scaloni",
-      "traffic": "200+",
+      "name": "weather tomorrow",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
