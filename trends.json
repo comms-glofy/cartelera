@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-18T02:00:14Z",
+  "updated": "2026-07-18T02:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lucas beltrán",
-      "traffic": "500+",
+      "name": "incendio en salta",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "independiente",
-      "traffic": "200+",
+      "name": "lucas beltrán",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "independiente",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "estadio padre ernesto martearena",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "natacha jaitt",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "river plate - aldosivi",
-      "traffic": "200000+",
       "rank": 5
     },
     {
-      "name": "temperley",
-      "traffic": "500+",
+      "name": "river plate - aldosivi",
+      "traffic": "500000+",
       "rank": 6
     },
     {
-      "name": "olimpia",
-      "traffic": "200+",
+      "name": "temperley",
+      "traffic": "1000+",
       "rank": 7
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "adabel guerrero",
+      "name": "olimpia",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "500000+",
+      "name": "adabel guerrero",
+      "traffic": "200+",
       "rank": 10
     }
   ]
