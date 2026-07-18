@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T11:00:13Z",
+  "updated": "2026-07-18T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nasa",
+      "name": "martín menem",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "condena",
-      "traffic": "200+",
+      "name": "tiempo en rosario",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "agencia nacional de seguridad vial",
-      "traffic": "100+",
+      "name": "nasa",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "grok",
-      "traffic": "100+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 5
     },
     {
-      "name": "clima parana",
-      "traffic": "100+",
+      "name": "condena",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "selección argentina",
-      "traffic": "500+",
+      "name": "accidente",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "inglaterra vs francia",
+      "name": "agencia nacional de seguridad vial",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "heartstopper",
+      "name": "grok",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "la pagina millonaria",
-      "traffic": "200+",
+      "name": "clima parana",
+      "traffic": "100+",
       "rank": 10
     }
   ]
