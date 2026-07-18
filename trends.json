@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T20:00:15Z",
+  "updated": "2026-07-18T20:04:47Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "phil foden",
+      "name": "mar del plata",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "luis zahera",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "rugby",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "phil foden",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "ruta nacional 9",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "peñarol - boston river",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "fecha",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "erupción volcánica",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "laporte",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "leioa - athletic",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "parrilla de salida",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "lucas trejo",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "periodista",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
