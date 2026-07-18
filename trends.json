@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T03:30:14Z",
+  "updated": "2026-07-18T03:52:06Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
-      "name": "arambarri",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
       "name": "lucas beltrán",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "independiente",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "estadio padre ernesto martearena",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "natacha jaitt",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "river plate - aldosivi",
       "traffic": "500000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "temperley",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "atlético nacional - deportivo táchira",
       "traffic": "500+",
       "rank": 10
     }
