@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T17:53:44Z",
+  "updated": "2026-07-18T18:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,47 +9,47 @@
       "rank": 1
     },
     {
-      "name": "lucas trejo",
+      "name": "parrilla de salida",
       "traffic": "500+",
       "rank": 2
     },
     {
+      "name": "lucas trejo",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "periodista",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "kevin durant",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "fuerza aérea",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "iprofesional",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "rot-weiß oberhausen - dortmund",
-      "traffic": "1000+",
-      "rank": 7
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "manchester united - wrexham",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "sf baumberg - leverkusen",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "notts county - nottingham forest",
+      "name": "sf baumberg - leverkusen",
       "traffic": "1000+",
       "rank": 10
     }
