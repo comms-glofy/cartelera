@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-18T21:13:19Z",
+  "updated": "2026-07-18T21:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "frança x inglaterra",
+      "name": "vicente del bosque",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "propiedad privada",
+      "name": "frança x inglaterra",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "donato de santis",
-      "traffic": "500+",
+      "name": "propiedad privada",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "france vs england",
-      "traffic": "2000+",
+      "name": "donato de santis",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "francia - inglaterra",
-      "traffic": "200000+",
+      "name": "france vs england",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "islas malvinas",
-      "traffic": "5000+",
+      "name": "francia - inglaterra",
+      "traffic": "500000+",
       "rank": 6
+    },
+    {
+      "name": "islas malvinas",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "mar del plata",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "luis zahera",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "rugby",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "phil foden",
+      "name": "rugby",
       "traffic": "500+",
       "rank": 10
     }
