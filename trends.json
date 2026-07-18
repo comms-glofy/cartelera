@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T15:52:44Z",
+  "updated": "2026-07-18T16:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "fuerza aérea",
+      "name": "manchester united",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rot-weiß oberhausen - dortmund",
-      "traffic": "500+",
+      "name": "fuerza aérea",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "rot-weiß oberhausen - dortmund",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "manchester united - wrexham",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "sf baumberg - leverkusen",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "notts county - nottingham forest",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "sportfreunde lotte - real betis",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "los pumas vs inglaterra",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "transporte público",
-      "traffic": "500+",
       "rank": 10
     }
   ]
