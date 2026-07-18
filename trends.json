@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T19:00:16Z",
+  "updated": "2026-07-18T19:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peñarol - boston river",
-      "traffic": "500+",
+      "name": "phil foden",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fecha",
-      "traffic": "1000+",
+      "name": "ruta nacional 9",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "peñarol - boston river",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "fecha",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "erupción volcánica",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "laporte",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "leioa - athletic",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "parrilla de salida",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "lucas trejo",
-      "traffic": "1000+",
-      "rank": 7
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "periodista",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "kevin durant",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "fuerza aérea",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
