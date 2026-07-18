@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-18T16:30:15Z",
+  "updated": "2026-07-18T16:53:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "periodista",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "manchester united - wrexham",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 7
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "sportfreunde lotte - real betis",
-      "traffic": "500+",
+      "name": "qualy f1",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
