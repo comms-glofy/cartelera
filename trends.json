@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T23:30:14Z",
+  "updated": "2026-07-18T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "federico molinari",
-      "traffic": "100+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 1
     },
     {
-      "name": "mirassol - grêmio",
+      "name": "weather tomorrow",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "federico molinari",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "mirassol - grêmio",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "conferencia de prensa scaloni",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "bahía - chapecoense",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "nacional b",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "tom brady",
-      "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "el niño",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "álvaro montero",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "viento",
-      "traffic": "200+",
+      "name": "tom brady",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "18 de julio",
-      "traffic": "200+",
+      "name": "viento",
+      "traffic": "500+",
       "rank": 10
     }
   ]
