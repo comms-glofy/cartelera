@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T06:01:37Z",
+  "updated": "2026-07-18T06:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima parana",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "selección argentina",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "inglaterra vs francia",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "heartstopper",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "la pagina millonaria",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "evelyn botto",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "libia",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "river va",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "independiente",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "estadio padre ernesto martearena",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "natacha jaitt",
-      "traffic": "200+",
       "rank": 10
     }
   ]
