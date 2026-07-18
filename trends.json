@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T13:00:15Z",
+  "updated": "2026-07-18T13:26:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "basel - juventus",
+      "name": "los pumas vs inglaterra",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "intendente",
-      "traffic": "200+",
+      "name": "transporte público",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "camiseta",
-      "traffic": "200+",
+      "name": "basel - juventus",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "yamal",
+      "name": "intendente",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "irán",
-      "traffic": "100+",
+      "name": "camiseta",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "yamal",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "irán",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "francia inglaterra",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "clasificacion f1",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "martín menem",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "500+",
+      "name": "clasificacion f1",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "tiempo en rosario",
-      "traffic": "100+",
+      "name": "martín menem",
+      "traffic": "500+",
       "rank": 10
     }
   ]
