@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-18T10:30:14Z",
+  "updated": "2026-07-18T10:59:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "nasa",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "condena",
-      "traffic": "1000+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 2
+    },
+    {
+      "name": "condena",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "agencia nacional de seguridad vial",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "grok",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima parana",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "selección argentina",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "inglaterra vs francia",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "heartstopper",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "la pagina millonaria",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "evelyn botto",
+      "name": "la pagina millonaria",
       "traffic": "200+",
       "rank": 10
     }
