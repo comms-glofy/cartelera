@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T00:00:15Z",
+  "updated": "2026-07-18T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "river plate - aldosivi",
+      "traffic": "100000+",
       "rank": 1
     },
     {
-      "name": "weather tomorrow",
+      "name": "atlético nacional - deportivo táchira",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "federico molinari",
-      "traffic": "100+",
+      "name": "temperley",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mirassol - grêmio",
+      "name": "olimpia",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "conferencia de prensa scaloni",
-      "traffic": "200+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 5
     },
     {
-      "name": "bahía - chapecoense",
-      "traffic": "100+",
+      "name": "weather tomorrow",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "nacional b",
-      "traffic": "100+",
+      "name": "federico molinari",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "el niño",
+      "name": "mirassol - grêmio",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "tom brady",
-      "traffic": "500+",
+      "name": "conferencia de prensa scaloni",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "viento",
-      "traffic": "500+",
+      "name": "bahía - chapecoense",
+      "traffic": "100+",
       "rank": 10
     }
   ]
