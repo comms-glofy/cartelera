@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-18T18:00:15Z",
+  "updated": "2026-07-18T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "leioa - athletic",
-      "traffic": "200+",
+      "name": "fecha",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "parrilla de salida",
-      "traffic": "500+",
+      "name": "erupción volcánica",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lucas trejo",
-      "traffic": "500+",
+      "name": "laporte",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "leioa - athletic",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "parrilla de salida",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "lucas trejo",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "periodista",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "kevin durant",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "fuerza aérea",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "iprofesional",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "rot-weiß oberhausen - dortmund",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "manchester united - wrexham",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "sf baumberg - leverkusen",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
