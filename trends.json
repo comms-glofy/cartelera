@@ -1,46 +1,46 @@
 {
-  "updated": "2026-07-18T17:00:18Z",
+  "updated": "2026-07-18T17:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "periodista",
-      "traffic": "2000+",
+      "name": "parrilla de salida",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "kevin durant",
-      "traffic": "200+",
+      "name": "lucas trejo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "manchester united",
-      "traffic": "500+",
+      "name": "periodista",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "fuerza aérea",
-      "traffic": "200+",
+      "name": "kevin durant",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "iprofesional",
+      "name": "fuerza aérea",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "iprofesional",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "rot-weiß oberhausen - dortmund",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "manchester united - wrexham",
       "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "notts county - nottingham forest",
-      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,7 +49,7 @@
       "rank": 9
     },
     {
-      "name": "qualy f1",
+      "name": "notts county - nottingham forest",
       "traffic": "1000+",
       "rank": 10
     }
