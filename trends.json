@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-18T15:30:13Z",
+  "updated": "2026-07-18T15:52:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kevin durant",
-      "traffic": "100+",
+      "name": "periodista",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "manchester united",
-      "traffic": "200+",
+      "name": "kevin durant",
+      "traffic": "100+",
       "rank": 2
     },
     {
@@ -29,12 +29,12 @@
       "rank": 5
     },
     {
-      "name": "notts county - nottingham forest",
+      "name": "sf baumberg - leverkusen",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "sf baumberg - leverkusen",
+      "name": "notts county - nottingham forest",
       "traffic": "500+",
       "rank": 7
     },
@@ -50,7 +50,7 @@
     },
     {
       "name": "transporte público",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 10
     }
   ]
