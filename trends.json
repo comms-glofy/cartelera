@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T00:30:17Z",
+  "updated": "2026-07-19T00:58:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "suprema corte de justicia de la nación",
-      "traffic": "200+",
+      "name": "pamela david",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "spain vs argentina world cup 2026",
+      "name": "loteria nacional nocturna",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "play store",
-      "traffic": "100+",
+      "name": "suprema corte de justicia de la nación",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "maria becerra",
-      "traffic": "500+",
+      "name": "spain vs argentina world cup 2026",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "play store",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "maria becerra",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "barcelona sc - libertad fc",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "google",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "fondo monetario internacional",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "millonarios - colo-colo",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ester exposito",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "argentina en la copa mundial de fútbol",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
