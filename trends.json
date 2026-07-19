@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T11:30:15Z",
+  "updated": "2026-07-19T11:54:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "condena",
-      "traffic": "500+",
+      "name": "la nacion",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "jamie campbell-walter",
-      "traffic": "100+",
+      "name": "carrera f1 hoy",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "condena",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "jamie campbell-walter",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "infobae",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "quiebra",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "kramatorsk",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "america vs",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "fifa argentina malvinas",
-      "traffic": "5000+",
-      "rank": 7
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "final de la copa del mundo 2026",
       "traffic": "50000+",
-      "rank": 8
-    },
-    {
-      "name": "kamaru usman",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "vicky xipolitakis",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
