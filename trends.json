@@ -1,31 +1,31 @@
 {
-  "updated": "2026-07-19T14:30:15Z",
+  "updated": "2026-07-19T14:37:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "antonelli",
-      "traffic": "100+",
+      "name": "sorteo loto plus",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "kimi antonelli",
+      "name": "antonelli",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "kimi antonelli",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "transporte",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "disney plus",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "cadena 3",
-      "traffic": "100+",
       "rank": 5
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "loto plus",
+      "name": "reconquista hoy",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "reconquista hoy",
-      "traffic": "200+",
+      "name": "tn",
+      "traffic": "100+",
       "rank": 10
     }
   ]
