@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-19T20:30:14Z",
+  "updated": "2026-07-19T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ted lasso",
-      "traffic": "1000+",
+      "name": "olmo dani",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "carlos miguens",
-      "traffic": "200+",
+      "name": "ferran torres",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "medina",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "ted lasso",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "carlos miguens",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "elmo",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "mirtha legrand",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "maradona",
-      "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "global citizen",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "dudamel",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "pele",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "ronaldo nazario",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "ronaldo",
-      "traffic": "1000+",
+      "name": "hailey bieber",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "justin",
+      "name": "maradona",
       "traffic": "500+",
       "rank": 10
     }
