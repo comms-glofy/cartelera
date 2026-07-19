@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T13:00:14Z",
+  "updated": "2026-07-19T13:09:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "murió fer gym",
-      "traffic": "100+",
+      "name": "disney plus",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "milton delgado",
+      "name": "murió fer gym",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "milton delgado",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "loto plus",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "gendarmería",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "reconquista hoy",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "smn",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "temporal",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "reforma electoral",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "la nacion",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "la gaceta",
-      "traffic": "100+",
+      "name": "la nacion",
+      "traffic": "200+",
       "rank": 10
     }
   ]
