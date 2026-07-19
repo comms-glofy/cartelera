@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T12:00:14Z",
+  "updated": "2026-07-19T12:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la nacion",
+      "name": "reconquista hoy",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "carrera f1 hoy",
-      "traffic": "200+",
+      "name": "reforma electoral",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "condena",
-      "traffic": "500+",
+      "name": "temporal",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "formula 1 hoy",
+      "traffic": "10000+",
+      "rank": 4
+    },
+    {
+      "name": "la nacion",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "la gaceta",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "carrera f1 hoy",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "condena",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "jamie campbell-walter",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "infobae",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "quiebra",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "kramatorsk",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "america vs",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "fifa argentina malvinas",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "final de la copa del mundo 2026",
-      "traffic": "50000+",
+      "name": "infobae",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
