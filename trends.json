@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T20:22:22Z",
+  "updated": "2026-07-19T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dudamel",
-      "traffic": "2000+",
+      "name": "ted lasso",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "ronaldo nazario",
-      "traffic": "2000+",
+      "name": "carlos miguens",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ronaldinho",
-      "traffic": "1000+",
+      "name": "mirtha legrand",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "will ferrell",
-      "traffic": "1000+",
+      "name": "maradona",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "global citizen",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "dudamel",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "pele",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "pique",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "victor wembanyama",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "coldplay",
-      "traffic": "200+",
+      "name": "ronaldo nazario",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "ángel correa",
-      "traffic": "200+",
+      "name": "ronaldo",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "yamal edad",
-      "traffic": "200+",
+      "name": "justin",
+      "traffic": "500+",
       "rank": 10
     }
   ]
