@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T00:00:14Z",
+  "updated": "2026-07-19T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -30,12 +30,12 @@
     },
     {
       "name": "google",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 6
     },
     {
       "name": "fondo monetario internacional",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 7
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "argentina en la copa mundial de fútbol",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
