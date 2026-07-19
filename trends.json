@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T08:00:16Z",
+  "updated": "2026-07-19T08:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,47 +9,47 @@
       "rank": 1
     },
     {
+      "name": "fifa argentina malvinas",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
       "name": "final de la copa del mundo 2026",
       "traffic": "50000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "kamaru usman",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "vicky xipolitakis",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "flavio mendoza",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "maría belén ludueña",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "jorge macri",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "netflix",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "pamela david",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "loteria nacional nocturna",
+      "name": "pamela david",
       "traffic": "500+",
       "rank": 10
     }
