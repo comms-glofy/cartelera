@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T19:02:04Z",
+  "updated": "2026-07-19T19:30:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "robin williams",
+      "name": "espn",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "iniesta",
+      "name": "trump",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nicole scherzinger",
-      "traffic": "100+",
+      "name": "clima new york",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "paramount",
-      "traffic": "200+",
+      "name": "porro",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "espanha x argentina",
+      "name": "fabian ruiz",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "mario kempes",
-      "traffic": "100+",
+      "name": "robbie williams desire (official fifa anthem)",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "marc cucurella",
-      "traffic": "2000+",
+      "name": "radio la red",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "otamendi",
-      "traffic": "1000+",
+      "name": "rey de españa",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tyc sports en vivo",
+      "name": "mí telefe en vivo",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "colectivos mundial",
-      "traffic": "1000+",
+      "name": "marc pubill",
+      "traffic": "200+",
       "rank": 10
     }
   ]
