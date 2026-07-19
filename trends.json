@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T13:09:30Z",
+  "updated": "2026-07-19T13:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "loto plus",
-      "traffic": "200+",
+      "name": "gendarmería",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gendarmería",
-      "traffic": "100+",
+      "name": "loto plus",
+      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "reconquista hoy",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "smn",
+      "name": "tn",
       "traffic": "100+",
       "rank": 7
     },
     {
+      "name": "smn",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "temporal",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "reforma electoral",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "la nacion",
-      "traffic": "200+",
       "rank": 10
     }
   ]
