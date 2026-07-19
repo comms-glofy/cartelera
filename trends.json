@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-19T02:30:18Z",
+  "updated": "2026-07-19T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "kamaru usman",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "vicky xipolitakis",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "flavio mendoza",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "jorge macri",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "cristina fernández de kirchner",
-      "traffic": "100+",
       "rank": 4
     },
     {
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "pamela david",
-      "traffic": "500+",
+      "name": "cristina fernández de kirchner",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "loteria nacional nocturna",
+      "name": "pamela david",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "suprema corte de justicia de la nación",
-      "traffic": "1000+",
+      "name": "loteria nacional nocturna",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "spain vs argentina world cup 2026",
-      "traffic": "200+",
+      "name": "suprema corte de justicia de la nación",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "play store",
+      "name": "spain vs argentina world cup 2026",
       "traffic": "200+",
       "rank": 10
     }
