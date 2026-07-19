@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T01:00:13Z",
+  "updated": "2026-07-19T01:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pamela david",
-      "traffic": "500+",
+      "name": "jorge macri",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "loteria nacional nocturna",
-      "traffic": "200+",
+      "name": "netflix",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "suprema corte de justicia de la nación",
+      "name": "pamela david",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "loteria nacional nocturna",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "suprema corte de justicia de la nación",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "spain vs argentina world cup 2026",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "play store",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "maria becerra",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "barcelona sc - libertad fc",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "google",
-      "traffic": "500+",
+      "name": "maria becerra",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "fondo monetario internacional",
-      "traffic": "1000+",
+      "name": "barcelona sc - libertad fc",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "millonarios - colo-colo",
-      "traffic": "200+",
+      "name": "google",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
