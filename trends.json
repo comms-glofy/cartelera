@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T13:30:13Z",
+  "updated": "2026-07-19T14:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "disney plus",
+      "name": "transporte",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "murió fer gym",
-      "traffic": "100+",
+      "name": "disney plus",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "milton delgado",
+      "name": "murió fer gym",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "gendarmería",
-      "traffic": "100+",
+      "name": "milton delgado",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "loto plus",
+      "name": "gendarmería",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "reconquista hoy",
+      "name": "loto plus",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tn",
-      "traffic": "100+",
+      "name": "reconquista hoy",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "smn",
+      "name": "tn",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "temporal",
-      "traffic": "200+",
+      "name": "smn",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "reforma electoral",
-      "traffic": "100+",
+      "name": "temporal",
+      "traffic": "200+",
       "rank": 10
     }
   ]
