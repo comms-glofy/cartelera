@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T23:00:14Z",
+  "updated": "2026-07-19T23:28:03Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telekino",
-      "traffic": "500+",
+      "name": "tn noticias",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "balon de oro 2026",
+      "name": "premios mundial 2026",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "messi",
-      "traffic": "10000+",
+      "name": "hay colectivos hoy",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "presidenta de mexico",
-      "traffic": "2000+",
+      "name": "messi con la copa del mundo",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "rodrigo de paul",
-      "traffic": "2000+",
+      "name": "dybala",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lionel messi",
-      "traffic": "5000+",
+      "name": "alta montaña",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "presidente de españa",
-      "traffic": "500+",
+      "name": "liga argentina",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "thiago messi",
-      "traffic": "500+",
+      "name": "rosario central",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "chiqui tapia",
-      "traffic": "500+",
+      "name": "mundial 2018 argentina",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "edad de messi",
-      "traffic": "200+",
+      "name": "mundial 1990",
+      "traffic": "100+",
       "rank": 10
     }
   ]
