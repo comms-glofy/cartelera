@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T15:00:17Z",
+  "updated": "2026-07-19T15:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arquero de españa",
-      "traffic": "200+",
+      "name": "quien gana el mundial 2026",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "max verstappen",
+      "name": "you",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "falleció fer gym",
-      "traffic": "500+",
+      "name": "arquero de españa",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sorteo loto plus",
+      "name": "verstappen",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "falleció fer gym",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "max verstappen",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "kimi antonelli",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "antonelli",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "colapinto",
-      "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "transporte",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "disney plus",
-      "traffic": "200+",
+      "name": "colapinto",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "cadena 3",
-      "traffic": "100+",
+      "name": "transporte",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
