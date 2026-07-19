@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T02:00:15Z",
+  "updated": "2026-07-19T02:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "xipolitakis",
-      "traffic": "200+",
+      "name": "vicky xipolitakis",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "flavio mendoza",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "jorge macri",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "cristina fernández de kirchner",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "netflix",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "pamela david",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "loteria nacional nocturna",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "suprema corte de justicia de la nación",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "spain vs argentina world cup 2026",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "play store",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "maria becerra",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "barcelona sc - libertad fc",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
