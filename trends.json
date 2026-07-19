@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T10:51:53Z",
+  "updated": "2026-07-19T11:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "a que hora corre colapinto",
+      "traffic": "10000+",
+      "rank": 1
+    },
+    {
       "name": "america vs",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "fifa argentina malvinas",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "final de la copa del mundo 2026",
       "traffic": "50000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "kamaru usman",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "vicky xipolitakis",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "flavio mendoza",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "maría belén ludueña",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "jorge macri",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "netflix",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "cristina fernández de kirchner",
-      "traffic": "100+",
       "rank": 10
     }
   ]
