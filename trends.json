@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-19T15:30:13Z",
+  "updated": "2026-07-19T15:54:10Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "quien gana el mundial 2026",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "arquero de españa",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "kimi antonelli",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 7
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "colapinto",
-      "traffic": "20000+",
+      "name": "transporte",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "transporte",
-      "traffic": "1000+",
+      "name": "disney plus",
+      "traffic": "200+",
       "rank": 10
     }
   ]
