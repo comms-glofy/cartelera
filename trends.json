@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-19T12:30:17Z",
+  "updated": "2026-07-19T13:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "reconquista hoy",
+      "name": "murió fer gym",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "reforma electoral",
+      "name": "milton delgado",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "temporal",
-      "traffic": "100+",
+      "name": "loto plus",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "formula 1 hoy",
-      "traffic": "10000+",
+      "name": "gendarmería",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "la nacion",
+      "name": "reconquista hoy",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "la gaceta",
+      "name": "smn",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "carrera f1 hoy",
-      "traffic": "1000+",
+      "name": "temporal",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "condena",
-      "traffic": "1000+",
+      "name": "reforma electoral",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "jamie campbell-walter",
-      "traffic": "200+",
+      "name": "la nacion",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "infobae",
-      "traffic": "5000+",
+      "name": "la gaceta",
+      "traffic": "100+",
       "rank": 10
     }
   ]
