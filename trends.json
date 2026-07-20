@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T17:00:18Z",
+  "updated": "2026-07-20T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pierre gasly",
-      "traffic": "500+",
+      "name": "declaración jurada",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fecha de cobro jubilados",
-      "traffic": "500+",
+      "name": "juan ramon carrasco",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pep guardiola",
+      "name": "loan",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "en que equipo juega paredes",
-      "traffic": "20000+",
+      "name": "premio",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "copa sudamericana",
-      "traffic": "100+",
+      "name": "pierre gasly",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "fecha de cobro jubilados",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "pep guardiola",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "en que equipo juega paredes",
+      "traffic": "20000+",
+      "rank": 8
     },
     {
       "name": "banco de la nación argentina",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "quiniela de tucuman",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "imax",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "gustavo mendez",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "telepase",
-      "traffic": "1000+",
+      "name": "copa sudamericana",
+      "traffic": "100+",
       "rank": 10
     }
   ]
