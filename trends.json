@@ -1,51 +1,51 @@
 {
-  "updated": "2026-07-20T15:30:14Z",
+  "updated": "2026-07-20T16:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "imax",
-      "traffic": "200+",
+      "name": "quiniela de tucuman",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "gustavo mendez",
+      "name": "imax",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "telepase",
-      "traffic": "1000+",
+      "name": "gustavo mendez",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mendoza",
+      "name": "telepase",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "argentina da la espalda a españa",
-      "traffic": "2000+",
+      "name": "mendoza",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "argentina da la espalda a españa",
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "brasil",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "la 100 en vivo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "contexto tucuman",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "primicias ya",
-      "traffic": "100+",
       "rank": 9
     },
     {
