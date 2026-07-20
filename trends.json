@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T01:30:22Z",
+  "updated": "2026-07-20T02:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pelé",
-      "traffic": "200+",
+      "name": "diario los andes",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "quini 6 hoy",
+      "name": "hbo",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "justicia",
-      "traffic": "500+",
+      "name": "nico paz",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "orlando gill",
-      "traffic": "500+",
+      "name": "es asueto el lunes 20 de julio",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "telekino 2437",
-      "traffic": "2000+",
+      "name": "pelé",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "independiente del valle - emelec",
+      "name": "justicia",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "alianza lima",
-      "traffic": "200+",
+      "name": "orlando gill",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "feriado 20 de julio 2026",
-      "traffic": "1000+",
+      "name": "telekino 2437",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "cuántos años tiene scaloni",
+      "name": "independiente del valle - emelec",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "netflix",
-      "traffic": "1000+",
+      "name": "alianza lima",
+      "traffic": "500+",
       "rank": 10
     }
   ]
