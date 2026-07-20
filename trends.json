@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-20T18:00:18Z",
+  "updated": "2026-07-20T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "declaración jurada",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
       "name": "juan ramon carrasco",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
       "name": "loan",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "pep guardiola",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 7
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "copa sudamericana",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 10
     }
   ]
