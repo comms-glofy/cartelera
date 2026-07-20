@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T01:05:16Z",
+  "updated": "2026-07-20T01:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "pelé",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "quini 6 hoy",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "justicia",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "orlando gill",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "bet 365",
-      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "independiente del valle - emelec",
-      "traffic": "200+",
+      "name": "telekino 2437",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "independiente del valle - emelec",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "alianza lima",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "feriado 20 de julio 2026",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "cuántos años tiene scaloni",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "netflix",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "scaloni edad",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "premios mundial 2026",
-      "traffic": "500+",
+      "name": "netflix",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
