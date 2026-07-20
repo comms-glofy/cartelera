@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-20T13:00:18Z",
+  "updated": "2026-07-20T13:24:42Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "mendoza",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "argentina da la espalda a españa",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "ambito financiero",
-      "traffic": "500+",
+      "name": "primicias ya",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "minuto uno",
-      "traffic": "500+",
+      "name": "quini 6 del 19 de julio",
+      "traffic": "10000+",
       "rank": 7
+    },
+    {
+      "name": "ambito financiero",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "minuto uno",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "servicio meteorologico nacional",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "mariano navone",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "aire de santa fe",
-      "traffic": "200+",
       "rank": 10
     }
   ]
