@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T11:30:13Z",
+  "updated": "2026-07-20T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ambito financiero",
+      "name": "argentina da la espalda a españa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "minuto uno",
-      "traffic": "200+",
+      "name": "brasil",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "servicio meteorologico nacional",
-      "traffic": "100+",
+      "name": "la 100 en vivo",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "mariano navone",
+      "name": "contexto tucuman",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "el once digital",
-      "traffic": "200+",
+      "name": "primicias ya",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
+      "name": "ambito financiero",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "aire de santa fe",
-      "traffic": "100+",
+      "name": "minuto uno",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "diario de cuyo",
-      "traffic": "500+",
+      "name": "servicio meteorologico nacional",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "el once",
-      "traffic": "200+",
+      "name": "mariano navone",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tiempo en rosario",
-      "traffic": "100+",
+      "name": "el litoral",
+      "traffic": "200+",
       "rank": 10
     }
   ]
