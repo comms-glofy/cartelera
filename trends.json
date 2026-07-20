@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T19:30:18Z",
+  "updated": "2026-07-20T20:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -20,7 +20,7 @@
     },
     {
       "name": "aerolínea",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -30,12 +30,12 @@
     },
     {
       "name": "loan",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 6
     },
     {
       "name": "premio",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 7
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "fecha de cobro jubilados",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
