@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T03:30:15Z",
+  "updated": "2026-07-20T04:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "que dia es hoy",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "que se celebra hoy",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "sheinbaum",
       "traffic": "2000+",
-      "rank": 2
-    },
-    {
-      "name": "que se celebra hoy 20 de julio",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ig",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "alianza lima - sport huancayo",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
       "name": "dia del amigo",
-      "traffic": "5000+",
-      "rank": 6
+      "traffic": "10000+",
+      "rank": 4
     },
     {
       "name": "diario los andes",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "hbo",
-      "traffic": "1000+",
-      "rank": 8
+      "rank": 5
     },
     {
       "name": "noticias",
       "traffic": "200+",
-      "rank": 9
+      "rank": 6
+    },
+    {
+      "name": "hbo",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "nico paz",
-      "traffic": "2000+",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
+      "name": "la nación",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "es asueto el lunes 20 de julio",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
