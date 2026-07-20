@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-20T18:30:14Z",
+  "updated": "2026-07-20T18:52:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "declaración jurada",
-      "traffic": "2000+",
+      "name": "aerolínea",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "juan ramon carrasco",
-      "traffic": "500+",
+      "name": "declaración jurada",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "juan ramon carrasco",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "loan",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "premio",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pierre gasly",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "fecha de cobro jubilados",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pep guardiola",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "en que equipo juega paredes",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "banco de la nación argentina",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "copa sudamericana",
+      "name": "banco de la nación argentina",
       "traffic": "200+",
       "rank": 10
     }
