@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-20T05:30:16Z",
+  "updated": "2026-07-20T06:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "sorteo quini 6",
+      "traffic": "10000+",
+      "rank": 1
+    },
+    {
       "name": "hoy es el dia del amigo",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "que dia es hoy",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "que se celebra hoy",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "sheinbaum",
-      "traffic": "10000+",
       "rank": 4
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "20 de julio",
+      "name": "sheinbaum",
       "traffic": "2000+",
       "rank": 7
     },
     {
+      "name": "20 de julio",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
       "name": "dia del amigo",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "diario los andes",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "noticias",
-      "traffic": "200+",
       "rank": 10
     }
   ]
