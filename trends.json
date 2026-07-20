@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T03:00:15Z",
+  "updated": "2026-07-20T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hbo max",
-      "traffic": "100+",
+      "name": "que dia es hoy",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "dia del amigo",
-      "traffic": "100+",
+      "name": "sheinbaum",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "diario los andes",
-      "traffic": "100+",
+      "name": "que se celebra hoy 20 de julio",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "noticias",
+      "name": "ig",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "alianza lima - sport huancayo",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "dia del amigo",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "diario los andes",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "hbo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "noticias",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "nico paz",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "es asueto el lunes 20 de julio",
-      "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "pelé",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "quini 6 hoy",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "justicia",
-      "traffic": "500+",
       "rank": 10
     }
   ]
