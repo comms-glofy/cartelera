@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T22:00:15Z",
+  "updated": "2026-07-20T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético rosario central",
-      "traffic": "1000+",
+      "name": "copa mundial de la fifa 2026™",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "federico sturzenegger",
-      "traffic": "500+",
+      "name": "patricia bullrich",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "corte suprema",
+      "name": "lara ferreiro",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "finalissima 2026",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "aitana",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "club atlético rosario central",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "federico sturzenegger",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "corte suprema",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "sol pérez",
       "traffic": "100+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "fifa investiga argentina",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "iprofesional",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "asignación universal por hijo",
-      "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "the athletic",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "fuerzas armadas",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "impuesto a las ganancias",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
