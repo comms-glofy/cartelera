@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-20T21:00:18Z",
+  "updated": "2026-07-20T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fifa investiga argentina",
-      "traffic": "2000+",
+      "name": "federico sturzenegger",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "desregulación",
+      "name": "corte suprema",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "iprofesional",
-      "traffic": "200+",
+      "name": "sol pérez",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "asignación universal por hijo",
-      "traffic": "5000+",
+      "name": "fifa investiga argentina",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "the athletic",
-      "traffic": "1000+",
+      "name": "iprofesional",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "asignación universal por hijo",
+      "traffic": "10000+",
+      "rank": 6
+    },
+    {
+      "name": "the athletic",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "fuerzas armadas",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "impuesto a las ganancias",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "aerolínea",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "juan ramon carrasco",
-      "traffic": "500+",
+      "name": "impuesto a las ganancias",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "loan",
+      "name": "aerolínea",
       "traffic": "1000+",
       "rank": 10
     }
