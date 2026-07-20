@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-19T23:30:16Z",
+  "updated": "2026-07-20T00:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tn noticias",
-      "traffic": "100+",
+      "name": "netflix",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "scaloni edad",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "tn noticias",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "premios mundial 2026",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "hay colectivos hoy",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "messi con la copa del mundo",
-      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "liga argentina",
-      "traffic": "200+",
+      "name": "hay colectivos hoy",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "rosario central",
+      "name": "liga argentina",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mundial 2018 argentina",
-      "traffic": "100+",
+      "name": "rosario central",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mundial 1990",
+      "name": "mundial 2018 argentina",
       "traffic": "100+",
       "rank": 10
     }
