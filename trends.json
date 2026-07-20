@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T00:00:21Z",
+  "updated": "2026-07-20T00:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "netflix",
-      "traffic": "1000+",
+      "name": "telekino 2437",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "scaloni edad",
-      "traffic": "100+",
+      "name": "independiente del valle - emelec",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tn noticias",
+      "name": "alianza lima",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "premios mundial 2026",
+      "name": "cuántos años tiene scaloni",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "dybala",
-      "traffic": "200+",
+      "name": "scaloni edad",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "alta montaña",
+      "name": "netflix",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "hay colectivos hoy",
-      "traffic": "2000+",
+      "name": "tn noticias",
+      "traffic": "200+",
       "rank": 7
+    },
+    {
+      "name": "premios mundial 2026",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "es feriado el lunes 20 de julio",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "liga argentina",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "rosario central",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "mundial 2018 argentina",
-      "traffic": "100+",
       "rank": 10
     }
   ]
