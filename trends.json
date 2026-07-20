@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T10:30:14Z",
+  "updated": "2026-07-20T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aire de santa fe",
-      "traffic": "100+",
+      "name": "minuto uno",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "diario de cuyo",
-      "traffic": "200+",
+      "name": "servicio meteorologico nacional",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el once",
-      "traffic": "100+",
+      "name": "mariano navone",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "cadena3",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "el once digital",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "aire de santa fe",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "pronostico cordoba",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "diario de cuyo",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "el once",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "tiempo en rosario",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "pronostico rosario",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "clima cordoba",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "clima rosario",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "temperatura cordoba",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "cronica",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "clima santa fe",
-      "traffic": "200+",
       "rank": 10
     }
   ]
