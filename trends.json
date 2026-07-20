@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T14:00:20Z",
+  "updated": "2026-07-20T14:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,12 +10,12 @@
     },
     {
       "name": "mendoza",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
       "name": "argentina da la espalda a españa",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "la 100 en vivo",
-      "traffic": "500+",
+      "name": "contexto tucuman",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "contexto tucuman",
+      "name": "primicias ya",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "primicias ya",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
       "name": "quini 6 del 19 de julio",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "ambito financiero",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "minuto uno",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "servicio meteorologico nacional",
+      "traffic": "100+",
       "rank": 10
     }
   ]
