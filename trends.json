@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T07:30:12Z",
+  "updated": "2026-07-20T08:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "20 julio",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "que es el 20 de julio",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "hoy es el dia del amigo",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "que dia es hoy",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "que se celebra hoy",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "que se celebra el 20 de julio",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "que se celebra hoy 20 de julio",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "20 de julio",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "dia del amigo",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "diario los andes",
-      "traffic": "100+",
       "rank": 10
     }
   ]
