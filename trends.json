@@ -1,46 +1,46 @@
 {
-  "updated": "2026-07-20T23:30:15Z",
+  "updated": "2026-07-20T23:56:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cami homs",
-      "traffic": "200+",
+      "name": "2026",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "chiqui tapia",
+      "name": "cami homs",
       "traffic": "200+",
       "rank": 2
     },
     {
       "name": "asteroide",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "indemnización por despido",
+      "name": "chiqui tapia",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "indemnización por despido",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "bono",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "copa mundial de la fifa 2026™",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "patricia bullrich",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "lara ferreiro",
-      "traffic": "500+",
+      "name": "patricia bullrich",
+      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "aitana",
-      "traffic": "200+",
+      "name": "lara ferreiro",
+      "traffic": "500+",
       "rank": 10
     }
   ]
