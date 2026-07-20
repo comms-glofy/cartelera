@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T04:00:15Z",
+  "updated": "2026-07-20T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "que dia es hoy",
-      "traffic": "2000+",
+      "name": "hoy es el dia del amigo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "que se celebra hoy",
-      "traffic": "1000+",
+      "name": "que dia es hoy",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "que se celebra hoy 20 de julio",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "que se celebra hoy",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "que se celebra el 20 de julio",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "sheinbaum",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "20 de julio",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "dia del amigo",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "diario los andes",
       "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "noticias",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "hbo",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "nico paz",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "la nación",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "es asueto el lunes 20 de julio",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
