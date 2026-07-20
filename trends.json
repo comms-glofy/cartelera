@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T19:00:16Z",
+  "updated": "2026-07-20T19:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aerolínea",
-      "traffic": "500+",
+      "name": "the athletic",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "impuesto",
-      "traffic": "2000+",
+      "name": "fuerzas armadas",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juan ramon carrasco",
-      "traffic": "200+",
+      "name": "declaración",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "loan",
+      "name": "aerolínea",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "juan ramon carrasco",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "loan",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "premio",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "pierre gasly",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "pep guardiola",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "fecha de cobro jubilados",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "pep guardiola",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "en que equipo juega paredes",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "banco de la nación argentina",
-      "traffic": "200+",
       "rank": 10
     }
   ]
