@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T20:00:18Z",
+  "updated": "2026-07-20T20:17:48Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "the athletic",
-      "traffic": "1000+",
+      "name": "iprofesional",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fuerzas armadas",
-      "traffic": "200+",
+      "name": "the athletic",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "declaración",
-      "traffic": "5000+",
+      "name": "fuerzas armadas",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "impuesto a las ganancias",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "aerolínea",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "juan ramon carrasco",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "loan",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "premio",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pierre gasly",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "pep guardiola",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "fecha de cobro jubilados",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
