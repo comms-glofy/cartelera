@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-20T16:30:15Z",
+  "updated": "2026-07-20T16:56:45Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fecha de cobro jubilados",
+      "name": "pierre gasly",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "en que equipo juega paredes",
-      "traffic": "20000+",
+      "name": "fecha de cobro jubilados",
+      "traffic": "500+",
       "rank": 2
     },
     {
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
+      "name": "en que equipo juega paredes",
+      "traffic": "20000+",
+      "rank": 4
+    },
+    {
       "name": "copa sudamericana",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "banco de la nación argentina",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "imax",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "gustavo mendez",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "telepase",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "mendoza",
+      "name": "telepase",
       "traffic": "1000+",
       "rank": 10
     }
