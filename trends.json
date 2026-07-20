@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-20T02:30:13Z",
+  "updated": "2026-07-20T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario los andes",
+      "name": "hbo max",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "dia del amigo",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "diario los andes",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "noticias",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "hbo",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "nico paz",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "es asueto el lunes 20 de julio",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "pelé",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "justicia",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "orlando gill",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "telekino 2437",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "independiente del valle - emelec",
-      "traffic": "500+",
+      "name": "quini 6 hoy",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "alianza lima",
+      "name": "justicia",
       "traffic": "500+",
       "rank": 10
     }
