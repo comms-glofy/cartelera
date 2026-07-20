@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T16:00:16Z",
+  "updated": "2026-07-20T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela de tucuman",
-      "traffic": "1000+",
+      "name": "fecha de cobro jubilados",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "imax",
-      "traffic": "200+",
+      "name": "en que equipo juega paredes",
+      "traffic": "20000+",
       "rank": 2
     },
     {
-      "name": "gustavo mendez",
+      "name": "pep guardiola",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "telepase",
-      "traffic": "1000+",
+      "name": "copa sudamericana",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "mendoza",
-      "traffic": "500+",
+      "name": "banco de la nación argentina",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "argentina da la espalda a españa",
-      "traffic": "10000+",
+      "name": "quiniela de tucuman",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "brasil",
+      "name": "imax",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "la 100 en vivo",
-      "traffic": "500+",
+      "name": "gustavo mendez",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "contexto tucuman",
-      "traffic": "200+",
+      "name": "telepase",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "quini 6 del 19 de julio",
-      "traffic": "10000+",
+      "name": "mendoza",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
