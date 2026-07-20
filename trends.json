@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-20T11:00:16Z",
+  "updated": "2026-07-20T11:21:00Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "minuto uno",
+      "name": "ambito financiero",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "minuto uno",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "servicio meteorologico nacional",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mariano navone",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "cadena3",
-      "traffic": "5000+",
       "rank": 4
     },
     {
@@ -29,12 +29,12 @@
       "rank": 5
     },
     {
-      "name": "aire de santa fe",
+      "name": "pronostico cordoba",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "pronostico cordoba",
+      "name": "aire de santa fe",
       "traffic": "100+",
       "rank": 7
     },
