@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T20:30:18Z",
+  "updated": "2026-07-20T21:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "desregulación",
-      "traffic": "100+",
+      "name": "fifa investiga argentina",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "iprofesional",
+      "name": "desregulación",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "iprofesional",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "asignación universal por hijo",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
       "name": "the athletic",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "fuerzas armadas",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "impuesto a las ganancias",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "aerolínea",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "juan ramon carrasco",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "loan",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "premio",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "pierre gasly",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
