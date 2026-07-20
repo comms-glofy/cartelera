@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T12:00:18Z",
+  "updated": "2026-07-20T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "paredes expulsado",
+      "traffic": "20000+",
+      "rank": 1
+    },
+    {
+      "name": "mendoza",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "argentina da la espalda a españa",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "brasil",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "la 100 en vivo",
-      "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "contexto tucuman",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
-      "name": "primicias ya",
-      "traffic": "1000+",
-      "rank": 5
+      "name": "la 100 en vivo",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "ambito financiero",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "minuto uno",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "servicio meteorologico nacional",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mariano navone",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "el litoral",
-      "traffic": "200+",
       "rank": 10
     }
   ]
