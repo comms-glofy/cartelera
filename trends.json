@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-20T15:00:18Z",
+  "updated": "2026-07-20T15:27:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gustavo mendez",
+      "name": "imax",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "telepase",
-      "traffic": "1000+",
+      "name": "gustavo mendez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mendoza",
-      "traffic": "500+",
+      "name": "telepase",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "mendoza",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "argentina da la espalda a españa",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "brasil",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "la 100 en vivo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "contexto tucuman",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "primicias ya",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "quini 6 del 19 de julio",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "ambito financiero",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "servicio meteorologico nacional",
-      "traffic": "100+",
       "rank": 10
     }
   ]
