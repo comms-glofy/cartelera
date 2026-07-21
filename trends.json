@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T21:30:16Z",
+  "updated": "2026-07-21T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nacional - tigre",
-      "traffic": "2000+",
+      "name": "atlético mineiro - bahía",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "flavio briatore",
-      "traffic": "200+",
+      "name": "walsall - aston villa",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "alta montaña",
-      "traffic": "200+",
+      "name": "angel correa",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "aerolínea",
+      "name": "pan am",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "conmebol sudamericana",
-      "traffic": "200+",
+      "name": "juana viale",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "nacional - tigre",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "flavio briatore",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "aerolínea",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "alta montaña",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "colisión",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "moreno",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "mercado cambiario",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "sudamericana",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "juan cruz meza",
-      "traffic": "200+",
       "rank": 10
     }
   ]
