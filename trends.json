@@ -1,51 +1,51 @@
 {
-  "updated": "2026-07-21T03:00:13Z",
+  "updated": "2026-07-21T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "the economist",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "quien se va de gran hermano hoy",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "daniel ortega",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "precio dólar blue",
-      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "pato strunz",
-      "traffic": "2000+",
+      "name": "precio dólar blue",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "ranking fifa 2026",
-      "traffic": "200+",
+      "name": "pato strunz",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "ibrahim traore",
+      "name": "juan pablo varsky",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "vinicius",
-      "traffic": "1000+",
+      "name": "ibrahim traore",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "20000+",
+      "name": "vinicius",
+      "traffic": "1000+",
       "rank": 8
     },
     {
       "name": "arenga",
-      "traffic": "2000+",
+      "traffic": "1000+",
       "rank": 9
     },
     {
