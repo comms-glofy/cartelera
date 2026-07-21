@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T17:30:14Z",
+  "updated": "2026-07-21T17:52:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "movistar arena",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "corte suprema",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "mundial 2034",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "kaylee hottle",
-      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "rosalia",
-      "traffic": "1000+",
+      "name": "kaylee hottle",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "pujato",
+      "name": "rosalia",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "político",
+      "name": "pujato",
       "traffic": "2000+",
       "rank": 7
     },
     {
+      "name": "político",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
       "name": "dia del perro",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "justicia cordoba",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "sebastián báez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
