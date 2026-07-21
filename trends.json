@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-21T13:00:17Z",
+  "updated": "2026-07-21T13:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "justicia cordoba",
+      "name": "dia del perro",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sebastián báez",
+      "name": "justicia cordoba",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "sebastián báez",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "javier lanari",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "diario jornada",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "diario el chubut",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "21 de julio",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "el litoral",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "diario de cuyo",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "que pasa salta",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 10
     }
