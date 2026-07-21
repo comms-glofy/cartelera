@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-21T04:00:16Z",
+  "updated": "2026-07-21T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "enzo fernandez chelsea",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "quien se fue de gran hermano",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "the economist",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "daniel ortega",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "precio dólar blue",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pato strunz",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "juan pablo varsky",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ibrahim traore",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "vinicius",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "arenga",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "que es la finalissima",
+      "name": "arenga",
       "traffic": "1000+",
       "rank": 10
     }
