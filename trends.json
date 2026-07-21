@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T19:00:18Z",
+  "updated": "2026-07-21T19:15:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fabio agostini",
+      "name": "pedro pascal",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "lautaro diaz",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "fabio agostini",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "paul aron",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "movistar arena",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "corte suprema",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "mundial 2034",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "kaylee hottle",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "rosalia",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "final de la copa mundial de fútbol de 2026",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "pujato",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
