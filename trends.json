@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-21T10:30:15Z",
+  "updated": "2026-07-21T10:37:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "niño",
-      "traffic": "2000+",
+      "name": "el once",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cuando llega",
-      "traffic": "10000+",
+      "name": "niño",
+      "traffic": "2000+",
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "clima rosario",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 8
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "eliminatorias mundial 2030",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 10
     }
   ]
