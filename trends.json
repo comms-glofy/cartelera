@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T19:15:13Z",
+  "updated": "2026-07-21T19:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pedro pascal",
-      "traffic": "200+",
+      "name": "xbox game pass",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lautaro diaz",
+      "name": "pedro pascal",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "lautaro diaz",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "fabio agostini",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "paul aron",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "movistar arena",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "corte suprema",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "consejo nacional de coordinación de políticas sociales",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "mundial 2034",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "kaylee hottle",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "rosalia",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
