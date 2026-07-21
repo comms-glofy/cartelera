@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T10:37:39Z",
+  "updated": "2026-07-21T11:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "diario de cuyo",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "tiempo en cordoba",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "que pasa salta",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "el once",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
+    },
+    {
+      "name": "martín irurzun",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "niño",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "clima mendoza",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "clima",
-      "traffic": "50000+",
-      "rank": 4
+      "traffic": "100000+",
+      "rank": 8
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "clima cordoba",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "pronostico rosario",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima rosario",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "clima santa fe",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "eliminatorias mundial 2030",
-      "traffic": "500+",
       "rank": 10
     }
   ]
