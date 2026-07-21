@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T10:00:15Z",
+  "updated": "2026-07-21T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima cordoba",
-      "traffic": "100+",
+      "name": "niño",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "pronostico rosario",
-      "traffic": "100+",
+      "name": "cuando llega",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "clima mendoza",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "clima santa fe",
-      "traffic": "100+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 4
     },
     {
-      "name": "eliminatorias mundial 2030",
+      "name": "juan manuel cerúndolo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "enzo fernandez chelsea",
-      "traffic": "100+",
+      "name": "clima cordoba",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "quien se fue de gran hermano",
-      "traffic": "1000+",
+      "name": "pronostico rosario",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "the economist",
-      "traffic": "100+",
+      "name": "clima rosario",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "daniel ortega",
-      "traffic": "1000+",
+      "name": "clima santa fe",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "precio dólar blue",
-      "traffic": "1000+",
+      "name": "eliminatorias mundial 2030",
+      "traffic": "200+",
       "rank": 10
     }
   ]
