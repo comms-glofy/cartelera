@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T13:30:17Z",
+  "updated": "2026-07-21T14:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia del perro",
+      "name": "político",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "dia del perro",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "justicia cordoba",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "sebastián báez",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "javier lanari",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "diario jornada",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "diario el chubut",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "21 de julio",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "el litoral",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "diario de cuyo",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
       "rank": 10
     }
   ]
