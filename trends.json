@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T00:30:15Z",
+  "updated": "2026-07-21T01:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,12 +10,12 @@
     },
     {
       "name": "vinicius",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
       "name": "administración nacional de la seguridad social",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -35,12 +35,12 @@
     },
     {
       "name": "cami homs",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 7
     },
     {
       "name": "chiqui tapia",
-      "traffic": "500+",
+      "traffic": "2000+",
       "rank": 8
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "indemnización por despido",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
