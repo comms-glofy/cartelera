@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T22:30:18Z",
+  "updated": "2026-07-21T23:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "selección de fútbol de argentina",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
+      "name": "gianni infantino",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "goleador",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "david romero",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "copa libertadores",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "libertad fc - delfín",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "atlético mineiro - bahía",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "angel correa",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "pan am",
       "traffic": "500+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "walsall - aston villa",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "angel correa",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "pan am",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "juana viale",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "nacional - tigre",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "flavio briatore",
-      "traffic": "500+",
       "rank": 10
     }
   ]
