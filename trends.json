@@ -1,51 +1,51 @@
 {
-  "updated": "2026-07-21T20:00:17Z",
+  "updated": "2026-07-21T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nieve",
-      "traffic": "200+",
+      "name": "juan cruz meza",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "nieve",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "xbox game pass",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "pedro pascal",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lautaro diaz",
-      "traffic": "200+",
+      "name": "pedro pascal",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "fabio agostini",
+      "name": "lautaro diaz",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "paul aron",
-      "traffic": "2000+",
+      "name": "fabio agostini",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "movistar arena",
+      "name": "paul aron",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "consejo nacional de coordinación de políticas sociales",
-      "traffic": "100+",
+      "name": "corte suprema",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "corte suprema",
-      "traffic": "200+",
+      "name": "consejo nacional de coordinación de políticas sociales",
+      "traffic": "100+",
       "rank": 9
     },
     {
