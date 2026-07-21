@@ -1,36 +1,36 @@
 {
-  "updated": "2026-07-21T12:21:57Z",
+  "updated": "2026-07-21T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "justicia cordoba",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "sebastián báez",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "javier lanari",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "diario jornada",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "diario el chubut",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "21 de julio",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "rosario3",
-      "traffic": "500+",
+      "name": "21 de julio",
+      "traffic": "1000+",
       "rank": 6
     },
     {
