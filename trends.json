@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T22:01:18Z",
+  "updated": "2026-07-21T22:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético mineiro - bahía",
-      "traffic": "200+",
+      "name": "david romero",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "walsall - aston villa",
-      "traffic": "500+",
+      "name": "copa libertadores",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "libertad fc - delfín",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "atlético mineiro - bahía",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "walsall - aston villa",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "angel correa",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "pan am",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "juana viale",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "nacional - tigre",
-      "traffic": "5000+",
-      "rank": 6
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "flavio briatore",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "aerolínea",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "alta montaña",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "colisión",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
