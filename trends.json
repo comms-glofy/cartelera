@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T15:00:19Z",
+  "updated": "2026-07-21T15:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "rosalia",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "final de la copa mundial de fútbol de 2026",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "político",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "dia del perro",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "justicia cordoba",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "sebastián báez",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "javier lanari",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "diario jornada",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "diario el chubut",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "21 de julio",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "el litoral",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "diario de cuyo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
