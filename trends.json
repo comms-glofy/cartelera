@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T12:00:15Z",
+  "updated": "2026-07-21T12:21:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -25,7 +25,7 @@
     },
     {
       "name": "21 de julio",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
     },
     {
@@ -39,17 +39,17 @@
       "rank": 7
     },
     {
-      "name": "el litoral",
-      "traffic": "100+",
+      "name": "diario de cuyo",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "diario de cuyo",
-      "traffic": "200+",
+      "name": "tiempo de san juan",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "tiempo de san juan",
+      "name": "que pasa salta",
       "traffic": "100+",
       "rank": 10
     }
