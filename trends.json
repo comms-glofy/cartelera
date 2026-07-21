@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-21T23:00:19Z",
+  "updated": "2026-07-21T23:27:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "u. católica - barcelona sc",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "correo argentino",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "selección de fútbol de argentina",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "gianni infantino",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "goleador",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "david romero",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "copa libertadores",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "libertad fc - delfín",
+      "name": "david romero",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "atlético mineiro - bahía",
-      "traffic": "1000+",
+      "name": "copa libertadores",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "angel correa",
-      "traffic": "1000+",
+      "name": "libertad fc - delfín",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "pan am",
-      "traffic": "500+",
+      "name": "atlético mineiro - bahía",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "walsall - aston villa",
+      "name": "angel correa",
       "traffic": "1000+",
       "rank": 10
     }
