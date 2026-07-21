@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T02:00:15Z",
+  "updated": "2026-07-21T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "daniel ortega",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "precio dólar blue",
+      "traffic": "10000+",
+      "rank": 2
+    },
+    {
       "name": "ranking fifa 2026",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "ibrahim traore",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "vinicius",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "administración nacional de la seguridad social",
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "arenga",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "precio",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "2026",
       "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "cami homs",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "chiqui tapia",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "asteroide",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pablo carrozza",
-      "traffic": "1000+",
+      "name": "cami homs",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
