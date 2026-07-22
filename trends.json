@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T16:00:15Z",
+  "updated": "2026-07-22T16:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tottenham - mk dons",
+      "name": "boca vs o'higgins",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "salud",
+      "name": "enner valencia",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sony interactive entertainment",
-      "traffic": "100+",
+      "name": "actuación",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "tottenham - mk dons",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "salud",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "sony interactive entertainment",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "fallecio gabriel real",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "pampita",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "fernando alonso",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "iffhs",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "tomás martín etcheverry",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "juan román riquelme",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "atp estoril",
-      "traffic": "100+",
       "rank": 10
     }
   ]
