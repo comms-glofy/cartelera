@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-22T09:30:16Z",
+  "updated": "2026-07-22T09:56:47Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima",
+      "traffic": "50000+",
+      "rank": 1
+    },
+    {
       "name": "de paul",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "clima rosario",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima neuquen",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "actriz de godzilla vs kong",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "toluca - pumas",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pablo alarcón",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tini",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "cruz azul - puebla",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "iphone 18 pro",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ernestina pais",
+      "name": "iphone 18 pro",
       "traffic": "200+",
       "rank": 10
     }
