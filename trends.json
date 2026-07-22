@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T22:30:18Z",
+  "updated": "2026-07-22T22:58:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "inter miami - chicago fire",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
+      "name": "jose luis daza",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "sebastián villa",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "congreso",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "coritiba - palmeiras",
       "traffic": "2000+",
-      "rank": 2
-    },
-    {
-      "name": "entre ríos",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "googl",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "visa",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "medellín - vasco da gama",
-      "traffic": "1000+",
+      "name": "entre ríos",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "club atlético independiente",
+      "name": "visa",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "porto",
-      "traffic": "100+",
+      "name": "googl",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "lanus",
-      "traffic": "500+",
+      "name": "medellín - vasco da gama",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "inter miami",
-      "traffic": "1000+",
+      "name": "club atlético independiente",
+      "traffic": "500+",
       "rank": 10
     }
   ]
