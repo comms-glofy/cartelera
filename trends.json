@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-22T20:14:24Z",
+  "updated": "2026-07-22T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brote legionella",
+      "name": "daniel siad",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fuerzas armadas de los estados unidos",
+      "name": "ed harris",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "olot - girona",
+      "name": "brote legionella",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "serpiente",
-      "traffic": "200+",
+      "name": "fuerzas armadas de los estados unidos",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "openai",
-      "traffic": "200+",
+      "name": "olot - girona",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "club atlético sarmiento",
+      "name": "serpiente",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "israel",
+      "name": "openai",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "aguinaldo",
-      "traffic": "500+",
+      "name": "club atlético sarmiento",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "fin de semana",
-      "traffic": "2000+",
+      "name": "israel",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "stevenage f. c. - west ham",
+      "name": "aguinaldo",
       "traffic": "500+",
       "rank": 10
     }
