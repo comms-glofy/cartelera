@@ -1,46 +1,46 @@
 {
-  "updated": "2026-07-22T10:30:14Z",
+  "updated": "2026-07-22T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el once",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "el once",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "nottingham forest - blackburn rovers",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "delcy rodríguez",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima",
       "traffic": "100000+",
-      "rank": 4
-    },
-    {
-      "name": "de paul",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "clima rosario",
+      "name": "de paul",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "clima neuquen",
-      "traffic": "100+",
+      "name": "clima rosario",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "actriz de godzilla vs kong",
-      "traffic": "500+",
+      "name": "clima neuquen",
+      "traffic": "100+",
       "rank": 8
     },
     {
