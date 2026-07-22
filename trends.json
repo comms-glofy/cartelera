@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T20:30:14Z",
+  "updated": "2026-07-22T21:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "daniel siad",
-      "traffic": "100+",
+      "name": "solange abraham",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "firmas para repetir la final del mundial",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "roberto ayala",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "ed harris",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "brote legionella",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "fuerzas armadas de los estados unidos",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "olot - girona",
+      "name": "daniel siad",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "serpiente",
-      "traffic": "200+",
+      "name": "brote legionella",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "openai",
+      "name": "fuerzas armadas de los estados unidos",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "club atlético sarmiento",
-      "traffic": "200+",
+      "name": "olot - girona",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "israel",
+      "name": "serpiente",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "aguinaldo",
-      "traffic": "500+",
+      "name": "openai",
+      "traffic": "200+",
       "rank": 10
     }
   ]
