@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T12:30:18Z",
+  "updated": "2026-07-22T13:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "juan román riquelme",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "atp estoril",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "el cordillerano",
-      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tomás yankelevich",
+      "name": "gabriel real",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "marco trungelliti",
-      "traffic": "200+",
+      "name": "el cordillerano",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "mariano navone",
-      "traffic": "500+",
+      "name": "tomás yankelevich",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "la capital",
+      "name": "marco trungelliti",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
+      "name": "atp kitzbuhel",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "el once",
-      "traffic": "100+",
+      "name": "mariano navone",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nottingham forest - blackburn rovers",
-      "traffic": "1000+",
+      "name": "la capital",
+      "traffic": "200+",
       "rank": 10
     }
   ]
