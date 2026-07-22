@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-22T15:37:08Z",
+  "updated": "2026-07-22T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club estudiantes de la plata",
+      "name": "tottenham - mk dons",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "fallecio gabriel real",
-      "traffic": "500+",
+      "name": "salud",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "sony interactive entertainment",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "fallecio gabriel real",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "pampita",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "fernando alonso",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "iffhs",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "tomás martín etcheverry",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "juan román riquelme",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "atp estoril",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "alerta roja",
+      "name": "juan román riquelme",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "el cordillerano",
+      "name": "atp estoril",
       "traffic": "100+",
       "rank": 10
     }
