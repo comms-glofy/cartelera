@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T04:00:16Z",
+  "updated": "2026-07-22T04:15:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "toluca - pumas",
-      "traffic": "200+",
+      "name": "clima neuquen",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pablo alarcón",
-      "traffic": "200+",
+      "name": "actriz de godzilla vs kong",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tini",
+      "name": "toluca - pumas",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cruz azul - puebla",
-      "traffic": "100+",
+      "name": "pablo alarcón",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "iphone 18 pro",
+      "name": "tini",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ernestina pais",
-      "traffic": "200+",
+      "name": "cruz azul - puebla",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cris morena",
-      "traffic": "100+",
+      "name": "iphone 18 pro",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ley joaquin",
+      "name": "ernestina pais",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "universidad central - santos",
-      "traffic": "10000+",
+      "name": "gran hermano generación dorada",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "santos",
-      "traffic": "2000+",
+      "name": "cris morena",
+      "traffic": "100+",
       "rank": 10
     }
   ]
