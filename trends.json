@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T11:00:17Z",
+  "updated": "2026-07-22T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
+      "name": "mariano navone",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "el once",
-      "traffic": "500+",
+      "name": "la capital",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nottingham forest - blackburn rovers",
+      "name": "diario de cuyo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "delcy rodríguez",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "el once",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "nottingham forest - blackburn rovers",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "delcy rodríguez",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "clima",
+      "traffic": "200000+",
+      "rank": 8
     },
     {
       "name": "de paul",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "clima rosario",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "clima neuquen",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "toluca - pumas",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "pablo alarcón",
-      "traffic": "500+",
       "rank": 10
     }
   ]
