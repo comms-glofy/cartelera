@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T18:30:24Z",
+  "updated": "2026-07-22T18:39:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "infantino",
-      "traffic": "1000+",
+      "name": "recreativo huelva - real betis",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "thiago martinez",
+      "name": "valencia c. f. - cd eldense",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "riesgo país",
+      "name": "avión",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "infantino",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "thiago martinez",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "riesgo país",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "sestao river - athletic",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "casemiro",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "ruta nacional 40",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "israel damonte",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "licencia",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "gran hermano",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "encuesta",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
