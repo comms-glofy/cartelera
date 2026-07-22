@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-22T14:00:17Z",
+  "updated": "2026-07-22T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "iffhs",
+      "name": "fernando alonso",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "1000+",
+      "name": "iffhs",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "juan román riquelme",
-      "traffic": "500+",
+      "name": "tomás martín etcheverry",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "juan román riquelme",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "atp estoril",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "alerta roja",
-      "traffic": "200000+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "gabriel real",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "el cordillerano",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tomás yankelevich",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "marco trungelliti",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "atp kitzbuhel",
+      "name": "marco trungelliti",
       "traffic": "200+",
       "rank": 10
     }
