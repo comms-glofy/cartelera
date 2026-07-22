@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-22T20:00:15Z",
+  "updated": "2026-07-22T20:14:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "openai",
-      "traffic": "200+",
+      "name": "brote legionella",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "serpiente",
+      "name": "fuerzas armadas de los estados unidos",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "club atlético sarmiento",
-      "traffic": "200+",
+      "name": "olot - girona",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "israel",
+      "name": "serpiente",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "aguinaldo",
+      "name": "openai",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fin de semana",
-      "traffic": "1000+",
+      "name": "club atlético sarmiento",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "stevenage f. c. - west ham",
-      "traffic": "500+",
+      "name": "israel",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "chiqui tapia fbi",
-      "traffic": "1000+",
+      "name": "aguinaldo",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "avión",
-      "traffic": "500+",
+      "name": "fin de semana",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "recreativo huelva - real betis",
+      "name": "stevenage f. c. - west ham",
       "traffic": "500+",
       "rank": 10
     }
