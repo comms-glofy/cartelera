@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T19:30:19Z",
+  "updated": "2026-07-22T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "israel",
-      "traffic": "100+",
+      "name": "openai",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "aguinaldo",
-      "traffic": "200+",
+      "name": "serpiente",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fin de semana",
-      "traffic": "500+",
+      "name": "club atlético sarmiento",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "stevenage f. c. - west ham",
+      "name": "israel",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "chiqui tapia fbi",
+      "name": "aguinaldo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "recreativo huelva - real betis",
-      "traffic": "500+",
+      "name": "fin de semana",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "avión",
-      "traffic": "200+",
+      "name": "stevenage f. c. - west ham",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "valencia c. f. - cd eldense",
-      "traffic": "200+",
+      "name": "chiqui tapia fbi",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "infantino",
-      "traffic": "2000+",
+      "name": "avión",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "thiago martinez",
-      "traffic": "200+",
+      "name": "recreativo huelva - real betis",
+      "traffic": "500+",
       "rank": 10
     }
   ]
