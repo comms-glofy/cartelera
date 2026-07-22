@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-21T23:30:15Z",
+  "updated": "2026-07-22T00:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "u. católica - barcelona sc",
-      "traffic": "500+",
+      "name": "bruno zuculini",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "natacha jaitt",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "santos",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "libertadores",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "guyana",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "u. católica - barcelona sc",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "correo argentino",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "selección de fútbol de argentina",
-      "traffic": "5000+",
-      "rank": 3
-    },
-    {
-      "name": "gianni infantino",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "goleador",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "david romero",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "copa libertadores",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "libertad fc - delfín",
-      "traffic": "200+",
+      "name": "selección de fútbol de argentina",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "atlético mineiro - bahía",
+      "name": "gianni infantino",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "angel correa",
-      "traffic": "1000+",
+      "name": "copa libertadores",
+      "traffic": "500+",
       "rank": 10
     }
   ]
