@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T22:00:19Z",
+  "updated": "2026-07-22T22:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "coritiba - palmeiras",
-      "traffic": "1000+",
+      "name": "congreso",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "coritiba - palmeiras",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "entre ríos",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "googl",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "visa",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "medellín - vasco da gama",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "club atlético independiente",
-      "traffic": "200+",
+      "name": "medellín - vasco da gama",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "club atlético independiente",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "porto",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "lanus",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "infiernorojo",
-      "traffic": "200+",
+      "name": "lanus",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "independiente del valle - técnico universitario",
-      "traffic": "500+",
+      "name": "inter miami",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
