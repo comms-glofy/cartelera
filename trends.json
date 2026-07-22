@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T18:39:22Z",
+  "updated": "2026-07-22T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "recreativo huelva - real betis",
+      "name": "stevenage f. c. - west ham",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "valencia c. f. - cd eldense",
+      "name": "fin de semana",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "avión",
+      "name": "chiqui tapia fbi",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "infantino",
-      "traffic": "1000+",
+      "name": "recreativo huelva - real betis",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "thiago martinez",
+      "name": "avión",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "riesgo país",
-      "traffic": "100+",
+      "name": "valencia c. f. - cd eldense",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sestao river - athletic",
-      "traffic": "500+",
+      "name": "infantino",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "casemiro",
-      "traffic": "100+",
+      "name": "thiago martinez",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ruta nacional 40",
-      "traffic": "200+",
+      "name": "riesgo país",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "israel damonte",
-      "traffic": "200+",
+      "name": "sestao river - athletic",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
