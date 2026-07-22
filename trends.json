@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T18:00:17Z",
+  "updated": "2026-07-22T18:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "riesgo país",
-      "traffic": "100+",
+      "name": "infantino",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "sestao river - athletic",
-      "traffic": "500+",
+      "name": "thiago martinez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "casemiro",
+      "name": "riesgo país",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ruta nacional 40",
-      "traffic": "100+",
+      "name": "sestao river - athletic",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "israel damonte",
-      "traffic": "200+",
+      "name": "casemiro",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "licencia",
+      "name": "ruta nacional 40",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gran hermano",
-      "traffic": "5000+",
+      "name": "israel damonte",
+      "traffic": "200+",
       "rank": 7
+    },
+    {
+      "name": "licencia",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "gran hermano",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "encuesta",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "tottenham",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "carlos mac allister",
-      "traffic": "200+",
       "rank": 10
     }
   ]
