@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T11:47:36Z",
+  "updated": "2026-07-22T12:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marco trungelliti",
-      "traffic": "200+",
+      "name": "alerta roja",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mariano navone",
-      "traffic": "200+",
+      "name": "el cordillerano",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "la capital",
+      "name": "tomás yankelevich",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
+      "name": "marco trungelliti",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "el once",
+      "name": "mariano navone",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "la capital",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "tiempo de san juan",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "el once",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "nottingham forest - blackburn rovers",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "delcy rodríguez",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "clima",
-      "traffic": "200000+",
-      "rank": 8
-    },
-    {
-      "name": "de paul",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "clima rosario",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
