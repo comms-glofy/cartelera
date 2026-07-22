@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T19:00:15Z",
+  "updated": "2026-07-22T19:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "stevenage f. c. - west ham",
-      "traffic": "200+",
+      "name": "israel",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fin de semana",
+      "name": "aguinaldo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "chiqui tapia fbi",
-      "traffic": "100+",
+      "name": "fin de semana",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "recreativo huelva - real betis",
+      "name": "stevenage f. c. - west ham",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "avión",
+      "name": "chiqui tapia fbi",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "valencia c. f. - cd eldense",
-      "traffic": "200+",
+      "name": "recreativo huelva - real betis",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "infantino",
-      "traffic": "1000+",
+      "name": "avión",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "thiago martinez",
+      "name": "valencia c. f. - cd eldense",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "riesgo país",
-      "traffic": "100+",
+      "name": "infantino",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "sestao river - athletic",
-      "traffic": "1000+",
+      "name": "thiago martinez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
