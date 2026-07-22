@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-22T23:00:15Z",
+  "updated": "2026-07-22T23:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami - chicago fire",
-      "traffic": "5000+",
+      "name": "precio",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jose luis daza",
+      "name": "obama",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sebastián villa",
-      "traffic": "1000+",
+      "name": "inter miami - chicago fire",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "congreso",
+      "name": "jose luis daza",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "coritiba - palmeiras",
-      "traffic": "2000+",
+      "name": "sebastián villa",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "congreso",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "coritiba - palmeiras",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "entre ríos",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "visa",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "googl",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "medellín - vasco da gama",
-      "traffic": "1000+",
+      "name": "palmeiras",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "club atlético independiente",
+      "name": "visa",
       "traffic": "500+",
       "rank": 10
     }
