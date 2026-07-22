@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-22T15:30:20Z",
+  "updated": "2026-07-22T15:37:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fallecio gabriel real",
+      "name": "club estudiantes de la plata",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "pampita",
+      "name": "fallecio gabriel real",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "fernando alonso",
-      "traffic": "200+",
+      "name": "pampita",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "iffhs",
+      "name": "fernando alonso",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "1000+",
+      "name": "iffhs",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "juan román riquelme",
+      "name": "tomás martín etcheverry",
       "traffic": "1000+",
       "rank": 6
     },
     {
+      "name": "juan román riquelme",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "atp estoril",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "alerta roja",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "el cordillerano",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "tomás yankelevich",
-      "traffic": "200+",
       "rank": 10
     }
   ]
