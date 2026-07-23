@@ -1,46 +1,46 @@
 {
-  "updated": "2026-07-23T15:30:21Z",
+  "updated": "2026-07-23T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bardem",
-      "traffic": "100+",
+      "name": "javier bardem",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "disney on ice",
-      "traffic": "200+",
+      "name": "ian subiabre",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "disney on ice",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "gobierno de colombia",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "quini 6 sorteo 3393",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "tomás martín etcheverry",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "bruno bentancor",
-      "traffic": "5000+",
+      "name": "tomás martín etcheverry",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "bruno bentancor",
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "senador",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "sebastián báez",
-      "traffic": "200+",
       "rank": 8
     },
     {
