@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T19:30:15Z",
+  "updated": "2026-07-23T19:54:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rocky perro saltillo",
+      "name": "desastre",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "a qué hora juega boca hoy",
-      "traffic": "500+",
+      "name": "cris morena",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "córdoba - sevilla",
-      "traffic": "200+",
+      "name": "a qué hora juega boca hoy",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "esequiel barco",
+      "name": "rocky perro saltillo",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "islas malvinas",
-      "traffic": "500+",
+      "name": "córdoba - sevilla",
+      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "rika hiraki",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "esequiel barco",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "tormenta de nieve",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "islas malvinas",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "visa",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "f. k. vojvodina - ajax",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "tormenta de nieve",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "europa league",
-      "traffic": "100+",
       "rank": 10
     }
   ]
