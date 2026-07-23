@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T03:30:16Z",
+  "updated": "2026-07-23T03:52:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "chelsea",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "belgrano",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "alejandro fiore",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "apple iphone 18 pro max",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "cómo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lewandowski",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "georgia",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "priscila crivocapich",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "flamengo vs",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "nicolás otamendi",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "mia khalifa quien es",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
