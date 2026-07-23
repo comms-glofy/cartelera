@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T20:00:17Z",
+  "updated": "2026-07-23T20:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a que hora juega boca",
-      "traffic": "1000+",
+      "name": "catherine fulop",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "desastre",
-      "traffic": "100+",
+      "name": "federico sturzenegger",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cris morena",
-      "traffic": "100+",
+      "name": "a que hora juega boca",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "rocky perro saltillo",
+      "name": "desastre",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "córdoba - sevilla",
+      "name": "cris morena",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "rika hiraki",
-      "traffic": "500+",
+      "name": "expulsión",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "rocky perro saltillo",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "córdoba - sevilla",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "esequiel barco",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "tormenta de nieve",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "islas malvinas",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "visa",
-      "traffic": "200+",
+      "name": "rika hiraki",
+      "traffic": "500+",
       "rank": 10
     }
   ]
