@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T18:00:15Z",
+  "updated": "2026-07-23T18:11:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "qarabag",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "evangelina anderson",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "mikel amondarain",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "propiedad",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "st gallen - benfica",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "funes",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "fc 27",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "23 de julio",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "zdenek chovanec",
+      "name": "camiseta",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "river vs barracas",
-      "traffic": "200+",
+      "name": "23 de julio",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "javier bardem",
-      "traffic": "1000+",
+      "name": "zdenek chovanec",
+      "traffic": "500+",
       "rank": 10
     }
   ]
