@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T10:00:15Z",
+  "updated": "2026-07-23T10:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima rosario",
-      "traffic": "100+",
+      "name": "mariano navone",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "selección de fútbol de españa",
+      "name": "pierre gasly",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "quini",
-      "traffic": "100+",
+      "name": "clima rosario",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "argentina fútbol mundial",
+      "name": "selección de fútbol de españa",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "quini",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "argentina fútbol mundial",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "facundo medina",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "chelsea",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "xuxa",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "belgrano",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "alejandro fiore",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "apple iphone 18 pro max",
-      "traffic": "500+",
       "rank": 10
     }
   ]
