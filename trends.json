@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-23T05:00:13Z",
+  "updated": "2026-07-23T05:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "argentina fútbol mundial",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "facundo medina",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "chelsea",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "xuxa",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "belgrano",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "apple iphone 18 pro max",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "alejandro fiore",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "lewandowski",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "georgia",
+      "name": "apple iphone 18 pro max",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "priscila crivocapich",
-      "traffic": "200+",
+      "name": "lewandowski",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "flamengo vs",
-      "traffic": "100+",
+      "name": "georgia",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "nicolás otamendi",
+      "name": "priscila crivocapich",
       "traffic": "200+",
       "rank": 10
     }
