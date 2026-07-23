@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T14:00:19Z",
+  "updated": "2026-07-23T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quini 6 sorteo 3393",
-      "traffic": "500+",
+      "name": "gobierno de colombia",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
+      "name": "quini 6 sorteo 3393",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "tomás martín etcheverry",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "bruno bentancor",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "senador",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "sebastián báez",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "tercera edad",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "incentivo",
+      "name": "tercera edad",
       "traffic": "500+",
       "rank": 7
     },
     {
+      "name": "incentivo",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "diario huarpe",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tiempo de san juan",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "el litoral",
-      "traffic": "100+",
       "rank": 10
     }
   ]
