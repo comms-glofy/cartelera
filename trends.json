@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T22:00:13Z",
+  "updated": "2026-07-23T22:09:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético independiente",
+      "name": "botafogo - vitória",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "empleados de comercio",
-      "traffic": "100+",
+      "name": "argentinos juniors",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "sofía de borbón",
-      "traffic": "100+",
+      "name": "club atlético independiente",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cadena de supermercados",
+      "name": "empleados de comercio",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "sofía de borbón",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "cadena de supermercados",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "bolívar - grêmio",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "leandro paredes fifa",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "demanda judicial",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "club atlético sarmiento",
-      "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "futbol argentino",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "carlo ancelotti",
-      "traffic": "200+",
       "rank": 10
     }
   ]
