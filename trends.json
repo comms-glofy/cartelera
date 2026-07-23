@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T12:30:17Z",
+  "updated": "2026-07-23T12:57:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "senador",
-      "traffic": "100+",
+      "name": "tomás martín etcheverry",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sebastián báez",
+      "name": "bruno betancor",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tercera edad",
+      "name": "senador",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "incentivo",
+      "name": "sebastián báez",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "diario huarpe",
-      "traffic": "100+",
+      "name": "tercera edad",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tiempo de san juan",
+      "name": "incentivo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "el litoral",
+      "name": "diario huarpe",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "oscar ruggeri",
-      "traffic": "100+",
+      "name": "tiempo de san juan",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "aire de santa fe",
+      "name": "el litoral",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "la capital",
-      "traffic": "200+",
+      "name": "oscar ruggeri",
+      "traffic": "100+",
       "rank": 10
     }
   ]
