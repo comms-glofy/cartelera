@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T22:30:15Z",
+  "updated": "2026-07-23T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "perro",
-      "traffic": "200+",
+      "name": "esteban lamothe",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "lali espósito",
-      "traffic": "100+",
+      "name": "badaloni",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "corinthians - remo",
-      "traffic": "200+",
+      "name": "tarjeta roja futbol",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "ruta nacional 14",
-      "traffic": "100+",
+      "name": "perro",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "botafogo - vitória",
-      "traffic": "500+",
+      "name": "lali espósito",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "argentinos juniors",
+      "name": "bolivar",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "club atlético independiente",
-      "traffic": "200+",
+      "name": "corinthians - remo",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "empleados de comercio",
-      "traffic": "200+",
+      "name": "ruta nacional 14",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "sofía de borbón",
-      "traffic": "100+",
+      "name": "botafogo - vitória",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cadena de supermercados",
-      "traffic": "100+",
+      "name": "argentinos juniors",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
