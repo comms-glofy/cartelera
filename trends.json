@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T21:00:15Z",
+  "updated": "2026-07-23T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético sarmiento",
-      "traffic": "100+",
+      "name": "bolívar - grêmio",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gremio",
-      "traffic": "100+",
+      "name": "leandro paredes fifa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sorteos del quini 6",
-      "traffic": "1000+",
+      "name": "demanda judicial",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "futbol argentino",
+      "name": "club atlético sarmiento",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "carlo ancelotti",
-      "traffic": "100+",
+      "name": "futbol argentino",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "catherine fulop",
+      "name": "carlo ancelotti",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "federico sturzenegger",
+      "name": "catherine fulop",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "a que hora juega boca",
-      "traffic": "2000+",
+      "name": "federico sturzenegger",
+      "traffic": "200+",
       "rank": 8
+    },
+    {
+      "name": "a que hora juega boca",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "subsecretario de deportes de la nación argentina",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "desastre",
-      "traffic": "200+",
       "rank": 10
     }
   ]
