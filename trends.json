@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T00:00:15Z",
+  "updated": "2026-07-23T00:04:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lanús - cienciano",
-      "traffic": "5000+",
+      "name": "internacional - cruzeiro",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "chapecoense - flamengo",
-      "traffic": "1000+",
+      "name": "h&m",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "suerte",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "lanús - cienciano",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "chapecoense - flamengo",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "sporting cristal - bragantino",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "são paulo - paranaense",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "copa libertadores",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "precio",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "obama",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "inter miami - chicago fire",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "jose luis daza",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "sebastián villa",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
