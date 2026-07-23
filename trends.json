@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T23:00:16Z",
+  "updated": "2026-07-23T23:26:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "talleres",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "argentina futbol",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "vacaciones",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "esteban lamothe",
       "traffic": "500+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "badaloni",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "tarjeta roja futbol",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "perro",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "lali espósito",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "bolivar",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "corinthians - remo",
+      "name": "perro",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "ruta nacional 14",
-      "traffic": "100+",
+      "name": "lali espósito",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "botafogo - vitória",
-      "traffic": "500+",
+      "name": "bolivar",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "argentinos juniors",
-      "traffic": "1000+",
+      "name": "corinthians - remo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
