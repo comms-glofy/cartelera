@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T21:30:13Z",
+  "updated": "2026-07-23T22:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bolívar - grêmio",
+      "name": "club atlético independiente",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "leandro paredes fifa",
-      "traffic": "200+",
+      "name": "empleados de comercio",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "demanda judicial",
+      "name": "sofía de borbón",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "club atlético sarmiento",
-      "traffic": "200+",
+      "name": "cadena de supermercados",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "futbol argentino",
-      "traffic": "200+",
+      "name": "bolívar - grêmio",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "carlo ancelotti",
-      "traffic": "100+",
+      "name": "leandro paredes fifa",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "catherine fulop",
-      "traffic": "100+",
+      "name": "demanda judicial",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "federico sturzenegger",
-      "traffic": "200+",
+      "name": "club atlético sarmiento",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "a que hora juega boca",
-      "traffic": "5000+",
+      "name": "futbol argentino",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "subsecretario de deportes de la nación argentina",
-      "traffic": "500+",
+      "name": "carlo ancelotti",
+      "traffic": "200+",
       "rank": 10
     }
   ]
