@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T12:00:15Z",
+  "updated": "2026-07-23T12:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,12 +10,12 @@
     },
     {
       "name": "sebastián báez",
-      "traffic": "1000+",
+      "traffic": "200+",
       "rank": 2
     },
     {
       "name": "tercera edad",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "elonce",
-      "traffic": "100+",
+      "name": "la capital",
+      "traffic": "200+",
       "rank": 10
     }
   ]
