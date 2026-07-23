@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T19:00:17Z",
+  "updated": "2026-07-23T19:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "islas malvinas",
-      "traffic": "500+",
+      "name": "rocky perro saltillo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "esequiel barco",
-      "traffic": "200+",
+      "name": "a qué hora juega boca hoy",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "rika hiraki",
+      "name": "córdoba - sevilla",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "f. k. vojvodina - ajax",
-      "traffic": "100+",
+      "name": "esequiel barco",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "islas malvinas",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "rika hiraki",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "visa",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "f. k. vojvodina - ajax",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "tormenta de nieve",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "ibai llanos",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "muni",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "luciano darderi",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "benfica",
-      "traffic": "200+",
+      "name": "europa league",
+      "traffic": "100+",
       "rank": 10
     }
   ]
