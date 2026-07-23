@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-23T04:00:15Z",
+  "updated": "2026-07-23T04:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "facundo medina",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "chelsea",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "belgrano",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "alejandro fiore",
-      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -24,8 +24,8 @@
       "rank": 4
     },
     {
-      "name": "cómo",
-      "traffic": "200+",
+      "name": "alejandro fiore",
+      "traffic": "1000+",
       "rank": 5
     },
     {
