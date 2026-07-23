@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T11:30:15Z",
+  "updated": "2026-07-23T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tercera edad",
+      "name": "senador",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "incentivo",
-      "traffic": "100+",
+      "name": "sebastián báez",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "diario huarpe",
+      "name": "tercera edad",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
+      "name": "incentivo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "el litoral",
+      "name": "diario huarpe",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "oscar ruggeri",
-      "traffic": "100+",
+      "name": "tiempo de san juan",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "aire de santa fe",
+      "name": "el litoral",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "elonce",
+      "name": "oscar ruggeri",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "la capital",
+      "name": "aire de santa fe",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pierre gasly",
-      "traffic": "200+",
+      "name": "elonce",
+      "traffic": "100+",
       "rank": 10
     }
   ]
