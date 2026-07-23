@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T09:07:55Z",
+  "updated": "2026-07-23T09:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "selección de fútbol de españa",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "argentina fútbol mundial",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "facundo medina",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "chelsea",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "xuxa",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "belgrano",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "alejandro fiore",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "apple iphone 18 pro max",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "cómo",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lewandowski",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "georgia",
-      "traffic": "200+",
       "rank": 10
     }
   ]
