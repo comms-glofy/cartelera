@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T17:30:19Z",
+  "updated": "2026-07-24T18:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "benfica - belenenses",
-      "traffic": "500+",
+      "name": "parque de la ciudad",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "román andrés burruchaga",
+      "name": "barcelona",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "la velada del año 2026",
-      "traffic": "1000+",
+      "name": "real madrid vs",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "real madrid",
+      "name": "benfica - belenenses",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "ceferino díaz",
-      "traffic": "2000+",
+      "name": "román andrés burruchaga",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "quien gano el prode de mercado pago",
-      "traffic": "200+",
+      "name": "velada del año 2026",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "manchester united",
+      "name": "real madrid",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "camión",
-      "traffic": "1000+",
+      "name": "ceferino díaz",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "rosenborg bk - manchester united",
-      "traffic": "5000+",
+      "name": "quien gano el prode de mercado pago",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lebron james",
-      "traffic": "2000+",
+      "name": "manchester united",
+      "traffic": "500+",
       "rank": 10
     }
   ]
