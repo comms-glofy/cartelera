@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T23:00:15Z",
+  "updated": "2026-07-24T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bebé",
-      "traffic": "1000+",
+      "name": "lautaro diaz",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "phillies - yankees",
-      "traffic": "200+",
+      "name": "colo colo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "la carolina san luis",
+      "name": "cerro",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "marina magali",
+      "name": "jugador de fútbol",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sylvester stallone",
-      "traffic": "100+",
+      "name": "bebé",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "colapinto f1 hungria",
+      "name": "phillies - yankees",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "adrián ravier",
-      "traffic": "1000+",
+      "name": "la carolina san luis",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cerro porteño",
-      "traffic": "100+",
+      "name": "marina magali",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "torneo argentino",
-      "traffic": "5000+",
+      "name": "sylvester stallone",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "racing",
-      "traffic": "20000+",
+      "name": "colapinto f1 hungria",
+      "traffic": "200+",
       "rank": 10
     }
   ]
