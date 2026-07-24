@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T08:30:14Z",
+  "updated": "2026-07-24T09:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "futbol 11",
+      "name": "españa apuestas",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "futbol 11",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "europa",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "montaña",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "leandro paredes",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "ébola",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "fifa argentina",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "hugh grant",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ernesto tenembaum",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "ryan gosling",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "tomás avilés",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "aumento empleados de comercio",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
