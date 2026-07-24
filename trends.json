@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T21:30:17Z",
+  "updated": "2026-07-24T21:35:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la falda",
+      "name": "spider-man: brand new day",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "superliga",
+      "name": "futbol argentino hoy",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "union",
+      "name": "la falda",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "superliga",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "union",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "gasto",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "luiz inácio lula da silva",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "roro",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "miniserie",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "velez",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "luciano darderi",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "marcos llorente",
-      "traffic": "200+",
       "rank": 10
     }
   ]
