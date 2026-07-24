@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T10:00:14Z",
+  "updated": "2026-07-24T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ángel di maría",
+      "name": "cuando llega",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "españa apuestas",
-      "traffic": "200+",
+      "name": "como",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "futbol 11",
+      "name": "ángel di maría",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "españa apuestas",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "futbol 11",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "europa",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "montaña",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "leandro paredes",
-      "traffic": "5000+",
-      "rank": 6
+      "traffic": "10000+",
+      "rank": 8
     },
     {
       "name": "ébola",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "fifa argentina",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "hugh grant",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "ernesto tenembaum",
-      "traffic": "500+",
       "rank": 10
     }
   ]
