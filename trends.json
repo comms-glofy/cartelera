@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-24T09:42:43Z",
+  "updated": "2026-07-24T10:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "españa apuestas",
-      "traffic": "200+",
+      "name": "ángel di maría",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "futbol 11",
+      "name": "españa apuestas",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "europa",
-      "traffic": "500+",
+      "name": "futbol 11",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "europa",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "montaña",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "leandro paredes",
-      "traffic": "10000+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "ébola",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "fifa argentina",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "hugh grant",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ernesto tenembaum",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ryan gosling",
+      "name": "ernesto tenembaum",
       "traffic": "500+",
       "rank": 10
     }
