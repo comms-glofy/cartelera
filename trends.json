@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T01:30:18Z",
+  "updated": "2026-07-24T02:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "federación argentina de empleados de comercio y servicios",
-      "traffic": "1000+",
+      "name": "tomas aranda",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "independiente santa fe",
+      "name": "maxi lópez",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "di lollo",
-      "traffic": "100+",
+      "name": "hermano del dibu martinez",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "zeballos",
+      "name": "alberto jose ovando los fronterizos",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gorosito",
-      "traffic": "200+",
+      "name": "sporting",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "vasco arruabarrena",
+      "name": "libertadores",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "aranda",
+      "name": "zeballos",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "figal",
+      "name": "independiente santa fe",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cavani",
-      "traffic": "200+",
+      "name": "federación argentina de empleados de comercio y servicios",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "leonel flores",
-      "traffic": "1000+",
+      "name": "di lollo",
+      "traffic": "100+",
       "rank": 10
     }
   ]
