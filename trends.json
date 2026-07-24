@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T14:30:14Z",
+  "updated": "2026-07-24T15:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela nacional",
+      "name": "bournemouth - st. pauli",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jürgen klopp",
-      "traffic": "200+",
+      "name": "klopp",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ambulancia",
-      "traffic": "500+",
+      "name": "quiniela nacional",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "jürgen klopp",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "ambulancia",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "atraso cambiario",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "tomás martín etcheverry",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "china suárez",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tom holland",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "camionero",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "nicolás cabré",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "arresto",
-      "traffic": "200+",
+      "name": "camionero",
+      "traffic": "500+",
       "rank": 10
     }
   ]
