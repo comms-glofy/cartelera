@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-24T13:00:18Z",
+  "updated": "2026-07-24T13:28:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "atraso cambiario",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "tomás martín etcheverry",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "china suárez",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "tom holland",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "camionero",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "arresto",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "nicolás cabré",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "autopista",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "lmneuquen",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "aire de santa fe",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "24 de julio",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "la capital",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cuando llega",
+      "name": "aire de santa fe",
       "traffic": "100+",
       "rank": 10
     }
