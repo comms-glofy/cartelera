@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T21:35:52Z",
+  "updated": "2026-07-24T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "spider-man: brand new day",
-      "traffic": "100+",
+      "name": "torneo argentino",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "futbol argentino hoy",
-      "traffic": "100+",
+      "name": "ricardo caruso lombardi",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "la falda",
+      "name": "spider-man: brand new day",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "superliga",
-      "traffic": "200+",
+      "name": "futbol argentino hoy",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "union",
-      "traffic": "100+",
+      "name": "la falda",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "superliga",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "union",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "gasto",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "luiz inácio lula da silva",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "roro",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "miniserie",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "velez",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
