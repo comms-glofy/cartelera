@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T14:00:13Z",
+  "updated": "2026-07-24T14:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ambulancia",
+      "name": "quiniela nacional",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "atraso cambiario",
+      "name": "jürgen klopp",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "200+",
+      "name": "ambulancia",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "atraso cambiario",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "china suárez",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "tom holland",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "camionero",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "nicolás cabré",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "arresto",
+      "name": "camionero",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "autopista",
+      "name": "nicolás cabré",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "aire de santa fe",
-      "traffic": "100+",
+      "name": "arresto",
+      "traffic": "200+",
       "rank": 10
     }
   ]
