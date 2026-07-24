@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-23T23:30:15Z",
+  "updated": "2026-07-24T00:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "talleres",
+      "name": "álvaro montero",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "argentina futbol",
+      "name": "rosalía movistar arena",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "vacaciones",
+      "name": "argentinos",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "esteban lamothe",
-      "traffic": "500+",
+      "name": "entrevías",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "badaloni",
+      "name": "choque ruta 14",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "tarjeta roja futbol",
-      "traffic": "500+",
+      "name": "talleres",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "perro",
-      "traffic": "500+",
+      "name": "argentina futbol",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "lali espósito",
+      "name": "futbol en vivo",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "bolivar",
-      "traffic": "1000+",
+      "name": "vacaciones",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "corinthians - remo",
-      "traffic": "500+",
+      "name": "esteban lamothe",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
