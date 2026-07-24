@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T20:30:16Z",
+  "updated": "2026-07-24T21:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "miniserie",
+      "name": "union",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "velez",
-      "traffic": "500+",
+      "name": "gasto",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "luciano darderi",
-      "traffic": "100+",
+      "name": "roro",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "marcos llorente",
+      "name": "luiz inácio lula da silva",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "miniserie",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "velez",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "luciano darderi",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "marcos llorente",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "racing hoy",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "2 de mayo - rubio ñu",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "central cordoba",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "ruta nacional 40",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "el niño",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "metal extremo",
-      "traffic": "500+",
       "rank": 10
     }
   ]
