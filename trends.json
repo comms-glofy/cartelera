@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T18:00:17Z",
+  "updated": "2026-07-24T18:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "parque de la ciudad",
+      "name": "christopher anne boldt",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "barcelona",
-      "traffic": "200+",
+      "name": "huracan",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "real madrid vs",
+      "name": "parque de la ciudad",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "benfica - belenenses",
-      "traffic": "500+",
+      "name": "barcelona",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "twitch",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "real madrid vs",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "benfica - belenenses",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "román andrés burruchaga",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "velada del año 2026",
-      "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "real madrid",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "ceferino díaz",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "quien gano el prode de mercado pago",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "manchester united",
-      "traffic": "500+",
       "rank": 10
     }
   ]
