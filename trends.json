@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T17:03:01Z",
+  "updated": "2026-07-24T17:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "román andrés burruchaga",
-      "traffic": "200+",
+      "name": "benfica - belenenses",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "velada del año 2026",
-      "traffic": "1000+",
+      "name": "román andrés burruchaga",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "real madrid",
-      "traffic": "200+",
+      "name": "la velada del año 2026",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "real madrid",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "ceferino díaz",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "quien gano el prode de mercado pago",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "manchester united",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "camión",
+      "name": "manchester united",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "rosenborg bk - manchester united",
-      "traffic": "2000+",
+      "name": "camión",
+      "traffic": "1000+",
       "rank": 8
+    },
+    {
+      "name": "rosenborg bk - manchester united",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "lebron james",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "eduardo coudet",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
