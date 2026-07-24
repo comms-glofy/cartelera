@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-24T11:38:48Z",
+  "updated": "2026-07-24T12:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arresto",
+      "name": "nicolás cabré",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "nicolás cabré",
+      "name": "arresto",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "aire de santa fe",
+      "name": "autopista",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "autopista",
+      "name": "aire de santa fe",
       "traffic": "100+",
       "rank": 4
     },
@@ -29,13 +29,13 @@
       "rank": 5
     },
     {
-      "name": "la capital",
-      "traffic": "200+",
+      "name": "24 de julio",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "24 de julio",
-      "traffic": "100+",
+      "name": "la capital",
+      "traffic": "200+",
       "rank": 7
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "como",
-      "traffic": "200+",
+      "traffic": "100+",
       "rank": 9
     },
     {
