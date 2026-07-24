@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T19:00:17Z",
+  "updated": "2026-07-24T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "edu aguirre",
-      "traffic": "200+",
+      "name": "central cordoba",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "racing vs gimnasia",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "ruta nacional 40",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "el niño",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "galatasaray - monza",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "metal extremo",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "barcelona vs",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "christopher anne boldt",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "huracan",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "parque de la ciudad",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "barcelona",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "twitch",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
