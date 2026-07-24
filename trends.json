@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T08:00:17Z",
+  "updated": "2026-07-24T08:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "futbol 11",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "montaña",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "leandro paredes",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ébola",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "fifa argentina",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "hugh grant",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ernesto tenembaum",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ryan gosling",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tomás avilés",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "aumento empleados de comercio",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "hermano del dibu martinez",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
