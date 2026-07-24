@@ -1,46 +1,46 @@
 {
-  "updated": "2026-07-24T20:00:16Z",
+  "updated": "2026-07-24T20:19:00Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "miniserie",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "velez",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "luciano darderi",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "marcos llorente",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "racing hoy",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "2 de mayo - rubio ñu",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "central cordoba",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ruta nacional 40",
+      "name": "central cordoba",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "galatasaray",
-      "traffic": "500+",
+      "name": "ruta nacional 40",
+      "traffic": "1000+",
       "rank": 8
     },
     {
