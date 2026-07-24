@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T22:30:16Z",
+  "updated": "2026-07-24T22:57:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "adrián ravier",
+      "name": "bebé",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "cerro porteño",
-      "traffic": "100+",
+      "name": "phillies - yankees",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "torneo argentino",
-      "traffic": "200+",
+      "name": "la carolina san luis",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ricardo caruso lombardi",
+      "name": "marina magali",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "futbol argentino hoy",
+      "name": "sylvester stallone",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "spider-man: brand new day",
-      "traffic": "100+",
+      "name": "colapinto f1 hungria",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "astrología china",
-      "traffic": "200+",
+      "name": "adrián ravier",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "la falda",
-      "traffic": "500+",
+      "name": "cerro porteño",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "superliga",
-      "traffic": "200+",
+      "name": "torneo argentino",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "union",
-      "traffic": "500+",
+      "name": "racing",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
