@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T12:30:19Z",
+  "updated": "2026-07-24T13:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arresto",
+      "name": "tom holland",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "nicolás cabré",
+      "name": "camionero",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "autopista",
+      "name": "arresto",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "nicolás cabré",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "autopista",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "lmneuquen",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "aire de santa fe",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "24 de julio",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "la capital",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "cuando llega",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "como",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "ángel di maría",
-      "traffic": "500+",
       "rank": 10
     }
   ]
