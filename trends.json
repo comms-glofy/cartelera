@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T22:00:14Z",
+  "updated": "2026-07-24T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "torneo argentino",
-      "traffic": "500+",
+      "name": "adrián ravier",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "cerro porteño",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "torneo argentino",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "ricardo caruso lombardi",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "spider-man: brand new day",
-      "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "futbol argentino hoy",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "spider-man: brand new day",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "astrología china",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "la falda",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "superliga",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "union",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "gasto",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "luiz inácio lula da silva",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "roro",
-      "traffic": "200+",
       "rank": 10
     }
   ]
