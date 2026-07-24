@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T19:30:17Z",
+  "updated": "2026-07-24T20:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "central cordoba",
-      "traffic": "100+",
+      "name": "velez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "racing vs gimnasia",
-      "traffic": "2000+",
+      "name": "luciano darderi",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ruta nacional 40",
+      "name": "marcos llorente",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "el niño",
-      "traffic": "500+",
+      "name": "racing hoy",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "galatasaray - monza",
-      "traffic": "500+",
+      "name": "2 de mayo - rubio ñu",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "metal extremo",
+      "name": "central cordoba",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "barcelona vs",
-      "traffic": "100+",
+      "name": "ruta nacional 40",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "christopher anne boldt",
-      "traffic": "200+",
+      "name": "galatasaray",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "huracan",
-      "traffic": "100+",
+      "name": "el niño",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "parque de la ciudad",
-      "traffic": "100+",
+      "name": "metal extremo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
