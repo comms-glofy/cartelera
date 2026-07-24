@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T03:00:16Z",
+  "updated": "2026-07-24T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,8 +9,8 @@
       "rank": 1
     },
     {
-      "name": "ébola",
-      "traffic": "100+",
+      "name": "tenembaum",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
-      "name": "tomás avilés",
-      "traffic": "500+",
+      "name": "ébola",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "ernesto tenembaum",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "ryan gosling",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "tomás avilés",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "aumento empleados de comercio",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "tomas aranda",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "hermano del dibu martinez",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "maxi lópez",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "alberto jose ovando los fronterizos",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "libertadores",
+      "name": "hermano del dibu martinez",
       "traffic": "200+",
       "rank": 10
     }
