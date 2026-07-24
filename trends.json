@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T11:30:19Z",
+  "updated": "2026-07-24T11:38:48Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "autopista",
+      "name": "arresto",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "aire de santa fe",
+      "name": "nicolás cabré",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "la capital",
-      "traffic": "200+",
+      "name": "aire de santa fe",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "24 de julio",
+      "name": "autopista",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "cuando llega",
+      "name": "lmneuquen",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "como",
+      "name": "la capital",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ángel di maría",
-      "traffic": "500+",
+      "name": "24 de julio",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "españa apuestas",
-      "traffic": "1000+",
+      "name": "cuando llega",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "futbol 11",
+      "name": "como",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "europa",
-      "traffic": "1000+",
+      "name": "ángel di maría",
+      "traffic": "500+",
       "rank": 10
     }
   ]
