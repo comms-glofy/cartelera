@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-24T21:00:21Z",
+  "updated": "2026-07-24T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "union",
+      "name": "la falda",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "gasto",
+      "name": "superliga",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "roro",
-      "traffic": "200+",
+      "name": "union",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "gasto",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "luiz inácio lula da silva",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "miniserie",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "velez",
-      "traffic": "1000+",
+      "name": "roro",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "miniserie",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "velez",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "luciano darderi",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "marcos llorente",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "racing hoy",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "2 de mayo - rubio ñu",
+      "name": "marcos llorente",
       "traffic": "200+",
       "rank": 10
     }
