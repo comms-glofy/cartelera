@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T11:00:16Z",
+  "updated": "2026-07-24T11:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuando llega",
+      "name": "autopista",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "como",
+      "name": "aire de santa fe",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ángel di maría",
+      "name": "la capital",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "24 de julio",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "cuando llega",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "como",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "ángel di maría",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "españa apuestas",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "futbol 11",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "europa",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "montaña",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "leandro paredes",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "ébola",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "fifa argentina",
-      "traffic": "200+",
       "rank": 10
     }
   ]
