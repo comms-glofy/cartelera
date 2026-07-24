@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T00:00:14Z",
+  "updated": "2026-07-24T00:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "álvaro montero",
-      "traffic": "200+",
+      "name": "promedios",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "rosalía movistar arena",
-      "traffic": "100+",
+      "name": "espn",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "argentinos",
+      "name": "botafogo vs",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "entrevías",
-      "traffic": "200+",
+      "name": "fin de semana",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "choque ruta 14",
+      "name": "defensa y justicia",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "talleres",
-      "traffic": "200+",
+      "name": "nicolás otamendi",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "argentina futbol",
-      "traffic": "100+",
+      "name": "autopista panamericana",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "futbol en vivo",
-      "traffic": "200+",
+      "name": "álvaro montero",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "vacaciones",
-      "traffic": "100+",
+      "name": "botafogo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "esteban lamothe",
-      "traffic": "1000+",
+      "name": "argentinos",
+      "traffic": "200+",
       "rank": 10
     }
   ]
