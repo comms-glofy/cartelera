@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T18:30:13Z",
+  "updated": "2026-07-24T18:56:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "edu aguirre",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "ruta nacional 40",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "el niño",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "galatasaray - monza",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "barcelona vs",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "christopher anne boldt",
       "traffic": "100+",
-      "rank": 1
+      "rank": 6
     },
     {
       "name": "huracan",
       "traffic": "100+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "parque de la ciudad",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "barcelona",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "twitch",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "real madrid vs",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "benfica - belenenses",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "román andrés burruchaga",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "real madrid",
-      "traffic": "1000+",
+      "name": "barcelona",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ceferino díaz",
-      "traffic": "2000+",
+      "name": "twitch",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
