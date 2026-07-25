@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T22:51:43Z",
+  "updated": "2026-07-25T23:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "montréal - inter miami",
-      "traffic": "200+",
+      "name": "berlin",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "futbol en vivo",
-      "traffic": "500+",
+      "name": "montréal - inter miami",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "barracas",
+      "name": "river ahora",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "futbol en vivo",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "barracas",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "futbol libre",
       "traffic": "50000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "tarjeta roja mundial",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "carlo ancelotti",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "san martin de tucuman",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "river va",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "independiente vs",
+      "name": "san martin de tucuman",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "río uruguay",
-      "traffic": "100+",
+      "name": "river va",
+      "traffic": "200+",
       "rank": 10
     }
   ]
