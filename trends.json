@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T17:00:16Z",
+  "updated": "2026-07-25T17:29:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kick",
-      "traffic": "1000+",
+      "name": "athletic - eibar",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "enzo fernández",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "kick",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "estudiantes de rio cuarto",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "horacio muratore",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "río negro",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "geoide",
-      "traffic": "200+",
+      "name": "horacio muratore",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "twitch",
-      "traffic": "20000+",
+      "name": "río negro",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "la rural",
+      "name": "geoide",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "rodolfo arruabarrena",
-      "traffic": "200+",
+      "name": "twitch",
+      "traffic": "50000+",
       "rank": 8
     },
     {
-      "name": "ponzinibbio",
-      "traffic": "500+",
+      "name": "la rural",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "boca vs riestra",
-      "traffic": "500+",
+      "name": "rodolfo arruabarrena",
+      "traffic": "200+",
       "rank": 10
     }
   ]
