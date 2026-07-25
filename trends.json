@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T13:00:17Z",
+  "updated": "2026-07-25T13:17:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "horarios f1 hungria 2026",
+      "name": "25 de julio",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "horarios f1 hungria 2026",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "fp3 hungria",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "gordon ramsay",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "dominic thiem",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "düsseldorf - dortmund",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "girona - alavés",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "clima bahia blanca",
+      "name": "girona - alavés",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "walter ortiz",
-      "traffic": "1000+",
+      "name": "clima bahia blanca",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "marcos senesi",
+      "name": "walter ortiz",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "liga mx",
-      "traffic": "100+",
+      "name": "marcos senesi",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
