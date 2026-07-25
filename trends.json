@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-25T18:00:15Z",
+  "updated": "2026-07-25T18:28:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "standard lieja - juventus",
-      "traffic": "200+",
+      "name": "illojuan",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "periódico",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "fabiana sevillano",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "aeronave",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "standard lieja - juventus",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "spreen",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "magomed zaynukov",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "andoni",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "maria pombo",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "alejandro grimaldo",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "angie velasco",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "inspección general de justicia",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "athletic - eibar",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "enzo fernández",
+      "name": "grimaldo",
       "traffic": "2000+",
       "rank": 10
     }
