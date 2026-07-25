@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T20:00:14Z",
+  "updated": "2026-07-25T20:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "apuesta",
-      "traffic": "100+",
+      "name": "leones de rosario",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "aston villa",
+      "name": "futbol argentino hoy",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "river id",
-      "traffic": "500+",
+      "name": "presidente",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "bombero",
-      "traffic": "200+",
+      "name": "hector fort",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "granada - real betis",
-      "traffic": "200+",
+      "name": "mks",
+      "traffic": "10000+",
       "rank": 5
     },
     {
-      "name": "porto - aston villa",
-      "traffic": "5000+",
+      "name": "marta díaz",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "andrea kimi antonelli",
+      "name": "chacarita",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "illojuan",
-      "traffic": "200+",
+      "name": "apuesta",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "aeronave",
-      "traffic": "500+",
+      "name": "aston villa",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "standard lieja - juventus",
-      "traffic": "1000+",
+      "name": "partidos de river plate",
+      "traffic": "200+",
       "rank": 10
     }
   ]
