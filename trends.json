@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T17:30:53Z",
+  "updated": "2026-07-25T18:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "athletic - eibar",
+      "name": "standard lieja - juventus",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "enzo fernández",
-      "traffic": "2000+",
+      "name": "spreen",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "kick",
-      "traffic": "2000+",
+      "name": "magomed zaynukov",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "estudiantes de rio cuarto",
-      "traffic": "100+",
+      "name": "andoni",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "horacio muratore",
-      "traffic": "500+",
+      "name": "maria pombo",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "río negro",
-      "traffic": "200+",
+      "name": "alejandro grimaldo",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "geoide",
-      "traffic": "500+",
+      "name": "angie velasco",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "twitch",
-      "traffic": "50000+",
+      "name": "inspección general de justicia",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "la rural",
-      "traffic": "1000+",
+      "name": "athletic - eibar",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rodolfo arruabarrena",
-      "traffic": "200+",
+      "name": "enzo fernández",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
