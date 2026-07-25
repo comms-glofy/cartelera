@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T11:00:19Z",
+  "updated": "2026-07-25T11:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "düsseldorf - dortmund",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "girona - alavés",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "clima bahia blanca",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "walter ortiz",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "marcos senesi",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "liga mx",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "universitario",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "elize matsunaga",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "heavy metal argentino",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "juanfer quintero",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "deportivo cali",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "cae",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
