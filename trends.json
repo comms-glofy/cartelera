@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T00:07:26Z",
+  "updated": "2026-07-25T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vozinha",
-      "traffic": "1000+",
+      "name": "colo-colo - deportes limache",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "200+",
+      "name": "metastasis",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "talleres",
-      "traffic": "200+",
+      "name": "vozinha",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "lou koller",
-      "traffic": "100+",
+      "name": "mirtha legrand",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "lautaro diaz",
+      "name": "union vs",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cerro",
-      "traffic": "100+",
+      "name": "talleres",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "jugador de fútbol",
-      "traffic": "200+",
+      "name": "lou koller",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "bebé",
+      "name": "lautaro diaz",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "phillies - yankees",
+      "name": "cerro",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "la carolina san luis",
-      "traffic": "100+",
+      "name": "jugador de fútbol",
+      "traffic": "200+",
       "rank": 10
     }
   ]
