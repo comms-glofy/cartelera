@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T03:00:16Z",
+  "updated": "2026-07-25T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "elize matsunaga",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "heavy metal argentino",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "juanfer quintero",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "deportivo cali",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "canal 12",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "carolina baldini",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "la joaqui",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "colo-colo - deportes limache",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "metastasis",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "mirtha legrand",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "cristina fernández de kirchner",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "talleres",
-      "traffic": "500+",
       "rank": 10
     }
   ]
