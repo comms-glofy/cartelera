@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T14:00:19Z",
+  "updated": "2026-07-25T14:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "kirchnerismo",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "hungaroring",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "temaiken",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "tombola santiagueña",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "evacuación",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "barreda",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "wehen wiesbaden - bayern",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "celtic f. c. - milan",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "diego peretti",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "benjamín vicuña",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "25 de julio",
-      "traffic": "100+",
+      "name": "diego peretti",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "horarios f1 hungria 2026",
-      "traffic": "100+",
+      "name": "benjamín vicuña",
+      "traffic": "200+",
       "rank": 10
     }
   ]
