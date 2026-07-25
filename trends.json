@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T21:51:42Z",
+  "updated": "2026-07-25T22:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jake paul",
-      "traffic": "5000+",
+      "name": "gaspi",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "logan paul",
+      "name": "mansión",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "unión tranviarios automotor",
-      "traffic": "200+",
+      "name": "luciano darderi",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "jake paul",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "logan paul",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "unión tranviarios automotor",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "club atlético central córdoba",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "name": "pelota libre partido en vivo",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "liverpool - sunderland afc",
-      "traffic": "5000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "superliga",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "virus",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "ciberataque",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "paranaense - internacional",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "independiente",
-      "traffic": "500+",
       "rank": 10
     }
   ]
