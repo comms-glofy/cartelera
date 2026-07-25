@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-25T05:00:15Z",
+  "updated": "2026-07-25T05:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "universitario",
+      "name": "liga mx",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "elize matsunaga",
-      "traffic": "200+",
+      "name": "universitario",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "heavy metal argentino",
+      "name": "elize matsunaga",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "juanfer quintero",
-      "traffic": "2000+",
+      "name": "heavy metal argentino",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "juanfer quintero",
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "deportivo cali",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "canal 12",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "carolina baldini",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "la joaqui",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "colo-colo - deportes limache",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "metastasis",
+      "name": "colo-colo - deportes limache",
       "traffic": "500+",
       "rank": 10
     }
