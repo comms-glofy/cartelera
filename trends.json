@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T09:30:13Z",
+  "updated": "2026-07-25T10:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "juanfer quintero",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
       "name": "deportivo cali",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "cae",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "canal 12",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "vozinha colo colo",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "carolina baldini",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "la joaqui",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "colo-colo - deportes limache",
-      "traffic": "500+",
       "rank": 10
     }
   ]
