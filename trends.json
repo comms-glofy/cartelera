@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T01:00:17Z",
+  "updated": "2026-07-25T01:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colo-colo - deportes limache",
+      "name": "carolina baldini",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "metastasis",
-      "traffic": "100+",
+      "name": "colo-colo - deportes limache",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "500+",
+      "name": "metastasis",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "mirtha legrand",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "talleres",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lou koller",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "colo colo",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lautaro diaz",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "cerro",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "jugador de fútbol",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "bebé",
-      "traffic": "500+",
       "rank": 10
     }
   ]
