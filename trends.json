@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-24T23:30:16Z",
+  "updated": "2026-07-25T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lautaro diaz",
+      "name": "talleres",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "colo colo",
+      "name": "lou koller",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cerro",
-      "traffic": "100+",
+      "name": "colo colo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jugador de fútbol",
+      "name": "lautaro diaz",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bebé",
-      "traffic": "200+",
+      "name": "cerro",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "phillies - yankees",
+      "name": "jugador de fútbol",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "la carolina san luis",
-      "traffic": "100+",
+      "name": "bebé",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "marina magali",
+      "name": "phillies - yankees",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sylvester stallone",
+      "name": "la carolina san luis",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "colapinto f1 hungria",
-      "traffic": "200+",
+      "name": "marina magali",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
