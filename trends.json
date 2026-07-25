@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T22:00:16Z",
+  "updated": "2026-07-25T22:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gaspi",
-      "traffic": "1000+",
+      "name": "futbol libre",
+      "traffic": "100000+",
       "rank": 1
     },
     {
-      "name": "mansión",
+      "name": "tarjeta roja mundial",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "luciano darderi",
-      "traffic": "100+",
+      "name": "san martin de tucuman",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jake paul",
-      "traffic": "5000+",
+      "name": "carlo ancelotti",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "logan paul",
-      "traffic": "200+",
+      "name": "river va",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "unión tranviarios automotor",
-      "traffic": "500+",
+      "name": "río uruguay",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "club atlético central córdoba",
-      "traffic": "200+",
+      "name": "independiente vs",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "pelota libre partido en vivo",
-      "traffic": "200+",
+      "name": "fin de semana",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "liverpool - sunderland afc",
-      "traffic": "2000+",
+      "name": "promedios",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "superliga",
-      "traffic": "200+",
+      "name": "liverpool",
+      "traffic": "100+",
       "rank": 10
     }
   ]
