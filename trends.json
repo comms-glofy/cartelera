@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T16:01:39Z",
+  "updated": "2026-07-25T16:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "geoide",
+      "name": "horacio muratore",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "la rural",
-      "traffic": "200+",
+      "name": "río negro",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "geoide",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "la rural",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "rodolfo arruabarrena",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "ponzinibbio",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "santiago ponzinibbio",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "boca vs riestra",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "bayern munich",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "kirchnerismo",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "hungaroring",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "temaiken",
-      "traffic": "500+",
       "rank": 10
     }
   ]
