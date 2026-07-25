@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-25T22:30:13Z",
+  "updated": "2026-07-25T22:51:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "futbol libre",
-      "traffic": "100000+",
+      "name": "montréal - inter miami",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tarjeta roja mundial",
-      "traffic": "200+",
+      "name": "futbol en vivo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "san martin de tucuman",
+      "name": "barracas",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "carlo ancelotti",
-      "traffic": "200+",
+      "name": "futbol libre",
+      "traffic": "50000+",
       "rank": 4
     },
     {
-      "name": "river va",
-      "traffic": "100+",
+      "name": "tarjeta roja mundial",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "río uruguay",
-      "traffic": "100+",
+      "name": "carlo ancelotti",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "san martin de tucuman",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "river va",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "independiente vs",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "fin de semana",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "promedios",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "liverpool",
+      "name": "río uruguay",
       "traffic": "100+",
       "rank": 10
     }
