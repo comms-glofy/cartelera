@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-25T19:30:14Z",
+  "updated": "2026-07-25T19:44:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juanes",
-      "traffic": "5000+",
+      "name": "aston villa",
+      "traffic": "100+",
       "rank": 1
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "fabiana sevillano",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
       "name": "aeronave",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "standard lieja - juventus",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "spreen",
+      "traffic": "200+",
       "rank": 10
     }
   ]
