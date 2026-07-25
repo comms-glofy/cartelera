@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-25T20:46:11Z",
+  "updated": "2026-07-25T21:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "luzu",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "belén esteban",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "leones fc",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "leones de rosario",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "futbol argentino hoy",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "presidente",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mks",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "marta díaz",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "chacarita",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "apuesta",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "aston villa",
+      "name": "apuesta",
       "traffic": "200+",
       "rank": 10
     }
