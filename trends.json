@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T10:00:19Z",
+  "updated": "2026-07-25T10:09:42Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liga mx",
+      "name": "marcos senesi",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "universitario",
+      "name": "liga mx",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "elize matsunaga",
-      "traffic": "200+",
+      "name": "universitario",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "heavy metal argentino",
+      "name": "elize matsunaga",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "heavy metal argentino",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "juanfer quintero",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "deportivo cali",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "cae",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "canal 12",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "vozinha colo colo",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "carolina baldini",
-      "traffic": "200+",
       "rank": 10
     }
   ]
