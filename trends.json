@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T00:30:13Z",
+  "updated": "2026-07-25T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "vozinha",
-      "traffic": "1000+",
+      "name": "mirtha legrand",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "mirtha legrand",
+      "name": "talleres",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "union vs",
+      "name": "lou koller",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "talleres",
-      "traffic": "200+",
+      "name": "colo colo",
+      "traffic": "2000+",
       "rank": 6
-    },
-    {
-      "name": "lou koller",
-      "traffic": "100+",
-      "rank": 7
     },
     {
       "name": "lautaro diaz",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "cerro",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "jugador de fútbol",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "bebé",
+      "traffic": "500+",
       "rank": 10
     }
   ]
