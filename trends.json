@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-25T02:00:15Z",
+  "updated": "2026-07-25T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "quintero",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "canal 12",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "carolina baldini",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "colo-colo - deportes limache",
-      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "metastasis",
+      "name": "la joaqui",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "1000+",
+      "name": "colo-colo - deportes limache",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "metastasis",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "mirtha legrand",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "cristina fernández de kirchner",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "talleres",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "lou koller",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "colo colo",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "lautaro diaz",
+      "name": "lou koller",
       "traffic": "200+",
       "rank": 10
     }
