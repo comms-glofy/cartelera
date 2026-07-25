@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T15:00:17Z",
+  "updated": "2026-07-25T15:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santiago ponzinibbio",
+      "name": "geoide",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "bayern munich",
-      "traffic": "100+",
+      "name": "la rural",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "boca vs riestra",
+      "name": "rodolfo arruabarrena",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "bayern",
-      "traffic": "100+",
+      "name": "santiago ponzinibbio",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "kirchnerismo",
+      "name": "boca vs riestra",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "hungaroring",
-      "traffic": "200+",
+      "name": "bayern munich",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "temaiken",
-      "traffic": "200+",
+      "name": "bayern",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "tombola santiagueña",
+      "name": "kirchnerismo",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "evacuación",
-      "traffic": "200+",
+      "name": "hungaroring",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "barreda",
-      "traffic": "100+",
+      "name": "temaiken",
+      "traffic": "500+",
       "rank": 10
     }
   ]
