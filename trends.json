@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T18:30:15Z",
+  "updated": "2026-07-25T19:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "illojuan",
+      "name": "bombero",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "periódico",
-      "traffic": "100+",
+      "name": "granada - real betis",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fabiana sevillano",
+      "name": "porto - aston villa",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "aeronave",
-      "traffic": "200+",
+      "name": "andrea kimi antonelli",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "standard lieja - juventus",
-      "traffic": "500+",
+      "name": "illojuan",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "spreen",
-      "traffic": "200+",
+      "name": "periódico",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "magomed zaynukov",
-      "traffic": "100+",
+      "name": "fabiana sevillano",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "andoni",
-      "traffic": "2000+",
+      "name": "aeronave",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "maria pombo",
+      "name": "standard lieja - juventus",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "grimaldo",
-      "traffic": "2000+",
+      "name": "spreen",
+      "traffic": "200+",
       "rank": 10
     }
   ]
