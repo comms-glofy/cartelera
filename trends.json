@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T23:00:13Z",
+  "updated": "2026-07-25T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "berlin",
-      "traffic": "100+",
+      "name": "marta diaz tatiana kaer",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "montréal - inter miami",
-      "traffic": "2000+",
+      "name": "river vs rosario central",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "river ahora",
-      "traffic": "200+",
+      "name": "juan carlos distéfano",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "futbol en vivo",
-      "traffic": "500+",
+      "name": "lpf argentina",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "barracas",
-      "traffic": "200+",
+      "name": "berlin",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "futbol libre",
-      "traffic": "50000+",
+      "name": "montréal - inter miami",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "tarjeta roja mundial",
+      "name": "barracas",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "carlo ancelotti",
-      "traffic": "200+",
+      "name": "futbol en vivo",
+      "traffic": "1000+",
       "rank": 8
+    },
+    {
+      "name": "futbol libre",
+      "traffic": "50000+",
+      "rank": 9
     },
     {
       "name": "san martin de tucuman",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "river va",
-      "traffic": "200+",
       "rank": 10
     }
   ]
