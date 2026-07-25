@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T10:30:12Z",
+  "updated": "2026-07-25T11:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima bahia blanca",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "walter ortiz",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "marcos senesi",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "liga mx",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "universitario",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "elize matsunaga",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "heavy metal argentino",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "juanfer quintero",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "deportivo cali",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "cae",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "canal 12",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "vozinha colo colo",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
