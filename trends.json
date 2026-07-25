@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T14:45:51Z",
+  "updated": "2026-07-25T15:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bayern",
+      "name": "santiago ponzinibbio",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "kirchnerismo",
+      "name": "bayern munich",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "hungaroring",
-      "traffic": "200+",
+      "name": "boca vs riestra",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "temaiken",
-      "traffic": "200+",
+      "name": "bayern",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tombola santiagueña",
+      "name": "kirchnerismo",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "evacuación",
+      "name": "hungaroring",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "barreda",
-      "traffic": "100+",
+      "name": "temaiken",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "wehen wiesbaden - bayern",
-      "traffic": "2000+",
+      "name": "tombola santiagueña",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "celtic f. c. - milan",
-      "traffic": "1000+",
+      "name": "evacuación",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "diego peretti",
-      "traffic": "500+",
+      "name": "barreda",
+      "traffic": "100+",
       "rank": 10
     }
   ]
