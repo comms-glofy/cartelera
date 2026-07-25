@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T21:30:14Z",
+  "updated": "2026-07-25T21:51:42Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liverpool - sunderland afc",
-      "traffic": "200+",
+      "name": "jake paul",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "superliga",
+      "name": "logan paul",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "virus",
-      "traffic": "100+",
+      "name": "unión tranviarios automotor",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ciberataque",
-      "traffic": "100+",
+      "name": "club atlético central córdoba",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "paranaense - internacional",
-      "traffic": "200+",
+      "name": "liverpool - sunderland afc",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "independiente",
-      "traffic": "500+",
+      "name": "superliga",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "inundación",
+      "name": "virus",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "flávio bolsonaro",
+      "name": "ciberataque",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "santos - chapecoense",
-      "traffic": "500+",
+      "name": "paranaense - internacional",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "asociación trabajadores del estado",
-      "traffic": "200+",
+      "name": "independiente",
+      "traffic": "500+",
       "rank": 10
     }
   ]
