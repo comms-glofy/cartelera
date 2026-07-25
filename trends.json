@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-25T16:30:13Z",
+  "updated": "2026-07-25T17:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "horacio muratore",
-      "traffic": "100+",
+      "name": "kick",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "río negro",
+      "name": "estudiantes de rio cuarto",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "geoide",
+      "name": "horacio muratore",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "la rural",
-      "traffic": "500+",
+      "name": "río negro",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "rodolfo arruabarrena",
-      "traffic": "100+",
+      "name": "geoide",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ponzinibbio",
-      "traffic": "500+",
+      "name": "twitch",
+      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "boca vs riestra",
-      "traffic": "200+",
+      "name": "la rural",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "bayern munich",
+      "name": "rodolfo arruabarrena",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "kirchnerismo",
-      "traffic": "100+",
+      "name": "ponzinibbio",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "hungaroring",
-      "traffic": "1000+",
+      "name": "boca vs riestra",
+      "traffic": "500+",
       "rank": 10
     }
   ]
