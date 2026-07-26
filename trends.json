@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T02:00:20Z",
+  "updated": "2026-07-26T02:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "david jonsson",
+      "name": "montréal vs inter miami",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "shawn levy",
-      "traffic": "1000+",
+      "name": "tolima - junior",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mls",
-      "traffic": "500+",
+      "name": "berterame",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "atletico tucuman",
-      "traffic": "100+",
+      "name": "toluca - cruz azul",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "karina mazzocco",
-      "traffic": "500+",
+      "name": "los creyentes",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "la joaqui",
+      "name": "cadena de supermercados",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "inter miami",
-      "traffic": "2000+",
+      "name": "david jonsson",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "river vs riestra",
-      "traffic": "500+",
+      "name": "shawn levy",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "bkfc",
-      "traffic": "200+",
+      "name": "mls",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tucumán",
-      "traffic": "500+",
+      "name": "atletico tucuman",
+      "traffic": "100+",
       "rank": 10
     }
   ]
