@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T13:00:14Z",
+  "updated": "2026-07-26T13:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "james bond",
+      "name": "26 de julio",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clarín",
-      "traffic": "1000+",
+      "name": "kirchnerismo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "200+",
+      "name": "disney plus",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "carrera f1 hoy",
-      "traffic": "2000+",
+      "name": "disney+",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "eva peron",
+      "name": "james bond",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "temaiken",
-      "traffic": "1000+",
+      "name": "clarín",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "policía de la provincia de río negro",
+      "name": "administración nacional de la seguridad social",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "misionesonline",
-      "traffic": "200+",
+      "name": "carrera f1 hoy",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "federico sturzenegger",
+      "name": "eva peron",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "f2",
-      "traffic": "100+",
+      "name": "temaiken",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
