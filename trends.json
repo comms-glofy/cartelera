@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T21:30:14Z",
+  "updated": "2026-07-26T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flamengo - são paulo",
-      "traffic": "200+",
+      "name": "lionel scaloni",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "brasileirão serie a",
-      "traffic": "1000+",
+      "name": "boca partidos",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "san miguel club",
+      "name": "clima formosa",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cuándo juega boca juniors",
-      "traffic": "100+",
+      "name": "grêmio - fluminense",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "matías manna",
+      "name": "lunes",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "oscar piastri",
+      "name": "emiliano grillo",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "fórmula 1",
-      "traffic": "10000+",
+      "name": "inflación",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "primera división de paraguay",
-      "traffic": "100+",
+      "name": "flamengo - são paulo",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "nacional b",
-      "traffic": "500+",
+      "name": "brasileirão serie a",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "tarjeta roja fútbol",
-      "traffic": "500+",
+      "name": "san miguel club",
+      "traffic": "100+",
       "rank": 10
     }
   ]
