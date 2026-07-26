@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T20:30:15Z",
+  "updated": "2026-07-26T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nacional b",
-      "traffic": "200+",
+      "name": "cuándo juega boca juniors",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tarjeta roja fútbol",
-      "traffic": "500+",
+      "name": "matías manna",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "san martin de san juan",
-      "traffic": "200+",
+      "name": "oscar piastri",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "b nacional",
-      "traffic": "200+",
+      "name": "fórmula 1",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "racing de cordoba",
-      "traffic": "200+",
+      "name": "primera división de paraguay",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "gimnasia de jujuy",
+      "name": "nacional b",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "bombero",
-      "traffic": "100+",
+      "name": "tarjeta roja fútbol",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "sevilla - ad ceuta",
-      "traffic": "100+",
+      "name": "san martin de san juan",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "partidos de hoy liga argentina",
-      "traffic": "100+",
+      "name": "racing de cordoba",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "josé maría muscari",
-      "traffic": "100+",
+      "name": "gimnasia de jujuy",
+      "traffic": "200+",
       "rank": 10
     }
   ]
