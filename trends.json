@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T12:00:14Z",
+  "updated": "2026-07-26T12:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "temaiken",
-      "traffic": "1000+",
+      "name": "administración nacional de la seguridad social",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "federico sturzenegger",
+      "name": "policía de la provincia de río negro",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "f2",
-      "traffic": "100+",
+      "name": "temaiken",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "andy kusnetzoff",
+      "name": "misionesonline",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "federico sturzenegger",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "f2",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "andy kusnetzoff",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "el otro padre",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "milei bolsonaro",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "elize matsunaga",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "auckland football club - tottenham",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "arturo puig",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "montréal vs inter miami",
-      "traffic": "100+",
       "rank": 10
     }
   ]
