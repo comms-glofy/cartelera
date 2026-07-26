@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T11:00:14Z",
+  "updated": "2026-07-26T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "tolima - junior",
+      "name": "montréal vs inter miami",
       "traffic": "100+",
       "rank": 6
     },
     {
+      "name": "tolima - junior",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "berterame",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "toluca - cruz azul",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "los creyentes",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "cadena de supermercados",
-      "traffic": "500+",
       "rank": 10
     }
   ]
