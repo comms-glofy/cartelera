@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-26T17:00:20Z",
+  "updated": "2026-07-26T17:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ryan reynolds",
-      "traffic": "100+",
+      "name": "pago",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cuando juega boca",
-      "traffic": "5000+",
+      "name": "inter de milán",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "policía",
+      "name": "ryan reynolds",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "noticia",
-      "traffic": "200+",
+      "name": "policía",
+      "traffic": "100+",
       "rank": 4
     },
     {
       "name": "glenn close",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "noticia",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "a qué hora juega boca hoy",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "asociación del fútbol argentino",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "inter milan",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "xuxa",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "napoli - carrarese calcio 1908",
+      "name": "xuxa",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "susana gimenez",
+      "name": "inter milan",
       "traffic": "200+",
       "rank": 10
     }
