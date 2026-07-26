@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T19:04:44Z",
+  "updated": "2026-07-26T19:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bahía - corinthians",
-      "traffic": "200+",
+      "name": "colon vs chaco for ever",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lpf",
-      "traffic": "500+",
+      "name": "angelina jolie",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "víctor jara",
+      "name": "diomande",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "la joaqui",
-      "traffic": "500+",
+      "name": "estrecho",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "futbol argentino hoy",
-      "traffic": "500+",
+      "name": "bahía - corinthians",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "lpf",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "víctor jara",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "la joaqui",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "pronostico bariloche",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "estudiantes hoy",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "montevideo portal",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "cruzeiro - botafogo",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "olimpia - libertad",
-      "traffic": "2000+",
+      "name": "futbol argentino hoy",
+      "traffic": "500+",
       "rank": 10
     }
   ]
