@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T02:30:15Z",
+  "updated": "2026-07-26T02:53:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "montréal vs inter miami",
-      "traffic": "200+",
+      "name": "elize matsunaga",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tolima - junior",
-      "traffic": "100+",
+      "name": "auckland football club - tottenham",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "berterame",
+      "name": "arturo puig",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "toluca - cruz azul",
-      "traffic": "200+",
+      "name": "montréal vs inter miami",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "los creyentes",
+      "name": "tolima - junior",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "toluca - cruz azul",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "los creyentes",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "cadena de supermercados",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "david jonsson",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "shawn levy",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "mls",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "atletico tucuman",
-      "traffic": "100+",
+      "name": "shawn levy",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
