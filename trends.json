@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T19:00:14Z",
+  "updated": "2026-07-26T19:04:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "víctor jara",
-      "traffic": "100+",
+      "name": "bahía - corinthians",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "la joaqui",
+      "name": "lpf",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "pronostico bariloche",
+      "name": "víctor jara",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "futbol argentino hoy",
+      "name": "la joaqui",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "estudiantes hoy",
+      "name": "futbol argentino hoy",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "montevideo portal",
+      "name": "pronostico bariloche",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cruzeiro - botafogo",
+      "name": "estudiantes hoy",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "olimpia - libertad",
-      "traffic": "2000+",
+      "name": "montevideo portal",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "moron vs ferro",
+      "name": "cruzeiro - botafogo",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "balón de oro",
-      "traffic": "100+",
+      "name": "olimpia - libertad",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
