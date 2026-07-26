@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T00:00:12Z",
+  "updated": "2026-07-26T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "river como va",
+      "name": "tucumán",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "vasco da gama - mirassol",
+      "name": "acuña",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tiver",
-      "traffic": "100+",
+      "name": "correa",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "u. católica - la serena",
-      "traffic": "500+",
+      "name": "beltran",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "leeds - wrexham",
-      "traffic": "200+",
+      "name": "yandel",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "fernanfloo vs plex",
+      "name": "river como va",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "toro morales",
-      "traffic": "200+",
+      "name": "vasco da gama - mirassol",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "hideo kojima",
+      "name": "tiver",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "neymar",
-      "traffic": "1000+",
+      "name": "u. católica - la serena",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "santos vs",
-      "traffic": "200+",
+      "name": "fernanfloo vs plex",
+      "traffic": "500+",
       "rank": 10
     }
   ]
