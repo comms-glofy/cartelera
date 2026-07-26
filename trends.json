@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T01:00:16Z",
+  "updated": "2026-07-26T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san lorenzo hoy",
-      "traffic": "500+",
+      "name": "atletico tucuman",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "bkfc",
+      "name": "karina mazzocco",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ezequiel barco",
-      "traffic": "200+",
+      "name": "la joaqui",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tucumán",
-      "traffic": "200+",
+      "name": "river vs riestra",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "acuña",
-      "traffic": "100+",
+      "name": "bkfc",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "correa",
+      "name": "ezequiel barco",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "vasco da gama - mirassol",
-      "traffic": "200+",
+      "name": "tucumán",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "tiver",
+      "name": "acuña",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "fernanfloo vs plex",
-      "traffic": "1000+",
+      "name": "beltran",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "u. católica - la serena",
-      "traffic": "1000+",
+      "name": "vasco da gama - mirassol",
+      "traffic": "200+",
       "rank": 10
     }
   ]
