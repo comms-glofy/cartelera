@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T19:30:12Z",
+  "updated": "2026-07-26T20:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colon vs chaco for ever",
+      "name": "partidos de hoy liga argentina",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "angelina jolie",
+      "name": "josé maría muscari",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "diomande",
+      "name": "misil",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "estrecho",
-      "traffic": "100+",
+      "name": "primera nacional",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "bahía - corinthians",
+      "name": "colon vs chaco for ever",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lpf",
-      "traffic": "500+",
+      "name": "angelina jolie",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "víctor jara",
+      "name": "olé",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "la joaqui",
-      "traffic": "500+",
+      "name": "diomande",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "pronostico bariloche",
+      "name": "estrecho",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "futbol argentino hoy",
-      "traffic": "500+",
+      "name": "bahía - corinthians",
+      "traffic": "200+",
       "rank": 10
     }
   ]
