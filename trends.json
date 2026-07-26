@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T21:00:17Z",
+  "updated": "2026-07-26T21:27:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuándo juega boca juniors",
-      "traffic": "100+",
+      "name": "flamengo - são paulo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "matías manna",
-      "traffic": "200+",
+      "name": "brasileirão serie a",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "oscar piastri",
+      "name": "san miguel club",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "cuándo juega boca juniors",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "matías manna",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "oscar piastri",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "fórmula 1",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "primera división de paraguay",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "nacional b",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "tarjeta roja fútbol",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "san martin de san juan",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "racing de cordoba",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "gimnasia de jujuy",
-      "traffic": "200+",
       "rank": 10
     }
   ]
