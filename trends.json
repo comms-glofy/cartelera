@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-26T11:30:15Z",
+  "updated": "2026-07-26T12:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "temaiken",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "federico sturzenegger",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "f2",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "andy kusnetzoff",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "el otro padre",
       "traffic": "100+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "milei bolsonaro",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "elize matsunaga",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "auckland football club - tottenham",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "arturo puig",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "montréal vs inter miami",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "tolima - junior",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "berterame",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "toluca - cruz azul",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "los creyentes",
+      "name": "montréal vs inter miami",
       "traffic": "100+",
       "rank": 10
     }
