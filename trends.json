@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-26T00:30:13Z",
+  "updated": "2026-07-26T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tucumán",
-      "traffic": "100+",
+      "name": "san lorenzo hoy",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "acuña",
-      "traffic": "100+",
+      "name": "bkfc",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "correa",
+      "name": "ezequiel barco",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "beltran",
+      "name": "tucumán",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "yandel",
-      "traffic": "5000+",
+      "name": "acuña",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "river como va",
+      "name": "correa",
       "traffic": "200+",
       "rank": 6
     },
     {
       "name": "vasco da gama - mirassol",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 7
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "u. católica - la serena",
-      "traffic": "500+",
+      "name": "fernanfloo vs plex",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "fernanfloo vs plex",
-      "traffic": "500+",
+      "name": "u. católica - la serena",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
