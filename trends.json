@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T03:00:17Z",
+  "updated": "2026-07-26T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elize matsunaga",
+      "name": "el otro padre",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "auckland football club - tottenham",
-      "traffic": "500+",
+      "name": "milei bolsonaro",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "arturo puig",
+      "name": "elize matsunaga",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "auckland football club - tottenham",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "arturo puig",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "montréal vs inter miami",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "tolima - junior",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "berterame",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "toluca - cruz azul",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "los creyentes",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "cadena de supermercados",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "david jonsson",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "ghost rider",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
