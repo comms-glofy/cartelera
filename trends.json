@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T12:30:23Z",
+  "updated": "2026-07-26T13:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "200+",
+      "name": "james bond",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "policía de la provincia de río negro",
-      "traffic": "100+",
+      "name": "clarín",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "administración nacional de la seguridad social",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "carrera f1 hoy",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "eva peron",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "temaiken",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "misionesonline",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "federico sturzenegger",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "f2",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "andy kusnetzoff",
+      "name": "policía de la provincia de río negro",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "el otro padre",
-      "traffic": "100+",
+      "name": "misionesonline",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "milei bolsonaro",
+      "name": "federico sturzenegger",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "elize matsunaga",
-      "traffic": "500+",
+      "name": "f2",
+      "traffic": "100+",
       "rank": 10
     }
   ]
