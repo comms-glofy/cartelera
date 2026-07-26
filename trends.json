@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-26T23:30:16Z",
+  "updated": "2026-07-26T23:57:06Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "espn",
+      "name": "duilio cabre",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "montero arquero",
-      "traffic": "500+",
+      "name": "como salio boca hoy",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "arquero de boca",
+      "name": "apple tv",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "audax italiano - u. de chile",
-      "traffic": "200+",
+      "name": "promedios",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "boca jr",
-      "traffic": "100+",
+      "name": "espn",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "quilmes vs",
-      "traffic": "100+",
+      "name": "montero arquero",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "quintana",
+      "name": "arquero de boca",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "orense - independiente del valle",
+      "name": "boca jr",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ruta nacional 3",
+      "name": "quilmes vs",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "futbol libre",
-      "traffic": "20000+",
+      "name": "audax italiano - u. de chile",
+      "traffic": "200+",
       "rank": 10
     }
   ]
