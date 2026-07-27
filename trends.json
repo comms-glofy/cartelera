@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-27T16:30:24Z",
+  "updated": "2026-07-27T17:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pierre gasly",
-      "traffic": "500+",
+      "name": "club atlético san lorenzo de almagro",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ringuelet",
+      "name": "pino hachado",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "honda cb 500",
-      "traffic": "200+",
+      "name": "cronicazo",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "dólar blue",
+      "name": "pierre gasly",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "subte b",
-      "traffic": "200+",
+      "name": "ringuelet",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "honda cb 500",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "dólar blue",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "subte b",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "alberto fernández",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "kristalina georgieva",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "28 de julio",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "telekino 26 de julio",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "reforma",
+      "name": "kristalina georgieva",
       "traffic": "500+",
       "rank": 10
     }
