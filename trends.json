@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T03:19:23Z",
+  "updated": "2026-07-27T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "claudio fernández actor",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "sag",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "pachuca",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "elize matsunaga",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "31 de julio",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "la odisea pelicula",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "friends",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "hija",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "como salio boca",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "concepción - o'higgins",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "barcelona sc - ldu quito",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "quilmes ac",
-      "traffic": "100+",
       "rank": 10
     }
   ]
