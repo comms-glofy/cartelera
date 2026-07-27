@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T12:00:16Z",
+  "updated": "2026-07-27T12:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "justicia cordoba",
+      "name": "faecys",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tuqui 10",
-      "traffic": "100+",
+      "name": "moratoria",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "aire de santa fe",
-      "traffic": "200+",
+      "name": "camino general belgrano",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "que pasa salta",
+      "name": "justicia cordoba",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "once digital",
+      "name": "tuqui 10",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
+      "name": "aire de santa fe",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "juan fernando quintero",
-      "traffic": "500+",
+      "name": "que pasa salta",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "once digital",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "pujato",
-      "traffic": "1000+",
+      "name": "clima bahia blanca",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "diario huarpe",
-      "traffic": "200+",
+      "name": "juan fernando quintero",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
