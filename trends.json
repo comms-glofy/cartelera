@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-27T01:30:12Z",
+  "updated": "2026-07-27T02:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "friends",
+      "name": "la odisea pelicula",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "la odisea pelicula",
+      "name": "friends",
       "traffic": "200+",
       "rank": 2
     },
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "concepción - o'higgins",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "barcelona sc - ldu quito",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quilmes ac",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "colombia",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "boca vs estudiantes",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "duilio cabre",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "apple tv",
-      "traffic": "500+",
       "rank": 10
     }
   ]
