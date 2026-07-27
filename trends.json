@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T20:30:17Z",
+  "updated": "2026-07-27T21:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "presidente de la fifa",
+      "name": "playstation plus",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "aníbal fernández",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "disney+",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "máximo kirchner",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "club atlético belgrano",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "presidente de la fifa",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "germán pezzella",
       "traffic": "100+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "taylor fritz",
       "traffic": "100+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "starlink",
       "traffic": "500+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "samsung galaxy",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "club atlético vélez sarsfield",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "necochea",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "multa",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "china",
-      "traffic": "100+",
       "rank": 10
     }
   ]
