@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T13:00:15Z",
+  "updated": "2026-07-27T13:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "ucrania",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "faecys",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
       "name": "moratoria",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
       "name": "camino general belgrano",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "hermano de cabré",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "justicia cordoba",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tuqui 10",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "la capital",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "aire de santa fe",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "que pasa salta",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "once digital",
-      "traffic": "100+",
       "rank": 10
     }
   ]
