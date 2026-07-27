@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T10:00:16Z",
+  "updated": "2026-07-27T10:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pujato",
-      "traffic": "200+",
+      "name": "clima bahia blanca",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima santa fe",
+      "name": "juan fernando quintero",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "quini 6 26 de julio 2026",
-      "traffic": "1000+",
+      "name": "clima rosario",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "meteorología",
-      "traffic": "500+",
+      "name": "pujato",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "claudio fernández actor",
-      "traffic": "500+",
+      "name": "diario huarpe",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sag",
+      "name": "clima san juan",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "elize matsunaga",
-      "traffic": "200+",
+      "name": "clima corrientes",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "pachuca",
-      "traffic": "200+",
+      "name": "clima santa fe",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "31 de julio",
-      "traffic": "200+",
+      "name": "quini 6 26 de julio 2026",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "la odisea pelicula",
-      "traffic": "200+",
+      "name": "meteorología",
+      "traffic": "500+",
       "rank": 10
     }
   ]
