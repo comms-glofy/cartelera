@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T21:30:14Z",
+  "updated": "2026-07-27T21:36:48Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "contrabando",
-      "traffic": "100+",
+      "name": "guayaquil city - u. católica",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "asociacion de embarcaciones de pesca costera y fresquera",
-      "traffic": "100+",
+      "name": "aerolineas argentinas",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "damián pizarro",
+      "name": "contrabando",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "playstation plus",
-      "traffic": "200+",
+      "name": "asociacion de embarcaciones de pesca costera y fresquera",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "aníbal fernández",
-      "traffic": "200+",
+      "name": "damián pizarro",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "aníbal fernández",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "playstation plus",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "disney+",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "club atlético belgrano",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "presidente de la fifa",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "taylor fritz",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "germán pezzella",
-      "traffic": "100+",
       "rank": 10
     }
   ]
