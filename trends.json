@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T15:00:18Z",
+  "updated": "2026-07-27T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "alberto fernández",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "kristalina georgieva",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "28 de julio",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "telekino 26 de julio",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "reforma",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "feriados agosto 2026",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "suerte",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "airbus a330",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ko",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "calendario agosto 2026",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ucrania",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "faecys",
-      "traffic": "500+",
+      "name": "andrés malamud",
+      "traffic": "100+",
       "rank": 10
     }
   ]
