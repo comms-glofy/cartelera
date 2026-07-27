@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T09:00:20Z",
+  "updated": "2026-07-27T09:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "meteorología",
-      "traffic": "100+",
+      "name": "quini 6 26 de julio 2026",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "meteorología",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "claudio fernández actor",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "sag",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "posiciones de barcelona sc contra liga de quito",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "elize matsunaga",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pachuca",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "31 de julio",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "la odisea pelicula",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "friends",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "hija",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
