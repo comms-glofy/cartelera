@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T02:00:18Z",
+  "updated": "2026-07-27T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la odisea pelicula",
-      "traffic": "200+",
+      "name": "31 de julio",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "friends",
-      "traffic": "200+",
+      "name": "toro morales",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "hija",
+      "name": "la odisea pelicula",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "como salio boca",
-      "traffic": "2000+",
+      "name": "friends",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "hija",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "como salio boca",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "concepción - o'higgins",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "barcelona sc - ldu quito",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "quilmes ac",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "colombia",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "boca vs estudiantes",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "duilio cabre",
-      "traffic": "2000+",
+      "name": "de que murio el hermano de nicolas cabre",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
