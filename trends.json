@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T16:14:37Z",
+  "updated": "2026-07-27T16:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "honda cb 500",
-      "traffic": "100+",
+      "name": "pierre gasly",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "dólar blue",
-      "traffic": "200+",
+      "name": "ringuelet",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "subte b",
+      "name": "honda cb 500",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "alberto fernández",
-      "traffic": "1000+",
+      "name": "dólar blue",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "kristalina georgieva",
+      "name": "subte b",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "alberto fernández",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "kristalina georgieva",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "28 de julio",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "telekino 26 de julio",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "reforma",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "feriados agosto 2026",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "suerte",
-      "traffic": "200+",
       "rank": 10
     }
   ]
