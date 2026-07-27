@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T22:30:22Z",
+  "updated": "2026-07-27T22:57:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "asociación de trabajadores del estado",
-      "traffic": "100+",
+      "name": "marlins - phillies",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "maximiliano zelaya",
+      "name": "prefectura naval",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "club atlético gimnasia y esgrima",
+      "name": "playstation",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "josé david romero",
+      "name": "asociación de trabajadores del estado",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "guayaquil city - u. católica",
+      "name": "maximiliano zelaya",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "aerolineas argentinas",
-      "traffic": "500+",
+      "name": "club atlético gimnasia y esgrima",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "josé david romero",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "guayaquil city - u. católica",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "contrabando",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "asociacion de embarcaciones de pesca costera y fresquera",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "damián pizarro",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "playstation plus",
-      "traffic": "500+",
       "rank": 10
     }
   ]
