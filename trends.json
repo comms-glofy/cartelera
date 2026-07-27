@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-27T21:36:48Z",
+  "updated": "2026-07-27T22:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guayaquil city - u. católica",
-      "traffic": "200+",
+      "name": "maximiliano zelaya",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "aerolineas argentinas",
-      "traffic": "500+",
+      "name": "josé david romero",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "contrabando",
+      "name": "club atlético gimnasia y esgrima",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "guayaquil city - u. católica",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "aerolineas argentinas",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "contrabando",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "asociacion de embarcaciones de pesca costera y fresquera",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "damián pizarro",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "aníbal fernández",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "playstation plus",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "disney+",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "club atlético belgrano",
-      "traffic": "100+",
+      "name": "playstation plus",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "presidente de la fifa",
+      "name": "aníbal fernández",
       "traffic": "500+",
       "rank": 10
     }
