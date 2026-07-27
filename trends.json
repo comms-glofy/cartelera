@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-27T22:00:16Z",
+  "updated": "2026-07-27T22:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "maximiliano zelaya",
+      "name": "asociación de trabajadores del estado",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "josé david romero",
-      "traffic": "100+",
+      "name": "maximiliano zelaya",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
+      "name": "josé david romero",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "guayaquil city - u. católica",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "aerolineas argentinas",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "contrabando",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "asociacion de embarcaciones de pesca costera y fresquera",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "damián pizarro",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "playstation plus",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "aníbal fernández",
+      "name": "playstation plus",
       "traffic": "500+",
       "rank": 10
     }
