@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T18:30:16Z",
+  "updated": "2026-07-27T19:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "china",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "julian croonenberghs",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "galatasaray",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "inter de miami",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "galatasaray - venezia",
       "traffic": "200+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "luis vázquez",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "arbitro slavko vinčić",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "microsoft store",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "nafta",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "carburando",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "jaime durán barba",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "josé ignacio de mendiguren",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "fuerza aérea argentina",
-      "traffic": "100+",
+      "name": "nafta",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "sebastián cobelli",
-      "traffic": "200+",
+      "name": "carburando",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
