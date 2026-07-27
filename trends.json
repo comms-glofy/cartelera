@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T01:00:13Z",
+  "updated": "2026-07-27T01:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "friends",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "la odisea pelicula",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "hija",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "como salio boca",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "barcelona sc - ldu quito",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "quilmes ac",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "colombia",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "boca vs estudiantes",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "duilio cabre",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "apple tv",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "gonzalo morales",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "promedios",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "espn",
-      "traffic": "200+",
       "rank": 10
     }
   ]
