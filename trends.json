@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T23:00:15Z",
+  "updated": "2026-07-27T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marlins - phillies",
-      "traffic": "200+",
+      "name": "rosalía",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "prefectura naval",
+      "name": "marcelo tinelli",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "marlins - phillies",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "prefectura naval",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "playstation",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "asociación de trabajadores del estado",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "maximiliano zelaya",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "club atlético gimnasia y esgrima",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "josé david romero",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "guayaquil city - u. católica",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "contrabando",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "asociacion de embarcaciones de pesca costera y fresquera",
-      "traffic": "200+",
       "rank": 10
     }
   ]
