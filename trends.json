@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T14:00:20Z",
+  "updated": "2026-07-27T14:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "calendario agosto 2026",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "ucrania",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "faecys",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "moratoria",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "camino general belgrano",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "hermano de cabré",
-      "traffic": "10000+",
-      "rank": 8
+      "traffic": "20000+",
+      "rank": 9
     },
     {
       "name": "justicia cordoba",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "tuqui 10",
-      "traffic": "100+",
       "rank": 10
     }
   ]
