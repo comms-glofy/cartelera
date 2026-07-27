@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-27T17:30:15Z",
+  "updated": "2026-07-27T18:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jaime durán barba",
+      "name": "nafta",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fuerza aérea argentina",
-      "traffic": "100+",
+      "name": "carburando",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sebastián cobelli",
+      "name": "jaime durán barba",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "pino hachado",
-      "traffic": "200+",
+      "name": "fuerza aérea argentina",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "club atlético san lorenzo de almagro",
+      "name": "sebastián cobelli",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "línea b",
-      "traffic": "2000+",
+      "name": "pino hachado",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "cronicazo",
-      "traffic": "100+",
+      "name": "club atlético san lorenzo de almagro",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pierre gasly",
-      "traffic": "500+",
+      "name": "línea b",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "ringuelet",
-      "traffic": "100+",
+      "name": "cronicazo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "honda cb 500",
+      "name": "pierre gasly",
       "traffic": "500+",
       "rank": 10
     }
