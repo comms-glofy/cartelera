@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T12:30:18Z",
+  "updated": "2026-07-27T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "faecys",
+      "name": "ucrania",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "faecys",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "moratoria",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "camino general belgrano",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "justicia cordoba",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tuqui 10",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "aire de santa fe",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "que pasa salta",
+      "name": "la capital",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "once digital",
-      "traffic": "100+",
+      "name": "aire de santa fe",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
+      "name": "que pasa salta",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "juan fernando quintero",
-      "traffic": "1000+",
+      "name": "once digital",
+      "traffic": "100+",
       "rank": 10
     }
   ]
