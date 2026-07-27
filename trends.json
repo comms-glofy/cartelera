@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T02:30:14Z",
+  "updated": "2026-07-27T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "31 de julio",
+      "name": "pachuca",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "toro morales",
-      "traffic": "1000+",
+      "name": "elize matsunaga",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "la odisea pelicula",
+      "name": "31 de julio",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "friends",
+      "name": "la odisea pelicula",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "friends",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "hija",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "como salio boca",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "concepción - o'higgins",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "barcelona sc - ldu quito",
-      "traffic": "1000+",
-      "rank": 8
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "quilmes ac",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "de que murio el hermano de nicolas cabre",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
