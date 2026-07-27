@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T13:36:49Z",
+  "updated": "2026-07-27T14:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ko",
-      "traffic": "200+",
+      "name": "suerte",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ucrania",
+      "name": "airbus a330",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "faecys",
+      "name": "ko",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "moratoria",
-      "traffic": "500+",
+      "name": "ucrania",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "camino general belgrano",
+      "name": "faecys",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "hermano de cabré",
-      "traffic": "10000+",
+      "name": "moratoria",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "justicia cordoba",
+      "name": "camino general belgrano",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tuqui 10",
-      "traffic": "100+",
+      "name": "hermano de cabré",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "la capital",
-      "traffic": "200+",
+      "name": "justicia cordoba",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "aire de santa fe",
-      "traffic": "200+",
+      "name": "tuqui 10",
+      "traffic": "100+",
       "rank": 10
     }
   ]
