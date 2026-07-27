@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T11:30:14Z",
+  "updated": "2026-07-27T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tuqui 10",
+      "name": "justicia cordoba",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "aire de santa fe",
-      "traffic": "200+",
+      "name": "tuqui 10",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "que pasa salta",
+      "name": "aire de santa fe",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "que pasa salta",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "once digital",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "clima bahia blanca",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "juan fernando quintero",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "clima rosario",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "pujato",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "diario huarpe",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima corrientes",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima san juan",
-      "traffic": "100+",
       "rank": 10
     }
   ]
