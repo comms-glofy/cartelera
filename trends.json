@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T11:00:17Z",
+  "updated": "2026-07-27T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario de cuyo",
-      "traffic": "500+",
+      "name": "tuqui 10",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
+      "name": "aire de santa fe",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juan fernando quintero",
+      "name": "que pasa salta",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "clima bahia blanca",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "pujato",
+      "name": "juan fernando quintero",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "diario huarpe",
-      "traffic": "100+",
+      "name": "clima rosario",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "pujato",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "diario huarpe",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "clima corrientes",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "clima san juan",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "clima santa fe",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "quini 6 26 de julio 2026",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
