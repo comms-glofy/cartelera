@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-27T19:30:20Z",
+  "updated": "2026-07-27T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "necochea",
-      "traffic": "100+",
+      "name": "club atlético vélez sarsfield",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "multa",
+      "name": "necochea",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "multa",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "china",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "julian croonenberghs",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "galatasaray",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "inter de miami",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "galatasaray - venezia",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "luis vázquez",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "arbitro slavko vinčić",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "microsoft store",
+      "name": "arbitro slavko vinčić",
       "traffic": "100+",
       "rank": 10
     }
