@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T18:00:53Z",
+  "updated": "2026-07-27T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nafta",
-      "traffic": "100+",
+      "name": "galatasaray - venezia",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "carburando",
-      "traffic": "200+",
+      "name": "luis vázquez",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "jaime durán barba",
-      "traffic": "200+",
+      "name": "arbitro slavko vinčić",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "fuerza aérea argentina",
+      "name": "microsoft store",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "sebastián cobelli",
-      "traffic": "200+",
+      "name": "nafta",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "pino hachado",
+      "name": "carburando",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "club atlético san lorenzo de almagro",
+      "name": "jaime durán barba",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "línea b",
+      "name": "josé ignacio de mendiguren",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "cronicazo",
-      "traffic": "200+",
+      "name": "fuerza aérea argentina",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pierre gasly",
-      "traffic": "500+",
+      "name": "sebastián cobelli",
+      "traffic": "200+",
       "rank": 10
     }
   ]
