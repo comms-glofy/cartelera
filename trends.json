@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T01:30:13Z",
+  "updated": "2026-07-28T02:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "david romero",
-      "traffic": "100+",
+      "name": "temblor ahora",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "susana gimenez",
-      "traffic": "100+",
+      "name": "diario los andes",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "moria casan",
-      "traffic": "500+",
+      "name": "temblor en mendoza",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "alerta meteorológica",
+      "name": "temblor",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "atlanta",
-      "traffic": "200+",
+      "name": "temblor hoy",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "crédito",
-      "traffic": "2000+",
+      "name": "mdz online",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "atlanta vs almagro",
-      "traffic": "100+",
+      "name": "david romero",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "enrique pinti",
-      "traffic": "1000+",
+      "name": "susana gimenez",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "ate nacional",
-      "traffic": "500+",
+      "name": "moria casan",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "dep. cuenca - emelec",
-      "traffic": "500+",
+      "name": "rocio robles",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
