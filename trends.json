@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T19:30:19Z",
+  "updated": "2026-07-28T20:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "maría belén ludueña",
+      "name": "dictadura",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tobías andrada",
-      "traffic": "500+",
+      "name": "tomás martín etcheverry",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "aston villa",
+      "name": "dinamo zagreb",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "elche c. f. - al ain",
-      "traffic": "100+",
+      "name": "maría belén ludueña",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "luciano acosta",
-      "traffic": "200+",
+      "name": "tobías andrada",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "clive alderton",
+      "name": "elche c. f. - al ain",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cataratas del iguazú",
-      "traffic": "100+",
+      "name": "luciano acosta",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "masa de aire",
-      "traffic": "200+",
+      "name": "clive alderton",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "aston villa - real sociedad",
-      "traffic": "2000+",
+      "name": "cataratas del iguazú",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "naufragio",
-      "traffic": "200+",
+      "name": "masa de aire",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
