@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-27T23:30:16Z",
+  "updated": "2026-07-28T00:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rosalía",
-      "traffic": "500+",
+      "name": "solana sierra",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "marcelo tinelli",
+      "name": "paro de colectivos",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marlins - phillies",
+      "name": "precipitación",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "prefectura naval",
-      "traffic": "200+",
+      "name": "rosalía",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "playstation",
-      "traffic": "100+",
+      "name": "marcelo tinelli",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "asociación de trabajadores del estado",
-      "traffic": "100+",
+      "name": "prefectura naval",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "maximiliano zelaya",
+      "name": "marlins - phillies",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "club atlético gimnasia y esgrima",
+      "name": "playstation",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "josé david romero",
+      "name": "asociación de trabajadores del estado",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "guayaquil city - u. católica",
-      "traffic": "500+",
+      "name": "maximiliano zelaya",
+      "traffic": "200+",
       "rank": 10
     }
   ]
