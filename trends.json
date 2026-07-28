@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T17:30:20Z",
+  "updated": "2026-07-28T17:51:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "spiderman",
+      "name": "chile",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "esquel",
+      "name": "agustina cherri",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "real madrid vs leganes",
+      "name": "spiderman",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tommy paul",
+      "name": "esquel",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "playstation",
+      "name": "tommy paul",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "real madrid",
-      "traffic": "200+",
+      "name": "playstation",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "real madrid",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "cadena nacional",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "katie holmes",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ciclogénesis",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "ifab embolo",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
