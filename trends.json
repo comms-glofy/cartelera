@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T11:34:08Z",
+  "updated": "2026-07-28T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "poder judicial santa fe",
+      "name": "inundación",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "poder judicial santa fe",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "flaco lópez",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "medicamento de venta libre",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "pensión",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "el ancasti",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "amistosos",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "terremoto sismo temblor hoy epicentro",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima mendoza",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "clima san luis",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "chelsea",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima cordoba",
-      "traffic": "500+",
       "rank": 10
     }
   ]
