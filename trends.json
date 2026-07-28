@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-28T17:51:51Z",
+  "updated": "2026-07-28T18:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chile",
+      "name": "ernestina pais",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "al-ahli saudi - fulham",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "agustina cherri",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "chile",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "spiderman",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "esquel",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "tommy paul",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "playstation",
+      "name": "rafael nadal",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "real madrid",
-      "traffic": "1000+",
+      "name": "esquel",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cadena nacional",
+      "name": "playstation",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "katie holmes",
-      "traffic": "100+",
+      "name": "tommy paul",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ciclogénesis",
+      "name": "real madrid",
       "traffic": "1000+",
       "rank": 10
     }
