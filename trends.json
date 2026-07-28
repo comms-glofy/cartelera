@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T02:30:14Z",
+  "updated": "2026-07-28T03:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guillermo francella",
-      "traffic": "200+",
+      "name": "cotización dólar oficial dólar blue hoy",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "enner valencia",
+      "name": "nyx argentina",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "temblor ahora",
+      "name": "enner valencia",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "diario los andes",
+      "name": "guillermo francella",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "diario los andes",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "temblor ahora",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "temblor en mendoza",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "mdz",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "mdz online",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "david romero",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "susana gimenez",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "rocio robles",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
