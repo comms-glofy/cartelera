@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T21:00:20Z",
+  "updated": "2026-07-28T21:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "desregulación",
+      "name": "san lorenzo - gimnasia y esgrima",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "marcelo saracchi",
-      "traffic": "100+",
+      "name": "2 de mayo - cerro",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "evasión fiscal",
+      "name": "ben shelton",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "manu urcera",
-      "traffic": "200+",
+      "name": "masterchef",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "maxi salas",
-      "traffic": "100+",
+      "name": "desregulación",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "jubilación",
-      "traffic": "1000+",
+      "name": "marcelo saracchi",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima concordia",
-      "traffic": "200+",
+      "name": "evasión fiscal",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "roberto mancini",
-      "traffic": "100+",
+      "name": "manu urcera",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "dictadura",
-      "traffic": "500+",
+      "name": "el lado brasileño de las cataratas",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
+      "name": "maxi salas",
+      "traffic": "200+",
       "rank": 10
     }
   ]
