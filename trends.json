@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T18:00:17Z",
+  "updated": "2026-07-28T18:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ernestina pais",
-      "traffic": "200+",
+      "name": "aston villa - real sociedad",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "al-ahli saudi - fulham",
+      "name": "miniserie",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "agustina cherri",
-      "traffic": "100+",
+      "name": "naufragio",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chile",
-      "traffic": "200+",
+      "name": "ernestina pais",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "spiderman",
+      "name": "al-ahli saudi - fulham",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "rafael nadal",
+      "name": "agustina cherri",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "esquel",
-      "traffic": "100+",
+      "name": "chile",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "playstation",
+      "name": "rafael nadal",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tommy paul",
+      "name": "spiderman",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "real madrid",
-      "traffic": "1000+",
+      "name": "esquel",
+      "traffic": "100+",
       "rank": 10
     }
   ]
