@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-28T08:00:18Z",
+  "updated": "2026-07-28T08:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "clima posadas",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "diario el sol",
-      "traffic": "500+",
+      "name": "diario los andes",
+      "traffic": "200+",
       "rank": 10
     }
   ]
