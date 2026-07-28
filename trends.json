@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T14:30:20Z",
+  "updated": "2026-07-28T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ifab",
-      "traffic": "200+",
+      "name": "aerolineas argentinas",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "desalojo",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "ifab",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "miami",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "rudi völler",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "boeing 737 max",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "christophersen",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "terremoto en japon",
-      "traffic": "5000+",
+      "name": "boeing 737 max",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "christophersen",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "japón",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "river id",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "mauro icardi",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "keiko fujimori",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "inundación",
-      "traffic": "200+",
+      "name": "mauro icardi",
+      "traffic": "500+",
       "rank": 10
     }
   ]
