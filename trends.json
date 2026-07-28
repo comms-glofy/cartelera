@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T10:30:20Z",
+  "updated": "2026-07-28T11:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mendoza",
-      "traffic": "1000+",
+      "name": "el ancasti",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "chelsea",
-      "traffic": "100+",
+      "name": "amistosos",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima cordoba",
-      "traffic": "200+",
+      "name": "terremoto sismo temblor hoy epicentro",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "pronostico cordoba",
+      "name": "clima mendoza",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima tucuman",
+      "name": "clima san luis",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "clima cordoba",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "pronostico cordoba",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "quiniela plus",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "clima tucuman",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "chelsea - ws wanderers",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "clima posadas",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "santi castro",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "luis brandoni",
-      "traffic": "200+",
       "rank": 10
     }
   ]
