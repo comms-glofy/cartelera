@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T19:00:19Z",
+  "updated": "2026-07-28T19:17:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cataratas del iguazú",
+      "name": "aston villa",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "elche c. f. - al ain",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "luciano acosta",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "clive alderton",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "cataratas del iguazú",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "masa de aire",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "aston villa - real sociedad",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "naufragio",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "miniserie",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "ernestina pais",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "al-ahli saudi - fulham",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "agustina cherri",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "chile",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rafael nadal",
-      "traffic": "200+",
+      "name": "ernestina pais",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
