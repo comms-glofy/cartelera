@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T20:41:21Z",
+  "updated": "2026-07-28T21:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "maxi salas",
-      "traffic": "100+",
+      "name": "desregulación",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jubilación",
-      "traffic": "1000+",
+      "name": "marcelo saracchi",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima concordia",
-      "traffic": "200+",
+      "name": "evasión fiscal",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "roberto mancini",
-      "traffic": "100+",
+      "name": "manu urcera",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "dictadura",
+      "name": "maxi salas",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
+      "name": "jubilación",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "rubio ñu - sportivo ameliano",
+      "name": "clima concordia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dinamo zagreb",
-      "traffic": "200+",
+      "name": "roberto mancini",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "maría belén ludueña",
-      "traffic": "200+",
+      "name": "dictadura",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tobías andrada",
-      "traffic": "1000+",
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
       "rank": 10
     }
   ]
