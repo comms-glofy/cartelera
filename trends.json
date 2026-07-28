@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T15:00:16Z",
+  "updated": "2026-07-28T15:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "viernes",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "banco de la nación argentina",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "aerolineas argentinas",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "desalojo",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "ifab",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "miami",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "rudi völler",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "boeing 737 max",
+      "name": "miami",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "rudi völler",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "boeing 737 max",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "christophersen",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "japón",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "river id",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "mauro icardi",
-      "traffic": "500+",
       "rank": 10
     }
   ]
