@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T18:30:20Z",
+  "updated": "2026-07-28T19:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aston villa - real sociedad",
-      "traffic": "500+",
+      "name": "cataratas del iguazú",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "miniserie",
+      "name": "masa de aire",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "naufragio",
-      "traffic": "200+",
+      "name": "aston villa - real sociedad",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "ernestina pais",
-      "traffic": "500+",
+      "name": "naufragio",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "al-ahli saudi - fulham",
+      "name": "miniserie",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "agustina cherri",
-      "traffic": "100+",
+      "name": "ernestina pais",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "chile",
+      "name": "al-ahli saudi - fulham",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "rafael nadal",
+      "name": "agustina cherri",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "spiderman",
+      "name": "chile",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "esquel",
-      "traffic": "100+",
+      "name": "rafael nadal",
+      "traffic": "200+",
       "rank": 10
     }
   ]
