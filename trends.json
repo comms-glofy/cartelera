@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T11:30:16Z",
+  "updated": "2026-07-28T11:34:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "medicamento de venta libre",
-      "traffic": "200+",
+      "name": "poder judicial santa fe",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pensión",
-      "traffic": "100+",
+      "name": "medicamento de venta libre",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "pensión",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "el ancasti",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "amistosos",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "terremoto sismo temblor hoy epicentro",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima mendoza",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "clima san luis",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima cordoba",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "pronostico cordoba",
+      "name": "chelsea",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "quiniela plus",
-      "traffic": "100+",
+      "name": "clima cordoba",
+      "traffic": "500+",
       "rank": 10
     }
   ]
