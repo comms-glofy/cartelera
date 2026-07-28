@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T09:30:17Z",
+  "updated": "2026-07-28T10:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima cordoba",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "clima tucuman",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "quiniela plus",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "chelsea - ws wanderers",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "clima posadas",
       "traffic": "500+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "santi castro",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "lucas passerini",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "luis brandoni",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "nyx argentina",
       "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "estados unidos demanda a la fifa",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "enner valencia",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "guillermo francella",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "temblor ahora",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "diario los andes",
-      "traffic": "200+",
       "rank": 10
     }
   ]
