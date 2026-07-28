@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-28T03:00:20Z",
+  "updated": "2026-07-28T03:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "santi castro",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "luis brandoni",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "lucas passerini",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "cotización dólar oficial dólar blue hoy",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "nyx argentina",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "estados unidos demanda a la fifa",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "enner valencia",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "guillermo francella",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "diario los andes",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "temblor ahora",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "temblor en mendoza",
-      "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "mdz",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "mdz online",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "david romero",
+      "name": "temblor ahora",
       "traffic": "200+",
       "rank": 10
     }
