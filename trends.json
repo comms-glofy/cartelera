@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T10:00:21Z",
+  "updated": "2026-07-28T10:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima cordoba",
-      "traffic": "200+",
+      "name": "clima mendoza",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "clima tucuman",
+      "name": "chelsea",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "quiniela plus",
-      "traffic": "100+",
+      "name": "clima cordoba",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chelsea - ws wanderers",
-      "traffic": "1000+",
+      "name": "pronostico cordoba",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "clima tucuman",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "quiniela plus",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "chelsea - ws wanderers",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "clima posadas",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "santi castro",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "lucas passerini",
-      "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "luis brandoni",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "nyx argentina",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "estados unidos demanda a la fifa",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
