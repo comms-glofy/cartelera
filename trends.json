@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T15:30:22Z",
+  "updated": "2026-07-28T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "viernes",
+      "name": "quiniela de tucumán",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "emiliano martínez",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "viernes",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "banco de la nación argentina",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "aerolineas argentinas",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "desalojo",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "ifab",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "miami",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "rudi völler",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "boeing 737 max",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "christophersen",
+      "name": "rudi völler",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "japón",
-      "traffic": "5000+",
+      "name": "boeing 737 max",
+      "traffic": "200+",
       "rank": 10
     }
   ]
