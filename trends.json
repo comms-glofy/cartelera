@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-28T01:00:19Z",
+  "updated": "2026-07-28T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "david romero",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "susana gimenez",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "moria casan",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "alerta meteorológica",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "atlanta",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "crédito",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "atlanta vs almagro",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "enrique pinti",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "ate nacional",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dep. cuenca - emelec",
-      "traffic": "500+",
+      "name": "enrique pinti",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "juegos ps plus agosto 2026",
-      "traffic": "100+",
+      "name": "ate nacional",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "solana sierra",
+      "name": "dep. cuenca - emelec",
       "traffic": "500+",
       "rank": 10
     }
