@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-28T14:00:16Z",
+  "updated": "2026-07-28T14:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rudi völler",
+      "name": "ifab",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "boeing 737 max",
+      "name": "miami",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "christophersen",
+      "name": "rudi völler",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "river id",
-      "traffic": "1000+",
+      "name": "boeing 737 max",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "christophersen",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "terremoto en japon",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "river id",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "mauro icardi",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "keiko fujimori",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "inundación",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "poder judicial santa fe",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "flaco lópez",
+      "name": "inundación",
       "traffic": "200+",
       "rank": 10
     }
