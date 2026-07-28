@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-28T17:00:14Z",
+  "updated": "2026-07-28T17:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "real madrid vs leganes",
-      "traffic": "500+",
+      "name": "spiderman",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tommy paul",
+      "name": "esquel",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "real madrid",
+      "name": "real madrid vs leganes",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cadena nacional",
-      "traffic": "200+",
+      "name": "tommy paul",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "katie holmes",
+      "name": "playstation",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ifab embolo",
-      "traffic": "2000+",
+      "name": "real madrid",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "quiniela de tucumán",
+      "name": "cadena nacional",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "emiliano martínez",
-      "traffic": "2000+",
+      "name": "katie holmes",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "viernes",
-      "traffic": "200+",
+      "name": "ciclogénesis",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "banco de la nación argentina",
-      "traffic": "200+",
+      "name": "ifab embolo",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
