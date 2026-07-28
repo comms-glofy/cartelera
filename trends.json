@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T05:30:19Z",
+  "updated": "2026-07-28T06:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "cotización dólar oficial dólar blue hoy",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
       "name": "nyx argentina",
       "traffic": "100+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "estados unidos demanda a la fifa",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "enner valencia",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "guillermo francella",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "diario los andes",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "temblor ahora",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "temblor en mendoza",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
