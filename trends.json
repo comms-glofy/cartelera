@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T10:05:52Z",
+  "updated": "2026-07-29T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "el tiempo en formosa",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
+      "name": "clima salta",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "tottenham - sydney",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "clima cordoba",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "clima tucuman",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "clima formosa",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "clima corrientes",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "unión obrera metalúrgica",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima posadas",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "sir clive alderton",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "tigres - atlético nacional",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "sorteo quini 6 3 millones de dolares",
-      "traffic": "500+",
       "rank": 10
     }
   ]
