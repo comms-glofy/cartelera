@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T12:30:17Z",
+  "updated": "2026-07-29T13:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "axel kicillof",
-      "traffic": "100+",
+      "name": "crédito",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "kavinsky",
+      "name": "nicolás vázquez",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sebastián estevanez",
+      "name": "nvidia",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cronograma",
+      "name": "axel kicillof",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "contexto tucuman",
+      "name": "kavinsky",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "josé maría muscari",
+      "name": "sebastián estevanez",
       "traffic": "100+",
       "rank": 6
     },
     {
+      "name": "cronograma",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "josé maría muscari",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "kiki ramos",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "29 de julio",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima salta",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "tottenham - sydney",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
