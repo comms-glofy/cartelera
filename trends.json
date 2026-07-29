@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T01:00:15Z",
+  "updated": "2026-07-29T01:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "enzo francescoli",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "fortaleza - botafogo rp",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "santos",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "argentinos",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "cajero",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "escala comercio julio 2026",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "santos - universidad central",
-      "traffic": "2000+",
-      "rank": 3
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "argentinos jrs. - estudiantes de río cuarto",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "morena beltran",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "fatima florez",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "rosario central - racing",
-      "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "1",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "trabajo",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "corrientes",
-      "traffic": "200+",
       "rank": 10
     }
   ]
