@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T03:00:20Z",
+  "updated": "2026-07-29T03:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "neymar",
-      "traffic": "1000+",
+      "name": "avenida brasil",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "mastantuono",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "majluf",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "gustavo garzon",
+      "traffic": "10000+",
+      "rank": 4
     },
     {
       "name": "franco cervi",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "fortaleza",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "matko miljevic",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "enzo francescoli",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "santos",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "argentinos",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "cajero",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "escala comercio julio 2026",
-      "traffic": "200+",
       "rank": 10
     }
   ]
