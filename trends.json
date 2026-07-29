@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T16:18:17Z",
+  "updated": "2026-07-29T16:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jared leto",
-      "traffic": "100+",
+      "name": "tobias andrada",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "quiniela chaqueña",
+      "name": "agosto",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "zendaya",
-      "traffic": "200+",
+      "name": "jared leto",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "la joaqui",
-      "traffic": "200+",
+      "name": "quiniela chaqueña",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "cristina",
-      "traffic": "100+",
+      "name": "zendaya",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "alexis mac allister",
-      "traffic": "500+",
+      "name": "chimy ávila",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "uom paritarias",
+      "name": "la joaqui",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "artificial intelligence news",
+      "name": "cristina",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "gabriel rolón",
-      "traffic": "200+",
+      "name": "alexis mac allister",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "leverkusen - krc genk",
-      "traffic": "200+",
+      "name": "uom paritarias",
+      "traffic": "500+",
       "rank": 10
     }
   ]
