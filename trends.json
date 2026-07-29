@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T11:00:23Z",
+  "updated": "2026-07-29T11:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario jornada",
-      "traffic": "2000+",
+      "name": "selección de fútbol sub-17 de argentina",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima salta",
+      "name": "29 de julio",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "clima salta",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "tottenham - sydney",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tiempo en cordoba",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima cordoba",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima tucuman",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima formosa",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima corrientes",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "unión obrera metalúrgica",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima posadas",
-      "traffic": "500+",
       "rank": 10
     }
   ]
