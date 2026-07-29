@@ -1,36 +1,36 @@
 {
-  "updated": "2026-07-29T06:00:15Z",
+  "updated": "2026-07-29T06:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima posadas",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "sir clive alderton",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "tigres - atlético nacional",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "sorteo quini 6 3 millones de dolares",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "avenida brasil",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "mastantuono",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "garzon actor",
-      "traffic": "200+",
       "rank": 6
     },
     {
