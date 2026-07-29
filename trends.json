@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T23:00:15Z",
+  "updated": "2026-07-29T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liverpool - wrexham",
-      "traffic": "500+",
+      "name": "condenado",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "inter de miami",
+      "name": "dj francés kavinsky",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nacho fernandez",
+      "name": "msft",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tarjeta roja argentina",
+      "name": "mirassol - remo",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "vasco da gama",
-      "traffic": "200+",
+      "name": "liverpool - wrexham",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "harlan coben",
+      "name": "inter de miami",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "alexander woiski",
+      "name": "nacho fernandez",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "luna llena julio 2026",
+      "name": "tarjeta roja argentina",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "importación",
-      "traffic": "100+",
+      "name": "harlan coben",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "internacional - flamengo",
-      "traffic": "2000+",
+      "name": "luna llena julio 2026",
+      "traffic": "200+",
       "rank": 10
     }
   ]
