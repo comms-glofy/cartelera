@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T02:00:15Z",
+  "updated": "2026-07-29T02:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fortaleza",
-      "traffic": "200+",
+      "name": "majluf",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "matko miljevic",
+      "name": "fortaleza",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "enzo francescoli",
+      "name": "matko miljevic",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "enzo francescoli",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "santos",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "argentinos",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "cajero",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "escala comercio julio 2026",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "santos - universidad central",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "copa sudamericana",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "argentinos jrs. - estudiantes de río cuarto",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
