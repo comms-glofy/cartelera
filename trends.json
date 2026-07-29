@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T14:42:38Z",
+  "updated": "2026-07-29T15:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "uom paritarias",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "artificial intelligence news",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "gabriel rolón",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "leverkusen - krc genk",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "glen hansard",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "tiroteo",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "fuerte apache",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "cosquin rock",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "pago",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "squeezy dumplings",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "crédito",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "nicolás vázquez",
-      "traffic": "200+",
       "rank": 10
     }
   ]
