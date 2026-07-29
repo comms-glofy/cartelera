@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-29T15:30:22Z",
+  "updated": "2026-07-29T16:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la joaqui",
-      "traffic": "200+",
+      "name": "zendaya",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "alexis mac allister",
+      "name": "la joaqui",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "cristina",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "alexis mac allister",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "uom paritarias",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "artificial intelligence news",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "gabriel rolón",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "leverkusen - krc genk",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tiroteo",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "glen hansard",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "fuerte apache",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pago",
+      "name": "glen hansard",
       "traffic": "500+",
       "rank": 10
     }
