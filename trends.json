@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T02:30:13Z",
+  "updated": "2026-07-29T03:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "majluf",
-      "traffic": "500+",
+      "name": "neymar",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "fortaleza",
-      "traffic": "200+",
+      "name": "majluf",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "matko miljevic",
+      "name": "franco cervi",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "enzo francescoli",
-      "traffic": "500+",
+      "name": "fortaleza",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "santos",
-      "traffic": "1000+",
+      "name": "matko miljevic",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "argentinos",
+      "name": "enzo francescoli",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "cajero",
+      "name": "santos",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "escala comercio julio 2026",
-      "traffic": "200+",
+      "name": "argentinos",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "santos - universidad central",
-      "traffic": "5000+",
+      "name": "cajero",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "copa sudamericana",
-      "traffic": "1000+",
+      "name": "escala comercio julio 2026",
+      "traffic": "200+",
       "rank": 10
     }
   ]
