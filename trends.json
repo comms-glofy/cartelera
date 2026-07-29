@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T20:00:25Z",
+  "updated": "2026-07-29T20:29:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "parque provincial ischigualasto",
+      "name": "alex woiski",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "200+",
+      "name": "fuego",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "uepc",
-      "traffic": "500+",
+      "name": "dólar blue hoy",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "playstation",
-      "traffic": "200+",
+      "name": "frank darío kudelka",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "instituto de obra social de las fuerzas armadas",
-      "traffic": "100+",
+      "name": "diario de cuyo",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "defensa y justicia - deportivo riestra",
-      "traffic": "5000+",
+      "name": "gimnasia vs river",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sportivo luqueño - sportivo trinidense",
-      "traffic": "200+",
+      "name": "georgina rodríguez",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "danilo arboleda",
+      "name": "uepc",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "colectivos de buenos aires",
+      "name": "tiempo de san juan",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "elon musk",
-      "traffic": "100+",
+      "name": "playstation",
+      "traffic": "200+",
       "rank": 10
     }
   ]
