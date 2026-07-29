@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T04:00:15Z",
+  "updated": "2026-07-29T04:19:10Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sorteo quini 6 3 millones de dolares",
+      "name": "tigres - atlético nacional",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "avenida brasil",
-      "traffic": "100+",
+      "name": "sorteo quini 6 3 millones de dolares",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "garzon actor",
-      "traffic": "200+",
+      "name": "avenida brasil",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "gustavo garzón",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "majluf",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gustavo garzon",
-      "traffic": "10000+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "franco cervi",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "fortaleza",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "matko miljevic",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "enzo francescoli",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "santos",
-      "traffic": "2000+",
+      "name": "cataratas del iguazu accidente",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
