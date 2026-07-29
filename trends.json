@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T17:00:16Z",
+  "updated": "2026-07-29T17:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "viento",
-      "traffic": "5000+",
+      "name": "girona - castellón",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "veterano",
+      "name": "mercado cambiario",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marlins - phillies",
-      "traffic": "100+",
+      "name": "barracas central - aldosivi",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "agosto",
-      "traffic": "100+",
+      "name": "viento",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "jared leto",
+      "name": "pozo",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "quiniela chaqueña",
-      "traffic": "100+",
+      "name": "veterano",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "zendaya",
-      "traffic": "500+",
+      "name": "marlins - phillies",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "favaloro",
-      "traffic": "100+",
+      "name": "agosto",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "chimy ávila",
-      "traffic": "100+",
+      "name": "jared leto",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "la joaqui",
-      "traffic": "500+",
+      "name": "quiniela chaqueña",
+      "traffic": "100+",
       "rank": 10
     }
   ]
