@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-29T09:00:14Z",
+  "updated": "2026-07-29T09:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "clima posadas",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "neymar",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "gustavo garzón hijos",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "majluf",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "gustavo garzon",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "ritual",
-      "traffic": "200+",
       "rank": 10
     }
   ]
