@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T22:30:15Z",
+  "updated": "2026-07-29T23:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vasco da gama",
-      "traffic": "200+",
+      "name": "liverpool - wrexham",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "pelota libre partido en vivo",
-      "traffic": "1000+",
+      "name": "inter de miami",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "alexander woiski",
+      "name": "nacho fernandez",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "luna llena julio 2026",
-      "traffic": "500+",
+      "name": "tarjeta roja argentina",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "harlan coben",
-      "traffic": "100+",
+      "name": "vasco da gama",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "harlan coben",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "alexander woiski",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "luna llena julio 2026",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "importación",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "internacional - flamengo",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "gimnasia - river plate",
-      "traffic": "100000+",
-      "rank": 8
-    },
-    {
-      "name": "vasco da gama - medellín",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "what is a heat dome",
-      "traffic": "100+",
       "rank": 10
     }
   ]
