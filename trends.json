@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-29T17:30:25Z",
+  "updated": "2026-07-29T17:46:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "racing de santander - athletic",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "girona - castellón",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "mercado cambiario",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "barracas central - aldosivi",
-      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "viento",
+      "name": "barracas central - aldosivi",
       "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "pozo",
-      "traffic": "100+",
+      "name": "viento",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "veterano",
-      "traffic": "200+",
+      "name": "maite otaegui accidente",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "marlins - phillies",
+      "name": "comisario",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "agosto",
-      "traffic": "200+",
+      "name": "pozo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "jared leto",
+      "name": "veterano",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "quiniela chaqueña",
+      "name": "marlins - phillies",
       "traffic": "100+",
       "rank": 10
     }
