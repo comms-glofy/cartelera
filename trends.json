@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T19:08:55Z",
+  "updated": "2026-07-29T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "defensa y justicia - deportivo riestra",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "danilo arboleda",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "colectivos de buenos aires",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "elon musk",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "atlético madrid - getafe",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "real betis - lyon",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "máximo kirchner",
-      "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "guillermina valdés",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "premios princesa de asturias",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "turista",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "what is a data breach",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "racing de santander - athletic",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "girona - castellón",
-      "traffic": "200+",
       "rank": 10
     }
   ]
