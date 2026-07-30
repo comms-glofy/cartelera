@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T20:00:21Z",
+  "updated": "2026-07-30T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vibrio",
+      "name": "georgina rodríguez",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "juicio",
-      "traffic": "200+",
+      "name": "luna soyai ortigoza",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "benfica",
-      "traffic": "100+",
+      "name": "fin de semana",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "maxi salas",
-      "traffic": "200+",
+      "name": "alerta",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "vibrio",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "juicio",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "benfica",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "maxi salas",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "juan grabois",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "la página millonaria",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "benfica - st gallen",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "ajax - f. k. vojvodina",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "corriente del niño",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "rodrigo castillo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
