@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-29T23:33:47Z",
+  "updated": "2026-07-30T00:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "condenado",
-      "traffic": "200+",
+      "name": "cómo va river",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "dj francés kavinsky",
+      "name": "fluminense - bahía",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "msft",
-      "traffic": "200+",
+      "name": "liverpool",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mirassol - remo",
-      "traffic": "200+",
+      "name": "acuña",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "liverpool - wrexham",
-      "traffic": "2000+",
+      "name": "autopsia",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "inter de miami",
+      "name": "dj francés kavinsky",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "nacho fernandez",
+      "name": "msft",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tarjeta roja argentina",
+      "name": "mirassol - remo",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "harlan coben",
-      "traffic": "200+",
+      "name": "liverpool - wrexham",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "luna llena julio 2026",
-      "traffic": "500+",
+      "name": "inter de miami",
+      "traffic": "200+",
       "rank": 10
     }
   ]
