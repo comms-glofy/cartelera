@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T15:00:24Z",
+  "updated": "2026-07-30T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lucas passerini",
+      "name": "utedyc",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "virginia lago",
-      "traffic": "200+",
+      "name": "iphone",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "uocra",
-      "traffic": "100+",
+      "name": "árbitro",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lockheed martin f-16 fighting falcon",
+      "name": "lucas passerini",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "manolo solo",
+      "name": "uocra",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tenis",
-      "traffic": "100+",
+      "name": "virginia lago",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ceuta",
-      "traffic": "1000+",
+      "name": "lockheed martin f-16 fighting falcon",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "isla desierta",
+      "name": "manolo solo",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "nominación",
+      "name": "tenis",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "bandera de las islas malvinas",
-      "traffic": "100+",
+      "name": "ceuta",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
