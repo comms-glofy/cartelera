@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T20:41:16Z",
+  "updated": "2026-07-30T21:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el país",
-      "traffic": "200+",
+      "name": "deuda",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "georgina rodríguez",
-      "traffic": "100+",
+      "name": "gran hermano",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "el país",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "luna soyai ortigoza",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "georgina rodríguez",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "alerta",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "fin de semana",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "donde queda ceuta",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "vibrio",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "juicio",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "benfica",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "maxi salas",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "juan grabois",
-      "traffic": "200+",
       "rank": 10
     }
   ]
