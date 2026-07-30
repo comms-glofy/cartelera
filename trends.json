@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T10:30:15Z",
+  "updated": "2026-07-30T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "noticiasnet",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "el once",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "el once digital",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "pronostico posadas",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "lisandro martínez",
       "traffic": "200+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "temperatura cordoba",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
     },
     {
-      "name": "loto plus",
+      "name": "china suárez",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "clima tucuman",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "china suárez",
-      "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "clima salta",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "volcán kilauea",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "sudamericana",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "mario pergolini",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "escuela",
-      "traffic": "200+",
       "rank": 10
     }
   ]
