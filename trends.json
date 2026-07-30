@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T14:00:18Z",
+  "updated": "2026-07-30T14:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lockheed martin f-16 fighting falcon",
-      "traffic": "100+",
+      "name": "virginia lago",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "calendario agosto 2026",
+      "name": "uocra",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "lockheed martin f-16 fighting falcon",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "manolo solo",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tenis",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ceuta",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "isla desierta",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nominación",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "bandera de las islas malvinas",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "squeezy dumplings",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "catamarca ya",
-      "traffic": "100+",
       "rank": 10
     }
   ]
