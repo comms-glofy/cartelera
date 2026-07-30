@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T18:00:23Z",
+  "updated": "2026-07-30T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "movistar",
+      "name": "dakota johnson",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "spider-man",
-      "traffic": "100+",
+      "name": "fifa uefa",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "feriado agosto",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "bayer",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "marte",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "spider-man",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "movistar",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "bayern vs",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "embajador",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "bayern munich",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "juan cruz saroglia",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "pami",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "rottach-egern - bayern",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "uefa",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "bayern",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "world rugby",
-      "traffic": "200+",
+      "name": "ceuta y melilla",
+      "traffic": "100+",
       "rank": 10
     }
   ]
