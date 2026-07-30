@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T11:30:19Z",
+  "updated": "2026-07-30T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quini 6 29 de julio",
+      "name": "nominación",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "hábito",
+      "name": "bandera de las islas malvinas",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el litoral",
-      "traffic": "100+",
+      "name": "squeezy dumplings",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sabrina cortez gran hermano",
+      "name": "catamarca ya",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "noticiasnet",
+      "name": "quini 6 29 de julio",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "diario textual",
+      "name": "mica riera",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cadena3",
+      "name": "los 40 principales",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "el once",
-      "traffic": "200+",
+      "name": "hábito",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "el once digital",
+      "name": "el litoral",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "contexto",
-      "traffic": "200+",
+      "name": "sabrina cortez gran hermano",
+      "traffic": "100+",
       "rank": 10
     }
   ]
