@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-30T10:00:15Z",
+  "updated": "2026-07-30T10:21:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima tucuman",
-      "traffic": "100+",
+      "name": "lisandro martínez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "china suárez",
+      "name": "temperatura cordoba",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima salta",
+      "name": "clima tucuman",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "china suárez",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "clima salta",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "volcán kilauea",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "mario pergolini",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "cerundolo",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "unc",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "anne hathaway",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "escuela",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "foz do iguaçu",
+      "name": "escuela",
       "traffic": "200+",
       "rank": 10
     }
