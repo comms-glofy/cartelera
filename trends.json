@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T21:00:23Z",
+  "updated": "2026-07-30T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deuda",
-      "traffic": "100+",
+      "name": "talleres - vélez",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "gran hermano",
-      "traffic": "500+",
+      "name": "tercer puente",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el país",
-      "traffic": "200+",
+      "name": "lluvia",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "luna soyai ortigoza",
-      "traffic": "100+",
+      "name": "kevin lomónaco",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "georgina rodríguez",
-      "traffic": "100+",
+      "name": "carlos espi",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "alerta",
-      "traffic": "500+",
+      "name": "francisco oneto",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "fin de semana",
-      "traffic": "1000+",
+      "name": "europa league",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "donde queda ceuta",
+      "name": "punta del este",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "vibrio",
-      "traffic": "200+",
+      "name": "inflación",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "juicio",
-      "traffic": "1000+",
+      "name": "deuda",
+      "traffic": "500+",
       "rank": 10
     }
   ]
