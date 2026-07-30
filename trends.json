@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-30T17:00:16Z",
+  "updated": "2026-07-30T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "bayern munich",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "juan cruz saroglia",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "pami",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "uefa",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "rottach-egern - bayern",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "bayern",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "world rugby",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "drama",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "quiniela de tucumán",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "economía",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "multa",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "emiliano amor",
+      "name": "economía",
       "traffic": "200+",
       "rank": 10
     }
