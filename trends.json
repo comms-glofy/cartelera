@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T11:00:15Z",
+  "updated": "2026-07-30T11:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "noticiasnet",
+      "name": "quini 6 29 de julio",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "el once",
-      "traffic": "200+",
+      "name": "hábito",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el once digital",
+      "name": "el litoral",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "pronostico posadas",
+      "name": "sabrina cortez gran hermano",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "lisandro martínez",
-      "traffic": "200+",
+      "name": "noticiasnet",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "temperatura cordoba",
+      "name": "diario textual",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "china suárez",
-      "traffic": "200+",
+      "name": "cadena3",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "clima tucuman",
+      "name": "el once",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima salta",
+      "name": "el once digital",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "volcán kilauea",
-      "traffic": "500+",
+      "name": "contexto",
+      "traffic": "200+",
       "rank": 10
     }
   ]
