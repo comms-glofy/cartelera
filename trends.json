@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T19:30:17Z",
+  "updated": "2026-07-30T20:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "maxi salas",
-      "traffic": "200+",
+      "name": "vibrio",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "juan grabois",
-      "traffic": "100+",
+      "name": "juicio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "la página millonaria",
+      "name": "benfica",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "benfica - st gallen",
-      "traffic": "500+",
+      "name": "maxi salas",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ajax - f. k. vojvodina",
-      "traffic": "100+",
+      "name": "juan grabois",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "corriente del niño",
-      "traffic": "200+",
+      "name": "la página millonaria",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "rodrigo castillo",
-      "traffic": "200+",
+      "name": "benfica - st gallen",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "dakota johnson",
+      "name": "ajax - f. k. vojvodina",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "fifa uefa",
-      "traffic": "500+",
+      "name": "corriente del niño",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "feriado agosto",
-      "traffic": "500+",
+      "name": "rodrigo castillo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
