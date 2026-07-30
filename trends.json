@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T03:00:35Z",
+  "updated": "2026-07-30T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mario pergolini",
+      "name": "volcán kilauea",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tom holland",
+      "name": "mario pergolini",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "anne hathaway",
+      "name": "cerundolo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "escuela",
+      "name": "tom holland",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "foz do iguaçu",
+      "name": "anne hathaway",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "sadie sink",
+      "name": "escuela",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "2000+",
+      "name": "foz do iguaçu",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "la pagina millonaria",
+      "name": "sadie sink",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "la cámpora",
-      "traffic": "200+",
+      "name": "francisco cerúndolo",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "marilyn monroe",
-      "traffic": "100+",
+      "name": "la pagina millonaria",
+      "traffic": "200+",
       "rank": 10
     }
   ]
