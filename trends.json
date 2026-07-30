@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T22:08:12Z",
+  "updated": "2026-07-30T22:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "autopista córdoba-rosario",
-      "traffic": "200+",
+      "name": "a que hora juega boca",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "silvestre valenzuela",
-      "traffic": "200+",
+      "name": "gremio vs bolivar",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "duelo",
-      "traffic": "2000+",
+      "name": "mar báltico",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "marcela pagano",
+      "name": "autopista córdoba-rosario",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "grêmio - bolívar",
-      "traffic": "500+",
+      "name": "silvestre valenzuela",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "duelo",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "marcela pagano",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "grêmio - bolívar",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "talleres - vélez",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "independiente rivadavia - huracán",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "tercer puente",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "francisco oneto",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "kevin lomónaco",
-      "traffic": "200+",
       "rank": 10
     }
   ]
