@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-30T00:00:14Z",
+  "updated": "2026-07-30T00:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cómo va river",
-      "traffic": "500+",
+      "name": "kīlauea",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fluminense - bahía",
-      "traffic": "200+",
+      "name": "cienciano - lanús",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "liverpool",
-      "traffic": "100+",
+      "name": "instituto - platense",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "acuña",
-      "traffic": "100+",
+      "name": "vitória - palmeiras",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "autopsia",
-      "traffic": "100+",
+      "name": "bragantino - sporting cristal",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "dj francés kavinsky",
+      "name": "auzmendi",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "msft",
+      "name": "flamengo vs",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "mirassol - remo",
-      "traffic": "200+",
+      "name": "gran jurado",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "liverpool - wrexham",
-      "traffic": "2000+",
+      "name": "fluminense - bahía",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "inter de miami",
+      "name": "liverpool",
       "traffic": "200+",
       "rank": 10
     }
