@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T00:30:23Z",
+  "updated": "2026-07-30T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kīlauea",
-      "traffic": "100+",
+      "name": "lanus vs cienciano",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cienciano - lanús",
-      "traffic": "2000+",
+      "name": "jean grey",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "instituto - platense",
-      "traffic": "2000+",
+      "name": "gelp",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "vitória - palmeiras",
+      "name": "cómo salió river",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "bragantino - sporting cristal",
-      "traffic": "500+",
+      "name": "riber",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "auzmendi",
-      "traffic": "200+",
+      "name": "kīlauea",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "flamengo vs",
-      "traffic": "200+",
+      "name": "cienciano - lanús",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "gran jurado",
-      "traffic": "100+",
+      "name": "instituto - platense",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "fluminense - bahía",
-      "traffic": "500+",
+      "name": "vitória - palmeiras",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "liverpool",
-      "traffic": "200+",
+      "name": "bragantino - sporting cristal",
+      "traffic": "500+",
       "rank": 10
     }
   ]
