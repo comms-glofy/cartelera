@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-30T23:00:12Z",
+  "updated": "2026-07-30T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cadena nacional",
-      "traffic": "200+",
+      "name": "nuevo refuerzo de river",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "amzn",
+      "name": "club atlético newell's old boys",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "corinthians",
-      "traffic": "200+",
+      "name": "cadena nacional",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "a qué hora juega boca",
-      "traffic": "5000+",
+      "name": "corinthians",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gremio vs bolivar",
-      "traffic": "500+",
+      "name": "amzn",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "mar báltico",
-      "traffic": "200+",
+      "name": "a qué hora juega boca",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "autopista córdoba-rosario",
+      "name": "gremio vs bolivar",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "silvestre valenzuela",
+      "name": "mar báltico",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "duelo",
+      "name": "autopista córdoba-rosario",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "marcela pagano",
+      "name": "silvestre valenzuela",
       "traffic": "500+",
       "rank": 10
     }
