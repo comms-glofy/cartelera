@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T22:30:12Z",
+  "updated": "2026-07-30T23:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a que hora juega boca",
-      "traffic": "5000+",
+      "name": "cadena nacional",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gremio vs bolivar",
-      "traffic": "100+",
+      "name": "amzn",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mar báltico",
-      "traffic": "100+",
+      "name": "corinthians",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "autopista córdoba-rosario",
-      "traffic": "500+",
+      "name": "a qué hora juega boca",
+      "traffic": "5000+",
       "rank": 4
+    },
+    {
+      "name": "gremio vs bolivar",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "mar báltico",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "autopista córdoba-rosario",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "silvestre valenzuela",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "duelo",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "marcela pagano",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "grêmio - bolívar",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "talleres - vélez",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "independiente rivadavia - huracán",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
