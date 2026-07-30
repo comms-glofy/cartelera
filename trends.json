@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T13:30:16Z",
+  "updated": "2026-07-30T14:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "calendario agosto 2026",
+      "name": "lockheed martin f-16 fighting falcon",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "manolo solo",
+      "name": "calendario agosto 2026",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tenis",
-      "traffic": "100+",
+      "name": "manolo solo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ceuta",
-      "traffic": "500+",
+      "name": "tenis",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "ceuta",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "isla desierta",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nominación",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "bandera de las islas malvinas",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "squeezy dumplings",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "catamarca ya",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "quini 6 29 de julio",
-      "traffic": "200+",
       "rank": 10
     }
   ]
