@@ -1,50 +1,50 @@
 {
-  "updated": "2026-07-30T22:00:16Z",
+  "updated": "2026-07-30T22:08:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "autopista córdoba-rosario",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "silvestre valenzuela",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "duelo",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
       "name": "marcela pagano",
       "traffic": "500+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "grêmio - bolívar",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "bono extraordinario",
-      "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "talleres - vélez",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "independiente rivadavia - huracán",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "tercer puente",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "lluvia",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "francisco oneto",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "carlos espi",
+      "name": "francisco oneto",
       "traffic": "200+",
       "rank": 9
     },
