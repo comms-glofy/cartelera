@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T01:00:15Z",
+  "updated": "2026-07-30T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lanus vs cienciano",
-      "traffic": "200+",
+      "name": "sadie sink",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "jean grey",
-      "traffic": "100+",
+      "name": "francisco cerúndolo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "gelp",
-      "traffic": "100+",
+      "name": "la pagina millonaria",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cómo salió river",
-      "traffic": "1000+",
+      "name": "la cámpora",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "marilyn monroe",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "lanus vs cienciano",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "jean grey",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "riber",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "kīlauea",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "cienciano - lanús",
-      "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "instituto - platense",
-      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "vitória - palmeiras",
+      "name": "coudet",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "bragantino - sporting cristal",
-      "traffic": "500+",
+      "name": "kīlauea",
+      "traffic": "200+",
       "rank": 10
     }
   ]
