@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T04:00:20Z",
+  "updated": "2026-07-30T04:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "cerundolo",
+      "name": "tom holland",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tom holland",
+      "name": "anne hathaway",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "anne hathaway",
+      "name": "escuela",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "escuela",
+      "name": "foz do iguaçu",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "foz do iguaçu",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "sadie sink",
-      "traffic": "200+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "la cámpora",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "la pagina millonaria",
-      "traffic": "200+",
+      "name": "marilyn monroe",
+      "traffic": "100+",
       "rank": 10
     }
   ]
