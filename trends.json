@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T21:30:17Z",
+  "updated": "2026-07-30T22:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "talleres - vélez",
-      "traffic": "1000+",
+      "name": "marcela pagano",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "grêmio - bolívar",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "bono extraordinario",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "talleres - vélez",
+      "traffic": "10000+",
+      "rank": 4
+    },
+    {
+      "name": "independiente rivadavia - huracán",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "tercer puente",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "lluvia",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 7
     },
     {
-      "name": "kevin lomónaco",
+      "name": "francisco oneto",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "carlos espi",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "francisco oneto",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "europa league",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "punta del este",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "inflación",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "deuda",
-      "traffic": "500+",
+      "name": "kevin lomónaco",
+      "traffic": "200+",
       "rank": 10
     }
   ]
