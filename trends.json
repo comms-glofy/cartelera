@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T09:30:19Z",
+  "updated": "2026-07-30T10:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima salta",
+      "name": "clima tucuman",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "volcán kilauea",
-      "traffic": "500+",
+      "name": "china suárez",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mario pergolini",
+      "name": "clima salta",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "unc",
-      "traffic": "200+",
+      "name": "volcán kilauea",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "anne hathaway",
+      "name": "mario pergolini",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "escuela",
+      "name": "cerundolo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "foz do iguaçu",
+      "name": "unc",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "2000+",
+      "name": "anne hathaway",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "la cámpora",
+      "name": "escuela",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "marilyn monroe",
-      "traffic": "100+",
+      "name": "foz do iguaçu",
+      "traffic": "200+",
       "rank": 10
     }
   ]
