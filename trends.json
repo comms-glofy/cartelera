@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T15:30:15Z",
+  "updated": "2026-07-30T16:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "utedyc",
-      "traffic": "100+",
+      "name": "multa",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "iphone",
-      "traffic": "500+",
+      "name": "economía",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "árbitro",
-      "traffic": "200+",
+      "name": "emiliano amor",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lucas passerini",
+      "name": "utedyc",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "uocra",
-      "traffic": "200+",
+      "name": "iphone",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "virginia lago",
-      "traffic": "200+",
+      "name": "árbitro",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "lockheed martin f-16 fighting falcon",
-      "traffic": "200+",
+      "name": "lucas passerini",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "manolo solo",
+      "name": "uocra",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tenis",
+      "name": "virginia lago",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ceuta",
-      "traffic": "2000+",
+      "name": "lockheed martin f-16 fighting falcon",
+      "traffic": "200+",
       "rank": 10
     }
   ]
