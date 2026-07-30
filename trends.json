@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-30T02:30:15Z",
+  "updated": "2026-07-30T03:00:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tom holland",
+      "name": "mario pergolini",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "foz do iguaçu",
+      "name": "tom holland",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "escuela",
-      "traffic": "100+",
+      "name": "anne hathaway",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "anne hathaway",
+      "name": "escuela",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sadie sink",
+      "name": "foz do iguaçu",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "sadie sink",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "la pagina millonaria",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "la cámpora",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "marilyn monroe",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "lanus vs cienciano",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
