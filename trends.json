@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T10:30:21Z",
+  "updated": "2026-07-31T11:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima rosario",
-      "traffic": "500+",
+      "name": "estafa",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "clima",
-      "traffic": "100000+",
+      "traffic": "200000+",
       "rank": 2
     },
     {
       "name": "weather",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "clima tucuman",
+      "name": "pronostico parana",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "tiempo de hoy",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "pronostico santa fe",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "clima tucuman",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "es mi sueño",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "clima parana",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "franco baresi",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "tom holland",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "tasa de interés",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "romina uhrig",
-      "traffic": "200+",
+      "name": "franco baresi",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
