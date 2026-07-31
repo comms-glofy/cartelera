@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T03:00:23Z",
+  "updated": "2026-07-31T03:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ole",
-      "traffic": "2000+",
+      "name": "libertadores",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "deportivo recoleta",
-      "traffic": "2000+",
+      "name": "leandro paredes",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "partidos de conmebol sudamericana",
-      "traffic": "100+",
+      "name": "miguel merentiel",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "como salio boca hoy",
-      "traffic": "200+",
+      "name": "cerundolo",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "montero arquero",
-      "traffic": "1000+",
+      "name": "partidos de conmebol sudamericana",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "arquero de boca",
+      "name": "como salio boca hoy",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "resultado boca hoy",
-      "traffic": "200+",
+      "name": "montero arquero",
+      "traffic": "1000+",
       "rank": 7
-    },
-    {
-      "name": "montero boca",
-      "traffic": "200+",
-      "rank": 8
     },
     {
       "name": "liberman",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "river sudamericana",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "enzo pérez",
-      "traffic": "200+",
+      "name": "tomas aranda",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
