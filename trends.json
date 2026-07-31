@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T13:00:23Z",
+  "updated": "2026-07-31T13:14:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "servicio meteorologico nacional",
-      "traffic": "2000+",
+      "name": "clima rosario",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "1000000+",
       "rank": 10
     }
   ]
