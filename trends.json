@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-31T09:30:16Z",
+  "updated": "2026-07-31T10:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el tiempo",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "franco baresi",
-      "traffic": "2000+",
+      "name": "weather",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tom holland",
+      "name": "pronostico santa fe",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tasa de interés",
+      "name": "clima tucuman",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "romina uhrig",
-      "traffic": "200+",
+      "name": "es mi sueño",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sebastián villa",
-      "traffic": "500+",
+      "name": "clima parana",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tyc",
-      "traffic": "100+",
+      "name": "franco baresi",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "libertadores",
-      "traffic": "200+",
+      "name": "tom holland",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "cerundolo",
-      "traffic": "200+",
+      "name": "tasa de interés",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "miguel merentiel",
+      "name": "romina uhrig",
       "traffic": "200+",
       "rank": 10
     }
