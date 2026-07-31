@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T01:00:17Z",
+  "updated": "2026-07-31T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pelota",
+      "name": "nob",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "tarjeta roja argentina",
+      "name": "suspensión de clases",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "ascacibar",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "uatre escala salarial julio 2026",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "tarjeta roja argentina",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "leandro lozano",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "central cordoba",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "caracas - santa fe",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "central cordoba",
-      "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "fatima florez",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "coritiba - cruzeiro",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "tiempo de mañana",
-      "traffic": "500000+",
-      "rank": 8
-    },
-    {
-      "name": "ben shelton",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "o'higgins - boca juniors",
-      "traffic": "200000+",
+      "name": "coritiba - cruzeiro",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
