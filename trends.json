@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T12:00:22Z",
+  "updated": "2026-07-31T12:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tobias andrada",
+      "name": "cristóbal lópez",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "windy",
+      "name": "tobias andrada",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nirmal purja",
-      "traffic": "100+",
+      "name": "windy",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "espacio schengen",
+      "name": "nirmal purja",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "espacio schengen",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "clima bahia blanca",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "estafa",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "servicio meteorologico nacional",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "clima",
       "traffic": "1000000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "weather",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico parana",
-      "traffic": "100+",
       "rank": 10
     }
   ]
