@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T21:00:49Z",
+  "updated": "2026-07-31T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "amistosos",
+      "name": "aguinaldo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "vía láctea",
-      "traffic": "100+",
+      "name": "inter de miami",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "barcelona vs birmingham city",
+      "name": "miguel borja",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "gas",
-      "traffic": "100+",
+      "name": "beca",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gimnasio",
+      "name": "tornado",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "hija",
-      "traffic": "500+",
+      "name": "vía láctea",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "dólar blue",
-      "traffic": "1000+",
+      "name": "gas",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "hamza abdelkarim",
-      "traffic": "1000+",
+      "name": "gimnasio",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "premio princesa de asturias de los deportes",
-      "traffic": "200+",
+      "name": "san genaro santa fe",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "kristalina georgieva",
-      "traffic": "200+",
+      "name": "hija",
+      "traffic": "500+",
       "rank": 10
     }
   ]
