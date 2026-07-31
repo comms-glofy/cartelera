@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T21:36:18Z",
+  "updated": "2026-07-31T22:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aguinaldo",
-      "traffic": "200+",
+      "name": "miniserie",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "inter de miami",
+      "name": "federico mancuello",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "miguel borja",
-      "traffic": "100+",
+      "name": "niebla",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "beca",
-      "traffic": "200+",
+      "name": "aguinaldo",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "tornado",
-      "traffic": "500+",
+      "name": "inter de miami",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "vía láctea",
+      "name": "miguel borja",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gas",
-      "traffic": "100+",
+      "name": "beca",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "gimnasio",
-      "traffic": "200+",
+      "name": "tornado",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "san genaro santa fe",
-      "traffic": "2000+",
+      "name": "vía láctea",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "hija",
-      "traffic": "500+",
+      "name": "gas",
+      "traffic": "100+",
       "rank": 10
     }
   ]
