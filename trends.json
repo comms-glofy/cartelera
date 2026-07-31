@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T22:30:11Z",
+  "updated": "2026-07-31T22:56:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bilardo",
+      "name": "lockheed martin f-35 lightning ii",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "economía",
-      "traffic": "2000+",
+      "name": "taylor fritz",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "vacaciones",
-      "traffic": "500+",
+      "name": "torque - wanderers",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "giuliano galoppo",
-      "traffic": "200+",
+      "name": "la oreja de van gogh argentina 2027",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima san luis",
+      "name": "bilardo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "subte de buenos aires",
-      "traffic": "200+",
+      "name": "economía",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "miniserie",
-      "traffic": "2000+",
+      "name": "vacaciones",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "federico mancuello",
+      "name": "giuliano galoppo",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "niebla",
+      "name": "clima san luis",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "aguinaldo",
-      "traffic": "1000+",
+      "name": "subte de buenos aires",
+      "traffic": "200+",
       "rank": 10
     }
   ]
