@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T05:00:14Z",
+  "updated": "2026-07-31T05:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tasa de interés",
+      "name": "tom holland",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "romina uhrig",
+      "name": "tasa de interés",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "los cabos open",
+      "name": "romina uhrig",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "los cabos open",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "sebastián villa",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tyc",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "libertadores",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "cerundolo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "miguel merentiel",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "partidos de conmebol sudamericana",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "recoleta fc",
-      "traffic": "5000+",
+      "name": "ole",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
