@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T14:00:20Z",
+  "updated": "2026-07-31T14:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "temperatura buenos aires",
-      "traffic": "100+",
+      "name": "banco macro",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "clima merlo",
-      "traffic": "200+",
+      "name": "wonder man",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima la plata",
+      "name": "cataratas del iguazú",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima capital federal",
-      "traffic": "100+",
+      "name": "gran premio de los países bajos",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "clima quilmes",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "temperatura buenos aires",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "clima la plata",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "viento zonda",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "pronostico hoy",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "pronostico",
-      "traffic": "1000000+",
-      "rank": 7
-    },
-    {
-      "name": "edad de jubilación",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cristóbal lópez",
+      "name": "clima capital federal",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "windy",
-      "traffic": "1000+",
+      "name": "edad de jubilación",
+      "traffic": "200+",
       "rank": 10
     }
   ]
