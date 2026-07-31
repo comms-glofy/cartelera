@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-31T10:00:15Z",
+  "updated": "2026-07-31T10:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "clima rosario",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "clima",
+      "traffic": "100000+",
+      "rank": 2
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "pronostico santa fe",
-      "traffic": "100+",
       "rank": 3
     },
     {
@@ -25,12 +25,12 @@
     },
     {
       "name": "es mi sueño",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "clima parana",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
     },
     {
