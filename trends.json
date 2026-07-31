@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T20:00:14Z",
+  "updated": "2026-07-31T20:16:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hamza abdelkarim",
-      "traffic": "200+",
+      "name": "dólar blue",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "hamza abdelkarim",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "pronostico rosario",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "kristalina georgieva",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "premio princesa de asturias de los deportes",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "línea mitre",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "flavio mendoza",
-      "traffic": "100+",
+      "name": "línea mitre",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mercedes marcó del pont",
-      "traffic": "200+",
+      "name": "birmingham city vs. barcelona",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "flavio mendoza",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "mercedes marcó del pont",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "todo noticias",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "vibrio",
-      "traffic": "200+",
       "rank": 10
     }
   ]
