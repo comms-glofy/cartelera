@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-31T23:00:16Z",
+  "updated": "2026-07-31T23:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "apple iphone 18",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "orioles - phillies",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "van dijk",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "lockheed martin f-35 lightning ii",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "taylor fritz",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "torque - wanderers",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "la oreja de van gogh argentina 2027",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "name": "vacaciones",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "bilardo",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "economía",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "vacaciones",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "giuliano galoppo",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima san luis",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "subte de buenos aires",
+      "name": "giuliano galoppo",
       "traffic": "200+",
       "rank": 10
     }
