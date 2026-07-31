@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T11:00:19Z",
+  "updated": "2026-07-31T11:26:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estafa",
-      "traffic": "200+",
+      "name": "clima bahia blanca",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima",
-      "traffic": "200000+",
+      "name": "espacio schengen",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "estafa",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "servicio meteorologico nacional",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "clima",
+      "traffic": "1000000+",
+      "rank": 5
     },
     {
       "name": "weather",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "pronostico parana",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "tiempo de hoy",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "pronostico santa fe",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "clima tucuman",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "es mi sueño",
-      "traffic": "200+",
+      "name": "tiempo en rosario",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "clima parana",
+      "name": "tiempo de hoy",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "franco baresi",
-      "traffic": "5000+",
+      "name": "clima tucuman",
+      "traffic": "100+",
       "rank": 10
     }
   ]
