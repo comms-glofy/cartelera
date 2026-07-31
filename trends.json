@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-31T14:30:18Z",
+  "updated": "2026-07-31T15:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "diego santilli",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "banco macro",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "ámbar de benedictis",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "wonder man",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "cataratas del iguazú",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "gran premio de los países bajos",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "clima quilmes",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "temperatura buenos aires",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima la plata",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "viento zonda",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "clima capital federal",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "edad de jubilación",
+      "name": "pronostico hoy",
       "traffic": "200+",
       "rank": 10
     }
