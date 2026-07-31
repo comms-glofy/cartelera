@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T02:00:19Z",
+  "updated": "2026-07-31T02:28:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sarrafiore",
-      "traffic": "500+",
+      "name": "river sudamericana",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cómo va boca juniors",
-      "traffic": "1000+",
+      "name": "enzo pérez",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "resultado de boca",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "wilmar roldán",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "sarrafiore",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "cómo va independiente",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "lozano",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "zonda",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "nob",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "ascacibar",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "dge mendoza",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "uatre escala salarial julio 2026",
-      "traffic": "200+",
+      "name": "nob",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "tarjeta roja argentina",
-      "traffic": "200+",
+      "name": "suspensión de clases",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
