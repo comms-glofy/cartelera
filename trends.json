@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-31T15:30:13Z",
+  "updated": "2026-07-31T15:36:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diego santilli",
-      "traffic": "100+",
+      "name": "ba ferial",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "banco macro",
-      "traffic": "2000+",
+      "name": "gran hermano generación dorada",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ámbar de benedictis",
+      "name": "diego santilli",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "wonder man",
-      "traffic": "100+",
+      "name": "banco macro",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "cataratas del iguazú",
+      "name": "ámbar de benedictis",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gran premio de los países bajos",
-      "traffic": "200+",
+      "name": "wonder man",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "clima quilmes",
-      "traffic": "500+",
+      "name": "cataratas del iguazú",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "temperatura buenos aires",
+      "name": "gran premio de los países bajos",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima la plata",
+      "name": "clima quilmes",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "pronostico hoy",
+      "name": "temperatura buenos aires",
       "traffic": "200+",
       "rank": 10
     }
