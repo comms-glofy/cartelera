@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-31T11:30:19Z",
+  "updated": "2026-07-31T12:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima bahia blanca",
+      "name": "tobias andrada",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "espacio schengen",
-      "traffic": "100+",
+      "name": "windy",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "estafa",
-      "traffic": "200+",
+      "name": "nirmal purja",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "espacio schengen",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "clima bahia blanca",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "estafa",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "servicio meteorologico nacional",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "clima",
       "traffic": "1000000+",
-      "rank": 5
-    },
-    {
-      "name": "weather",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "pronostico parana",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "tiempo en rosario",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "tiempo de hoy",
-      "traffic": "200+",
+      "name": "weather",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "clima tucuman",
+      "name": "pronostico parana",
       "traffic": "100+",
       "rank": 10
     }
