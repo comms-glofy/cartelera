@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T20:16:53Z",
+  "updated": "2026-07-31T20:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dólar blue",
+      "name": "hija",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "hamza abdelkarim",
+      "name": "dólar blue",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "pronostico rosario",
-      "traffic": "200+",
+      "name": "hamza abdelkarim",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "kristalina georgieva",
+      "name": "pronostico rosario",
       "traffic": "200+",
       "rank": 4
     },
     {
       "name": "premio princesa de asturias de los deportes",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "línea mitre",
+      "name": "kristalina georgieva",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "birmingham city vs. barcelona",
-      "traffic": "500+",
+      "name": "línea mitre",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "flavio mendoza",
+      "name": "barca",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mercedes marcó del pont",
+      "name": "birmingham city vs. barcelona",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "el niño",
-      "traffic": "2000+",
+      "name": "flavio mendoza",
+      "traffic": "200+",
       "rank": 10
     }
   ]
