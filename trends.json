@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T13:30:20Z",
+  "updated": "2026-07-31T14:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "edad de jubilación",
+      "name": "temperatura buenos aires",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "clima merlo",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "clima la plata",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "clima capital federal",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "viento zonda",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "pronostico hoy",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "pronostico",
+      "traffic": "1000000+",
+      "rank": 7
+    },
+    {
+      "name": "edad de jubilación",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "cristóbal lópez",
       "traffic": "100+",
-      "rank": 2
+      "rank": 9
     },
     {
       "name": "windy",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "tobias andrada",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "nirmal purja",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "espacio schengen",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "estafa",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "clima rosario",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima",
-      "traffic": "1000000+",
       "rank": 10
     }
   ]
