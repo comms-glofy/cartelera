@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-31T18:35:17Z",
+  "updated": "2026-07-31T18:52:00Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "el niño",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "vibrio",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "birmingham city - barcelona",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "chubut",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "josé bianco",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lucas trejo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "bryan johnson",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "caso barreda",
-      "traffic": "1000+",
       "rank": 7
     },
     {
@@ -49,7 +49,7 @@
       "rank": 9
     },
     {
-      "name": "joao felix",
+      "name": "barreda",
       "traffic": "1000+",
       "rank": 10
     }
