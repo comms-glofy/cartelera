@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-31T03:30:18Z",
+  "updated": "2026-07-31T04:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "libertadores",
-      "traffic": "200+",
+      "name": "los cabos open",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "leandro paredes",
-      "traffic": "5000+",
+      "name": "sebastián villa",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "miguel merentiel",
+      "name": "libertadores",
       "traffic": "200+",
       "rank": 3
     },
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "partidos de conmebol sudamericana",
+      "name": "miguel merentiel",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "partidos de conmebol sudamericana",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "recoleta fc",
+      "traffic": "5000+",
+      "rank": 7
+    },
+    {
       "name": "como salio boca hoy",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "montero arquero",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "liberman",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "river sudamericana",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "tomas aranda",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
