@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T17:30:19Z",
+  "updated": "2026-07-31T18:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barreda",
-      "traffic": "200+",
+      "name": "josé bianco",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "crisis",
+      "name": "lucas trejo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "joao felix",
-      "traffic": "200+",
+      "name": "bryan johnson",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "samara weaving",
-      "traffic": "200+",
+      "name": "cooperativa",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "barreda",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "crisis",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "joao felix",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "manuel adorni",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "ruta nacional 188",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "juventus",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "ludovica squirru",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "comunicado de la uefa",
-      "traffic": "5000+",
+      "name": "samara weaving",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "todo lo que nunca fuimos",
-      "traffic": "100+",
+      "name": "juventus",
+      "traffic": "200+",
       "rank": 10
     }
   ]
