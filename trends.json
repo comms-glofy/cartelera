@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T18:00:24Z",
+  "updated": "2026-07-31T18:35:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "josé bianco",
+      "name": "vibrio",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "lucas trejo",
-      "traffic": "200+",
+      "name": "birmingham city - barcelona",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "bryan johnson",
+      "name": "chubut",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cooperativa",
-      "traffic": "100+",
+      "name": "josé bianco",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "barreda",
-      "traffic": "1000+",
+      "name": "lucas trejo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "crisis",
-      "traffic": "500+",
+      "name": "bryan johnson",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "joao felix",
-      "traffic": "500+",
+      "name": "caso barreda",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "manuel adorni",
+      "name": "cooperativa",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "samara weaving",
-      "traffic": "200+",
+      "name": "crisis",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "juventus",
-      "traffic": "200+",
+      "name": "joao felix",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
