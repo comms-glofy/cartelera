@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T19:00:24Z",
+  "updated": "2026-07-31T19:30:46Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "flavio mendoza",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "mercedes marcó del pont",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "vibrio",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
-      "name": "fútbol club barcelona",
-      "traffic": "200+",
-      "rank": 3
+      "name": "barcelona vs",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "birmingham city - barcelona",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "chubut",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "josé bianco",
-      "traffic": "2000+",
-      "rank": 6
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "lucas trejo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "bryan johnson",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "cooperativa",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "crisis",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
