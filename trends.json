@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-31T18:52:00Z",
+  "updated": "2026-07-31T19:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "el niño",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -14,42 +14,42 @@
       "rank": 2
     },
     {
-      "name": "birmingham city - barcelona",
-      "traffic": "10000+",
+      "name": "fútbol club barcelona",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "birmingham city - barcelona",
+      "traffic": "20000+",
+      "rank": 4
     },
     {
       "name": "chubut",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "josé bianco",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "lucas trejo",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "bryan johnson",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "cooperativa",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "crisis",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "barreda",
+      "name": "crisis",
       "traffic": "1000+",
       "rank": 10
     }
