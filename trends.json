@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T22:00:17Z",
+  "updated": "2026-07-31T22:30:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "miniserie",
-      "traffic": "1000+",
+      "name": "bilardo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "federico mancuello",
-      "traffic": "200+",
+      "name": "economía",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "niebla",
-      "traffic": "200+",
+      "name": "vacaciones",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "aguinaldo",
-      "traffic": "500+",
+      "name": "giuliano galoppo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "inter de miami",
+      "name": "clima san luis",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "miguel borja",
-      "traffic": "100+",
+      "name": "subte de buenos aires",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "beca",
-      "traffic": "200+",
+      "name": "miniserie",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "tornado",
-      "traffic": "1000+",
+      "name": "federico mancuello",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "vía láctea",
-      "traffic": "100+",
+      "name": "niebla",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "gas",
-      "traffic": "100+",
+      "name": "aguinaldo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
