@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T16:30:16Z",
+  "updated": "2026-07-31T17:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "comercio",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "barcelona",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "rodrigo castillo",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "monaco vs",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "eclipse",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "justicia",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "juventus - niza",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "monaco fc",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "al-nassr football club",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "dólar",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "ian subiabre",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "gran hermano generación dorada",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "ba ferial",
+      "name": "al-nassr football club",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "diego santilli",
-      "traffic": "500+",
+      "name": "dólar",
+      "traffic": "200+",
       "rank": 10
     }
   ]
