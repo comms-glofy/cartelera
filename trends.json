@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T00:00:15Z",
+  "updated": "2026-07-31T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "coritiba - cruzeiro",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ben shelton",
+      "name": "caracas fc",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "o'higgins - boca juniors",
-      "traffic": "20000+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 3
     },
     {
-      "name": "weather tomorrow",
-      "traffic": "500+",
+      "name": "ben shelton",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "independiente - newell's",
-      "traffic": "10000+",
+      "name": "o'higgins - boca juniors",
+      "traffic": "100000+",
       "rank": 5
     },
     {
-      "name": "leeds - sunderland afc",
-      "traffic": "200+",
+      "name": "weather tomorrow",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "independiente - newell's",
+      "traffic": "20000+",
+      "rank": 7
+    },
+    {
+      "name": "thiago medina",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "leeds - sunderland afc",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "nazarena vélez",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "nuevo refuerzo de river",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "club atlético newell's old boys",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "cadena nacional",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
