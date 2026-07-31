@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-31T00:30:14Z",
+  "updated": "2026-07-31T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "coritiba - cruzeiro",
-      "traffic": "200+",
+      "name": "pelota",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "caracas fc",
-      "traffic": "100+",
+      "name": "tarjeta roja argentina",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "leandro lozano",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "caracas - santa fe",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "central cordoba",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "fatima florez",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "coritiba - cruzeiro",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "tiempo de mañana",
+      "traffic": "500000+",
+      "rank": 8
     },
     {
       "name": "ben shelton",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "o'higgins - boca juniors",
-      "traffic": "100000+",
-      "rank": 5
-    },
-    {
-      "name": "weather tomorrow",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "independiente - newell's",
-      "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "thiago medina",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "leeds - sunderland afc",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nazarena vélez",
-      "traffic": "200+",
+      "name": "o'higgins - boca juniors",
+      "traffic": "200000+",
       "rank": 10
     }
   ]
