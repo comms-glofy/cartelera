@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T19:30:12Z",
+  "updated": "2026-08-01T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "all boys - central norte",
+      "name": "colon de santa fe",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ángel di maría",
+      "name": "banco de la nación argentina",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "eclipse solar",
+      "name": "gimnasia de jujuy",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "murió nirmal purja",
-      "traffic": "500+",
+      "name": "tormenta de santa rosa",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "everton - colo-colo",
-      "traffic": "200+",
+      "name": "atletico madrid",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "gerardo zamora",
-      "traffic": "200+",
+      "name": "all boys - central norte",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "arsenal vs",
-      "traffic": "100+",
+      "name": "ángel di maría",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "patronato - quilmes",
-      "traffic": "2000+",
+      "name": "eclipse solar",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "san martín - atlético rafaela",
+      "name": "murió nirmal purja",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "estudiantes de río cuarto - banfield",
-      "traffic": "20000+",
+      "name": "everton - colo-colo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
