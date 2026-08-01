@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-01T16:30:18Z",
+  "updated": "2026-08-01T16:55:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "primera división",
-      "traffic": "2000+",
+      "name": "nueva chicago - san martín de tucumán",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "consejo nacional de investigaciones científicas y técnicas",
+      "name": "amistosos",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "beca",
-      "traffic": "200+",
+      "name": "primera división",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "real madrid",
+      "name": "beca",
       "traffic": "1000+",
       "rank": 4
     },
     {
+      "name": "real madrid",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "pronostico posadas",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "flavio briatore",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "apple iphone 18 pro max",
-      "traffic": "1000+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "trabajo",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "manchester united",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nirmal purja",
+      "name": "manchester united",
       "traffic": "500+",
       "rank": 10
     }
