@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T03:30:20Z",
+  "updated": "2026-08-01T03:59:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sid wilson",
-      "traffic": "100+",
+      "name": "dia de que es hoy",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "juárez - pumas",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "el idolo juego",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "sid wilson",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "chivas",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "que se celebra el 1 de agosto",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "tigresa acuña",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "ben shelton",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "anne hathaway",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "spiderman no way home",
-      "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "club atlético tucumán",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "loteria nacional nocturna",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "reconquista hoy",
-      "traffic": "100+",
       "rank": 10
     }
   ]
