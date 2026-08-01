@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T13:00:22Z",
+  "updated": "2026-08-01T13:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "agua",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "chelsea - tottenham",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "drama",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "lunes",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "ruta 192",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "pampita",
-      "traffic": "200+",
+      "name": "ruta 192",
+      "traffic": "500+",
       "rank": 5
     },
     {
       "name": "maxi lópez",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "pampita",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "árbitro",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "manchester city",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "corea del norte",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "la brujula",
-      "traffic": "200+",
+      "name": "corea del norte",
+      "traffic": "500+",
       "rank": 10
     }
   ]
