@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T18:00:12Z",
+  "updated": "2026-08-01T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colegiales - gimnasia jujuy",
-      "traffic": "500+",
+      "name": "san martín - atlético rafaela",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "showcase",
-      "traffic": "500+",
+      "name": "patronato - quilmes",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "enrique otranto",
-      "traffic": "200+",
+      "name": "estudiantes de río cuarto - banfield",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "bautista mascia",
-      "traffic": "100+",
+      "name": "gimnasia y esgrima - unión",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "ferro - godoy cruz",
+      "name": "almagro - midland",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "antonio banderas",
-      "traffic": "100+",
+      "name": "arsenal",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mar negro",
-      "traffic": "100+",
+      "name": "colegiales - gimnasia jujuy",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "nueva chicago - san martín de tucumán",
-      "traffic": "2000+",
+      "name": "enrique otranto",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "real madrid - fiorentina",
-      "traffic": "2000+",
+      "name": "showcase",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "amistosos",
-      "traffic": "1000+",
+      "name": "bautista mascia",
+      "traffic": "100+",
       "rank": 10
     }
   ]
