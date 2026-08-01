@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T10:30:17Z",
+  "updated": "2026-08-01T10:56:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inundación",
+      "name": "pronostico corrientes",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "eduardo coudet",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "inundación",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "chelsea",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "que se celebra hoy",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "dia de que es hoy",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "juárez - pumas",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "el idolo juego",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "sid wilson",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "chivas",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "que se celebra el 1 de agosto",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "tigresa acuña",
-      "traffic": "2000+",
+      "name": "que se celebra el 1 de agosto",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
