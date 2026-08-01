@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T14:30:14Z",
+  "updated": "2026-08-01T15:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flavio briatore",
-      "traffic": "500+",
+      "name": "clima posadas",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "apple iphone 18 pro max",
-      "traffic": "1000+",
+      "name": "flavio briatore",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "apple iphone 18 pro max",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "trabajo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "manchester united",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "city",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nirmal purja",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "agua",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "chelsea - tottenham",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "drama",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "lunes",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
