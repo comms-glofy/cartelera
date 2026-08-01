@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T19:11:40Z",
+  "updated": "2026-08-01T19:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "murió nirmal purja",
-      "traffic": "200+",
+      "name": "all boys - central norte",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "everton - colo-colo",
+      "name": "ángel di maría",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "eclipse solar",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "murió nirmal purja",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "everton - colo-colo",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "gerardo zamora",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "arsenal vs",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "patronato - quilmes",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "san martín - atlético rafaela",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "estudiantes de río cuarto - banfield",
-      "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "gimnasia y esgrima - unión",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "arsenal",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "almagro - midland",
-      "traffic": "500+",
+      "name": "estudiantes de río cuarto - banfield",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
