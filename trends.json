@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-01T00:01:40Z",
+  "updated": "2026-08-01T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "evo morales",
+      "name": "reconquista noticias",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima rio cuarto",
-      "traffic": "100+",
+      "name": "univ. concepción - audax italiano",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mario pergolini",
-      "traffic": "100+",
+      "name": "libertad fc - orense",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rafael jódar",
+      "name": "evo morales",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "clima rio cuarto",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "mario pergolini",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "rafael jódar",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "cuenta dni agosto 2026",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "méxico",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "desastre",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "apple iphone 18",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "orioles - phillies",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "van dijk",
+      "name": "desastre",
       "traffic": "200+",
       "rank": 10
     }
