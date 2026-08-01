@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T10:00:24Z",
+  "updated": "2026-08-01T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "inundación",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "chelsea",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "que se celebra hoy",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "dia de que es hoy",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "juárez - pumas",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "el idolo juego",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "sid wilson",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "chivas",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "que se celebra el 1 de agosto",
-      "traffic": "10000+",
-      "rank": 7
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "tigresa acuña",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "ben shelton",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "abel pintos",
-      "traffic": "200+",
       "rank": 10
     }
   ]
