@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T12:30:15Z",
+  "updated": "2026-08-01T13:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pampita",
-      "traffic": "200+",
+      "name": "chelsea - tottenham",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "maxi lópez",
+      "name": "drama",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "árbitro",
+      "name": "lunes",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "manchester city",
+      "name": "ruta 192",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "corea del norte",
+      "name": "pampita",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "la brujula",
-      "traffic": "200+",
+      "name": "maxi lópez",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "club atlético river plate",
-      "traffic": "1000+",
+      "name": "árbitro",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima corrientes",
-      "traffic": "200+",
+      "name": "manchester city",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "eduardo coudet",
-      "traffic": "1000+",
+      "name": "corea del norte",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "inundación",
-      "traffic": "2000+",
+      "name": "la brujula",
+      "traffic": "200+",
       "rank": 10
     }
   ]
