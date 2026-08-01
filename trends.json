@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T02:30:13Z",
+  "updated": "2026-08-01T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ben shelton",
-      "traffic": "200+",
+      "name": "sid wilson",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "puebla - guadalajara",
-      "traffic": "100+",
+      "name": "chivas",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "anne hathaway",
+      "name": "ben shelton",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "spiderman no way home",
-      "traffic": "200+",
+      "name": "anne hathaway",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "spiderman no way home",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "club atlético tucumán",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "loteria nacional nocturna",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "reconquista hoy",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "thiago medina hoy",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "reconquista noticias",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "karen reichardt",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "univ. concepción - audax italiano",
-      "traffic": "200+",
       "rank": 10
     }
   ]
