@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T11:00:16Z",
+  "updated": "2026-08-01T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico corrientes",
+      "name": "corea del norte",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "eduardo coudet",
+      "name": "clima corrientes",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inundación",
+      "name": "eduardo coudet",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "chelsea",
-      "traffic": "100+",
+      "name": "inundación",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "que se celebra hoy",
+      "name": "chelsea",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "hoy es el dia de",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "que se celebra hoy",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "dia de que es hoy",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "juárez - pumas",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "el idolo juego",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "sid wilson",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "que se celebra el 1 de agosto",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
