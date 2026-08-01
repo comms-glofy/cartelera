@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T20:30:21Z",
+  "updated": "2026-08-01T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "belgrano - argentinos jrs.",
-      "traffic": "200+",
+      "name": "cerro - sportivo luqueño",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "estudiantes - defensa y justicia",
-      "traffic": "200+",
+      "name": "vozinha",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "denisse gonzález",
-      "traffic": "500+",
+      "name": "roberto cachanosky",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mel gibson",
+      "name": "cuándo juega boca juniors",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "vasco da gama - fluminense",
-      "traffic": "500+",
+      "name": "belgrano - argentinos jrs.",
+      "traffic": "5000+",
       "rank": 5
+    },
+    {
+      "name": "estudiantes - defensa y justicia",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "denisse gonzález",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "mel gibson",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "vasco da gama - fluminense",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "silvina escudero",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "gimnasia de jujuy",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "atletico",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "banco de la nación argentina",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "colon hoy",
-      "traffic": "200+",
       "rank": 10
     }
   ]
