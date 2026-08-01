@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-01T01:00:15Z",
+  "updated": "2026-08-01T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético tucumán",
-      "traffic": "10000+",
+      "name": "anne hathaway",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "spiderman no way home",
-      "traffic": "100+",
+      "name": "club atlético tucumán",
+      "traffic": "5000+",
       "rank": 2
+    },
+    {
+      "name": "spiderman no way home",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "loteria nacional nocturna",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "reconquista hoy",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "thiago medina hoy",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "karen reichardt",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "univ. concepción - audax italiano",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "libertad fc - orense",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "evo morales",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima rio cuarto",
+      "name": "evo morales",
       "traffic": "100+",
       "rank": 10
     }
