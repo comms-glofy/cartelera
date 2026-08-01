@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-01T04:00:21Z",
+  "updated": "2026-08-01T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia de que es hoy",
+      "name": "que se celebra hoy",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "dia de que es hoy",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "juárez - pumas",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "el idolo juego",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "sid wilson",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "chivas",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
-      "name": "que se celebra el 1 de agosto",
-      "traffic": "2000+",
-      "rank": 6
+      "name": "1 de agosto que se celebra",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "tigresa acuña",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ben shelton",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "anne hathaway",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "club atlético tucumán",
+      "name": "abel pintos",
       "traffic": "200+",
       "rank": 10
     }
