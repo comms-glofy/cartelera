@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T06:00:13Z",
+  "updated": "2026-08-01T06:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "1 de agosto que se celebra",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
       "name": "que se celebra el 1 de agosto",
-      "traffic": "5000+",
-      "rank": 8
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "tigresa acuña",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "ben shelton",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "abel pintos",
       "traffic": "200+",
       "rank": 10
     }
