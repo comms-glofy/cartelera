@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T22:30:20Z",
+  "updated": "2026-08-01T23:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético mineiro - juventude",
-      "traffic": "200+",
+      "name": "inter miami",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "boca vs newell's",
+      "name": "orioles - phillies",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "u. católica - técnico universitario",
-      "traffic": "200+",
+      "name": "racing - tigre",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "racing vs tigre",
-      "traffic": "100+",
+      "name": "inter miami - columbus crew",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "perú",
+      "name": "ian subiabre",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "vincent pastore",
-      "traffic": "200+",
+      "name": "vozinha no llega a colo colo",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "linda blair",
+      "name": "fluminense",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jugador de fútbol",
+      "name": "atlético mineiro - juventude",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "porto",
+      "name": "boca vs newell's",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "lindsay lohan",
-      "traffic": "500+",
+      "name": "u. católica - técnico universitario",
+      "traffic": "200+",
       "rank": 10
     }
   ]
