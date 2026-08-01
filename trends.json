@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T22:00:41Z",
+  "updated": "2026-08-01T22:26:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing vs tigre",
-      "traffic": "100+",
+      "name": "atlético mineiro - juventude",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "perú",
-      "traffic": "200+",
+      "name": "boca vs newell's",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "vincent pastore",
+      "name": "u. católica - técnico universitario",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "linda blair",
+      "name": "racing vs tigre",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "jugador de fútbol",
+      "name": "perú",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "porto",
-      "traffic": "100+",
+      "name": "vincent pastore",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "lindsay lohan",
+      "name": "linda blair",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "peñarol - cerro largo",
+      "name": "jugador de fútbol",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "estudiantes de la plata",
-      "traffic": "500+",
+      "name": "porto",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ciclón extratropical",
-      "traffic": "200000+",
+      "name": "lindsay lohan",
+      "traffic": "500+",
       "rank": 10
     }
   ]
