@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T14:00:17Z",
+  "updated": "2026-08-01T14:05:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "trabajo",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "manchester united",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "city",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "nirmal purja",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "agua",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "chelsea - tottenham",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "drama",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lunes",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ruta 192",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "maxi lópez",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "pampita",
-      "traffic": "500+",
       "rank": 10
     }
   ]
