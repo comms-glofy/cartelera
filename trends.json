@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T12:01:31Z",
+  "updated": "2026-08-01T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "árbitro",
-      "traffic": "100+",
+      "name": "pampita",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "manchester city",
+      "name": "maxi lópez",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "corea del norte",
-      "traffic": "100+",
+      "name": "árbitro",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "club atlético river plate",
-      "traffic": "500+",
+      "name": "manchester city",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima corrientes",
+      "name": "corea del norte",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "eduardo coudet",
-      "traffic": "1000+",
+      "name": "la brujula",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "inundación",
-      "traffic": "2000+",
+      "name": "club atlético river plate",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "chelsea",
+      "name": "clima corrientes",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "hoy es el dia de",
-      "traffic": "200+",
+      "name": "eduardo coudet",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "que se celebra hoy",
-      "traffic": "200+",
+      "name": "inundación",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
