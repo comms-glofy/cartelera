@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T12:34:03Z",
+  "updated": "2026-08-02T13:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "campos flégreos",
-      "traffic": "200+",
+      "name": "superávit económico",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "alerta roja",
-      "traffic": "1000+",
+      "name": "pobreza",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "hugo moyano",
+      "name": "campos flégreos",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "josé bianco meteorólogo",
-      "traffic": "100+",
+      "name": "alerta roja",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "política",
-      "traffic": "100+",
+      "name": "hugo moyano",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "flybondi",
+      "name": "josé bianco meteorólogo",
       "traffic": "100+",
       "rank": 6
     },
     {
+      "name": "política",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "flybondi",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "actc",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "wanda nara",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "joaquín levinton",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "rosalía en argentina",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
