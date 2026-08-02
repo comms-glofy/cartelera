@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-02T04:00:16Z",
+  "updated": "2026-08-02T04:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "seguridad aeroportuaria",
-      "traffic": "100+",
+      "name": "méxico",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "neymar",
-      "traffic": "1000+",
+      "name": "cruz azul",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "abigeato",
-      "traffic": "200+",
+      "name": "2 de agosto",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "los soprano",
+      "name": "seguridad aeroportuaria",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "niki lauda",
-      "traffic": "100+",
+      "name": "neymar",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "ronnie arias",
+      "name": "abigeato",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "anne hathaway",
+      "name": "los soprano",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "leo montero",
-      "traffic": "500+",
+      "name": "niki lauda",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "alianza lima - alianza atlético",
-      "traffic": "1000+",
+      "name": "ronnie arias",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "junior - millonarios",
+      "name": "anne hathaway",
       "traffic": "500+",
       "rank": 10
     }
