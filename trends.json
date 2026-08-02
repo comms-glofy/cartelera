@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T15:00:23Z",
+  "updated": "2026-08-02T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luján",
-      "traffic": "2000+",
+      "name": "sargazo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "la nueva provincia",
-      "traffic": "100+",
+      "name": "luján",
+      "traffic": "2000+",
       "rank": 2
     },
     {
       "name": "chile",
-      "traffic": "2000+",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "moria casán",
+      "name": "la nueva provincia",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima bahia blanca",
+      "name": "moria casán",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "bayer",
+      "name": "clima bahia blanca",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "propiedad privada",
-      "traffic": "100+",
+      "name": "unión obrera de la construcción de la república argentina",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "volcan purace",
+      "name": "bayer",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "paro docente",
-      "traffic": "200+",
+      "name": "propiedad privada",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "josé david romero",
-      "traffic": "500+",
+      "name": "volcan purace",
+      "traffic": "200+",
       "rank": 10
     }
   ]
