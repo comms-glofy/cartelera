@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T13:00:16Z",
+  "updated": "2026-08-02T13:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "superávit económico",
-      "traffic": "100+",
+      "name": "josé bianco tn",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "sorteo loto plus",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "maría belén ludueña",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "superávit económico",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "pobreza",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "campos flégreos",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "alerta roja",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "hugo moyano",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "josé bianco meteorólogo",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "política",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "flybondi",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "actc",
+      "name": "política",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "wanda nara",
-      "traffic": "200+",
+      "name": "flybondi",
+      "traffic": "100+",
       "rank": 10
     }
   ]
