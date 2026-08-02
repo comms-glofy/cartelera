@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T19:00:13Z",
+  "updated": "2026-08-02T19:19:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chaco for ever - deportivo morón",
-      "traffic": "200+",
+      "name": "valle salvaje",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "venus williams",
-      "traffic": "200+",
+      "name": "precio",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "acceso sur",
+      "name": "deportivo madryn - all boys",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gelp",
-      "traffic": "100+",
+      "name": "chaco for ever - deportivo morón",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "palmeiras - fortaleza",
-      "traffic": "500+",
+      "name": "venus williams",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "acceso sur",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "palmeiras - fortaleza",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "deportivo maipú - atlanta",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "reelección",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "temperley",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "la serena - o'higgins",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "franco colapinto",
-      "traffic": "1000+",
+      "name": "la serena - o'higgins",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
