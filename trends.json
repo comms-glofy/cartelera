@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T01:30:12Z",
+  "updated": "2026-08-02T02:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "anne hathaway",
+      "name": "ronnie arias",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alianza lima - alianza atlético",
+      "name": "anne hathaway",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "junior - millonarios",
-      "traffic": "200+",
+      "name": "alianza lima - alianza atlético",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "casemiro",
+      "name": "junior - millonarios",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "soledad silveyra",
-      "traffic": "1000+",
+      "name": "casemiro",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "chicago fire - charlotte fc",
-      "traffic": "200+",
+      "name": "soledad silveyra",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "chicago fire - charlotte fc",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "gobierno",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "china suárez",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "iliana calabró",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "atletico mineiro",
-      "traffic": "100+",
       "rank": 10
     }
   ]
