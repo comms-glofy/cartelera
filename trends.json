@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T14:00:13Z",
+  "updated": "2026-08-02T14:26:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "volcan purace",
+      "name": "bayer",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "josé david romero",
-      "traffic": "200+",
+      "name": "propiedad privada",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "canal 9",
+      "name": "volcan purace",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "josé bianco tn",
-      "traffic": "200+",
+      "name": "paro docente",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "maría belén ludueña",
-      "traffic": "100+",
+      "name": "josé david romero",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "superávit económico",
+      "name": "medicina prepaga",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pobreza",
-      "traffic": "200+",
+      "name": "canal 9",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "campos flégreos",
-      "traffic": "1000+",
+      "name": "sorteo loto plus",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "alerta roja",
-      "traffic": "2000+",
+      "name": "josé bianco tn",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "hugo moyano",
-      "traffic": "500+",
+      "name": "maría belén ludueña",
+      "traffic": "200+",
       "rank": 10
     }
   ]
