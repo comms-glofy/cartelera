@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T01:00:15Z",
+  "updated": "2026-08-02T01:07:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chicago fire - charlotte fc",
+      "name": "alianza lima - alianza atlético",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gobierno",
-      "traffic": "5000+",
+      "name": "junior - millonarios",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "china suárez",
-      "traffic": "200+",
+      "name": "casemiro",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "iliana calabró",
+      "name": "chicago fire - charlotte fc",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "atletico mineiro",
-      "traffic": "100+",
+      "name": "gobierno",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "montréal - new england",
-      "traffic": "100+",
+      "name": "china suárez",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pensión",
+      "name": "iliana calabró",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "querétaro - tigres",
-      "traffic": "200+",
+      "name": "atletico mineiro",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "mls",
-      "traffic": "1000+",
+      "name": "montréal - new england",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "inter miami vs columbus",
-      "traffic": "1000+",
+      "name": "pensión",
+      "traffic": "200+",
       "rank": 10
     }
   ]
