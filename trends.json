@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T22:00:15Z",
+  "updated": "2026-08-02T22:26:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alan velasco",
-      "traffic": "200+",
+      "name": "álex arce",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "caricatura",
-      "traffic": "100+",
+      "name": "internacional - corinthians",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "verónica lozano",
+      "name": "cómo salió boca juniors",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "dibu martínez",
+      "name": "torneo argentino",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "river plate - rosario central",
-      "traffic": "20000+",
+      "name": "u. de chile - huachipato",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "mirassol - grêmio",
-      "traffic": "200+",
+      "name": "tabla anual",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cómo va boca",
-      "traffic": "1000+",
+      "name": "oleoducto",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "lazio",
-      "traffic": "100+",
+      "name": "alan velasco",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "central norte",
-      "traffic": "500+",
+      "name": "agustín canapino",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "automóvil",
-      "traffic": "500+",
+      "name": "caricatura",
+      "traffic": "100+",
       "rank": 10
     }
   ]
