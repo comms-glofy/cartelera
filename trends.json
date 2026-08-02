@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-01T23:30:14Z",
+  "updated": "2026-08-02T00:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vozinha arquero colo colo",
-      "traffic": "1000+",
+      "name": "mls",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "inter miami",
-      "traffic": "1000+",
+      "name": "inter miami vs. columbus crew",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "inter miami vs",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "apple tv",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "santos - remo",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "vozinha arquero colo colo",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "orioles - phillies",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "racing - tigre",
       "traffic": "20000+",
-      "rank": 4
-    },
-    {
-      "name": "inter miami - columbus crew",
-      "traffic": "10000+",
-      "rank": 5
-    },
-    {
-      "name": "ian subiabre",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "atlético mineiro - juventude",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "boca vs newell's",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "u. católica - técnico universitario",
-      "traffic": "200+",
+      "name": "inter miami - columbus crew",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "racing vs tigre",
-      "traffic": "500+",
+      "name": "argentinos",
+      "traffic": "200+",
       "rank": 10
     }
   ]
