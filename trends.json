@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T13:30:20Z",
+  "updated": "2026-08-02T14:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "josé bianco tn",
-      "traffic": "200+",
+      "name": "volcan purace",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sorteo loto plus",
-      "traffic": "500+",
+      "name": "josé david romero",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "maría belén ludueña",
+      "name": "canal 9",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "superávit económico",
+      "name": "josé bianco tn",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "pobreza",
+      "name": "maría belén ludueña",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "campos flégreos",
-      "traffic": "500+",
+      "name": "superávit económico",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "pobreza",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "campos flégreos",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "alerta roja",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "hugo moyano",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "política",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "flybondi",
-      "traffic": "100+",
+      "name": "hugo moyano",
+      "traffic": "500+",
       "rank": 10
     }
   ]
