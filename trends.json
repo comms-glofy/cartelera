@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T14:30:13Z",
+  "updated": "2026-08-02T15:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bayer",
-      "traffic": "100+",
+      "name": "luján",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "propiedad privada",
+      "name": "la nueva provincia",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "volcan purace",
-      "traffic": "100+",
+      "name": "chile",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "paro docente",
+      "name": "moria casán",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "josé david romero",
-      "traffic": "200+",
+      "name": "clima bahia blanca",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "medicina prepaga",
-      "traffic": "200+",
+      "name": "bayer",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "canal 9",
+      "name": "propiedad privada",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "sorteo loto plus",
-      "traffic": "500+",
+      "name": "volcan purace",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "josé bianco tn",
+      "name": "paro docente",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "maría belén ludueña",
-      "traffic": "200+",
+      "name": "josé david romero",
+      "traffic": "500+",
       "rank": 10
     }
   ]
