@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T00:30:17Z",
+  "updated": "2026-08-02T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "montréal - new england",
-      "traffic": "100+",
+      "name": "chicago fire - charlotte fc",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pensión",
-      "traffic": "200+",
+      "name": "gobierno",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "querétaro - tigres",
+      "name": "china suárez",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mls",
-      "traffic": "500+",
+      "name": "iliana calabró",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "inter miami vs. columbus crew",
-      "traffic": "500+",
+      "name": "atletico mineiro",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "apple tv",
-      "traffic": "200+",
+      "name": "montréal - new england",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "santos - remo",
-      "traffic": "1000+",
+      "name": "pensión",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "vozinha arquero colo colo",
-      "traffic": "2000+",
+      "name": "querétaro - tigres",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "inter miami",
-      "traffic": "5000+",
+      "name": "mls",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "orioles - phillies",
-      "traffic": "500+",
+      "name": "inter miami vs columbus",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
