@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T17:30:14Z",
+  "updated": "2026-08-02T17:58:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "miguel ángel pichetto",
+      "name": "spiderman no way home",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "encuesta",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "bandera de las islas malvinas",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "norberto fontana",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "playstation store",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "miguel ángel pichetto",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "psv",
       "traffic": "100+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "widows bay",
       "traffic": "100+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "corea del sur",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "aldosivi - gimnasia",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "deportivo riestra - barracas central",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "hábito",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "river central",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "albañil",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rafael calzada",
-      "traffic": "200+",
+      "name": "aldosivi - gimnasia",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
