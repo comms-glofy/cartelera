@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-02T06:00:13Z",
+  "updated": "2026-08-02T06:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "méxico",
-      "traffic": "500+",
+      "name": "posiciones de alianza lima contra alianza atlético",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "2 de agosto",
-      "traffic": "200+",
+      "name": "méxico",
+      "traffic": "500+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "seguridad aeroportuaria",
+      "name": "2 de agosto",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "seguridad aeroportuaria",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "lionel messi",
       "traffic": "50000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "neymar",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "abigeato",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "los soprano",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "niki lauda",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "ronnie arias",
-      "traffic": "200+",
       "rank": 10
     }
   ]
