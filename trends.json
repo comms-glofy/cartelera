@@ -1,46 +1,46 @@
 {
-  "updated": "2026-08-02T03:00:16Z",
+  "updated": "2026-08-02T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "seguridad aeroportuaria",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "neymar",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "los soprano",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "niki lauda",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ronnie arias",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "anne hathaway",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "leo montero",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "alianza lima - alianza atlético",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "casemiro",
-      "traffic": "500+",
+      "name": "alianza lima - alianza atlético",
+      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "soledad silveyra",
-      "traffic": "2000+",
+      "name": "casemiro",
+      "traffic": "500+",
       "rank": 10
     }
   ]
