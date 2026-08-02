@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T16:00:15Z",
+  "updated": "2026-08-02T16:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca newells",
-      "traffic": "10000+",
+      "name": "vietnam",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cohete elon musk luna",
-      "traffic": "100+",
+      "name": "sporting cristal - juan pablo ii college",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "periódico",
+      "name": "fran guerrero padel",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sargazo",
-      "traffic": "200+",
+      "name": "eclipse solar",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "luján",
-      "traffic": "2000+",
+      "name": "scarlett johansson",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "chile",
-      "traffic": "2000+",
+      "name": "concepción - u. católica",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "la nueva provincia",
+      "name": "boca newells",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "moria casán",
-      "traffic": "200+",
+      "name": "cohete elon musk luna",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "clima bahia blanca",
+      "name": "periódico",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "unión obrera de la construcción de la república argentina",
-      "traffic": "500+",
+      "name": "sargazo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
