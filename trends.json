@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T00:00:19Z",
+  "updated": "2026-08-02T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mls",
-      "traffic": "500+",
+      "name": "montréal - new england",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "inter miami vs. columbus crew",
+      "name": "pensión",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inter miami vs",
-      "traffic": "500+",
+      "name": "querétaro - tigres",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "apple tv",
-      "traffic": "200+",
+      "name": "mls",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "santos - remo",
+      "name": "inter miami vs. columbus crew",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "vozinha arquero colo colo",
-      "traffic": "1000+",
+      "name": "apple tv",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "orioles - phillies",
-      "traffic": "200+",
+      "name": "santos - remo",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "racing - tigre",
-      "traffic": "20000+",
+      "name": "vozinha arquero colo colo",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "inter miami - columbus crew",
-      "traffic": "20000+",
+      "name": "inter miami",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "argentinos",
-      "traffic": "200+",
+      "name": "orioles - phillies",
+      "traffic": "500+",
       "rank": 10
     }
   ]
