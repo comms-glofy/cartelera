@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T18:00:13Z",
+  "updated": "2026-08-02T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "spiderman no way home",
-      "traffic": "100+",
+      "name": "la serena - o'higgins",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "encuesta",
+      "name": "franco colapinto",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "bandera de las islas malvinas",
+      "name": "independiente del valle - dep. cuenca",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "norberto fontana",
-      "traffic": "200+",
+      "name": "que paso en san juan",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "playstation store",
-      "traffic": "100+",
+      "name": "chacarita - agropecuario",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "miguel ángel pichetto",
-      "traffic": "200+",
+      "name": "spiderman no way home",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "psv",
-      "traffic": "100+",
+      "name": "bandera de las islas malvinas",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "widows bay",
-      "traffic": "100+",
+      "name": "encuesta",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "corea del sur",
-      "traffic": "100+",
+      "name": "norberto fontana",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "aldosivi - gimnasia",
-      "traffic": "5000+",
+      "name": "junior pisanu",
+      "traffic": "200+",
       "rank": 10
     }
   ]
