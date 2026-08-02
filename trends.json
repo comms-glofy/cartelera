@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T12:30:20Z",
+  "updated": "2026-08-02T12:34:03Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alerta roja",
-      "traffic": "500+",
+      "name": "campos flégreos",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "alerta roja",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "hugo moyano",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "flybondi",
-      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "actc",
+      "name": "josé bianco meteorólogo",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "política",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "flybondi",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "actc",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "wanda nara",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "joaquín levinton",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "rosalía en argentina",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "stock market news today",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "2 de agosto que se celebra",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "méxico",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
