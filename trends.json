@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T08:00:21Z",
+  "updated": "2026-08-02T08:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "rosalía en argentina",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "2 de agosto que se celebra",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "méxico",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "cruz azul",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "2 de agosto",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "seguridad aeroportuaria",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "lionel messi",
       "traffic": "50000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "neymar",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "abigeato",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "los soprano",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "niki lauda",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "ronnie arias",
-      "traffic": "200+",
       "rank": 10
     }
   ]
