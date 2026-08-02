@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T07:30:14Z",
+  "updated": "2026-08-02T08:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "lionel messi",
+      "traffic": "50000+",
+      "rank": 5
+    },
+    {
       "name": "neymar",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "abigeato",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "los soprano",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "niki lauda",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ronnie arias",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "anne hathaway",
-      "traffic": "500+",
       "rank": 10
     }
   ]
