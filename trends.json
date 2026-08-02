@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T01:07:22Z",
+  "updated": "2026-08-02T01:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alianza lima - alianza atlético",
+      "name": "anne hathaway",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "junior - millonarios",
+      "name": "alianza lima - alianza atlético",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "casemiro",
-      "traffic": "100+",
+      "name": "junior - millonarios",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chicago fire - charlotte fc",
+      "name": "casemiro",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gobierno",
-      "traffic": "5000+",
+      "name": "soledad silveyra",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "china suárez",
+      "name": "chicago fire - charlotte fc",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "gobierno",
+      "traffic": "5000+",
+      "rank": 7
+    },
+    {
+      "name": "china suárez",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "iliana calabró",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "atletico mineiro",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "montréal - new england",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "pensión",
-      "traffic": "200+",
       "rank": 10
     }
   ]
