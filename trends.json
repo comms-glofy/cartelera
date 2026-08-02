@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-02T16:30:19Z",
+  "updated": "2026-08-02T16:54:47Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vietnam",
+      "name": "river vs rosario central",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sporting cristal - juan pablo ii college",
+      "name": "rafael calzada",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fran guerrero padel",
-      "traffic": "100+",
+      "name": "vietnam",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "eclipse solar",
-      "traffic": "100+",
+      "name": "sporting cristal - juan pablo ii college",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "scarlett johansson",
-      "traffic": "100+",
+      "name": "eclipse solar",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "concepción - u. católica",
-      "traffic": "500+",
+      "name": "fran guerrero padel",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "boca newells",
-      "traffic": "200+",
+      "name": "boca vs newells",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "cohete elon musk luna",
-      "traffic": "100+",
+      "name": "scarlett johansson",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "periódico",
-      "traffic": "100+",
+      "name": "concepción - u. católica",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "sargazo",
+      "name": "cohete elon musk luna",
       "traffic": "200+",
       "rank": 10
     }
