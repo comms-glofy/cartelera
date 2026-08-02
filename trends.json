@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T21:30:12Z",
+  "updated": "2026-08-02T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cómo va boca juniors",
+      "name": "alan velasco",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mirassol - grêmio",
-      "traffic": "200+",
+      "name": "caricatura",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cómo va boca",
-      "traffic": "1000+",
+      "name": "verónica lozano",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lazio",
-      "traffic": "100+",
+      "name": "dibu martínez",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "automóvil",
-      "traffic": "200+",
+      "name": "river plate - rosario central",
+      "traffic": "20000+",
       "rank": 5
     },
     {
-      "name": "central norte",
+      "name": "mirassol - grêmio",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "santiago lencina",
-      "traffic": "200+",
+      "name": "cómo va boca",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "jensen huang",
-      "traffic": "200+",
+      "name": "lazio",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "incendio",
-      "traffic": "100+",
+      "name": "central norte",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "futbol para todos",
-      "traffic": "5000+",
+      "name": "automóvil",
+      "traffic": "500+",
       "rank": 10
     }
   ]
