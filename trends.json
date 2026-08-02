@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T20:30:19Z",
+  "updated": "2026-08-02T21:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "directv",
-      "traffic": "500+",
+      "name": "central norte",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "santiago lencina",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "directv",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "jensen huang",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "incendio",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "futbol para todos",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "liverpool",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "thiago almada",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "galatasaray",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "playstation",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "valentín barco",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "almirante",
-      "traffic": "200+",
+      "name": "playstation",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
