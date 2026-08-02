@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T15:37:34Z",
+  "updated": "2026-08-02T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sargazo",
-      "traffic": "200+",
+      "name": "boca newells",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "luján",
-      "traffic": "2000+",
+      "name": "cohete elon musk luna",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "chile",
+      "name": "periódico",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "la nueva provincia",
-      "traffic": "100+",
+      "name": "sargazo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "moria casán",
-      "traffic": "100+",
+      "name": "luján",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
+      "name": "chile",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "unión obrera de la construcción de la república argentina",
+      "name": "la nueva provincia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bayer",
+      "name": "moria casán",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "propiedad privada",
+      "name": "clima bahia blanca",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "volcan purace",
-      "traffic": "200+",
+      "name": "unión obrera de la construcción de la república argentina",
+      "traffic": "500+",
       "rank": 10
     }
   ]
