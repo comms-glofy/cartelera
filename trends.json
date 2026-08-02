@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-02T11:00:17Z",
+  "updated": "2026-08-02T11:13:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "wanda nara",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "rosalía en argentina",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "méxico",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "cruz azul",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "2 de agosto",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "seguridad aeroportuaria",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "rodrigo de paul",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "abigeato",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "neymar",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "pity martínez",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "los soprano",
-      "traffic": "500+",
       "rank": 10
     }
   ]
