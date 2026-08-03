@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T11:30:21Z",
+  "updated": "2026-08-03T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estafa",
-      "traffic": "1000+",
+      "name": "fuerza de seguridad",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "calendario agosto 2026",
-      "traffic": "100+",
+      "name": "axel kicillof",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "estafa",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "gabriel corrado",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "clima la plata",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima tucuman",
+      "name": "calendario agosto 2026",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "clima la plata",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "clima tucuman",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "weather",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima salta",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "clima",
       "traffic": "500000+",
-      "rank": 8
-    },
-    {
-      "name": "lunes",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico corrientes",
-      "traffic": "100+",
       "rank": 10
     }
   ]
