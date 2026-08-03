@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T04:30:22Z",
+  "updated": "2026-08-03T05:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "que se celebra el 3 de agosto",
+      "name": "sorteo quini6",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "que se celebra el 3 de agosto",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "feriados agosto 2026",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "3 de agosto",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "avenida brasil",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "instituto hoy",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ingreso",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "hernan lacunza",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pan am 103",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "toluca - necaxa",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "santa fe - once caldas",
-      "traffic": "200+",
       "rank": 10
     }
   ]
