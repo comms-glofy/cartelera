@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T01:07:56Z",
+  "updated": "2026-08-03T01:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "américa - boyacá chicó",
-      "traffic": "100+",
+      "name": "elecciones santiago del estero",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "américa - boyacá chicó",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "carlota casiraghi",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ramon diaz",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "emanuel coronel",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "valentin lucero",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "cuanto va river",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lanús - instituto",
-      "traffic": "5000+",
-      "rank": 7
+      "traffic": "10000+",
+      "rank": 8
     },
     {
       "name": "weather tomorrow",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "beltran",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "copetti",
-      "traffic": "100+",
       "rank": 10
     }
   ]
