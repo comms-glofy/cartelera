@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T22:00:24Z",
+  "updated": "2026-08-03T22:05:04Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "precipitación",
-      "traffic": "100+",
+      "name": "giuliano galoppo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "aura",
+      "name": "banco de la nación argentina",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "platense - talleres",
-      "traffic": "2000+",
+      "name": "navone",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "precipitación",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "aura",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "platense - talleres",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "anses",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "meteored",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "paulo dybala",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "vélez - independiente",
       "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "tsv 1860 múnich",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "acciones ypf hoy",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "leandro aguilera",
-      "traffic": "200+",
       "rank": 10
     }
   ]
