@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-03T02:00:14Z",
+  "updated": "2026-08-03T02:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santa fe - once caldas",
-      "traffic": "100+",
+      "name": "ingreso",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mario pergolini",
-      "traffic": "200+",
+      "name": "hernan lacunza",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gimena accardi",
+      "name": "pan am 103",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "elecciones santiago del estero",
-      "traffic": "2000+",
+      "name": "toluca - necaxa",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "carlota casiraghi",
-      "traffic": "100+",
+      "name": "santa fe - once caldas",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "américa - boyacá chicó",
+      "name": "mario pergolini",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "presidente de river",
+      "name": "gimena accardi",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cantizano",
-      "traffic": "200+",
+      "name": "elecciones santiago del estero",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "emanuel coronel",
+      "name": "carlota casiraghi",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "valentin lucero",
+      "name": "américa - boyacá chicó",
       "traffic": "200+",
       "rank": 10
     }
