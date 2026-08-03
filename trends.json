@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T09:00:24Z",
+  "updated": "2026-08-03T09:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "artificial intelligence news",
-      "traffic": "100+",
+      "name": "virginia lago",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "what is a data breach",
+      "name": "clima posadas",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima neuquen",
+      "name": "artificial intelligence news",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "what is a data breach",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "volcán purace",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "clima neuquen",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "sorteo quini6",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "astra ai",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "que se celebra el 3 de agosto",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "3 de agosto",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "avenida brasil",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "instituto hoy",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "ingreso",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
