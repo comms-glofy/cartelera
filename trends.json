@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T18:30:25Z",
+  "updated": "2026-08-03T19:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colombia",
-      "traffic": "500+",
+      "name": "cronicazo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "kevin lomónaco",
+      "name": "rafael jódar",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "taylor fritz",
+      "name": "naranja",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mariano navone",
+      "name": "iliana calabró",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "avenida brasil",
-      "traffic": "100+",
+      "name": "mar del plata",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "utn",
+      "name": "sylvester stallone",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "alexandra eala",
-      "traffic": "200+",
+      "name": "colombia",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "cotizacion dolar hoy",
+      "name": "kevin lomónaco",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "lali river",
+      "name": "taylor fritz",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "gran hermano",
-      "traffic": "1000+",
+      "name": "mariano navone",
+      "traffic": "200+",
       "rank": 10
     }
   ]
