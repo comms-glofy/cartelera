@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T23:00:21Z",
+  "updated": "2026-08-03T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "policía",
-      "traffic": "200+",
+      "name": "exportación",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "milei",
+      "name": "policía",
       "traffic": "200+",
       "rank": 2
     },
     {
       "name": "reforma",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
-    },
-    {
-      "name": "allan nascimento",
-      "traffic": "200+",
-      "rank": 4
     },
     {
       "name": "tasa de cambio",
       "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "allan nascimento",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "milei",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "phillies - nationals",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "enrique iglesias",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "tejo",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "valeria mazza",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "se cayó whatsapp",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "amistosos internacionales",
-      "traffic": "200+",
+      "name": "valeria mazza",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
