@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-03T17:00:16Z",
+  "updated": "2026-08-03T17:23:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jadon sancho",
-      "traffic": "100+",
+      "name": "gran hermano",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "santiago sosa",
-      "traffic": "100+",
+      "name": "karen reichardt",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "infopico",
+      "name": "new order",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lali",
+      "name": "iker zufiaurre",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "atp montreal",
+      "name": "fenómeno meteorológico extremo",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "meteoro",
-      "traffic": "500+",
+      "name": "fabio pompei",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "crónica",
-      "traffic": "100+",
+      "name": "jadon sancho",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "periódico",
+      "name": "santiago sosa",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "phil collins",
-      "traffic": "500+",
+      "name": "lali",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "darwin núñez",
+      "name": "infopico",
       "traffic": "100+",
       "rank": 10
     }
