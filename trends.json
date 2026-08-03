@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-03T19:00:14Z",
+  "updated": "2026-08-03T19:05:00Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cronicazo",
-      "traffic": "200+",
+      "name": "catherine fulop",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rafael jódar",
+      "name": "liam payne",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "cronicazo",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "rafael jódar",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "naranja",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "iliana calabró",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "mar del plata",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "sylvester stallone",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "colombia",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "kevin lomónaco",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "taylor fritz",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mariano navone",
+      "name": "kevin lomónaco",
       "traffic": "200+",
       "rank": 10
     }
