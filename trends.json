@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T01:00:24Z",
+  "updated": "2026-08-03T01:07:56Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ramon diaz",
-      "traffic": "200+",
+      "name": "américa - boyacá chicó",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "carlota casiraghi",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "ramon diaz",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "emanuel coronel",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "valentin lucero",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "cuanto va river",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "lanús - instituto",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "weather tomorrow",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "beltran",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "copetti",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "lucas beltrán",
-      "traffic": "200+",
       "rank": 10
     }
   ]
