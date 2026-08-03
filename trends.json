@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-03T12:00:16Z",
+  "updated": "2026-08-03T12:18:41Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "fuerza de seguridad",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -19,18 +19,18 @@
       "rank": 3
     },
     {
-      "name": "gabriel corrado",
-      "traffic": "100+",
+      "name": "calendario agosto 2026",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "calendario agosto 2026",
+      "name": "gabriel corrado",
       "traffic": "200+",
       "rank": 5
     },
     {
       "name": "clima la plata",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "clima",
-      "traffic": "500000+",
+      "name": "pronostico corrientes",
+      "traffic": "100+",
       "rank": 10
     }
   ]
