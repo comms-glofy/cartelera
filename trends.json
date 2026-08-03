@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-03T02:30:12Z",
+  "updated": "2026-08-03T03:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ingreso",
-      "traffic": "200+",
+      "name": "avenida brasil",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "santiago del estero",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "instituto hoy",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "ingreso",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "hernan lacunza",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "pan am 103",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "toluca - necaxa",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "santa fe - once caldas",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "mario pergolini",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "gimena accardi",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "elecciones santiago del estero",
-      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "carlota casiraghi",
-      "traffic": "200+",
+      "name": "mario pergolini",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "américa - boyacá chicó",
+      "name": "gimena accardi",
       "traffic": "200+",
       "rank": 10
     }
