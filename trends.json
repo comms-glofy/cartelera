@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T20:00:25Z",
+  "updated": "2026-08-03T20:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aeropuerto internacional ezeiza",
-      "traffic": "200+",
+      "name": "celtic",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "chimy avila",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "aeropuerto internacional ezeiza",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "desalojo",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "latinoamérica",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "fuerza aérea argentina",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "jonatan castellano",
-      "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "crimen",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
-      "name": "chimy ávila",
-      "traffic": "100+",
-      "rank": 7
+      "name": "jonatan castellano",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "automóvil",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "sarmiento - independiente rivadavia",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "colectivos de buenos aires",
-      "traffic": "200+",
+      "name": "sarmiento - independiente rivadavia",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
