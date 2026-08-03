@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T14:00:19Z",
+  "updated": "2026-08-03T14:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pan am",
+      "name": "pampita",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ypf",
-      "traffic": "200+",
+      "name": "kevin castaño",
+      "traffic": "50000+",
       "rank": 2
     },
     {
-      "name": "the last of us",
+      "name": "iprodha",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ipc",
+      "name": "pan am",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "panamericana",
-      "traffic": "1000+",
+      "name": "ypf",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "indec",
+      "name": "the last of us",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "devaluación",
-      "traffic": "200+",
+      "name": "ipc",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "fuerza de seguridad",
-      "traffic": "500+",
+      "name": "panamericana",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "axel kicillof",
-      "traffic": "1000+",
+      "name": "indec",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "teams",
-      "traffic": "100+",
+      "name": "devaluación",
+      "traffic": "200+",
       "rank": 10
     }
   ]
