@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T00:00:14Z",
+  "updated": "2026-08-03T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "campaz",
-      "traffic": "100+",
+      "name": "ramon diaz",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cienciano - universitario",
+      "name": "emanuel coronel",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cruzeiro",
-      "traffic": "500+",
+      "name": "valentin lucero",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tabla de posiciones",
-      "traffic": "200+",
+      "name": "beltran river",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "el liberal",
-      "traffic": "200+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 5
     },
     {
-      "name": "colidio",
-      "traffic": "200+",
+      "name": "weather tomorrow",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "leones del norte - barcelona sc",
-      "traffic": "500+",
+      "name": "beltran",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "telekino 2 de agosto",
-      "traffic": "1000+",
+      "name": "copetti",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "pronostico mar del plata",
-      "traffic": "200+",
+      "name": "campaz",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "di maria",
-      "traffic": "500+",
+      "name": "cienciano - universitario",
+      "traffic": "200+",
       "rank": 10
     }
   ]
