@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T03:00:22Z",
+  "updated": "2026-08-03T03:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "avenida brasil",
+      "name": "3 de agosto",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "avenida brasil",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "santiago del estero",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "instituto hoy",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ingreso",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "hernan lacunza",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pan am 103",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "toluca - necaxa",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "santa fe - once caldas",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mario pergolini",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "gimena accardi",
-      "traffic": "200+",
       "rank": 10
     }
   ]
