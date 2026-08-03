@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T12:30:22Z",
+  "updated": "2026-08-03T13:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fuerza de seguridad",
+      "name": "inflacion julio 2026",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "axel kicillof",
+      "name": "panamericana",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "estafa",
-      "traffic": "200+",
+      "name": "devaluación",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "calendario agosto 2026",
+      "name": "fuerza de seguridad",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gabriel corrado",
-      "traffic": "200+",
+      "name": "axel kicillof",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "clima la plata",
+      "name": "estafa",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "quini 6 domingo 2 de agosto",
-      "traffic": "500+",
+      "name": "calendario agosto 2026",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima tucuman",
+      "name": "gabriel corrado",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "weather",
+      "name": "clima la plata",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima salta",
-      "traffic": "100+",
+      "name": "clima tucuman",
+      "traffic": "200+",
       "rank": 10
     }
   ]
