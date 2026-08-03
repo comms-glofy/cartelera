@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-02T23:30:14Z",
+  "updated": "2026-08-03T00:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cruzeiro",
-      "traffic": "200+",
+      "name": "campaz",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tabla de posiciones",
-      "traffic": "100+",
+      "name": "cienciano - universitario",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cómo va river",
+      "name": "cruzeiro",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "el liberal",
+      "name": "tabla de posiciones",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "colidio",
-      "traffic": "100+",
+      "name": "el liberal",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "colidio",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "leones del norte - barcelona sc",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "telekino 2 de agosto",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "pronostico mar del plata",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "di maria",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima mar del plata",
+      "name": "di maria",
       "traffic": "500+",
       "rank": 10
     }
