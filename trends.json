@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T21:30:15Z",
+  "updated": "2026-08-03T22:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "anses",
-      "traffic": "5000+",
+      "name": "precipitación",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "platense - talleres",
+      "name": "aura",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "meteored",
-      "traffic": "500+",
+      "name": "platense - talleres",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "paulo dybala",
-      "traffic": "200+",
+      "name": "anses",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "vélez - independiente",
+      "name": "meteored",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "tsv 1860 múnich",
+      "name": "paulo dybala",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "acciones ypf hoy",
-      "traffic": "1000+",
+      "name": "vélez - independiente",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "leandro aguilera",
+      "name": "tsv 1860 múnich",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "celtic",
-      "traffic": "100+",
+      "name": "acciones ypf hoy",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "chimy avila",
-      "traffic": "1000+",
+      "name": "leandro aguilera",
+      "traffic": "200+",
       "rank": 10
     }
   ]
