@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T20:42:48Z",
+  "updated": "2026-08-03T21:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "celtic",
+      "name": "velez vs independiente",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "leandro aguilera",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "celtic",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "chimy avila",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "aeropuerto internacional ezeiza",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "desalojo",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "latinoamérica",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "fuerza aérea argentina",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "crimen",
-      "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "jonatan castellano",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "automóvil",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "sarmiento - independiente rivadavia",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
