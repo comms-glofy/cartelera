@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T10:00:24Z",
+  "updated": "2026-08-03T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico posadas",
-      "traffic": "200+",
+      "name": "clima tucuman",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima corrientes",
+      "name": "weather",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "virginia lago",
-      "traffic": "200+",
+      "name": "clima salta",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "what is a data breach",
-      "traffic": "100+",
+      "name": "clima",
+      "traffic": "500000+",
       "rank": 4
     },
     {
-      "name": "volcán purace",
-      "traffic": "1000+",
+      "name": "pronostico posadas",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "clima neuquen",
-      "traffic": "100+",
+      "name": "virginia lago",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sorteo quini6",
+      "name": "clima corrientes",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "astra ai",
+      "name": "what is a data breach",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "feriados agosto 2026",
-      "traffic": "100+",
+      "name": "volcán purace",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "que se celebra el 3 de agosto",
-      "traffic": "200+",
+      "name": "clima neuquen",
+      "traffic": "100+",
       "rank": 10
     }
   ]
