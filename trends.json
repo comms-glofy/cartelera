@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-03T16:00:16Z",
+  "updated": "2026-08-03T16:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "phil collins",
+      "name": "lali",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "darwin núñez",
-      "traffic": "100+",
+      "name": "atp montreal",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "500+",
+      "name": "dólar estadounidense",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "venti",
-      "traffic": "100+",
+      "name": "meteoro",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "denuncia",
-      "traffic": "200+",
+      "name": "crónica",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ley de tierras",
+      "name": "periódico",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "pampita",
-      "traffic": "1000+",
+      "name": "phil collins",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "kevin castaño",
-      "traffic": "50000+",
+      "name": "darwin núñez",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "iprodha",
-      "traffic": "100+",
+      "name": "administración nacional de la seguridad social",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "pan am",
-      "traffic": "200+",
+      "name": "venti",
+      "traffic": "100+",
       "rank": 10
     }
   ]
