@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T11:02:15Z",
+  "updated": "2026-08-04T11:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jeju united - bayern",
-      "traffic": "1000+",
+      "name": "empresario",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima bariloche",
+      "name": "catamarca ya",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima cordoba",
+      "name": "dia del panadero",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima la plata",
-      "traffic": "100+",
+      "name": "facundo moyano",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "jeju united - bayern",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "temperatura",
-      "traffic": "500+",
+      "name": "clima bariloche",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tiempo en cordoba",
+      "name": "clima cordoba",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "basura",
-      "traffic": "200+",
+      "name": "clima la plata",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "quiniela plus",
-      "traffic": "100+",
+      "name": "clima hoy",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "tiempo para hoy",
-      "traffic": "100+",
+      "name": "temperatura",
+      "traffic": "500+",
       "rank": 10
     }
   ]
