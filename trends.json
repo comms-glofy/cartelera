@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T06:30:14Z",
+  "updated": "2026-08-04T07:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "clima tucuman",
-      "traffic": "500+",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "accidente",
-      "traffic": "200+",
+      "name": "campanita",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "la cumbre",
+      "name": "accidente",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "camilo ugo carabelli",
+      "name": "la cumbre",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "camilo ugo carabelli",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "gh",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "falla whatsapp",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "cajero automático",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "lilia lemoine",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "mi telefe",
-      "traffic": "500+",
       "rank": 10
     }
   ]
