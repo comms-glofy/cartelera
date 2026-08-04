@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T17:00:22Z",
+  "updated": "2026-08-04T17:30:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "passline",
+      "name": "estadio kempes",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "100+",
+      "name": "duncan chan",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "boca socios",
+      "name": "congreso",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "quiniela de tucuman",
-      "traffic": "500+",
+      "name": "dólar estadounidense",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sebastián báez",
-      "traffic": "500+",
+      "name": "incendio",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "mary rivera",
-      "traffic": "100+",
+      "name": "alex caniggia",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "liam payne",
+      "name": "thiago agustín tirante",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "banco de la nación argentina",
+      "name": "playstation plus",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "flavio mendoza",
-      "traffic": "200+",
+      "name": "natasha ward",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "ruta nacional 143",
-      "traffic": "500+",
+      "name": "boca socios",
+      "traffic": "100+",
       "rank": 10
     }
   ]
