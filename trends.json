@@ -1,46 +1,46 @@
 {
-  "updated": "2026-08-04T12:30:17Z",
+  "updated": "2026-08-04T13:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bg pathum united - aston villa",
-      "traffic": "200+",
+      "name": "francisco ortega",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "bg pathum united - aston villa",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "máximo kirchner",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "guatemala",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "micaela albornoz",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "darío barassi",
-      "traffic": "200+",
+      "name": "micaela albornoz",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "recibo de sueldo",
-      "traffic": "200+",
+      "name": "darío barassi",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "recibo de sueldo",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "empresario",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "uno",
-      "traffic": "2000+",
       "rank": 8
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "dia del panadero",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
