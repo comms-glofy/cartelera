@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-04T04:30:20Z",
+  "updated": "2026-08-04T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "clima tucuman",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
       "name": "clima formosa",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "falla whatsapp",
-      "traffic": "2000+",
+      "name": "gh",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "quien se va de gran hermano hoy",
-      "traffic": "500+",
+      "name": "falla whatsapp",
+      "traffic": "2000+",
       "rank": 8
+    },
+    {
+      "name": "quien se va de gran hermano hoy",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "diarrea explosiva",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "cajero automático",
-      "traffic": "100+",
       "rank": 10
     }
   ]
