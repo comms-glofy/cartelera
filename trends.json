@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T08:02:48Z",
+  "updated": "2026-08-04T08:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cayó whatsapp",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "hora",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "c",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "pronostico posadas",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "clima tucuman",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "clima formosa",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "salario",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "accidente",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "la cumbre",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "camilo ugo carabelli",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "falla whatsapp",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "cajero automático",
-      "traffic": "100+",
       "rank": 10
     }
   ]
