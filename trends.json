@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-04T15:53:25Z",
+  "updated": "2026-08-04T16:00:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mary rivera",
-      "traffic": "100+",
+      "name": "sebastián báez",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "banco de la nación argentina",
-      "traffic": "200+",
+      "name": "mary rivera",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "flavio mendoza",
+      "name": "banco de la nación argentina",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "flavio mendoza",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "ludovica squirru",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "entrenador",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "7 de agosto",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "atletismo",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "agustín martegani",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "guerra mundial",
-      "traffic": "200+",
       "rank": 10
     }
   ]
