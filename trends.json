@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T13:14:39Z",
+  "updated": "2026-08-04T13:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fotos whatsapp",
-      "traffic": "2000+",
+      "name": "atletismo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "guerra mundial",
+      "name": "agustín martegani",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "francisco ortega",
-      "traffic": "200+",
+      "name": "aston villa",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "fotos whatsapp",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "guerra mundial",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "francisco ortega",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "bg pathum united - aston villa",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "máximo kirchner",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "guatemala",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "micaela albornoz",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "darío barassi",
+      "name": "máximo kirchner",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "recibo de sueldo",
-      "traffic": "500+",
+      "name": "guatemala",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "empresario",
-      "traffic": "200+",
+      "name": "micaela albornoz",
+      "traffic": "500+",
       "rank": 10
     }
   ]
