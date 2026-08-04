@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T13:30:20Z",
+  "updated": "2026-08-04T14:00:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atletismo",
-      "traffic": "200+",
+      "name": "ruta nacional 143",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "agustín martegani",
-      "traffic": "100+",
+      "name": "ludovica squirru",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "aston villa",
+      "name": "entrenador",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "7 de agosto",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "atletismo",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "agustín martegani",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "aston villa",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "fotos whatsapp",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "guerra mundial",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "francisco ortega",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "bg pathum united - aston villa",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "máximo kirchner",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "guatemala",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "micaela albornoz",
-      "traffic": "500+",
+      "name": "francisco ortega",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
