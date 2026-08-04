@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T20:01:48Z",
+  "updated": "2026-08-04T20:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "200+",
+      "name": "avenida brasil telefe",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "club de gimnasia y esgrima la plata",
-      "traffic": "100+",
+      "name": "tasa de interés",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "michael douglas",
+      "name": "josé néstor pékerman",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "jáminton campaz",
+      "name": "liga de campeones de la uefa",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "maxi salas",
-      "traffic": "200+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "riesgo país",
+      "name": "club de gimnasia y esgrima la plata",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "balón de oro",
-      "traffic": "500+",
+      "name": "michael douglas",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "yanina latorre",
+      "name": "jáminton campaz",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "facundo colidio",
-      "traffic": "100+",
+      "name": "maxi salas",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "viento",
-      "traffic": "500+",
+      "name": "riesgo país",
+      "traffic": "200+",
       "rank": 10
     }
   ]
