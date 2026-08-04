@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T20:50:15Z",
+  "updated": "2026-08-04T21:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kevin lomónaco",
-      "traffic": "100+",
+      "name": "utn",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "desierto de atacama",
-      "traffic": "200+",
+      "name": "queso",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "danubio",
+      "name": "kevin lomónaco",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "drama",
+      "name": "desierto de atacama",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "boca estudiantes",
-      "traffic": "200+",
+      "name": "danubio",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "avenida brasil telefe",
-      "traffic": "1000+",
+      "name": "drama",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tasa de interés",
+      "name": "boca estudiantes",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "josé néstor pékerman",
-      "traffic": "100+",
+      "name": "avenida brasil telefe",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "liga de campeones de la uefa",
-      "traffic": "100+",
+      "name": "tasa de interés",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "club de gimnasia y esgrima la plata",
-      "traffic": "200+",
+      "name": "josé néstor pékerman",
+      "traffic": "100+",
       "rank": 10
     }
   ]
