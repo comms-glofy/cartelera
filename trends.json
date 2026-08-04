@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-04T02:08:37Z",
+  "updated": "2026-08-04T02:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lilia lemoine",
+      "name": "cajero automático",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "telefe",
-      "traffic": "5000+",
+      "name": "lilia lemoine",
+      "traffic": "100+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "jhoan durán",
-      "traffic": "200+",
+      "name": "telefe",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "solana sierra",
+      "name": "jhoan durán",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "juan sebastián verón",
-      "traffic": "200+",
+      "name": "solana sierra",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "liga de quito",
+      "name": "juan sebastián verón",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "thiago aguirre velez",
-      "traffic": "100+",
+      "name": "liga de quito",
+      "traffic": "200+",
       "rank": 8
+    },
+    {
+      "name": "fecha de cobro anses",
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "montreal open",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "enner valencia",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
