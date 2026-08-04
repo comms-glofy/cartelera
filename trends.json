@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T22:30:17Z",
+  "updated": "2026-08-04T23:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "epic games",
+      "name": "alibaba",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sagasti",
-      "traffic": "500+",
+      "name": "georgina rodríguez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ariel lijo",
-      "traffic": "100+",
+      "name": "primera división",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "juventude - atlético mineiro",
-      "traffic": "1000+",
+      "name": "phillies - nationals",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "premio",
-      "traffic": "200+",
+      "name": "manchester city football club",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "yemen",
+      "name": "río uruguay",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "nicolás lodeiro",
-      "traffic": "500+",
+      "name": "epic games",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "petróleo",
-      "traffic": "100+",
+      "name": "sagasti",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "estafa",
-      "traffic": "2000+",
+      "name": "ariel lijo",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "eclipse solar del 12 de agosto de 2026",
-      "traffic": "200+",
+      "name": "juventude - atlético mineiro",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
