@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T03:00:16Z",
+  "updated": "2026-08-04T03:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gh",
-      "traffic": "200+",
+      "name": "campanita",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "falla whatsapp",
-      "traffic": "2000+",
+      "name": "la cumbre",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "quien se va de gran hermano hoy",
-      "traffic": "2000+",
+      "name": "accidente",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cajero automático",
-      "traffic": "100+",
+      "name": "camilo ugo carabelli",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lilia lemoine",
+      "name": "gh",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "telefe en vivo",
+      "name": "falla whatsapp",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "telefe",
-      "traffic": "5000+",
+      "name": "cajero automático",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "jhoan durán",
-      "traffic": "500+",
+      "name": "lilia lemoine",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "becas progresar",
-      "traffic": "1000+",
+      "name": "telefe en vivo",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "solana sierra",
-      "traffic": "500+",
+      "name": "telefe",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
