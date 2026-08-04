@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T07:00:21Z",
+  "updated": "2026-08-04T07:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "campanita",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
       "name": "accidente",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "la cumbre",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "camilo ugo carabelli",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "gh",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "falla whatsapp",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "cajero automático",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "lilia lemoine",
+      "traffic": "500+",
       "rank": 10
     }
   ]
