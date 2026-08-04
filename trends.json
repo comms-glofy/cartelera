@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-04T10:30:23Z",
+  "updated": "2026-08-04T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima cordoba",
-      "traffic": "500+",
+      "name": "jeju united - bayern",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
+      "name": "clima cordoba",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "clima la plata",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "temperatura",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "temperatura cordoba",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "temperatura actual",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "basura",
-      "traffic": "100+",
+      "name": "tiempo en cordoba",
+      "traffic": "200+",
       "rank": 7
+    },
+    {
+      "name": "basura",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "quiniela plus",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tiempo para hoy",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "brasil",
-      "traffic": "500+",
       "rank": 10
     }
   ]
