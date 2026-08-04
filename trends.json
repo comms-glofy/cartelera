@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T09:00:21Z",
+  "updated": "2026-08-04T09:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brasil",
-      "traffic": "100+",
+      "name": "pronóstico",
+      "traffic": "100000+",
       "rank": 1
+    },
+    {
+      "name": "temperatura actual",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "brasil",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "cayó whatsapp",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "hora",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "c",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "pronostico posadas",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "clima tucuman",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima formosa",
+      "name": "clima tucuman",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "salario",
-      "traffic": "2000+",
+      "name": "clima formosa",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "accidente",
-      "traffic": "200+",
+      "name": "salario",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "la cumbre",
-      "traffic": "200+",
+      "name": "campanita",
+      "traffic": "500+",
       "rank": 10
     }
   ]
