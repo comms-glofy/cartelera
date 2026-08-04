@@ -1,31 +1,31 @@
 {
-  "updated": "2026-08-04T14:30:28Z",
+  "updated": "2026-08-04T15:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ruta nacional 143",
-      "traffic": "2000+",
+      "name": "flavio mendoza",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "ludovica squirru",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
       "name": "entrenador",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
     },
     {
       "name": "7 de agosto",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
       "name": "atletismo",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "francisco ortega",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
