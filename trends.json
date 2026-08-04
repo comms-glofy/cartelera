@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T10:00:19Z",
+  "updated": "2026-08-04T10:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "temperatura",
+      "name": "clima cordoba",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "tiempo en cordoba",
+      "name": "clima bariloche",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tiempo en corrientes",
+      "name": "clima la plata",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "temperatura actual",
-      "traffic": "100+",
+      "name": "temperatura",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "quiniela plus",
+      "name": "temperatura cordoba",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "brasil",
-      "traffic": "500+",
+      "name": "temperatura actual",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "cayó whatsapp",
-      "traffic": "2000+",
+      "name": "basura",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "hora",
+      "name": "quiniela plus",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "c",
+      "name": "tiempo para hoy",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pronostico posadas",
-      "traffic": "100+",
+      "name": "brasil",
+      "traffic": "500+",
       "rank": 10
     }
   ]
