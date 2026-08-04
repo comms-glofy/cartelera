@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T12:00:24Z",
+  "updated": "2026-08-04T12:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "micaela albornoz",
-      "traffic": "100+",
+      "name": "bg pathum united - aston villa",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "recibo de sueldo",
+      "name": "máximo kirchner",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "darío barassi",
-      "traffic": "100+",
+      "name": "guatemala",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "empresario",
+      "name": "micaela albornoz",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "darío barassi",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "recibo de sueldo",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "empresario",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "uno",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
       "name": "catamarca ya",
       "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "dia del panadero",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "facundo moyano",
-      "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "jeju united - bayern",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "clima cordoba",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "clima bariloche",
-      "traffic": "200+",
       "rank": 10
     }
   ]
