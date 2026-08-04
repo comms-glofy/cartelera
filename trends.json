@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T21:00:18Z",
+  "updated": "2026-08-04T21:30:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "utn",
-      "traffic": "200+",
+      "name": "estafa",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "queso",
+      "name": "club estudiantes de la plata",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "kevin lomónaco",
+      "name": "eclipse solar del 12 de agosto de 2026",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "desierto de atacama",
+      "name": "utn",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "danubio",
+      "name": "queso",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "drama",
-      "traffic": "200+",
+      "name": "andrew garfield",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "boca estudiantes",
-      "traffic": "200+",
+      "name": "kevin lomónaco",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "avenida brasil telefe",
-      "traffic": "1000+",
+      "name": "desierto de atacama",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tasa de interés",
-      "traffic": "200+",
+      "name": "danubio",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "josé néstor pékerman",
-      "traffic": "100+",
+      "name": "drama",
+      "traffic": "200+",
       "rank": 10
     }
   ]
