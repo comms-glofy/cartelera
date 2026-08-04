@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T15:00:23Z",
+  "updated": "2026-08-04T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flavio mendoza",
+      "name": "banco de la nación argentina",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "flavio mendoza",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "ludovica squirru",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "entrenador",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "7 de agosto",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "atletismo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "agustín martegani",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "aston villa",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fotos whatsapp",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "guerra mundial",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "francisco ortega",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
