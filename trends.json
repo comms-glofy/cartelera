@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-04T00:00:18Z",
+  "updated": "2026-08-04T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "enner valencia",
-      "traffic": "200+",
+      "name": "montreal open",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "huracán - atlético tucumán",
+      "name": "enner valencia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "downdetector",
-      "traffic": "100+",
+      "name": "huracán - atlético tucumán",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "central córdoba - san lorenzo",
-      "traffic": "1000+",
+      "name": "downdetector",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "paranaense - vitória",
-      "traffic": "200+",
+      "name": "central córdoba - san lorenzo",
+      "traffic": "10000+",
       "rank": 5
+    },
+    {
+      "name": "paranaense - vitória",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "exportación",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "policía",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "reforma",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "tasa de cambio",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "allan nascimento",
+      "name": "tasa de cambio",
       "traffic": "200+",
       "rank": 10
     }
