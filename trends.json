@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-04T19:30:20Z",
+  "updated": "2026-08-04T20:01:48Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "juan manuel cerúndolo",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "club de gimnasia y esgrima la plata",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "michael douglas",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "jáminton campaz",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "maxi salas",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "riesgo país",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "balón de oro",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "yanina latorre",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "facundo colidio",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "viento",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "union saint-gilloise - bodø/glimt",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "sparta praha - lyon",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "newport county - roma",
+      "name": "viento",
       "traffic": "500+",
       "rank": 10
     }
