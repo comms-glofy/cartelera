@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T05:30:14Z",
+  "updated": "2026-08-04T06:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "quien se va de gran hermano hoy",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
       "name": "cajero automático",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "lilia lemoine",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "mi telefe",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "telefe en vivo",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
