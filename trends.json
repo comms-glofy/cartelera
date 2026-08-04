@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-04T22:08:25Z",
+  "updated": "2026-08-04T22:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juventude - atlético mineiro",
-      "traffic": "500+",
+      "name": "epic games",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "premio",
-      "traffic": "200+",
+      "name": "sagasti",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "yemen",
+      "name": "ariel lijo",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "juventude - atlético mineiro",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "premio",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "yemen",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "nicolás lodeiro",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "petróleo",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "estafa",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "eclipse solar del 12 de agosto de 2026",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "club estudiantes de la plata",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "catamarán",
-      "traffic": "1000+",
+      "name": "estafa",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "utn",
+      "name": "eclipse solar del 12 de agosto de 2026",
       "traffic": "200+",
       "rank": 10
     }
