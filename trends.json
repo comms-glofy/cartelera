@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-04T03:30:21Z",
+  "updated": "2026-08-04T04:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "campanita",
-      "traffic": "1000+",
+      "name": "clima formosa",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "salario",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "la cumbre",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "accidente",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "camilo ugo carabelli",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gh",
+      "name": "camilo ugo carabelli",
       "traffic": "200+",
       "rank": 5
     },
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "cajero automático",
-      "traffic": "100+",
+      "name": "quien se va de gran hermano hoy",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "lilia lemoine",
-      "traffic": "200+",
+      "name": "cajero automático",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "telefe en vivo",
-      "traffic": "2000+",
+      "name": "lilia lemoine",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "telefe",
+      "name": "telefe en vivo",
       "traffic": "5000+",
       "rank": 10
     }
