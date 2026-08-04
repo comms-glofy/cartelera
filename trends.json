@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T11:30:24Z",
+  "updated": "2026-08-04T12:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "empresario",
+      "name": "micaela albornoz",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "catamarca ya",
-      "traffic": "100+",
+      "name": "recibo de sueldo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dia del panadero",
-      "traffic": "200+",
+      "name": "darío barassi",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "facundo moyano",
-      "traffic": "5000+",
+      "name": "empresario",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "jeju united - bayern",
-      "traffic": "2000+",
+      "name": "catamarca ya",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "dia del panadero",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "facundo moyano",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "jeju united - bayern",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
+      "name": "clima cordoba",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "clima bariloche",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "clima cordoba",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "clima la plata",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "clima hoy",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "temperatura",
-      "traffic": "500+",
       "rank": 10
     }
   ]
