@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-05T13:00:16Z",
+  "updated": "2026-08-05T13:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "federico sturzenegger",
+      "name": "milan",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "inter milan",
-      "traffic": "100+",
+      "name": "federico sturzenegger",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "chelsea",
-      "traffic": "200+",
+      "name": "viernes",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "visa",
-      "traffic": "200+",
+      "name": "chelsea vs juventus",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "papa leon",
+      "name": "chelsea",
       "traffic": "500+",
       "rank": 6
     },
     {
+      "name": "visa",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "papa leon",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
       "name": "embajador",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "asociación corredores de turismo carretera",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "chelsea - juventus",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "fernando muslera",
-      "traffic": "500+",
       "rank": 10
     }
   ]
