@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T15:19:07Z",
+  "updated": "2026-08-05T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alemania",
+      "name": "new order",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "camarote",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "alemania",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "administración nacional de la seguridad social",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "accidente",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "franco mastantuono",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "lali en river",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "fuerzas de defensa de israel",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "sofia filpe",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "lali",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "viento",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "ley de extranjerización de tierras argentina",
-      "traffic": "100+",
       "rank": 10
     }
   ]
