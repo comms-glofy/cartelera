@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T06:30:16Z",
+  "updated": "2026-08-05T07:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "volver al trabajo",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "clima bahia blanca",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "vancouver whitecaps",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "coty romero",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "perez hilton",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "luciano darderi",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "neymar",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "flavio cobolli",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "denisse gonzález",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "tigres - real salt lake",
-      "traffic": "500+",
       "rank": 10
     }
   ]
