@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T13:30:20Z",
+  "updated": "2026-08-05T14:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "milan",
-      "traffic": "200+",
+      "name": "cuando cobro anses jubilados",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "federico sturzenegger",
-      "traffic": "200+",
+      "name": "lali",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "viento",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "milan",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "federico sturzenegger",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "inter milan",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "milan vs inter",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "viernes",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "chelsea vs juventus",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "chelsea",
-      "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "visa",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "papa leon",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "embajador",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "asociación corredores de turismo carretera",
-      "traffic": "200+",
       "rank": 10
     }
   ]
