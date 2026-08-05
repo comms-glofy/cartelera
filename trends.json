@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T19:00:12Z",
+  "updated": "2026-08-05T19:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "denuncia",
-      "traffic": "200+",
+      "name": "precio dólar blue hoy",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "condena",
+      "name": "almagro",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "san salvador de jujuy",
-      "traffic": "100+",
+      "name": "ciclogénesis",
+      "traffic": "200000+",
       "rank": 3
     },
     {
-      "name": "arsenal",
-      "traffic": "100+",
+      "name": "quiniela matutina",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "uruguay",
-      "traffic": "1000+",
+      "name": "adopción",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "psg",
-      "traffic": "100+",
+      "name": "denuncia",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "balón de oro 2026",
-      "traffic": "100+",
+      "name": "arsenal",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "crimen",
-      "traffic": "2000+",
+      "name": "condena",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cohete spacex luna",
+      "name": "san salvador de jujuy",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "arsenal - real betis",
-      "traffic": "2000+",
+      "name": "uruguay",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
