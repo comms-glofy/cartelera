@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T01:30:19Z",
+  "updated": "2026-08-05T02:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "jamie lee curtis",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "infanta sofía",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "charlotte fc - pumas",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "millonarios - pasto",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "sabalenka",
       "traffic": "200+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "cincinnati - pachuca",
       "traffic": "500+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "instituto de obra social de las fuerzas armadas",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "plazo fijo",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "latam airlines",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "remo - santos",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "antonio de la rua",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "columbus crew - atlas",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "prisión",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "latam",
-      "traffic": "200+",
+      "name": "remo - santos",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
