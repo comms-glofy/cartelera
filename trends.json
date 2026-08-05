@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T18:00:25Z",
+  "updated": "2026-08-05T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,46 +10,46 @@
     },
     {
       "name": "arsenal - real betis",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "dólar estadounidense",
-      "traffic": "1000+",
+      "name": "juez",
+      "traffic": "100+",
       "rank": 3
     },
     {
       "name": "mohamed salah",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
       "name": "lotería",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tesla",
+      "name": "napoli",
       "traffic": "100+",
       "rank": 6
     },
     {
+      "name": "tesla",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "napoli - osasuna",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "policía",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "periódico",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "h&m",
+      "name": "periódico",
       "traffic": "200+",
       "rank": 10
     }
