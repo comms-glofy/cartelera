@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T19:30:24Z",
+  "updated": "2026-08-05T20:00:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "precio dólar blue hoy",
-      "traffic": "1000+",
+      "name": "matías viña",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "almagro",
-      "traffic": "100+",
+      "name": "luis caputo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ciclogénesis",
-      "traffic": "200000+",
+      "name": "precipitación",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "quiniela matutina",
+      "name": "thiago agustín tirante",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "adopción",
-      "traffic": "200+",
+      "name": "devaluación",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "denuncia",
-      "traffic": "1000+",
+      "name": "cauã reymond",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "arsenal",
-      "traffic": "200+",
+      "name": "estadio único diego armando maradona",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "condena",
-      "traffic": "200+",
+      "name": "precio dólar blue hoy",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "san salvador de jujuy",
+      "name": "almagro",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "uruguay",
-      "traffic": "1000+",
+      "name": "ciclogénesis",
+      "traffic": "200000+",
       "rank": 10
     }
   ]
