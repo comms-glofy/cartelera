@@ -1,31 +1,31 @@
 {
-  "updated": "2026-08-05T17:00:14Z",
+  "updated": "2026-08-05T17:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ley",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "mohamed salah",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "lotería",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "tesla",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "napoli - osasuna",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "h&m",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "dólar blue hoy",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "periódico",
-      "traffic": "200+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "ley de tierras argentina",
+      "name": "periódico",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dia",
-      "traffic": "100+",
+      "name": "dólar blue hoy",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "neuquén",
+      "name": "h&m",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "flybondi",
-      "traffic": "500+",
+      "name": "neuquén",
+      "traffic": "200+",
       "rank": 10
     }
   ]
