@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T04:00:13Z",
+  "updated": "2026-08-05T04:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "coty romero",
-      "traffic": "100+",
+      "name": "clima bahia blanca",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "perez hilton",
-      "traffic": "200+",
+      "name": "enner valencia boca juniors",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "luciano darderi",
+      "name": "coty romero",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "perez hilton",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "luciano darderi",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "neymar",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "flavio cobolli",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "denisse gonzález",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tigres - real salt lake",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "jamie lee curtis",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "infanta sofía",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "charlotte fc - pumas",
-      "traffic": "200+",
       "rank": 10
     }
   ]
