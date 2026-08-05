@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-04T23:32:00Z",
+  "updated": "2026-08-05T00:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aryna sabalenka",
-      "traffic": "200+",
+      "name": "remo - santos",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "antonio de la rua",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "prisión",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "latam",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "atletico mineiro",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "aryna sabalenka",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "tolima - medellín",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "rublev",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "leagues cup",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "alibaba",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "georgina rodríguez",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "primera división",
-      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "phillies - nationals",
+      "name": "ener valencia",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "manchester city football club",
+      "name": "leagues cup",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "río uruguay",
-      "traffic": "200+",
+      "name": "rublev",
+      "traffic": "100+",
       "rank": 10
     }
   ]
