@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-05T03:00:21Z",
+  "updated": "2026-08-05T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "neymar",
-      "traffic": "500+",
+      "name": "coty romero",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "flavio cobolli",
-      "traffic": "100+",
+      "name": "perez hilton",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "denisse gonzález",
+      "name": "luciano darderi",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tigres - real salt lake",
-      "traffic": "500+",
+      "name": "neymar",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "jamie lee curtis",
+      "name": "flavio cobolli",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "infanta sofía",
-      "traffic": "500+",
+      "name": "denisse gonzález",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "charlotte fc - pumas",
-      "traffic": "200+",
+      "name": "tigres - real salt lake",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "millonarios - pasto",
-      "traffic": "500+",
+      "name": "jamie lee curtis",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "cincinnati - pachuca",
+      "name": "infanta sofía",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "instituto de obra social de las fuerzas armadas",
+      "name": "charlotte fc - pumas",
       "traffic": "200+",
       "rank": 10
     }
