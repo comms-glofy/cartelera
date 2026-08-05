@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-05T17:30:13Z",
+  "updated": "2026-08-05T18:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ley",
-      "traffic": "200+",
+      "name": "crimen",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "arsenal - real betis",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "dólar estadounidense",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "mohamed salah",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "lotería",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "tesla",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "napoli - osasuna",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "policía",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "periódico",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "dólar blue hoy",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "h&m",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "neuquén",
+      "name": "h&m",
       "traffic": "200+",
       "rank": 10
     }
