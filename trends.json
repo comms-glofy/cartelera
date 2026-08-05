@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T12:00:14Z",
+  "updated": "2026-08-05T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "papa leon",
-      "traffic": "100+",
+      "name": "chelsea",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "embajador",
-      "traffic": "100+",
+      "name": "visa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "asociación corredores de turismo carretera",
-      "traffic": "100+",
+      "name": "papa leon",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "chelsea - juventus",
-      "traffic": "5000+",
+      "name": "embajador",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "fernando muslera",
+      "name": "asociación corredores de turismo carretera",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "patricia bullrich",
-      "traffic": "1000+",
+      "name": "chelsea - juventus",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "k league all-stars - manchester city",
-      "traffic": "5000+",
+      "name": "fernando muslera",
+      "traffic": "200+",
       "rank": 7
+    },
+    {
+      "name": "patricia bullrich",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "k league all-stars - manchester city",
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "milan - inter",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "tiempo en cordoba",
-      "traffic": "100+",
       "rank": 10
     }
   ]
