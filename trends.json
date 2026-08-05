@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T11:00:15Z",
+  "updated": "2026-08-05T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chelsea - juventus",
-      "traffic": "2000+",
+      "name": "papa leon",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fernando muslera",
+      "name": "embajador",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "patricia bullrich",
-      "traffic": "1000+",
+      "name": "asociación corredores de turismo carretera",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "milan - inter",
-      "traffic": "2000+",
+      "name": "chelsea - juventus",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "k league all-stars - manchester city",
-      "traffic": "2000+",
+      "name": "fernando muslera",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "pronostico cordoba",
+      "name": "patricia bullrich",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tiempo en cordoba",
-      "traffic": "100+",
+      "name": "k league all-stars - manchester city",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "weather",
-      "traffic": "200+",
+      "name": "milan - inter",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "clima parana",
+      "name": "pronostico cordoba",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima",
-      "traffic": "200000+",
+      "name": "tiempo en cordoba",
+      "traffic": "100+",
       "rank": 10
     }
   ]
