@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T09:00:22Z",
+  "updated": "2026-08-05T09:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico del tiempo",
-      "traffic": "200+",
+      "name": "tiempo",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "pronóstico",
+      "name": "clima la plata",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "potenciar trabajo",
-      "traffic": "200+",
+      "name": "pronostico",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "tiempo hoy",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "clima de hoy",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "clima moreno",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "pronóstico",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "familia real británica",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "cesar gastelum",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "clima bahia blanca",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "vancouver whitecaps",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "coty romero",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "perez hilton",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "luciano darderi",
-      "traffic": "100+",
+      "name": "volver al trabajo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
