@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T10:30:22Z",
+  "updated": "2026-08-05T10:59:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "milan - inter",
-      "traffic": "1000+",
+      "name": "chelsea - juventus",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "k league all-stars - manchester city",
-      "traffic": "1000+",
+      "name": "fernando muslera",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "patricia bullrich",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "milan - inter",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "k league all-stars - manchester city",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "tiempo en cordoba",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "clima parana",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "clima",
-      "traffic": "100000+",
-      "rank": 7
-    },
-    {
-      "name": "pronostico caba",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tiempo",
-      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "clima la plata",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "200000+",
       "rank": 10
     }
   ]
