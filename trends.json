@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T14:30:17Z",
+  "updated": "2026-08-05T15:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "franco mastantuono",
-      "traffic": "500+",
+      "name": "administración nacional de la seguridad social",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "lali en river",
+      "name": "accidente",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fuerzas de defensa de israel",
-      "traffic": "100+",
+      "name": "franco mastantuono",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "lali",
+      "name": "lali en river",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "viento",
-      "traffic": "500+",
+      "name": "fuerzas de defensa de israel",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "sofia filpe",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "lali",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "ley de extranjerización de tierras argentina",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "milan",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "federico sturzenegger",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "inter milan",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "milan vs inter",
-      "traffic": "100+",
       "rank": 10
     }
   ]
