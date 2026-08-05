@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T09:30:22Z",
+  "updated": "2026-08-05T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo",
-      "traffic": "10000+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "clima la plata",
-      "traffic": "200+",
+      "name": "pronostico caba",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pronostico",
-      "traffic": "2000+",
+      "name": "tiempo",
+      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "tiempo hoy",
-      "traffic": "1000+",
+      "name": "clima santa fe",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima de hoy",
+      "name": "clima la plata",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima moreno",
+      "name": "clima concordia",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "pronóstico",
-      "traffic": "500+",
+      "name": "pronostico extendido",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "familia real británica",
-      "traffic": "100+",
+      "name": "clima hoy",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "cesar gastelum",
+      "name": "tiempo hoy",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "volver al trabajo",
-      "traffic": "200+",
+      "name": "el tiempo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
