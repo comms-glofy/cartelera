@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T22:00:35Z",
+  "updated": "2026-08-05T22:09:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "grêmio - mirassol",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "zverev",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "transfermarkt",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "flavio fama",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "cruzeiro - chapecoense",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "boca juniors - estudiantes",
-      "traffic": "50000+",
-      "rank": 5
-    },
-    {
-      "name": "tirante",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "amistosos",
-      "traffic": "200+",
+      "name": "boca juniors - estudiantes",
+      "traffic": "100000+",
       "rank": 7
     },
     {
-      "name": "locutor",
+      "name": "fútbol club barcelona",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "alpine f1 team",
-      "traffic": "200+",
+      "name": "tirante",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "llovizna",
-      "traffic": "100+",
+      "name": "amistosos",
+      "traffic": "200+",
       "rank": 10
     }
   ]
