@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T16:30:52Z",
+  "updated": "2026-08-05T17:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia",
+      "name": "tesla",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "flybondi",
-      "traffic": "200+",
+      "name": "napoli - osasuna",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "1000+",
+      "name": "h&m",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "martín palermo",
-      "traffic": "100+",
+      "name": "dólar blue hoy",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "montreal open",
+      "name": "periódico",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "airbag en cordoba",
-      "traffic": "100+",
+      "name": "policía",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "wanda nara",
-      "traffic": "500+",
+      "name": "ley de tierras argentina",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "mariano navone",
-      "traffic": "200+",
+      "name": "dia",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "new order",
+      "name": "neuquén",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "camarote",
-      "traffic": "100+",
+      "name": "flybondi",
+      "traffic": "500+",
       "rank": 10
     }
   ]
