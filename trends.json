@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T20:00:36Z",
+  "updated": "2026-08-05T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "matías viña",
-      "traffic": "100+",
+      "name": "a qué hora juega boca estudiantes",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "luis caputo",
-      "traffic": "200+",
+      "name": "franco colapinto",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "precipitación",
-      "traffic": "500+",
+      "name": "ciclón",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "thiago agustín tirante",
+      "name": "servicio de control de inmigración y aduanas",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "devaluación",
-      "traffic": "100+",
+      "name": "alexander zverev",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cauã reymond",
+      "name": "joaquín benegas lynch",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "estadio único diego armando maradona",
-      "traffic": "100+",
+      "name": "matías viña",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "precio dólar blue hoy",
-      "traffic": "1000+",
+      "name": "papu gómez",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "almagro",
-      "traffic": "100+",
+      "name": "luis caputo",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ciclogénesis",
-      "traffic": "200000+",
+      "name": "thiago agustín tirante",
+      "traffic": "500+",
       "rank": 10
     }
   ]
