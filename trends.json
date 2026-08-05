@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-05T21:30:49Z",
+  "updated": "2026-08-05T22:00:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cruzeiro - chapecoense",
-      "traffic": "200+",
+      "name": "transfermarkt",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "boca juniors - estudiantes",
-      "traffic": "2000+",
+      "name": "francisco cerúndolo",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "fútbol club barcelona",
-      "traffic": "100+",
+      "name": "flavio fama",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tirante",
-      "traffic": "200+",
+      "name": "cruzeiro - chapecoense",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "boca juniors - estudiantes",
+      "traffic": "50000+",
+      "rank": 5
+    },
+    {
+      "name": "tirante",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "amistosos",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "locutor",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "alpine f1 team",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "llovizna",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "thiago messi",
+      "name": "alpine f1 team",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tribunal de justicia",
+      "name": "llovizna",
       "traffic": "100+",
       "rank": 10
     }
