@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T07:30:15Z",
+  "updated": "2026-08-05T08:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cesar gastelum",
-      "traffic": "200+",
+      "name": "familia real británica",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "cesar gastelum",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "volver al trabajo",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima bahia blanca",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "vancouver whitecaps",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "coty romero",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "perez hilton",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "luciano darderi",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "neymar",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "flavio cobolli",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "denisse gonzález",
-      "traffic": "100+",
       "rank": 10
     }
   ]
