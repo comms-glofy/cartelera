@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T21:00:20Z",
+  "updated": "2026-08-05T21:30:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "locutor",
-      "traffic": "100+",
+      "name": "cruzeiro - chapecoense",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alpine f1 team",
-      "traffic": "100+",
+      "name": "boca juniors - estudiantes",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "llovizna",
+      "name": "fútbol club barcelona",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "thiago messi",
+      "name": "tirante",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "mallorca vs psg",
-      "traffic": "100+",
+      "name": "amistosos",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tribunal de justicia",
-      "traffic": "100+",
+      "name": "locutor",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cohete contra la luna",
-      "traffic": "200+",
+      "name": "alpine f1 team",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "sassuolo - celta de vigo",
+      "name": "llovizna",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "a qué hora juega boca estudiantes",
+      "name": "thiago messi",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ciclón",
-      "traffic": "500+",
+      "name": "tribunal de justicia",
+      "traffic": "100+",
       "rank": 10
     }
   ]
