@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-06T12:30:23Z",
+  "updated": "2026-08-06T13:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "thiago almada",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "ametralladora",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "clima rio cuarto",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "datachaco",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "san cayetano",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "diario chaco",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "clima mendoza",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "candidato",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "dia del veterinario en argentina",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "clima berazategui",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "accuweather",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "windy",
-      "traffic": "500+",
+      "name": "dia del veterinario en argentina",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "clima quilmes",
+      "name": "clima la plata",
       "traffic": "500+",
       "rank": 10
     }
