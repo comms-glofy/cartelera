@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-06T00:52:08Z",
+  "updated": "2026-08-06T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "monterrey fc",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "tigres vs",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "ana rosenfeld",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "josé luis espert",
-      "traffic": "100+",
       "rank": 3
     },
     {
       "name": "laura ubfal",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 4
     },
     {
@@ -40,17 +40,17 @@
     },
     {
       "name": "fortaleza - palmeiras",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 8
     },
     {
       "name": "fluminense - vasco da gama",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "weather tomorrow",
-      "traffic": "1000+",
+      "name": "ricardo lorenzetti",
+      "traffic": "500+",
       "rank": 10
     }
   ]
