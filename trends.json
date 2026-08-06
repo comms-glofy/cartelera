@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T00:30:17Z",
+  "updated": "2026-08-06T00:52:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tigres vs",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "ana rosenfeld",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "josé luis espert",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "laura ubfal",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "apple tv",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "inter miami cf",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "quilmes ac",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "fortaleza - palmeiras",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "fluminense - vasco da gama",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "weather tomorrow",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "ricardo lorenzetti",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "cetre",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "tigre - belgrano",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
