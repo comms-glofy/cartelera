@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T09:30:17Z",
+  "updated": "2026-08-06T10:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima rosario",
+      "name": "pronostico caba",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pronostico buenos aires",
-      "traffic": "100+",
+      "name": "weather",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "100+",
+      "name": "pronostico parana",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mauro icardi",
-      "traffic": "1000+",
+      "name": "clima santa fe",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima para hoy",
-      "traffic": "100+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 5
     },
     {
-      "name": "tiempo hoy",
-      "traffic": "1000+",
+      "name": "tiempo",
+      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "pronostico extendido",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "pronostico del tiempo",
+      "name": "clima rosario",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "clima de hoy",
+      "name": "tiempo para hoy",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "resultados quini 6",
-      "traffic": "1000+",
+      "name": "clima merlo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
