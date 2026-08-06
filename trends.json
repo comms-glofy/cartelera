@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T22:30:15Z",
+  "updated": "2026-08-06T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corinthians - internacional",
+      "name": "vitória - paranaense",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "patricia bullrich",
-      "traffic": "200+",
+      "name": "pronostico formosa",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "corinthians - internacional",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "patricia bullrich",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "thiago messi barcelona",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "unión industrial argentina",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "atomo desinflamante",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "lionel scaloni",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "nieve",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "milton delgado",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "james gunn",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "unión - lanús",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
