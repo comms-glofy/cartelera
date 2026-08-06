@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T01:00:15Z",
+  "updated": "2026-08-06T01:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "beca",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "quini 6 hoy",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "monterrey fc",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "tigres vs",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "ana rosenfeld",
-      "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "laura ubfal",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "apple tv",
+      "name": "ana rosenfeld",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "inter miami cf",
-      "traffic": "200+",
+      "name": "laura ubfal",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "quilmes ac",
+      "name": "apple tv",
       "traffic": "200+",
       "rank": 7
     },
     {
+      "name": "tabla anual",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "fortaleza - palmeiras",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "fluminense - vasco da gama",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "ricardo lorenzetti",
-      "traffic": "500+",
       "rank": 10
     }
   ]
