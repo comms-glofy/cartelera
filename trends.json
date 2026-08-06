@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T02:30:13Z",
+  "updated": "2026-08-06T03:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "10 de agosto",
-      "traffic": "2000+",
+      "name": "lafc - guadalajara",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "once caldas - américa",
-      "traffic": "100+",
+      "name": "toluca - seattle sounders",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "mario pergolini",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "tucu correa",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "tigre",
-      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "fluminense vs",
+      "name": "once caldas - américa",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "jazmin dose",
-      "traffic": "100+",
+      "name": "fluminense vs",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "jazmin dose",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "impacto cohete luna",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "beca",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "quini 6 hoy",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tigres vs",
-      "traffic": "200+",
+      "name": "quini 6 hoy",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
