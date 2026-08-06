@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T14:51:50Z",
+  "updated": "2026-08-06T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "amenaza",
+      "name": "c5n",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "club sportivo independiente rivadavia",
+      "name": "nominación",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mariana fabbiani",
-      "traffic": "100+",
+      "name": "amenaza",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "zulma lobato",
-      "traffic": "200+",
+      "name": "club sportivo independiente rivadavia",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fede bal",
+      "name": "mariana fabbiani",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "san lorenzo app",
+      "name": "zulma lobato",
       "traffic": "500+",
       "rank": 6
     },
     {
+      "name": "fede bal",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "san lorenzo app",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "thiago almada",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "felipe vi de españa",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ametralladora",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima rio cuarto",
-      "traffic": "100+",
       "rank": 10
     }
   ]
