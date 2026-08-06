@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-06T19:30:16Z",
+  "updated": "2026-08-06T20:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "movistar arena",
+      "name": "joaquin correa",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "fuego",
-      "traffic": "200+",
+      "name": "danubio",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "facundo medina",
+      "name": "sagasti",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "fenómeno",
-      "traffic": "200+",
+      "name": "banco central de la república argentina",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "fuego",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "movistar arena",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "facundo medina",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "fenómeno",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "preso político",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "licencia",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "luciano darderi",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "la oreja de van gogh",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "fiorentina",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "henry cavill",
+      "name": "fiorentina",
       "traffic": "200+",
       "rank": 10
     }
