@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T01:30:18Z",
+  "updated": "2026-08-06T02:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "fluminense vs",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "jazmin dose",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "impacto cohete luna",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "beca",
       "traffic": "500+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "quini 6 hoy",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "monterrey fc",
-      "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "tigres vs",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "josé luis espert",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "ana rosenfeld",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "laura ubfal",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "apple tv",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "tabla anual",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "fortaleza - palmeiras",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "fluminense - vasco da gama",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
