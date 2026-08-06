@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T13:30:15Z",
+  "updated": "2026-08-06T14:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san lorenzo app",
-      "traffic": "200+",
+      "name": "club sportivo independiente rivadavia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "thiago almada",
-      "traffic": "1000+",
+      "name": "amenaza",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ametralladora",
+      "name": "mariana fabbiani",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima rio cuarto",
-      "traffic": "100+",
+      "name": "zulma lobato",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "datachaco",
+      "name": "fede bal",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "san cayetano",
+      "name": "san lorenzo app",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "diario chaco",
-      "traffic": "100+",
+      "name": "thiago almada",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "clima mendoza",
-      "traffic": "200+",
+      "name": "felipe vi de españa",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "candidato",
-      "traffic": "500+",
+      "name": "ametralladora",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dia del veterinario en argentina",
-      "traffic": "2000+",
+      "name": "clima rio cuarto",
+      "traffic": "100+",
       "rank": 10
     }
   ]
