@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T00:00:15Z",
+  "updated": "2026-08-06T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fortaleza - palmeiras",
-      "traffic": "500+",
+      "name": "laura ubfal",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "weather tomorrow",
-      "traffic": "500+",
+      "name": "apple tv",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fluminense - vasco da gama",
+      "name": "inter miami cf",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "quilmes ac",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "fortaleza - palmeiras",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "fluminense - vasco da gama",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "weather tomorrow",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "ricardo lorenzetti",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "cetre",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "tigre vs belgrano",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "monterrey - orlando city",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "quilmes",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "tomas palacios",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "asociación de trabajadores del estado",
-      "traffic": "1000+",
+      "name": "tigre - belgrano",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
