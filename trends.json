@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-05T23:30:14Z",
+  "updated": "2026-08-06T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "copa de brasil",
-      "traffic": "200+",
+      "name": "fortaleza - palmeiras",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "quilmes",
-      "traffic": "100+",
+      "name": "weather tomorrow",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "tomas palacios",
+      "name": "fluminense - vasco da gama",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "asociación de trabajadores del estado",
-      "traffic": "1000+",
+      "name": "ricardo lorenzetti",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "inter miami - san luis",
-      "traffic": "10000+",
+      "name": "cetre",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ascacibar",
-      "traffic": "1000+",
+      "name": "tigre vs belgrano",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cohete",
+      "name": "monterrey - orlando city",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "nahuel molina",
+      "name": "quilmes",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "rayo",
-      "traffic": "500+",
+      "name": "tomas palacios",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "phillies - nationals",
-      "traffic": "200+",
+      "name": "asociación de trabajadores del estado",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
