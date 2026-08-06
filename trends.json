@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T03:00:21Z",
+  "updated": "2026-08-06T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lafc - guadalajara",
-      "traffic": "200+",
+      "name": "ice",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "toluca - seattle sounders",
-      "traffic": "200+",
+      "name": "bruce willis",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mario pergolini",
+      "name": "undav",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tucu correa",
+      "name": "monfils",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "once caldas - américa",
-      "traffic": "100+",
+      "name": "lafc - guadalajara",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fluminense vs",
+      "name": "toluca - seattle sounders",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "jazmin dose",
+      "name": "mario pergolini",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "impacto cohete luna",
-      "traffic": "500+",
+      "name": "tucu correa",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "beca",
-      "traffic": "1000+",
+      "name": "once caldas - américa",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "quini 6 hoy",
-      "traffic": "1000+",
+      "name": "fluminense vs",
+      "traffic": "200+",
       "rank": 10
     }
   ]
