@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T00:00:14Z",
+  "updated": "2026-08-07T00:22:10Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "copa de brasil",
-      "traffic": "200+",
+      "name": "temblor",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "jason statham",
-      "traffic": "100+",
+      "name": "temblor hoy",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "aryna sabalenka",
-      "traffic": "500+",
+      "name": "temblor ahora",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jazmin dose",
-      "traffic": "500+",
+      "name": "maría belén ludueña",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "fabricio bustos",
+      "name": "mdz online",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "vitória - paranaense",
-      "traffic": "1000+",
+      "name": "temblo",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "pronostico formosa",
-      "traffic": "500+",
+      "name": "jason statham",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "corinthians - internacional",
-      "traffic": "2000+",
+      "name": "aryna sabalenka",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "patricia bullrich",
+      "name": "jazmin dose",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "thiago messi barcelona",
-      "traffic": "500+",
+      "name": "fabricio bustos",
+      "traffic": "100+",
       "rank": 10
     }
   ]
