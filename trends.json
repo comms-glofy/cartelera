@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T11:30:15Z",
+  "updated": "2026-08-07T11:42:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telefe noticias",
-      "traffic": "100+",
+      "name": "drive",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "condenado",
+      "name": "telefe noticias",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "noticias",
+      "name": "condenado",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "noticias",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "decreto",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima mendoza",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima jujuy",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "minuto uno",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima salta",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "radio rivadavia",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "temperatura cordoba",
-      "traffic": "100+",
       "rank": 10
     }
   ]
