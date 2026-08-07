@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-07T15:23:49Z",
+  "updated": "2026-08-07T15:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia de la cerveza",
+      "name": "rodolfo arruabarrena",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pablo quirno",
+      "name": "dia de la cerveza",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "william orbit",
+      "name": "pablo quirno",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "elle",
-      "traffic": "100+",
+      "name": "william orbit",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "loteria chaqueña",
+      "name": "elle",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "motochorro",
-      "traffic": "500+",
+      "name": "loteria chaqueña",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "aston villa - bayern",
+      "name": "motochorro",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "perito",
-      "traffic": "200+",
+      "name": "aston villa - bayern",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "condenado",
+      "name": "perito",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "noticias",
+      "name": "telefe noticias",
       "traffic": "100+",
       "rank": 10
     }
