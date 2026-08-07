@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-07T10:49:01Z",
+  "updated": "2026-08-07T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "noticias",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "decreto",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "clima mendoza",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "datachaco",
-      "traffic": "200+",
       "rank": 3
     },
     {
@@ -25,32 +25,32 @@
     },
     {
       "name": "clima salta",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "desalojo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "radio rivadavia",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "temperatura cordoba",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "máximo kirchner",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "dia de san cayetano",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "sydney towle",
+      "traffic": "200+",
       "rank": 10
     }
   ]
