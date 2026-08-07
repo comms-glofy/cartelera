@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T23:04:18Z",
+  "updated": "2026-08-07T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcelo porcel",
+      "name": "brad pitt",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rosario central",
-      "traffic": "2000+",
+      "name": "columbus crew - pachuca",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "marcelo porcel",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "rosario central",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "tagliafico",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "thiago medina",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "phillies - blue jays",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "futbolista",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cerro largo - juventud",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "river vs tigre",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "jesica cirio",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "cuándo es el día del niño",
-      "traffic": "500+",
       "rank": 10
     }
   ]
