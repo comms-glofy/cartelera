@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-06T23:30:27Z",
+  "updated": "2026-08-07T00:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aryna sabalenka",
+      "name": "copa de brasil",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jazmin dose",
-      "traffic": "500+",
+      "name": "jason statham",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fabricio bustos",
-      "traffic": "100+",
+      "name": "aryna sabalenka",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "vitória - paranaense",
+      "name": "jazmin dose",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "pronostico formosa",
-      "traffic": "500+",
+      "name": "fabricio bustos",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "corinthians - internacional",
+      "name": "vitória - paranaense",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "patricia bullrich",
+      "name": "pronostico formosa",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "thiago messi barcelona",
-      "traffic": "500+",
+      "name": "corinthians - internacional",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "unión industrial argentina",
-      "traffic": "200+",
+      "name": "patricia bullrich",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "atomo desinflamante",
-      "traffic": "100+",
+      "name": "thiago messi barcelona",
+      "traffic": "500+",
       "rank": 10
     }
   ]
