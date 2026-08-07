@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T09:30:14Z",
+  "updated": "2026-08-07T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gran hermano",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "desalojo",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "radio rivadavia",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "máximo kirchner",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "sydney towle",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "america",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "canelones pelicula",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "tiafoe",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "mi telefe",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "kevin castaño",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "telefe",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "nfl",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "hernan lacunza",
-      "traffic": "100+",
+      "name": "kevin castaño",
+      "traffic": "500+",
       "rank": 10
     }
   ]
