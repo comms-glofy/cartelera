@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T01:00:19Z",
+  "updated": "2026-08-07T01:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "incendio",
-      "traffic": "100+",
+      "name": "magui bravi",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "internacional",
+      "name": "incendio",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "internacional",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "jodar",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "juanicar",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "son como niños 3",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "diario los andes",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "cruz azul - philadelphia",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "basura",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "temblor en mendoza",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "temblor ahora",
-      "traffic": "200+",
       "rank": 10
     }
   ]
