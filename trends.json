@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-07T05:30:17Z",
+  "updated": "2026-08-07T06:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pagina 12",
-      "traffic": "200+",
+      "name": "ley",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -15,41 +15,41 @@
     },
     {
       "name": "sydney towle",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
-    },
-    {
-      "name": "américa - san diego fc",
-      "traffic": "100+",
-      "rank": 4
     },
     {
       "name": "america",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "tiafoe",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "mi telefe",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "kevin castaño",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "telefe",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "nfl",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "hernan lacunza",
       "traffic": "200+",
       "rank": 10
     }
