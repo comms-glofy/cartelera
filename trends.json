@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T20:31:50Z",
+  "updated": "2026-08-07T21:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "venezuela",
+      "name": "alexis rolín",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima trelew",
-      "traffic": "100+",
+      "name": "edificio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "aeropuerto",
+      "name": "virus",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lisandro martínez",
-      "traffic": "1000+",
+      "name": "crystal palace",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "estadio alberto j. armando",
-      "traffic": "100+",
+      "name": "avenida brasil",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "ben shelton",
-      "traffic": "100+",
+      "name": "ice",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cameron norrie",
-      "traffic": "100+",
+      "name": "leandro rud",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "cosecha",
+      "name": "venezuela",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "joaquin correa",
+      "name": "aeropuerto",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "f16",
-      "traffic": "200+",
+      "name": "clima trelew",
+      "traffic": "100+",
       "rank": 10
     }
   ]
