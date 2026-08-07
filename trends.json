@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-07T15:00:22Z",
+  "updated": "2026-08-07T15:23:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "william orbit",
+      "name": "dia de la cerveza",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "elle",
+      "name": "pablo quirno",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "loteria chaqueña",
+      "name": "william orbit",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "elle",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "loteria chaqueña",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "motochorro",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "aston villa - bayern",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "perito",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "condenado",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "noticias",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "decreto",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "clima mendoza",
+      "name": "noticias",
       "traffic": "100+",
       "rank": 10
     }
