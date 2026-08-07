@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T16:00:42Z",
+  "updated": "2026-08-07T16:22:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canciller",
-      "traffic": "100+",
+      "name": "roberto garcía moritán",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "quiniela de tucuman",
-      "traffic": "200+",
+      "name": "canciller",
+      "traffic": "100+",
       "rank": 2
     },
     {
       "name": "boca socios",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "quiniela de tucuman",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "crimen",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "rodolfo arruabarrena",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "autopista panamericana",
+      "name": "messi inter miami",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "dia de la cerveza",
-      "traffic": "100+",
+      "name": "rodolfo arruabarrena",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pablo quirno",
+      "name": "autopista panamericana",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "elle",
-      "traffic": "100+",
+      "name": "dia de la cerveza",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "william orbit",
-      "traffic": "200+",
+      "name": "pablo quirno",
+      "traffic": "100+",
       "rank": 10
     }
   ]
