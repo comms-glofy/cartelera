@@ -1,36 +1,36 @@
 {
-  "updated": "2026-08-07T03:00:18Z",
+  "updated": "2026-08-07T03:26:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "américa - san diego fc",
+      "name": "sydney towle",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "américa - san diego fc",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "tiafoe",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mi telefe",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "kevin castaño",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "telefe",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "hernan lacunza",
-      "traffic": "200+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "hernan lacunza",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "magui bravi",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "incendio",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "internacional",
-      "traffic": "100+",
       "rank": 10
     }
   ]
