@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T21:09:02Z",
+  "updated": "2026-08-07T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "agua",
-      "traffic": "100+",
+      "name": "turismo carretera",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pedro troglio",
+      "name": "matt leblanc",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "edificio",
+      "name": "alex vigo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "alexis rolín",
-      "traffic": "100+",
+      "name": "agua",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "virus",
+      "name": "pedro troglio",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "edificio",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "alexis rolín",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "virus",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "crystal palace",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "avenida brasil",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "ice",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "leandro rud",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "aeropuerto",
-      "traffic": "100+",
       "rank": 10
     }
   ]
