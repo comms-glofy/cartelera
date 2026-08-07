@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T21:30:13Z",
+  "updated": "2026-08-07T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "turismo carretera",
+      "name": "allanamiento",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "matt leblanc",
+      "name": "cuándo es el día del niño en argentina",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alex vigo",
+      "name": "casa rosada",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "agua",
-      "traffic": "200+",
+      "name": "clima puerto madryn",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "pedro troglio",
+      "name": "abelardo de la espriella",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "edificio",
+      "name": "miguel ignomiriello",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "alexis rolín",
-      "traffic": "100+",
+      "name": "turismo carretera",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "virus",
+      "name": "matt leblanc",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "crystal palace",
-      "traffic": "500+",
+      "name": "alex vigo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "avenida brasil",
-      "traffic": "500+",
+      "name": "agua",
+      "traffic": "200+",
       "rank": 10
     }
   ]
