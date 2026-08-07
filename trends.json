@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T19:27:52Z",
+  "updated": "2026-08-07T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "middlesbrough - wrexham",
-      "traffic": "200+",
+      "name": "movistar arena",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "gimena accardi",
-      "traffic": "500+",
+      "name": "f16",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gerard piqué",
+      "name": "middlesbrough - wrexham",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "radiación",
-      "traffic": "200+",
+      "name": "gimena accardi",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "wanda nara",
-      "traffic": "1000+",
+      "name": "gerard piqué",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fulham",
+      "name": "radiación",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "wanda nara",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "elena rybakina",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "fulham",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "bombero",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "boca velez",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "fernando cappi",
-      "traffic": "200+",
       "rank": 10
     }
   ]
