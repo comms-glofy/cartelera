@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T14:00:18Z",
+  "updated": "2026-08-07T14:10:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aston villa - bayern",
+      "name": "motochorro",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "perito",
-      "traffic": "100+",
+      "name": "aston villa - bayern",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "perito",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "telefe noticias",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "condenado",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "noticias",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "decreto",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima mendoza",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima jujuy",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "minuto uno",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "clima salta",
-      "traffic": "200+",
       "rank": 10
     }
   ]
