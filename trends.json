@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T10:30:17Z",
+  "updated": "2026-08-07T10:49:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "datachaco",
+      "name": "decreto",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "minuto uno",
+      "name": "clima mendoza",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gran hermano",
-      "traffic": "2000+",
+      "name": "datachaco",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima salta",
+      "name": "minuto uno",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "desalojo",
-      "traffic": "200+",
+      "name": "clima salta",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "radio rivadavia",
-      "traffic": "100+",
+      "name": "desalojo",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "máximo kirchner",
+      "name": "radio rivadavia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sydney towle",
-      "traffic": "200+",
+      "name": "temperatura cordoba",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "america",
+      "name": "máximo kirchner",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "canelones pelicula",
-      "traffic": "100+",
+      "name": "dia de san cayetano",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
