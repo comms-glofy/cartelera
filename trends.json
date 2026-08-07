@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T01:30:23Z",
+  "updated": "2026-08-07T02:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "magui bravi",
-      "traffic": "200+",
+      "name": "telefe",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "incendio",
+      "name": "kevin castaño",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "internacional",
-      "traffic": "100+",
+      "name": "hernan lacunza",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jodar",
-      "traffic": "200+",
+      "name": "nfl",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "juanicar",
-      "traffic": "100+",
+      "name": "magui bravi",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "son como niños 3",
+      "name": "corinthians vs",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "diario los andes",
-      "traffic": "200+",
+      "name": "incendio",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cruz azul - philadelphia",
-      "traffic": "500+",
+      "name": "internacional",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "basura",
-      "traffic": "100+",
+      "name": "juanicar",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "temblor en mendoza",
-      "traffic": "10000+",
+      "name": "jodar",
+      "traffic": "200+",
       "rank": 10
     }
   ]
