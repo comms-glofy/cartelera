@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-07T13:30:17Z",
+  "updated": "2026-08-07T14:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "perito",
-      "traffic": "100+",
+      "name": "aston villa - bayern",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "condenado",
-      "traffic": "200+",
+      "name": "perito",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "noticias",
+      "name": "telefe noticias",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "decreto",
-      "traffic": "1000+",
+      "name": "condenado",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima mendoza",
+      "name": "noticias",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima jujuy",
-      "traffic": "100+",
+      "name": "decreto",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "minuto uno",
+      "name": "clima mendoza",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "clima salta",
-      "traffic": "200+",
+      "name": "clima jujuy",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "oracion a san cayetano",
-      "traffic": "5000+",
+      "name": "minuto uno",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "radio rivadavia",
+      "name": "clima salta",
       "traffic": "200+",
       "rank": 10
     }
