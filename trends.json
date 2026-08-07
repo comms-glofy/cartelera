@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T15:30:21Z",
+  "updated": "2026-08-07T16:00:42Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rodolfo arruabarrena",
+      "name": "canciller",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "dia de la cerveza",
-      "traffic": "100+",
+      "name": "quiniela de tucuman",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pablo quirno",
+      "name": "boca socios",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "william orbit",
-      "traffic": "200+",
+      "name": "crimen",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "elle",
-      "traffic": "100+",
+      "name": "rodolfo arruabarrena",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "loteria chaqueña",
+      "name": "autopista panamericana",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "motochorro",
-      "traffic": "500+",
+      "name": "dia de la cerveza",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "aston villa - bayern",
-      "traffic": "500+",
+      "name": "pablo quirno",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "perito",
-      "traffic": "200+",
+      "name": "elle",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "telefe noticias",
-      "traffic": "100+",
+      "name": "william orbit",
+      "traffic": "200+",
       "rank": 10
     }
   ]
