@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T17:30:16Z",
+  "updated": "2026-08-07T18:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fernando cappi",
-      "traffic": "100+",
+      "name": "wanda nara",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "perfil",
+      "name": "fulham",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "chimy ávila",
-      "traffic": "200+",
+      "name": "elena rybakina",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "escuela",
+      "name": "bombero",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "fernando cappi",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "perfil",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "chimy ávila",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "escuela",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "asteroide",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "día no laborable",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "alex caniggia",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "rulli",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "iva jovic",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "roberto garcía moritán",
-      "traffic": "500+",
       "rank": 10
     }
   ]
