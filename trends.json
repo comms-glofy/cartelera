@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T00:30:21Z",
+  "updated": "2026-08-07T01:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cruz azul - philadelphia",
-      "traffic": "200+",
+      "name": "incendio",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "basura",
+      "name": "internacional",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "temblor en mendoza",
-      "traffic": "10000+",
+      "name": "jodar",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sismo",
-      "traffic": "1000+",
+      "name": "juanicar",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "maría belén ludueña",
-      "traffic": "200+",
+      "name": "son como niños 3",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "mdz online",
+      "name": "diario los andes",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "jason statham",
-      "traffic": "100+",
+      "name": "cruz azul - philadelphia",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "aryna sabalenka",
-      "traffic": "1000+",
+      "name": "basura",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "jazmin dose",
-      "traffic": "500+",
+      "name": "temblor en mendoza",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "fabricio bustos",
-      "traffic": "100+",
+      "name": "temblor ahora",
+      "traffic": "200+",
       "rank": 10
     }
   ]
