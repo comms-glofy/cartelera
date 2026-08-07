@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T10:00:16Z",
+  "updated": "2026-08-07T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gran hermano",
-      "traffic": "2000+",
+      "name": "datachaco",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "desalojo",
+      "name": "minuto uno",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "radio rivadavia",
-      "traffic": "100+",
+      "name": "gran hermano",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "máximo kirchner",
-      "traffic": "200+",
+      "name": "clima salta",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "sydney towle",
+      "name": "desalojo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "america",
-      "traffic": "200+",
+      "name": "radio rivadavia",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "canelones pelicula",
-      "traffic": "100+",
+      "name": "máximo kirchner",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tiafoe",
+      "name": "sydney towle",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mi telefe",
+      "name": "america",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "kevin castaño",
-      "traffic": "500+",
+      "name": "canelones pelicula",
+      "traffic": "100+",
       "rank": 10
     }
   ]
