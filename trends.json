@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T18:10:03Z",
+  "updated": "2026-08-07T18:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "radiación",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "gerard piqué",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "wanda nara",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "fulham",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "elena rybakina",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "bombero",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "boca velez",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "fernando cappi",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "perfil",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "chimy ávila",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "escuela",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "asteroide",
-      "traffic": "200+",
       "rank": 10
     }
   ]
