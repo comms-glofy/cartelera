@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T12:00:18Z",
+  "updated": "2026-08-07T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "decreto",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "oracion a san cayetano",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
       "name": "radio rivadavia",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "temperatura cordoba",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "pagina 12",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
