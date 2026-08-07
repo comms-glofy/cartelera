@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T19:30:17Z",
+  "updated": "2026-08-07T20:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "movistar arena",
-      "traffic": "2000+",
+      "name": "cosecha",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "joaquin correa",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "f16",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "movistar arena",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "middlesbrough - wrexham",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "gimena accardi",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "gerard piqué",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "radiación",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "wanda nara",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "elena rybakina",
-      "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "fulham",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "bombero",
-      "traffic": "100+",
       "rank": 10
     }
   ]
