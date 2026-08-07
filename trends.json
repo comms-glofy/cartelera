@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T07:30:15Z",
+  "updated": "2026-08-07T08:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "máximo kirchner",
+      "name": "ley",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sydney towle",
+      "name": "máximo kirchner",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "sydney towle",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "america",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "canelones pelicula",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tiafoe",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mi telefe",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "kevin castaño",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "telefe",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "nfl",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "hernan lacunza",
-      "traffic": "200+",
+      "name": "nfl",
+      "traffic": "100+",
       "rank": 10
     }
   ]
