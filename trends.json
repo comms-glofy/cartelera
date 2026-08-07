@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T18:00:15Z",
+  "updated": "2026-08-07T18:10:03Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
+      "name": "boca velez",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "fernando cappi",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "perfil",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "chimy ávila",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "escuela",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "asteroide",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "día no laborable",
+      "name": "asteroide",
       "traffic": "200+",
       "rank": 10
     }
