@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T18:30:19Z",
+  "updated": "2026-08-07T19:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "radiación",
+      "name": "middlesbrough - wrexham",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gerard piqué",
-      "traffic": "100+",
+      "name": "gimena accardi",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "wanda nara",
-      "traffic": "500+",
+      "name": "gerard piqué",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "fulham",
+      "name": "radiación",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "elena rybakina",
-      "traffic": "100+",
+      "name": "wanda nara",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "fulham",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "elena rybakina",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "bombero",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "boca velez",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "fernando cappi",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "perfil",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "chimy ávila",
-      "traffic": "500+",
       "rank": 10
     }
   ]
