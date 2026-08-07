@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-07T05:12:58Z",
+  "updated": "2026-08-07T05:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "máximo kirchner",
-      "traffic": "100+",
+      "name": "pagina 12",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sydney towle",
-      "traffic": "200+",
+      "name": "máximo kirchner",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "américa - san diego fc",
+      "name": "sydney towle",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "america",
-      "traffic": "200+",
+      "name": "américa - san diego fc",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tiafoe",
+      "name": "america",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "mi telefe",
+      "name": "tiafoe",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "kevin castaño",
+      "name": "mi telefe",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "telefe",
-      "traffic": "1000+",
+      "name": "kevin castaño",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "nfl",
-      "traffic": "200+",
+      "name": "telefe",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "hernan lacunza",
+      "name": "nfl",
       "traffic": "200+",
       "rank": 10
     }
