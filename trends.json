@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T13:00:15Z",
+  "updated": "2026-08-07T13:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "perito",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "condenado",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "noticias",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "decreto",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima mendoza",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima jujuy",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "minuto uno",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima salta",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "oracion a san cayetano",
-      "traffic": "2000+",
-      "rank": 8
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "radio rivadavia",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "temperatura cordoba",
-      "traffic": "100+",
       "rank": 10
     }
   ]
