@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-07T20:00:14Z",
+  "updated": "2026-08-07T20:05:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cosecha",
-      "traffic": "100+",
+      "name": "lisandro martínez",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "joaquin correa",
+      "name": "estadio alberto j. armando",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "f16",
-      "traffic": "200+",
+      "name": "ben shelton",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "movistar arena",
-      "traffic": "2000+",
+      "name": "cameron norrie",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "middlesbrough - wrexham",
-      "traffic": "200+",
+      "name": "cosecha",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "gimena accardi",
-      "traffic": "1000+",
+      "name": "joaquin correa",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gerard piqué",
+      "name": "f16",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "radiación",
-      "traffic": "200+",
+      "name": "movistar arena",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "wanda nara",
-      "traffic": "1000+",
+      "name": "middlesbrough - wrexham",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "fulham",
-      "traffic": "200+",
+      "name": "gimena accardi",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
