@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-07T17:00:18Z",
+  "updated": "2026-08-07T17:21:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "escuela",
-      "traffic": "100+",
+      "name": "perfil",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "gerónimo rulli",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "chimy ávila",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "alex caniggia",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "iva jovic",
+      "name": "escuela",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "día no laborable",
-      "traffic": "100+",
+      "name": "asteroide",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "rulli",
-      "traffic": "200+",
+      "name": "día no laborable",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "roberto garcía moritán",
+      "name": "alex caniggia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cencosud",
-      "traffic": "200+",
+      "name": "iva jovic",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "canciller",
-      "traffic": "200+",
+      "name": "roberto garcía moritán",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "boca socios",
+      "name": "cencosud",
       "traffic": "200+",
       "rank": 10
     }
