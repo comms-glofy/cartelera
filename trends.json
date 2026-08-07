@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-07T21:00:15Z",
+  "updated": "2026-08-07T21:09:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexis rolín",
+      "name": "agua",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "pedro troglio",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "edificio",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "alexis rolín",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "virus",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "crystal palace",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "avenida brasil",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "ice",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "leandro rud",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "venezuela",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "aeropuerto",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima trelew",
+      "name": "aeropuerto",
       "traffic": "100+",
       "rank": 10
     }
