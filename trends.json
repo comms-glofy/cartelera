@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T01:30:13Z",
+  "updated": "2026-08-08T01:43:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tigres - minnesota",
-      "traffic": "200+",
+      "name": "charlotte fc",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "thiago tirante",
+      "name": "alexei popyrin",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "universitario - sporting cristal",
-      "traffic": "200+",
+      "name": "juventud antoniana",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "200+",
+      "name": "cincinnati - pumas",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "moria casán",
-      "traffic": "100+",
+      "name": "tigres - minnesota",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cristina kirchner",
-      "traffic": "1000+",
+      "name": "thiago tirante",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tirante",
+      "name": "universitario - sporting cristal",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "quiniela hoy",
-      "traffic": "200+",
+      "name": "thiago agustín tirante",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "marisa brel",
+      "name": "moria casán",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "galarza fonda",
-      "traffic": "200+",
+      "name": "cristina kirchner",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
