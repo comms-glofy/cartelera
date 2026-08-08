@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T11:01:22Z",
+  "updated": "2026-08-08T11:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ole",
-      "traffic": "500+",
+      "name": "alberto benegas lynch",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tn",
-      "traffic": "500+",
+      "name": "cadena 3",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "la gaceta",
-      "traffic": "100+",
+      "name": "viento",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jorge messi",
-      "traffic": "10000+",
+      "name": "noticias",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "corte suprema",
+      "name": "diario clarin",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "la capital",
-      "traffic": "100+",
+      "name": "juventus - inter",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "cronica",
-      "traffic": "100+",
+      "name": "noticia",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "quiniela nacional nocturna",
-      "traffic": "1000+",
+      "name": "diario ole",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "videos",
-      "traffic": "1000+",
+      "name": "infobae argentina",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "colisión",
-      "traffic": "500+",
+      "name": "ole",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
