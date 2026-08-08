@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T21:00:12Z",
+  "updated": "2026-08-08T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "2 de mayo - olimpia",
-      "traffic": "500+",
+      "name": "inde navarrette",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "federal a",
+      "name": "torque - peñarol",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gratitud",
-      "traffic": "100+",
+      "name": "remo - atlético mineiro",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "accidente acceso este mendoza",
-      "traffic": "500+",
+      "name": "2 de mayo - olimpia",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "dgo",
-      "traffic": "5000+",
+      "name": "gratitud",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "barcelona vs. nottingham forest",
-      "traffic": "100+",
+      "name": "federal a",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "francisco ortega",
-      "traffic": "1000+",
+      "name": "accidente acceso este mendoza",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "gonzalo martínez",
-      "traffic": "500+",
+      "name": "dgo",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "mar del plata",
+      "name": "barcelona vs. nottingham forest",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "flow",
-      "traffic": "2000+",
+      "name": "francisco ortega",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
