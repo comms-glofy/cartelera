@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T04:34:07Z",
+  "updated": "2026-08-08T05:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "xbox cloud gaming",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "el cronista",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "posiciones de club universitario de deportes contra sporting cristal",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "vancouver whitecaps",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "coty romero",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "midachi",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "montreal open",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "tommy paul",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "maximiliano salas",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "emiliano brancciari",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "dyango cuando quieras, donde quieras",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "mario pergolini",
-      "traffic": "200+",
       "rank": 10
     }
   ]
