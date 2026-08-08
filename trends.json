@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T06:44:24Z",
+  "updated": "2026-08-08T07:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "tigres",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
       "name": "midachi",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "montreal open",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "tommy paul",
+      "traffic": "100+",
       "rank": 10
     }
   ]
