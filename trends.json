@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-08T12:00:15Z",
+  "updated": "2026-08-08T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tyc sports",
-      "traffic": "200+",
+      "name": "moto gp",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "devaluación",
-      "traffic": "100+",
+      "name": "chelsea - milan",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "pagina 12",
-      "traffic": "500+",
+      "name": "10 de agosto",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ole deportivo",
-      "traffic": "100+",
+      "name": "ambulancia",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "primicias ya",
+      "name": "marca",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "diario rio negro",
-      "traffic": "100+",
+      "name": "tyc sports",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ultimas noticias",
-      "traffic": "1000+",
+      "name": "devaluación",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "alberto benegas lynch",
-      "traffic": "200+",
+      "name": "ole deportivo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "viento",
-      "traffic": "200+",
+      "name": "primicias ya",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "rosario 3",
+      "name": "diario rio negro",
       "traffic": "100+",
       "rank": 10
     }
