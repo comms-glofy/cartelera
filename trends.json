@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T22:00:14Z",
+  "updated": "2026-08-08T22:24:10Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ignacio russo",
-      "traffic": "200+",
+      "name": "tabla de posiciones",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cuanto va river",
-      "traffic": "200+",
+      "name": "andrada",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "santa fe - boyacá chicó",
+      "name": "santiago caputo",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "boca juniors - vélez",
-      "traffic": "20000+",
+      "name": "tabla anual",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "inde navarrette",
-      "traffic": "200+",
+      "name": "sicilia",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "remo - atlético mineiro",
-      "traffic": "500+",
+      "name": "lucas martínez quarta",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "torque - peñarol",
+      "name": "cuanto va river",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "2 de mayo - olimpia",
-      "traffic": "2000+",
+      "name": "santa fe - boyacá chicó",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "gratitud",
-      "traffic": "500+",
+      "name": "boca juniors - vélez",
+      "traffic": "100000+",
       "rank": 9
     },
     {
-      "name": "federal a",
-      "traffic": "100+",
+      "name": "inde navarrette",
+      "traffic": "200+",
       "rank": 10
     }
   ]
