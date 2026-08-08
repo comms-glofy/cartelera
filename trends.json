@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T12:39:18Z",
+  "updated": "2026-08-08T13:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la voz",
+      "name": "chelsea",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "moto gp",
+      "name": "espn",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "chelsea - milan",
-      "traffic": "1000+",
+      "name": "dia del gato",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "10 de agosto",
+      "name": "la voz del interior",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ambulancia",
-      "traffic": "200+",
+      "name": "jorge macri",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "tyc sports",
-      "traffic": "200+",
+      "name": "diario los andes",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "devaluación",
+      "name": "moto gp",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "ole deportivo",
-      "traffic": "100+",
+      "name": "chelsea - milan",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "primicias ya",
-      "traffic": "100+",
+      "name": "10 de agosto",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "diario rio negro",
-      "traffic": "100+",
+      "name": "ambulancia",
+      "traffic": "200+",
       "rank": 10
     }
   ]
