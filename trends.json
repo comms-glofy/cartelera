@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T15:30:15Z",
+  "updated": "2026-08-08T15:35:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "psg - manchester united",
-      "traffic": "1000+",
+      "name": "psg",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "abogado",
-      "traffic": "100+",
+      "name": "psg - manchester united",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "tottenham",
+      "name": "abogado",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cristiano ronaldo",
-      "traffic": "100+",
+      "name": "tottenham",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sindicato",
-      "traffic": "200+",
+      "name": "cristiano ronaldo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "los pumas vs sudafrica",
-      "traffic": "200+",
+      "name": "sindicato",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "flor peña",
+      "name": "pumas vs sudafrica",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "west ham - portsmouth",
-      "traffic": "500+",
+      "name": "flor peña",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "hermanos de messi",
+      "name": "west ham - portsmouth",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "f16",
-      "traffic": "1000+",
+      "name": "hermanos de messi",
+      "traffic": "500+",
       "rank": 10
     }
   ]
