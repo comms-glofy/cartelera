@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T06:00:15Z",
+  "updated": "2026-08-08T06:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "xbox cloud gaming",
+      "name": "bet365",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "el cronista",
+      "name": "xbox cloud gaming",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "el cronista",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "posiciones de club universitario de deportes contra sporting cristal",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "santiago bausili",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "vancouver whitecaps",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "coty romero",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tigres",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "midachi",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "montreal open",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "tommy paul",
-      "traffic": "100+",
       "rank": 10
     }
   ]
