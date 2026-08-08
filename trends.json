@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T05:00:20Z",
+  "updated": "2026-08-08T05:30:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,46 +10,46 @@
     },
     {
       "name": "el cronista",
-      "traffic": "200+",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "santiago bausili",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "posiciones de club universitario de deportes contra sporting cristal",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "vancouver whitecaps",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "coty romero",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "midachi",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "montreal open",
+      "name": "tigres",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tommy paul",
-      "traffic": "100+",
+      "name": "midachi",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "maximiliano salas",
-      "traffic": "100+",
+      "name": "montreal open",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "emiliano brancciari",
+      "name": "tommy paul",
       "traffic": "100+",
       "rank": 10
     }
