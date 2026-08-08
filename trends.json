@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T13:00:14Z",
+  "updated": "2026-08-08T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chelsea",
+      "name": "iphone 18",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "espn",
-      "traffic": "100+",
+      "name": "mdz",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dia del gato",
+      "name": "la nacion diario",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "la voz del interior",
+      "name": "chelsea",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "jorge macri",
+      "name": "espn",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "diario los andes",
-      "traffic": "100+",
+      "name": "dia del gato",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "moto gp",
-      "traffic": "100+",
+      "name": "la voz del interior",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "chelsea - milan",
-      "traffic": "1000+",
+      "name": "diario los andes",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "10 de agosto",
-      "traffic": "500+",
+      "name": "jorge macri",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ambulancia",
-      "traffic": "200+",
+      "name": "denisse gonzález gran hermano",
+      "traffic": "500+",
       "rank": 10
     }
   ]
