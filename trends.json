@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T00:00:13Z",
+  "updated": "2026-08-08T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "denuncia",
-      "traffic": "500+",
+      "name": "coco gauff",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "marcelo saracchi",
-      "traffic": "200+",
+      "name": "galarza fonda",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cadena 3 argentina",
-      "traffic": "100+",
+      "name": "u. católica - cobresal",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "liverpool",
-      "traffic": "100+",
+      "name": "independiente rivadavia - estudiantes de río cuarto",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "club atlético platense",
+      "name": "casper ruud",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "brad pitt",
+      "name": "paredes se va de boca",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "columbus crew - pachuca",
-      "traffic": "500+",
+      "name": "cadena 3 argentina",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "marcelo porcel",
-      "traffic": "100+",
+      "name": "marcelo saracchi",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "rosario central",
-      "traffic": "10000+",
+      "name": "denuncia",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tagliafico",
-      "traffic": "500+",
+      "name": "club atlético platense",
+      "traffic": "100+",
       "rank": 10
     }
   ]
