@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T01:00:16Z",
+  "updated": "2026-08-08T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "thiago agustín tirante",
+      "name": "tigres - minnesota",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "moria casán",
+      "name": "thiago tirante",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cristina kirchner",
-      "traffic": "1000+",
+      "name": "universitario - sporting cristal",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "quiniela hoy",
+      "name": "thiago agustín tirante",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tirante",
+      "name": "moria casán",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "marisa brel",
-      "traffic": "100+",
+      "name": "cristina kirchner",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "coco gauff",
-      "traffic": "100+",
+      "name": "tirante",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "galarza fonda",
-      "traffic": "100+",
+      "name": "quiniela hoy",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "independiente rivadavia - estudiantes de río cuarto",
-      "traffic": "5000+",
+      "name": "marisa brel",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "u. católica - cobresal",
-      "traffic": "500+",
+      "name": "galarza fonda",
+      "traffic": "200+",
       "rank": 10
     }
   ]
