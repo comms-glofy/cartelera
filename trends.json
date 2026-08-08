@@ -1,31 +1,31 @@
 {
-  "updated": "2026-08-08T12:30:15Z",
+  "updated": "2026-08-08T12:39:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "moto gp",
+      "name": "la voz",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "chelsea - milan",
-      "traffic": "500+",
+      "name": "moto gp",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "chelsea - milan",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "10 de agosto",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ambulancia",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "marca",
-      "traffic": "100+",
       "rank": 5
     },
     {
