@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T22:56:40Z",
+  "updated": "2026-08-08T23:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "montero arquero",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "patricia bullrich senado",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "peñarol",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "tabla de posiciones",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "andrada",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "santiago caputo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tabla anual",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sicilia",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lucas martínez quarta",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "cuanto va river",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "santa fe - boyacá chicó",
-      "traffic": "100+",
       "rank": 10
     }
   ]
