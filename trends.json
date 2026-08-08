@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T08:30:19Z",
+  "updated": "2026-08-08T08:35:34Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo en cordoba",
-      "traffic": "100+",
-      "rank": 1
-    },
-    {
       "name": "clima cordoba",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "denisse gonzález",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "bet365",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "xbox cloud gaming",
       "traffic": "100+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "el cronista",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "posiciones de club universitario de deportes contra sporting cristal",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "santiago bausili",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "vancouver whitecaps",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "coty romero",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "midachi",
+      "traffic": "500+",
       "rank": 10
     }
   ]
