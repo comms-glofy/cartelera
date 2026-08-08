@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-08T01:43:52Z",
+  "updated": "2026-08-08T02:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "charlotte fc",
-      "traffic": "100+",
+      "name": "popyrin",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alexei popyrin",
+      "name": "charlotte fc",
       "traffic": "100+",
       "rank": 2
     },
@@ -35,7 +35,7 @@
     },
     {
       "name": "universitario - sporting cristal",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 7
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "cristina kirchner",
-      "traffic": "1000+",
+      "name": "tirante",
+      "traffic": "500+",
       "rank": 10
     }
   ]
