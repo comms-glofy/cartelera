@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-08T02:00:14Z",
+  "updated": "2026-08-08T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "popyrin",
-      "traffic": "200+",
+      "name": "alvarado",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "charlotte fc",
+      "name": "dyango cuando quieras, donde quieras",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "juventud antoniana",
-      "traffic": "100+",
+      "name": "mario pergolini",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cincinnati - pumas",
+      "name": "charlotte fc",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tigres - minnesota",
+      "name": "juventud antoniana",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "thiago tirante",
+      "name": "cincinnati - pumas",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "universitario - sporting cristal",
+      "name": "thiago tirante",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "500+",
+      "name": "tigres - minnesota",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "moria casán",
-      "traffic": "100+",
+      "name": "universitario - sporting cristal",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tirante",
+      "name": "thiago agustín tirante",
       "traffic": "500+",
       "rank": 10
     }
