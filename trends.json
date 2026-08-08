@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-08T18:30:22Z",
+  "updated": "2026-08-08T18:34:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gobierno",
-      "traffic": "1000+",
+      "name": "grêmio - são paulo",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "2025",
-      "traffic": "100+",
+      "name": "gobierno",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "licitación",
+      "name": "2025",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "real madrid vs",
-      "traffic": "200+",
+      "name": "almirante brown - club ciudad de bolívar",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "atlético tucumán - sarmiento",
-      "traffic": "5000+",
+      "name": "licitación",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "iga świątek",
+      "name": "real madrid vs",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "deportivo riestra - estudiantes",
-      "traffic": "10000+",
+      "name": "atlético tucumán - sarmiento",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "ferencváros - real madrid",
-      "traffic": "2000+",
+      "name": "iga świątek",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "grand theft auto vi",
-      "traffic": "200+",
+      "name": "deportivo riestra - estudiantes",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
