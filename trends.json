@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-08T19:53:04Z",
+  "updated": "2026-08-08T20:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "josé coronado",
+      "name": "valencia c. f. - newcastle",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "argentina vs south africa",
+      "name": "barcelona vs",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "letizia ortiz",
+      "name": "edlp",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "josé coronado",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "argentina vs south africa",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "letizia ortiz",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "tigre - river plate",
       "traffic": "50000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "ferencváros vs. real madrid",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "camión",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "luciano darderi",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "atlético rafaela - chacarita",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "sportivo ameliano - cerro",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "real betis - bournemouth",
+      "name": "luciano darderi",
       "traffic": "200+",
       "rank": 10
     }
