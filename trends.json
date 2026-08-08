@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T22:30:15Z",
+  "updated": "2026-08-08T22:56:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tabla de posiciones",
+      "name": "patricia bullrich senado",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "peñarol",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "tabla de posiciones",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "andrada",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "santiago caputo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "tabla anual",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "sicilia",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "lucas martínez quarta",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "cuanto va river",
+      "name": "sicilia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "santa fe - boyacá chicó",
-      "traffic": "100+",
+      "name": "lucas martínez quarta",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "boca juniors - vélez",
-      "traffic": "100000+",
+      "name": "cuanto va river",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "inde navarrette",
-      "traffic": "200+",
+      "name": "santa fe - boyacá chicó",
+      "traffic": "100+",
       "rank": 10
     }
   ]
