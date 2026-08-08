@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-08T17:02:55Z",
+  "updated": "2026-08-08T17:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hong kong",
-      "traffic": "200+",
+      "name": "atlético tucumán - sarmiento",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "trabajo",
+      "name": "iga świątek",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gran colisionador de hadrones",
-      "traffic": "100+",
+      "name": "deportivo riestra - estudiantes",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "frío",
-      "traffic": "200+",
+      "name": "ferencváros - real madrid",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "psg",
-      "traffic": "500+",
+      "name": "grand theft auto vi",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "manchester united",
+      "name": "hong kong",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "psg - manchester united",
-      "traffic": "2000+",
+      "name": "trabajo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "abogado",
-      "traffic": "500+",
+      "name": "gran colisionador de hadrones",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cristiano ronaldo",
+      "name": "frío",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tottenham",
+      "name": "psg",
       "traffic": "500+",
       "rank": 10
     }
