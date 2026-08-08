@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-08T15:00:19Z",
+  "updated": "2026-08-08T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "psg - manchester united",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "abogado",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "tottenham",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "cristiano ronaldo",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "dia del niño",
-      "traffic": "2000+",
       "rank": 4
     },
     {
@@ -35,12 +35,12 @@
     },
     {
       "name": "flor peña",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 7
     },
     {
       "name": "west ham - portsmouth",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 8
     },
     {
