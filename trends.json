@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T10:00:15Z",
+  "updated": "2026-08-08T10:27:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "messi",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "corte suprema",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "quiniela nacional nocturna",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "videos",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "colisión",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "clima cordoba",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "denisse gonzález",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "bet365",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "xbox cloud gaming",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "el cronista",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "santiago bausili",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de club universitario de deportes contra sporting cristal",
-      "traffic": "200+",
       "rank": 10
     }
   ]
