@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T00:30:17Z",
+  "updated": "2026-08-08T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "coco gauff",
-      "traffic": "100+",
+      "name": "thiago agustín tirante",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "galarza fonda",
+      "name": "moria casán",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "u. católica - cobresal",
-      "traffic": "200+",
+      "name": "cristina kirchner",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "independiente rivadavia - estudiantes de río cuarto",
+      "name": "quiniela hoy",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "casper ruud",
+      "name": "tirante",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "paredes se va de boca",
+      "name": "marisa brel",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cadena 3 argentina",
-      "traffic": "200+",
+      "name": "coco gauff",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "marcelo saracchi",
-      "traffic": "200+",
+      "name": "galarza fonda",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "denuncia",
-      "traffic": "500+",
+      "name": "independiente rivadavia - estudiantes de río cuarto",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "club atlético platense",
-      "traffic": "100+",
+      "name": "u. católica - cobresal",
+      "traffic": "500+",
       "rank": 10
     }
   ]
