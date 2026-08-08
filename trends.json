@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T11:52:59Z",
+  "updated": "2026-08-08T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ole deportivo",
-      "traffic": "100+",
+      "name": "tyc sports",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "diario rio negro",
+      "name": "devaluación",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ultimas noticias",
-      "traffic": "1000+",
+      "name": "pagina 12",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "alberto benegas lynch",
-      "traffic": "200+",
+      "name": "ole deportivo",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "viento",
-      "traffic": "200+",
+      "name": "primicias ya",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "rosario 3",
+      "name": "diario rio negro",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "noticias",
-      "traffic": "200+",
+      "name": "ultimas noticias",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "diario clarin",
-      "traffic": "100+",
+      "name": "alberto benegas lynch",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juventus - inter",
-      "traffic": "1000+",
+      "name": "viento",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "noticia",
-      "traffic": "500+",
+      "name": "rosario 3",
+      "traffic": "100+",
       "rank": 10
     }
   ]
