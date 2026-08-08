@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T03:30:19Z",
+  "updated": "2026-08-08T04:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
+      "name": "midachi",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "montreal open",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tommy paul",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "maximiliano salas",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "emiliano brancciari",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "dyango cuando quieras, donde quieras",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "mario pergolini",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "charlotte fc",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de midland contra deportivo maipú",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
