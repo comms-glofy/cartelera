@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T03:00:17Z",
+  "updated": "2026-08-08T03:21:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tigres",
+      "name": "coty romero",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "tigres",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "tommy paul",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "montreal open",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "maximiliano salas",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "emiliano brancciari",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "dyango cuando quieras, donde quieras",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "mario pergolini",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "charlotte fc",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "juventud antoniana",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "cincinnati - pumas",
-      "traffic": "100+",
       "rank": 10
     }
   ]
