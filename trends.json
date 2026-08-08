@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T19:00:14Z",
+  "updated": "2026-08-08T19:25:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético rafaela - chacarita",
-      "traffic": "500+",
+      "name": "josé coronado",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sportivo ameliano - cerro",
-      "traffic": "200+",
+      "name": "argentina vs south africa",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "real betis - bournemouth",
-      "traffic": "200+",
+      "name": "letizia ortiz",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "psv",
-      "traffic": "200+",
+      "name": "tigre - river plate",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "amistosos",
-      "traffic": "200+",
+      "name": "ferencváros vs. real madrid",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "grêmio - são paulo",
+      "name": "camión",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gobierno",
-      "traffic": "500+",
+      "name": "luciano darderi",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "galatasaray - villarreal",
-      "traffic": "200+",
+      "name": "atlético rafaela - chacarita",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "argentina - sudáfrica",
-      "traffic": "2000+",
+      "name": "sportivo ameliano - cerro",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "2025",
-      "traffic": "100+",
+      "name": "real betis - bournemouth",
+      "traffic": "200+",
       "rank": 10
     }
   ]
