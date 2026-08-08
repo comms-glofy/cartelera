@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-08T17:30:19Z",
+  "updated": "2026-08-08T17:55:58Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético tucumán - sarmiento",
-      "traffic": "1000+",
+      "name": "real madrid vs",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "atlético tucumán - sarmiento",
+      "traffic": "5000+",
+      "rank": 2
     },
     {
       "name": "iga świątek",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "deportivo riestra - estudiantes",
-      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "ferencváros - real madrid",
-      "traffic": "500+",
+      "name": "deportivo riestra - estudiantes",
+      "traffic": "10000+",
       "rank": 4
+    },
+    {
+      "name": "ferencváros - real madrid",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "grand theft auto vi",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "hong kong",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "trabajo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "gran colisionador de hadrones",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "frío",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "psg",
-      "traffic": "500+",
       "rank": 10
     }
   ]
