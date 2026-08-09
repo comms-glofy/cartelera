@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T14:30:16Z",
+  "updated": "2026-08-09T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arsenal vs dortmund",
-      "traffic": "100+",
+      "name": "cuándo es el día del niño",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "maría sol messi",
-      "traffic": "500+",
+      "name": "descubrimiento",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "arsenal vs dortmund",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "maría sol messi",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "ajax",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "liverpool",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "jannik sinner",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "dia del niño",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "guillermo barros schelotto",
-      "traffic": "100+",
+      "name": "jannik sinner",
+      "traffic": "200+",
       "rank": 7
     },
     {
       "name": "9 de agosto",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "san lorenzo vs huracán",
-      "traffic": "100+",
+      "name": "guillermo barros schelotto",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "liverpool - mónaco",
-      "traffic": "1000+",
+      "name": "san lorenzo vs huracán",
+      "traffic": "200+",
       "rank": 10
     }
   ]
