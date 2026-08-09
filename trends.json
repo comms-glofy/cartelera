@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T22:36:51Z",
+  "updated": "2026-08-09T23:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentinos jrs. - racing",
-      "traffic": "2000+",
+      "name": "ben shelton",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "néstor gorosito",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "argentinos jrs. - racing",
+      "traffic": "10000+",
+      "rank": 3
     },
     {
       "name": "turismo competición 2000",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "administración nacional de la seguridad social",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "flamengo - vitória",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "kick",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "juliana awada",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "quilmes ac",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "ciudadano",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "u. la calera - colo-colo",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "telekino",
-      "traffic": "2000+",
+      "name": "ciudadano",
+      "traffic": "500+",
       "rank": 10
     }
   ]
