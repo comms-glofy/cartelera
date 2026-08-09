@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T18:00:17Z",
+  "updated": "2026-08-09T18:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deportivo morón - acassuso",
+      "name": "palmeiras - internacional",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "colegiales - patronato",
-      "traffic": "200+",
+      "name": "rybakina",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "colón - san telmo",
-      "traffic": "200+",
+      "name": "daniel mérida",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "los andes",
+      "name": "marcelo gallardo",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tirante",
-      "traffic": "100+",
+      "name": "deportivo morón - acassuso",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "atlanta",
-      "traffic": "100+",
+      "name": "colón - san telmo",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "colegiales - patronato",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "los andes",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "tirante",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "paz vega",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "san lorenzo - huracán",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "los andes - ferro",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "porto - futebol clube de alverca",
-      "traffic": "200+",
       "rank": 10
     }
   ]
