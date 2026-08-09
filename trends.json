@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T11:03:31Z",
+  "updated": "2026-08-09T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester city - atlético madrid",
-      "traffic": "1000+",
+      "name": "niñera",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "eclipse",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "reforma",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "inter de miami",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "manchester city - atlético madrid",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "meteored",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "moto gp",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "producción",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "marley",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "t",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cameron norrie",
+      "name": "delta",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "toluca - lafc",
-      "traffic": "500+",
+      "name": "moto gp",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "rodrigo de paul",
-      "traffic": "2000+",
+      "name": "producción",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rocío marengo",
-      "traffic": "200+",
+      "name": "marley",
+      "traffic": "100+",
       "rank": 10
     }
   ]
