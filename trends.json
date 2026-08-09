@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T14:00:17Z",
+  "updated": "2026-08-09T14:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia del niño",
-      "traffic": "2000+",
+      "name": "arsenal vs dortmund",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "maría sol messi",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "ajax",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "liverpool",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "jannik sinner",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "dia del niño",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "guillermo barros schelotto",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "9 de agosto",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "liverpool - mónaco",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "cruzeiro - mirassol",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "copa emirates",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "dia del niño 2026",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "arsenal",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "mar del plata",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "chelsea",
-      "traffic": "200+",
+      "name": "san lorenzo vs huracán",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "arsenal - dortmund",
-      "traffic": "5000+",
+      "name": "liverpool - mónaco",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
