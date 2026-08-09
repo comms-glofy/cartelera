@@ -1,36 +1,36 @@
 {
-  "updated": "2026-08-09T01:38:21Z",
+  "updated": "2026-08-09T02:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la joaqui",
-      "traffic": "1000+",
+      "name": "rafael jódar",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tuli",
-      "traffic": "1000+",
+      "name": "diego latorre",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "la joaqui",
+      "traffic": "5000+",
+      "rank": 3
     },
     {
       "name": "adrian suar",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pampita",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "moria casan",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "yanina latorre",
-      "traffic": "1000+",
       "rank": 6
     },
     {
@@ -40,17 +40,17 @@
     },
     {
       "name": "martin cirio",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 8
     },
     {
       "name": "sport boys - alianza lima",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "inter miami vs monterrey",
-      "traffic": "500+",
+      "name": "cuando juega independiente",
+      "traffic": "100+",
       "rank": 10
     }
   ]
