@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T08:37:20Z",
+  "updated": "2026-08-09T09:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "cameron norrie",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "toluca - lafc",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "rodrigo de paul",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "rituales portal 8 8",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "rocío marengo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quillan salkilld",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "posiciones de inter miami contra club de fútbol monterrey",
+      "traffic": "50000+",
+      "rank": 8
     },
     {
       "name": "jhoan durán",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "james rodríguez",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "lunes",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "inter miami",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
