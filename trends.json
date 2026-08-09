@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T22:30:14Z",
+  "updated": "2026-08-09T22:36:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "500+",
+      "name": "argentinos jrs. - racing",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "flamengo - vitória",
-      "traffic": "500+",
+      "name": "turismo competición 2000",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "kick",
+      "name": "administración nacional de la seguridad social",
       "traffic": "1000+",
       "rank": 3
     },
     {
+      "name": "flamengo - vitória",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "kick",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "juliana awada",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "quilmes ac",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "ciudadano",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "u. la calera - colo-colo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "telekino",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "nacional - guaraní",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "cuiabá - fortaleza",
-      "traffic": "200+",
       "rank": 10
     }
   ]
