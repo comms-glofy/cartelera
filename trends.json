@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T16:30:13Z",
+  "updated": "2026-08-09T16:35:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "anselmino",
-      "traffic": "100+",
+      "name": "anne hathaway",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "meryl streep",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "anselmino",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "san andres de giles",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "harlan coben",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "anya taylor-joy",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "sergio massa",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "paolo maldini",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "marsella - athletic",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "boeing 787",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "boca socios",
-      "traffic": "200+",
+      "name": "boeing 787",
+      "traffic": "500+",
       "rank": 10
     }
   ]
