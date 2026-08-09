@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T18:50:48Z",
+  "updated": "2026-08-09T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "automovilismo",
+      "name": "bahía - vasco da gama",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima tandil",
-      "traffic": "100+",
+      "name": "chino volpato cancer",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "o'higgins - deportes limache",
-      "traffic": "1000+",
+      "name": "automovilismo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "thiago tirante",
+      "name": "clima tandil",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "palmeiras - internacional",
-      "traffic": "500+",
+      "name": "o'higgins - deportes limache",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "rybakina",
+      "name": "thiago tirante",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "marcelo gallardo",
-      "traffic": "100+",
+      "name": "palmeiras - internacional",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "daniel mérida",
+      "name": "rybakina",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "deportivo morón - acassuso",
-      "traffic": "2000+",
+      "name": "marcelo gallardo",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "colón - san telmo",
-      "traffic": "2000+",
+      "name": "daniel mérida",
+      "traffic": "100+",
       "rank": 10
     }
   ]
