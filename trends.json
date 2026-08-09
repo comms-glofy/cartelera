@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T17:00:15Z",
+  "updated": "2026-08-09T17:27:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "méxico",
-      "traffic": "500+",
+      "name": "los andes - ferro",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "atlanta - temperley",
+      "name": "elena rybakina",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "predicción",
+      "name": "facundo arana",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sorteo loto plus",
+      "name": "phillies - blue jays",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "anne hathaway",
-      "traffic": "200+",
+      "name": "midachi",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "cuenta d n i",
+      "name": "atlanta - temperley",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "meryl streep",
-      "traffic": "200+",
+      "name": "méxico",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "anselmino",
+      "name": "predicción",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "san andres de giles",
+      "name": "sorteo loto plus",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "anya taylor-joy",
-      "traffic": "100+",
+      "name": "anne hathaway",
+      "traffic": "200+",
       "rank": 10
     }
   ]
