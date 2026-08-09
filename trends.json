@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T16:35:39Z",
+  "updated": "2026-08-09T17:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "anne hathaway",
-      "traffic": "200+",
+      "name": "méxico",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "meryl streep",
+      "name": "atlanta - temperley",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "anselmino",
+      "name": "predicción",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "san andres de giles",
+      "name": "sorteo loto plus",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "harlan coben",
-      "traffic": "100+",
+      "name": "anne hathaway",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "anya taylor-joy",
-      "traffic": "100+",
+      "name": "cuenta d n i",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "sergio massa",
+      "name": "meryl streep",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "paolo maldini",
+      "name": "anselmino",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "marsella - athletic",
+      "name": "san andres de giles",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "boeing 787",
-      "traffic": "500+",
+      "name": "anya taylor-joy",
+      "traffic": "100+",
       "rank": 10
     }
   ]
