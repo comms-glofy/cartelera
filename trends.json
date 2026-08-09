@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T11:30:15Z",
+  "updated": "2026-08-09T11:54:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "el cohete a la luna",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "niñera",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "amistosos",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "eclipse",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "reforma",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "inter de miami",
       "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "manchester city - atlético madrid",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "meteored",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "delta",
-      "traffic": "100+",
+      "name": "manchester city - atlético madrid",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "moto gp",
-      "traffic": "200+",
+      "name": "meteored",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "producción",
+      "name": "delta",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "marley",
-      "traffic": "100+",
+      "name": "moto gp",
+      "traffic": "200+",
       "rank": 10
     }
   ]
