@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T13:45:26Z",
+  "updated": "2026-08-09T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "dia del niño",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "9 de agosto",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "liverpool - mónaco",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "cruzeiro - mirassol",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "copa emirates",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "dia del niño 2026",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "arsenal",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "mar del plata",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "chelsea",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "arsenal - dortmund",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "vassalli fabril",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "montreal open",
-      "traffic": "100+",
+      "name": "arsenal - dortmund",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
