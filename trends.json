@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T02:00:15Z",
+  "updated": "2026-08-09T02:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "james rodríguez",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "lunes",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "rafael jódar",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "diego latorre",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "la joaqui",
-      "traffic": "5000+",
-      "rank": 3
-    },
-    {
-      "name": "adrian suar",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "pampita",
-      "traffic": "2000+",
+      "name": "luck ra",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "la joaqui",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "adrian suar",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "pampita",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "moria casan",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "diego leuco",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "martin cirio",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "sport boys - alianza lima",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cuando juega independiente",
-      "traffic": "100+",
+      "name": "leagues cup",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
