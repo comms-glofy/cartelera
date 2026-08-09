@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T03:00:17Z",
+  "updated": "2026-08-09T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "toluca - lafc",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "rituales portal 8 8",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "rocío marengo",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "quillan salkilld",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "jhoan durán",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "james rodríguez",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "lunes",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "leuco",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "inter miami",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "rafael jódar",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "diego latorre",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "la joaqui",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "adrian suar",
-      "traffic": "500+",
       "rank": 10
     }
   ]
