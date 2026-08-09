@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T12:41:24Z",
+  "updated": "2026-08-09T13:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "johor - chelsea",
-      "traffic": "1000+",
+      "name": "chelsea",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "arsenal - dortmund",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "montreal open",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "johor - chelsea",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "el cohete a la luna",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "niñera",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "amistosos",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "eclipse",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "reforma",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "manchester city - atlético madrid",
-      "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "meteored",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "delta",
-      "traffic": "200+",
+      "name": "reforma",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "moto gp",
-      "traffic": "200+",
+      "name": "daniela rendón",
+      "traffic": "100+",
       "rank": 10
     }
   ]
