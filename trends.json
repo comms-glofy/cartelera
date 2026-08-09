@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T03:30:13Z",
+  "updated": "2026-08-09T03:38:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "posiciones de barcelona sc contra macará",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "jhoan durán",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "james rodríguez",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lunes",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "inter miami",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "rafael jódar",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "diego latorre",
-      "traffic": "200+",
       "rank": 10
     }
   ]
