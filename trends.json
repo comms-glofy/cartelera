@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T07:00:16Z",
+  "updated": "2026-08-09T07:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,17 +9,17 @@
       "rank": 1
     },
     {
-      "name": "sorteo quiniela nacional",
-      "traffic": "2000+",
+      "name": "cameron norrie",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cameron norrie",
-      "traffic": "100+",
+      "name": "toluca - lafc",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "toluca - lafc",
+      "name": "rodrigo de paul",
       "traffic": "500+",
       "rank": 4
     },
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "rodrigo de paul",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
       "name": "rocío marengo",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "quillan salkilld",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de barcelona sc contra macará",
-      "traffic": "2000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "jhoan durán",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "james rodríguez",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "lunes",
+      "traffic": "500+",
       "rank": 10
     }
   ]
