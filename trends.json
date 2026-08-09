@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T13:00:13Z",
+  "updated": "2026-08-09T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chelsea",
-      "traffic": "200+",
+      "name": "dia del niño 2026",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "arsenal - dortmund",
-      "traffic": "1000+",
+      "name": "arsenal",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "mar del plata",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "chelsea",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "arsenal - dortmund",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "montreal open",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "motogp",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "johor - chelsea",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "el cohete a la luna",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "niñera",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "amistosos",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "eclipse",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "reforma",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "daniela rendón",
-      "traffic": "100+",
+      "name": "niñera",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
