@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T20:30:12Z",
+  "updated": "2026-08-09T20:42:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia y tiro de salta - nueva chicago",
-      "traffic": "200+",
+      "name": "coco gauff",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "pipo gorosito",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "gimnasia y tiro de salta - nueva chicago",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "san martin de tucuman",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "bet 365",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "defensa y justicia - newell's",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "gimnasia - barracas central",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "terremoto",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tallulah willis",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "alex luna",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "quilmes - almagro",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "el cronista",
-      "traffic": "200+",
       "rank": 10
     }
   ]
