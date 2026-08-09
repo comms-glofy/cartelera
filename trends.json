@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T10:00:17Z",
+  "updated": "2026-08-09T10:29:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "t",
+      "name": "moto gp",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cameron norrie",
+      "name": "t",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "cameron norrie",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "toluca - lafc",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "rodrigo de paul",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "rituales portal 8 8",
-      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "rocío marengo",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "rituales portal 8 8",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "quillan salkilld",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "posiciones de inter miami contra club de fútbol monterrey",
       "traffic": "50000+",
-      "rank": 8
-    },
-    {
-      "name": "jhoan durán",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lunes",
-      "traffic": "500+",
+      "name": "posiciones de barcelona sc contra macará",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
