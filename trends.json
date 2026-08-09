@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T00:30:16Z",
+  "updated": "2026-08-09T01:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la política online",
+      "name": "sport boys - alianza lima",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "instituto - gimnasia y esgrima",
-      "traffic": "2000+",
+      "name": "martin cirio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sabalenka",
-      "traffic": "200+",
+      "name": "loteria nacional nocturna",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "avion de messi",
-      "traffic": "100+",
+      "name": "la política online",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bomba en el pan am 103",
-      "traffic": "100+",
+      "name": "instituto - gimnasia y esgrima",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "samsung galaxy a27 5g",
-      "traffic": "100+",
+      "name": "bomba en el pan am 103",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "independiente - platense",
-      "traffic": "10000+",
+      "name": "samsung galaxy a27 5g",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "barcelona sc - macará",
-      "traffic": "500+",
+      "name": "independiente - platense",
+      "traffic": "20000+",
       "rank": 8
+    },
+    {
+      "name": "barcelona sc - macará",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "coritiba - chapecoense",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "un sol para los chicos",
-      "traffic": "100+",
       "rank": 10
     }
   ]
