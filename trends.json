@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T00:00:15Z",
+  "updated": "2026-08-09T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "la política online",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "instituto - gimnasia y esgrima",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "sabalenka",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "avion de messi",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "bomba en el pan am 103",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "samsung galaxy a27 5g",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "independiente - platense",
-      "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "barcelona sc - macará",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "coritiba - chapecoense",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "un sol para los chicos",
-      "traffic": "100+",
+      "name": "independiente - platense",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "aryna sabalenka",
+      "name": "barcelona sc - macará",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "botafogo - fluminense",
-      "traffic": "500+",
+      "name": "coritiba - chapecoense",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lozano boca",
-      "traffic": "200+",
+      "name": "un sol para los chicos",
+      "traffic": "100+",
       "rank": 10
     }
   ]
