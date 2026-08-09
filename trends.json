@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-09T19:30:14Z",
+  "updated": "2026-08-09T19:59:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "caicedo",
+      "name": "quilmes - almagro",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sol pérez",
+      "name": "el cronista",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gimnasia vs",
+      "name": "eclipse solar del 12 de agosto de 2026",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "benfica - académico de viseu futebol clube",
-      "traffic": "200+",
+      "name": "gimnasia hoy",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "sportivo san lorenzo - sportivo luqueño",
-      "traffic": "200+",
+      "name": "romelu lukaku",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "colon hoy",
-      "traffic": "200+",
+      "name": "gelp",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "jacy maranhão",
-      "traffic": "100+",
+      "name": "gimnasia vs",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "godoy cruz - chaco for ever",
-      "traffic": "500+",
+      "name": "sol pérez",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "racing de córdoba - san miguel",
+      "name": "benfica - académico de viseu futebol clube",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "chino volpato cancer",
-      "traffic": "500+",
+      "name": "sportivo san lorenzo - sportivo luqueño",
+      "traffic": "200+",
       "rank": 10
     }
   ]
