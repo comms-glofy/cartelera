@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-10T08:00:15Z",
+  "updated": "2026-08-10T08:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "progresar 2026",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "progresar",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "mi anses cuando cobro",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "anses",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "precio",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "volver al trabajo",
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "américa - timbers",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "la casa del dragon",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "bacteria",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "san diego fc",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "house of the dragon",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "belinda bencic",
+      "name": "san diego fc",
       "traffic": "200+",
       "rank": 10
     }
