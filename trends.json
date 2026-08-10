@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T11:00:17Z",
+  "updated": "2026-08-10T11:29:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario chaco",
-      "traffic": "100+",
+      "name": "jorge macri",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "evangelio del dia",
+      "name": "herencia",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "datachaco",
-      "traffic": "100+",
+      "name": "cartel",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "misionesonline",
+      "name": "pity alvarez",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima mendoza",
+      "name": "diario chaco",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "el territorio",
+      "name": "evangelio del dia",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "pronostico cordoba",
+      "name": "datachaco",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "jimena barón",
+      "name": "clima mendoza",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "clima cordoba",
-      "traffic": "200+",
+      "name": "el territorio",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "temperatura cordoba",
-      "traffic": "200+",
+      "name": "pronostico cordoba",
+      "traffic": "100+",
       "rank": 10
     }
   ]
