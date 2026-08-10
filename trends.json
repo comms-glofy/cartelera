@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T21:00:17Z",
+  "updated": "2026-08-10T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jubilación en españa",
-      "traffic": "200+",
+      "name": "meteored",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "política",
-      "traffic": "100+",
+      "name": "banfield - belgrano",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "puracé",
-      "traffic": "200+",
+      "name": "banco central de la república argentina",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "williams alarcón",
+      "name": "libertad fc - u. católica",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ricardo darín",
-      "traffic": "200+",
+      "name": "santiago del moro",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "mar argentino",
-      "traffic": "100+",
+      "name": "avenida brasil",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "corriente del niño",
-      "traffic": "1000+",
+      "name": "jubilación en españa",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "basura",
-      "traffic": "200+",
+      "name": "neuss",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "exequiel zeballos",
-      "traffic": "500+",
+      "name": "política",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "sabrina rojas",
-      "traffic": "100+",
+      "name": "posiciones de gimnasia jujuy contra tristán suárez",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
