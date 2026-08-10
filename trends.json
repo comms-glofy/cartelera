@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T16:30:15Z",
+  "updated": "2026-08-10T16:54:00Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "petróleo",
+      "name": "gta vi",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "monito vargas",
-      "traffic": "200+",
+      "name": "matías morla",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "cooter davenport",
+      "name": "marcos galperin",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bombero",
-      "traffic": "200+",
+      "name": "dólar estadounidense",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "juez",
-      "traffic": "2000+",
+      "name": "petróleo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ruta nacional 9",
-      "traffic": "100+",
+      "name": "boca vs recoleta",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "cooter davenport",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "bombero",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "ángel correa",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "asociación trabajadores del estado",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "scott eastwood",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "festividad",
-      "traffic": "100+",
+      "name": "ruta nacional 9",
+      "traffic": "200+",
       "rank": 10
     }
   ]
