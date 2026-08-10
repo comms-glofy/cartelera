@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T05:00:15Z",
+  "updated": "2026-08-10T05:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "anses",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 3
     },
     {
@@ -24,12 +24,12 @@
       "rank": 4
     },
     {
-      "name": "la casa del dragon",
-      "traffic": "200+",
+      "name": "américa - timbers",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "américa - timbers",
+      "name": "la casa del dragon",
       "traffic": "200+",
       "rank": 6
     },
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "america",
+      "name": "san diego fc",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "san diego fc",
-      "traffic": "200+",
+      "name": "house of the dragon",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "house of the dragon",
-      "traffic": "500+",
+      "name": "belinda bencic",
+      "traffic": "200+",
       "rank": 10
     }
   ]
