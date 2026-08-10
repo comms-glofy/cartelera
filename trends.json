@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T08:30:21Z",
+  "updated": "2026-08-10T08:56:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "progresar 2026",
-      "traffic": "100+",
-      "rank": 1
-    },
-    {
       "name": "progresar",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "mi anses cuando cobro",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "anses",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "precio",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "volver al trabajo",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "américa - timbers",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "la casa del dragon",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "bacteria",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "san diego fc",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "house of the dragon",
+      "traffic": "500+",
       "rank": 10
     }
   ]
