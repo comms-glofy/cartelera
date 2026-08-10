@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T10:00:16Z",
+  "updated": "2026-08-10T10:15:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima cordoba",
-      "traffic": "200+",
+      "name": "clima mendoza",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "temperatura cordoba",
+      "name": "pronostico cordoba",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tiempo en mendoza",
+      "name": "temperatura cordoba",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "clima cordoba",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "tiempo en mendoza",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "tormenta",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "clima salta",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "temperatura",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "clima jujuy",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "clima posadas",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima tucuman",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "progresar",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "mi anses cuando cobro",
-      "traffic": "200+",
       "rank": 10
     }
   ]
