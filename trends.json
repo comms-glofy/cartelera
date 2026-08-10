@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-10T12:00:20Z",
+  "updated": "2026-08-10T12:10:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colombia",
-      "traffic": "200+",
+      "name": "peabody",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "colombia",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "diego maradona",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "cena de nominados",
-      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
-      "name": "jorge macri",
-      "traffic": "500+",
+      "name": "cena de nominados",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "herencia",
-      "traffic": "100+",
+      "name": "jorge macri",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "cartel",
+      "name": "herencia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pity alvarez",
-      "traffic": "200+",
+      "name": "cartel",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "diario chaco",
-      "traffic": "100+",
+      "name": "pity alvarez",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "evangelio del dia",
+      "name": "diario chaco",
       "traffic": "100+",
       "rank": 10
     }
