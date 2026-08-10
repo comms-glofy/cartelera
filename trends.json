@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T16:00:16Z",
+  "updated": "2026-08-10T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "monito vargas",
-      "traffic": "200+",
+      "name": "petróleo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cooter davenport",
+      "name": "monito vargas",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juez",
-      "traffic": "2000+",
+      "name": "cooter davenport",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ángel correa",
+      "name": "bombero",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "juez",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "ruta nacional 9",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "ángel correa",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "asociación trabajadores del estado",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "scott eastwood",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "robo",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "gemini",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "jinete",
-      "traffic": "200+",
+      "name": "festividad",
+      "traffic": "100+",
       "rank": 10
     }
   ]
