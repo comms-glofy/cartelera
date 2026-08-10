@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T10:30:17Z",
+  "updated": "2026-08-10T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mendoza",
+      "name": "diario chaco",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pronostico cordoba",
+      "name": "evangelio del dia",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "temperatura cordoba",
+      "name": "datachaco",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima cordoba",
-      "traffic": "200+",
+      "name": "misionesonline",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tiempo en mendoza",
+      "name": "clima mendoza",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima salta",
+      "name": "el territorio",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tormenta",
-      "traffic": "500+",
+      "name": "pronostico cordoba",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "temperatura",
-      "traffic": "500+",
+      "name": "jimena barón",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "clima jujuy",
-      "traffic": "100+",
+      "name": "clima cordoba",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima posadas",
-      "traffic": "100+",
+      "name": "temperatura cordoba",
+      "traffic": "200+",
       "rank": 10
     }
   ]
