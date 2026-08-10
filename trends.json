@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T20:37:19Z",
+  "updated": "2026-08-10T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "puracé",
+      "name": "jubilación en españa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "williams alarcón",
-      "traffic": "200+",
+      "name": "política",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ricardo darín",
+      "name": "puracé",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "williams alarcón",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "ricardo darín",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "mar argentino",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "corriente del niño",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "basura",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "exequiel zeballos",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "sabrina rojas",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "club atlético de madrid",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "jeongyeon",
-      "traffic": "200+",
       "rank": 10
     }
   ]
