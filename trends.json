@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T12:30:16Z",
+  "updated": "2026-08-10T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fluminense football club",
-      "traffic": "200+",
+      "name": "river id",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "el 14 de agosto es feriado",
-      "traffic": "200+",
+      "name": "dia de la fuerza aerea argentina",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "peabody",
+      "name": "fernando cappi",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "colombia",
-      "traffic": "500+",
+      "name": "17 de agosto feriado",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "diego maradona",
+      "name": "fluminense football club",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fidelina bariloche",
+      "name": "el 14 de agosto es feriado",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cena de nominados",
-      "traffic": "1000+",
+      "name": "peabody",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "jorge macri",
+      "name": "colombia",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "herencia",
-      "traffic": "200+",
+      "name": "diego maradona",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cartel",
-      "traffic": "500+",
+      "name": "fidelina bariloche",
+      "traffic": "200+",
       "rank": 10
     }
   ]
