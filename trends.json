@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T20:00:17Z",
+  "updated": "2026-08-10T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corriente del niño",
-      "traffic": "500+",
+      "name": "puracé",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "basura",
+      "name": "williams alarcón",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "exequiel zeballos",
+      "name": "ricardo darín",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sabrina rojas",
-      "traffic": "100+",
+      "name": "corriente del niño",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "club atlético de madrid",
+      "name": "basura",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "jeongyeon",
-      "traffic": "100+",
+      "name": "exequiel zeballos",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "volcan purace",
+      "name": "sabrina rojas",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "encuesta",
-      "traffic": "2000+",
+      "name": "club atlético de madrid",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "boca socios",
-      "traffic": "500+",
+      "name": "jeongyeon",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "all boys",
-      "traffic": "500+",
+      "name": "encuesta",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
