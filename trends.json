@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-10T11:30:16Z",
+  "updated": "2026-08-10T12:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jorge macri",
+      "name": "colombia",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "herencia",
-      "traffic": "100+",
+      "name": "diego maradona",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cartel",
-      "traffic": "200+",
+      "name": "cena de nominados",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "pity alvarez",
+      "name": "fidelina bariloche",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "diario chaco",
-      "traffic": "100+",
+      "name": "jorge macri",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "evangelio del dia",
+      "name": "herencia",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "datachaco",
-      "traffic": "100+",
+      "name": "cartel",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima mendoza",
-      "traffic": "100+",
+      "name": "pity alvarez",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "el territorio",
+      "name": "diario chaco",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pronostico cordoba",
+      "name": "evangelio del dia",
       "traffic": "100+",
       "rank": 10
     }
