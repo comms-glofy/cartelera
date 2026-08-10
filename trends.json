@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T18:51:50Z",
+  "updated": "2026-08-10T19:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "volcan purace",
+      "name": "exequiel zeballos",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "encuesta",
-      "traffic": "500+",
+      "name": "sabrina rojas",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "boca socios",
-      "traffic": "100+",
+      "name": "club atlético de madrid",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "all boys",
+      "name": "jeongyeon",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gimnasia jujuy - tristán suárez",
-      "traffic": "500+",
+      "name": "volcan purace",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "pampa del leoncito",
-      "traffic": "200+",
+      "name": "encuesta",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "gta vi",
-      "traffic": "200+",
+      "name": "boca socios",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "matías morla",
-      "traffic": "2000+",
+      "name": "all boys",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "marcos galperin",
-      "traffic": "1000+",
+      "name": "gimnasia jujuy - tristán suárez",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "dólar estadounidense",
-      "traffic": "5000+",
+      "name": "pampa del leoncito",
+      "traffic": "500+",
       "rank": 10
     }
   ]
