@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T22:32:55Z",
+  "updated": "2026-08-10T23:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "universidad nacional de la plata (unlp)",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "fuerzas armadas argentinas",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "corrientes",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "nafta",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "marcela pagano",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "colesterol",
       "traffic": "100+",
-      "rank": 1
+      "rank": 6
     },
     {
       "name": "asteroide",
       "traffic": "200+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "mirgor",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "banfield - belgrano",
-      "traffic": "10000+",
-      "rank": 4
+      "traffic": "20000+",
+      "rank": 9
     },
     {
       "name": "meteored",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "banco central de la república argentina",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "libertad fc - u. católica",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "santiago del moro",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "avenida brasil",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "jubilación en españa",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
