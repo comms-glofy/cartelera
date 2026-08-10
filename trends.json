@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-10T04:11:41Z",
+  "updated": "2026-08-10T04:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "progresar",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "precio",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "san diego fc",
+      "name": "america",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "america",
+      "name": "san diego fc",
       "traffic": "200+",
       "rank": 10
     }
