@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T04:30:17Z",
+  "updated": "2026-08-10T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "posiciones de chicago fire fc contra santos laguna",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
       "name": "la casa del dragon",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "américa - timbers",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "bacteria",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "america",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "san diego fc",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "house of the dragon",
+      "traffic": "500+",
       "rank": 10
     }
   ]
