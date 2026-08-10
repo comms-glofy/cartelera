@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T15:00:30Z",
+  "updated": "2026-08-10T15:30:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "robo",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
-    },
-    {
-      "name": "lunes 17 de agosto es feriado",
-      "traffic": "100+",
-      "rank": 2
     },
     {
       "name": "jinete",
       "traffic": "100+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "familia",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "cande molfese",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "river id",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "fernando cappi",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "dia de la fuerza aerea argentina",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "17 de agosto feriado",
-      "traffic": "1000+",
-      "rank": 9
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "fluminense football club",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "peabody",
+      "traffic": "100+",
       "rank": 10
     }
   ]
