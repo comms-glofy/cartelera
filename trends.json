@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T10:15:53Z",
+  "updated": "2026-08-10T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -25,22 +25,22 @@
     },
     {
       "name": "tiempo en mendoza",
-      "traffic": "500+",
+      "traffic": "100+",
       "rank": 5
-    },
-    {
-      "name": "tormenta",
-      "traffic": "500+",
-      "rank": 6
     },
     {
       "name": "clima salta",
       "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "tormenta",
+      "traffic": "500+",
       "rank": 7
     },
     {
       "name": "temperatura",
-      "traffic": "2000+",
+      "traffic": "500+",
       "rank": 8
     },
     {
