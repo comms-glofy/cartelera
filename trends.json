@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10T14:30:17Z",
+  "updated": "2026-08-10T14:54:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "celia maría cuccittini",
+      "name": "robo",
       "traffic": "200+",
       "rank": 1
     },
@@ -19,18 +19,18 @@
       "rank": 3
     },
     {
-      "name": "cande molfese",
-      "traffic": "1000+",
+      "name": "familia",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "river id",
+      "name": "cande molfese",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "dia de la fuerza aerea argentina",
-      "traffic": "200+",
+      "name": "river id",
+      "traffic": "1000+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "17 de agosto feriado",
-      "traffic": "1000+",
+      "name": "dia de la fuerza aerea argentina",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "fluminense football club",
-      "traffic": "200+",
+      "name": "17 de agosto feriado",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "peabody",
-      "traffic": "100+",
+      "name": "fluminense football club",
+      "traffic": "500+",
       "rank": 10
     }
   ]
