@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T18:00:24Z",
+  "updated": "2026-08-10T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia jujuy - tristán suárez",
-      "traffic": "200+",
+      "name": "encuesta",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "all boys",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "gimnasia jujuy - tristán suárez",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "pampa del leoncito",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "gta vi",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "matías morla",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "marcos galperin",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "dólar estadounidense",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "petróleo",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "boca vs recoleta",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "cooter davenport",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "fecha de cobro",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
