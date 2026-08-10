@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T21:30:14Z",
+  "updated": "2026-08-10T21:37:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "meteored",
-      "traffic": "2000+",
+      "name": "mirgor",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "banfield - belgrano",
-      "traffic": "200+",
+      "name": "meteored",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "banfield - belgrano",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "banco central de la república argentina",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "libertad fc - u. católica",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "santiago del moro",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "avenida brasil",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "jubilación en españa",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "neuss",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "política",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de gimnasia jujuy contra tristán suárez",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
