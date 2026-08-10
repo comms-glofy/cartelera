@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-10T09:30:23Z",
+  "updated": "2026-08-10T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "temperatura",
-      "traffic": "2000+",
+      "name": "clima cordoba",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima posadas",
+      "name": "temperatura cordoba",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima tucuman",
+      "name": "tiempo en mendoza",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mi anses cuando cobro",
-      "traffic": "200+",
+      "name": "tormenta",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "clima salta",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "temperatura",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "clima posadas",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "clima tucuman",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "progresar",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "anses",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "precio",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "volver al trabajo",
-      "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "américa - timbers",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "la casa del dragon",
+      "name": "mi anses cuando cobro",
       "traffic": "200+",
       "rank": 10
     }
