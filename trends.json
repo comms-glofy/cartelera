@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T15:30:32Z",
+  "updated": "2026-08-10T15:56:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "robo",
-      "traffic": "500+",
+      "name": "monito vargas",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jinete",
-      "traffic": "100+",
+      "name": "cooter davenport",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "familia",
-      "traffic": "200+",
+      "name": "juez",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "cande molfese",
-      "traffic": "1000+",
+      "name": "ángel correa",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "river id",
-      "traffic": "1000+",
+      "name": "ruta nacional 9",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "fernando cappi",
+      "name": "asociación trabajadores del estado",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "dia de la fuerza aerea argentina",
-      "traffic": "200+",
+      "name": "scott eastwood",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "17 de agosto feriado",
-      "traffic": "200+",
+      "name": "robo",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "fluminense football club",
-      "traffic": "500+",
+      "name": "gemini",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "peabody",
-      "traffic": "100+",
+      "name": "jinete",
+      "traffic": "200+",
       "rank": 10
     }
   ]
