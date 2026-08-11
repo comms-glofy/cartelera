@@ -1,31 +1,31 @@
 {
-  "updated": "2026-08-11T16:00:17Z",
+  "updated": "2026-08-11T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tormenta",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "deportivo recoleta",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "brian lanzelotta",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "incendio",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "milton giménez",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "milo j",
-      "traffic": "500+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "liam payne",
-      "traffic": "200+",
+      "name": "milo j",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "anabel fernández sagasti",
+      "name": "liam payne",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "entradas foo fighters argentina",
-      "traffic": "100+",
+      "name": "anabel fernández sagasti",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "stefano di carlo",
-      "traffic": "1000+",
+      "name": "entradas foo fighters argentina",
+      "traffic": "100+",
       "rank": 10
     }
   ]
