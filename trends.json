@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-11T20:30:15Z",
+  "updated": "2026-08-11T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lyon fc",
+      "name": "tasa",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "comedias románticas",
-      "traffic": "100+",
+      "name": "julian alvarez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "indec",
-      "traffic": "500+",
+      "name": "tormenta eléctrica",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "balvanera",
+      "name": "alejandro fantino",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "libertadores",
-      "traffic": "200+",
+      "name": "oscar félix gonzález",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "garcia basso",
+      "name": "tini stoessel",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "peter jackson",
+      "name": "lyon fc",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "mi argentina",
-      "traffic": "1000+",
+      "name": "comedias románticas",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "córdoba",
-      "traffic": "200+",
+      "name": "indec",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "kevin castaño",
-      "traffic": "500+",
+      "name": "balvanera",
+      "traffic": "100+",
       "rank": 10
     }
   ]
