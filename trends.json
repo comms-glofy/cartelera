@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-11T19:00:49Z",
+  "updated": "2026-08-11T19:09:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rafael jódar",
-      "traffic": "200+",
+      "name": "jugador",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "placa de nazca",
+      "name": "arthur fils",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "huelga general",
+      "name": "sturm - fenerbahçe",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "kitesurf",
-      "traffic": "100+",
+      "name": "rafael jódar",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "astrología china",
+      "name": "placa de nazca",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "australia",
-      "traffic": "200+",
+      "name": "huelga general",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "conmebol libertadores",
-      "traffic": "500+",
+      "name": "kitesurf",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "nieve",
-      "traffic": "1000+",
+      "name": "astrología china",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "carlos sainz jr.",
+      "name": "australia",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cotizacion dolar blue hoy",
-      "traffic": "200+",
+      "name": "conmebol libertadores",
+      "traffic": "500+",
       "rank": 10
     }
   ]
