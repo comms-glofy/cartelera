@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T02:30:14Z",
+  "updated": "2026-08-11T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -25,32 +25,32 @@
     },
     {
       "name": "telefe",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 5
-    },
-    {
-      "name": "penal correa river",
-      "traffic": "1000+",
-      "rank": 6
     },
     {
       "name": "svitolina",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "quiniela nocturna",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "audax italiano - ñublense",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "daniel hadad",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "solange abraham",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
