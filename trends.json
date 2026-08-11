@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-11T18:00:17Z",
+  "updated": "2026-08-11T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nieve",
-      "traffic": "200+",
+      "name": "astrología china",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "australia",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "conmebol libertadores",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "nieve",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "carlos sainz jr.",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "cotizacion dolar blue hoy",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "unilever",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "bodo",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "jake whisenant",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "descuento",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "luciano darderi",
+      "name": "bodo",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "polémica",
+      "name": "jake whisenant",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pitbull",
-      "traffic": "100+",
+      "name": "descuento",
+      "traffic": "200+",
       "rank": 10
     }
   ]
