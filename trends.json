@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-11T19:09:02Z",
+  "updated": "2026-08-11T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jugador",
-      "traffic": "100+",
+      "name": "kevin castaño",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "arthur fils",
+      "name": "club atlético tucumán",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sturm - fenerbahçe",
-      "traffic": "100+",
+      "name": "18 de agosto",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "rafael jódar",
+      "name": "jugador",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "placa de nazca",
-      "traffic": "200+",
+      "name": "arthur fils",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "huelga general",
+      "name": "sturm - fenerbahçe",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "kitesurf",
-      "traffic": "100+",
+      "name": "rafael jódar",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "astrología china",
+      "name": "placa de nazca",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "australia",
+      "name": "huelga general",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "conmebol libertadores",
-      "traffic": "500+",
+      "name": "kitesurf",
+      "traffic": "100+",
       "rank": 10
     }
   ]
