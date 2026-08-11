@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-11T00:00:15Z",
+  "updated": "2026-08-11T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "unión - central córdoba",
-      "traffic": "1000+",
+      "name": "solange abraham",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "iga świątek",
+      "name": "diana shnaider",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gaspi",
-      "traffic": "200+",
+      "name": "iphone 18 pro max",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "14 de agosto",
-      "traffic": "500+",
+      "name": "jodar",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "lucas blondel",
-      "traffic": "100+",
+      "name": "unión - central córdoba",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "universidad nacional de la plata (unlp)",
+      "name": "iga świątek",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "nafta",
-      "traffic": "500+",
+      "name": "gaspi",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "corrientes",
-      "traffic": "500+",
+      "name": "14 de agosto",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "fuerzas armadas argentinas",
-      "traffic": "500+",
+      "name": "lucas blondel",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "colesterol",
-      "traffic": "100+",
+      "name": "universidad nacional de la plata (unlp)",
+      "traffic": "200+",
       "rank": 10
     }
   ]
