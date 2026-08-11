@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-11T16:30:15Z",
+  "updated": "2026-08-11T16:57:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tormenta",
-      "traffic": "200+",
+      "name": "luciano darderi",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "deportivo recoleta",
-      "traffic": "500+",
+      "name": "polémica",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "brian lanzelotta",
+      "name": "pitbull",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "incendio",
-      "traffic": "100+",
+      "name": "tormenta",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "milton giménez",
-      "traffic": "200+",
+      "name": "deportivo recoleta",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "brad pitt",
-      "traffic": "200+",
+      "name": "brian lanzelotta",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "incendio",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "milton giménez",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "brad pitt",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "milo j",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "liam payne",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "anabel fernández sagasti",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "entradas foo fighters argentina",
-      "traffic": "100+",
       "rank": 10
     }
   ]
