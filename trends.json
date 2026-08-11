@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-10T23:30:53Z",
+  "updated": "2026-08-11T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "14 de agosto",
-      "traffic": "500+",
+      "name": "unión - central córdoba",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "lucas blondel",
-      "traffic": "100+",
+      "name": "iga świątek",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "universidad nacional de la plata (unlp)",
+      "name": "gaspi",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "nafta",
-      "traffic": "200+",
+      "name": "14 de agosto",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "fuerzas armadas argentinas",
-      "traffic": "500+",
+      "name": "lucas blondel",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "corrientes",
+      "name": "universidad nacional de la plata (unlp)",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "marcela pagano",
-      "traffic": "1000+",
+      "name": "nafta",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "colesterol",
-      "traffic": "100+",
+      "name": "corrientes",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "asteroide",
+      "name": "fuerzas armadas argentinas",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "mirgor",
-      "traffic": "200+",
+      "name": "colesterol",
+      "traffic": "100+",
       "rank": 10
     }
   ]
