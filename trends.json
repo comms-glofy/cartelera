@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T10:30:15Z",
+  "updated": "2026-08-11T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "palermo - juventus",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "clima salta",
+      "name": "misionesonline",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "pronostico posadas",
+      "name": "clima salta",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "quien se fue de gran hermano",
-      "traffic": "200+",
+      "name": "pronostico posadas",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "damián betular",
-      "traffic": "500+",
+      "name": "copa libertadores",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "yanina zilli",
+      "name": "quien se fue de gran hermano",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "luciana aymar",
-      "traffic": "100+",
+      "name": "damián betular",
+      "traffic": "500+",
       "rank": 10
     }
   ]
