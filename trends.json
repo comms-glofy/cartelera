@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-11T23:11:00Z",
+  "updated": "2026-08-11T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca ahora",
-      "traffic": "200+",
+      "name": "talleres - lanús",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "francisco comesaña",
+      "name": "columbus crew - pumas",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "montero",
-      "traffic": "200+",
+      "name": "el cronista",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "futbol libre",
-      "traffic": "500+",
+      "name": "copa libertadores 2026",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "boca",
-      "traffic": "100000+",
+      "name": "ascacibar",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "futbol para todos",
-      "traffic": "5000+",
+      "name": "ben shelton",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pelota",
+      "name": "wilfrido báez",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "conmebol sudamericana",
-      "traffic": "5000+",
+      "name": "francisco comesaña",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "kaia gerber",
+      "name": "montero",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "martín redrado",
-      "traffic": "100+",
+      "name": "futbol libre",
+      "traffic": "500+",
       "rank": 10
     }
   ]
