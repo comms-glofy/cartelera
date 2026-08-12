@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T22:30:14Z",
+  "updated": "2026-08-12T22:36:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "karina milei",
-      "traffic": "100+",
+      "name": "mauricio macri",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "rafael jódar",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "palmeiras",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ley",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "marcin budkowski",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "calor",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "edificio",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "matías viña",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "juan pablo varsky",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "cuti romero",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "simón madrussan",
-      "traffic": "200+",
+      "name": "river vs santa fe",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
