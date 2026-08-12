@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-12T12:30:15Z",
+  "updated": "2026-08-12T13:00:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "crucigrama la nacion",
+      "name": "nicole neumann",
       "traffic": "100+",
       "rank": 1
     },
     {
       "name": "acf fiorentina",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "crucigrama la nacion",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "diario textual",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima salta",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "eclipse",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "servicio meteorológico nacional",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "pronostico posadas",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cricket",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "dolphin",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "volcano",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "meteor",
+      "name": "dolphin",
       "traffic": "200+",
       "rank": 10
     }
