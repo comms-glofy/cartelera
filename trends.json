@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T02:00:15Z",
+  "updated": "2026-08-12T02:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telefe",
-      "traffic": "500+",
+      "name": "zampedri",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "joaquin correa",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "telefe en vivo",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "telefe",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "julian alvarez inter",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "charlotte fc - pachuca",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "accidente altas cumbres oscar gonzalez",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "jenna ortega",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "sandra pettovello",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "solana sierra",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "fever - liberty",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "elena rybakina",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "border collie",
-      "traffic": "200+",
+      "name": "sandra pettovello",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
