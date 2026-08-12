@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-12T20:31:27Z",
+  "updated": "2026-08-12T20:38:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pag",
-      "traffic": "100+",
+      "name": "jugador",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "metrotel argentina",
+      "name": "gobernador",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alvarado",
-      "traffic": "200+",
+      "name": "pag",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sobreendeudamiento",
+      "name": "metrotel argentina",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "napoli - aris",
+      "name": "alvarado",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "arsenal vs",
-      "traffic": "200+",
+      "name": "sobreendeudamiento",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "samsung galaxy s26",
-      "traffic": "100+",
+      "name": "napoli - aris",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "fórmula 1",
-      "traffic": "500+",
+      "name": "arsenal vs",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "maghnes akliouche",
-      "traffic": "500+",
+      "name": "samsung galaxy s26",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "arsenal",
+      "name": "fórmula 1",
       "traffic": "500+",
       "rank": 10
     }
