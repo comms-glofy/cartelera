@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-12T21:00:16Z",
+  "updated": "2026-08-12T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peugeot partner rapid",
-      "traffic": "100+",
+      "name": "tigre - torque",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "wyatt russell",
-      "traffic": "200+",
+      "name": "palmeiras - cerro",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "la plata",
-      "traffic": "200+",
+      "name": "platense - coquimbo unido",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "river santa fe",
-      "traffic": "10000+",
+      "name": "bragantino - atlético mineiro",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "alberto ii de mónaco",
+      "name": "aeropuerto",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "jugador",
+      "name": "el polaco",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gobernador",
-      "traffic": "100+",
+      "name": "unión tranviarios automotor",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "pag",
-      "traffic": "200+",
+      "name": "sedán",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "metrotel argentina",
-      "traffic": "200+",
+      "name": "peugeot partner rapid",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "alvarado",
+      "name": "la plata",
       "traffic": "200+",
       "rank": 10
     }
