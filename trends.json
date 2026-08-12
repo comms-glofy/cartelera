@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T19:37:16Z",
+  "updated": "2026-08-12T20:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "napoli - aris",
-      "traffic": "200+",
+      "name": "alvarado",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "kvaratskhelia",
-      "traffic": "200+",
+      "name": "sobreendeudamiento",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "napoli - aris",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "samsung galaxy s26",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "arsenal vs",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "fórmula 1",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "arsenal",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "paraná",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "agustín garcía basso",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "manchester united",
-      "traffic": "200+",
+      "name": "brian madjo",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "inteligencia",
-      "traffic": "500+",
+      "name": "agustín garcía basso",
+      "traffic": "200+",
       "rank": 10
     }
   ]
