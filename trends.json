@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T21:30:15Z",
+  "updated": "2026-08-12T21:40:46Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tigre - torque",
-      "traffic": "1000+",
+      "name": "atlético tucumán - independiente",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "palmeiras - cerro",
-      "traffic": "1000+",
+      "name": "premio",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "olimpo",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "tigre - torque",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "platense - coquimbo unido",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "palmeiras - cerro",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "bragantino - atlético mineiro",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "aeropuerto",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "el polaco",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "unión tranviarios automotor",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "sedán",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "peugeot partner rapid",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "la plata",
-      "traffic": "200+",
       "rank": 10
     }
   ]
