@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-12T12:00:14Z",
+  "updated": "2026-08-12T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "acf fiorentina",
+      "name": "crucigrama la nacion",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "crucigrama la nacion",
+      "name": "acf fiorentina",
       "traffic": "100+",
       "rank": 2
     },
@@ -25,7 +25,7 @@
     },
     {
       "name": "eclipse",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "dolphin",
+      "name": "cricket",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "volcano",
+      "name": "dolphin",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "meteor",
+      "name": "volcano",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tide",
+      "name": "meteor",
       "traffic": "200+",
       "rank": 10
     }
