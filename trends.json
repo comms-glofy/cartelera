@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T16:30:17Z",
+  "updated": "2026-08-12T17:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "garcia basso",
-      "traffic": "500+",
+      "name": "hay paro nacional",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "embargo",
-      "traffic": "500+",
+      "name": "microplástico",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "psg",
+      "name": "garcia basso",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "derrumbe",
+      "name": "psg",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "supercopa de europa",
-      "traffic": "100+",
+      "name": "embargo",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "jubilación",
-      "traffic": "1000+",
+      "name": "derrumbe",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "ronaldinho",
+      "name": "supercopa de europa",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "quinielas de hoy",
-      "traffic": "2000+",
+      "name": "jubilación",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "everton - newcastle",
-      "traffic": "1000+",
+      "name": "ronaldinho",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "hugo moyano",
-      "traffic": "500+",
+      "name": "quinielas de hoy",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
