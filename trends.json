@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T17:30:15Z",
+  "updated": "2026-08-12T18:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "predicción",
-      "traffic": "100+",
+      "name": "manchester united - leeds",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "hay paro nacional",
+      "name": "luciano castro",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "microplástico",
-      "traffic": "200+",
+      "name": "predicción",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "garcia basso",
+      "name": "aston villa",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "hay paro nacional",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "microplástico",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "garcia basso",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "psg",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "embargo",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "derrumbe",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "supercopa de europa",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "jubilación",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "ronaldinho",
-      "traffic": "200+",
       "rank": 10
     }
   ]
