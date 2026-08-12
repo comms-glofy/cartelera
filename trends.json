@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T23:00:24Z",
+  "updated": "2026-08-12T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami - león",
-      "traffic": "2000+",
+      "name": "pratto",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "uruguay",
-      "traffic": "200+",
+      "name": "brandon nakashima",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rafael jódar",
-      "traffic": "200+",
+      "name": "paritarias uom",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mauricio macri",
-      "traffic": "200+",
+      "name": "roger federer",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "palmeiras",
-      "traffic": "500+",
+      "name": "inter miami - león",
+      "traffic": "10000+",
       "rank": 5
     },
     {
-      "name": "ley",
+      "name": "uruguay",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "marcin budkowski",
-      "traffic": "200+",
+      "name": "rafael jódar",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "calor",
+      "name": "mauricio macri",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "matías viña",
-      "traffic": "500+",
+      "name": "palmeiras",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "juan pablo varsky",
-      "traffic": "200+",
+      "name": "ley",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
