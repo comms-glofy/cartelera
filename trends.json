@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T18:00:18Z",
+  "updated": "2026-08-12T18:27:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester united - leeds",
-      "traffic": "1000+",
+      "name": "psg - aston villa",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "luciano castro",
-      "traffic": "200+",
+      "name": "intendente de avellaneda",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "terremotos",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "enjambre",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "manchester united - leeds",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "luciano castro",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "predicción",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
-      "name": "aston villa",
-      "traffic": "500+",
-      "rank": 4
+      "name": "nasa",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "hay paro nacional",
       "traffic": "500+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "microplástico",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "garcia basso",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "psg",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "embargo",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "derrumbe",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
