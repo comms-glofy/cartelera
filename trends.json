@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T17:00:23Z",
+  "updated": "2026-08-12T17:28:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hay paro nacional",
-      "traffic": "200+",
+      "name": "predicción",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "microplástico",
+      "name": "hay paro nacional",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "garcia basso",
-      "traffic": "500+",
+      "name": "microplástico",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "psg",
+      "name": "garcia basso",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "embargo",
-      "traffic": "500+",
+      "name": "psg",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "derrumbe",
-      "traffic": "500+",
+      "name": "embargo",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "supercopa de europa",
-      "traffic": "100+",
+      "name": "derrumbe",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "jubilación",
-      "traffic": "1000+",
+      "name": "supercopa de europa",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ronaldinho",
-      "traffic": "100+",
+      "name": "jubilación",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "quinielas de hoy",
-      "traffic": "2000+",
+      "name": "ronaldinho",
+      "traffic": "200+",
       "rank": 10
     }
   ]
