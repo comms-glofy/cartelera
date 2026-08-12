@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T08:30:21Z",
+  "updated": "2026-08-12T09:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cricket",
-      "traffic": "1000+",
+      "name": "pronostico posadas",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "hola",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "dolphin",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "volcano",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "meteor",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tide",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "baltasar rodríguez",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tigres - whitecaps",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "joaquin correa",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "telefe en vivo",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "telefe",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
