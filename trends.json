@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T00:06:08Z",
+  "updated": "2026-08-12T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bolívar - são paulo",
-      "traffic": "200+",
+      "name": "leandro paredes",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "bolivar",
+      "name": "elena rybakina",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "thiago silva",
-      "traffic": "100+",
+      "name": "border collie",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "sao paulo",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "bolívar - são paulo",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "bolivar",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "river vs santa fe",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "copa argentina",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "quiniela de tucuman",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "dólar",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "estudiantes - u. católica",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "lluvia",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "celia maría cuccittini",
+      "name": "dólar",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "merentiel",
-      "traffic": "200+",
+      "name": "quiniela de tucuman",
+      "traffic": "100+",
       "rank": 10
     }
   ]
