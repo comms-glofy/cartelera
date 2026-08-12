@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T22:00:23Z",
+  "updated": "2026-08-12T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuti romero",
-      "traffic": "1000+",
+      "name": "karina milei",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "simón madrussan",
-      "traffic": "200+",
+      "name": "palmeiras",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "avenida brasil",
+      "name": "ley",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "atlético tucumán - independiente",
-      "traffic": "2000+",
+      "name": "marcin budkowski",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "premio",
+      "name": "calor",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "olimpo",
-      "traffic": "100+",
+      "name": "edificio",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "tigre - torque",
-      "traffic": "5000+",
+      "name": "matías viña",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "platense - coquimbo unido",
-      "traffic": "5000+",
+      "name": "juan pablo varsky",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "palmeiras - cerro",
-      "traffic": "2000+",
+      "name": "cuti romero",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "bragantino - atlético mineiro",
-      "traffic": "500+",
+      "name": "simón madrussan",
+      "traffic": "200+",
       "rank": 10
     }
   ]
