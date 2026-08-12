@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T14:22:49Z",
+  "updated": "2026-08-12T14:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "unilever",
-      "traffic": "200+",
+      "name": "paro docente",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "mark zuckerberg",
+      "name": "unilever",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "mark zuckerberg",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "nicole neumann",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "acf fiorentina",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "crucigrama la nacion",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "diario textual",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima salta",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "eclipse",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico posadas",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "cricket",
-      "traffic": "200+",
+      "name": "servicio meteorológico nacional",
+      "traffic": "100+",
       "rank": 10
     }
   ]
