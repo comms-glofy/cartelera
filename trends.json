@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-12T13:00:09Z",
+  "updated": "2026-08-12T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mark zuckerberg",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "nicole neumann",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "acf fiorentina",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "crucigrama la nacion",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "diario textual",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima salta",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "eclipse",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "servicio meteorológico nacional",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pronostico posadas",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "cricket",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dolphin",
+      "name": "cricket",
       "traffic": "200+",
       "rank": 10
     }
