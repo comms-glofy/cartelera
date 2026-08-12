@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T20:00:17Z",
+  "updated": "2026-08-12T20:31:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alvarado",
+      "name": "pag",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sobreendeudamiento",
+      "name": "metrotel argentina",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "napoli - aris",
+      "name": "alvarado",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "samsung galaxy s26",
+      "name": "sobreendeudamiento",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "arsenal vs",
-      "traffic": "100+",
+      "name": "napoli - aris",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fórmula 1",
+      "name": "arsenal vs",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "arsenal",
-      "traffic": "200+",
+      "name": "samsung galaxy s26",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "paraná",
-      "traffic": "100+",
+      "name": "fórmula 1",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "brian madjo",
-      "traffic": "2000+",
+      "name": "maghnes akliouche",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "agustín garcía basso",
-      "traffic": "200+",
+      "name": "arsenal",
+      "traffic": "500+",
       "rank": 10
     }
   ]
