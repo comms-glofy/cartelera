@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T19:30:14Z",
+  "updated": "2026-08-12T19:37:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fórmula 1",
+      "name": "napoli - aris",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "arsenal",
+      "name": "kvaratskhelia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "paraná",
+      "name": "samsung galaxy s26",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "agustín garcía basso",
-      "traffic": "1000+",
+      "name": "arsenal vs",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "manchester united",
+      "name": "fórmula 1",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "inteligencia",
+      "name": "arsenal",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "moria casán",
-      "traffic": "200+",
+      "name": "paraná",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "psg - aston villa",
-      "traffic": "20000+",
+      "name": "agustín garcía basso",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "deportivo - real madrid",
-      "traffic": "10000+",
+      "name": "manchester united",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "intendente de avellaneda",
-      "traffic": "200+",
+      "name": "inteligencia",
+      "traffic": "500+",
       "rank": 10
     }
   ]
