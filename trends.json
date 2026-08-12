@@ -1,46 +1,46 @@
 {
-  "updated": "2026-08-12T01:00:18Z",
+  "updated": "2026-08-12T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jenna ortega",
-      "traffic": "100+",
+      "name": "quiniela nocturna",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "quiniela hoy",
-      "traffic": "500+",
+      "name": "charlotte fc - pachuca",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sandra pettovello",
-      "traffic": "200+",
+      "name": "accidente altas cumbres oscar gonzalez",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "jenna ortega",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "sandra pettovello",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "solana sierra",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "talleres hoy",
-      "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "fever - liberty",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "leandro paredes",
-      "traffic": "2000+",
       "rank": 7
     },
     {
       "name": "elena rybakina",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 8
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "sao paulo",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 10
     }
   ]
