@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T05:00:17Z",
+  "updated": "2026-08-12T05:12:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "telefe",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
       "name": "julian alvarez inter",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "charlotte fc - pachuca",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "accidente altas cumbres oscar gonzalez",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "jenna ortega",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "sandra pettovello",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "solana sierra",
+      "traffic": "500+",
       "rank": 10
     }
   ]
