@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T00:00:14Z",
+  "updated": "2026-08-12T00:06:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "bolívar - são paulo",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "bolivar",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "thiago silva",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "copa argentina",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "quiniela de tucuman",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "dólar",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "estudiantes - u. católica",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "lluvia",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 8
     },
     {
       "name": "celia maría cuccittini",
       "traffic": "500+",
-      "rank": 2
+      "rank": 9
     },
     {
       "name": "merentiel",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "talleres - lanús",
-      "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "columbus crew - pumas",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "el cronista",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "santiago ascacibar",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "ben shelton",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "wilfrido báez",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "boca ahora",
-      "traffic": "500+",
       "rank": 10
     }
   ]
