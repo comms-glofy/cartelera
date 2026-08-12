@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-12T21:40:46Z",
+  "updated": "2026-08-12T22:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético tucumán - independiente",
-      "traffic": "2000+",
+      "name": "cuti romero",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "premio",
+      "name": "simón madrussan",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "avenida brasil",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "atlético tucumán - independiente",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "premio",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "olimpo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "tigre - torque",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "platense - coquimbo unido",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "palmeiras - cerro",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "bragantino - atlético mineiro",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "aeropuerto",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "el polaco",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "unión tranviarios automotor",
+      "name": "bragantino - atlético mineiro",
       "traffic": "500+",
       "rank": 10
     }
