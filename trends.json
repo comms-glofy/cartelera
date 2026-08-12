@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T15:00:19Z",
+  "updated": "2026-08-12T15:28:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ritchie blackmore",
-      "traffic": "200+",
+      "name": "playstation plus extra",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "proyecto de ley",
-      "traffic": "100+",
+      "name": "primera división",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "federico gattoni",
-      "traffic": "100+",
+      "name": "depósito a plazo fijo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "paro docente",
-      "traffic": "2000+",
+      "name": "ritchie blackmore",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "unilever",
+      "name": "proyecto de ley",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "mark zuckerberg",
-      "traffic": "200+",
+      "name": "federico gattoni",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "nicole neumann",
-      "traffic": "100+",
+      "name": "paro docente",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "dia del hijo del medio",
-      "traffic": "500+",
+      "name": "unilever",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "acf fiorentina",
-      "traffic": "500+",
+      "name": "carta de messi",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "crucigrama la nacion",
-      "traffic": "200+",
+      "name": "mark zuckerberg",
+      "traffic": "500+",
       "rank": 10
     }
   ]
