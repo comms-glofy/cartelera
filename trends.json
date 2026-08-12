@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T05:12:49Z",
+  "updated": "2026-08-12T05:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cricket",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "meteor",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "tide",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "baltasar rodríguez",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "tigres - whitecaps",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "joaquin correa",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "telefe en vivo",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "julian alvarez inter",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "breeze",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "charlotte fc - pachuca",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "accidente altas cumbres oscar gonzalez",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "jenna ortega",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "sandra pettovello",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "solana sierra",
-      "traffic": "500+",
       "rank": 10
     }
   ]
