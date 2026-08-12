@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T05:30:16Z",
+  "updated": "2026-08-12T06:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,47 +9,47 @@
       "rank": 1
     },
     {
-      "name": "meteor",
+      "name": "volcano",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tide",
+      "name": "meteor",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "baltasar rodríguez",
+      "name": "tide",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "baltasar rodríguez",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "tigres - whitecaps",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "joaquin correa",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "telefe en vivo",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "julian alvarez inter",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "breeze",
-      "traffic": "100+",
+      "name": "telefe",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "charlotte fc - pachuca",
+      "name": "julian alvarez inter",
       "traffic": "100+",
       "rank": 10
     }
