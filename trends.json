@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T09:30:12Z",
+  "updated": "2026-08-12T09:39:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dolphin",
-      "traffic": "200+",
+      "name": "servicio meteorológico nacional",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "volcano",
-      "traffic": "200+",
+      "name": "pronostico posadas",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "meteor",
+      "name": "cricket",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tide",
+      "name": "dolphin",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "baltasar rodríguez",
-      "traffic": "100+",
+      "name": "volcano",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tigres - whitecaps",
+      "name": "meteor",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "joaquin correa",
-      "traffic": "1000+",
+      "name": "tide",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "telefe en vivo",
-      "traffic": "2000+",
+      "name": "baltasar rodríguez",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "telefe",
-      "traffic": "1000+",
+      "name": "tigres - whitecaps",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "marco trungelliti",
-      "traffic": "200+",
+      "name": "joaquin correa",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
