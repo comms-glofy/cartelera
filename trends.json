@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-12T16:00:15Z",
+  "updated": "2026-08-12T16:26:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quinielas de hoy",
-      "traffic": "2000+",
+      "name": "garcia basso",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "everton - newcastle",
+      "name": "embargo",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "hugo moyano",
+      "name": "psg",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "andy kusnetzoff",
-      "traffic": "200+",
+      "name": "derrumbe",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "inflacion julio 2026",
-      "traffic": "500+",
+      "name": "supercopa de europa",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "playstation plus extra",
-      "traffic": "100+",
+      "name": "jubilación",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "primera división",
-      "traffic": "2000+",
+      "name": "ronaldinho",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "depósito a plazo fijo",
-      "traffic": "200+",
+      "name": "quinielas de hoy",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "ritchie blackmore",
-      "traffic": "500+",
+      "name": "everton - newcastle",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "proyecto de ley",
-      "traffic": "200+",
+      "name": "hugo moyano",
+      "traffic": "500+",
       "rank": 10
     }
   ]
