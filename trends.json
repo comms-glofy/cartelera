@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T21:40:35Z",
+  "updated": "2026-08-13T22:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "avenida brasil",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "viernes 14 de agosto es feriado",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "rosario central vs corinthians",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "mirassol - ldu quito",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "mariano navone",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "mirassol",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "vasco da gama - olimpia",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "santos - macará",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "wall street",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "villa carlos paz",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "román andrés burruchaga",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "méxico",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "14 de agosto",
-      "traffic": "500+",
       "rank": 10
     }
   ]
