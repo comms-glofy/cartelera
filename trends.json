@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T22:36:37Z",
+  "updated": "2026-08-13T23:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "central vs corinthians",
-      "traffic": "1000+",
+      "name": "balón de oro 2026",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tirante",
+      "name": "iga świątek",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "santos",
-      "traffic": "500+",
+      "name": "zaira nara",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "entre ríos",
-      "traffic": "200+",
+      "name": "quien juega hoy",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "sofia clerici",
+      "name": "vouchers educativos",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "golf",
-      "traffic": "100+",
+      "name": "santos",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "entre ríos",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "sofia clerici",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "golf",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "paris jackson",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "avenida brasil",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "mirassol - ldu quito",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "mariano navone",
-      "traffic": "500+",
       "rank": 10
     }
   ]
