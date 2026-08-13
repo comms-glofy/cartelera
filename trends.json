@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T05:00:14Z",
+  "updated": "2026-08-13T05:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,47 +9,47 @@
       "rank": 1
     },
     {
-      "name": "elena rybakina",
+      "name": "seattle sounders - guadalajara",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "seattle sounders - guadalajara",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "nicolás kreplak",
       "traffic": "100+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "lafc - querétaro",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "coco gauff",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "toluca - fc dallas",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "uom paritarias",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "edith hermida",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "telefe en vivo",
       "traffic": "1000+",
       "rank": 10
     }
