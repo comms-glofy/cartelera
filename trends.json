@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-13T12:00:17Z",
+  "updated": "2026-08-13T12:07:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "adriana baravalle",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "marcelo gallardo",
+      "name": "uom",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "el tiempo en rosario",
-      "traffic": "200+",
+      "name": "marcelo gallardo",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "clima posadas",
-      "traffic": "500+",
+      "name": "el tiempo en rosario",
+      "traffic": "200+",
       "rank": 10
     }
   ]
