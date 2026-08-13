@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-13T08:49:38Z",
+  "updated": "2026-08-13T09:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "federico sturzenegger",
+      "name": "clima posadas",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "quiniela nocturna",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "federico sturzenegger",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "quini",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "unión obrera metalúrgica",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "google",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "chris brown",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "los angeles fc",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "elena rybakina",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "seattle sounders - guadalajara",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "nicolás kreplak",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "lafc - querétaro",
+      "name": "seattle sounders - guadalajara",
       "traffic": "200+",
       "rank": 10
     }
