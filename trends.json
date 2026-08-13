@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T09:30:14Z",
+  "updated": "2026-08-13T10:00:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "radio mitre en vivo",
-      "traffic": "100+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "marcelo gallardo",
-      "traffic": "100+",
+      "name": "tiempo en rosario",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima posadas",
+      "name": "marcelo gallardo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "federico sturzenegger",
+      "name": "clima posadas",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "quini",
-      "traffic": "1000+",
+      "name": "quiniela nocturna",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "unión obrera metalúrgica",
-      "traffic": "500+",
+      "name": "chile",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "google",
+      "name": "federico sturzenegger",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "chris brown",
-      "traffic": "100+",
+      "name": "quini",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "los angeles fc",
-      "traffic": "100+",
+      "name": "unión obrera metalúrgica",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "elena rybakina",
-      "traffic": "500+",
+      "name": "google",
+      "traffic": "200+",
       "rank": 10
     }
   ]
