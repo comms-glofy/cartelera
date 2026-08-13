@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T02:00:14Z",
+  "updated": "2026-08-13T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ritchie blackmore deep purple",
-      "traffic": "2000+",
+      "name": "svitolina",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "gustavo quinteros",
-      "traffic": "200+",
+      "name": "edith hermida",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "cipolletti",
+      "name": "romaña",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "shelton",
-      "traffic": "200+",
+      "name": "ritchie blackmore deep purple",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "elina svitólina",
+      "name": "gustavo quinteros",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "learner tien",
-      "traffic": "100+",
+      "name": "cipolletti",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "flamengo vs",
-      "traffic": "500+",
+      "name": "elina svitólina",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ben shelton",
-      "traffic": "200+",
+      "name": "learner tien",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "inter miami cf",
-      "traffic": "200+",
+      "name": "infiernorojo",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "terremoto sismo",
-      "traffic": "200+",
+      "name": "ben shelton",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
