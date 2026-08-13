@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T15:00:15Z",
+  "updated": "2026-08-13T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "huelga",
+      "name": "inflación",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "quinielas de hoy",
-      "traffic": "2000+",
+      "name": "huelga",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "islas kuriles",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "quinielas de hoy",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "luzu",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "guillermo barros schelotto",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "luzu tv",
-      "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "reforestación",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "adriana baravalle",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "mauricio benítez",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "13 de agosto",
+      "name": "adriana baravalle",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "dia del zurdo",
-      "traffic": "2000+",
+      "name": "mauricio benítez",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "diario chaco",
-      "traffic": "100+",
+      "name": "13 de agosto",
+      "traffic": "500+",
       "rank": 10
     }
   ]
