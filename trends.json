@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T20:42:18Z",
+  "updated": "2026-08-13T21:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,18 +14,18 @@
       "rank": 2
     },
     {
-      "name": "rangers fc",
-      "traffic": "100+",
+      "name": "gala de nominación",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "apophis asteroide",
+      "name": "rangers fc",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gala de nominación",
-      "traffic": "1000+",
+      "name": "apophis asteroide",
+      "traffic": "100+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "thiago agustín tirante",
+      "name": "empleado",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "empleado",
+      "name": "club de gimnasia y esgrima la plata",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "club de gimnasia y esgrima la plata",
-      "traffic": "500+",
+      "name": "homicidio",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "homicidio",
-      "traffic": "200+",
+      "name": "paritarias uom",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
