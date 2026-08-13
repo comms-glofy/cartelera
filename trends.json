@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T21:30:15Z",
+  "updated": "2026-08-13T21:40:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos - macará",
-      "traffic": "200+",
+      "name": "mirassol - ldu quito",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "vasco da gama - olimpia",
+      "name": "mariano navone",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "wall street",
+      "name": "mirassol",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "román andrés burruchaga",
-      "traffic": "100+",
+      "name": "vasco da gama - olimpia",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "santos - macará",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "wall street",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "villa carlos paz",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "méxico",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "14 de agosto",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "benfica vs",
+      "name": "román andrés burruchaga",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "moreno",
-      "traffic": "500+",
+      "name": "méxico",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "gala de nominación",
-      "traffic": "200+",
+      "name": "14 de agosto",
+      "traffic": "500+",
       "rank": 10
     }
   ]
