@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T10:00:11Z",
+  "updated": "2026-08-13T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "diario chaco",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tiempo en rosario",
+      "name": "weather",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marcelo gallardo",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 3
     },
     {
-      "name": "clima posadas",
+      "name": "tiempo en rosario",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "quiniela nocturna",
-      "traffic": "2000+",
+      "name": "marcelo gallardo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "chile",
-      "traffic": "100+",
+      "name": "clima posadas",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "federico sturzenegger",
+      "name": "chile",
       "traffic": "200+",
       "rank": 7
     },
     {
+      "name": "federico sturzenegger",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "quini",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "unión obrera metalúrgica",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "google",
-      "traffic": "200+",
       "rank": 10
     }
   ]
