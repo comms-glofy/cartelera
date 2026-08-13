@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T17:30:15Z",
+  "updated": "2026-08-13T17:54:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "conde de wessex",
-      "traffic": "100+",
+      "name": "prichard colón",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "edificio",
-      "traffic": "1000+",
+      "name": "jeep avenger",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "wilfrido báez",
+      "name": "conde de wessex",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "festividad",
-      "traffic": "200+",
+      "name": "wilfrido báez",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "etna",
-      "traffic": "200+",
+      "name": "edificio",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "jessie cave",
+      "name": "festividad",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "lindsay clancy",
-      "traffic": "100+",
+      "name": "etna",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "estados unidos",
+      "name": "jessie cave",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "veronica castro",
-      "traffic": "200+",
+      "name": "lindsay clancy",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "prichard colon",
-      "traffic": "500+",
+      "name": "estados unidos",
+      "traffic": "200+",
       "rank": 10
     }
   ]
