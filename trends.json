@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T03:00:19Z",
+  "updated": "2026-08-13T03:30:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marco trungelliti",
-      "traffic": "100+",
+      "name": "elena rybakina",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "toluca - fc dallas",
+      "name": "seattle sounders - guadalajara",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "uom paritarias",
-      "traffic": "200+",
+      "name": "lafc - querétaro",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "svitolina",
-      "traffic": "500+",
+      "name": "coco gauff",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "edith hermida",
-      "traffic": "1000+",
+      "name": "marco trungelliti",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ritchie blackmore deep purple",
-      "traffic": "2000+",
+      "name": "toluca - fc dallas",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gustavo quinteros",
+      "name": "uom paritarias",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cipolletti",
-      "traffic": "200+",
+      "name": "edith hermida",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "infiernorojo",
-      "traffic": "100+",
+      "name": "ritchie blackmore deep purple",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "ben shelton",
-      "traffic": "1000+",
+      "name": "gustavo quinteros",
+      "traffic": "500+",
       "rank": 10
     }
   ]
