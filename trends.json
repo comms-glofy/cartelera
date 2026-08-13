@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T03:30:11Z",
+  "updated": "2026-08-13T04:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "lafc - querétaro",
+      "name": "nicolás kreplak",
       "traffic": "100+",
       "rank": 3
     },
     {
       "name": "coco gauff",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "lafc - querétaro",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "toluca - fc dallas",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "uom paritarias",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "edith hermida",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ritchie blackmore deep purple",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "gustavo quinteros",
-      "traffic": "500+",
       "rank": 10
     }
   ]
