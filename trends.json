@@ -1,25 +1,25 @@
 {
-  "updated": "2026-08-13T20:30:15Z",
+  "updated": "2026-08-13T20:42:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "benfica vs",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "moreno",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "rangers fc",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "apophis asteroide",
-      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "portaviones",
+      "name": "apophis asteroide",
       "traffic": "100+",
       "rank": 4
     },
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "1000+",
+      "name": "portaviones",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "empleado",
+      "name": "thiago agustín tirante",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "club de gimnasia y esgrima la plata",
-      "traffic": "200+",
+      "name": "empleado",
+      "traffic": "500+",
       "rank": 8
+    },
+    {
+      "name": "club de gimnasia y esgrima la plata",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "homicidio",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "paritarias uom",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
