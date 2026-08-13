@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T20:00:16Z",
+  "updated": "2026-08-13T20:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "homicidio",
+      "name": "moreno",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "empleado",
-      "traffic": "200+",
+      "name": "rangers fc",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "apophis asteroide",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "portaviones",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "gala de nominación",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "thiago agustín tirante",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "empleado",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "club de gimnasia y esgrima la plata",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "paritarias uom",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "terrell williams",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "nicolás repetto",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "dc studios",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "nadia podoroska",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "diego monroig",
+      "name": "homicidio",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cotización dólar hoy",
-      "traffic": "200+",
+      "name": "paritarias uom",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
