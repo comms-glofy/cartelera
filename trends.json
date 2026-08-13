@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T12:30:16Z",
+  "updated": "2026-08-13T13:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "adriana baravalle",
-      "traffic": "200+",
+      "name": "reforestación",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mauricio benítez",
+      "name": "adriana baravalle",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "13 de agosto",
+      "name": "mauricio benítez",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "dia del zurdo",
-      "traffic": "500+",
+      "name": "13 de agosto",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "dia del zurdo",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "diario chaco",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima",
       "traffic": "100000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "marcelo gallardo",
-      "traffic": "1000+",
-      "rank": 8
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "el tiempo en rosario",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima posadas",
-      "traffic": "500+",
       "rank": 10
     }
   ]
