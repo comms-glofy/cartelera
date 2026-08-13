@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T22:30:14Z",
+  "updated": "2026-08-13T22:36:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos",
-      "traffic": "500+",
+      "name": "central vs corinthians",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "entre ríos",
+      "name": "tirante",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sofia clerici",
-      "traffic": "100+",
+      "name": "santos",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "golf",
-      "traffic": "100+",
+      "name": "entre ríos",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "paris jackson",
+      "name": "sofia clerici",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "avenida brasil",
-      "traffic": "500+",
+      "name": "golf",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "rosario central vs corinthians",
-      "traffic": "500+",
+      "name": "paris jackson",
+      "traffic": "100+",
       "rank": 7
+    },
+    {
+      "name": "avenida brasil",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "mirassol - ldu quito",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mariano navone",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "mirassol",
-      "traffic": "200+",
       "rank": 10
     }
   ]
