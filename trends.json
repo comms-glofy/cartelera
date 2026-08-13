@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T11:05:57Z",
+  "updated": "2026-08-13T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "13 de agosto",
+      "name": "adriana baravalle",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "dia del zurdo",
-      "traffic": "200+",
+      "name": "mauricio benítez",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "diario chaco",
+      "name": "13 de agosto",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "weather",
+      "name": "dia del zurdo",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "diario chaco",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "weather",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "clima",
       "traffic": "100000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "marcelo gallardo",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "el tiempo en rosario",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "clima posadas",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico posadas",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "chile",
-      "traffic": "200+",
+      "name": "clima posadas",
+      "traffic": "500+",
       "rank": 10
     }
   ]
