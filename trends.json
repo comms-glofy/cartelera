@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-13T23:30:13Z",
+  "updated": "2026-08-13T23:37:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "twins - phillies",
-      "traffic": "200+",
+      "name": "flávio bolsonaro",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "twins - phillies",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "garnacho",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "balón de oro 2026",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "zaira nara",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "iga świątek",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quien juega hoy",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "vouchers educativos",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "tirante",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "santos",
-      "traffic": "1000+",
+      "name": "tirante",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "a qué hora juega rosario central",
+      "name": "santos",
       "traffic": "1000+",
       "rank": 10
     }
