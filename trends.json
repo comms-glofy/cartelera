@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T13:00:16Z",
+  "updated": "2026-08-13T13:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "reforestación",
-      "traffic": "100+",
+      "name": "guillermo barros schelotto",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "adriana baravalle",
-      "traffic": "200+",
+      "name": "luzu tv",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "reforestación",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "adriana baravalle",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "mauricio benítez",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "13 de agosto",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "dia del zurdo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "diario chaco",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "clima",
       "traffic": "100000+",
-      "rank": 8
-    },
-    {
-      "name": "marcelo gallardo",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "el tiempo en rosario",
-      "traffic": "200+",
       "rank": 10
     }
   ]
