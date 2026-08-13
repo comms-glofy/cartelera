@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T19:30:13Z",
+  "updated": "2026-08-13T19:56:47Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "homicidio",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "empleado",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "club de gimnasia y esgrima la plata",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "paritarias uom",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "terrell williams",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "nicolás repetto",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "nadia podoroska",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "diego monroig",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "uss abraham lincoln (cvn-72)",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "cotización dólar hoy",
-      "traffic": "200+",
+      "name": "dc studios",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "tormenta de santa rosa",
+      "name": "nadia podoroska",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "indec",
-      "traffic": "2000+",
+      "name": "diego monroig",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "hearts - benfica",
-      "traffic": "1000+",
+      "name": "cotización dólar hoy",
+      "traffic": "200+",
       "rank": 10
     }
   ]
