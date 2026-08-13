@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T11:00:17Z",
+  "updated": "2026-08-13T11:05:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -40,17 +40,17 @@
     },
     {
       "name": "clima posadas",
-      "traffic": "500+",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "chile",
+      "name": "pronostico posadas",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "federico sturzenegger",
-      "traffic": "1000+",
+      "name": "chile",
+      "traffic": "200+",
       "rank": 10
     }
   ]
