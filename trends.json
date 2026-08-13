@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T21:00:15Z",
+  "updated": "2026-08-13T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "benfica vs",
-      "traffic": "100+",
+      "name": "santos - macará",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "moreno",
+      "name": "vasco da gama - olimpia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gala de nominación",
-      "traffic": "1000+",
+      "name": "wall street",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "rangers fc",
+      "name": "román andrés burruchaga",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "apophis asteroide",
+      "name": "villa carlos paz",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "portaviones",
-      "traffic": "100+",
+      "name": "méxico",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "empleado",
+      "name": "14 de agosto",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "club de gimnasia y esgrima la plata",
-      "traffic": "500+",
+      "name": "benfica vs",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "homicidio",
-      "traffic": "200+",
+      "name": "moreno",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "paritarias uom",
-      "traffic": "2000+",
+      "name": "gala de nominación",
+      "traffic": "200+",
       "rank": 10
     }
   ]
