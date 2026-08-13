@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T07:30:14Z",
+  "updated": "2026-08-13T08:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "google",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "x",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "chris brown",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "los angeles fc",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "elena rybakina",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "seattle sounders - guadalajara",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "nicolás kreplak",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "lafc - querétaro",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "toluca - fc dallas",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "uom paritarias",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "edith hermida",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
