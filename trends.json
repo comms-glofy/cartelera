@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T17:00:14Z",
+  "updated": "2026-08-13T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "conde de wessex",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "edificio",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "wilfrido báez",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "festividad",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "etna",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "jessie cave",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "lindsay clancy",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "estados unidos",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "veronica castro",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "inflacion julio 2026",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "prichard colon",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "río negro",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "exportación",
-      "traffic": "200+",
+      "name": "prichard colon",
+      "traffic": "500+",
       "rank": 10
     }
   ]
