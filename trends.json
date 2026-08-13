@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T19:00:14Z",
+  "updated": "2026-08-13T19:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "paritarias uom",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "terrell williams",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "nicolás repetto",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "nadia podoroska",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "diego monroig",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "uss abraham lincoln (cvn-72)",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "tormenta de santa rosa",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "cotización dólar hoy",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "hearts - benfica",
+      "name": "uss abraham lincoln (cvn-72)",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "terrel williams",
+      "name": "cotización dólar hoy",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "carla bruni",
-      "traffic": "100+",
+      "name": "tormenta de santa rosa",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "deuda",
-      "traffic": "200+",
+      "name": "indec",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "pitty la numerologa",
-      "traffic": "100+",
+      "name": "hearts - benfica",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
