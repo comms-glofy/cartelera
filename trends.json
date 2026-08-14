@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T16:00:17Z",
+  "updated": "2026-08-14T16:21:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grooming",
-      "traffic": "100+",
+      "name": "quiniela",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "grooming",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "finanzas",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima trelew",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "anuel argentina",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "naturgy",
-      "traffic": "200+",
+      "name": "ryanair",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "jadson viera",
+      "name": "anuel argentina",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "jubilación en españa",
-      "traffic": "2000+",
+      "name": "naturgy",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "moria casan",
+      "name": "jadson viera",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "carnicería",
-      "traffic": "200+",
+      "name": "jubilación en españa",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "uom paritarias 2026",
-      "traffic": "1000+",
+      "name": "moria casan",
+      "traffic": "500+",
       "rank": 10
     }
   ]
