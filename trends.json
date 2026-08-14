@@ -1,36 +1,36 @@
 {
-  "updated": "2026-08-14T09:30:16Z",
+  "updated": "2026-08-14T09:56:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "pronostico posadas",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "batallas farmear aura",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "crisis",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "posiciones de club de fútbol cruz azul contra chicago fire fc",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "timbers - tijuana",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "julio iglesias",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "cruz azul",
-      "traffic": "100+",
       "rank": 6
     },
     {
