@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-13T23:37:09Z",
+  "updated": "2026-08-14T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "orlando gill",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "daniel hadad",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "rosario central - corinthians",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "meteorología",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "línea san martín",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "flávio bolsonaro",
       "traffic": "100+",
-      "rank": 1
+      "rank": 6
     },
     {
       "name": "twins - phillies",
       "traffic": "500+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "garnacho",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "balón de oro 2026",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "zaira nara",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "iga świątek",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "quien juega hoy",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "vouchers educativos",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tirante",
+      "name": "balón de oro 2026",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "santos",
-      "traffic": "1000+",
+      "name": "zaira nara",
+      "traffic": "200+",
       "rank": 10
     }
   ]
