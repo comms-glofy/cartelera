@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T11:00:20Z",
+  "updated": "2026-08-14T11:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "noemi alan",
+      "name": "venezuela",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "catamarca ya",
-      "traffic": "100+",
+      "name": "noemi alan",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "datachaco",
+      "name": "catamarca ya",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "el once digital",
+      "name": "datachaco",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "pronostico posadas",
+      "name": "el once digital",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "pronostico posadas",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "batallas farmear aura",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "crisis",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "posiciones de club de fútbol cruz azul contra chicago fire fc",
-      "traffic": "200+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "timbers - tijuana",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "julio iglesias",
-      "traffic": "500+",
       "rank": 10
     }
   ]
