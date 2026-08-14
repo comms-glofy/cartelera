@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T22:00:15Z",
+  "updated": "2026-08-14T22:18:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el cronista",
-      "traffic": "200+",
+      "name": "boca vs platense",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fútbol club barcelona",
-      "traffic": "200+",
+      "name": "jaime durán barba",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "selección de fútbol de ecuador",
+      "name": "belgrano norte",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "virginia lago",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "racing vs banfield",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "el cronista",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "fútbol club barcelona",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "selección de fútbol de ecuador",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "franco mastantuono",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "club atlético platense",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "sporting lisboa",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "juana viale",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "jason arday",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "portaviones",
-      "traffic": "100+",
       "rank": 10
     }
   ]
