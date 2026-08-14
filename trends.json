@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T12:00:15Z",
+  "updated": "2026-08-14T12:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bruce willis",
-      "traffic": "100+",
+      "name": "17 de agosto feriado",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "venezuela",
+      "name": "la plata",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "bruce willis",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "venezuela",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "noemi alan",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "datachaco",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "el once digital",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "pronostico posadas",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "batallas farmear aura",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "crisis",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de club de fútbol cruz azul contra chicago fire fc",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "timbers - tijuana",
-      "traffic": "200+",
+      "name": "crisis",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
