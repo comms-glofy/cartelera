@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T16:21:22Z",
+  "updated": "2026-08-14T16:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "flybondi",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "quiniela",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "grooming",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "finanzas",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "clima trelew",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ryanair",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "anuel argentina",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "naturgy",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "jadson viera",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "jubilación en españa",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "moria casan",
-      "traffic": "500+",
       "rank": 10
     }
   ]
