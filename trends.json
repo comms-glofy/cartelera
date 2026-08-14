@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T00:00:15Z",
+  "updated": "2026-08-14T00:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "orlando gill",
-      "traffic": "200+",
+      "name": "cienciano - botafogo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "daniel hadad",
+      "name": "vix",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rosario central - corinthians",
+      "name": "rosario central",
       "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "meteorología",
+      "name": "orlando gill",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "línea san martín",
-      "traffic": "100+",
+      "name": "daniel hadad",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "flávio bolsonaro",
-      "traffic": "100+",
+      "name": "rosario central - corinthians",
+      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "twins - phillies",
+      "name": "meteorología",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "garnacho",
+      "name": "línea san martín",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "balón de oro 2026",
-      "traffic": "500+",
+      "name": "flávio bolsonaro",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "zaira nara",
-      "traffic": "200+",
+      "name": "twins - phillies",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
