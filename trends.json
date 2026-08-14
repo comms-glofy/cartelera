@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-14T21:48:27Z",
+  "updated": "2026-08-14T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "el cronista",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "fútbol club barcelona",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "selección de fútbol de ecuador",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "franco mastantuono",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "club atlético platense",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "sporting lisboa",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "juana viale",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "jason arday",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "portaviones",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "selección de fútbol de inglaterra",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "fiorentina vs",
+      "name": "portaviones",
       "traffic": "100+",
       "rank": 10
     }
