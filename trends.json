@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T00:30:18Z",
+  "updated": "2026-08-14T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cienciano - botafogo",
-      "traffic": "500+",
+      "name": "rodrigo garro",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "vix",
+      "name": "rosario",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rosario central",
-      "traffic": "5000+",
+      "name": "romina gaetani",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "orlando gill",
-      "traffic": "500+",
+      "name": "depay",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "daniel hadad",
-      "traffic": "200+",
+      "name": "la campora",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "rosario central - corinthians",
-      "traffic": "20000+",
+      "name": "ben shelton",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "meteorología",
-      "traffic": "500+",
+      "name": "cienciano - botafogo",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "línea san martín",
-      "traffic": "100+",
+      "name": "vix",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "flávio bolsonaro",
-      "traffic": "100+",
+      "name": "orlando gill",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "twins - phillies",
-      "traffic": "1000+",
+      "name": "daniel hadad",
+      "traffic": "500+",
       "rank": 10
     }
   ]
