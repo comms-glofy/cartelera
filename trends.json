@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-14T23:00:14Z",
+  "updated": "2026-08-14T23:17:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "novak djokovic",
+      "name": "diplomático",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cuando juega racing",
-      "traffic": "100+",
+      "name": "indonesia",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "becky g baraja bendita",
-      "traffic": "100+",
+      "name": "novak djokovic",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
-      "name": "racing - banfield",
-      "traffic": "10000+",
+      "name": "becky g baraja bendita",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "cuando juega racing",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "racing - banfield",
+      "traffic": "20000+",
+      "rank": 7
     },
     {
       "name": "boston river - danubio",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "belgrano norte",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "boca vs platense",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "jaime durán barba",
-      "traffic": "100+",
+      "name": "belgrano norte",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "virginia lago",
+      "name": "boca vs platense",
       "traffic": "200+",
       "rank": 10
     }
