@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T17:00:21Z",
+  "updated": "2026-08-14T17:26:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marsella - atlético madrid",
-      "traffic": "200+",
+      "name": "maravilla martinez",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "escuela",
+      "name": "llovizna",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "serie de moria",
+      "name": "marsella - atlético madrid",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "escuela",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "sebastián báez",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "mendoza",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "moria serie",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "mecánico",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "quiniela",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "grooming",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "padre",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "finanzas",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima trelew",
-      "traffic": "100+",
       "rank": 10
     }
   ]
