@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-14T13:00:13Z",
+  "updated": "2026-08-14T13:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "17 de agosto",
-      "traffic": "500+",
+      "name": "dólar",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "feriado 17 de agosto",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "dia de la mujer policia",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "sofia gala",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "árbol",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "la plata",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "bruce willis",
+      "name": "portugal",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "venezuela",
+      "name": "17 de agosto",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "noemi alan",
-      "traffic": "500+",
+      "name": "árbol",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "datachaco",
-      "traffic": "100+",
+      "name": "lunes 17 de agosto es feriado",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "el once digital",
-      "traffic": "100+",
+      "name": "la plata",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pronostico posadas",
+      "name": "bruce willis",
       "traffic": "100+",
       "rank": 10
     }
