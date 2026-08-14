@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-14T10:00:16Z",
+  "updated": "2026-08-14T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico posadas",
+      "name": "el once digital",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "batallas farmear aura",
-      "traffic": "200+",
+      "name": "pronostico posadas",
+      "traffic": "100+",
       "rank": 2
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "ricardo fort",
+      "name": "griselda siciliani",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "terremoto sismo temblor hoy epicentro",
-      "traffic": "1000+",
+      "name": "ricardo fort",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "marco ruben",
+      "name": "terremoto sismo temblor hoy epicentro",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "garro",
-      "traffic": "100+",
+      "name": "marco ruben",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
