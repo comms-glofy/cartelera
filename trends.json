@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T23:17:27Z",
+  "updated": "2026-08-14T23:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diplomático",
+      "name": "independiente del valle - delfín",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "indonesia",
-      "traffic": "200+",
+      "name": "serie de televisión",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "novak djokovic",
+      "name": "diplomático",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "finlay tarling",
-      "traffic": "100+",
+      "name": "indonesia",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "becky g baraja bendita",
+      "name": "trungelliti",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "novak djokovic",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "finlay tarling",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "becky g baraja bendita",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "cuando juega racing",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "racing - banfield",
       "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "boston river - danubio",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "belgrano norte",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "boca vs platense",
-      "traffic": "200+",
       "rank": 10
     }
   ]
