@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T05:00:17Z",
+  "updated": "2026-08-14T05:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "allan rodrigues de souza",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
       "name": "terremoto sismo temblor hoy epicentro",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "marco ruben",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "soledad pastorutti si acaso regresaras (casa sole)",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "america",
+      "traffic": "200+",
       "rank": 10
     }
   ]
