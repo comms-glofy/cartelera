@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-14T01:30:15Z",
+  "updated": "2026-08-14T01:38:46Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "america",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "cuando es la tormenta de santa rosa 2026",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "carlos tevez",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "nieve",
-      "traffic": "1000+",
       "rank": 3
     },
     {
       "name": "botafogo",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "telefe",
+      "name": "nieve",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "jesse lingard",
-      "traffic": "200+",
+      "name": "telefe",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "cruz azul - chicago fire",
+      "name": "jesse lingard",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "américa - austin fc",
+      "name": "cruz azul - chicago fire",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "rodrigo garro",
+      "name": "américa - austin fc",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rosario",
+      "name": "rodrigo garro",
       "traffic": "200+",
       "rank": 10
     }
