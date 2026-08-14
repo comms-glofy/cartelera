@@ -1,36 +1,36 @@
 {
-  "updated": "2026-08-14T22:30:15Z",
+  "updated": "2026-08-14T22:48:00Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boston river - danubio",
-      "traffic": "200+",
+      "name": "racing - banfield",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "boca vs platense",
+      "name": "boston river - danubio",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "jaime durán barba",
+      "name": "belgrano norte",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "belgrano norte",
-      "traffic": "100+",
+      "name": "boca vs platense",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "jaime durán barba",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "virginia lago",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "racing vs banfield",
-      "traffic": "100+",
       "rank": 6
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "franco mastantuono",
-      "traffic": "2000+",
+      "name": "marco trungelliti",
+      "traffic": "500+",
       "rank": 10
     }
   ]
