@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T10:30:15Z",
+  "updated": "2026-08-14T10:57:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el once digital",
+      "name": "noemi alan",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pronostico posadas",
+      "name": "catamarca ya",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "crisis",
-      "traffic": "1000+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "el once digital",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "pronostico posadas",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "batallas farmear aura",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "crisis",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "posiciones de club de fútbol cruz azul contra chicago fire fc",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "timbers - tijuana",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "julio iglesias",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "griselda siciliani",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "ricardo fort",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "terremoto sismo temblor hoy epicentro",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "marco ruben",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
