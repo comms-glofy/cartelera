@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T03:30:14Z",
+  "updated": "2026-08-14T04:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "julio iglesias",
+      "name": "timbers - tijuana",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cruz azul",
+      "name": "julio iglesias",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "allan rodrigues de souza",
+      "name": "cruz azul",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "terremoto sismo temblor hoy epicentro",
+      "name": "martita fort",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "terremoto sismo temblor hoy epicentro",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "marco ruben",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "soledad pastorutti si acaso regresaras (casa sole)",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "america",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "cuando es la tormenta de santa rosa 2026",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "carlos tevez",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "botafogo",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
