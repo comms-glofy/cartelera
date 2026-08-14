@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-14T18:24:34Z",
+  "updated": "2026-08-14T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "refinanciación",
+      "name": "panam",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "refinanciación",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "marcelo larrondo",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "predicción",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "luis vadala",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "castración",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "atletico madrid",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "submarino",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "jesica cirio",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "maravilla martinez",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "llovizna",
+      "name": "maravilla martinez",
       "traffic": "100+",
       "rank": 10
     }
