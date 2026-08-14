@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T23:30:19Z",
+  "updated": "2026-08-14T23:45:58Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "atlético rafaela - defensores de belgrano",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "independiente del valle - delfín",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "club atlético de madrid",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "serie de televisión",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "diplomático",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "indonesia",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "trungelliti",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "novak djokovic",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "finlay tarling",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "becky g baraja bendita",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "cuando juega racing",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "racing - banfield",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
