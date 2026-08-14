@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T06:30:17Z",
+  "updated": "2026-08-14T07:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "crisis",
+      "name": "batallas farmear aura",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "posiciones de club de fútbol cruz azul contra chicago fire fc",
-      "traffic": "200+",
+      "name": "crisis",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "timbers - tijuana",
+      "name": "posiciones de club de fútbol cruz azul contra chicago fire fc",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "julio iglesias",
+      "name": "timbers - tijuana",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "julio iglesias",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "cruz azul",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ricardo fort",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "terremoto sismo temblor hoy epicentro",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "marco ruben",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "soledad pastorutti si acaso regresaras (casa sole)",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "america",
-      "traffic": "200+",
+      "name": "garro",
+      "traffic": "100+",
       "rank": 10
     }
   ]
