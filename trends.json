@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-14T21:00:16Z",
+  "updated": "2026-08-14T21:20:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elisa carrió",
+      "name": "jason arday",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "galatasaray vs",
+      "name": "portaviones",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "colisión",
-      "traffic": "1000+",
+      "name": "selección de fútbol de inglaterra",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "policía de la provincia de río negro",
+      "name": "wolves",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "wolves - blackburn rovers",
+      "name": "fiorentina vs",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "mariana brey",
-      "traffic": "200+",
+      "name": "elisa carrió",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "sporting lisboa - guimarães",
-      "traffic": "200+",
+      "name": "galatasaray vs",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "itatí",
-      "traffic": "100+",
+      "name": "colisión",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "al hilal",
-      "traffic": "100+",
+      "name": "policía de la provincia de río negro",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "estrella agujero negro",
-      "traffic": "200+",
+      "name": "mariana brey",
+      "traffic": "500+",
       "rank": 10
     }
   ]
