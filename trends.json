@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T19:18:44Z",
+  "updated": "2026-08-15T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club mitre - atlético güemes",
-      "traffic": "200+",
+      "name": "jubilación en españa",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "inter",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "club mitre - atlético güemes",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "brasil",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "sevilla - rayo vallecano",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "fluminense - palmeiras",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "racing - nacional",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "colón - patronato",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "guaraní - rubio ñu",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "moron vs",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "peatón",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "thiago agustín tirante",
-      "traffic": "500+",
       "rank": 10
     }
   ]
