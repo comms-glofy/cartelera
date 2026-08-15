@@ -1,31 +1,31 @@
 {
-  "updated": "2026-08-15T02:00:13Z",
+  "updated": "2026-08-15T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pereira",
-      "traffic": "200+",
+      "name": "adrian suar",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "marley",
-      "traffic": "100+",
+      "name": "pereira",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "marley",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "sebastian",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "miguel del sel",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "marcos rojo",
-      "traffic": "500+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "cecilia roth",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
       "name": "españa",
-      "traffic": "2000+",
-      "rank": 8
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "arriba argentinos",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "marcelo tinelli",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "yo narciso",
-      "traffic": "100+",
+      "name": "cómo va racing",
+      "traffic": "200+",
       "rank": 10
     }
   ]
