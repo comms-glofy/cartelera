@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T19:43:34Z",
+  "updated": "2026-08-15T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sedán",
+      "name": "b nacional",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "sedán",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "atlanta",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "jubilación en españa",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "inter",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "club mitre - atlético güemes",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "brasil",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sevilla - rayo vallecano",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "estudiantes - gimnasia",
-      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "fluminense - palmeiras",
-      "traffic": "1000+",
+      "name": "estudiantes - gimnasia",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "racing - nacional",
-      "traffic": "1000+",
+      "name": "fluminense - palmeiras",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
