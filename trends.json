@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T01:00:39Z",
+  "updated": "2026-08-15T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "loteria nacional nocturna",
-      "traffic": "1000+",
+      "name": "cecilia roth",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "marina señuk",
+      "name": "reino unido",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "españa",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "yo narciso",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "cómo va racing",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "marcelo tinelli",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "marina señuk",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "loteria nacional nocturna",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "sloane stephens",
       "traffic": "100+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "clarín",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "fever - wings",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "atlético rafaela - defensores de belgrano",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "independiente del valle - delfín",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "serie de televisión",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "club atlético de madrid",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "diplomático",
-      "traffic": "200+",
       "rank": 10
     }
   ]
