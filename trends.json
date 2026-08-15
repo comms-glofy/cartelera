@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-15T12:00:18Z",
+  "updated": "2026-08-15T12:29:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kevin castaño",
+      "name": "pareja",
       "traffic": "100+",
       "rank": 1
     },
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "familia saavedra caicedo",
-      "traffic": "500+",
+      "name": "kevin castaño",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "camión",
+      "name": "familia saavedra caicedo",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "samara weaving",
+      "name": "camión",
       "traffic": "1000+",
       "rank": 5
     },
     {
+      "name": "samara weaving",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
       "name": "coco 2",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "christopher abbott",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "kevin hart",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "gimnasio campestre los laureles",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "15 de agosto dia de la virgen",
-      "traffic": "200+",
+      "name": "d23",
+      "traffic": "100+",
       "rank": 10
     }
   ]
