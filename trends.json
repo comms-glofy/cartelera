@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T18:22:13Z",
+  "updated": "2026-08-15T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "enzo fernández",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "frío",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "josé coronado",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "inter milan",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "san miguel - colegiales",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "san lorenzo hoy",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "deportivo morón - almagro",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ferro - atlanta",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "malcorra",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "alavés - getafe",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "al-nassr - al-fateh",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
