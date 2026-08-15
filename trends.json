@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T21:16:51Z",
+  "updated": "2026-08-15T21:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paranaense - bragantino",
-      "traffic": "200+",
+      "name": "newell's - deportivo riestra",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "tucu correa",
-      "traffic": "200+",
+      "name": "ufc",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "inter de miami",
-      "traffic": "500+",
+      "name": "tomás martín etcheverry",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "alexis steimbach",
-      "traffic": "200+",
+      "name": "tiago palacios",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "urba",
+      "name": "tucu correa",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "espn rugby",
-      "traffic": "100+",
+      "name": "paranaense - bragantino",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "godoy cruz - deportivo maipú",
-      "traffic": "2000+",
+      "name": "inter de miami",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "gelp",
+      "name": "alexis steimbach",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "fenerbahçe",
-      "traffic": "100+",
+      "name": "bombero",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "rio ave - porto",
-      "traffic": "100+",
+      "name": "urba",
+      "traffic": "500+",
       "rank": 10
     }
   ]
