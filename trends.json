@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T18:00:16Z",
+  "updated": "2026-08-15T18:22:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ferro - atlanta",
-      "traffic": "200+",
+      "name": "frío",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "deportivo morón - almagro",
+      "name": "josé coronado",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "malcorra",
-      "traffic": "200+",
+      "name": "inter milan",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "alavés - getafe",
-      "traffic": "100+",
+      "name": "san miguel - colegiales",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "al-nassr - al-fateh",
+      "name": "san lorenzo hoy",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "laliga",
-      "traffic": "100+",
+      "name": "deportivo morón - almagro",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "camioneta",
-      "traffic": "200+",
+      "name": "ferro - atlanta",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "ufc hoy",
-      "traffic": "100+",
+      "name": "malcorra",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "yo narciso",
-      "traffic": "200+",
+      "name": "alavés - getafe",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "inter - real betis",
-      "traffic": "2000+",
+      "name": "al-nassr - al-fateh",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
