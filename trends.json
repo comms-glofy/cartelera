@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-15T21:00:16Z",
+  "updated": "2026-08-15T21:16:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexis steimbach",
+      "name": "paranaense - bragantino",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "urba",
+      "name": "tucu correa",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "espn rugby",
-      "traffic": "100+",
+      "name": "inter de miami",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "godoy cruz - deportivo maipú",
-      "traffic": "1000+",
+      "name": "alexis steimbach",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gelp",
-      "traffic": "200+",
+      "name": "urba",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "fenerbahçe",
+      "name": "espn rugby",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "rio ave - porto",
-      "traffic": "100+",
+      "name": "godoy cruz - deportivo maipú",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "thiago tirante",
+      "name": "gelp",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "bautista barros schelotto",
-      "traffic": "200+",
+      "name": "fenerbahçe",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "excursionistas",
+      "name": "rio ave - porto",
       "traffic": "100+",
       "rank": 10
     }
