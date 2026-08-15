@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T15:15:56Z",
+  "updated": "2026-08-15T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "chelsea vs",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "marta minujin",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "dortmund - roma",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "las leonas",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "sunderland afc - rennes",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "everton - losc",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mainz 05 - bournemouth",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "milan - manchester united",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "la liga",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "chelsea",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "frozen 3",
-      "traffic": "200+",
       "rank": 10
     }
   ]
