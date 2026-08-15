@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T01:30:16Z",
+  "updated": "2026-08-15T02:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cecilia roth",
-      "traffic": "500+",
+      "name": "pereira",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "reino unido",
+      "name": "marley",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "españa",
-      "traffic": "2000+",
+      "name": "sebastian",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "yo narciso",
-      "traffic": "100+",
+      "name": "miguel del sel",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "cómo va racing",
+      "name": "marcos rojo",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "marcelo tinelli",
+      "name": "reino unido",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "marina señuk",
-      "traffic": "200+",
+      "name": "cecilia roth",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "loteria nacional nocturna",
-      "traffic": "1000+",
+      "name": "españa",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "sloane stephens",
-      "traffic": "100+",
+      "name": "arriba argentinos",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clarín",
-      "traffic": "500+",
+      "name": "yo narciso",
+      "traffic": "100+",
       "rank": 10
     }
   ]
