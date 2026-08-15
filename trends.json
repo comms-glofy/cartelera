@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-15T14:00:13Z",
+  "updated": "2026-08-15T14:17:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chelsea",
+      "name": "milan - manchester united",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "frozen 3",
-      "traffic": "100+",
+      "name": "chelsea",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "frozen 3",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "newcastle - leverkusen",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "estudiantes vs gimnasia",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mönchengladbach - aston villa",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "es mi sueño",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "desalojo",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima neuquen",
-      "traffic": "100+",
       "rank": 9
     },
     {
       "name": "mala praxis",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 10
     }
   ]
