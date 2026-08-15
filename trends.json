@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-15T17:17:00Z",
+  "updated": "2026-08-15T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "camioneta",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "ufc hoy",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "yo narciso",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "inter - real betis",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "roma fc",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "san lorenzo - unión",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "borussia dortmund",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "aldosivi - tigre",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "zaira nara",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "kathryn hahn",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "bóveda",
+      "name": "kathryn hahn",
       "traffic": "100+",
       "rank": 10
     }
