@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T17:44:25Z",
+  "updated": "2026-08-15T18:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "al-nassr - al-fateh",
-      "traffic": "500+",
+      "name": "ferro - atlanta",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "laliga",
-      "traffic": "100+",
+      "name": "deportivo morón - almagro",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "camioneta",
+      "name": "malcorra",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ufc hoy",
+      "name": "alavés - getafe",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "yo narciso",
-      "traffic": "200+",
+      "name": "al-nassr - al-fateh",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "inter - real betis",
-      "traffic": "2000+",
+      "name": "laliga",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "roma fc",
+      "name": "camioneta",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "san lorenzo - unión",
-      "traffic": "10000+",
+      "name": "ufc hoy",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "borussia dortmund",
-      "traffic": "100+",
+      "name": "yo narciso",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "manchester united",
-      "traffic": "200+",
+      "name": "inter - real betis",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
