@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T21:43:44Z",
+  "updated": "2026-08-15T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "community shield",
-      "traffic": "100+",
+      "name": "lluvia",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "newell's - deportivo riestra",
-      "traffic": "2000+",
+      "name": "estudiantes - chacarita",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ufc",
-      "traffic": "2000+",
+      "name": "deportes limache - u. de chile",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "200+",
+      "name": "bonnie tyler",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tucu correa",
-      "traffic": "500+",
+      "name": "alexis castro",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "paranaense - bragantino",
+      "name": "torneo argentino",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "steimbach",
-      "traffic": "200+",
+      "name": "sevilla vs rayo vallecano",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "inter de miami",
-      "traffic": "500+",
+      "name": "community shield",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "bombero",
-      "traffic": "500+",
+      "name": "newell's - deportivo riestra",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "urba",
-      "traffic": "500+",
+      "name": "ufc",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
