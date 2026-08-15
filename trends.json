@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T12:30:18Z",
+  "updated": "2026-08-15T13:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pareja",
-      "traffic": "100+",
+      "name": "river id",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "juicio",
-      "traffic": "100+",
+      "name": "cotización dólar blue",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "kevin castaño",
+      "name": "premier league",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "familia saavedra caicedo",
-      "traffic": "500+",
+      "name": "longevidad",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "camión",
-      "traffic": "1000+",
+      "name": "ice",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "samara weaving",
-      "traffic": "1000+",
+      "name": "pareja",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "coco 2",
+      "name": "juicio",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "christopher abbott",
-      "traffic": "5000+",
+      "name": "kevin castaño",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "kevin hart",
-      "traffic": "200+",
+      "name": "familia saavedra caicedo",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "d23",
-      "traffic": "100+",
+      "name": "camión",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
