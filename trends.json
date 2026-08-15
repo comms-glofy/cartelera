@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-15T09:21:23Z",
+  "updated": "2026-08-15T09:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "samara weaving",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "coco 2",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "christopher abbott",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "maya boyd",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "kevin hart",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "d23",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "gimnasio campestre los laureles",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "xbox cloud gaming",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "it",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "griselda siciliani",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "villa devoto",
+      "name": "15 de agosto",
       "traffic": "200+",
       "rank": 10
     }
