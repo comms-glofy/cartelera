@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T00:00:13Z",
+  "updated": "2026-08-15T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético rafaela - defensores de belgrano",
-      "traffic": "500+",
+      "name": "clarín",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "fever - wings",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "alexander machado",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "atlético rafaela - defensores de belgrano",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "independiente del valle - delfín",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "serie de televisión",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "club atlético de madrid",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "serie de televisión",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "diplomático",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "indonesia",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "finlay tarling",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "novak djokovic",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "becky g baraja bendita",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "cuando juega racing",
-      "traffic": "100+",
       "rank": 10
     }
   ]
