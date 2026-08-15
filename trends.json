@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T22:30:14Z",
+  "updated": "2026-08-15T22:46:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "belgrano",
+      "name": "bono",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "cuándo juega boca",
-      "traffic": "1000+",
+      "name": "paolo rocca",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "militar",
-      "traffic": "200+",
+      "name": "quilmes vs",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "partidos hoy",
-      "traffic": "200+",
+      "name": "quilmes ac",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "juventude - fortaleza",
-      "traffic": "100+",
+      "name": "victoria villarruel",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "brasileirão serie a",
-      "traffic": "200+",
+      "name": "esteban ribovics",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "estudiantes - chacarita",
-      "traffic": "1000+",
+      "name": "boicot",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "lluvia",
+      "name": "belgrano",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "deportes limache - u. de chile",
-      "traffic": "200+",
+      "name": "cuándo juega boca",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "bonnie tyler",
-      "traffic": "100+",
+      "name": "militar",
+      "traffic": "200+",
       "rank": 10
     }
   ]
