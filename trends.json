@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T04:00:16Z",
+  "updated": "2026-08-15T04:25:41Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasio campestre los laureles",
+      "name": "kevin hart",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "15 de agosto",
-      "traffic": "200+",
+      "name": "d23",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "griselda siciliani",
+      "name": "gimnasio campestre los laureles",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "posiciones de independiente del valle contra delfin sc",
-      "traffic": "1000+",
+      "name": "15 de agosto",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "villa devoto",
+      "name": "griselda siciliani",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "trillizas saavedra",
+      "name": "villa devoto",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "trillizas saavedra",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "posiciones de independiente del valle contra delfin sc",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "germain",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "terremotos hoy",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "adrian suar",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "marley",
-      "traffic": "500+",
       "rank": 10
     }
   ]
