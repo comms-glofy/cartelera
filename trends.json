@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T22:00:14Z",
+  "updated": "2026-08-15T22:16:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lluvia",
-      "traffic": "2000+",
+      "name": "cuándo juega boca",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "estudiantes - chacarita",
+      "name": "belgrano vs independiente rivadavia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "deportes limache - u. de chile",
+      "name": "militar",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "partidos hoy",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "juventude - fortaleza",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "estudiantes - chacarita",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "lluvia",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "deportes limache - u. de chile",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "bonnie tyler",
       "traffic": "100+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "alexis castro",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "torneo argentino",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "sevilla vs rayo vallecano",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "community shield",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "newell's - deportivo riestra",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "ufc",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
