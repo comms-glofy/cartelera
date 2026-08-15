@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T03:00:16Z",
+  "updated": "2026-08-15T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "15 de agosto",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "griselda siciliani",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "posiciones de independiente del valle contra delfin sc",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "villa devoto",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "trillizas saavedra",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "germain",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "adrian suar",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "pereira",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "marley",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "sebastian",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "miguel del sel",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "cecilia roth",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
