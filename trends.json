@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-15T22:16:44Z",
+  "updated": "2026-08-15T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuándo juega boca",
-      "traffic": "500+",
+      "name": "belgrano",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "belgrano vs independiente rivadavia",
-      "traffic": "200+",
+      "name": "cuándo juega boca",
+      "traffic": "1000+",
       "rank": 2
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
+      "name": "brasileirão serie a",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "estudiantes - chacarita",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lluvia",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "deportes limache - u. de chile",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "bonnie tyler",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "alexis castro",
-      "traffic": "200+",
       "rank": 10
     }
   ]
