@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-15T20:00:15Z",
+  "updated": "2026-08-15T20:17:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "b nacional",
+      "name": "openai",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "urba top 14",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "godoy cruz",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "primera nacional",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "b nacional",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "sedán",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "atlanta",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "jubilación en españa",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "inter",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "club mitre - atlético güemes",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "brasil",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "sevilla - rayo vallecano",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "estudiantes - gimnasia",
-      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "fluminense - palmeiras",
+      "name": "brasil",
       "traffic": "2000+",
       "rank": 10
     }
