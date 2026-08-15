@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T16:00:17Z",
+  "updated": "2026-08-15T16:18:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tormenta eléctrica",
-      "traffic": "200+",
+      "name": "djokovic",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tottenham",
+      "name": "bóveda",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fulham - stuttgart",
+      "name": "alexander blockx",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "luigi mangione",
-      "traffic": "100+",
+      "name": "tormenta eléctrica",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "administración nacional de la seguridad social",
+      "name": "tottenham",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "boca platense",
-      "traffic": "500+",
+      "name": "luigi mangione",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "islam makhachev",
+      "name": "fulham - stuttgart",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "chelsea vs",
-      "traffic": "100+",
+      "name": "administración nacional de la seguridad social",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "marta minujin",
-      "traffic": "200+",
+      "name": "boca platense",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "dortmund - roma",
-      "traffic": "2000+",
+      "name": "islam makhachev",
+      "traffic": "100+",
       "rank": 10
     }
   ]
