@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T14:30:13Z",
+  "updated": "2026-08-15T14:46:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mainz 05 - bournemouth",
-      "traffic": "100+",
+      "name": "everton - losc",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "milan - manchester united",
-      "traffic": "1000+",
+      "name": "mainz 05 - bournemouth",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "milan - manchester united",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "la liga",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "chelsea",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "la fiera netflix",
-      "traffic": "100+",
+      "name": "chelsea",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "frozen 3",
-      "traffic": "100+",
+      "name": "la fiera netflix",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "newcastle - leverkusen",
-      "traffic": "500+",
+      "name": "frozen 3",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "estudiantes vs gimnasia",
-      "traffic": "100+",
+      "name": "newcastle - leverkusen",
+      "traffic": "1000+",
       "rank": 8
+    },
+    {
+      "name": "estudiantes vs gimnasia",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "mönchengladbach - aston villa",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "es mi sueño",
-      "traffic": "200+",
       "rank": 10
     }
   ]
