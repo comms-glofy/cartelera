@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-15T16:18:59Z",
+  "updated": "2026-08-15T16:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "djokovic",
+      "name": "bóveda",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "bóveda",
+      "name": "alexander blockx",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alexander blockx",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
       "name": "tormenta eléctrica",
       "traffic": "500+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "tottenham",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "luigi mangione",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "fulham - stuttgart",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "administración nacional de la seguridad social",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "boca platense",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "islam makhachev",
+      "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "chelsea vs",
       "traffic": "100+",
       "rank": 10
     }
