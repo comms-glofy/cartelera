@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-15T15:00:17Z",
+  "updated": "2026-08-15T15:15:56Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dortmund - roma",
+      "name": "marta minujin",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sunderland afc - rennes",
-      "traffic": "100+",
+      "name": "dortmund - roma",
+      "traffic": "1000+",
       "rank": 2
     },
     {
       "name": "las leonas",
-      "traffic": "100+",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "sunderland afc - rennes",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "everton - losc",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "mainz 05 - bournemouth",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "milan - manchester united",
-      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "la liga",
-      "traffic": "100+",
+      "name": "milan - manchester united",
+      "traffic": "5000+",
       "rank": 7
+    },
+    {
+      "name": "la liga",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "chelsea",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "frozen 3",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "la fiera netflix",
+      "name": "frozen 3",
       "traffic": "200+",
       "rank": 10
     }
