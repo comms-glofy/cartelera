@@ -1,35 +1,35 @@
 {
-  "updated": "2026-08-15T09:48:41Z",
+  "updated": "2026-08-15T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "familia saavedra caicedo",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "samara weaving",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "coco 2",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "christopher abbott",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "maya boyd",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "kevin hart",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "d23",
+      "name": "kevin hart",
       "traffic": "200+",
       "rank": 6
     },
