@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-15T11:43:16Z",
+  "updated": "2026-08-15T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "kevin castaño",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "juicio",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "familia saavedra caicedo",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "camión",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "samara weaving",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "coco 2",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "christopher abbott",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "kevin hart",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "d23",
-      "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "gimnasio campestre los laureles",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "xbox cloud gaming",
-      "traffic": "200+",
       "rank": 9
     },
     {
