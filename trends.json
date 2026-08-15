@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T10:18:17Z",
+  "updated": "2026-08-15T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "maya boyd",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
       "name": "kevin hart",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "gimnasio campestre los laureles",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "xbox cloud gaming",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "it",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "15 de agosto",
       "traffic": "200+",
       "rank": 10
     }
