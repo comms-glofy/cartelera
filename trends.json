@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T23:00:15Z",
+  "updated": "2026-08-15T23:16:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paramount",
-      "traffic": "200+",
+      "name": "twins - phillies",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "paramount",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "bono",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "paolo rocca",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "quilmes vs",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "quilmes ac",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "victoria villarruel",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "esteban ribovics",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "boicot",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "belgrano",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "cuándo juega boca juniors",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
