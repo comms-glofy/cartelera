@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T13:00:16Z",
+  "updated": "2026-08-15T13:09:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "river id",
-      "traffic": "200+",
+      "name": "mendoza",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "river id",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "cotización dólar blue",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "premier league",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "longevidad",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ice",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "financiación",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "pareja",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "juicio",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "kevin castaño",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "familia saavedra caicedo",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "camión",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
