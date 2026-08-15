@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-15T00:30:17Z",
+  "updated": "2026-08-15T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clarín",
-      "traffic": "200+",
+      "name": "loteria nacional nocturna",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "fever - wings",
+      "name": "marina señuk",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alexander machado",
-      "traffic": "200+",
+      "name": "sloane stephens",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "clarín",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "fever - wings",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "atlético rafaela - defensores de belgrano",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "independiente del valle - delfín",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "serie de televisión",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "club atlético de madrid",
+      "name": "independiente del valle - delfín",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "diplomático",
+      "name": "serie de televisión",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "indonesia",
-      "traffic": "1000+",
+      "name": "club atlético de madrid",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "finlay tarling",
+      "name": "diplomático",
       "traffic": "200+",
       "rank": 10
     }
