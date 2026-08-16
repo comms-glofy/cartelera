@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T17:15:37Z",
+  "updated": "2026-08-16T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liverpool vs como",
+      "name": "emiliana arango",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "200+",
+      "name": "rcd espanyol - levante",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "a que hora juega river",
-      "traffic": "2000+",
+      "name": "cristiano ronaldo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "basel vs. barcelona",
+      "name": "iga świątek",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "liverpool",
-      "traffic": "200+",
+      "name": "juana viale",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "medvedev",
+      "name": "juan manuel cerúndolo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "schalke 04 vs. real madrid",
-      "traffic": "100+",
+      "name": "liverpool vs como",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ajax",
-      "traffic": "200+",
+      "name": "a que hora juega river",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "temperley",
-      "traffic": "200+",
+      "name": "basel vs. barcelona",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pensión",
-      "traffic": "5000+",
+      "name": "liverpool",
+      "traffic": "200+",
       "rank": 10
     }
   ]
