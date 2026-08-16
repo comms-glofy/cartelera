@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T18:00:19Z",
+  "updated": "2026-08-16T18:22:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a qué hora juega river",
-      "traffic": "5000+",
+      "name": "tristán suárez - almirante brown",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "club atlético river plate",
-      "traffic": "1000+",
+      "name": "lens - psg",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "carina zampini",
-      "traffic": "100+",
+      "name": "musiala",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "liverpool fc",
+      "name": "liverpool vs",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "nico paz",
-      "traffic": "200+",
+      "name": "club atlético river plate",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "bisiwu",
+      "name": "carina zampini",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tc pick up",
+      "name": "liverpool fc",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "sarmiento - huracán",
-      "traffic": "5000+",
+      "name": "nico paz",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tormenta tropical lala",
-      "traffic": "500+",
+      "name": "bisiwu",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cristiano ronaldo",
-      "traffic": "500+",
+      "name": "tc pick up",
+      "traffic": "100+",
       "rank": 10
     }
   ]
