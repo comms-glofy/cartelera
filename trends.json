@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T18:22:09Z",
+  "updated": "2026-08-16T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tristán suárez - almirante brown",
-      "traffic": "500+",
+      "name": "temperley vs los andes",
+      "traffic": "100+",
       "rank": 1
     },
     {
       "name": "lens - psg",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "tristán suárez - almirante brown",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "musiala",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "liverpool vs",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "club atlético river plate",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "carina zampini",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "liverpool fc",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nico paz",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "bisiwu",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "tc pick up",
-      "traffic": "100+",
       "rank": 10
     }
   ]
