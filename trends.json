@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-16T14:18:09Z",
+  "updated": "2026-08-16T14:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rey carlos iii",
-      "traffic": "100+",
+      "name": "schalke 04 - real madrid",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -14,18 +14,18 @@
       "rank": 2
     },
     {
+      "name": "rey carlos iii",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "chapecoense - bahía",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "0223",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "farmear",
-      "traffic": "500+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "farmear",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "arsenal vs manchester city",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fifa",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "premier league",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "arsenal - manchester city",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
