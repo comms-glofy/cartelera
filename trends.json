@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T11:30:16Z",
+  "updated": "2026-08-16T11:43:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,47 +9,47 @@
       "rank": 1
     },
     {
+      "name": "gran hermano generación dorada",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "mar del plata",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "descarrilamiento",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "sorteo quiniela nacional nocturna",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "guillermo barros schelotto",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "policía",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "cami homs",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima posadas",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "apple iphone 18 pro max",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima corrientes",
+      "name": "apple iphone 18 pro max",
       "traffic": "100+",
       "rank": 10
     }
