@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T16:19:23Z",
+  "updated": "2026-08-16T16:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "caza",
-      "traffic": "200+",
+      "name": "aston villa football club",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sporting cristal - sport huancayo",
+      "name": "caza",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "river argentinos",
-      "traffic": "2000+",
+      "name": "sporting cristal - sport huancayo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "erling haaland",
-      "traffic": "500+",
+      "name": "enzo maresca",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "camioneta",
+      "name": "river argentinos",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "liga española",
-      "traffic": "100+",
+      "name": "erling haaland",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "camioneta",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "liga española",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "trungelliti",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "barca",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "ajax - heerenveen",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "marco trungelliti",
-      "traffic": "200+",
       "rank": 10
     }
   ]
