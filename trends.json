@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T14:00:16Z",
+  "updated": "2026-08-16T14:18:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "farmear",
-      "traffic": "500+",
+      "name": "rey carlos iii",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fideicomiso",
-      "traffic": "100+",
+      "name": "openai",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fifa",
-      "traffic": "100+",
+      "name": "chapecoense - bahía",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "premier league",
+      "name": "0223",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "city",
-      "traffic": "100+",
+      "name": "farmear",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "arsenal - manchester city",
-      "traffic": "10000+",
+      "name": "fideicomiso",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "mauricio benítez",
-      "traffic": "200+",
+      "name": "arsenal vs manchester city",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "club atlético huracán",
+      "name": "fifa",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "apple",
-      "traffic": "200+",
+      "name": "premier league",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "tc mouras",
-      "traffic": "200+",
+      "name": "arsenal - manchester city",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
