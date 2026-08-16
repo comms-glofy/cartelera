@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-16T11:00:14Z",
+  "updated": "2026-08-16T11:16:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "18 de agosto",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "mar del plata",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "sorteo quiniela nacional nocturna",
       "traffic": "2000+",
-      "rank": 2
-    },
-    {
-      "name": "guillermo barros schelotto",
-      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "policía",
+      "name": "guillermo barros schelotto",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "cami homs",
-      "traffic": "100+",
+      "name": "policía",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "cami homs",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "clima posadas",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "apple iphone 18 pro max",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima corrientes",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "marvel x men",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tormenta lala",
+      "name": "marvel x men",
       "traffic": "500+",
       "rank": 10
     }
