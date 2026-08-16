@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T17:00:15Z",
+  "updated": "2026-08-16T17:15:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "medvedev",
-      "traffic": "100+",
+      "name": "liverpool vs como",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "liverpool",
-      "traffic": "100+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "a que hora juega river",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "basel vs. barcelona",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "liverpool",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "medvedev",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "schalke 04 vs. real madrid",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
-      "name": "a qué hora juega river hoy",
-      "traffic": "2000+",
-      "rank": 4
+      "name": "ajax",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "temperley",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "pensión",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "masters de cincinnati",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "los leones hockey",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "infancia",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "aston villa football club",
-      "traffic": "200+",
       "rank": 10
     }
   ]
