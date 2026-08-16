@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-16T16:00:18Z",
+  "updated": "2026-08-16T16:19:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "caza",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "sporting cristal - sport huancayo",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "river argentinos",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "erling haaland",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "camioneta",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "liga española",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
+    },
+    {
+      "name": "trungelliti",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "barca",
       "traffic": "100+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "ajax - heerenveen",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "marco trungelliti",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "laliga",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "jack grealish",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "zack snyder",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "burnley - west ham",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "racing de santander - villarreal",
+      "name": "marco trungelliti",
       "traffic": "200+",
       "rank": 10
     }
