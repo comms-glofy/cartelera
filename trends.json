@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-16T03:00:13Z",
+  "updated": "2026-08-16T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ufc 331",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "zverev",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "dia del niño",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "lafc - san diego fc",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "tabla anual",
       "traffic": "200+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "cómo salió boca",
       "traffic": "500+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "fórmula 1",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "jalin turner",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "xfinity mobile arena",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "posiciones de mushuc runa contra barcelona sc",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "ascacibar",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "kaue fernandes",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "dustin stoltzfus",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "santiago ascacibar",
+      "name": "kaue fernandes",
       "traffic": "200+",
       "rank": 10
     }
