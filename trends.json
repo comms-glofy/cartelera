@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-16T15:44:28Z",
+  "updated": "2026-08-16T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "trungelliti",
-      "traffic": "200+",
+      "name": "camioneta",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "ajax - heerenveen",
+      "name": "liga española",
       "traffic": "100+",
       "rank": 2
     },
@@ -19,22 +19,22 @@
       "rank": 3
     },
     {
-      "name": "marco trungelliti",
-      "traffic": "200+",
+      "name": "ajax - heerenveen",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "marco trungelliti",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "laliga",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "jack grealish",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "burnley - west ham",
+      "name": "jack grealish",
       "traffic": "100+",
       "rank": 7
     },
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "racing de santander - villarreal",
-      "traffic": "200+",
+      "name": "burnley - west ham",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "real madrid",
-      "traffic": "2000+",
+      "name": "racing de santander - villarreal",
+      "traffic": "200+",
       "rank": 10
     }
   ]
