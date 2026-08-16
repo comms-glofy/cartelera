@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T13:00:16Z",
+  "updated": "2026-08-16T13:27:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético huracán",
-      "traffic": "200+",
+      "name": "arsenal - manchester city",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "apple",
+      "name": "mauricio benítez",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "manchester city",
+      "name": "club atlético huracán",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tc mouras",
+      "name": "apple",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "el cohete a la luna",
-      "traffic": "100+",
+      "name": "tc mouras",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "página/12",
+      "name": "el cohete a la luna",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "clima bariloche",
+      "name": "página/12",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "18 de agosto",
-      "traffic": "500+",
+      "name": "clima bariloche",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "gran hermano generación dorada",
-      "traffic": "200+",
+      "name": "18 de agosto",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "mar del plata",
-      "traffic": "1000+",
+      "name": "gran hermano generación dorada",
+      "traffic": "500+",
       "rank": 10
     }
   ]
