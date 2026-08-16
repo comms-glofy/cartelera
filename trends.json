@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-16T21:30:15Z",
+  "updated": "2026-08-16T21:42:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peñarol - central",
-      "traffic": "200+",
+      "name": "neymar",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "colo-colo - o'higgins",
-      "traffic": "500+",
+      "name": "sebastián báez",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "taylor swift",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "peñarol - central",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "colo-colo - o'higgins",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "vitória - botafogo",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "mirassol - flamengo",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "temperley - los andes",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "nuno borges",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "lazio",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "arthur rinderknech",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "river plate - argentinos jrs.",
-      "traffic": "200000+",
       "rank": 9
     },
     {
-      "name": "alvarado",
+      "name": "arthur rinderknech",
       "traffic": "100+",
       "rank": 10
     }
