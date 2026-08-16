@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-16T22:45:26Z",
+  "updated": "2026-08-16T23:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "borre",
+      "name": "central córdoba - instituto",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "borre",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "claude",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "chicago fire - timbers",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "feriado 17 de agosto",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "brasileirao",
-      "traffic": "100+",
       "rank": 5
-    },
-    {
-      "name": "futsal sub 17",
-      "traffic": "100+",
-      "rank": 6
     },
     {
       "name": "barbara eden",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
-      "name": "los andes",
-      "traffic": "200+",
-      "rank": 8
+      "name": "futsal sub 17",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "brasileirão serie a",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "thiago mendes",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "corinthians - cruzeiro",
       "traffic": "1000+",
       "rank": 10
     }
