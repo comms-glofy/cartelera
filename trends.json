@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-16T22:16:09Z",
+  "updated": "2026-08-16T22:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brasileirao",
-      "traffic": "100+",
+      "name": "feriado 17 de agosto",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "barbara eden",
+      "name": "brasileirao",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "corinthians - cruzeiro",
-      "traffic": "500+",
+      "name": "barbara eden",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "servicio militar",
+      "name": "corinthians - cruzeiro",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "lopez muñoz",
-      "traffic": "200+",
+      "name": "thiago almada",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "avión de caza",
-      "traffic": "100+",
+      "name": "servicio militar",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "asociación atlética argentinos juniors",
+      "name": "lopez muñoz",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "andrada river",
-      "traffic": "200+",
+      "name": "avión de caza",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "rusia",
-      "traffic": "100+",
+      "name": "partidos de river plate",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
