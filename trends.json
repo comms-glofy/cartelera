@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T19:30:15Z",
+  "updated": "2026-08-16T19:42:58Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cerundolo",
-      "traffic": "100+",
+      "name": "francisco cerúndolo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "bóveda",
+      "name": "cerundolo",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "supercopa de francia",
+      "name": "bóveda",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "selección de fútbol de ecuador",
-      "traffic": "100+",
+      "name": "supercopa de francia",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "leonor de borbón",
+      "name": "selección de fútbol de ecuador",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "gimnasia jujuy - chaco for ever",
-      "traffic": "2000+",
+      "name": "leonor de borbón",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "lens vs psg",
+      "name": "jamal musiala",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "atlético mineiro - grêmio",
-      "traffic": "500+",
+      "name": "gimnasia jujuy - chaco for ever",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "river id",
-      "traffic": "500+",
+      "name": "lens vs psg",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "superávit económico",
-      "traffic": "200+",
+      "name": "atlético mineiro - grêmio",
+      "traffic": "500+",
       "rank": 10
     }
   ]
