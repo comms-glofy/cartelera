@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T15:30:14Z",
+  "updated": "2026-08-16T15:44:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "burnley - west ham",
-      "traffic": "100+",
+      "name": "trungelliti",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jack grealish",
+      "name": "ajax - heerenveen",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "zack snyder",
+      "name": "barca",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "racing de santander - villarreal",
+      "name": "marco trungelliti",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "real madrid",
+      "name": "laliga",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "premier",
+      "name": "jack grealish",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "barcelona",
-      "traffic": "1000+",
+      "name": "burnley - west ham",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "luck ra",
-      "traffic": "200+",
+      "name": "zack snyder",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "17 de agosto",
+      "name": "racing de santander - villarreal",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mariano navone",
-      "traffic": "200+",
+      "name": "real madrid",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
