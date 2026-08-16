@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T08:23:29Z",
+  "updated": "2026-08-16T08:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "marvel x men",
+      "name": "tormenta lala",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tormenta lala",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "khabib",
       "traffic": "500+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "16 de agosto que se celebra",
       "traffic": "100+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "atlas - tigres",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "16 de agosto",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "ufc 331",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "dia del niño",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "lafc - san diego fc",
+      "traffic": "100+",
       "rank": 10
     }
   ]
