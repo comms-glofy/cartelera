@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-16T17:30:14Z",
+  "updated": "2026-08-16T17:42:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "emiliana arango",
-      "traffic": "200+",
+      "name": "sarmiento - huracán",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "rcd espanyol - levante",
-      "traffic": "100+",
+      "name": "tormenta tropical lala",
+      "traffic": "500+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "iga świątek",
-      "traffic": "100+",
+      "name": "emiliana arango",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "iga świątek",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "rcd espanyol - levante",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "juana viale",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "liverpool vs como",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "a que hora juega river",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "basel vs. barcelona",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "liverpool",
-      "traffic": "200+",
       "rank": 10
     }
   ]
