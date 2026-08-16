@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T19:00:14Z",
+  "updated": "2026-08-16T19:17:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia jujuy - chaco for ever",
-      "traffic": "1000+",
+      "name": "supercopa de francia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lens vs psg",
+      "name": "selección de fútbol de ecuador",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "atlético mineiro - grêmio",
-      "traffic": "200+",
+      "name": "leonor de borbón",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "river id",
-      "traffic": "500+",
+      "name": "gimnasia jujuy - chaco for ever",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "superávit económico",
+      "name": "lens vs psg",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "club estudiantes de la plata",
-      "traffic": "50000+",
+      "name": "atlético mineiro - grêmio",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "temperley vs los andes",
-      "traffic": "100+",
+      "name": "river id",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "superávit económico",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "club estudiantes de la plata",
+      "traffic": "20000+",
+      "rank": 9
     },
     {
       "name": "sarmiento",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "lens - psg",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "tristán suárez - almirante brown",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
