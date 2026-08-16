@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T20:45:39Z",
+  "updated": "2026-08-16T21:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -20,7 +20,7 @@
     },
     {
       "name": "river plate - argentinos jrs.",
-      "traffic": "50000+",
+      "traffic": "100000+",
       "rank": 4
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "central norte - gimnasia y tiro de salta",
-      "traffic": "1000+",
+      "name": "racing de córdoba - san martín",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "racing de córdoba - san martín",
-      "traffic": "1000+",
+      "name": "central norte - gimnasia y tiro de salta",
+      "traffic": "2000+",
       "rank": 8
+    },
+    {
+      "name": "cuando juega river",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "daniel hadad",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "aryna sabalenka",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
