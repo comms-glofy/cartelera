@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T21:00:14Z",
+  "updated": "2026-08-16T21:15:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nuno borges",
-      "traffic": "100+",
+      "name": "colo-colo - o'higgins",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lazio",
+      "name": "vitória - botafogo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "arthur rinderknech",
-      "traffic": "100+",
+      "name": "mirassol - flamengo",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "river plate - argentinos jrs.",
-      "traffic": "100000+",
+      "name": "temperley - los andes",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "alvarado",
+      "name": "nuno borges",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "san martín de tucumán - deportivo madryn",
-      "traffic": "2000+",
+      "name": "lazio",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "racing de córdoba - san martín",
-      "traffic": "2000+",
+      "name": "arthur rinderknech",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "central norte - gimnasia y tiro de salta",
-      "traffic": "2000+",
+      "name": "river plate - argentinos jrs.",
+      "traffic": "100000+",
       "rank": 8
     },
     {
-      "name": "cuando juega river",
-      "traffic": "5000+",
+      "name": "alvarado",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "daniel hadad",
-      "traffic": "100+",
+      "name": "psg vs",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
