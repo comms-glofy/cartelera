@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T20:30:15Z",
+  "updated": "2026-08-16T20:45:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arthur rinderknech",
+      "name": "nuno borges",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "river plate - argentinos jrs.",
-      "traffic": "20000+",
+      "name": "lazio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "alvarado",
+      "name": "arthur rinderknech",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "river plate - argentinos jrs.",
+      "traffic": "50000+",
+      "rank": 4
+    },
+    {
+      "name": "alvarado",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "san martín de tucumán - deportivo madryn",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "central norte - gimnasia y tiro de salta",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "racing de córdoba - san martín",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "daniel hadad",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "aryna sabalenka",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "carlos melconian",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "cumpleaños",
-      "traffic": "500+",
+      "name": "aryna sabalenka",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
