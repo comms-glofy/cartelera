@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T10:30:15Z",
+  "updated": "2026-08-16T10:47:41Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sorteo quiniela nacional nocturna",
-      "traffic": "2000+",
+      "name": "mar del plata",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "policía",
-      "traffic": "100+",
+      "name": "sorteo quiniela nacional nocturna",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "clima posadas",
+      "name": "guillermo barros schelotto",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "apple iphone 18 pro max",
-      "traffic": "100+",
+      "name": "policía",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima corrientes",
+      "name": "clima posadas",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "marvel x men",
-      "traffic": "500+",
+      "name": "apple iphone 18 pro max",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tormenta lala",
-      "traffic": "500+",
+      "name": "clima corrientes",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "khabib",
+      "name": "marvel x men",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "16 de agosto que se celebra",
-      "traffic": "100+",
+      "name": "tormenta lala",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "alexander zverev",
-      "traffic": "1000+",
+      "name": "khabib",
+      "traffic": "500+",
       "rank": 10
     }
   ]
