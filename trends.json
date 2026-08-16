@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T01:04:21Z",
+  "updated": "2026-08-16T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "periodista",
+      "name": "monterrey - juárez",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "romina gaetani",
+      "name": "como va boca hoy",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nashville vs inter miami",
-      "traffic": "1000+",
+      "name": "aranda",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "charles johnson",
+      "name": "mackenzie dern",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "martin palermo",
-      "traffic": "500+",
+      "name": "romina gaetani",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "alianza lima - utc cajamarca",
+      "name": "periodista",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "evangelina anderson",
-      "traffic": "500+",
+      "name": "charles johnson",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "joel álvarez",
-      "traffic": "200+",
+      "name": "martin palermo",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "veronica castro",
+      "name": "alianza lima - utc cajamarca",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ph podemos hablar",
-      "traffic": "200+",
+      "name": "evangelina anderson",
+      "traffic": "500+",
       "rank": 10
     }
   ]
