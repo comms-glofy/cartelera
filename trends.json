@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T06:00:14Z",
+  "updated": "2026-08-16T06:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela nacional nocturna",
-      "traffic": "2000+",
-      "rank": 1
-    },
-    {
       "name": "tormenta lala",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "khabib",
       "traffic": "500+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "atlas - tigres",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "16 de agosto",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "día del niño",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "ufc 331",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "dia del niño",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "lafc - san diego fc",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "tabla anual",
+      "traffic": "200+",
       "rank": 10
     }
   ]
