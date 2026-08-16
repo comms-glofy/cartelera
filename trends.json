@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T00:00:17Z",
+  "updated": "2026-08-16T00:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nashville sc - inter miami",
-      "traffic": "500+",
+      "name": "loteria nacional nocturna",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "palermo",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "posiciones de club atlético belgrano contra independiente rivadavia",
+      "traffic": "20000+",
+      "rank": 3
+    },
+    {
+      "name": "que es farmear aura",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "nashville sc - inter miami",
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "charlotte fc - columbus crew",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "bélgica",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "mushuc runa - barcelona sc",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "são paulo - coritiba",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "ivan de pineda",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "platense - boca juniors",
-      "traffic": "50000+",
-      "rank": 7
-    },
-    {
-      "name": "etna",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "twins - phillies",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "paramount",
-      "traffic": "1000+",
+      "name": "ivan de pineda",
+      "traffic": "200+",
       "rank": 10
     }
   ]
