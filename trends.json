@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T15:00:17Z",
+  "updated": "2026-08-16T15:16:58Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barcelona",
-      "traffic": "500+",
+      "name": "racing de santander - villarreal",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "real madrid",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "premier",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "barcelona",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "luck ra",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "17 de agosto",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "christos tzolis",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "mariano navone",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "schalke 04 - real madrid",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "rey carlos iii",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "openai",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "chapecoense - bahía",
-      "traffic": "200+",
+      "name": "schalke 04 - real madrid",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "peter lamelas",
-      "traffic": "100+",
+      "name": "rey carlos iii",
+      "traffic": "200+",
       "rank": 10
     }
   ]
