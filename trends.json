@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T02:39:40Z",
+  "updated": "2026-08-16T03:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jalin turner",
+      "name": "tabla anual",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "xfinity mobile arena",
-      "traffic": "100+",
+      "name": "cómo salió boca",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "ascacibar",
-      "traffic": "500+",
+      "name": "fórmula 1",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "dustin stoltzfus",
+      "name": "jalin turner",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "xfinity mobile arena",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "posiciones de mushuc runa contra barcelona sc",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "ascacibar",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "kaue fernandes",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "dustin stoltzfus",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "santiago ascacibar",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "jodar",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "denis shapovalov",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "luciano giménez",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "gimenez platense",
-      "traffic": "500+",
       "rank": 10
     }
   ]
