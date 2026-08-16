@@ -1,35 +1,35 @@
 {
-  "updated": "2026-08-16T20:00:15Z",
+  "updated": "2026-08-16T20:16:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san martín de tucumán - deportivo madryn",
-      "traffic": "500+",
+      "name": "alvarado",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "racing de córdoba - san martín",
-      "traffic": "200+",
+      "name": "san martín de tucumán - deportivo madryn",
+      "traffic": "1000+",
       "rank": 2
     },
     {
       "name": "central norte - gimnasia y tiro de salta",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "racing de córdoba - san martín",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "daniel hadad",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "aryna sabalenka",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "cumpleaños",
+      "name": "aryna sabalenka",
       "traffic": "500+",
       "rank": 6
     },
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "cumpleaños",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "denis shapovalov",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "cerundolo",
-      "traffic": "100+",
       "rank": 10
     }
   ]
