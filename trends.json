@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-16T22:00:14Z",
+  "updated": "2026-08-16T22:16:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corinthians - cruzeiro",
-      "traffic": "200+",
+      "name": "brasileirao",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "futsal sub 17",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "barbara eden",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "corinthians - cruzeiro",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "servicio militar",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "lopez muñoz",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "montiel",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "servicio militar",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "avión de caza",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "andrada river",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "asociación atlética argentinos juniors",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "rusia",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "neymar",
-      "traffic": "500+",
+      "name": "andrada river",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "taylor swift",
+      "name": "rusia",
       "traffic": "100+",
       "rank": 10
     }
