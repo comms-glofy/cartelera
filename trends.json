@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-15T23:43:23Z",
+  "updated": "2026-08-16T00:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "platense - boca juniors",
-      "traffic": "20000+",
+      "name": "nashville sc - inter miami",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "etna",
-      "traffic": "100+",
+      "name": "charlotte fc - columbus crew",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "twins - phillies",
-      "traffic": "500+",
+      "name": "bélgica",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "paramount",
-      "traffic": "500+",
+      "name": "mushuc runa - barcelona sc",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bono",
-      "traffic": "5000+",
+      "name": "são paulo - coritiba",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "paolo rocca",
+      "name": "ivan de pineda",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "quilmes vs",
-      "traffic": "100+",
+      "name": "platense - boca juniors",
+      "traffic": "50000+",
       "rank": 7
     },
     {
-      "name": "quilmes ac",
-      "traffic": "100+",
+      "name": "etna",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "victoria villarruel",
-      "traffic": "200+",
+      "name": "twins - phillies",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "esteban ribovics",
-      "traffic": "200+",
+      "name": "paramount",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
