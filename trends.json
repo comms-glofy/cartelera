@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-16T14:47:28Z",
+  "updated": "2026-08-16T15:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luck ra",
-      "traffic": "200+",
+      "name": "barcelona",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "17 de agosto",
+      "name": "luck ra",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "christos tzolis",
+      "name": "17 de agosto",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mariano navone",
+      "name": "christos tzolis",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "schalke 04 - real madrid",
-      "traffic": "500+",
+      "name": "mariano navone",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "schalke 04 - real madrid",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "rey carlos iii",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "openai",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "chapecoense - bahía",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "peter lamelas",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "0223",
+      "name": "peter lamelas",
       "traffic": "100+",
       "rank": 10
     }
