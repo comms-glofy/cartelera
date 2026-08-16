@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T06:33:12Z",
+  "updated": "2026-08-16T07:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,27 +10,27 @@
     },
     {
       "name": "khabib",
-      "traffic": "500+",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "khabib nurmagomedov",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "atlas - tigres",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "16 de agosto",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "día del niño",
-      "traffic": "500+",
       "rank": 6
     },
     {
