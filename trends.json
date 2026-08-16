@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T12:00:14Z",
+  "updated": "2026-08-16T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "18 de agosto",
+      "name": "manchester city",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gran hermano generación dorada",
+      "name": "el cohete a la luna",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mar del plata",
-      "traffic": "500+",
+      "name": "clima bariloche",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "descarrilamiento",
-      "traffic": "100+",
+      "name": "18 de agosto",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sorteo quiniela nacional nocturna",
-      "traffic": "2000+",
+      "name": "gran hermano generación dorada",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "guillermo barros schelotto",
-      "traffic": "200+",
+      "name": "mar del plata",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "policía",
-      "traffic": "500+",
+      "name": "descarrilamiento",
+      "traffic": "200+",
       "rank": 7
+    },
+    {
+      "name": "guillermo barros schelotto",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "policía",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "cami homs",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima posadas",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "apple iphone 18 pro max",
-      "traffic": "100+",
       "rank": 10
     }
   ]
