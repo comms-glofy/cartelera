@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T23:30:18Z",
+  "updated": "2026-08-16T23:42:47Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barracas central",
+      "name": "enriquecimiento ilícito",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tabla anual",
-      "traffic": "500+",
+      "name": "barracas",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "otamendi",
+      "name": "federal a",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "barracas central",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "otamendi",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "como salio river hoy",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "la joaqui",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "claudia schiffer",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "central córdoba - instituto",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "borre",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "chicago fire - timbers",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "claude",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
