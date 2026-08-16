@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T01:00:16Z",
+  "updated": "2026-08-16T01:04:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alianza lima - utc cajamarca",
+      "name": "periodista",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "martin palermo",
+      "name": "romina gaetani",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "evangelina anderson",
-      "traffic": "500+",
+      "name": "nashville vs inter miami",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "ph podemos hablar",
-      "traffic": "200+",
+      "name": "charles johnson",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "martin palermo",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "alianza lima - utc cajamarca",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "evangelina anderson",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "joel álvarez",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "veronica castro",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "joel álvarez",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "donte johnson",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "loteria nacional nocturna",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "palermo",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "posiciones de club atlético belgrano contra independiente rivadavia",
-      "traffic": "20000+",
+      "name": "ph podemos hablar",
+      "traffic": "200+",
       "rank": 10
     }
   ]
