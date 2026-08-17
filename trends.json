@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T04:30:15Z",
+  "updated": "2026-08-17T04:37:00Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -30,17 +30,17 @@
     },
     {
       "name": "hayden panettiere",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 6
-    },
-    {
-      "name": "natalie portman",
-      "traffic": "200+",
-      "rank": 7
     },
     {
       "name": "milei",
       "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "natalie portman",
+      "traffic": "200+",
       "rank": 8
     },
     {
