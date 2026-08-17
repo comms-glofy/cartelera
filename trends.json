@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T19:00:16Z",
+  "updated": "2026-08-17T19:24:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atraso cambiario",
-      "traffic": "200+",
+      "name": "el niño",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "exportación",
+      "name": "miniserie",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "al raed - al hilal",
+      "name": "cardiff - wrexham",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chicago",
-      "traffic": "100+",
+      "name": "deportivo - elche c. f.",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "marixa balli",
-      "traffic": "200+",
+      "name": "playstation 5",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "tenis hoy",
-      "traffic": "100+",
+      "name": "casa pia - benfica",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "falla activa",
+      "name": "atraso cambiario",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lanus vs independiente",
-      "traffic": "500+",
+      "name": "exportación",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "elena rybakina",
+      "name": "al raed - al hilal",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "partidos hoy",
-      "traffic": "200+",
+      "name": "chicago",
+      "traffic": "100+",
       "rank": 10
     }
   ]
