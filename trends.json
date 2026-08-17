@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T19:24:01Z",
+  "updated": "2026-08-17T19:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el niño",
+      "name": "lanús - independiente",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "el niño",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "miniserie",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "cardiff - wrexham",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "deportivo - elche c. f.",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "playstation 5",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "casa pia - benfica",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "atraso cambiario",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "exportación",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "al raed - al hilal",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "chicago",
-      "traffic": "100+",
       "rank": 10
     }
   ]
