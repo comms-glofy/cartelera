@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-17T19:30:19Z",
+  "updated": "2026-08-17T19:50:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lanús - independiente",
-      "traffic": "1000+",
+      "name": "precio dólar blue hoy",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "lanús - independiente",
+      "traffic": "5000+",
+      "rank": 2
     },
     {
       "name": "el niño",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "miniserie",
-      "traffic": "500+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "miniserie",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "deportivo - elche c. f.",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "playstation 5",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "casa pia - benfica",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "atraso cambiario",
-      "traffic": "200+",
+      "name": "casa pia - benfica",
+      "traffic": "1000+",
       "rank": 8
+    },
+    {
+      "name": "atraso cambiario",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "exportación",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "al raed - al hilal",
-      "traffic": "200+",
       "rank": 10
     }
   ]
