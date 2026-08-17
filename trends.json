@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T15:21:06Z",
+  "updated": "2026-08-17T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "robert de niro",
-      "traffic": "100+",
+      "name": "las leonas",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "elvis lapegüe",
-      "traffic": "100+",
+      "name": "quiniela de tucuman",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "robert de niro",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "elvis lapegüe",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "suprema corte de justicia de la nación",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "clima mendoza",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "loteria chaqueña",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "quiniela hoy",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "millonario",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "quiniela",
-      "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "mario massaccesi",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "uss benfold (ddg-65)",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "dale earnhardt",
-      "traffic": "500+",
       "rank": 10
     }
   ]
