@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T13:00:12Z",
+  "updated": "2026-08-17T13:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rafael nadal",
-      "traffic": "100+",
+      "name": "dale earnhardt",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "la brujula",
+      "name": "rafael nadal",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "hoy",
+      "name": "la brujula",
       "traffic": "100+",
       "rank": 3
     },
     {
       "name": "chile",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "tiempo en mendoza",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "placa tectónica",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "embargo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sydney sweeney",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "el destape",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "franquicia",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "williams racing",
-      "traffic": "200+",
       "rank": 10
     }
   ]
