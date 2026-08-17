@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-17T03:30:17Z",
+  "updated": "2026-08-17T03:45:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tijuana - cruz azul",
+      "name": "hayden panettiere de que murio",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "peter thiel vaca muerta",
+      "name": "tijuana - cruz azul",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "hayden panettiere",
-      "traffic": "1000+",
+      "name": "peter thiel vaca muerta",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cadena nacional",
-      "traffic": "500+",
+      "name": "hayden panettiere",
+      "traffic": "5000+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
+      "name": "milei",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "natalie portman",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sofía gala",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "sofía gala castiglione",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "santos - guadalajara",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "nancy dupláa",
-      "traffic": "200+",
       "rank": 10
     }
   ]
