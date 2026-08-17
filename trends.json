@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-17T21:21:35Z",
+  "updated": "2026-08-17T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "benjamín vicuña",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "mercado cambiario",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "sergio lapegüe",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "julio enciso",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "lesión",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "recoleta football club",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "patricia bullrich",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "susana giménez",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fiesta",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "eugenia de york",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "morgan freeman",
+      "name": "eugenia de york",
       "traffic": "100+",
       "rank": 10
     }
