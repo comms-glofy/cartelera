@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T23:18:45Z",
+  "updated": "2026-08-17T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mar",
+      "name": "el eco multimedios",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ruta nacional 40",
+      "name": "terremotos",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rafael jódar",
+      "name": "mar",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "santiago lencina",
+      "name": "ruta nacional 40",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ricardo canaletti",
-      "traffic": "100+",
+      "name": "rafael jódar",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "diario el eco de tandil",
+      "name": "santiago lencina",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "ricardo canaletti",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "diario el eco de tandil",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "internacional - remo",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "jujuy",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "fiscal",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "barrio laprida",
-      "traffic": "200+",
       "rank": 10
     }
   ]
