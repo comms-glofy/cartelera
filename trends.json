@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-16T23:42:47Z",
+  "updated": "2026-08-17T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "enriquecimiento ilícito",
-      "traffic": "200+",
+      "name": "club atlético lanús",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "barracas",
+      "name": "américa - san luis",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "federal a",
+      "name": "cienciano - deportivo garcilaso",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "barracas central",
-      "traffic": "1000+",
+      "name": "ignacio buse",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "otamendi",
+      "name": "enriquecimiento ilícito",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "como salio river hoy",
+      "name": "federal a",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "como salio river hoy",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "otamendi",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "la joaqui",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "claudia schiffer",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "central córdoba - instituto",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "borre",
-      "traffic": "200+",
       "rank": 10
     }
   ]
