@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T11:00:16Z",
+  "updated": "2026-08-17T11:26:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fábrica",
-      "traffic": "100+",
+      "name": "tormenta",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "diputado",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "denis shapovalov",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "fábrica",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "quini 6 domingo 16 de agosto",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "17 de agosto que se celebra en argentina",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "corrientes",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "justicia",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "edelap",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "caro trippar cancer",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "hayden christensen",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "hayden panettiere de que murio",
-      "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "san martin",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "peter thiel vaca muerta",
-      "traffic": "200+",
       "rank": 10
     }
   ]
