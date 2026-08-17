@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T11:30:13Z",
+  "updated": "2026-08-17T11:50:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,47 +10,47 @@
     },
     {
       "name": "diputado",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "denis shapovalov",
+      "name": "diario el dia",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "denis shapovalov",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "fábrica",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "carlos sexton quien es",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "quini 6 domingo 16 de agosto",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "17 de agosto que se celebra en argentina",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "corrientes",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "justicia",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "edelap",
+      "name": "corrientes",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "caro trippar cancer",
-      "traffic": "1000+",
+      "name": "justicia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
