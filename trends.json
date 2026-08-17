@@ -1,36 +1,36 @@
 {
-  "updated": "2026-08-17T04:00:17Z",
+  "updated": "2026-08-17T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hayden panettiere de que murio",
-      "traffic": "200+",
+      "name": "caro trippar cancer",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "tijuana - cruz azul",
+      "name": "hayden christensen",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "peter thiel vaca muerta",
-      "traffic": "200+",
+      "name": "hayden panettiere de que murio",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "hayden panettiere",
-      "traffic": "5000+",
+      "name": "tijuana - cruz azul",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "caro trippar",
+      "name": "peter thiel vaca muerta",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "milei",
-      "traffic": "500+",
+      "name": "hayden panettiere",
+      "traffic": "10000+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "milei",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "sofía gala",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "sofía gala castiglione",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "santos - guadalajara",
-      "traffic": "100+",
       "rank": 10
     }
   ]
