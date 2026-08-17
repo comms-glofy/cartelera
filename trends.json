@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-17T22:00:36Z",
+  "updated": "2026-08-17T22:19:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vélez - defensa y justicia",
-      "traffic": "5000+",
+      "name": "club olimpo",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "rania de jordania",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "vélez - defensa y justicia",
+      "traffic": "10000+",
+      "rank": 3
     },
     {
       "name": "allanamiento",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "benjamín vicuña",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "mercado cambiario",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "sergio lapegüe",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "julio enciso",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "lesión",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "recoleta football club",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "patricia bullrich",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "susana giménez",
+      "name": "recoleta football club",
       "traffic": "200+",
       "rank": 10
     }
