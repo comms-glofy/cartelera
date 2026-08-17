@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-17T17:00:14Z",
+  "updated": "2026-08-17T17:23:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "china suárez",
-      "traffic": "200+",
+      "name": "corte suprema",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "juan josé campanella",
+      "name": "pro",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "all boys",
-      "traffic": "100+",
+      "name": "china suárez",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ayyoub bouaddi",
-      "traffic": "100+",
+      "name": "all boys",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "paro universitario",
+      "name": "juan josé campanella",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "adolescencia",
-      "traffic": "200+",
+      "name": "paro universitario",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "ayyoub bouaddi",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "tirante",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "showcase",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "playstation plus",
-      "traffic": "100+",
+      "name": "adolescencia",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "yael trepy",
+      "name": "showcase",
       "traffic": "500+",
       "rank": 10
     }
