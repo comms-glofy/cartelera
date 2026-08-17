@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T23:30:14Z",
+  "updated": "2026-08-17T23:45:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el eco multimedios",
-      "traffic": "200+",
+      "name": "culturismo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "terremotos",
+      "name": "el eco multimedios",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mar",
+      "name": "terremotos",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ruta nacional 40",
+      "name": "mar",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "rafael jódar",
+      "name": "ruta nacional 40",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "santiago lencina",
+      "name": "rafael jódar",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ricardo canaletti",
-      "traffic": "100+",
+      "name": "santiago lencina",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "diario el eco de tandil",
-      "traffic": "200+",
+      "name": "ricardo canaletti",
+      "traffic": "100+",
       "rank": 8
+    },
+    {
+      "name": "diario el eco de tandil",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "internacional - remo",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "jujuy",
-      "traffic": "500+",
       "rank": 10
     }
   ]
