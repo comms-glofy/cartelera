@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T22:48:40Z",
+  "updated": "2026-08-17T23:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario el eco de tandil",
+      "name": "santiago lencina",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fiscal",
-      "traffic": "200+",
+      "name": "ricardo canaletti",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "jujuy",
+      "name": "diario el eco de tandil",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "phillies - marlins",
-      "traffic": "500+",
+      "name": "jujuy",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "club olimpo",
+      "name": "fiscal",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "barrio laprida",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "phillies - marlins",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "club olimpo",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "rania de jordania",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "embarcación",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "vélez - defensa y justicia",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "allanamiento",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "mercado cambiario",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
