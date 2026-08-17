@@ -1,40 +1,40 @@
 {
-  "updated": "2026-08-17T18:32:23Z",
+  "updated": "2026-08-17T19:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "exportación",
+      "name": "atraso cambiario",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "exportación",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "al raed - al hilal",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "chicago",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "marixa balli",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tenis hoy",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "falla activa",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "elena rybakina",
+      "name": "falla activa",
       "traffic": "200+",
       "rank": 7
     },
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "partidos hoy",
+      "name": "elena rybakina",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "guaymallén",
+      "name": "partidos hoy",
       "traffic": "200+",
       "rank": 10
     }
