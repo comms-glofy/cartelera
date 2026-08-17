@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T11:50:19Z",
+  "updated": "2026-08-17T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tormenta",
-      "traffic": "2000+",
+      "name": "placa tectónica",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "diputado",
-      "traffic": "200+",
+      "name": "embargo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "diario el dia",
+      "name": "sydney sweeney",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "denis shapovalov",
+      "name": "el destape",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fábrica",
-      "traffic": "200+",
+      "name": "tormenta",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "diputado",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "diario el dia",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "fábrica",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "matías catalán",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "carlos sexton quien es",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "quini 6 domingo 16 de agosto",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "17 de agosto que se celebra en argentina",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "corrientes",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "justicia",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
