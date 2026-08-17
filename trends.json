@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T07:30:18Z",
+  "updated": "2026-08-17T07:49:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "edelap",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "ice princess",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "caro trippar cancer",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "hayden christensen",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "hayden panettiere de que murio",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tijuana - cruz azul",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "peter thiel vaca muerta",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "hayden panettiere",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "milei",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "natalie portman",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "sofía gala",
-      "traffic": "500+",
       "rank": 10
     }
   ]
