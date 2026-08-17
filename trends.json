@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T14:00:13Z",
+  "updated": "2026-08-17T14:22:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela",
-      "traffic": "1000+",
+      "name": "suprema corte de justicia de la nación",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "uss benfold (ddg-65)",
+      "name": "clima mendoza",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mario massaccesi",
+      "name": "loteria chaqueña",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "dale earnhardt",
-      "traffic": "200+",
+      "name": "quiniela",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "rafael nadal",
-      "traffic": "200+",
+      "name": "mario massaccesi",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "la brujula",
+      "name": "uss benfold (ddg-65)",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "hoy",
-      "traffic": "100+",
+      "name": "dale earnhardt",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "chile",
-      "traffic": "500+",
+      "name": "rafael nadal",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tiempo en mendoza",
+      "name": "la brujula",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "placa tectónica",
-      "traffic": "500+",
+      "name": "hoy",
+      "traffic": "100+",
       "rank": 10
     }
   ]
