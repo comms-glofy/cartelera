@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-17T21:30:14Z",
+  "updated": "2026-08-17T21:49:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "benjamín vicuña",
-      "traffic": "1000+",
+      "name": "vélez - defensa y justicia",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "mercado cambiario",
+      "name": "allanamiento",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sergio lapegüe",
+      "name": "benjamín vicuña",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "julio enciso",
+      "name": "mercado cambiario",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "lesión",
-      "traffic": "2000+",
+      "name": "sergio lapegüe",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "julio enciso",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "lesión",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "recoleta football club",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "patricia bullrich",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "susana giménez",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "fiesta",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "eugenia de york",
+      "name": "susana giménez",
       "traffic": "100+",
       "rank": 10
     }
