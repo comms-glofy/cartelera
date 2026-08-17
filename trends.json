@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T17:23:16Z",
+  "updated": "2026-08-17T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corte suprema",
+      "name": "estudiantes de río cuarto - atlético tucumán",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "pro",
+      "name": "thiago tirante",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "corte suprema",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "pro",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "china suárez",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "all boys",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "juan josé campanella",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "paro universitario",
-      "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ayyoub bouaddi",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "paro universitario",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "tirante",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "adolescencia",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "showcase",
-      "traffic": "500+",
       "rank": 10
     }
   ]
