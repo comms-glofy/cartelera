@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T12:00:15Z",
+  "updated": "2026-08-17T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "placa tectónica",
-      "traffic": "100+",
+      "name": "chile",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "embargo",
+      "name": "placa tectónica",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sydney sweeney",
-      "traffic": "100+",
+      "name": "embargo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "el destape",
+      "name": "sydney sweeney",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tormenta",
-      "traffic": "2000+",
+      "name": "el destape",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "diputado",
+      "name": "williams racing",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "diario el dia",
-      "traffic": "200+",
+      "name": "tormenta",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "fábrica",
+      "name": "diputado",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "matías catalán",
-      "traffic": "100+",
+      "name": "diario el dia",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "carlos sexton quien es",
-      "traffic": "100+",
+      "name": "denis shapovalov",
+      "traffic": "200+",
       "rank": 10
     }
   ]
