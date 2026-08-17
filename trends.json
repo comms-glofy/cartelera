@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T10:30:15Z",
+  "updated": "2026-08-17T10:56:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "17 de agosto que se celebra en argentina",
-      "traffic": "5000+",
+      "name": "fábrica",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "corrientes",
-      "traffic": "100+",
+      "name": "17 de agosto que se celebra en argentina",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "corrientes",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "justicia",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "edelap",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "caro trippar cancer",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "hayden christensen",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "hayden panettiere de que murio",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "san martin",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "peter thiel vaca muerta",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tijuana - cruz azul",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "hayden panettiere",
-      "traffic": "50000+",
       "rank": 10
     }
   ]
