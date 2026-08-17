@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T16:30:13Z",
+  "updated": "2026-08-17T16:54:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "yael trepy",
-      "traffic": "200+",
+      "name": "showcase",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "manicura",
+      "name": "tirante",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "denuncia",
+      "name": "adolescencia",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "iga świątek",
-      "traffic": "500+",
+      "name": "playstation plus",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "martin landaluce",
-      "traffic": "100+",
+      "name": "yael trepy",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "1000+",
+      "name": "manicura",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "guillermo vilas",
-      "traffic": "100+",
+      "name": "denuncia",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "copa argentina 2026",
-      "traffic": "100+",
+      "name": "iga świątek",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "las leonas",
+      "name": "thiago agustín tirante",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "quiniela de tucuman",
-      "traffic": "1000+",
+      "name": "guillermo vilas",
+      "traffic": "200+",
       "rank": 10
     }
   ]
