@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T00:00:16Z",
+  "updated": "2026-08-17T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético lanús",
+      "name": "jamie vardy",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "américa - san luis",
-      "traffic": "100+",
+      "name": "viento",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "cienciano - deportivo garcilaso",
+      "name": "aucas - ldu quito",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ignacio buse",
+      "name": "militar",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "enriquecimiento ilícito",
+      "name": "ben shelton",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "federal a",
+      "name": "coco gauff",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "como salio river hoy",
+      "name": "la pagina millonaria",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "otamendi",
-      "traffic": "200+",
+      "name": "club atlético lanús",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "la joaqui",
-      "traffic": "1000+",
+      "name": "américa - san luis",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "claudia schiffer",
-      "traffic": "100+",
+      "name": "cienciano - deportivo garcilaso",
+      "traffic": "200+",
       "rank": 10
     }
   ]
