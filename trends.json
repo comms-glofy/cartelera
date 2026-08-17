@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T12:30:15Z",
+  "updated": "2026-08-17T12:36:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "la brujula",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "chile",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "placa tectónica",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "embargo",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "sydney sweeney",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "el destape",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "franquicia",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "williams racing",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tormenta",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "diputado",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "diario el dia",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "denis shapovalov",
-      "traffic": "200+",
       "rank": 10
     }
   ]
