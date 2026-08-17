@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T17:54:12Z",
+  "updated": "2026-08-17T18:32:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "all boys - nueva chicago",
-      "traffic": "1000+",
+      "name": "exportación",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "árbol",
+      "name": "al raed - al hilal",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "estudiantes de río cuarto - atlético tucumán",
-      "traffic": "5000+",
+      "name": "chicago",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "corte suprema",
-      "traffic": "1000+",
+      "name": "marixa balli",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "pro",
-      "traffic": "200+",
+      "name": "tenis hoy",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "china suárez",
-      "traffic": "500+",
+      "name": "falla activa",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "paro universitario",
+      "name": "elena rybakina",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ayyoub bouaddi",
-      "traffic": "200+",
+      "name": "lanus vs independiente",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "juan josé campanella",
-      "traffic": "100+",
+      "name": "partidos hoy",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tirante",
-      "traffic": "1000+",
+      "name": "guaymallén",
+      "traffic": "200+",
       "rank": 10
     }
   ]
