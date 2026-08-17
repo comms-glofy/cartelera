@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-17T21:00:18Z",
+  "updated": "2026-08-17T21:21:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "patricia bullrich",
-      "traffic": "500+",
+      "name": "mercado cambiario",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "eugenia de york",
-      "traffic": "100+",
+      "name": "sergio lapegüe",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "fiesta",
-      "traffic": "100+",
+      "name": "julio enciso",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "susana giménez",
-      "traffic": "100+",
+      "name": "lesión",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "morgan freeman",
+      "name": "recoleta football club",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "cuesta de lipán",
-      "traffic": "100+",
+      "name": "patricia bullrich",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "deportivo la coruña",
+      "name": "susana giménez",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "qué es farmear aura",
+      "name": "fiesta",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "precio dólar blue hoy",
-      "traffic": "200+",
+      "name": "eugenia de york",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "lanús - independiente",
-      "traffic": "20000+",
+      "name": "morgan freeman",
+      "traffic": "100+",
       "rank": 10
     }
   ]
