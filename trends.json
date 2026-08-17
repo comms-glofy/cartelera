@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-17T13:36:00Z",
+  "updated": "2026-08-17T14:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mario massaccesi",
-      "traffic": "100+",
+      "name": "quiniela",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "dale earnhardt",
-      "traffic": "200+",
+      "name": "mario massaccesi",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "rafael nadal",
+      "name": "dale earnhardt",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "la brujula",
-      "traffic": "100+",
+      "name": "rafael nadal",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "chile",
-      "traffic": "500+",
+      "name": "la brujula",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tiempo en mendoza",
+      "name": "hoy",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "placa tectónica",
-      "traffic": "200+",
+      "name": "chile",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "embargo",
-      "traffic": "200+",
+      "name": "tiempo en mendoza",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "sydney sweeney",
-      "traffic": "100+",
+      "name": "placa tectónica",
+      "traffic": "500+",
       "rank": 10
     }
   ]
