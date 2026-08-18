@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T19:30:15Z",
+  "updated": "2026-08-18T19:47:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lm cipolletti",
+      "name": "jamal musiala",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "juan tamariz",
+      "name": "champions",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "paritarias uom",
-      "traffic": "500+",
+      "name": "lm cipolletti",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gta 6",
+      "name": "juan tamariz",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fenerbahçe - lyon",
-      "traffic": "200+",
+      "name": "paritarias uom",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "economía",
-      "traffic": "200+",
+      "name": "sam raimi",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "gta 6",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "fenerbahçe - lyon",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "economía",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "al nassr",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "21 de agosto",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "henry cavill",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "salma hayek",
-      "traffic": "100+",
       "rank": 10
     }
   ]
