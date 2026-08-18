@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T16:30:17Z",
+  "updated": "2026-08-18T16:58:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "los leones",
-      "traffic": "200+",
+      "name": "bayern munich",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "qué es farmear aura",
-      "traffic": "1000+",
+      "name": "mundial de hockey 2026",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "los leones",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "nicaragua",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "asignación universal por hijo",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "quiniela de tucumán",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "todo noticias",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "cande ruggeri",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "will der",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dólar blue",
-      "traffic": "500+",
+      "name": "santiago phelan",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "chimy avila",
+      "name": "cande ruggeri",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "progresar 2026",
-      "traffic": "100+",
+      "name": "juana y rosario maso",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
