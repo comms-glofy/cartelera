@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T10:34:26Z",
+  "updated": "2026-08-18T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
+      "name": "fin de semana",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "datachaco",
+      "name": "nuevo diario",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "misionesonline",
+      "name": "diario chaco",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "diario norte",
+      "name": "ebola",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "pronostico rosario",
-      "traffic": "100+",
+      "name": "tiempo de san juan",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "voucher educativo",
-      "traffic": "500+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "kick",
-      "traffic": "500+",
+      "name": "misionesonline",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "fenómeno del niño",
-      "traffic": "2000+",
+      "name": "diario norte",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "juana masó accidente",
-      "traffic": "1000+",
+      "name": "pronostico rosario",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "murió danilo palomino",
-      "traffic": "200+",
+      "name": "voucher educativo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
