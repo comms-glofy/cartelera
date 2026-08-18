@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T11:30:13Z",
+  "updated": "2026-08-18T11:50:06Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "embargo",
-      "traffic": "200+",
+      "name": "feriados 2026",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "los 40 principales",
+      "name": "crucigrama la nacion",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "noticiasnet",
-      "traffic": "100+",
+      "name": "fuerza aérea",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "catamarca ya",
-      "traffic": "100+",
+      "name": "lmneuquen",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "maru botana",
-      "traffic": "100+",
+      "name": "embargo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "teams",
+      "name": "santa elena",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "fin de semana",
-      "traffic": "500+",
+      "name": "noticiasnet",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "diario chaco",
+      "name": "los 40 principales",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "ebola",
+      "name": "catamarca ya",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "500+",
+      "name": "maru botana",
+      "traffic": "100+",
       "rank": 10
     }
   ]
