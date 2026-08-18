@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T19:47:57Z",
+  "updated": "2026-08-18T20:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jamal musiala",
+      "name": "depósito",
       "traffic": "100+",
       "rank": 1
     },
     {
       "name": "champions",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "jamal musiala",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "lm cipolletti",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "aubasa",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "juan tamariz",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "paritarias uom",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "sam raimi",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gta 6",
+      "name": "cristian jaime",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "fenerbahçe - lyon",
-      "traffic": "500+",
+      "name": "paritarias uom",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "economía",
-      "traffic": "500+",
+      "name": "sam raimi",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "al nassr",
-      "traffic": "200+",
+      "name": "gta 6",
+      "traffic": "100+",
       "rank": 10
     }
   ]
