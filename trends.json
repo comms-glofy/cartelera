@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T21:00:34Z",
+  "updated": "2026-08-18T21:19:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "copa argentina",
-      "traffic": "1000+",
+      "name": "la guaira",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "copa argentina",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "alex albon",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "comodoro rivadavia",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "dinamo zagreb",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "stellantis",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "recoleta vs boca",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "robert de niro",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "frank beard",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "robert de niro",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "savinho",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "ariel ortega",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "punilla",
-      "traffic": "200+",
       "rank": 10
     }
   ]
