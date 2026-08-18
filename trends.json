@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-18T14:00:15Z",
+  "updated": "2026-08-18T14:28:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mendoza",
-      "traffic": "2000+",
+      "name": "daniella bustamante",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "quini",
-      "traffic": "200+",
+      "name": "mendoza",
+      "traffic": "2000+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "quini",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "mathilde favier",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "nadia beller",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "exequiel zeballos",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "fernando cerimedo",
-      "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "albañil",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "uom",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "la libertad avanza",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "w",
-      "traffic": "100+",
+      "name": "la libertad avanza",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
