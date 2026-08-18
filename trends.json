@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T23:00:17Z",
+  "updated": "2026-08-18T23:17:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fluminense",
-      "traffic": "1000+",
+      "name": "sao paulo fc",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "empleo",
-      "traffic": "200+",
+      "name": "boca racing",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sao paulo vs bolivar",
-      "traffic": "200+",
+      "name": "cotización",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "disney plus",
-      "traffic": "1000+",
+      "name": "sebastián villa",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "ascacibar",
+      "name": "fluminense",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "disney",
-      "traffic": "1000+",
+      "name": "empleo",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "antonio banderas",
+      "name": "sao paulo vs bolivar",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "fuerzas armadas",
-      "traffic": "500+",
+      "name": "disney plus",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "eduardo maglioni",
-      "traffic": "200+",
+      "name": "ascacibar",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "facundo colidio",
-      "traffic": "500+",
+      "name": "disney",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
