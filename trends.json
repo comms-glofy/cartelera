@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-18T15:30:20Z",
+  "updated": "2026-08-18T15:56:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dólar blue",
-      "traffic": "200+",
+      "name": "asignación universal por hijo",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "quiniela de tucumán",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "todo noticias",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "santiago phelan",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "cande ruggeri",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "dólar blue",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "chimy avila",
       "traffic": "200+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "daniella bustamante",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "mendoza",
       "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "flybondi",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "quini",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "mathilde favier",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "nadia beller",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "exequiel zeballos",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "albañil",
+      "name": "flybondi",
       "traffic": "2000+",
       "rank": 10
     }
