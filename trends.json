@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T10:00:13Z",
+  "updated": "2026-08-18T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico rosario",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "voucher educativo",
-      "traffic": "200+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "misionesonline",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "diario norte",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "pronostico rosario",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "voucher educativo",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "kick",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "fenómeno del niño",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "juana masó accidente",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "murió danilo palomino",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "pachuca",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "tommy paul",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "daniel vallejo",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "peter thiel",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
