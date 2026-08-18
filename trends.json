@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T20:48:22Z",
+  "updated": "2026-08-18T21:00:34Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dinamo zagreb",
-      "traffic": "100+",
+      "name": "copa argentina",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "recoleta vs boca",
-      "traffic": "500+",
+      "name": "alex albon",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "robert de niro",
-      "traffic": "200+",
+      "name": "comodoro rivadavia",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "frank beard",
+      "name": "dinamo zagreb",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "savinho",
-      "traffic": "100+",
+      "name": "recoleta vs boca",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "ariel ortega",
-      "traffic": "100+",
+      "name": "robert de niro",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "punilla",
+      "name": "frank beard",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dinamo zagreb - viking",
+      "name": "savinho",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "mathilde favier dior",
-      "traffic": "1000+",
+      "name": "ariel ortega",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "gabriel ávalos",
-      "traffic": "100+",
+      "name": "punilla",
+      "traffic": "200+",
       "rank": 10
     }
   ]
