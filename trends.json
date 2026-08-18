@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T02:30:19Z",
+  "updated": "2026-08-18T03:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el nine",
-      "traffic": "100+",
+      "name": "peter thiel",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "necaxa",
-      "traffic": "200+",
+      "name": "hossam hassan",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "mario pergolini",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "nelson castro",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "el nine",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "necaxa",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "bbc news mundo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "zverev",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "atmane",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "profesor",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "san juan",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "farmear",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "vadala moria",
-      "traffic": "200+",
       "rank": 10
     }
   ]
