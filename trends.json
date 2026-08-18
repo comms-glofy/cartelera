@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T13:00:17Z",
+  "updated": "2026-08-18T13:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "albañil",
-      "traffic": "200+",
+      "name": "nadia beller",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "uom",
+      "name": "exequiel zeballos",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "la libertad avanza",
-      "traffic": "200+",
+      "name": "albañil",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "w",
-      "traffic": "100+",
+      "name": "uom",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "feriados 2026",
+      "name": "la libertad avanza",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "crucigrama la nacion",
+      "name": "w",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "fuerza aérea",
-      "traffic": "200+",
+      "name": "feriados 2026",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "lmneuquen",
-      "traffic": "200+",
+      "name": "crucigrama la nacion",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "santa elena",
+      "name": "fuerza aérea",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "embargo",
-      "traffic": "500+",
+      "name": "lmneuquen",
+      "traffic": "200+",
       "rank": 10
     }
   ]
