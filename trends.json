@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T05:54:09Z",
+  "updated": "2026-08-18T06:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fenómeno del niño",
-      "traffic": "1000+",
-      "rank": 1
-    },
-    {
       "name": "juana masó accidente",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "murió danilo palomino",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "pachuca",
       "traffic": "500+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "tommy paul",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "daniel vallejo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "peter thiel",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "hossam hassan",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "mario pergolini",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "nelson castro",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "el nine",
+      "traffic": "100+",
       "rank": 10
     }
   ]
