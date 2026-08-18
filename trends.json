@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T06:00:19Z",
+  "updated": "2026-08-18T06:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juana masó accidente",
-      "traffic": "200+",
+      "name": "kick",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "murió danilo palomino",
+      "name": "juana masó accidente",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "murió danilo palomino",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "pachuca",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tommy paul",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "daniel vallejo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "peter thiel",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "hossam hassan",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "mario pergolini",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "nelson castro",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "el nine",
-      "traffic": "100+",
       "rank": 10
     }
   ]
