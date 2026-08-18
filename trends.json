@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-18T08:31:24Z",
+  "updated": "2026-08-18T09:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "voucher educativo",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "kick",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "fenómeno del niño",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "juana masó accidente",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "murió danilo palomino",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pachuca",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tommy paul",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "daniel vallejo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "peter thiel",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "hossam hassan",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mario pergolini",
+      "name": "hossam hassan",
       "traffic": "200+",
       "rank": 10
     }
