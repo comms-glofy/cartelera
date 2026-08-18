@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T03:00:18Z",
+  "updated": "2026-08-18T03:22:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peter thiel",
-      "traffic": "1000+",
+      "name": "daniel vallejo",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "peter thiel",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "hossam hassan",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mario pergolini",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "nelson castro",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "el nine",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "necaxa",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "bbc news mundo",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "zverev",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "profesor",
-      "traffic": "500+",
+      "name": "atmane",
+      "traffic": "200+",
       "rank": 10
     }
   ]
