@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T17:00:14Z",
+  "updated": "2026-08-18T17:30:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bayern munich",
+      "name": "nancy pazos",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mundial de hockey 2026",
-      "traffic": "500+",
+      "name": "bayern",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "los leones",
-      "traffic": "500+",
+      "name": "camino de la carrindanga",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "nicaragua",
+      "name": "bayern munich",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "los leones",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "nicaragua",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "asignación universal por hijo",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "quiniela de tucumán",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "todo noticias",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "santiago phelan",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "cande ruggeri",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "juana y rosario maso",
-      "traffic": "10000+",
+      "name": "santiago phelan",
+      "traffic": "500+",
       "rank": 10
     }
   ]
