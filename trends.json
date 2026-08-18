@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T13:38:39Z",
+  "updated": "2026-08-18T14:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mathilde favier",
-      "traffic": "100+",
+      "name": "mendoza",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "nadia beller",
-      "traffic": "1000+",
+      "name": "quini",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "flybondi",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "mathilde favier",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "exequiel zeballos",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "fernando cerimedo",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "albañil",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "uom",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "la libertad avanza",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "w",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "feriados 2026",
+      "name": "uom",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "crucigrama la nacion",
-      "traffic": "100+",
+      "name": "la libertad avanza",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fuerza aérea",
-      "traffic": "500+",
+      "name": "w",
+      "traffic": "100+",
       "rank": 10
     }
   ]
