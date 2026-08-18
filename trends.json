@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-18T16:00:19Z",
+  "updated": "2026-08-18T16:28:54Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "los leones",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "qué es farmear aura",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "asignación universal por hijo",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "quiniela de tucumán",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "todo noticias",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "santiago phelan",
-      "traffic": "200+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "dólar blue",
+      "name": "todo noticias",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "chimy avila",
+      "name": "will der",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "daniella bustamante",
+      "name": "dólar blue",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "mendoza",
-      "traffic": "5000+",
+      "name": "chimy avila",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "flybondi",
-      "traffic": "2000+",
+      "name": "progresar 2026",
+      "traffic": "100+",
       "rank": 10
     }
   ]
