@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T21:46:25Z",
+  "updated": "2026-08-18T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "independiente rivadavia - fluminense",
-      "traffic": "1000+",
+      "name": "facundo colidio",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "cordobazo",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "independiente rivadavia - fluminense",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "funcionario público",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "vadalá",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "club atlético banfield",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "la guaira",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "copa argentina",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "alex albon",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "comodoro rivadavia",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "dinamo zagreb",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "stellantis",
-      "traffic": "200+",
       "rank": 10
     }
   ]
