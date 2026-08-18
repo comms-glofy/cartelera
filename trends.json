@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-18T04:06:05Z",
+  "updated": "2026-08-18T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "pachuca - puebla",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "bbc news mundo",
-      "traffic": "100+",
+      "name": "cae",
+      "traffic": "200+",
       "rank": 10
     }
   ]
