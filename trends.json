@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T02:17:53Z",
+  "updated": "2026-08-18T02:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "zverev",
-      "traffic": "200+",
+      "name": "primera división",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "profesor",
-      "traffic": "500+",
+      "name": "zverev",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "san juan",
+      "name": "atmane",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "farmear",
-      "traffic": "200+",
+      "name": "profesor",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "alexander zverev",
-      "traffic": "1000+",
+      "name": "san juan",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "vadala moria",
+      "name": "farmear",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "gimnasia y esgrima - talleres",
-      "traffic": "50000+",
+      "name": "vadala moria",
+      "traffic": "200+",
       "rank": 10
     }
   ]
