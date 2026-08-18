@@ -1,36 +1,36 @@
 {
-  "updated": "2026-08-18T02:00:16Z",
+  "updated": "2026-08-18T02:17:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "el nine",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "necaxa",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "bbc news mundo",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "zverev",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "profesor",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "san juan",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "talleres vs",
-      "traffic": "2000+",
       "rank": 6
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "alexander zverev",
-      "traffic": "2000+",
+      "traffic": "1000+",
       "rank": 8
     },
     {
