@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T00:30:15Z",
+  "updated": "2026-08-18T00:59:49Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexander zverev",
+      "name": "talleres vs",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "vadala moria",
-      "traffic": "100+",
+      "name": "farmear",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gimnasia y esgrima - talleres",
-      "traffic": "5000+",
+      "name": "alexander zverev",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "vadala moria",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "gimnasia y esgrima - talleres",
+      "traffic": "20000+",
+      "rank": 5
     },
     {
       "name": "estefi berardi",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "macará - u. católica",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "culturismo",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "el eco multimedios",
+      "name": "macará - u. católica",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "terremotos",
-      "traffic": "500+",
+      "name": "culturismo",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "internacional",
+      "name": "el eco multimedios",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "mar",
-      "traffic": "200+",
+      "name": "terremotos",
+      "traffic": "500+",
       "rank": 10
     }
   ]
