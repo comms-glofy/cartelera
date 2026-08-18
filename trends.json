@@ -1,46 +1,46 @@
 {
-  "updated": "2026-08-18T12:30:18Z",
+  "updated": "2026-08-18T12:36:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "uom",
+      "name": "albañil",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "la libertad avanza",
+      "name": "uom",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "la libertad avanza",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "w",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "feriados 2026",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "crucigrama la nacion",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "fuerza aérea",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lmneuquen",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "embargo",
-      "traffic": "500+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "noticiasnet",
-      "traffic": "100+",
+      "name": "embargo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
