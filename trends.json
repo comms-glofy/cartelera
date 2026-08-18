@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-18T17:31:47Z",
+  "updated": "2026-08-18T18:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nancy pazos",
-      "traffic": "100+",
+      "name": "becas progresar",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bayern",
+      "name": "nancy pazos",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "camino de la carrindanga",
-      "traffic": "200+",
+      "name": "bayern",
+      "traffic": "100+",
       "rank": 3
     },
     {
       "name": "bayern munich",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "camino de la carrindanga",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "los leones",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nicaragua",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "asignación universal por hijo",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "quiniela de tucumán",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "todo noticias",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "santiago phelan",
+      "name": "todo noticias",
       "traffic": "500+",
       "rank": 10
     }
