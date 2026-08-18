@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T03:30:16Z",
+  "updated": "2026-08-18T04:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pachuca",
-      "traffic": "100+",
+      "name": "pachuca - puebla",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tommy paul",
+      "name": "daniel vallejo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "peter thiel",
-      "traffic": "500+",
+      "name": "tommy paul",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "hossam hassan",
-      "traffic": "100+",
+      "name": "peter thiel",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "mario pergolini",
+      "name": "hossam hassan",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "nelson castro",
+      "name": "mario pergolini",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "nelson castro",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "el nine",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "necaxa",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "bbc news mundo",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "primera división",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
