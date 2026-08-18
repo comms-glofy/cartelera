@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-18T11:00:15Z",
+  "updated": "2026-08-18T11:21:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fin de semana",
-      "traffic": "500+",
+      "name": "teams",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "nuevo diario",
+      "name": "maru botana",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "contexto",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "fin de semana",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "diario chaco",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "ebola",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "tiempo de san juan",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "datachaco",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "misionesonline",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "diario norte",
+      "name": "datachaco",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "pronostico rosario",
-      "traffic": "100+",
+      "name": "misionesonline",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "voucher educativo",
-      "traffic": "1000+",
+      "name": "diario norte",
+      "traffic": "100+",
       "rank": 10
     }
   ]
