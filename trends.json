@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-19T23:30:14Z",
+  "updated": "2026-08-19T23:45:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tribunal de justicia",
+      "name": "provincia de buenos aires",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "las trillizas de oro",
+      "name": "yellowstone",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "jack doohan",
-      "traffic": "200+",
+      "name": "lodico",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "manuel adorni",
+      "name": "tribunal de justicia",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "philadelphia - inter miami",
-      "traffic": "5000+",
+      "name": "las trillizas de oro",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "palmeiras",
-      "traffic": "1000+",
+      "name": "jack doohan",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "linda blair",
+      "name": "manuel adorni",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "atletico mineiro",
-      "traffic": "200+",
+      "name": "philadelphia - inter miami",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "fortaleza - são bernardo",
-      "traffic": "200+",
+      "name": "palmeiras",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "mineiro",
+      "name": "linda blair",
       "traffic": "200+",
       "rank": 10
     }
