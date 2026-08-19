@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T15:30:15Z",
+  "updated": "2026-08-19T15:56:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "epicentro",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "bitcoin",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "cadena de supermercados",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "margarita ponce es mi sueño",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "moderna",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "19 de agosto",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "nicolás varrone",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "lucas sugo",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "aumento salarial fuerzas armadas",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "alejandro stoessel",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "kyrgios",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "san luis",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "general paz",
-      "traffic": "200+",
       "rank": 10
     }
   ]
