@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T13:40:22Z",
+  "updated": "2026-08-19T14:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "aumento salarial fuerzas armadas",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "alejandro stoessel",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
       "name": "nick kyrgios",
       "traffic": "500+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "san luis",
       "traffic": "500+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "general paz",
       "traffic": "200+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "clima santiago del estero",
       "traffic": "100+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "tiempo en santa fe",
       "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "las leonas",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "pucho ponce",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
