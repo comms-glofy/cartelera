@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T03:42:03Z",
+  "updated": "2026-08-19T04:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dior mathilde favier",
-      "traffic": "1000+",
-      "rank": 1
-    },
-    {
       "name": "iva jovic",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "alerta sofia",
       "traffic": "100+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "epidemia ebola",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "zuqui",
       "traffic": "100+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "poceada",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "poceada chaqueña",
-      "traffic": "1000+",
-      "rank": 7
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "maxi salas",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "luna de miel",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "canal 13",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "es mi sueño",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
