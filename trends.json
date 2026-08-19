@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T14:00:20Z",
+  "updated": "2026-08-19T14:28:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "19 de agosto",
-      "traffic": "100+",
+      "name": "margarita ponce es mi sueño",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "nicolás varrone",
-      "traffic": "200+",
+      "name": "moderna",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "lucas sugo",
-      "traffic": "500+",
+      "name": "19 de agosto",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nick kyrgios",
+      "name": "nicolás varrone",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "lucas sugo",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "alejandro stoessel",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "kyrgios",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "san luis",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "general paz",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "clima santiago del estero",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "tiempo en santa fe",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "las leonas",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "pucho ponce",
-      "traffic": "1000+",
+      "name": "animal",
+      "traffic": "200+",
       "rank": 10
     }
   ]
