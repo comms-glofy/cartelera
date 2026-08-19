@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T18:00:17Z",
+  "updated": "2026-08-19T18:28:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jadson viera",
-      "traffic": "100+",
+      "name": "atlético madrid - málaga",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "thiago agustín tirante",
+      "name": "chacarita",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "barrio general paz",
-      "traffic": "100+",
+      "name": "thiago agustín tirante",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ariadna tillar",
-      "traffic": "1000+",
+      "name": "jadson viera",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "jakub mensík",
+      "name": "barrio general paz",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "barcelona - al-ahly",
-      "traffic": "1000+",
+      "name": "ariadna tillar",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "iol",
+      "name": "jakub mensík",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "miguel borja",
-      "traffic": "500+",
+      "name": "jodar",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "rafael jódar",
-      "traffic": "200+",
+      "name": "barcelona - al-ahly",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "trabajo",
-      "traffic": "200+",
+      "name": "iol",
+      "traffic": "100+",
       "rank": 10
     }
   ]
