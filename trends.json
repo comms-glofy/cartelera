@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T16:30:14Z",
+  "updated": "2026-08-19T16:57:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "btc usd",
-      "traffic": "100+",
+      "name": "miguel borja",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "epicentro",
+      "name": "rafael jódar",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bitcoin",
+      "name": "canaletti",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cadena de supermercados",
+      "name": "trabajo",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "margarita ponce es mi sueño",
-      "traffic": "2000+",
+      "name": "mcdonald's",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "moderna",
-      "traffic": "200+",
+      "name": "btc usd",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "19 de agosto",
+      "name": "quiniela de tucumán",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "nicolás varrone",
-      "traffic": "500+",
+      "name": "epicentro",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "lucas sugo",
-      "traffic": "2000+",
+      "name": "bitcoin",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "aumento salarial fuerzas armadas",
-      "traffic": "2000+",
+      "name": "cadena de supermercados",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
