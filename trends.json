@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T10:00:18Z",
+  "updated": "2026-08-19T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "las leonas",
-      "traffic": "200+",
+      "name": "tiempo en santa fe",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "las leonas",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "pucho ponce",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "pensión",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "murio frank beard",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "filtraciones gta vi",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "iva jovic",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "alerta sofia",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "epidemia ebola",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "zuqui",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "calleri",
-      "traffic": "200+",
       "rank": 10
     }
   ]
