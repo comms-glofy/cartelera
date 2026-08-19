@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-19T15:02:51Z",
+  "updated": "2026-08-19T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cadena de supermercados",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "margarita ponce es mi sueño",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "moderna",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "19 de agosto",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "nicolás varrone",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lucas sugo",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "alejandro stoessel",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "kyrgios",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "san luis",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "general paz",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "animal",
+      "name": "general paz",
       "traffic": "200+",
       "rank": 10
     }
