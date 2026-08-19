@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T20:53:32Z",
+  "updated": "2026-08-19T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "h&m",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "lee kang-in",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "marcelo weigandt",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "liga española",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "ps6",
       "traffic": "100+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "mar del plata",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "river vs santa fe",
       "traffic": "20000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "ciclogénesis",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "2026",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "andes",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "12 de octubre",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "fighiera",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "bodo",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "gerardo sofovich",
-      "traffic": "100+",
       "rank": 10
     }
   ]
