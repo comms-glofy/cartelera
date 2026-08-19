@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T08:00:18Z",
+  "updated": "2026-08-19T08:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "poceada",
+      "name": "calleri",
       "traffic": "200+",
       "rank": 7
     },
     {
+      "name": "poceada",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "poceada chaqueña",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "maxi salas",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "luna de miel",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
