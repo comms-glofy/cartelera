@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T19:48:16Z",
+  "updated": "2026-08-19T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "fiat pulse",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "cincinnati open 2026",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "celtic",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "lima",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "thiago tirante",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "master 1000 cincinnati",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "atletico",
+      "name": "thiago tirante",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "tirante",
+      "name": "master 1000 cincinnati",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "amistosos",
+      "name": "tirante",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "tenis hoy",
-      "traffic": "100+",
+      "name": "amistosos",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "alexander zverev",
-      "traffic": "500+",
+      "name": "tenis hoy",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "barca",
-      "traffic": "200+",
+      "name": "laliga",
+      "traffic": "500+",
       "rank": 10
     }
   ]
