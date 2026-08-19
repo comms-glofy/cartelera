@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T06:00:14Z",
+  "updated": "2026-08-19T06:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "filtraciones gta vi",
+      "name": "murio frank beard",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "filtraciones gta vi",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "iva jovic",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "alerta sofia",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "epidemia ebola",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "zuqui",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "poceada",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "poceada chaqueña",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "maxi salas",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "luna de miel",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "canal 13",
-      "traffic": "200+",
       "rank": 10
     }
   ]
