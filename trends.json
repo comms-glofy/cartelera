@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T19:00:15Z",
+  "updated": "2026-08-19T19:04:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "barcelona",
-      "traffic": "1000+",
+      "name": "fc barcelona",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "barcelona vs",
+      "name": "barcelona",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "atletico madrid",
+      "name": "barcelona vs",
       "traffic": "500+",
       "rank": 7
     },
     {
+      "name": "atletico madrid",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "gta 6 leaks",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "atlético madrid - málaga",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "chacarita",
-      "traffic": "500+",
       "rank": 10
     }
   ]
