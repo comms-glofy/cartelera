@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T12:38:02Z",
+  "updated": "2026-08-19T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nicolás varrone",
+      "name": "19 de agosto",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lucas sugo",
-      "traffic": "200+",
+      "name": "nicolás varrone",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alejandro stoessel",
-      "traffic": "100+",
+      "name": "lucas sugo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "nick kyrgios",
-      "traffic": "200+",
+      "name": "aumento salarial fuerzas armadas",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "san luis",
-      "traffic": "200+",
+      "name": "alejandro stoessel",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "nick kyrgios",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "san luis",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "general paz",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima santiago del estero",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "leonas",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "tiempo en santa fe",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "pucho ponce",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
