@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T02:36:29Z",
+  "updated": "2026-08-19T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "poceada",
-      "traffic": "200+",
+      "name": "alerta sofia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "poceada chaqueña",
-      "traffic": "1000+",
+      "name": "epidemia ebola",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "maxi salas",
+      "name": "jonathan calleri",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "luna de miel",
-      "traffic": "500+",
+      "name": "poceada",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "poceada chaqueña",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "maxi salas",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "luna de miel",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "canal 13",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "es mi sueño",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "marcela baños",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "martinelli",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tolima - independiente del valle",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "thiago silva",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
