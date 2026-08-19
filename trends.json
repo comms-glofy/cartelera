@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T11:49:15Z",
+  "updated": "2026-08-19T12:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san luis",
+      "name": "nick kyrgios",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "general paz",
-      "traffic": "100+",
+      "name": "san luis",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima santiago del estero",
+      "name": "general paz",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tiempo en santa fe",
+      "name": "clima santiago del estero",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "tiempo en santa fe",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "las leonas",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pucho ponce",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pensión",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "murio frank beard",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "filtraciones gta vi",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "iva jovic",
-      "traffic": "200+",
       "rank": 10
     }
   ]
