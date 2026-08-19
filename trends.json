@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T16:00:20Z",
+  "updated": "2026-08-19T16:29:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "btc usd",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "epicentro",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "bitcoin",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "cadena de supermercados",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "margarita ponce es mi sueño",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "moderna",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "19 de agosto",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "nicolás varrone",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lucas sugo",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "aumento salarial fuerzas armadas",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "alejandro stoessel",
-      "traffic": "100+",
       "rank": 10
     }
   ]
