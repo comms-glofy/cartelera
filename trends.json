@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T04:00:14Z",
+  "updated": "2026-08-19T04:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "filtraciones gta vi",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "iva jovic",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "alerta sofia",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "epidemia ebola",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "aumento fuerzas armadas",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "zuqui",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "poceada",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "poceada chaqueña",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "maxi salas",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "luna de miel",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "canal 13",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "es mi sueño",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
