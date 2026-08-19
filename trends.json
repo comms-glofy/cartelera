@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T20:30:13Z",
+  "updated": "2026-08-19T20:53:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ciclogénesis",
-      "traffic": "2000+",
+      "name": "ps6",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "2026",
-      "traffic": "500+",
+      "name": "mar del plata",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "12 de octubre",
-      "traffic": "200+",
+      "name": "river vs santa fe",
+      "traffic": "20000+",
       "rank": 3
+    },
+    {
+      "name": "ciclogénesis",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "2026",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "andes",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "12 de octubre",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "fighiera",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "bodo",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "gerardo sofovich",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "fiat pulse",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "cincinnati open 2026",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "lima",
-      "traffic": "200+",
       "rank": 10
     }
   ]
