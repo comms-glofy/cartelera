@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T05:00:15Z",
+  "updated": "2026-08-19T05:25:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "aumento fuerzas armadas",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
       "name": "zuqui",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "poceada",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "poceada chaqueña",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "maxi salas",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "luna de miel",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "canal 13",
+      "traffic": "200+",
       "rank": 10
     }
   ]
