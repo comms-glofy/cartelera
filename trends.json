@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T21:30:19Z",
+  "updated": "2026-08-19T21:49:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cerro - palmeiras",
-      "traffic": "10000+",
+      "name": "helicóptero",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "coquimbo unido - platense",
-      "traffic": "2000+",
+      "name": "racing - belgrano",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "atlético mineiro - bragantino",
-      "traffic": "200+",
+      "name": "a qué hora juega river",
+      "traffic": "20000+",
       "rank": 3
+    },
+    {
+      "name": "coquimbo unido - platense",
+      "traffic": "20000+",
+      "rank": 4
+    },
+    {
+      "name": "cerro - palmeiras",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "atlético mineiro - bragantino",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "marcelo polino",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "racing vs belgrano",
-      "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "rever pass",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "a qué hora juega river hoy",
-      "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "kenia",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lee kang-in",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "h&m",
-      "traffic": "200+",
       "rank": 10
     }
   ]
