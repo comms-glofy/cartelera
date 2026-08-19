@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T23:18:45Z",
+  "updated": "2026-08-19T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tribunal de justicia",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "las trillizas de oro",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "jack doohan",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "manuel adorni",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "philadelphia - inter miami",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "palmeiras",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "linda blair",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "atletico mineiro",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fortaleza - são bernardo",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mineiro",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "sucesos",
-      "traffic": "100+",
       "rank": 10
     }
   ]
