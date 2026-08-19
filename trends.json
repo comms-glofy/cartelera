@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T01:00:46Z",
+  "updated": "2026-08-19T01:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "poceada chaqueña",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "maxi salas",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "luna de miel",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "es mi sueño",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "banfield",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "marcela baños",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "alex arce",
-      "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "martinelli",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "fábio deivson lopes maciel",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "libertadores 2026",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "thiago silva",
-      "traffic": "1000+",
+      "name": "são paulo - bolívar",
+      "traffic": "10000+",
       "rank": 9
     },
     {
       "name": "tolima - independiente del valle",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
