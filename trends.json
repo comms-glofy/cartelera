@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T03:30:15Z",
+  "updated": "2026-08-19T03:42:03Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,22 +9,22 @@
       "rank": 1
     },
     {
-      "name": "boca vs sao paulo",
-      "traffic": "500+",
-      "rank": 2
-    },
-    {
       "name": "iva jovic",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "alerta sofia",
       "traffic": "100+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "epidemia ebola",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "zuqui",
       "traffic": "100+",
       "rank": 5
     },
