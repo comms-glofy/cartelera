@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T11:00:16Z",
+  "updated": "2026-08-19T11:20:42Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "san luis",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "general paz",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "clima santiago del estero",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "tiempo en santa fe",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "las leonas",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "pucho ponce",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "pensión",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "murio frank beard",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "filtraciones gta vi",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "quien gano es mi sueño",
-      "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "iva jovic",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "alerta sofia",
-      "traffic": "100+",
       "rank": 10
     }
   ]
