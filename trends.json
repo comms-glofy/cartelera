@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-19T19:30:14Z",
+  "updated": "2026-08-19T19:48:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tirante",
-      "traffic": "500+",
+      "name": "celtic",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "amistosos",
+      "name": "lima",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "resultados quiniela",
-      "traffic": "1000+",
+      "name": "thiago tirante",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "master 1000 cincinnati",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "atletico",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "tirante",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "amistosos",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "tenis hoy",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "alexander zverev",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "barcelona vs. al-ahly",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "barcelona vs al ahly",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "barca",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "zion suzuki",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "fútbol club barcelona",
+      "name": "barca",
       "traffic": "200+",
       "rank": 10
     }
