@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T22:00:19Z",
+  "updated": "2026-08-19T22:19:56Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tasa",
-      "traffic": "200+",
+      "name": "phillies - marlins",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "platense vs coquimbo unido",
-      "traffic": "100+",
+      "name": "tasa",
+      "traffic": "200+",
       "rank": 2
     },
     {
       "name": "ricardo centurión",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "platense vs coquimbo unido",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "helicóptero",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "racing - belgrano",
-      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "a qué hora juega river",
-      "traffic": "20000+",
+      "name": "racing - belgrano",
+      "traffic": "10000+",
       "rank": 6
+    },
+    {
+      "name": "a qué hora juega river",
+      "traffic": "50000+",
+      "rank": 7
     },
     {
       "name": "coquimbo unido - platense",
       "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "cerro - palmeiras",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "atlético mineiro - bragantino",
-      "traffic": "500+",
+      "name": "cerro - palmeiras",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "marcelo polino",
-      "traffic": "200+",
+      "name": "atlético mineiro - bragantino",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
