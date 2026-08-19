@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T19:04:02Z",
+  "updated": "2026-08-19T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexander zverev",
+      "name": "tirante",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "mensik",
+      "name": "amistosos",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "barca",
-      "traffic": "200+",
+      "name": "resultados quiniela",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "zion suzuki",
+      "name": "tenis hoy",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fc barcelona",
-      "traffic": "200+",
+      "name": "alexander zverev",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "barcelona",
-      "traffic": "1000+",
+      "name": "barcelona vs. al-ahly",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "barcelona vs",
-      "traffic": "500+",
+      "name": "barcelona vs al ahly",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "atletico madrid",
-      "traffic": "500+",
+      "name": "barca",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "gta 6 leaks",
-      "traffic": "200+",
+      "name": "zion suzuki",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "atlético madrid - málaga",
-      "traffic": "10000+",
+      "name": "fútbol club barcelona",
+      "traffic": "200+",
       "rank": 10
     }
   ]
