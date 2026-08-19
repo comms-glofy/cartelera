@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-19T22:19:56Z",
+  "updated": "2026-08-19T22:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "phillies - marlins",
+      "name": "zverev",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "sucesos",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "phillies - marlins",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "tasa",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "ricardo centurión",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "platense vs coquimbo unido",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "helicóptero",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "racing - belgrano",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "a qué hora juega river",
-      "traffic": "50000+",
       "rank": 7
     },
     {
-      "name": "coquimbo unido - platense",
+      "name": "racing - belgrano",
       "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "cerro - palmeiras",
-      "traffic": "5000+",
+      "name": "a qué hora juega river",
+      "traffic": "50000+",
       "rank": 9
     },
     {
-      "name": "atlético mineiro - bragantino",
-      "traffic": "1000+",
+      "name": "coquimbo unido - platense",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
