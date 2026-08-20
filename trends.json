@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T15:00:58Z",
+  "updated": "2026-08-20T15:28:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "demanda judicial",
-      "traffic": "200+",
+      "name": "luisana lopilato",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "comercio",
-      "traffic": "500+",
+      "name": "profesor",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dia de la papa frita",
-      "traffic": "100+",
+      "name": "demanda judicial",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cosquin rock",
+      "name": "comercio",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "dia de la papa frita",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "cosquin rock",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "javier milei",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "día del empleado de comercio",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "classroom",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "fábrica",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "los leones",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "ine",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "bbc news mundo",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
