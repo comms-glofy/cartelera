@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-20T04:00:15Z",
+  "updated": "2026-08-20T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "sabalenka",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -15,41 +15,41 @@
     },
     {
       "name": "orlando city - chicago fire",
-      "traffic": "100+",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "sara bejlek",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "20 de agosto",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "dario barassi",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "aryna sabalenka",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "la pagina millonaria",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "como salio river hoy",
-      "traffic": "1000+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "vasco da gama",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "sporting",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "gran hermano en vivo",
       "traffic": "200+",
       "rank": 10
     }
