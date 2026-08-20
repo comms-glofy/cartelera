@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T15:30:34Z",
+  "updated": "2026-08-20T16:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luisana lopilato",
-      "traffic": "100+",
+      "name": "quiniela de tucuman",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "profesor",
+      "name": "jacob elordi",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "demanda judicial",
-      "traffic": "200+",
+      "name": "luisana lopilato",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "comercio",
-      "traffic": "200+",
+      "name": "profesor",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "dia de la papa frita",
-      "traffic": "200+",
+      "name": "glaciar",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "cosquin rock",
+      "name": "demanda judicial",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "javier milei",
+      "name": "dia de la papa frita",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "día del empleado de comercio",
+      "name": "comercio",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "classroom",
+      "name": "cosquin rock",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "fábrica",
-      "traffic": "2000+",
+      "name": "javier milei",
+      "traffic": "500+",
       "rank": 10
     }
   ]
