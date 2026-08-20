@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-20T01:30:15Z",
+  "updated": "2026-08-20T02:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "otamendi",
+      "name": "fútbol",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "espn",
+      "name": "otamendi",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fútbol",
+      "name": "jonathan spiff",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "disney",
-      "traffic": "1000+",
+      "name": "espn",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "disney",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "yayo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lautaro rivero",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "river va",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "borre",
-      "traffic": "1000+",
+      "name": "river va",
+      "traffic": "500+",
       "rank": 10
     }
   ]
