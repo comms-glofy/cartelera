@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T00:00:18Z",
+  "updated": "2026-08-20T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flamengo - cruzeiro",
-      "traffic": "1000+",
+      "name": "eclipse lunar",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "columbus crew - montréal",
+      "name": "hugo rodallega",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "new york rb - nashville sc",
+      "name": "lucas pratto",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "provincia de buenos aires",
-      "traffic": "200+",
+      "name": "mls",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "yellowstone",
-      "traffic": "100+",
+      "name": "flamengo - cruzeiro",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "lodico",
-      "traffic": "100+",
+      "name": "columbus crew - montréal",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "estación de ferrocarril",
-      "traffic": "200+",
+      "name": "new york rb - nashville sc",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "tribunal de justicia",
+      "name": "provincia de buenos aires",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "las trillizas de oro",
+      "name": "yellowstone",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "jack doohan",
-      "traffic": "200+",
+      "name": "lodico",
+      "traffic": "100+",
       "rank": 10
     }
   ]
