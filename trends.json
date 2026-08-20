@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-20T22:30:12Z",
+  "updated": "2026-08-20T22:53:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pami",
-      "traffic": "1000+",
+      "name": "josé luis daza",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "línea sarmiento",
-      "traffic": "200+",
+      "name": "pietro puzone",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "pami",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "línea sarmiento",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "a qué hora juega rosario central",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "precipitación",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "güerrín",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "lucas trejo",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "quien es cerimedo",
-      "traffic": "200+",
+      "name": "olimpia",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "mariano closs",
+      "name": "güerrín",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "olimpia - vasco da gama",
-      "traffic": "5000+",
+      "name": "lucas trejo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clarín",
+      "name": "quien es cerimedo",
       "traffic": "200+",
       "rank": 10
     }
