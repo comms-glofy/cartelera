@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T10:02:28Z",
+  "updated": "2026-08-20T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima parana",
+      "name": "clima bahia blanca",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "el niño",
-      "traffic": "1000+",
+      "name": "clima parana",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sorteo quiniela",
+      "name": "el niño",
       "traffic": "2000+",
       "rank": 3
     },
     {
+      "name": "sorteo quiniela",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
       "name": "turco garcía",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "orlando city - chicago fire",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "20 de agosto",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "dario barassi",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "20 de agosto que se celebra",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "aryna sabalenka",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "como salio river hoy",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
