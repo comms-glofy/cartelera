@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-20T21:00:13Z",
+  "updated": "2026-08-20T21:24:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcelo weigandt",
-      "traffic": "100+",
+      "name": "macará - santos",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "ronaldinho",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "longevidad",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "joan manuel serrat",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "marcelo weigandt",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "2xko",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "flavio cobolli",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "tommy paul",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "belgrano cargas",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "atalanta",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "rayo vallecano",
+      "name": "flavio cobolli",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cotizacion dolar blue hoy",
-      "traffic": "500+",
+      "name": "belgrano cargas",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "liga conferencia",
-      "traffic": "100+",
+      "name": "rayo vallecano",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rayo vallecano - alavés",
+      "name": "atalanta",
       "traffic": "500+",
       "rank": 10
     }
