@@ -1,40 +1,40 @@
 {
-  "updated": "2026-08-20T12:00:16Z",
+  "updated": "2026-08-20T12:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "día del empleado de comercio",
+      "name": "javier milei",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "classroom",
-      "traffic": "1000+",
+      "name": "día del empleado de comercio",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fábrica",
-      "traffic": "200+",
+      "name": "classroom",
+      "traffic": "1000+",
       "rank": 3
     },
     {
       "name": "los leones",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "ine",
+      "name": "fábrica",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "bbc news mundo",
-      "traffic": "200+",
+      "name": "ine",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "argentina",
+      "name": "bbc news mundo",
       "traffic": "200+",
       "rank": 7
     },
