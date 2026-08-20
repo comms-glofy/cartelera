@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T22:22:08Z",
+  "updated": "2026-08-20T22:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "güerrín",
-      "traffic": "500+",
+      "name": "pami",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "lucas trejo",
+      "name": "línea sarmiento",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "quien es cerimedo",
-      "traffic": "200+",
+      "name": "a qué hora juega rosario central",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "mariano closs",
-      "traffic": "1000+",
+      "name": "precipitación",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "olimpia - vasco da gama",
-      "traffic": "5000+",
+      "name": "güerrín",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "clarín",
+      "name": "lucas trejo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "macará - santos",
-      "traffic": "2000+",
+      "name": "quien es cerimedo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ldu quito - mirassol",
-      "traffic": "500+",
+      "name": "mariano closs",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "asociación ilícita",
-      "traffic": "100+",
+      "name": "olimpia - vasco da gama",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "ronaldinho",
-      "traffic": "500+",
+      "name": "clarín",
+      "traffic": "200+",
       "rank": 10
     }
   ]
