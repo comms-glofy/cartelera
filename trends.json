@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T13:42:15Z",
+  "updated": "2026-08-20T14:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "javier milei",
-      "traffic": "200+",
+      "name": "cosquin rock",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "día del empleado de comercio",
+      "name": "javier milei",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "classroom",
-      "traffic": "1000+",
+      "name": "día del empleado de comercio",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "fábrica",
+      "name": "classroom",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "los leones",
+      "name": "fábrica",
       "traffic": "1000+",
       "rank": 5
     },
     {
+      "name": "los leones",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
       "name": "ine",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "bbc news mundo",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "clima parana",
+      "name": "argentina",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "el niño",
-      "traffic": "10000+",
+      "name": "clima bahia blanca",
+      "traffic": "100+",
       "rank": 10
     }
   ]
