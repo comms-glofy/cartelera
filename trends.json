@@ -1,46 +1,46 @@
 {
-  "updated": "2026-08-20T23:21:26Z",
+  "updated": "2026-08-20T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jorge asís",
+      "name": "julián álvarez",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jorge porcel",
+      "name": "jorge asís",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "masters de cincinnati",
+      "name": "jorge porcel",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "masters de cincinnati",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "santos",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "papa león xiv",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "josé luis daza",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "pietro puzone",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "línea sarmiento",
-      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "a qué hora juega rosario central",
-      "traffic": "10000+",
+      "name": "línea sarmiento",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
