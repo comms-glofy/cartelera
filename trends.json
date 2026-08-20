@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T21:30:12Z",
+  "updated": "2026-08-20T21:52:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "macará - santos",
-      "traffic": "500+",
+      "name": "quien es cerimedo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ronaldinho",
-      "traffic": "200+",
+      "name": "mariano closs",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "longevidad",
-      "traffic": "200+",
+      "name": "olimpia - vasco da gama",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "joan manuel serrat",
+      "name": "clarín",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "marcelo weigandt",
-      "traffic": "200+",
+      "name": "macará - santos",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "2xko",
-      "traffic": "100+",
+      "name": "ldu quito - mirassol",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "flavio cobolli",
+      "name": "ronaldinho",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "belgrano cargas",
-      "traffic": "100+",
+      "name": "longevidad",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "rayo vallecano",
+      "name": "joan manuel serrat",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "atalanta",
-      "traffic": "500+",
+      "name": "marcelo weigandt",
+      "traffic": "200+",
       "rank": 10
     }
   ]
