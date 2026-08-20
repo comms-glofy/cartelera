@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-20T08:33:13Z",
+  "updated": "2026-08-20T09:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "el niño",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "sorteo quiniela",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "turco garcía",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "orlando city - chicago fire",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "20 de agosto",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "dario barassi",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "20 de agosto que se celebra",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "aryna sabalenka",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "como salio river hoy",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "vasco da gama",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "daniel torres",
+      "name": "vasco da gama",
       "traffic": "200+",
       "rank": 10
     }
