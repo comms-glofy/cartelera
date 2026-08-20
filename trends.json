@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T16:00:17Z",
+  "updated": "2026-08-20T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela de tucuman",
+      "name": "quiniela",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jacob elordi",
+      "name": "israel",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "luisana lopilato",
-      "traffic": "100+",
+      "name": "obra social",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "profesor",
-      "traffic": "100+",
+      "name": "jonathan gomez",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "glaciar",
-      "traffic": "100+",
+      "name": "quiniela de hoy",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "demanda judicial",
-      "traffic": "500+",
+      "name": "araceli gonzález",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "dia de la papa frita",
-      "traffic": "500+",
+      "name": "granizo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "comercio",
+      "name": "hija",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cosquin rock",
-      "traffic": "1000+",
+      "name": "pago",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "javier milei",
-      "traffic": "500+",
+      "name": "las trillizas de oro",
+      "traffic": "100+",
       "rank": 10
     }
   ]
