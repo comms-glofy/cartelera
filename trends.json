@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T10:30:14Z",
+  "updated": "2026-08-20T10:56:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima bahia blanca",
+      "name": "bbc news mundo",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "argentina",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "clima bahia blanca",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "clima parana",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "sorteo quiniela",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "turco garcía",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "orlando city - chicago fire",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "20 de agosto",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "dario barassi",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "20 de agosto que se celebra",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "aryna sabalenka",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
