@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T14:00:15Z",
+  "updated": "2026-08-20T14:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cosquin rock",
-      "traffic": "100+",
+      "name": "demanda judicial",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "javier milei",
-      "traffic": "200+",
+      "name": "comercio",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "día del empleado de comercio",
-      "traffic": "200+",
+      "name": "dia de la papa frita",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "cosquin rock",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "javier milei",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "classroom",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "fábrica",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "los leones",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ine",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "bbc news mundo",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "argentina",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
+      "name": "bbc news mundo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
