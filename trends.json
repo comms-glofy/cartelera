@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T09:30:15Z",
+  "updated": "2026-08-20T10:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el niño",
-      "traffic": "500+",
+      "name": "clima parana",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "el niño",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "sorteo quiniela",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "turco garcía",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "orlando city - chicago fire",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "20 de agosto",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "dario barassi",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "20 de agosto que se celebra",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "aryna sabalenka",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "como salio river hoy",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "vasco da gama",
-      "traffic": "200+",
       "rank": 10
     }
   ]
