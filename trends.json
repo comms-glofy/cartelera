@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T16:30:15Z",
+  "updated": "2026-08-20T17:00:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela",
+      "name": "pierre gasly",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "israel",
-      "traffic": "100+",
+      "name": "xbox cloud gaming",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "obra social",
+      "name": "israel",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jonathan gomez",
+      "name": "quiniela",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "quiniela de hoy",
+      "name": "jonathan gomez",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "araceli gonzález",
-      "traffic": "100+",
+      "name": "obra social",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "granizo",
-      "traffic": "200+",
+      "name": "araceli gonzález",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "hija",
+      "name": "quiniela de hoy",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "pago",
-      "traffic": "100+",
+      "name": "dólar hoy",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "las trillizas de oro",
-      "traffic": "100+",
+      "name": "hija",
+      "traffic": "500+",
       "rank": 10
     }
   ]
