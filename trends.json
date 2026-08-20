@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T00:30:17Z",
+  "updated": "2026-08-20T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "eclipse lunar",
-      "traffic": "200+",
+      "name": "yayo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "hugo rodallega",
-      "traffic": "100+",
+      "name": "lautaro rivero",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lucas pratto",
-      "traffic": "100+",
+      "name": "river va",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mls",
-      "traffic": "500+",
+      "name": "tigre vs torque",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "flamengo - cruzeiro",
+      "name": "disney plus",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "columbus crew - montréal",
-      "traffic": "200+",
+      "name": "borre",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "new york rb - nashville sc",
-      "traffic": "100+",
+      "name": "river",
+      "traffic": "100000+",
       "rank": 7
     },
     {
-      "name": "provincia de buenos aires",
-      "traffic": "200+",
+      "name": "guillermo andino",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "yellowstone",
-      "traffic": "100+",
+      "name": "flamengo",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "lodico",
-      "traffic": "100+",
+      "name": "flamengo vs cruzeiro",
+      "traffic": "200+",
       "rank": 10
     }
   ]
