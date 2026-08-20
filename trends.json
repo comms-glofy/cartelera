@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-20T04:32:59Z",
+  "updated": "2026-08-20T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "sorteo quiniela",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "sabalenka",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "turco garcía",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "orlando city - chicago fire",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "sara bejlek",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "20 de agosto",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "dario barassi",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "como salio river hoy",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "vasco da gama",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "sporting",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "gran hermano en vivo",
+      "name": "sporting",
       "traffic": "200+",
       "rank": 10
     }
