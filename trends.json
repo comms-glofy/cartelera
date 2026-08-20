@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-20T21:52:15Z",
+  "updated": "2026-08-20T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quien es cerimedo",
-      "traffic": "100+",
+      "name": "lucas trejo",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "quien es cerimedo",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "mariano closs",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "olimpia - vasco da gama",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clarín",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "macará - santos",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ldu quito - mirassol",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "asociación ilícita",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "ronaldinho",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "longevidad",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "joan manuel serrat",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "marcelo weigandt",
+      "name": "longevidad",
       "traffic": "200+",
       "rank": 10
     }
