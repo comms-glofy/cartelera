@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T19:00:17Z",
+  "updated": "2026-08-20T19:27:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuanto esta el dolar hoy",
+      "name": "rayo vallecano - alavés",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "peru",
-      "traffic": "100+",
+      "name": "emilia attias",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima mar del plata",
+      "name": "atalanta - h. tel aviv",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "al feiha - al hilal",
-      "traffic": "200+",
+      "name": "cuanto esta el dolar hoy",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "górnik - mónaco",
-      "traffic": "100+",
+      "name": "peru",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "sergio denis",
+      "name": "clima mar del plata",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "brighton",
-      "traffic": "100+",
+      "name": "al feiha - al hilal",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "wanda nara",
-      "traffic": "500+",
+      "name": "górnik - mónaco",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "aeroparque internacional jorge newbery",
-      "traffic": "200+",
+      "name": "sergio denis",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "medicina prepaga",
-      "traffic": "1000+",
+      "name": "brighton",
+      "traffic": "200+",
       "rank": 10
     }
   ]
