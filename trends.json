@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T02:30:15Z",
+  "updated": "2026-08-20T02:35:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "accidente",
+      "name": "martinez quarta",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "sporting",
+      "name": "vasco da gama",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "accidente",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "sporting",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "gran hermano en vivo",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "telefe",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "fútbol",
-      "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "otamendi",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
-      "name": "jonathan spiff",
+      "name": "fútbol",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "espn",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "angel correa",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "santiago beltrán",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
