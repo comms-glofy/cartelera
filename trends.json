@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T11:30:14Z",
+  "updated": "2026-08-20T11:52:06Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fábrica",
-      "traffic": "200+",
+      "name": "día del empleado de comercio",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "los leones",
-      "traffic": "100+",
+      "name": "classroom",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "ine",
+      "name": "fábrica",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bbc news mundo",
+      "name": "los leones",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "argentina",
-      "traffic": "200+",
+      "name": "ine",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
+      "name": "bbc news mundo",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima parana",
+      "name": "argentina",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "el niño",
-      "traffic": "5000+",
+      "name": "clima bahia blanca",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "sorteo quiniela",
-      "traffic": "2000+",
+      "name": "clima parana",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "turco garcía",
-      "traffic": "100+",
+      "name": "el niño",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
