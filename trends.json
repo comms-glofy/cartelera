@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T11:00:17Z",
+  "updated": "2026-08-20T11:24:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bbc news mundo",
-      "traffic": "100+",
+      "name": "fábrica",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "argentina",
+      "name": "los leones",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
+      "name": "ine",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima parana",
+      "name": "bbc news mundo",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "el niño",
-      "traffic": "2000+",
+      "name": "argentina",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "clima bahia blanca",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "clima parana",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "el niño",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "sorteo quiniela",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "turco garcía",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "orlando city - chicago fire",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "20 de agosto",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "dario barassi",
-      "traffic": "200+",
       "rank": 10
     }
   ]
