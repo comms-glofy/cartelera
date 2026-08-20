@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-20T22:00:14Z",
+  "updated": "2026-08-20T22:22:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lucas trejo",
-      "traffic": "200+",
+      "name": "güerrín",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "quien es cerimedo",
+      "name": "lucas trejo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mariano closs",
-      "traffic": "1000+",
+      "name": "quien es cerimedo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "olimpia - vasco da gama",
-      "traffic": "2000+",
+      "name": "mariano closs",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "olimpia - vasco da gama",
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "clarín",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "macará - santos",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "ldu quito - mirassol",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "asociación ilícita",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "ronaldinho",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "longevidad",
-      "traffic": "200+",
+      "name": "ronaldinho",
+      "traffic": "500+",
       "rank": 10
     }
   ]
