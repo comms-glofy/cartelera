@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T19:00:14Z",
+  "updated": "2026-08-21T19:22:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "masa de aire",
+      "name": "sara bejlek",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "real betis - real sociedad",
-      "traffic": "500+",
+      "name": "madison keys",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "erzurumspor - galatasaray",
+      "name": "jannik sinner",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sofia clerici",
+      "name": "turismo carretera",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "masa de aire",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "real betis - real sociedad",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "erzurumspor - galatasaray",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "sofia clerici",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "posiciones de al riyadh contra al-nassr",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "valentina cervantes",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "san telmo - deportivo morón",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "aldosivi",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "premier",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "mickey rourke",
-      "traffic": "200+",
       "rank": 10
     }
   ]
