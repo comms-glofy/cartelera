@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-21T05:00:14Z",
+  "updated": "2026-08-21T05:28:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "fede bal",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "quiniela plus",
+      "name": "sebastián báez",
       "traffic": "500+",
       "rank": 6
     },
     {
+      "name": "quiniela plus",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "entrenamiento",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tirante",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "patricia sosa",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "quinielas de hoy",
+      "name": "patricia sosa",
       "traffic": "200+",
       "rank": 10
     }
