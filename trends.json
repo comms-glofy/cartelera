@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T04:00:16Z",
+  "updated": "2026-08-21T04:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "ángel di maría",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "ébola oms",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "partidos de copa libertadores",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "cincinnati open 2026",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "depay",
-      "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "quiniela plus",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "entrenamiento",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "di maria",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "tirante",
-      "traffic": "1000+",
+      "name": "patricia sosa",
+      "traffic": "200+",
       "rank": 10
     }
   ]
