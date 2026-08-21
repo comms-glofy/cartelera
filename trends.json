@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-21T12:00:18Z",
+  "updated": "2026-08-21T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peaje",
-      "traffic": "100+",
+      "name": "político",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fábrica",
+      "name": "peaje",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "acusación",
+      "name": "fábrica",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "disney plus",
-      "traffic": "1000+",
+      "name": "acusación",
+      "traffic": "200+",
       "rank": 4
     },
     {
       "name": "plástico",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "decreto",
-      "traffic": "500+",
+      "name": "disney plus",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "chofer",
-      "traffic": "200+",
+      "name": "decreto",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "fede bal",
-      "traffic": "1000+",
+      "name": "chofer",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "benjamín vicuña",
-      "traffic": "200+",
+      "name": "fede bal",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "independiente del valle",
+      "name": "benjamín vicuña",
       "traffic": "200+",
       "rank": 10
     }
