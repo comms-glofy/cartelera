@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T22:00:19Z",
+  "updated": "2026-08-21T22:19:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sismología",
-      "traffic": "200+",
+      "name": "boca racing",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "somalia",
+      "name": "mauro zárate",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pensilvania",
+      "name": "a qué hora juega san lorenzo",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "camila morrone",
+      "name": "24 de agosto",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "sismología",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "somalia",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "pensilvania",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "camila morrone",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "supermercado",
       "traffic": "500+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "gran premio de los países bajos",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "marcelo bonelli",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "asociación ilícita",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "taylor fritz",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "alianza atlético - sporting cristal",
-      "traffic": "500+",
       "rank": 10
     }
   ]
