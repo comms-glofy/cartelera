@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T02:30:19Z",
+  "updated": "2026-08-21T02:42:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rosario",
+      "name": "ángel di maría",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "depay",
-      "traffic": "500+",
+      "name": "ébola oms",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "yuri alberto",
-      "traffic": "200+",
+      "name": "partidos de copa libertadores",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "quiniela plus",
-      "traffic": "500+",
+      "name": "cincinnati open 2026",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tirante",
-      "traffic": "1000+",
+      "name": "rosario",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "garro",
+      "name": "depay",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "quinielas de hoy",
-      "traffic": "200+",
+      "name": "yuri alberto",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "arthur fils",
-      "traffic": "2000+",
+      "name": "quiniela plus",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "wings - fever",
-      "traffic": "100+",
+      "name": "tirante",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "armada argentina",
-      "traffic": "100+",
+      "name": "garro",
+      "traffic": "500+",
       "rank": 10
     }
   ]
