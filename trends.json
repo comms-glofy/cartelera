@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T20:48:31Z",
+  "updated": "2026-08-21T21:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "marcelo bonelli",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "asociación ilícita",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "taylor fritz",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "alianza atlético - sporting cristal",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clasificación mundial de clubes 2029",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "arsenal fc",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "devaluación",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "asociación trabajadores del estado",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "posiciones de aldosivi contra club atlético unión",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "córdoba - girona",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "sara bejlek",
-      "traffic": "500+",
       "rank": 10
     }
   ]
