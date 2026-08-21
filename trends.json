@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T09:00:16Z",
+  "updated": "2026-08-21T09:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "cincinnati open 2026",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
       "name": "sebastián báez",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "quiniela plus",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "yuri alberto",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "entrenamiento",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "tirante",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
