@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-21T22:49:20Z",
+  "updated": "2026-08-21T23:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "deportivo madryn",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "posiciones de alianza atlético contra sporting cristal",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "ángel correa",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "name": "abuelo",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "contrabando",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "estudiantes de río cuarto - san lorenzo",
-      "traffic": "5000+",
-      "rank": 3
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "servicio geológico minero argentino",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "automovilismo",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "mauro zárate",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "boca racing",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "24 de agosto",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "somalia",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pensilvania",
+      "name": "boca racing",
       "traffic": "100+",
       "rank": 10
     }
