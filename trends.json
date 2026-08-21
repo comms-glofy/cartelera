@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T14:00:13Z",
+  "updated": "2026-08-21T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "peaje",
+      "name": "classroom",
       "traffic": "500+",
       "rank": 7
     },
     {
+      "name": "peaje",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "fábrica",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "acusación",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "plástico",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
