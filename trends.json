@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T20:30:13Z",
+  "updated": "2026-08-21T20:48:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "taylor fritz",
+      "name": "asociación ilícita",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "alianza atlético - sporting cristal",
+      "name": "taylor fritz",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "arsenal fc",
-      "traffic": "100+",
+      "name": "alianza atlético - sporting cristal",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "asociación trabajadores del estado",
-      "traffic": "200+",
+      "name": "clasificación mundial de clubes 2029",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "arsenal fc",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "devaluación",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "posiciones de aldosivi contra club atlético unión",
-      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "córdoba - girona",
+      "name": "asociación trabajadores del estado",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sara bejlek",
-      "traffic": "500+",
+      "name": "posiciones de aldosivi contra club atlético unión",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "tini pa' él",
+      "name": "córdoba - girona",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "agua y saneamientos argentinos",
-      "traffic": "200+",
+      "name": "sara bejlek",
+      "traffic": "500+",
       "rank": 10
     }
   ]
