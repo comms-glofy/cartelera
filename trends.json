@@ -1,46 +1,46 @@
 {
-  "updated": "2026-08-21T23:19:01Z",
+  "updated": "2026-08-21T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "taller",
-      "traffic": "100+",
+      "name": "quiniela de tucuman",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "al-nassr football club",
-      "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "nieta",
+      "name": "taller",
       "traffic": "100+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "nico paz",
       "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "al-nassr football club",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "presidente",
+      "name": "nieta",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "deportivo madryn",
+      "name": "presidente",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "ángel correa",
-      "traffic": "500+",
+      "name": "deportivo madryn",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "posiciones de alianza atlético contra sporting cristal",
-      "traffic": "200+",
+      "name": "ángel correa",
+      "traffic": "500+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "contrabando",
-      "traffic": "100+",
+      "name": "posiciones de alianza atlético contra sporting cristal",
+      "traffic": "200+",
       "rank": 10
     }
   ]
