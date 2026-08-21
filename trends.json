@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:30:15Z",
+  "updated": "2026-08-21T03:46:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,13 +9,13 @@
       "rank": 1
     },
     {
-      "name": "independiente del valle",
+      "name": "benjamín vicuña",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "benjamín vicuña",
-      "traffic": "100+",
+      "name": "independiente del valle",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "ébola oms",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "tirante",
-      "traffic": "1000+",
+      "name": "entrenamiento",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "patricia sosa",
-      "traffic": "200+",
+      "name": "tirante",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
