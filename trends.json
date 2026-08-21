@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T06:30:13Z",
+  "updated": "2026-08-21T06:57:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
+      "name": "copa libertadores 2026",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "fils",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sebastián báez",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "yuri alberto",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "quiniela plus",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "entrenamiento",
-      "traffic": "100+",
       "rank": 10
     }
   ]
