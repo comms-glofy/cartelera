@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T01:03:55Z",
+  "updated": "2026-08-21T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "botafogo vs",
-      "traffic": "1000+",
+      "name": "tirante",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "thiago agustín tirante",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "garro",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "quinielas de hoy",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "arthur fils",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "wings - fever",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
-      "name": "cincinnati open",
-      "traffic": "2000+",
-      "rank": 4
+      "name": "armada argentina",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "botafogo",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "quiniela hoy",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "memphis depay",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "ryan hurst",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "kendry páez",
-      "traffic": "100+",
+      "name": "cincinnati open",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "enfermedad por el virus del ébola",
-      "traffic": "100+",
+      "name": "quiniela hoy",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
