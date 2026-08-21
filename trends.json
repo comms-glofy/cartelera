@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T16:42:10Z",
+  "updated": "2026-08-21T17:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "al nassr",
-      "traffic": "100+",
+      "name": "aldosivi - unión",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "al nassr",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "michael estrada",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "cotización dólar blue hoy",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "premier league",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "tren de carga",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "al riyadh - al-nassr",
-      "traffic": "1000+",
+      "name": "tren de carga",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "al riyadh - al-nassr",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "btc usd",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "importación",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "sanción",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "gobernador",
-      "traffic": "200+",
       "rank": 10
     }
   ]
