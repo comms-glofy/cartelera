@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T17:30:14Z",
+  "updated": "2026-08-21T17:55:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "axel kicillof",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "acassuso - godoy cruz",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "rm",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "el polaco",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "pato galmarini",
-      "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "san juan",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "pato galmarini",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "iphone 18 pro max",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "jujuy",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "dia de la futbolista argentina",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "aldosivi - unión",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "michael estrada",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cotización dólar blue hoy",
-      "traffic": "200+",
+      "name": "aldosivi - unión",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
