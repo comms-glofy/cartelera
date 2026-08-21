@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-21T16:00:14Z",
+  "updated": "2026-08-21T16:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "premier league",
+      "name": "al nassr",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tren de carga",
+      "name": "michael estrada",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "al riyadh - al-nassr",
-      "traffic": "500+",
+      "name": "cotización dólar blue hoy",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "premier league",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "tren de carga",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "al riyadh - al-nassr",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "btc usd",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "importación",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "sanción",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "gobernador",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "gendarmería",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "disney+",
-      "traffic": "100+",
+      "name": "selección de fútbol de argentina",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "avenida de mayo",
+      "name": "gobernador",
       "traffic": "200+",
       "rank": 10
     }
