@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T22:30:15Z",
+  "updated": "2026-08-21T22:49:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estudiantes de río cuarto - san lorenzo",
-      "traffic": "500+",
+      "name": "ángel correa",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "contrabando",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "estudiantes de río cuarto - san lorenzo",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "servicio geológico minero argentino",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "automovilismo",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "mauro zárate",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "boca racing",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "24 de agosto",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "sismología",
-      "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "somalia",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "pensilvania",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "camila morrone",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "supermercado",
-      "traffic": "500+",
       "rank": 10
     }
   ]
