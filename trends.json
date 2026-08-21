@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T06:00:14Z",
+  "updated": "2026-08-21T06:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
+      "name": "fils",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "sebastián báez",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "yuri alberto",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "quiniela plus",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "entrenamiento",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "patricia sosa",
-      "traffic": "200+",
       "rank": 10
     }
   ]
