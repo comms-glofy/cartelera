@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T18:30:40Z",
+  "updated": "2026-08-21T19:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de al riyadh contra al-nassr",
-      "traffic": "500+",
+      "name": "masa de aire",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "real betis - real sociedad",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "erzurumspor - galatasaray",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "sofia clerici",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "posiciones de al riyadh contra al-nassr",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "valentina cervantes",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "aldosivi",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "san telmo - deportivo morón",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "premier",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "axel kicillof",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "acassuso - godoy cruz",
+      "name": "san telmo - deportivo morón",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "rm",
-      "traffic": "100+",
+      "name": "aldosivi",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "el polaco",
-      "traffic": "500+",
+      "name": "premier",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "san juan",
-      "traffic": "2000+",
+      "name": "mickey rourke",
+      "traffic": "200+",
       "rank": 10
     }
   ]
