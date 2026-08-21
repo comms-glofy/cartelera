@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T03:00:15Z",
+  "updated": "2026-08-21T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "independiente del valle",
-      "traffic": "100+",
+      "name": "fede bal",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "independiente del valle",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "benjamín vicuña",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ángel di maría",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "ébola oms",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "cincinnati open 2026",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "copa libertadores 2026",
-      "traffic": "500+",
       "rank": 6
-    },
-    {
-      "name": "rosario",
-      "traffic": "500+",
-      "rank": 7
     },
     {
       "name": "depay",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "yuri alberto",
-      "traffic": "500+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "quiniela plus",
       "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "tirante",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "patricia sosa",
+      "traffic": "200+",
       "rank": 10
     }
   ]
