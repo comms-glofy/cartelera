@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T00:00:16Z",
+  "updated": "2026-08-21T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corrupción",
-      "traffic": "200+",
+      "name": "rosario central",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "sebastián ortega",
-      "traffic": "100+",
+      "name": "puma rodriguez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "iga świątek",
-      "traffic": "500+",
+      "name": "neuquén",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "elena rybakina",
-      "traffic": "200+",
+      "name": "deyverson",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "yayo guridi",
-      "traffic": "1000+",
+      "name": "mirassol",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "julián álvarez",
-      "traffic": "200+",
+      "name": "botafogo vs cienciano",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "jorge asís",
-      "traffic": "200+",
+      "name": "taylor sheridan",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "jorge porcel",
+      "name": "sebastián ortega",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "masters de cincinnati",
-      "traffic": "200+",
+      "name": "corrupción",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "santos",
-      "traffic": "1000+",
+      "name": "yayo guridi",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
