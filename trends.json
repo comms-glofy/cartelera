@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T21:30:17Z",
+  "updated": "2026-08-21T21:47:56Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "gran premio de los países bajos",
-      "traffic": "5000+",
+      "name": "marcelo bonelli",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "marcelo bonelli",
-      "traffic": "200+",
+      "name": "asociación ilícita",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "asociación ilícita",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
       "name": "taylor fritz",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "alianza atlético - sporting cristal",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "clasificación mundial de clubes 2029",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "asociación trabajadores del estado",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "devaluación",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "vivienda",
+      "traffic": "200+",
       "rank": 10
     }
   ]
