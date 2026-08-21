@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T21:20:00Z",
+  "updated": "2026-08-21T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "supermercado",
-      "traffic": "200+",
+      "name": "camila morrone",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "marcelo bonelli",
+      "name": "supermercado",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "asociación ilícita",
-      "traffic": "200+",
+      "name": "gran premio de los países bajos",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "taylor fritz",
+      "name": "marcelo bonelli",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "alianza atlético - sporting cristal",
+      "name": "asociación ilícita",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "clasificación mundial de clubes 2029",
-      "traffic": "200+",
+      "name": "taylor fritz",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "devaluación",
+      "name": "alianza atlético - sporting cristal",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "asociación trabajadores del estado",
-      "traffic": "500+",
+      "name": "clasificación mundial de clubes 2029",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "córdoba - girona",
-      "traffic": "200+",
+      "name": "asociación trabajadores del estado",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tini pa' él",
-      "traffic": "200+",
+      "name": "devaluación",
+      "traffic": "500+",
       "rank": 10
     }
   ]
