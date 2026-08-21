@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T04:33:32Z",
+  "updated": "2026-08-21T05:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "partidos de copa libertadores",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "cincinnati open 2026",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
       "name": "quiniela plus",
       "traffic": "500+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "entrenamiento",
       "traffic": "100+",
-      "rank": 9
+      "rank": 7
+    },
+    {
+      "name": "tirante",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "patricia sosa",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "quinielas de hoy",
       "traffic": "200+",
       "rank": 10
     }
