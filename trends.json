@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T19:47:04Z",
+  "updated": "2026-08-21T20:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sara bejlek",
-      "traffic": "200+",
+      "name": "posiciones de aldosivi contra club atlético unión",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "madison keys",
-      "traffic": "100+",
+      "name": "sara bejlek",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "jannik sinner",
+      "name": "madison keys",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "turismo carretera",
+      "name": "jannik sinner",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "turismo carretera",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "agua y saneamientos argentinos",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "masa de aire",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "real betis - real sociedad",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "erzurumspor - galatasaray",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "sofia clerici",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de al riyadh contra al-nassr",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
