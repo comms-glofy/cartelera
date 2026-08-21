@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-21T14:30:15Z",
+  "updated": "2026-08-21T15:00:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "autopsia",
-      "traffic": "100+",
+      "name": "paredes",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "avenida de mayo",
-      "traffic": "100+",
+      "name": "gendarmería",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "suerte",
+      "name": "disney+",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "aumento para las fuerzas de seguridad",
-      "traffic": "100+",
+      "name": "avenida de mayo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lautaro",
+      "name": "autopsia",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "político",
+      "name": "suerte",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "classroom",
-      "traffic": "500+",
+      "name": "aumento para las fuerzas de seguridad",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "peaje",
-      "traffic": "500+",
+      "name": "lautaro",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "fábrica",
+      "name": "político",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "acusación",
+      "name": "classroom",
       "traffic": "500+",
       "rank": 10
     }
