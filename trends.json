@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T15:00:44Z",
+  "updated": "2026-08-21T15:28:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paredes",
-      "traffic": "200+",
+      "name": "gobernador",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "paredes",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "gendarmería",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "disney+",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "avenida de mayo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "autopsia",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "suerte",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "aumento para las fuerzas de seguridad",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "lautaro",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "político",
+      "name": "lautaro",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "classroom",
-      "traffic": "500+",
+      "name": "político",
+      "traffic": "200+",
       "rank": 10
     }
   ]
