@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T18:30:13Z",
+  "updated": "2026-08-22T18:56:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san martín - gimnasia y tiro de salta",
-      "traffic": "500+",
+      "name": "las leonas",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "nueva chicago - atlanta",
+      "name": "chaco for ever - los andes",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "patronato - gimnasia jujuy",
+      "name": "bautista vicuña",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "inundación",
-      "traffic": "200+",
+      "name": "talleres de escalada",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "placa de nazca",
-      "traffic": "100+",
+      "name": "rcd espanyol - real madrid",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "tristán suárez - agropecuario",
+      "name": "fluminense - remo",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "bayern munich",
+      "name": "supercopa de alemania",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "como vs",
+      "name": "napoli",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "gastón salmain",
+      "name": "arthur fils",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "dortmund - bayern",
-      "traffic": "5000+",
+      "name": "bayer leverkusen",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
