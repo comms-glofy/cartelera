@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T11:16:59Z",
+  "updated": "2026-08-22T11:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hull city - manchester united",
-      "traffic": "1000+",
+      "name": "wehen wiesbaden - leverkusen",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "manchester united",
+      "name": "maría susini",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bono",
-      "traffic": "200+",
+      "name": "camioneta",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cedric sbirrazzuoli",
+      "name": "hull city - manchester united",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "f1 sprint",
+      "name": "bono",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "periodista",
-      "traffic": "200+",
+      "name": "f1",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "disney plus",
-      "traffic": "500+",
+      "name": "cedric sbirrazzuoli",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "disney",
+      "name": "f1 sprint",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "denisse gonzalez salud",
-      "traffic": "100+",
+      "name": "periodista",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "p",
-      "traffic": "100+",
+      "name": "disney plus",
+      "traffic": "500+",
       "rank": 10
     }
   ]
