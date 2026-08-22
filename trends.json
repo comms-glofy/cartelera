@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T18:00:17Z",
+  "updated": "2026-08-22T18:22:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tristán suárez - agropecuario",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "como vs",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "bayern munich",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "gastón salmain",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "dortmund - bayern",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "mundial de hockey 2026",
       "traffic": "500+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "epic games",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "lácteo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "como",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "all blacks",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "los leones",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "inter milan",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "inter de milán",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "river velez",
-      "traffic": "200+",
       "rank": 10
     }
   ]
