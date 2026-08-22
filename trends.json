@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T21:30:13Z",
+  "updated": "2026-08-22T21:44:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "andrea kimi antonelli",
-      "traffic": "100+",
+      "name": "kylian mbappé",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "28 de agosto",
-      "traffic": "5000+",
+      "name": "mar del plata",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "falla",
+      "name": "tren de carga",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jessica pegula",
+      "name": "sporting lisboa",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "deportivo maldonado - peñarol",
+      "name": "andrea kimi antonelli",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "valeria mazza",
-      "traffic": "200+",
+      "name": "28 de agosto",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "instituto hoy",
-      "traffic": "100+",
+      "name": "falla",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "primera",
-      "traffic": "200+",
+      "name": "jessica pegula",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "chicago vs",
-      "traffic": "100+",
+      "name": "deportivo maldonado - peñarol",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "independiente - independiente rivadavia",
-      "traffic": "20000+",
+      "name": "valeria mazza",
+      "traffic": "200+",
       "rank": 10
     }
   ]
