@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T00:30:16Z",
+  "updated": "2026-08-22T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "maju lozano",
+      "name": "león - monterrey",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "san lorenzo hoy",
+      "name": "mls",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "miranda!",
+      "name": "dep. cuenca - mushuc runa",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "frances tiafoe",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "puma rodriguez",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "independiente del valle",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "maju lozano",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "miranda!",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "sedán",
       "traffic": "200+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "club sportivo independiente rivadavia",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "nelson castro",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "asignación universal por hijo",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "base militar",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "the strongest",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "unai emery",
-      "traffic": "100+",
       "rank": 10
     }
   ]
