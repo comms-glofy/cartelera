@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T01:00:38Z",
+  "updated": "2026-08-22T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "león - monterrey",
-      "traffic": "200+",
+      "name": "javier milei",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "mls",
-      "traffic": "500+",
+      "name": "eduardo sacheri",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dep. cuenca - mushuc runa",
-      "traffic": "100+",
+      "name": "tiafoe",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "frances tiafoe",
+      "name": "juventud antoniana",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "león - monterrey",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "mls",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "dep. cuenca - mushuc runa",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "puma rodriguez",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "independiente del valle",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "maju lozano",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "miranda!",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "sedán",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "club sportivo independiente rivadavia",
-      "traffic": "200+",
+      "name": "san lorenzo hoy",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
