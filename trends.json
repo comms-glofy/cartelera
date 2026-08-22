@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-22T11:43:54Z",
+  "updated": "2026-08-22T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la voz del interior",
+      "name": "privatización",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "wehen wiesbaden - leverkusen",
+      "name": "la voz del interior",
       "traffic": "100+",
       "rank": 2
     },
@@ -20,37 +20,37 @@
     },
     {
       "name": "camioneta",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "wehen wiesbaden - leverkusen",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "hull city - manchester united",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "bono",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "f1",
-      "traffic": "5000+",
+      "name": "bono",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "f1",
+      "traffic": "10000+",
+      "rank": 8
     },
     {
       "name": "cedric sbirrazzuoli",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "periodista",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "disney plus",
-      "traffic": "500+",
       "rank": 10
     }
   ]
