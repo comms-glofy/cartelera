@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T20:00:14Z",
+  "updated": "2026-08-22T20:17:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "agustín módica",
-      "traffic": "200+",
+      "name": "a qué hora juega independiente",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fin de semana",
-      "traffic": "1000+",
+      "name": "dortmund",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "fin de semana",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "nathaniel brown",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "gelp",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "toulouse - lyon",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "gimnasia",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "la matanza",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "dibu martínez",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "flavio cobolli",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "atlanta",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "colon",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
