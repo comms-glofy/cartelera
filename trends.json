@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T02:32:53Z",
+  "updated": "2026-08-22T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "chapo guzman",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "coco gauff",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "denuncia",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "tigres - atlante",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "eduardo sacheri",
+      "name": "tigres - atlante",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "juventud antoniana",
+      "name": "javier milei",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tiafoe",
+      "name": "eduardo sacheri",
       "traffic": "500+",
       "rank": 6
     },
     {
+      "name": "juventud antoniana",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "tiafoe",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "león - monterrey",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "mls",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "dep. cuenca - mushuc runa",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "independiente del valle",
-      "traffic": "500+",
       "rank": 10
     }
   ]
