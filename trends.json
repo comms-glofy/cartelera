@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T15:00:16Z",
+  "updated": "2026-08-22T15:16:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcos ginocchio",
-      "traffic": "200+",
+      "name": "sismos y terremotos",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "dia del folklore",
-      "traffic": "100+",
+      "name": "boca vs racing",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "athletic - sevilla",
-      "traffic": "500+",
+      "name": "wrexham - watford",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "hadjar",
+      "name": "marcos ginocchio",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "west ham - charlton",
-      "traffic": "200+",
+      "name": "dia del folklore",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "championship",
-      "traffic": "100+",
+      "name": "athletic - sevilla",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "zandvoort",
-      "traffic": "100+",
+      "name": "hadjar",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "disney+",
-      "traffic": "100+",
+      "name": "west ham - charlton",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "estudiante",
-      "traffic": "100+",
+      "name": "championship",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "manchester united vs",
-      "traffic": "100+",
+      "name": "zandvoort",
+      "traffic": "200+",
       "rank": 10
     }
   ]
