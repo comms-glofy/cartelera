@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-22T20:47:27Z",
+  "updated": "2026-08-22T21:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "agustin modica",
-      "traffic": "100+",
+      "name": "independiente - independiente rivadavia",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "internacional - atlético mineiro",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "quevin castro",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "agustin modica",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "bayer",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "iga świątek",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "bellingham",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "a qué hora juega independiente",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "fin de semana",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "mundial de hockey femenino 2026",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "nathaniel brown",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "gelp",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "toulouse - lyon",
+      "name": "nathaniel brown",
       "traffic": "100+",
       "rank": 10
     }
