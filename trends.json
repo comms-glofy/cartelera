@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-22T16:48:13Z",
+  "updated": "2026-08-22T17:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "inter milan",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "inter",
+      "name": "river velez",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "udinese - como",
-      "traffic": "500+",
+      "name": "inter",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "river vs velez",
-      "traffic": "200+",
+      "name": "udinese - como",
+      "traffic": "500+",
       "rank": 4
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "inter - monza",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 6
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "fernando galmarini",
-      "traffic": "1000+",
+      "traffic": "200+",
       "rank": 8
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "fastback",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 10
     }
   ]
