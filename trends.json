@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T17:00:19Z",
+  "updated": "2026-08-22T17:16:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter milan",
+      "name": "como",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "river velez",
-      "traffic": "200+",
+      "name": "bayern",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "inter",
-      "traffic": "200+",
+      "name": "all blacks",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "udinese - como",
+      "name": "los leones",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "dua lipa",
+      "name": "hockey",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "inter - monza",
-      "traffic": "5000+",
+      "name": "inter milan",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "brentford - tottenham",
-      "traffic": "2000+",
+      "name": "inter de milán",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "fernando galmarini",
-      "traffic": "200+",
+      "name": "udinese - como",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "laliga",
-      "traffic": "500+",
+      "name": "river vs velez",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "fastback",
-      "traffic": "200+",
+      "name": "dua lipa",
+      "traffic": "100+",
       "rank": 10
     }
   ]
