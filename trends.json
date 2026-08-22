@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T17:44:16Z",
+  "updated": "2026-08-22T18:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "epic games",
-      "traffic": "200+",
+      "name": "dortmund - bayern",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "las leonas hoy",
-      "traffic": "200+",
+      "name": "mundial de hockey 2026",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "epic games",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "lácteo",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "como",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "bayern",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "all blacks",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "los leones",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "inter milan",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "inter de milán",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "river velez",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "udinese - como",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
