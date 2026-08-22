@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-22T05:30:14Z",
+  "updated": "2026-08-22T05:51:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "clima tucuman",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "liga mx",
+      "name": "juárez - américa",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "juárez - américa",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
       "name": "bruce willis",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "chapo guzman",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "marta kostiuk",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "coco gauff",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "denuncia",
+      "traffic": "200+",
       "rank": 10
     }
   ]
