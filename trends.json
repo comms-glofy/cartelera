@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-21T23:47:30Z",
+  "updated": "2026-08-22T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "asignación universal por hijo",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "base militar",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "the strongest",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "unai emery",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "taller",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "nico paz",
-      "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nieta",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "al-nassr football club",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "presidente",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "deportivo madryn",
+      "name": "nico paz",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "abuelo",
-      "traffic": "1000+",
+      "name": "presidente",
+      "traffic": "100+",
       "rank": 10
     }
   ]
