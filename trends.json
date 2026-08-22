@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T14:00:15Z",
+  "updated": "2026-08-22T14:17:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liga española",
+      "name": "disney+",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "everton - crystal palace",
-      "traffic": "200+",
+      "name": "championship",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "nottingham forest - leeds",
-      "traffic": "200+",
+      "name": "liga española",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ipswich - sunderland afc",
+      "name": "everton - crystal palace",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "antonino spilinga",
-      "traffic": "100+",
+      "name": "nottingham forest - leeds",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "la liga",
+      "name": "ipswich - sunderland afc",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "serie a",
+      "name": "antonino spilinga",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "rodrigo paz",
+      "name": "miranda",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "22 de agosto",
-      "traffic": "100+",
+      "name": "la liga",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cuenta dni",
-      "traffic": "1000+",
+      "name": "serie a",
+      "traffic": "200+",
       "rank": 10
     }
   ]
