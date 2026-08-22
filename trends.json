@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T17:16:43Z",
+  "updated": "2026-08-22T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como",
+      "name": "epic games",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "los leones hockey",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "como",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "bayern",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "all blacks",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "los leones",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "hockey",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "inter milan",
+      "name": "los leones",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "inter de milán",
+      "name": "hockey",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "udinese - como",
-      "traffic": "500+",
+      "name": "inter milan",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "river vs velez",
+      "name": "inter de milán",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dua lipa",
-      "traffic": "100+",
+      "name": "udinese - como",
+      "traffic": "500+",
       "rank": 10
     }
   ]
