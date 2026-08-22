@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T05:00:16Z",
+  "updated": "2026-08-22T05:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,13 +24,13 @@
       "rank": 4
     },
     {
-      "name": "juárez - américa",
-      "traffic": "200+",
+      "name": "liga mx",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "liga mx",
-      "traffic": "500+",
+      "name": "juárez - américa",
+      "traffic": "200+",
       "rank": 6
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "coco gauff",
-      "traffic": "1000+",
+      "traffic": "500+",
       "rank": 10
     }
   ]
