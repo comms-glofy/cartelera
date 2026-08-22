@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T07:00:14Z",
+  "updated": "2026-08-22T07:27:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -20,37 +20,37 @@
     },
     {
       "name": "america",
-      "traffic": "500+",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "juárez - américa",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "bruce willis",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "chapo guzman",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "marta kostiuk",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "coco gauff",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "denuncia",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "tigres - atlante",
-      "traffic": "500+",
       "rank": 10
     }
   ]
