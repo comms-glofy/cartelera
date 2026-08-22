@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T15:44:55Z",
+  "updated": "2026-08-22T16:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "actc",
-      "traffic": "1000+",
+      "name": "inter - monza",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "sismos y terremotos",
-      "traffic": "100+",
+      "name": "brentford - tottenham",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "boca vs racing",
-      "traffic": "500+",
+      "name": "fernando galmarini",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "wrexham - watford",
-      "traffic": "100+",
+      "name": "laliga",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "marcos ginocchio",
-      "traffic": "200+",
+      "name": "fastback",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "dia del folklore",
-      "traffic": "100+",
+      "name": "actc",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "athletic - sevilla",
+      "name": "mariano werner",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "west ham - charlton",
-      "traffic": "500+",
+      "name": "sismos y terremotos",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "hadjar",
+      "name": "boca vs racing",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "championship",
-      "traffic": "200+",
+      "name": "wrexham - watford",
+      "traffic": "100+",
       "rank": 10
     }
   ]
