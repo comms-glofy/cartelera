@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T23:00:12Z",
+  "updated": "2026-08-22T23:16:45Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "exequiel palacios",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "viento",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "gran premio de italia",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "media maraton de buenos aires",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "inter miami - toronto",
-      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "santa fe - américa",
-      "traffic": "200+",
+      "name": "inter miami - toronto",
+      "traffic": "5000+",
       "rank": 5
+    },
+    {
+      "name": "santa fe - américa",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "copa mundial de clubes de la fifa",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "turismo carretera",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "mar del plata",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "kylian mbappé",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "tren de carga",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "sporting lisboa",
-      "traffic": "100+",
       "rank": 10
     }
   ]
