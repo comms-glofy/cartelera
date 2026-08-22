@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T16:18:35Z",
+  "updated": "2026-08-22T16:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,18 +9,18 @@
       "rank": 1
     },
     {
-      "name": "dua lipa",
+      "name": "river vs velez",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "river vs velez",
+      "name": "dua lipa",
       "traffic": "100+",
       "rank": 3
     },
     {
       "name": "inter - monza",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 4
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "laliga",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
       "name": "fastback",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "actc",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "mariano werner",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "sismos y terremotos",
+      "traffic": "100+",
       "rank": 10
     }
   ]
