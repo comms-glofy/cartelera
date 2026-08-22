@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T17:30:14Z",
+  "updated": "2026-08-22T17:44:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,13 +9,13 @@
       "rank": 1
     },
     {
-      "name": "los leones hockey",
-      "traffic": "500+",
+      "name": "las leonas hoy",
+      "traffic": "200+",
       "rank": 2
     },
     {
       "name": "como",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -30,27 +30,27 @@
     },
     {
       "name": "los leones",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "hockey",
-      "traffic": "100+",
+      "name": "inter milan",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "inter milan",
+      "name": "inter de milán",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "inter de milán",
+      "name": "river velez",
       "traffic": "200+",
       "rank": 9
     },
     {
       "name": "udinese - como",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
