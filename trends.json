@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T12:00:16Z",
+  "updated": "2026-08-22T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "privatización",
-      "traffic": "100+",
+      "name": "hull city",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "la voz del interior",
+      "name": "barco",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "maría susini",
-      "traffic": "100+",
+      "name": "denisse gonzález gran hermano",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "camioneta",
-      "traffic": "200+",
+      "name": "privatización",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "wehen wiesbaden - leverkusen",
+      "name": "ambito financiero",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "hull city - manchester united",
-      "traffic": "2000+",
+      "name": "la voz del interior",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "bono",
-      "traffic": "500+",
+      "name": "wehen wiesbaden - leverkusen",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "f1",
-      "traffic": "10000+",
+      "name": "camioneta",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cedric sbirrazzuoli",
-      "traffic": "2000+",
+      "name": "maría susini",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "periodista",
-      "traffic": "200+",
+      "name": "ferrari",
+      "traffic": "100+",
       "rank": 10
     }
   ]
