@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T19:22:41Z",
+  "updated": "2026-08-22T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colon",
-      "traffic": "500+",
+      "name": "gimnasia",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "pensión",
-      "traffic": "1000+",
+      "name": "dibu martínez",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "fenerbahçe - konyaspor",
+      "name": "flavio cobolli",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "deportivo merlo",
+      "name": "la matanza",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "chaco for ever - los andes",
-      "traffic": "1000+",
+      "name": "atlanta",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "las leonas",
-      "traffic": "2000+",
+      "name": "colon",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "bautista vicuña",
-      "traffic": "200+",
+      "name": "pensión",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "talleres de escalada",
+      "name": "fenerbahçe - konyaspor",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "rcd espanyol - real madrid",
-      "traffic": "10000+",
+      "name": "deportivo merlo",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "fluminense - remo",
-      "traffic": "500+",
+      "name": "chaco for ever - los andes",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
