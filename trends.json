@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T14:30:15Z",
+  "updated": "2026-08-22T14:46:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "marcos ginocchio",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "dia del folklore",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "athletic - sevilla",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "name": "hadjar",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "west ham - charlton",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "hadjar",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "championship",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "zandvoort",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "disney+",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "liga española",
+      "name": "championship",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "everton - crystal palace",
-      "traffic": "200+",
+      "name": "disney+",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "nottingham forest - leeds",
-      "traffic": "500+",
+      "name": "estudiante",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ipswich - sunderland afc",
-      "traffic": "200+",
+      "name": "manchester united vs",
+      "traffic": "100+",
       "rank": 10
     }
   ]
