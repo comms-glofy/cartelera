@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T03:00:16Z",
+  "updated": "2026-08-22T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chapo guzman",
+      "name": "bruce willis",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "coco gauff",
-      "traffic": "200+",
+      "name": "chapo guzman",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "marta kostiuk",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "coco gauff",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "denuncia",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "tigres - atlante",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "javier milei",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "eduardo sacheri",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "audax italiano - u. la calera",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "juventud antoniana",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "tiafoe",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "león - monterrey",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "mls",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
