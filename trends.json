@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T21:17:28Z",
+  "updated": "2026-08-22T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "28 de agosto",
-      "traffic": "200+",
+      "name": "andrea kimi antonelli",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "jessica pegula",
-      "traffic": "100+",
+      "name": "28 de agosto",
+      "traffic": "5000+",
       "rank": 2
     },
     {
       "name": "falla",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "jessica pegula",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "deportivo maldonado - peñarol",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "valeria mazza",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "chicago vs",
-      "traffic": "100+",
+      "name": "valeria mazza",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "independiente - independiente rivadavia",
-      "traffic": "10000+",
+      "name": "instituto hoy",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "internacional - atlético mineiro",
+      "name": "primera",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "quevin castro",
+      "name": "chicago vs",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "bayer",
-      "traffic": "100+",
+      "name": "independiente - independiente rivadavia",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
