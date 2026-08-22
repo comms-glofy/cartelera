@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T06:32:36Z",
+  "updated": "2026-08-22T07:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima tucuman",
-      "traffic": "200+",
+      "name": "lindsay clancy",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "querétaro - toluca",
+      "name": "clima tucuman",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cotización dólar blue",
-      "traffic": "500+",
+      "name": "querétaro - toluca",
+      "traffic": "200+",
       "rank": 3
     },
     {
       "name": "america",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "juárez - américa",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "bruce willis",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "chapo guzman",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "marta kostiuk",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "coco gauff",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "denuncia",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "tigres - atlante",
+      "traffic": "500+",
       "rank": 10
     }
   ]
