@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-22T14:17:17Z",
+  "updated": "2026-08-22T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "disney+",
-      "traffic": "100+",
+      "name": "athletic - sevilla",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "championship",
-      "traffic": "100+",
+      "name": "west ham - charlton",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "liga española",
+      "name": "hadjar",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "everton - crystal palace",
-      "traffic": "200+",
+      "name": "championship",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "nottingham forest - leeds",
-      "traffic": "500+",
+      "name": "zandvoort",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ipswich - sunderland afc",
-      "traffic": "200+",
+      "name": "disney+",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "antonino spilinga",
+      "name": "liga española",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "miranda",
+      "name": "everton - crystal palace",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "la liga",
-      "traffic": "200+",
+      "name": "nottingham forest - leeds",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "serie a",
+      "name": "ipswich - sunderland afc",
       "traffic": "200+",
       "rank": 10
     }
