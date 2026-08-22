@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-22T09:30:15Z",
+  "updated": "2026-08-22T09:50:34Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "radio mitre en vivo",
-      "traffic": "5000+",
-      "rank": 1
-    },
-    {
       "name": "p",
       "traffic": "100+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "lindsay clancy",
       "traffic": "100+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "clima tucuman",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "querétaro - toluca",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "america",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "juárez - américa",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "liga mx",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "bruce willis",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "chapo guzman",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "marta kostiuk",
       "traffic": "200+",
       "rank": 10
     }
