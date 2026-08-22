@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T13:30:15Z",
+  "updated": "2026-08-22T13:52:56Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la liga",
-      "traffic": "100+",
+      "name": "everton - crystal palace",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clasificación f1 hoy",
-      "traffic": "100+",
+      "name": "nottingham forest - leeds",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "serie a",
-      "traffic": "100+",
+      "name": "ipswich - sunderland afc",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rodrigo paz",
+      "name": "antonino spilinga",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "22 de agosto",
-      "traffic": "100+",
+      "name": "la liga",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cuenta dni",
-      "traffic": "500+",
+      "name": "serie a",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "hull city",
-      "traffic": "500+",
+      "name": "rodrigo paz",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "barco",
+      "name": "22 de agosto",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "denisse gonzález gran hermano",
-      "traffic": "200+",
+      "name": "cuenta dni",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "teams",
-      "traffic": "100+",
+      "name": "hull city",
+      "traffic": "500+",
       "rank": 10
     }
   ]
