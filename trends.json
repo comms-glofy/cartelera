@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T16:00:17Z",
+  "updated": "2026-08-22T16:18:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter - monza",
-      "traffic": "500+",
+      "name": "udinese - como",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "brentford - tottenham",
-      "traffic": "500+",
+      "name": "dua lipa",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "river vs velez",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "inter - monza",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "brentford - tottenham",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "fernando galmarini",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "laliga",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "fastback",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "actc",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "mariano werner",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "sismos y terremotos",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "boca vs racing",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "wrexham - watford",
-      "traffic": "100+",
       "rank": 10
     }
   ]
