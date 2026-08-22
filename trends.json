@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T15:30:14Z",
+  "updated": "2026-08-22T15:44:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sismos y terremotos",
-      "traffic": "100+",
+      "name": "actc",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "wrexham - watford",
+      "name": "sismos y terremotos",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "marcos ginocchio",
-      "traffic": "200+",
+      "name": "boca vs racing",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "dia del folklore",
+      "name": "wrexham - watford",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "athletic - sevilla",
-      "traffic": "500+",
+      "name": "marcos ginocchio",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "dia del folklore",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "athletic - sevilla",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "west ham - charlton",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "hadjar",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "championship",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "zandvoort",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "disney+",
-      "traffic": "100+",
       "rank": 10
     }
   ]
