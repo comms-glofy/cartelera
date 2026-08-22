@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T23:30:14Z",
+  "updated": "2026-08-22T23:43:41Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "newell's - banfield",
-      "traffic": "2000+",
+      "name": "huracán - deportivo riestra",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "u. católica - ñublense",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "frances tiafoe",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "newell's - banfield",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "internacional",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "exequiel palacios",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "viento",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "gran premio de italia",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "media maraton de buenos aires",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "inter miami - toronto",
       "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "santa fe - américa",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "copa mundial de clubes de la fifa",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "turismo carretera",
-      "traffic": "500+",
       "rank": 10
     }
   ]
