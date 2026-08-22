@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T22:46:37Z",
+  "updated": "2026-08-22T23:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami - toronto",
-      "traffic": "200+",
+      "name": "viento",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "santa fe - américa",
+      "name": "gran premio de italia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "copa mundial de clubes de la fifa",
+      "name": "media maraton de buenos aires",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mar del plata",
+      "name": "inter miami - toronto",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "kylian mbappé",
-      "traffic": "1000+",
+      "name": "santa fe - américa",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "carlos espi",
-      "traffic": "1000+",
+      "name": "copa mundial de clubes de la fifa",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "mar del plata",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "kylian mbappé",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "tren de carga",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "sporting lisboa",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "andrea kimi antonelli",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "28 de agosto",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
