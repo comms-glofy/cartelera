@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T00:30:14Z",
+  "updated": "2026-08-23T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cruzeiro x flamengo",
-      "traffic": "2000+",
+      "name": "marta fort",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "plottier",
-      "traffic": "100+",
+      "name": "central norte - estudiantes",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "futbolista",
-      "traffic": "200+",
+      "name": "nob",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "barcelona sc - orense",
-      "traffic": "500+",
+      "name": "nashville sc - columbus crew",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "the leftovers",
-      "traffic": "100+",
+      "name": "ph podemos hablar",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "liberty - fever",
+      "name": "plottier",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "huracán - deportivo riestra",
-      "traffic": "5000+",
+      "name": "cruzeiro x flamengo",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "u. católica - ñublense",
-      "traffic": "500+",
+      "name": "tiafoe",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "frances tiafoe",
-      "traffic": "1000+",
+      "name": "futbolista",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "newell's - banfield",
-      "traffic": "10000+",
+      "name": "barcelona sc - orense",
+      "traffic": "500+",
       "rank": 10
     }
   ]
