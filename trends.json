@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T02:00:19Z",
+  "updated": "2026-08-23T02:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lionel messi",
-      "traffic": "5000+",
+      "name": "gregory rodrigues",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "huracan",
-      "traffic": "1000+",
+      "name": "brasileirão serie a",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "número de la suerte",
+      "name": "boxeo hoy",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sara bejlek",
-      "traffic": "200+",
+      "name": "club atlético newell's old boys",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "coco gauff",
-      "traffic": "200+",
+      "name": "lionel messi",
+      "traffic": "10000+",
       "rank": 5
     },
     {
-      "name": "austin fc - philadelphia",
+      "name": "gustavo martínez",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cotización dólar blue hoy",
-      "traffic": "1000+",
+      "name": "número de la suerte",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "mariana brey",
+      "name": "coco gauff",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "marta fort",
-      "traffic": "2000+",
+      "name": "sara bejlek",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "central norte - estudiantes",
-      "traffic": "2000+",
+      "name": "la captura netflix",
+      "traffic": "100+",
       "rank": 10
     }
   ]
