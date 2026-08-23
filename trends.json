@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T13:30:19Z",
+  "updated": "2026-08-23T13:55:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hadjar",
+      "name": "psv",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "city",
+      "name": "ubisoft",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dazn",
-      "traffic": "100+",
+      "name": "city",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "f1 tv",
-      "traffic": "200+",
+      "name": "hadjar",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "disneyplus",
+      "name": "dazn",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "f1 en vivo",
-      "traffic": "1000+",
+      "name": "f1 tv",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "disney+",
-      "traffic": "200+",
+      "name": "disneyplus",
+      "traffic": "100+",
       "rank": 7
+    },
+    {
+      "name": "f1 en vivo",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "f1 en vivo gratis",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "sofia clerici",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "superávit económico",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "haaland",
-      "traffic": "100+",
       "rank": 10
     }
   ]
