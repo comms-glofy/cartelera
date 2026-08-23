@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T14:48:05Z",
+  "updated": "2026-08-23T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "erling haaland",
-      "traffic": "100+",
+      "name": "newcastle - liverpool",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "charles leclerc",
+      "name": "liga inglesa",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "man city",
+      "name": "charles leclerc",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "man city",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "atlético madrid - villarreal",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tsunoda",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "dibu martinez",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "psv",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "aston villa",
-      "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ubisoft",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "city",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "max verstappen",
-      "traffic": "500+",
+      "name": "city",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
