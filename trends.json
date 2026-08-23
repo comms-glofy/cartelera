@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T18:23:04Z",
+  "updated": "2026-08-23T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "predicción",
-      "traffic": "500+",
+      "name": "olimpia - cerro",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "torino - milan",
+      "name": "deportivo maipú - quilmes",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "barracas central",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "julieta díaz",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "sorteo loto plus",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "torino - milan",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "predicción",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "movistar arena",
       "traffic": "500+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "melissa gilbert",
       "traffic": "100+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "rennes - psg",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "juventus vs",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "tc hoy",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "nico vazquez",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tc",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "gabriel rolón",
-      "traffic": "100+",
       "rank": 10
     }
   ]
