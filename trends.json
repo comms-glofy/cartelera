@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T14:00:17Z",
+  "updated": "2026-08-23T14:18:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "psv",
-      "traffic": "100+",
+      "name": "atlético madrid - villarreal",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ubisoft",
-      "traffic": "100+",
+      "name": "tsunoda",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "city",
-      "traffic": "200+",
+      "name": "dibu martinez",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "hadjar",
+      "name": "psv",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "dazn",
+      "name": "ubisoft",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "f1 tv",
-      "traffic": "200+",
+      "name": "max verstappen",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "disneyplus",
+      "name": "hadjar",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "f1 en vivo",
-      "traffic": "1000+",
+      "name": "dazn",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "f1 en vivo gratis",
-      "traffic": "1000+",
+      "name": "f1 tv",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "sofia clerici",
-      "traffic": "200+",
+      "name": "disneyplus",
+      "traffic": "100+",
       "rank": 10
     }
   ]
