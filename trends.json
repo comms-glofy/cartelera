@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T12:00:15Z",
+  "updated": "2026-08-23T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcelo tinelli",
-      "traffic": "100+",
+      "name": "manchester city - bournemouth",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "lunes",
-      "traffic": "200+",
+      "name": "brighton - aston villa",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "la politica online",
-      "traffic": "200+",
+      "name": "jugador",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "carlos bianchi",
-      "traffic": "100+",
+      "name": "japón",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "axel kicillof",
-      "traffic": "100+",
+      "name": "captura el chapo guzmán",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "reforma",
-      "traffic": "500+",
+      "name": "marcelo tinelli",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "condena",
-      "traffic": "500+",
+      "name": "eduardo castex",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "noticia",
-      "traffic": "200+",
+      "name": "lanacion",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "f1",
-      "traffic": "2000+",
+      "name": "lunes",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "uruguay",
-      "traffic": "1000+",
+      "name": "carlos bianchi",
+      "traffic": "200+",
       "rank": 10
     }
   ]
