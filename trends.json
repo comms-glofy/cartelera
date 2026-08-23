@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-23T02:30:16Z",
+  "updated": "2026-08-23T02:42:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gregory rodrigues",
+      "name": "bebu veron",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "brasileirão serie a",
-      "traffic": "2000+",
+      "name": "gregory rodrigues",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "club atlético newell's old boys",
+      "name": "brasileirão serie a",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "club atlético newell's old boys",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "lionel messi",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "gustavo martínez",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "número de la suerte",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "coco gauff",
-      "traffic": "500+",
       "rank": 8
     },
     {
       "name": "sara bejlek",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "la captura netflix",
-      "traffic": "100+",
+      "name": "coco gauff",
+      "traffic": "500+",
       "rank": 10
     }
   ]
