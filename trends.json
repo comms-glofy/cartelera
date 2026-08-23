@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T23:00:15Z",
+  "updated": "2026-08-23T23:16:46Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "24 de agosto",
-      "traffic": "200+",
+      "name": "posiciones de fbc melgar contra alianza lima",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "manuel lanzini",
+      "name": "joaquín freitas",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "twitch",
-      "traffic": "1000+",
+      "name": "lucas martínez quarta",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "eclipse lunar de agosto de 2026",
-      "traffic": "200+",
+      "name": "24 de agosto",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "duhalde",
+      "name": "manuel lanzini",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "twitch",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "eclipse lunar de agosto de 2026",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "duhalde",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "telekino 2442",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "us open",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "florida",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "coritiba - corinthians",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "ahorro",
-      "traffic": "200+",
       "rank": 10
     }
   ]
