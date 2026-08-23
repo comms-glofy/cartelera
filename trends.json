@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T01:05:04Z",
+  "updated": "2026-08-23T01:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mariana brey",
+      "name": "austin fc - philadelphia",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "marta fort",
+      "name": "cotización dólar blue hoy",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "central norte - estudiantes",
+      "name": "mariana brey",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "nob",
-      "traffic": "500+",
+      "name": "marta fort",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "central norte - estudiantes",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "nob",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "nashville sc - columbus crew",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "ph podemos hablar",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "plottier",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "cruzeiro x flamengo",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "tiafoe",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "futbolista",
-      "traffic": "200+",
       "rank": 10
     }
   ]
