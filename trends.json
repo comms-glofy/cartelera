@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T22:00:15Z",
+  "updated": "2026-08-23T22:17:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "coritiba - corinthians",
+      "name": "florida",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ahorro",
-      "traffic": "200+",
+      "name": "coritiba - corinthians",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "facundo colidio",
+      "name": "ahorro",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "river plate - vélez",
-      "traffic": "20000+",
+      "name": "facundo colidio",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "river plate - vélez",
+      "traffic": "100000+",
+      "rank": 5
     },
     {
       "name": "lamine yamal",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "cami homs",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "raphinha",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "porto vs",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "chapecoense - são paulo",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "boeing kc-46",
-      "traffic": "100+",
       "rank": 10
     }
   ]
