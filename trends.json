@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-23T15:00:16Z",
+  "updated": "2026-08-23T15:17:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "newcastle - liverpool",
-      "traffic": "500+",
+      "name": "liga española",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "liga inglesa",
+      "name": "liam lawson",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "charles leclerc",
-      "traffic": "100+",
+      "name": "atletico madrid",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "man city",
-      "traffic": "200+",
+      "name": "fernando alonso",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "atlético madrid - villarreal",
-      "traffic": "5000+",
+      "name": "newcastle - liverpool",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "tsunoda",
+      "name": "liga inglesa",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "dibu martinez",
-      "traffic": "500+",
+      "name": "charles leclerc",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "psv",
-      "traffic": "100+",
+      "name": "atlético madrid - villarreal",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "ubisoft",
-      "traffic": "200+",
+      "name": "tsunoda",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "city",
+      "name": "dibu martinez",
       "traffic": "1000+",
       "rank": 10
     }
