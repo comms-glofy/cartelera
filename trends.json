@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-23T16:49:59Z",
+  "updated": "2026-08-23T17:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canal 9 en vivo",
-      "traffic": "100+",
+      "name": "barcelona",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "el eco",
-      "traffic": "100+",
+      "name": "santilli",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "flavio briatore",
-      "traffic": "500+",
+      "name": "monaco fc",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "barca",
+      "name": "phillies - cardenales",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "camila morrone",
-      "traffic": "200+",
+      "name": "canal 9 en vivo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "frosinone - juventus",
-      "traffic": "1000+",
+      "name": "el eco",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "madre",
+      "name": "flavio briatore",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "atletico madrid vs",
-      "traffic": "500+",
+      "name": "barca",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "concepción - coquimbo unido",
+      "name": "camila morrone",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "laliga",
+      "name": "frosinone - juventus",
       "traffic": "1000+",
       "rank": 10
     }
