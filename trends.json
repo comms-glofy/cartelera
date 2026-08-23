@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T03:00:14Z",
+  "updated": "2026-08-23T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bejlek",
-      "traffic": "200+",
+      "name": "lafc - timbers",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "bebu veron",
-      "traffic": "100+",
+      "name": "riesgo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gregory rodrigues",
+      "name": "marcos giles",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "boxeo hoy",
+      "name": "bejlek",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "brasileirão serie a",
-      "traffic": "100+",
+      "name": "bebu veron",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "club atlético newell's old boys",
-      "traffic": "100+",
+      "name": "gregory rodrigues",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "gustavo martínez",
+      "name": "boxeo hoy",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "número de la suerte",
+      "name": "brasileirão serie a",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "sara bejlek",
-      "traffic": "500+",
+      "name": "club atlético newell's old boys",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "coco gauff",
-      "traffic": "500+",
+      "name": "gustavo martínez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
