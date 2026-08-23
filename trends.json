@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T21:17:28Z",
+  "updated": "2026-08-23T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nacional - progreso",
+      "name": "chapecoense - são paulo",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "fortaleza - atlético nacional",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "boeing kc-46",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "karina milei",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "nacional - progreso",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "arthur fils",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "frances tiafoe",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "santos - mirassol",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "francisco comesaña",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "aterrizaje",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "club olimpia",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "federal a",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "harald v de noruega",
-      "traffic": "100+",
+      "name": "francisco comesaña",
+      "traffic": "200+",
       "rank": 10
     }
   ]
