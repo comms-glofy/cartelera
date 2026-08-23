@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T15:17:52Z",
+  "updated": "2026-08-23T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liga española",
-      "traffic": "100+",
+      "name": "george russell",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "liam lawson",
-      "traffic": "100+",
+      "name": "feyenoord",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "atletico madrid",
-      "traffic": "500+",
+      "name": "lewis hamilton",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "fernando alonso",
+      "name": "haland",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "newcastle - liverpool",
-      "traffic": "2000+",
+      "name": "racing boca",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "liga inglesa",
-      "traffic": "100+",
+      "name": "posiciones de manchester city contra afc bournemouth",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "charles leclerc",
+      "name": "liga española",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "atlético madrid - villarreal",
-      "traffic": "10000+",
+      "name": "liam lawson",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "tsunoda",
-      "traffic": "100+",
+      "name": "atletico madrid",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "dibu martinez",
-      "traffic": "1000+",
+      "name": "fernando alonso",
+      "traffic": "100+",
       "rank": 10
     }
   ]
