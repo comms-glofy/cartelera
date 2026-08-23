@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T16:30:15Z",
+  "updated": "2026-08-23T16:49:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flavio briatore",
-      "traffic": "500+",
+      "name": "canal 9 en vivo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "barca",
+      "name": "el eco",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "flavio briatore",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "barca",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "camila morrone",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "frosinone - juventus",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "madre",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "atletico madrid vs",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "concepción - coquimbo unido",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "atletico madrid vs",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "lee kang-in",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "laliga",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cómo",
-      "traffic": "500+",
+      "name": "laliga",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
