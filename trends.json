@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T11:16:52Z",
+  "updated": "2026-08-23T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "reforma",
+      "name": "lunes",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "condena",
+      "name": "la politica online",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "f1",
-      "traffic": "1000+",
+      "name": "carlos bianchi",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "uruguay",
-      "traffic": "500+",
+      "name": "reforma",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "condena",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "noticia",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "cronica",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "uruguay",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "maraton de buenos aires",
       "traffic": "500+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "cruz azul - atlas",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "teofimo lopez",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "guadalajara - tijuana",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "lafc - timbers",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "riesgo",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
