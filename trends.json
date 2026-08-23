@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T22:30:13Z",
+  "updated": "2026-08-23T22:46:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "twitch",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "angel correa",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "eclipse lunar de agosto de 2026",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "telekino 2442",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "us open",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "florida",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "coritiba - corinthians",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "ahorro",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "georgina barbarossa",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "facundo colidio",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "river plate - vélez",
-      "traffic": "100000+",
-      "rank": 8
-    },
-    {
-      "name": "lamine yamal",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "cami homs",
-      "traffic": "500+",
       "rank": 10
     }
   ]
