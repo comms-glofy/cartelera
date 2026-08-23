@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T11:30:15Z",
+  "updated": "2026-08-23T11:44:32Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lunes",
-      "traffic": "200+",
+      "name": "marcelo tinelli",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "la politica online",
+      "name": "lunes",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "la politica online",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "carlos bianchi",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "axel kicillof",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "reforma",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "condena",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "noticia",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 8
     },
     {
-      "name": "cronica",
-      "traffic": "1000+",
-      "rank": 7
+      "name": "f1",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "uruguay",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "maraton de buenos aires",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "cruz azul - atlas",
-      "traffic": "200+",
       "rank": 10
     }
   ]
