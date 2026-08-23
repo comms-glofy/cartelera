@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T14:18:39Z",
+  "updated": "2026-08-23T14:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético madrid - villarreal",
-      "traffic": "200+",
+      "name": "man city",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "atlético madrid - villarreal",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "tsunoda",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "dibu martinez",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "psv",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ubisoft",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "max verstappen",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "hadjar",
-      "traffic": "100+",
+      "name": "city",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "hadjar",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "dazn",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "f1 tv",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "disneyplus",
-      "traffic": "100+",
       "rank": 10
     }
   ]
