@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T10:30:14Z",
+  "updated": "2026-08-23T10:48:56Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "uruguay",
-      "traffic": "500+",
+      "name": "condena",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "maraton de buenos aires",
-      "traffic": "500+",
+      "name": "f1",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "cruz azul - atlas",
-      "traffic": "200+",
+      "name": "cronica",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "teofimo lopez",
+      "name": "uruguay",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "cruz azul - atlas",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "teofimo lopez",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "guadalajara - tijuana",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "lafc - timbers",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "riesgo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "marcos giles",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "bebu veron",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "gregory rodrigues",
-      "traffic": "500+",
       "rank": 10
     }
   ]
