@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T21:43:56Z",
+  "updated": "2026-08-23T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "facundo colidio",
+      "name": "coritiba - corinthians",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "river plate - vélez",
-      "traffic": "20000+",
+      "name": "ahorro",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lamine yamal",
-      "traffic": "500+",
+      "name": "facundo colidio",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "river plate - vélez",
+      "traffic": "20000+",
+      "rank": 4
+    },
+    {
+      "name": "lamine yamal",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "cami homs",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "porto vs",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "chapecoense - são paulo",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "boeing kc-46",
+      "name": "raphinha",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "fortaleza - atlético nacional",
+      "name": "porto vs",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "nacional - progreso",
-      "traffic": "500+",
+      "name": "chapecoense - são paulo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "karina milei",
-      "traffic": "200+",
+      "name": "boeing kc-46",
+      "traffic": "100+",
       "rank": 10
     }
   ]
