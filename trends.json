@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-23T00:00:12Z",
+  "updated": "2026-08-23T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "futbolista",
-      "traffic": "200+",
+      "name": "cruzeiro x flamengo",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "barcelona sc - orense",
-      "traffic": "200+",
+      "name": "plottier",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cruzeiro - flamengo",
-      "traffic": "2000+",
+      "name": "futbolista",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "liberty - fever",
-      "traffic": "200+",
+      "name": "barcelona sc - orense",
+      "traffic": "500+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "huracán - deportivo riestra",
-      "traffic": "2000+",
+      "name": "liberty - fever",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "huracán - deportivo riestra",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "u. católica - ñublense",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "frances tiafoe",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "newell's - banfield",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "internacional",
-      "traffic": "100+",
+      "name": "newell's - banfield",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
