@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T23:30:14Z",
+  "updated": "2026-08-23T23:44:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "joaquín freitas",
-      "traffic": "200+",
+      "name": "jessica pegula",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "posiciones de fbc melgar contra alianza lima",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "aliendro",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "lucas martínez quarta",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "24 de agosto",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "manuel lanzini",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "twitch",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "eclipse lunar de agosto de 2026",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "duhalde",
-      "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "telekino 2442",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "us open",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "florida",
-      "traffic": "500+",
+      "name": "duhalde",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
