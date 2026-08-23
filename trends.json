@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T16:00:14Z",
+  "updated": "2026-08-23T16:19:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "frosinone - juventus",
-      "traffic": "500+",
+      "name": "flavio briatore",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "madre",
-      "traffic": "200+",
+      "name": "barca",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "concepción - coquimbo unido",
+      "name": "camila morrone",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "atletico madrid vs",
-      "traffic": "200+",
+      "name": "frosinone - juventus",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "lee kang-in",
-      "traffic": "200+",
+      "name": "madre",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "laliga",
+      "name": "concepción - coquimbo unido",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "lee kang-in",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "cómo",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "sylvester stallone",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "halland",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "feyenoord",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "george russell",
-      "traffic": "500+",
       "rank": 10
     }
   ]
