@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T01:00:16Z",
+  "updated": "2026-08-23T01:05:04Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marta fort",
-      "traffic": "500+",
+      "name": "mariana brey",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "central norte - estudiantes",
-      "traffic": "200+",
+      "name": "marta fort",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "nob",
+      "name": "central norte - estudiantes",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "nashville sc - columbus crew",
-      "traffic": "200+",
+      "name": "nob",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "ph podemos hablar",
+      "name": "nashville sc - columbus crew",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "plottier",
+      "name": "ph podemos hablar",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cruzeiro x flamengo",
-      "traffic": "2000+",
+      "name": "plottier",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tiafoe",
-      "traffic": "1000+",
+      "name": "cruzeiro x flamengo",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "futbolista",
+      "name": "tiafoe",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "barcelona sc - orense",
-      "traffic": "500+",
+      "name": "futbolista",
+      "traffic": "200+",
       "rank": 10
     }
   ]
