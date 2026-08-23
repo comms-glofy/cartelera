@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T17:00:15Z",
+  "updated": "2026-08-23T17:16:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barcelona",
-      "traffic": "1000+",
+      "name": "sarmiento - estudiantes",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "santilli",
-      "traffic": "200+",
+      "name": "frío",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "monaco fc",
+      "name": "oscar kowszyk",
       "traffic": "100+",
       "rank": 3
     },
     {
       "name": "phillies - cardenales",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "canal 9 en vivo",
-      "traffic": "100+",
+      "name": "santilli",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "el eco",
+      "name": "monaco fc",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "flavio briatore",
-      "traffic": "500+",
+      "name": "canal 9 en vivo",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "barca",
+      "name": "el eco",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "camila morrone",
-      "traffic": "200+",
+      "name": "flavio briatore",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "frosinone - juventus",
-      "traffic": "1000+",
+      "name": "barca",
+      "traffic": "100+",
       "rank": 10
     }
   ]
