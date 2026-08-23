@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T19:44:14Z",
+  "updated": "2026-08-23T20:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a qué hora juega river",
-      "traffic": "2000+",
+      "name": "michael wright",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "vitória - bahía",
-      "traffic": "100+",
+      "name": "a qué hora juega river",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "nueva york",
+      "name": "mar",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "cerro",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "vitória - bahía",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "nueva york",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "belgrano - defensa y justicia",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "bragantino - grêmio",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "película",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "flavio mendoza",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "atalanta - sassuolo",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "elche c. f. - barcelona",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "temperley - midland",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
