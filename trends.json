@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T09:30:14Z",
+  "updated": "2026-08-23T09:51:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "cruz azul - atlas",
+      "name": "maraton de buenos aires",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "cruz azul - atlas",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "teofimo lopez",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "guadalajara - tijuana",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lafc - timbers",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "riesgo",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "marcos giles",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "bebu veron",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "gregory rodrigues",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "brasileirão serie a",
-      "traffic": "100+",
       "rank": 10
     }
   ]
