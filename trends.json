@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-22T23:43:41Z",
+  "updated": "2026-08-23T00:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "huracán - deportivo riestra",
-      "traffic": "1000+",
+      "name": "futbolista",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "u. católica - ñublense",
+      "name": "barcelona sc - orense",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "frances tiafoe",
-      "traffic": "500+",
+      "name": "cruzeiro - flamengo",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "newell's - banfield",
-      "traffic": "5000+",
+      "name": "liberty - fever",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "internacional",
+      "name": "the leftovers",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "exequiel palacios",
-      "traffic": "200+",
+      "name": "huracán - deportivo riestra",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "viento",
-      "traffic": "1000+",
+      "name": "u. católica - ñublense",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "gran premio de italia",
-      "traffic": "200+",
+      "name": "frances tiafoe",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "media maraton de buenos aires",
-      "traffic": "100+",
+      "name": "newell's - banfield",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "inter miami - toronto",
-      "traffic": "10000+",
+      "name": "internacional",
+      "traffic": "100+",
       "rank": 10
     }
   ]
