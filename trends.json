@@ -1,36 +1,36 @@
 {
-  "updated": "2026-08-23T02:42:39Z",
+  "updated": "2026-08-23T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "bejlek",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "bebu veron",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "gregory rodrigues",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "boxeo hoy",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "brasileirão serie a",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "club atlético newell's old boys",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "lionel messi",
-      "traffic": "10000+",
       "rank": 6
     },
     {
