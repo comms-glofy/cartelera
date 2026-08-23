@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-23T21:00:14Z",
+  "updated": "2026-08-23T21:17:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos - mirassol",
+      "name": "nacional - progreso",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "francisco comesaña",
+      "name": "karina milei",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "aterrizaje",
-      "traffic": "100+",
+      "name": "arthur fils",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "club olimpia",
+      "name": "frances tiafoe",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "santos - mirassol",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "francisco comesaña",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "aterrizaje",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "club olimpia",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "federal a",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "harald v de noruega",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "dibu martínez",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "psg vs",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "ferran torres",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "melgar - alianza lima",
-      "traffic": "200+",
       "rank": 10
     }
   ]
