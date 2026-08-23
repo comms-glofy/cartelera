@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-23T10:48:56Z",
+  "updated": "2026-08-23T11:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "condena",
+      "name": "reforma",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "f1",
-      "traffic": "1000+",
+      "name": "condena",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cronica",
+      "name": "f1",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "uruguay",
-      "traffic": "500+",
+      "name": "cronica",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "cruz azul - atlas",
-      "traffic": "200+",
+      "name": "uruguay",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "teofimo lopez",
+      "name": "maraton de buenos aires",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "guadalajara - tijuana",
-      "traffic": "100+",
+      "name": "cruz azul - atlas",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lafc - timbers",
-      "traffic": "200+",
+      "name": "teofimo lopez",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "riesgo",
-      "traffic": "500+",
+      "name": "guadalajara - tijuana",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "marcos giles",
+      "name": "lafc - timbers",
       "traffic": "200+",
       "rank": 10
     }
