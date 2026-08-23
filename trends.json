@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-23T20:47:18Z",
+  "updated": "2026-08-23T21:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "federal a",
+      "name": "santos - mirassol",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "harald v de noruega",
-      "traffic": "100+",
+      "name": "francisco comesaña",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "adeyemi",
-      "traffic": "200+",
+      "name": "aterrizaje",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "club olimpia",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "federal a",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "harald v de noruega",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "dibu martínez",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "psg vs",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "ferran torres",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "melgar - alianza lima",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "rennes vs. psg",
-      "traffic": "100+",
+      "name": "psg vs",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "karim adeyemi",
-      "traffic": "200+",
+      "name": "ferran torres",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "río cuarto",
+      "name": "melgar - alianza lima",
       "traffic": "200+",
       "rank": 10
     }
