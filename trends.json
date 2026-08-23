@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-23T17:16:25Z",
+  "updated": "2026-08-23T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sarmiento - estudiantes",
-      "traffic": "500+",
+      "name": "joaquin ferreira",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "sarmiento - estudiantes",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "frío",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "oscar kowszyk",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "barcelona",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "phillies - cardenales",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "santilli",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "monaco fc",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "canal 9 en vivo",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "el eco",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "flavio briatore",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "barca",
+      "name": "el eco",
       "traffic": "100+",
       "rank": 10
     }
