@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-23T23:44:20Z",
+  "updated": "2026-08-24T00:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jessica pegula",
-      "traffic": "500+",
+      "name": "coco gauff",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "universitario - chankas cyc",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "maluma",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "racing - boca juniors",
+      "traffic": "10000+",
+      "rank": 4
+    },
+    {
+      "name": "matías pellegrini",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "posiciones de fbc melgar contra alianza lima",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "aliendro",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "lucas martínez quarta",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "24 de agosto",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "manuel lanzini",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "twitch",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "eclipse lunar de agosto de 2026",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "telekino 2442",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "duhalde",
+      "name": "twitch martin cirio",
       "traffic": "2000+",
       "rank": 10
     }
