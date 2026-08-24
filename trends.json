@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T15:34:50Z",
+  "updated": "2026-08-24T16:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "disparo",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "pierre gasly",
       "traffic": "20000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "encuesta",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "911",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "misiones online",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "cronograma",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tc en paraná",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "alta gracia",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "dia del lector",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "limpieza",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "los leones",
-      "traffic": "2000+",
+      "name": "limpieza",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
