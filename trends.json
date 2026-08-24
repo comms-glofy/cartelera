@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T11:53:01Z",
+  "updated": "2026-08-24T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "crucigrama la nacion",
-      "traffic": "100+",
+      "name": "línea sarmiento",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "catedral de la plata",
+      "name": "avengers endgame",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "crucigrama la nacion",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "catedral de la plata",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "datachaco",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "cena de nominados",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "que pasa salta",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "paula chaves",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "lotería de santa fe",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "colisión",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "quini 6 domingo 23 agosto",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "diario textual",
-      "traffic": "100+",
+      "name": "quini 6 domingo 23 agosto",
+      "traffic": "500+",
       "rank": 10
     }
   ]
