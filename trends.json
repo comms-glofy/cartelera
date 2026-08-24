@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T23:18:50Z",
+  "updated": "2026-08-24T23:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "uspallata",
-      "traffic": "100+",
+      "name": "a qué hora juega talleres",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "aumento fuerzas armadas",
-      "traffic": "200+",
+      "name": "harry potter",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "talleres vs rosario central",
+      "name": "uspallata",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ferro - all boys",
-      "traffic": "1000+",
+      "name": "aumento fuerzas armadas",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "botafogo - paranaense",
-      "traffic": "500+",
+      "name": "ferro - all boys",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "popstars",
-      "traffic": "200+",
+      "name": "botafogo - paranaense",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "argentina",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "popstars",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "leandro aguilera",
       "traffic": "50000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "pedri",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "tasa de interés",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "bruce willis",
-      "traffic": "200+",
       "rank": 10
     }
   ]
