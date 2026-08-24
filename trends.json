@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T02:42:56Z",
+  "updated": "2026-08-24T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "posiciones de liga de quito contra emelec",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "boca lanus",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "enner valencia",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "dylan gorosito",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "junior - once caldas",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "martirena",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "aranda",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "álvaro montero",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "telekino 2442 controlar carton resultados",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "sebastián báez",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "pelota",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
