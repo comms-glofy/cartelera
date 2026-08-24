@@ -1,31 +1,31 @@
 {
-  "updated": "2026-08-24T11:23:44Z",
+  "updated": "2026-08-24T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "catedral de la plata",
+      "name": "crucigrama la nacion",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "datachaco",
+      "name": "catedral de la plata",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cena de nominados",
-      "traffic": "200+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "que pasa salta",
-      "traffic": "100+",
+      "name": "cena de nominados",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "paula chaves",
-      "traffic": "100+",
+      "name": "que pasa salta",
+      "traffic": "200+",
       "rank": 5
     },
     {
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "colisión",
-      "traffic": "500+",
+      "name": "paula chaves",
+      "traffic": "100+",
       "rank": 7
+    },
+    {
+      "name": "colisión",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "quini 6 domingo 23 agosto",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "diario textual",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "la capital",
+      "name": "diario textual",
       "traffic": "100+",
       "rank": 10
     }
