@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T20:31:18Z",
+  "updated": "2026-08-24T20:58:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mundial de hockey 2026",
-      "traffic": "5000+",
+      "name": "grand theft auto vi",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lácteo",
-      "traffic": "100+",
+      "name": "movistar arena",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "manuel adorni",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "donyell malen",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "víctor hugo morales",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "consejo de la magistratura",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "málaga - deportivo",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lali espósito",
+      "name": "lácteo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mateo pellegrino",
-      "traffic": "200+",
+      "name": "serie a",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "las leonas",
-      "traffic": "5000+",
+      "name": "consejo de la magistratura",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "agustín canapino",
-      "traffic": "100+",
+      "name": "málaga - deportivo",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fiorentina vs",
-      "traffic": "200+",
+      "name": "lali espósito",
+      "traffic": "500+",
       "rank": 10
     }
   ]
