@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T05:00:15Z",
+  "updated": "2026-08-24T05:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,7 +14,7 @@
       "rank": 2
     },
     {
-      "name": "aerolíneas argentinas",
+      "name": "aerolineas argentinas",
       "traffic": "1000+",
       "rank": 3
     },
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "campeonato argentino",
+      "name": "boca lanus",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "boca lanus",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
       "name": "resultado de boca",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "junior - once caldas",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "dylan gorosito",
+      "traffic": "100+",
       "rank": 10
     }
   ]
