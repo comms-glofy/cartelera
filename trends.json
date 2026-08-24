@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T19:00:19Z",
+  "updated": "2026-08-24T19:25:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético güemes - atlético rafaela",
+      "name": "mateo pellegrino",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "roma vs",
-      "traffic": "200+",
+      "name": "las leonas",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "shelley fabares",
+      "name": "agustín canapino",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "las leonas hoy",
+      "name": "ezeiza",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "nacional - sportivo luqueño",
+      "name": "atlético güemes - atlético rafaela",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "fuerzas armadas argentinas",
-      "traffic": "200+",
+      "name": "roma vs",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "riesgo país",
+      "name": "shelley fabares",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "empleado público",
-      "traffic": "200+",
+      "name": "fuerzas armadas argentinas",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "roma fc",
-      "traffic": "200+",
+      "name": "nacional - sportivo luqueño",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fulham - chelsea",
-      "traffic": "5000+",
+      "name": "riesgo país",
+      "traffic": "200+",
       "rank": 10
     }
   ]
