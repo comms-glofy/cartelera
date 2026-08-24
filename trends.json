@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T20:00:17Z",
+  "updated": "2026-08-24T20:25:00Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "málaga - deportivo",
-      "traffic": "200+",
+      "name": "mundial de hockey 2026",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "aterrizaje",
-      "traffic": "200+",
+      "name": "lácteo",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "víctor hugo morales",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "consejo de la magistratura",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "málaga - deportivo",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "lali espósito",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "mateo pellegrino",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "las leonas",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "agustín canapino",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "fiorentina vs",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "ezeiza",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "atlético güemes - atlético rafaela",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "roma vs",
-      "traffic": "500+",
       "rank": 10
     }
   ]
