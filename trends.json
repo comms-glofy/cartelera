@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T17:00:13Z",
+  "updated": "2026-08-24T17:26:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fecha de cobro jubilados",
+      "name": "matías galarza",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "charlize theron",
-      "traffic": "100+",
+      "name": "fatima florez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "benjamín rollheiser",
+      "name": "liam lawson",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "fecha de cobro jubilados",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "benjamín rollheiser",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "charlize theron",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "federación argentina de empleados de comercio y servicios",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "avión",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "ingreso",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "disparo",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "quiniela hoy",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "pierre gasly",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "encuesta",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
