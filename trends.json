@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T14:30:15Z",
+  "updated": "2026-08-24T14:37:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alta gracia",
-      "traffic": "200+",
+      "name": "tc en paraná",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "dia del lector",
-      "traffic": "100+",
+      "name": "alta gracia",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "limpieza",
+      "name": "dia del lector",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "los leones",
-      "traffic": "1000+",
+      "name": "limpieza",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "los leones",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "arresto domiciliario",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "zonda",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "autopista",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "costa rica",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "liniers",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "avengers endgame",
-      "traffic": "200+",
       "rank": 10
     }
   ]
