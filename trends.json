@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T03:00:15Z",
+  "updated": "2026-08-24T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de liga de quito contra emelec",
-      "traffic": "1000+",
+      "name": "jetsmart",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "boca lanus",
+      "name": "junior",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "enner valencia",
-      "traffic": "1000+",
+      "name": "torneo argentino",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "dylan gorosito",
+      "name": "campeonato argentino",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "posiciones de liga de quito contra emelec",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "boca lanus",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "enner valencia",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "junior - once caldas",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "dylan gorosito",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "martirena",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "aranda",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "álvaro montero",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "telekino 2442 controlar carton resultados",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "sebastián báez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
