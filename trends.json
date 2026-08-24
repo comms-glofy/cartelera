@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T12:00:16Z",
+  "updated": "2026-08-24T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -30,27 +30,27 @@
     },
     {
       "name": "cena de nominados",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 6
-    },
-    {
-      "name": "que pasa salta",
-      "traffic": "200+",
-      "rank": 7
     },
     {
       "name": "paula chaves",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
-      "name": "colisión",
-      "traffic": "1000+",
-      "rank": 9
+      "name": "que pasa salta",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "quini 6 domingo 23 agosto",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "colisión",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
