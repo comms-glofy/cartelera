@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T21:00:17Z",
+  "updated": "2026-08-24T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paulo dybala",
-      "traffic": "1000+",
+      "name": "encuesta gran hermano",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "enzo fernández",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "franco mastantuono",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "grand theft auto vi",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "movistar arena",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "manuel adorni",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
-      "name": "donyell malen",
-      "traffic": "200+",
-      "rank": 5
+      "name": "granada - r.c.d. mallorca",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "víctor hugo morales",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "lácteo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "serie a",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "consejo de la magistratura",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "málaga - deportivo",
-      "traffic": "500+",
       "rank": 10
     }
   ]
