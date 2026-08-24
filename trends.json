@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T15:00:19Z",
+  "updated": "2026-08-24T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "encuesta",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "911",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "misiones online",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "cronograma",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "tc en paraná",
       "traffic": "500+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "alta gracia",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "dia del lector",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "limpieza",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "los leones",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "arresto domiciliario",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "zonda",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "autopista",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "costa rica",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "liniers",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
