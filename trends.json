@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T00:30:15Z",
+  "updated": "2026-08-24T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "neymar",
-      "traffic": "1000+",
+      "name": "sebastián báez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tabla anual",
+      "name": "guaymallén",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sky - fever",
-      "traffic": "100+",
+      "name": "de paul",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "coco gauff",
+      "name": "tabla anual",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "universitario - chankas cyc",
-      "traffic": "200+",
+      "name": "neymar",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "maluma",
+      "name": "sky - fever",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "racing - boca juniors",
-      "traffic": "100000+",
+      "name": "coco gauff",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "jessica pegula",
-      "traffic": "500+",
+      "name": "universitario - chankas cyc",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ldu quito - emelec",
-      "traffic": "500+",
+      "name": "maluma",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "aliendro",
-      "traffic": "500+",
+      "name": "racing - boca juniors",
+      "traffic": "200000+",
       "rank": 10
     }
   ]
