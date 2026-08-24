@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T16:00:20Z",
+  "updated": "2026-08-24T16:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "disparo",
+      "name": "ingreso",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pierre gasly",
-      "traffic": "20000+",
+      "name": "avión",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "encuesta",
-      "traffic": "1000+",
+      "name": "disparo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "911",
-      "traffic": "100+",
+      "name": "quiniela hoy",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "pierre gasly",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "encuesta",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "911",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "jorge valdano",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "misiones online",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "cronograma",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "tc en paraná",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "alta gracia",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "dia del lector",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "limpieza",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
