@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T10:00:16Z",
+  "updated": "2026-08-24T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tn",
-      "traffic": "100+",
+      "name": "colisión",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "quini6",
-      "traffic": "100+",
+      "name": "quini 6 domingo 23 agosto",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "temperatura buenos aires",
-      "traffic": "2000+",
+      "name": "pronostico cordoba",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "fed rate decision",
+      "name": "tn",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "天気",
-      "traffic": "200+",
+      "name": "clima salta",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ビットコイン 価格",
-      "traffic": "200+",
+      "name": "c5n en vivo",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "プロ野球 速報",
-      "traffic": "200+",
+      "name": "temperatura buenos aires",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "netflix",
+      "name": "fed rate decision",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "el tiempo",
+      "name": "天気",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "openai",
-      "traffic": "100+",
+      "name": "ビットコイン 価格",
+      "traffic": "200+",
       "rank": 10
     }
   ]
