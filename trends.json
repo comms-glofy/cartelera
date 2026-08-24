@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T06:50:31Z",
+  "updated": "2026-08-24T07:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "torneo argentino",
+      "name": "tabla de posiciones",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "campeonato argentino",
-      "traffic": "100+",
+      "name": "torneo argentino",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "boca lanus",
+      "name": "campeonato argentino",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "resultado de boca",
-      "traffic": "200+",
+      "name": "boca lanus",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "dylan gorosito",
-      "traffic": "100+",
+      "name": "resultado de boca",
+      "traffic": "200+",
       "rank": 10
     }
   ]
