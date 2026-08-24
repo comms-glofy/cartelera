@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T04:30:15Z",
+  "updated": "2026-08-24T04:39:56Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "tabla de posiciones",
+      "name": "torneo argentino",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "torneo argentino",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
       "name": "campeonato argentino",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "boca lanus",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "resultado de boca",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "junior - once caldas",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "dylan gorosito",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "martirena",
+      "traffic": "200+",
       "rank": 10
     }
   ]
