@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T00:00:13Z",
+  "updated": "2026-08-24T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "coco gauff",
+      "name": "neymar",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "universitario - chankas cyc",
+      "name": "tabla anual",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "maluma",
+      "name": "sky - fever",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "racing - boca juniors",
-      "traffic": "10000+",
+      "name": "coco gauff",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "matías pellegrini",
+      "name": "universitario - chankas cyc",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "posiciones de fbc melgar contra alianza lima",
-      "traffic": "1000+",
+      "name": "maluma",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "aliendro",
-      "traffic": "200+",
+      "name": "racing - boca juniors",
+      "traffic": "100000+",
       "rank": 7
     },
     {
-      "name": "lucas martínez quarta",
-      "traffic": "200+",
+      "name": "jessica pegula",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "24 de agosto",
-      "traffic": "1000+",
+      "name": "ldu quito - emelec",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "twitch martin cirio",
-      "traffic": "2000+",
+      "name": "aliendro",
+      "traffic": "500+",
       "rank": 10
     }
   ]
