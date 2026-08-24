@@ -1,31 +1,31 @@
 {
-  "updated": "2026-08-24T23:30:17Z",
+  "updated": "2026-08-24T23:45:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a qué hora juega talleres",
-      "traffic": "200+",
+      "name": "norberto marcos",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "talleres - rosario central",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "harry potter",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "uspallata",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "aumento fuerzas armadas",
-      "traffic": "200+",
       "rank": 4
     },
     {
       "name": "ferro - all boys",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 5
     },
     {
@@ -34,12 +34,12 @@
       "rank": 6
     },
     {
-      "name": "argentina",
+      "name": "popstars",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "popstars",
+      "name": "argentina",
       "traffic": "500+",
       "rank": 8
     },
