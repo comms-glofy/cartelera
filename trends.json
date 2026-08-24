@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T08:42:44Z",
+  "updated": "2026-08-24T09:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "天気",
+      "name": "fed rate decision",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ビットコイン 価格",
+      "name": "天気",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "プロ野球 速報",
+      "name": "ビットコイン 価格",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "netflix",
+      "name": "プロ野球 速報",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "el tiempo",
+      "name": "netflix",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "el tiempo",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "openai",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "iphone 16",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "amazon",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "crunchyroll",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "desdolarización",
-      "traffic": "200+",
       "rank": 10
     }
   ]
