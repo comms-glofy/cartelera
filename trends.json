@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T10:33:19Z",
+  "updated": "2026-08-24T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colisión",
-      "traffic": "200+",
+      "name": "cena de nominados",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "quini 6 domingo 23 agosto",
-      "traffic": "200+",
+      "name": "paula chaves",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pronostico cordoba",
+      "name": "que pasa salta",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tn",
-      "traffic": "200+",
+      "name": "radio sudamericana",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima salta",
-      "traffic": "100+",
+      "name": "colisión",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "c5n en vivo",
-      "traffic": "100+",
+      "name": "quini 6 domingo 23 agosto",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "temperatura buenos aires",
-      "traffic": "2000+",
+      "name": "diario textual",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "fed rate decision",
-      "traffic": "200+",
+      "name": "la capital",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "天気",
-      "traffic": "200+",
+      "name": "diario chaco",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ビットコイン 価格",
-      "traffic": "200+",
+      "name": "pronostico cordoba",
+      "traffic": "100+",
       "rank": 10
     }
   ]
