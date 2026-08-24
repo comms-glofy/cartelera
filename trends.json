@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-24T03:51:11Z",
+  "updated": "2026-08-24T04:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aerolíneas argentinas",
-      "traffic": "200+",
+      "name": "aerolineas argentinas",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "campeonato argentino",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
       "name": "posiciones de liga de quito contra emelec",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "boca lanus",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "enner valencia",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "junior - once caldas",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "dylan gorosito",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "martirena",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "ortegoza",
+      "traffic": "500+",
       "rank": 10
     }
   ]
