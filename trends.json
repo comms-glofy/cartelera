@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T01:03:03Z",
+  "updated": "2026-08-24T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sebastián báez",
+      "name": "aranda",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "guaymallén",
+      "name": "álvaro montero",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "de paul",
-      "traffic": "200+",
+      "name": "como va boca",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "tabla anual",
-      "traffic": "200+",
+      "name": "sebastián báez",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "guaymallén",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "de paul",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "neymar",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "sky - fever",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "coco gauff",
-      "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "universitario - chankas cyc",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "maluma",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "racing - boca juniors",
-      "traffic": "200000+",
+      "name": "coco gauff",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
