@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-24T04:39:56Z",
+  "updated": "2026-08-24T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "julián weich",
+      "name": "desdolarización",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "aerolineas argentinas",
-      "traffic": "500+",
+      "name": "julián weich",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "jetsmart",
+      "name": "aerolíneas argentinas",
       "traffic": "1000+",
       "rank": 3
     },
     {
+      "name": "jetsmart",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "tabla de posiciones",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "torneo argentino",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "campeonato argentino",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "boca lanus",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "resultado de boca",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "junior - once caldas",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "dylan gorosito",
-      "traffic": "100+",
+      "name": "resultado de boca",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "martirena",
+      "name": "junior - once caldas",
       "traffic": "200+",
       "rank": 10
     }
