@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T21:33:14Z",
+  "updated": "2026-08-24T22:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "banco de santa fe",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "tigre - central córdoba",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
       "name": "encuesta gran hermano",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "enzo fernández",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "franco mastantuono",
-      "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "grand theft auto vi",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "movistar arena",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "manuel adorni",
-      "traffic": "200+",
+      "name": "movistar arena",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "manuel adorni",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "donyell malen",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "granada - r.c.d. mallorca",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "víctor hugo morales",
-      "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lácteo",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "serie a",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
