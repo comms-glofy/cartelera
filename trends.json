@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T16:32:03Z",
+  "updated": "2026-08-24T17:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ingreso",
+      "name": "fecha de cobro jubilados",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "avión",
-      "traffic": "200+",
+      "name": "charlize theron",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "disparo",
-      "traffic": "200+",
+      "name": "benjamín rollheiser",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "quiniela hoy",
-      "traffic": "200+",
+      "name": "federación argentina de empleados de comercio y servicios",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "pierre gasly",
+      "name": "avión",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "encuesta",
-      "traffic": "2000+",
+      "name": "ingreso",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "911",
+      "name": "disparo",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jorge valdano",
-      "traffic": "1000+",
+      "name": "quiniela hoy",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "misiones online",
-      "traffic": "200+",
+      "name": "pierre gasly",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "cronograma",
-      "traffic": "100+",
+      "name": "encuesta",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
