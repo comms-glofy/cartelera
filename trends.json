@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T07:30:16Z",
+  "updated": "2026-08-24T07:54:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "crunchyroll",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "desdolarización",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "julián weich",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "aerolineas argentinas",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "jetsmart",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "junior",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tabla de posiciones",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "torneo argentino",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "boca lanus",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "resultado de boca",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "dylan gorosito",
-      "traffic": "100+",
       "rank": 10
     }
   ]
