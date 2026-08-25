@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T14:30:18Z",
+  "updated": "2026-08-25T14:40:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "astrología china",
-      "traffic": "200+",
+      "name": "quiebra",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "camión de basura",
+      "name": "astrología china",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "adopción",
-      "traffic": "100+",
+      "name": "camión de basura",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "abierto de estados unidos 2026",
+      "name": "adopción",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tornado francia",
+      "name": "abierto de estados unidos 2026",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "el país",
+      "name": "tornado francia",
       "traffic": "100+",
       "rank": 6
     },
     {
+      "name": "el país",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "faustino oro",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "gonzalo gelini",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "claudia ciardone",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "25 de agosto",
-      "traffic": "500+",
       "rank": 10
     }
   ]
