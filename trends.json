@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T13:45:19Z",
+  "updated": "2026-08-25T14:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "abierto de estados unidos 2026",
+      "name": "camión de basura",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tornado francia",
+      "name": "adopción",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el país",
+      "name": "abierto de estados unidos 2026",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "tornado francia",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "el país",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "faustino oro",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "gonzalo gelini",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "claudia ciardone",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "25 de agosto",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "estrecho de magallanes",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "dolores teuly",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "prorroga ganancias 2025",
-      "traffic": "200+",
       "rank": 10
     }
   ]
