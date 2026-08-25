@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-25T19:00:17Z",
+  "updated": "2026-08-25T19:28:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gran premio de mónaco",
-      "traffic": "100+",
+      "name": "southampton - west ham",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "efl cup",
-      "traffic": "100+",
+      "name": "champions",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "al nassr",
-      "traffic": "500+",
+      "name": "ipswich - leicester city",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "playstation plus",
+      "name": "efl cup",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "valencia c. f. - real betis",
-      "traffic": "200+",
+      "name": "gran premio de mónaco",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "dolly parton",
-      "traffic": "5000+",
+      "name": "playstation plus",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "valencia c. f. - real betis",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "dolly parton",
+      "traffic": "10000+",
+      "rank": 8
     },
     {
       "name": "max higgins",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "gamescom",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "santiago del moro",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "accidente de tránsito",
+      "name": "gamescom",
       "traffic": "200+",
       "rank": 10
     }
