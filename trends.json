@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T23:21:15Z",
+  "updated": "2026-08-25T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cruzeiro - atlético mineiro",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "juventude - crb",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "ruta nacional 237",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "deportivo madryn",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "exequiel zeballos",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "escuela nueva pompeya",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "asociación de trabajadores del estado",
+      "name": "exequiel zeballos",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "mariano navone",
-      "traffic": "1000+",
+      "name": "escuela nueva pompeya",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "camionero",
+      "name": "asociación de trabajadores del estado",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "nvda",
-      "traffic": "500+",
+      "name": "mariano navone",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "yacimiento petrolífero vaca muerta",
+      "name": "camionero",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "marisa mondino",
-      "traffic": "100+",
+      "name": "nvda",
+      "traffic": "500+",
       "rank": 10
     }
   ]
