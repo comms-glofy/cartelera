@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-25T09:31:07Z",
+  "updated": "2026-08-25T10:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela plus",
-      "traffic": "1000+",
+      "name": "clima mar del plata",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pago",
-      "traffic": "100+",
+      "name": "diario ole",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "betano",
+      "name": "gustavo costas",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "pago",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "betano",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "clima bahia blanca",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "quien se fue de gran hermano",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "ola de calor",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "valentina pergolini",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "palmeiras vs vasco da gama",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "gta",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "turco garcía",
-      "traffic": "200+",
+      "name": "valentina pergolini",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "deportación",
+      "name": "palmeiras vs vasco da gama",
       "traffic": "100+",
       "rank": 10
     }
