@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T21:00:14Z",
+  "updated": "2026-08-25T21:24:04Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juan manuel cerúndolo",
+      "name": "2 de mayo - guaraní",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "boeing 737",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "tenis",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "juan manuel cerúndolo",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "alejandro stoessel",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "fecha",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "la campora",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "dinero",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "sindicato",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "primera división de arabia saudita",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "shenyang j-16",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "precio del dólar hoy",
+      "name": "sindicato",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "31 de agosto",
-      "traffic": "1000+",
+      "name": "primera división de arabia saudita",
+      "traffic": "100+",
       "rank": 10
     }
   ]
