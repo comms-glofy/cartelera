@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T14:40:22Z",
+  "updated": "2026-08-25T15:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiebra",
+      "name": "nehuen perez",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "quiebra",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "roberto cachanosky",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "astrología china",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "camión de basura",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "adopción",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "abierto de estados unidos 2026",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "tornado francia",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "el país",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "faustino oro",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "gonzalo gelini",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "claudia ciardone",
-      "traffic": "200+",
       "rank": 10
     }
   ]
