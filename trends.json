@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T23:00:14Z",
+  "updated": "2026-08-25T23:21:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deportivo madryn",
-      "traffic": "200+",
+      "name": "ruta nacional 237",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "exequiel zeballos",
+      "name": "deportivo madryn",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "asociación de trabajadores del estado",
+      "name": "exequiel zeballos",
       "traffic": "200+",
       "rank": 3
     },
     {
       "name": "escuela nueva pompeya",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "mariano navone",
+      "name": "asociación de trabajadores del estado",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "camionero",
-      "traffic": "500+",
+      "name": "mariano navone",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "nvda",
+      "name": "camionero",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "yacimiento petrolífero vaca muerta",
+      "name": "nvda",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "marisa mondino",
-      "traffic": "100+",
+      "name": "yacimiento petrolífero vaca muerta",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "2 de mayo - guaraní",
-      "traffic": "1000+",
+      "name": "marisa mondino",
+      "traffic": "100+",
       "rank": 10
     }
   ]
