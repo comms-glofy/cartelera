@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-25T10:00:14Z",
+  "updated": "2026-08-25T10:27:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mar del plata",
+      "name": "temperatura de la superficie del mar",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "diario ole",
-      "traffic": "500+",
+      "name": "clima mar del plata",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,23 +19,23 @@
       "rank": 3
     },
     {
-      "name": "pago",
-      "traffic": "200+",
+      "name": "clima salta",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "pago",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "betano",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima bahia blanca",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "quien se fue de gran hermano",
-      "traffic": "2000+",
       "rank": 7
     },
     {
