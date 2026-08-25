@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T15:38:05Z",
+  "updated": "2026-08-25T16:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boeing 777",
-      "traffic": "100+",
+      "name": "marcelo weigandt",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fútbol",
+      "name": "boeing 777",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "fútbol",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "asado",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "andrew garfield",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "sam altman",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nehuen perez",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "roberto cachanosky",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "quiebra",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "astrología china",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "camión de basura",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "adopción",
-      "traffic": "200+",
       "rank": 10
     }
   ]
