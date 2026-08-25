@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T14:00:18Z",
+  "updated": "2026-08-25T14:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "camión de basura",
-      "traffic": "100+",
+      "name": "astrología china",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "camión de basura",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "adopción",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "abierto de estados unidos 2026",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tornado francia",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "el país",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "faustino oro",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "gonzalo gelini",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "claudia ciardone",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "25 de agosto",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "estrecho de magallanes",
-      "traffic": "2000+",
+      "name": "25 de agosto",
+      "traffic": "500+",
       "rank": 10
     }
   ]
