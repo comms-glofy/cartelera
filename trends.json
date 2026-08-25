@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T05:00:15Z",
+  "updated": "2026-08-25T05:27:34Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "valentina pergolini",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
       "name": "tamara paganini",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "palmeiras vs vasco da gama",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "gta",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "gta 6",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "turco garcía",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "deportación",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "mariners - phillies",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "posiciones de ferro contra all boys",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "francisco comesaña",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "argentinos",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
