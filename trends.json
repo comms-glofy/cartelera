@@ -1,40 +1,40 @@
 {
-  "updated": "2026-08-25T02:30:14Z",
+  "updated": "2026-08-25T02:36:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "quien se va de gran hermano hoy",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "palmeiras vs vasco da gama",
+      "name": "unsain",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "palmeiras vs vasco da gama",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "gta",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "turco garcía",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "deportación",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "mariners - phillies",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "club atlético talleres",
+      "name": "mariners - phillies",
       "traffic": "200+",
       "rank": 7
     },
@@ -45,12 +45,12 @@
     },
     {
       "name": "francisco comesaña",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 9
     },
     {
       "name": "argentinos",
-      "traffic": "2000+",
+      "traffic": "500+",
       "rank": 10
     }
   ]
