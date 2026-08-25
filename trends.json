@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T20:00:15Z",
+  "updated": "2026-08-25T20:26:04Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "shenyang j-16",
-      "traffic": "100+",
+      "name": "sindicato",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "precio del dólar hoy",
+      "name": "tini",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "shenyang j-16",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "precio del dólar hoy",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "31 de agosto",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "nottingham forest - leeds",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "bodo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "marcos galperin",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "celtic",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "southampton - west ham",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ipswich - leicester city",
-      "traffic": "200+",
+      "name": "celtic",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "efl cup",
-      "traffic": "200+",
+      "name": "southampton - west ham",
+      "traffic": "500+",
       "rank": 10
     }
   ]
