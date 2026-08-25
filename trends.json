@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T06:00:18Z",
+  "updated": "2026-08-25T06:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "gta 6",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
       "name": "turco garcía",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "deportación",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "mariners - phillies",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "posiciones de ferro contra all boys",
       "traffic": "10000+",
+      "rank": 9
+    },
+    {
+      "name": "francisco comesaña",
+      "traffic": "500+",
       "rank": 10
     }
   ]
