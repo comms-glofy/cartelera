@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T01:02:27Z",
+  "updated": "2026-08-25T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "puma rodriguez",
+      "name": "francisco comesaña",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lanús - argentinos jrs.",
-      "traffic": "10000+",
+      "name": "nacional b",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "guaymallén",
-      "traffic": "200+",
+      "name": "argentinos",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "central de trabajadores de la argentina",
+      "name": "masterchef celebrity argentina",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "norberto marcos",
-      "traffic": "1000+",
+      "name": "telefe en vivo",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "gilderoy lockhart",
-      "traffic": "1000+",
+      "name": "puma rodriguez",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "talleres - rosario central",
-      "traffic": "50000+",
+      "name": "lanus",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "uspallata",
-      "traffic": "200+",
+      "name": "lanús - argentinos jrs.",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "estadio monumental",
+      "name": "central de trabajadores de la argentina",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ferro - all boys",
-      "traffic": "5000+",
+      "name": "guaymallén",
+      "traffic": "500+",
       "rank": 10
     }
   ]
