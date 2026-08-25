@@ -1,35 +1,35 @@
 {
-  "updated": "2026-08-25T15:30:15Z",
+  "updated": "2026-08-25T15:38:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "boeing 777",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "fútbol",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "asado",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "andrew garfield",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "sam altman",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "nehuen perez",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "roberto cachanosky",
+      "name": "nehuen perez",
       "traffic": "100+",
       "rank": 6
     },
