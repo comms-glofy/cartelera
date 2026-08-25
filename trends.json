@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T17:00:31Z",
+  "updated": "2026-08-25T17:27:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juan román riquelme",
-      "traffic": "200+",
+      "name": "al-ettifaq - al-nassr",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "harald v de noruega",
-      "traffic": "100+",
+      "name": "ruta nacional 16",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "juan román riquelme",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "línea 67",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "desalojo",
-      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "roberto baratta",
+      "name": "harald v de noruega",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "us open 2026",
-      "traffic": "100+",
+      "name": "desalojo",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "quiniela de tucuman",
+      "name": "roberto baratta",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "robo",
-      "traffic": "1000+",
+      "name": "us open 2026",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "la voz argentina",
+      "name": "quiniela de tucuman",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "marcelo weigandt",
-      "traffic": "200+",
+      "name": "robo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
