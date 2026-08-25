@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T15:00:15Z",
+  "updated": "2026-08-25T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nehuen perez",
-      "traffic": "100+",
+      "name": "fútbol",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "quiebra",
+      "name": "asado",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "roberto cachanosky",
+      "name": "andrew garfield",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "astrología china",
-      "traffic": "200+",
+      "name": "sam altman",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "camión de basura",
-      "traffic": "500+",
+      "name": "nehuen perez",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "adopción",
+      "name": "roberto cachanosky",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "abierto de estados unidos 2026",
-      "traffic": "200+",
+      "name": "quiebra",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "tornado francia",
-      "traffic": "100+",
+      "name": "astrología china",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "el país",
-      "traffic": "100+",
+      "name": "camión de basura",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "faustino oro",
-      "traffic": "500+",
+      "name": "adopción",
+      "traffic": "200+",
       "rank": 10
     }
   ]
