@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-25T00:00:14Z",
+  "updated": "2026-08-25T00:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "lanús - argentinos jrs.",
-      "traffic": "1000+",
+      "traffic": "5000+",
       "rank": 1
     },
     {
@@ -25,32 +25,32 @@
     },
     {
       "name": "talleres - rosario central",
-      "traffic": "2000+",
+      "traffic": "20000+",
       "rank": 5
     },
     {
       "name": "harry potter",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 6
     },
     {
       "name": "uspallata",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ferro - all boys",
+      "name": "estadio monumental",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "botafogo - paranaense",
-      "traffic": "1000+",
+      "name": "ferro - all boys",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "popstars",
-      "traffic": "1000+",
+      "name": "botafogo - paranaense",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
