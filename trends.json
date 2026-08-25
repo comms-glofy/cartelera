@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-25T08:30:15Z",
+  "updated": "2026-08-25T08:36:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "quien se fue de gran hermano",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "ola de calor",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "valentina pergolini",
       "traffic": "5000+",
-      "rank": 2
-    },
-    {
-      "name": "gh",
-      "traffic": "2000+",
       "rank": 3
     },
     {
