@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-25T11:35:18Z",
+  "updated": "2026-08-25T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "25 de agosto que se celebra",
-      "traffic": "100+",
+      "name": "estrecho de magallanes",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "prorroga ganancias 2025",
+      "name": "dolores teuly",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "25 de agosto que se celebra",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "prorroga ganancias 2025",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "temperatura de la superficie del mar",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "clima mar del plata",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "gustavo costas",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "clima salta",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "pago",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "betano",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ola de calor",
+      "name": "betano",
       "traffic": "200+",
       "rank": 10
     }
