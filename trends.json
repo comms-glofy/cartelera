@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T16:00:17Z",
+  "updated": "2026-08-25T16:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcelo weigandt",
-      "traffic": "200+",
+      "name": "us open 2026",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "boeing 777",
-      "traffic": "200+",
+      "name": "quiniela de tucuman",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fútbol",
-      "traffic": "200+",
+      "name": "robo",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "asado",
+      "name": "la voz argentina",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "andrew garfield",
+      "name": "marcelo weigandt",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "sam altman",
-      "traffic": "100+",
+      "name": "boeing 777",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "nehuen perez",
-      "traffic": "100+",
+      "name": "fútbol",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "roberto cachanosky",
+      "name": "asado",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "quiebra",
-      "traffic": "100+",
+      "name": "andrew garfield",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "astrología china",
-      "traffic": "500+",
+      "name": "sam altman",
+      "traffic": "100+",
       "rank": 10
     }
   ]
