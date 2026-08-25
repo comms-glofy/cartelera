@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-24T23:45:13Z",
+  "updated": "2026-08-25T00:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "norberto marcos",
-      "traffic": "500+",
+      "name": "lanús - argentinos jrs.",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "talleres - rosario central",
-      "traffic": "1000+",
+      "name": "central de trabajadores de la argentina",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "harry potter",
-      "traffic": "500+",
+      "name": "guaymallén",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "uspallata",
-      "traffic": "100+",
+      "name": "norberto marcos",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "ferro - all boys",
+      "name": "talleres - rosario central",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "botafogo - paranaense",
-      "traffic": "1000+",
+      "name": "harry potter",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "popstars",
-      "traffic": "500+",
+      "name": "uspallata",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "argentina",
-      "traffic": "500+",
+      "name": "ferro - all boys",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "leandro aguilera",
-      "traffic": "50000+",
+      "name": "botafogo - paranaense",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "pedri",
-      "traffic": "100+",
+      "name": "popstars",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
