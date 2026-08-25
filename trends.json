@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T12:30:15Z",
+  "updated": "2026-08-25T12:39:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "25 de agosto",
+      "name": "claudia ciardone",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "dia del peluquero en argentina",
-      "traffic": "200+",
+      "name": "gonzalo gelini",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "25 de agosto",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "dia del peluquero en argentina",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "estrecho de magallanes",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "dolores teuly",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "prorroga ganancias 2025",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "temperatura de la superficie del mar",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima mar del plata",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "gustavo costas",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "clima salta",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pago",
-      "traffic": "5000+",
+      "name": "gustavo costas",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
