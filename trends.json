@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-25T21:30:13Z",
+  "updated": "2026-08-25T21:52:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "yacimiento petrolífero vaca muerta",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "2 de mayo - guaraní",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "boeing 737",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "tenis",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "alejandro stoessel",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "fecha",
-      "traffic": "500+",
+      "name": "alejandro stoessel",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "la campora",
+      "name": "fecha",
       "traffic": "1000+",
       "rank": 7
     },
     {
+      "name": "la campora",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
       "name": "dinero",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "sindicato",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "primera división de arabia saudita",
-      "traffic": "100+",
       "rank": 10
     }
   ]
