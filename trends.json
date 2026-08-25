@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-25T00:30:12Z",
+  "updated": "2026-08-25T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lanús - argentinos jrs.",
-      "traffic": "5000+",
+      "name": "puma rodriguez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "central de trabajadores de la argentina",
-      "traffic": "200+",
+      "name": "lanús - argentinos jrs.",
+      "traffic": "10000+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "norberto marcos",
-      "traffic": "1000+",
+      "name": "central de trabajadores de la argentina",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "talleres - rosario central",
-      "traffic": "20000+",
+      "name": "norberto marcos",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "harry potter",
+      "name": "gilderoy lockhart",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "uspallata",
-      "traffic": "200+",
+      "name": "talleres - rosario central",
+      "traffic": "50000+",
       "rank": 7
     },
     {
-      "name": "estadio monumental",
-      "traffic": "2000+",
+      "name": "uspallata",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ferro - all boys",
-      "traffic": "2000+",
+      "name": "estadio monumental",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "botafogo - paranaense",
-      "traffic": "2000+",
+      "name": "ferro - all boys",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
