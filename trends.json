@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T22:30:17Z",
+  "updated": "2026-08-26T23:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gutierrez is mai neim",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "luna llena agosto 2026",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "camionero",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "devaluación",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "nvda",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "river vs independiente santa fe",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "granizo",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "river vs independiente santa fe",
-      "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "aldosivi - independiente rivadavia",
-      "traffic": "10000+",
-      "rank": 6
+      "traffic": "20000+",
+      "rank": 8
     },
     {
       "name": "alberto benegas lynch",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "coquimbo unido - u. católica",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "juan manuel cerúndolo",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "radiación",
-      "traffic": "200+",
       "rank": 10
     }
   ]
