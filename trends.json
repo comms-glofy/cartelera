@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T16:00:16Z",
+  "updated": "2026-08-26T16:14:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tim curry",
-      "traffic": "1000+",
+      "name": "banco de santa fe",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "joan laporta",
-      "traffic": "200+",
+      "name": "tim curry",
+      "traffic": "2000+",
       "rank": 2
     },
     {
       "name": "asociación trabajadores del estado",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "aston villa football club",
+      "name": "joan laporta",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "aranda",
-      "traffic": "2000+",
+      "name": "aston villa football club",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "boca socios",
-      "traffic": "500+",
+      "name": "aranda",
+      "traffic": "10000+",
       "rank": 6
+    },
+    {
+      "name": "boca socios",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "pity alvarez",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "suspensión de clases san juan hoy",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "corredor del oeste",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "creditos hipotecarios",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
