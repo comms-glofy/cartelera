@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T13:00:16Z",
+  "updated": "2026-08-26T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paula chaves",
+      "name": "riada",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nepal",
-      "traffic": "500+",
+      "name": "caputo",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "paula chaves",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "nepal",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "sydney sweeney",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "elon musk",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "la voz argentina",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "bafweek",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "suspensión de clases",
-      "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "diario de cuyo",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "el sol",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "viento zonda mendoza",
-      "traffic": "2000+",
+      "name": "mendoza post",
+      "traffic": "100+",
       "rank": 10
     }
   ]
