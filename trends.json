@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T09:30:17Z",
+  "updated": "2026-08-26T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
+      "name": "zonda en mendoza",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "soldado voluntario",
-      "traffic": "200+",
+      "name": "deuda",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "leon fc",
+      "name": "dge",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "clima bahia blanca",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "soldado voluntario",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "leon fc",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "javier milei",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "eugenio weinbaum",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "escuela",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "mariela prieto",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "cruzeiro vs. atlético mineiro",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "turco garcía",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "mariners - phillies",
-      "traffic": "200+",
       "rank": 10
     }
   ]
