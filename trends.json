@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-26T12:30:14Z",
+  "updated": "2026-08-26T12:42:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nepal",
+      "name": "paula chaves",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "nepal",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "sydney sweeney",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "elon musk",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "la voz argentina",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "bafweek",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "suspensión de clases",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "diario de cuyo",
-      "traffic": "500+",
       "rank": 7
     },
     {
@@ -45,12 +45,12 @@
     },
     {
       "name": "dge mendoza",
-      "traffic": "5000+",
+      "traffic": "2000+",
       "rank": 9
     },
     {
       "name": "diario uno",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
