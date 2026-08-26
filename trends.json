@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-26T11:30:17Z",
+  "updated": "2026-08-26T11:55:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elon musk",
+      "name": "sydney sweeney",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "la voz argentina",
+      "name": "elon musk",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bafweek",
-      "traffic": "100+",
+      "name": "la voz argentina",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "diario los andes",
+      "name": "bafweek",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "dge mendoza",
-      "traffic": "5000+",
+      "name": "diario de cuyo",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "diario los andes",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "dge mendoza",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "mdz",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "clima san juan",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "deuda",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "dge",
-      "traffic": "2000+",
+      "name": "diario uno",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima bahia blanca",
+      "name": "clima san juan",
       "traffic": "200+",
       "rank": 10
     }
