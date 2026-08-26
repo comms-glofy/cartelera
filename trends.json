@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T21:00:15Z",
+  "updated": "2026-08-26T21:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tormenta de santa rosa",
-      "traffic": "2000+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "estafa",
-      "traffic": "500+",
+      "name": "coquimbo unido - u. católica",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "liga de campeones de la uefa",
+      "name": "radiación",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nvidia",
-      "traffic": "200+",
+      "name": "nokia 1100",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "b nacional",
-      "traffic": "200+",
+      "name": "tormenta de santa rosa",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "rockstar games gta 6",
+      "name": "estafa",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "pity álvarez",
-      "traffic": "500+",
+      "name": "natalia de la sota",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ruben rada",
-      "traffic": "20000+",
+      "name": "nvidia",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "hockey",
+      "name": "b nacional",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "atlanta",
-      "traffic": "500+",
+      "name": "pity álvarez",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
