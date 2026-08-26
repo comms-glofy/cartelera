@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T12:00:16Z",
+  "updated": "2026-08-26T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "nepal",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "sydney sweeney",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "elon musk",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "la voz argentina",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "bafweek",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "diario de cuyo",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "diario los andes",
+      "name": "suspensión de clases",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "dge mendoza",
-      "traffic": "2000+",
+      "name": "diario de cuyo",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "mdz",
-      "traffic": "500+",
+      "name": "diario los andes",
+      "traffic": "200+",
       "rank": 8
+    },
+    {
+      "name": "dge mendoza",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "diario uno",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "clima san juan",
-      "traffic": "200+",
       "rank": 10
     }
   ]
