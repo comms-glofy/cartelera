@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T00:30:13Z",
+  "updated": "2026-08-26T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "federer",
-      "traffic": "100+",
+      "name": "charlie garcia",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "popstars horario",
-      "traffic": "5000+",
+      "name": "pezzella",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "independiente del valle - tolima",
-      "traffic": "500+",
+      "name": "andy roddick",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "matías galarza",
-      "traffic": "200+",
+      "name": "monterrey fc",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "consejo de la magistratura",
-      "traffic": "100+",
+      "name": "alerta meteorológica",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "dolly parton murio",
-      "traffic": "1000+",
+      "name": "puma rodriguez",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "dana white contender series",
-      "traffic": "100+",
+      "name": "sebastián báez",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "vaca muerta ypf",
-      "traffic": "200+",
+      "name": "federer",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "cruzeiro - atlético mineiro",
-      "traffic": "5000+",
+      "name": "independiente del valle - tolima",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "juventude - crb",
-      "traffic": "100+",
+      "name": "matías galarza",
+      "traffic": "500+",
       "rank": 10
     }
   ]
