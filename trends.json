@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T23:00:17Z",
+  "updated": "2026-08-26T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gutierrez is mai neim",
-      "traffic": "100+",
+      "name": "gia dybala sabatini",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "gutierrez is mai neim",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "luna llena agosto 2026",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "camionero",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "devaluación",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "nvda",
-      "traffic": "1000+",
+      "name": "devaluación",
+      "traffic": "500+",
       "rank": 5
     },
     {
       "name": "river vs independiente santa fe",
-      "traffic": "1000+",
+      "traffic": "5000+",
       "rank": 6
+    },
+    {
+      "name": "nvda",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "granizo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "aldosivi - independiente rivadavia",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "alberto benegas lynch",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "coquimbo unido - u. católica",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
