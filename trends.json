@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T12:42:53Z",
+  "updated": "2026-08-26T13:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -20,7 +20,7 @@
     },
     {
       "name": "elon musk",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 4
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "diario los andes",
-      "traffic": "200+",
+      "name": "diario de cuyo",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "dge mendoza",
-      "traffic": "2000+",
+      "name": "el sol",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "diario uno",
-      "traffic": "1000+",
+      "name": "viento zonda mendoza",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
