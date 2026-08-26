@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T22:00:17Z",
+  "updated": "2026-08-26T22:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "granizo",
-      "traffic": "500+",
+      "name": "camionero",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "river vs independiente santa fe",
+      "name": "devaluación",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "aldosivi - independiente rivadavia",
-      "traffic": "500+",
+      "name": "nvda",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "granizo",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "river vs independiente santa fe",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "aldosivi - independiente rivadavia",
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "alberto benegas lynch",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "coquimbo unido - u. católica",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "radiación",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "nokia 1100",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "champions league",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tormenta de santa rosa",
-      "traffic": "5000+",
+      "name": "radiación",
+      "traffic": "200+",
       "rank": 10
     }
   ]
