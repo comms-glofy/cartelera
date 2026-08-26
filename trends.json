@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T02:00:21Z",
+  "updated": "2026-08-26T02:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "turco garcía",
-      "traffic": "100+",
+      "name": "el turco garcía",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "escuela",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "mariela prieto",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "cruzeiro vs. atlético mineiro",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "turco garcía",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "jurado de popstars",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "mariners - phillies",
       "traffic": "200+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "excursionistas",
       "traffic": "100+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "agassi",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "miguel monsalve",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "telefe",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "charlie garcia",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "andy roddick",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "pezzella",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "monterrey fc",
-      "traffic": "200+",
+      "name": "mcenroe",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
