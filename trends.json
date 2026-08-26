@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-26T20:30:39Z",
+  "updated": "2026-08-26T21:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "b nacional",
-      "traffic": "200+",
+      "name": "tormenta de santa rosa",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "nvidia",
-      "traffic": "100+",
+      "name": "estafa",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "liga de campeones de la uefa",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "nvidia",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "b nacional",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "rockstar games gta 6",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "pity álvarez",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "ruben rada",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "hockey",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "atlanta",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "champions",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "primera división",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "newcastle",
+      "name": "atlanta",
       "traffic": "500+",
       "rank": 10
     }
