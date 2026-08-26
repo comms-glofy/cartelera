@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-26T14:39:46Z",
+  "updated": "2026-08-26T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corredor del oeste",
-      "traffic": "200+",
+      "name": "pity alvarez",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "si san juan",
+      "name": "suspensión de clases san juan hoy",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "riada",
-      "traffic": "500+",
+      "name": "corredor del oeste",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "caputo",
-      "traffic": "1000+",
+      "name": "creditos hipotecarios",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "paula chaves",
+      "name": "riada",
       "traffic": "1000+",
       "rank": 5
     },
     {
+      "name": "paula chaves",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
       "name": "nepal",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sydney sweeney",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "elon musk",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "la voz argentina",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "bafweek",
+      "name": "la voz argentina",
       "traffic": "500+",
       "rank": 10
     }
