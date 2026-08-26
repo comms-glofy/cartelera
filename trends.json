@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T16:30:26Z",
+  "updated": "2026-08-26T17:00:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grand theft auto vi",
+      "name": "emiliano martínez",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "banco de santa fe",
-      "traffic": "200+",
+      "name": "mariana brey",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "tim curry",
-      "traffic": "2000+",
+      "name": "subte",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "asociación trabajadores del estado",
-      "traffic": "1000+",
+      "name": "tyc sport",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "joan laporta",
+      "name": "grand theft auto vi",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "aston villa football club",
+      "name": "banco de santa fe",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "aranda",
-      "traffic": "10000+",
+      "name": "tim curry",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "boca socios",
+      "name": "asociación trabajadores del estado",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "pity alvarez",
-      "traffic": "100+",
+      "name": "joan laporta",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "suspensión de clases san juan hoy",
-      "traffic": "2000+",
+      "name": "aston villa football club",
+      "traffic": "200+",
       "rank": 10
     }
   ]
