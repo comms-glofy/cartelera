@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T18:12:19Z",
+  "updated": "2026-08-26T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chaco for ever - san miguel",
-      "traffic": "200+",
+      "name": "real madrid - real sociedad",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "nicole neumann",
-      "traffic": "100+",
+      "name": "tottenham - charlton",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "tillar",
+      "name": "newcastle - albion",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "el zonda",
+      "name": "acassuso - san telmo",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "subte a",
-      "traffic": "1000+",
+      "name": "andrea rincón",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "emiliano martínez",
-      "traffic": "200+",
+      "name": "rio de janeiro",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "santa rosa",
-      "traffic": "100+",
+      "name": "chaco for ever - san miguel",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "mariana brey",
-      "traffic": "1000+",
+      "name": "nicole neumann",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "grand theft auto vi",
-      "traffic": "200+",
+      "name": "tillar",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "tyc sport",
-      "traffic": "100+",
+      "name": "el zonda",
+      "traffic": "200+",
       "rank": 10
     }
   ]
