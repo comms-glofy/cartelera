@@ -1,36 +1,36 @@
 {
-  "updated": "2026-08-26T01:03:55Z",
+  "updated": "2026-08-26T01:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "agassi",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "miguel monsalve",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "telefe",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "charlie garcia",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "pezzella",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "andy roddick",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "monterrey fc",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "puma rodriguez",
-      "traffic": "500+",
       "rank": 6
     },
     {
@@ -39,17 +39,17 @@
       "rank": 7
     },
     {
-      "name": "sebastián báez",
+      "name": "puma rodriguez",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "federer",
+      "name": "sebastián báez",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "independiente del valle - tolima",
+      "name": "federer",
       "traffic": "2000+",
       "rank": 10
     }
