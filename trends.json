@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T17:00:28Z",
+  "updated": "2026-08-26T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tillar",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "el zonda",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "subte a",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "emiliano martínez",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "mariana brey",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "subte",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "tyc sport",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "grand theft auto vi",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "tyc sport",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "banco de santa fe",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tim curry",
-      "traffic": "5000+",
-      "rank": 7
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "asociación trabajadores del estado",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "joan laporta",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "aston villa football club",
-      "traffic": "200+",
       "rank": 10
     }
   ]
