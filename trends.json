@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T10:30:17Z",
+  "updated": "2026-08-26T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario de cuyo",
-      "traffic": "200+",
+      "name": "elon musk",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima caba",
+      "name": "la voz argentina",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "diario los andes",
-      "traffic": "100+",
+      "name": "tiempo de san juan",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "zonda en mendoza",
-      "traffic": "1000+",
+      "name": "suspensión de clases",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "bafweek",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "diario de cuyo",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "mdz",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "clima san juan",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "zonda en mendoza",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "clima mendoza",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "deuda",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "dge",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "soldado voluntario",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "leon fc",
-      "traffic": "500+",
       "rank": 10
     }
   ]
