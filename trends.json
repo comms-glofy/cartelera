@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-26T10:04:55Z",
+  "updated": "2026-08-26T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "zonda en mendoza",
-      "traffic": "500+",
+      "name": "diario de cuyo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "deuda",
-      "traffic": "100+",
+      "name": "clima caba",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dge",
-      "traffic": "1000+",
+      "name": "diario los andes",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
+      "name": "zonda en mendoza",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "soldado voluntario",
+      "name": "clima mendoza",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "leon fc",
-      "traffic": "500+",
+      "name": "deuda",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "javier milei",
-      "traffic": "200+",
+      "name": "dge",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "eugenio weinbaum",
-      "traffic": "500+",
+      "name": "clima bahia blanca",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "escuela",
-      "traffic": "5000+",
+      "name": "soldado voluntario",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mariela prieto",
+      "name": "leon fc",
       "traffic": "500+",
       "rank": 10
     }
