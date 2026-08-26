@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T00:00:18Z",
+  "updated": "2026-08-26T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "federer",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "popstars horario",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
+      "name": "independiente del valle - tolima",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "matías galarza",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "consejo de la magistratura",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "dolly parton murio",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "dana white contender series",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "vaca muerta ypf",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "independiente del valle",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cruzeiro - atlético mineiro",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "juventude - crb",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "ruta nacional 237",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "deportivo madryn",
-      "traffic": "500+",
       "rank": 10
     }
   ]
