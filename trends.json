@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T19:00:17Z",
+  "updated": "2026-08-26T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luis zahera",
-      "traffic": "100+",
+      "name": "primera división",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "newcastle",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "lyon fc",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "aerolínea",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "enriquecimiento ilícito",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "luciano darderi",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "luis zahera",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "juan manuel figueroa",
       "traffic": "100+",
-      "rank": 2
+      "rank": 8
     },
     {
       "name": "lyon - fenerbahçe",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "preston - everton",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "san martin de san juan",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "venezuela",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "majo riera",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "patronato - atlanta",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "real madrid - real sociedad",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "tottenham - charlton",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
