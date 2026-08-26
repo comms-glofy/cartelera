@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T11:00:15Z",
+  "updated": "2026-08-26T11:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,42 +14,42 @@
       "rank": 2
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "2000+",
+      "name": "bafweek",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "suspensión de clases",
+      "name": "diario los andes",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bafweek",
-      "traffic": "100+",
+      "name": "dge mendoza",
+      "traffic": "5000+",
       "rank": 5
-    },
-    {
-      "name": "diario de cuyo",
-      "traffic": "500+",
-      "rank": 6
     },
     {
       "name": "mdz",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "clima san juan",
       "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "deuda",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "zonda en mendoza",
+      "name": "dge",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "clima mendoza",
+      "name": "clima bahia blanca",
       "traffic": "200+",
       "rank": 10
     }
