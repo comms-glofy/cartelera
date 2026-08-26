@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T02:44:56Z",
+  "updated": "2026-08-26T03:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "leon fc",
+      "name": "soldado voluntario",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "javier milei",
-      "traffic": "200+",
+      "name": "leon fc",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el turco garcía",
+      "name": "javier milei",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "el turco garcía",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "escuela",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "mariela prieto",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "cruzeiro vs. atlético mineiro",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "turco garcía",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "mariners - phillies",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "excursionistas",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "andre agassi",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "mi telefe",
-      "traffic": "500+",
       "rank": 10
     }
   ]
