@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T13:51:29Z",
+  "updated": "2026-08-26T14:00:45Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "caputo",
-      "traffic": "1000+",
+      "name": "tibet",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "caputo",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "paula chaves",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "nepal",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "sydney sweeney",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "elon musk",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "la voz argentina",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "bafweek",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "diario de cuyo",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "viento zonda mendoza",
-      "traffic": "5000+",
+      "name": "mendoza post",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "diario los andes",
-      "traffic": "200+",
+      "name": "el sol",
+      "traffic": "100+",
       "rank": 10
     }
   ]
