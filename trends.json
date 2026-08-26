@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T18:30:15Z",
+  "updated": "2026-08-26T19:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "real madrid - real sociedad",
-      "traffic": "1000+",
+      "name": "luis zahera",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tottenham - charlton",
-      "traffic": "1000+",
+      "name": "juan manuel figueroa",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "newcastle - albion",
-      "traffic": "1000+",
+      "name": "lyon - fenerbahçe",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "acassuso - san telmo",
+      "name": "preston - everton",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "andrea rincón",
-      "traffic": "200+",
+      "name": "san martin de san juan",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "rio de janeiro",
-      "traffic": "100+",
+      "name": "venezuela",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "chaco for ever - san miguel",
-      "traffic": "2000+",
+      "name": "majo riera",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "nicole neumann",
-      "traffic": "200+",
+      "name": "patronato - atlanta",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "tillar",
-      "traffic": "1000+",
+      "name": "real madrid - real sociedad",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "el zonda",
-      "traffic": "200+",
+      "name": "tottenham - charlton",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
