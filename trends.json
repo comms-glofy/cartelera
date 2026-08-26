@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-25T23:47:54Z",
+  "updated": "2026-08-26T00:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dolly parton murio",
-      "traffic": "1000+",
+      "name": "matías galarza",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "dana white contender series",
+      "name": "consejo de la magistratura",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "dolly parton murio",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "dana white contender series",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "vaca muerta ypf",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "independiente del valle",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "cruzeiro - atlético mineiro",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "juventude - crb",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ruta nacional 237",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "deportivo madryn",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "exequiel zeballos",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "escuela nueva pompeya",
+      "name": "deportivo madryn",
       "traffic": "500+",
       "rank": 10
     }
