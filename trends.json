@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T09:30:15Z",
+  "updated": "2026-08-27T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "smn",
+      "name": "clima rosario",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "temperatura",
-      "traffic": "200+",
+      "name": "clima quilmes",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "smn",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "temperatura",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "clima hoy",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "hincha de river",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "pronostico extendido",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "jubilación",
+      "name": "hincha de river",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pronostico",
-      "traffic": "10000+",
+      "name": "pronostico extendido",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima la plata",
+      "name": "jubilación",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "yayoi kusama",
-      "traffic": "2000+",
+      "name": "pronostico",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "crespo",
-      "traffic": "1000+",
+      "name": "clima la plata",
+      "traffic": "200+",
       "rank": 10
     }
   ]
