@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T15:30:17Z",
+  "updated": "2026-08-27T16:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peter cullen",
+      "name": "grand theft auto vi",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sorteo champions",
-      "traffic": "200+",
+      "name": "galarza fonda",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "santiago solari",
-      "traffic": "100+",
+      "name": "importación",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "garbarino",
-      "traffic": "100+",
+      "name": "peter cullen",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "las rosas",
-      "traffic": "200+",
+      "name": "sorteo champions",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "rosario motorsport",
+      "name": "santiago solari",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mariana brey",
-      "traffic": "2000+",
+      "name": "garbarino",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "entradas omar courtz",
-      "traffic": "100+",
+      "name": "las rosas",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "movistar arena entradas",
-      "traffic": "100+",
+      "name": "rosario motorsport",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tiempo en rosario",
-      "traffic": "200+",
+      "name": "mariana brey",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
