@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T00:00:16Z",
+  "updated": "2026-08-27T00:24:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo de mañana",
-      "traffic": "100000+",
+      "name": "central norte - deportivo morón",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "vasco da gama - vitória",
-      "traffic": "500+",
+      "name": "ldu quito - aucas",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "weather tomorrow",
+      "name": "guillermo andino",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "river plate - santa fe",
-      "traffic": "50000+",
+      "name": "palmeiras - santos",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "gia dybala sabatini",
+      "name": "peñarol",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gutierrez is mai neim",
-      "traffic": "200+",
+      "name": "rada tilly",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "luna llena agosto 2026",
-      "traffic": "100+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 7
     },
     {
-      "name": "camionero",
-      "traffic": "200+",
+      "name": "vasco da gama - vitória",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "devaluación",
+      "name": "weather tomorrow",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nvda",
-      "traffic": "1000+",
+      "name": "river plate - santa fe",
+      "traffic": "100000+",
       "rank": 10
     }
   ]
