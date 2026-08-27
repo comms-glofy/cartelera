@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-27T10:30:13Z",
+  "updated": "2026-08-27T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "gala de nominación",
-      "traffic": "100+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "smn",
-      "traffic": "500+",
+      "name": "tiempo para hoy",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima hoy",
-      "traffic": "2000+",
+      "name": "smn",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "hincha de river",
-      "traffic": "500+",
+      "name": "el tiempo",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "hincha de river",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "pronostico extendido",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tiempo hoy",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "jubilación",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima rio cuarto",
-      "traffic": "100+",
       "rank": 10
     }
   ]
