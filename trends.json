@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T04:30:14Z",
+  "updated": "2026-08-27T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el clima",
-      "traffic": "100+",
+      "name": "pronostico",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "clima la plata",
+      "name": "pronóstico",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "america",
-      "traffic": "200+",
+      "name": "clima de hoy",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "el clima",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "clima la plata",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "yayoi kusama",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "ramón díaz",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "asprilla",
-      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "hernan crespo",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "crespo",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "kick",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "boca vs sao paulo",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "diario ole",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "nicolás otamendi",
-      "traffic": "500+",
       "rank": 10
     }
   ]
