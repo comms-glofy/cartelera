@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-27T04:00:13Z",
+  "updated": "2026-08-27T04:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima la plata",
-      "traffic": "200+",
+      "name": "el clima",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "america",
+      "name": "clima la plata",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "yayoi kusama",
-      "traffic": "500+",
+      "name": "america",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "yayoi kusama",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "ramón díaz",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "asprilla",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "kick",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "crespo",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "boca vs sao paulo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "diario ole",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "nicolás otamendi",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "américa - columbus crew",
+      "name": "nicolás otamendi",
       "traffic": "500+",
       "rank": 10
     }
