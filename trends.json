@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T01:00:15Z",
+  "updated": "2026-08-27T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "que paso con tini",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "maju lozano",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "tierra",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "servicio militar obligatorio",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "espn",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "telefe",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 6
     },
     {
       "name": "pelota",
       "traffic": "500+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "emilia attias",
       "traffic": "500+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "colo-colo - u. española",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "central norte - deportivo morón",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "ldu quito - aucas",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "guillermo andino",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "palmeiras - santos",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "rada tilly",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "vasco da gama - vitória",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
