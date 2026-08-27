@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T07:30:15Z",
+  "updated": "2026-08-27T08:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "crespo",
-      "traffic": "2000+",
+      "name": "asprilla",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "crespo",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "kick",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "boca vs sao paulo",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "diario ole",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "nicolás otamendi",
-      "traffic": "200+",
       "rank": 10
     }
   ]
