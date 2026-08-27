@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T22:00:19Z",
+  "updated": "2026-08-27T22:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "daniel martinazzo",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "ort",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "copa argentina hoy",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "kirchnerismo",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "the beatles day tripper (songwriting work tape)",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "juan manuel cerúndolo",
       "traffic": "500+",
-      "rank": 1
+      "rank": 6
     },
     {
       "name": "valentín barco",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "estudiantes - barracas central",
-      "traffic": "5000+",
-      "rank": 3
-    },
-    {
-      "name": "argentina - puerto rico",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "glaciar",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "ridley scott",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "lamine yamal",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "eclipse lunar 27 de agosto 2026",
-      "traffic": "500+",
+      "name": "estudiantes - barracas central",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "misil",
-      "traffic": "200+",
+      "name": "argentina - puerto rico",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "getafe",
-      "traffic": "100+",
+      "name": "laliga",
+      "traffic": "500+",
       "rank": 10
     }
   ]
