@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T19:30:14Z",
+  "updated": "2026-08-27T20:00:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rada tilly",
+      "name": "ps5",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "barcelona",
-      "traffic": "2000+",
+      "name": "xavi espart",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "fulham",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "iphone 18",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "bautista mascia",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "barca vs",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "rada tilly",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "barcelona",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "ingreso",
       "traffic": "500+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "trailer gta 6",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "baloncesto",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "netflix",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "las leonas",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "chelsea",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "twitch",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "misionesonline",
-      "traffic": "200+",
       "rank": 10
     }
   ]
