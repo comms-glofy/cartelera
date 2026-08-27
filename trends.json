@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-27T11:30:13Z",
+  "updated": "2026-08-27T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia de la radio",
-      "traffic": "100+",
+      "name": "movistar arena",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "marcos gastaldi",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "dia de la radio",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "gala de nominación",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "clima rosario",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "clima quilmes",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "tiempo para hoy",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "smn",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "el tiempo hoy",
-      "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima hoy",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "el tiempo",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "hincha de river",
+      "name": "el tiempo",
       "traffic": "2000+",
       "rank": 10
     }
