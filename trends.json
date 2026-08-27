@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T15:00:19Z",
+  "updated": "2026-08-27T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "las rosas",
+      "name": "garbarino",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "rosario motorsport",
-      "traffic": "100+",
+      "name": "las rosas",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "rosario motorsport",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "mariana brey",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "entradas omar courtz",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "movistar arena entradas",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tiempo en rosario",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "soledad silveyra",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
