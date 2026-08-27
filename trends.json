@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T13:00:17Z",
+  "updated": "2026-08-27T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo en rosario",
-      "traffic": "200+",
+      "name": "mariana brey",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "soledad silveyra",
-      "traffic": "200+",
+      "name": "entradas omar courtz",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "27 de agosto",
+      "name": "movistar arena entradas",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "movistar arena",
-      "traffic": "2000+",
+      "name": "tiempo en rosario",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "marcos gastaldi",
+      "name": "soledad silveyra",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "dia de la radio",
-      "traffic": "200+",
+      "name": "27 de agosto",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gala de nominación",
-      "traffic": "2000+",
+      "name": "movistar arena",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "clima rosario",
-      "traffic": "2000+",
+      "name": "marcos gastaldi",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima quilmes",
-      "traffic": "100+",
+      "name": "dia de la radio",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "smn",
-      "traffic": "1000+",
+      "name": "posiciones de colo-colo contra unión española",
+      "traffic": "100+",
       "rank": 10
     }
   ]
