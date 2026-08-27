@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T09:00:15Z",
+  "updated": "2026-08-27T09:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hincha de river",
-      "traffic": "100+",
+      "name": "smn",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jubilación",
+      "name": "temperatura",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pronóstico del tiempo",
-      "traffic": "200+",
+      "name": "clima hoy",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "pronostico",
-      "traffic": "5000+",
+      "name": "hincha de river",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "el clima",
+      "name": "pronostico extendido",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima la plata",
+      "name": "jubilación",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "pronostico",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "clima la plata",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "yayoi kusama",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "crespo",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "kick",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "boca vs sao paulo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
