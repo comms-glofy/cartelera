@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-27T23:00:15Z",
+  "updated": "2026-08-27T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "antonela roccuzzo",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "copa argentina 2026",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "anestesista",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "enzo fernández",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "eclipse",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "internacional - grêmio",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "cuando sale gta 6",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "daniel martinazzo",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "ort",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "kirchnerismo",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "the beatles day tripper (songwriting work tape)",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "juan manuel cerúndolo",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "valentín barco",
+      "name": "kirchnerismo",
       "traffic": "500+",
       "rank": 10
     }
