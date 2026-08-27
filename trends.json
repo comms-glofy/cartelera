@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-27T05:00:16Z",
+  "updated": "2026-08-27T05:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "pronostico",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -14,18 +14,18 @@
       "rank": 2
     },
     {
-      "name": "clima de hoy",
+      "name": "el clima",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "el clima",
-      "traffic": "100+",
+      "name": "clima la plata",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima la plata",
-      "traffic": "200+",
+      "name": "america",
+      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "hernan crespo",
-      "traffic": "200+",
+      "name": "crespo",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "crespo",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
       "name": "kick",
-      "traffic": "2000+",
-      "rank": 9
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "boca vs sao paulo",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "diario ole",
+      "traffic": "500+",
       "rank": 10
     }
   ]
