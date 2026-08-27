@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T16:00:20Z",
+  "updated": "2026-08-27T16:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grand theft auto vi",
-      "traffic": "200+",
+      "name": "refinanciación",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "galarza fonda",
-      "traffic": "2000+",
+      "name": "comercio",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "importación",
+      "name": "reforma",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "peter cullen",
-      "traffic": "500+",
+      "name": "boeing 737",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "sorteo champions",
-      "traffic": "500+",
+      "name": "grand theft auto vi",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "galarza fonda",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "importación",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "sorteo champions",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "peter cullen",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "santiago solari",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "garbarino",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "las rosas",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "rosario motorsport",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "mariana brey",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
