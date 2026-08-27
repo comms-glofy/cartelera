@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T11:00:15Z",
+  "updated": "2026-08-27T11:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gala de nominación",
-      "traffic": "2000+",
+      "name": "dia de la radio",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima rosario",
-      "traffic": "500+",
+      "name": "gala de nominación",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "clima rosario",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "clima quilmes",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tiempo para hoy",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "smn",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "el tiempo hoy",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "el tiempo",
-      "traffic": "2000+",
-      "rank": 6
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "hincha de river",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "pronostico extendido",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tiempo hoy",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "jubilación",
-      "traffic": "200+",
       "rank": 10
     }
   ]
