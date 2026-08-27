@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-26T23:30:15Z",
+  "updated": "2026-08-27T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tiempo de mañana",
+      "traffic": "100000+",
+      "rank": 1
+    },
+    {
+      "name": "vasco da gama - vitória",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "weather tomorrow",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "river plate - santa fe",
+      "traffic": "50000+",
+      "rank": 4
+    },
+    {
       "name": "gia dybala sabatini",
       "traffic": "200+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "gutierrez is mai neim",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "luna llena agosto 2026",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "camionero",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "devaluación",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "river vs independiente santa fe",
-      "traffic": "5000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "nvda",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "granizo",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "aldosivi - independiente rivadavia",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "alberto benegas lynch",
-      "traffic": "200+",
       "rank": 10
     }
   ]
