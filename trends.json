@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T14:00:18Z",
+  "updated": "2026-08-27T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "tiempo en rosario",
-      "traffic": "200+",
+      "name": "movistar arena entradas",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "soledad silveyra",
-      "traffic": "500+",
+      "name": "tiempo en rosario",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "27 de agosto",
-      "traffic": "100+",
+      "name": "soledad silveyra",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "27 de agosto",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "movistar arena",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "marcos gastaldi",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "dia de la radio",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "gala de nominación",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "clima rosario",
-      "traffic": "2000+",
+      "name": "posiciones de colo-colo contra unión española",
+      "traffic": "100+",
       "rank": 10
     }
   ]
