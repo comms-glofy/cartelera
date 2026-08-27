@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T12:30:19Z",
+  "updated": "2026-08-27T13:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "27 de agosto",
-      "traffic": "100+",
+      "name": "tiempo en rosario",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "movistar arena",
-      "traffic": "1000+",
+      "name": "soledad silveyra",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marcos gastaldi",
+      "name": "27 de agosto",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "movistar arena",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "marcos gastaldi",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "dia de la radio",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "gala de nominación",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "clima rosario",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "clima quilmes",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "tiempo para hoy",
-      "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "smn",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "clima hoy",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
