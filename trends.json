@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T10:05:45Z",
+  "updated": "2026-08-27T10:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "gala de nominación",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "clima rosario",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "clima quilmes",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "smn",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima hoy",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "hincha de river",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pronostico extendido",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "tiempo hoy",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "jubilación",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "clima rio cuarto",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "clima la plata",
-      "traffic": "200+",
       "rank": 10
     }
   ]
