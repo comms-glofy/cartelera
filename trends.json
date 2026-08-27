@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T17:00:15Z",
+  "updated": "2026-08-27T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ratko mladić",
+      "name": "glof",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "producto",
-      "traffic": "100+",
+      "name": "champions",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "champions league",
-      "traffic": "1000+",
+      "name": "ratko mladić",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "producto",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "gustavo bermudez",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "longoria",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "hockey",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "refinanciación",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "comercio",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "reforma",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "boeing 737",
-      "traffic": "200+",
+      "name": "reforma",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
