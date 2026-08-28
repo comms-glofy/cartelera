@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-28T17:34:28Z",
+  "updated": "2026-08-28T18:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "astrología china",
+      "name": "bayern - stuttgart",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "brian sarmiento",
-      "traffic": "1000+",
+      "name": "las leonas final",
+      "traffic": "20000+",
       "rank": 2
     },
     {
-      "name": "mirtha legrand",
+      "name": "glenn close",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "kendry páez",
+      "name": "astrología china",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "meteored",
+      "name": "brian sarmiento",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "soldado voluntario",
-      "traffic": "100+",
+      "name": "mirtha legrand",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ilia topuria",
-      "traffic": "100+",
+      "name": "kendry páez",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "racing de santander - elche c. f.",
+      "name": "meteored",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "alan velasco",
-      "traffic": "100+",
+      "name": "soldado voluntario",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "bebote alvarez",
-      "traffic": "500+",
+      "name": "ilia topuria",
+      "traffic": "100+",
       "rank": 10
     }
   ]
