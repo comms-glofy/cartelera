@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-28T12:30:12Z",
+  "updated": "2026-08-28T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "movistar arena entradas",
-      "traffic": "100+",
+      "name": "economía",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "movistar arena",
-      "traffic": "2000+",
+      "name": "entradas omar courtz",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "harald v de noruega",
-      "traffic": "500+",
+      "name": "movistar arena entradas",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "placa tectónica",
+      "name": "rey de noruega",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "agua",
-      "traffic": "200+",
+      "name": "movistar arena",
+      "traffic": "5000+",
       "rank": 5
+    },
+    {
+      "name": "placa tectónica",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "agua",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "maría susini",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ahora entre ríos",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "día del empleado de comercio",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "luciana baez accidente",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "aaron paul",
-      "traffic": "200+",
       "rank": 10
     }
   ]
