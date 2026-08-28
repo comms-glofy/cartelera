@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-28T02:30:15Z",
+  "updated": "2026-08-28T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "el mago pop",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "gh",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "platense hoy",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "mi telefe en vivo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "gran hermano en vivo",
       "traffic": "200+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "clima santa fe",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "quiniela plus",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "popstars jurado",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "pergolini",
-      "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "jorge pedersoli",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "florence pugh",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "aldo leiva",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "quiniela de hoy",
+      "name": "el polaco",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "instituto hoy",
-      "traffic": "200+",
+      "name": "pergolini",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
