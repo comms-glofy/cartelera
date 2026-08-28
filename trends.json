@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-28T21:00:15Z",
+  "updated": "2026-08-28T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "asociación atlética quimsa",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "lille",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "corte suprema",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "inflación",
       "traffic": "2000+",
-      "rank": 2
-    },
-    {
-      "name": "detención",
-      "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "wall street",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "detención",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "selección femenina de hockey sobre césped de argentina",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "psg vs",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "veda de pesca",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "primera división de arabia saudita",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "susurran tu nombre",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "pablo quirno",
-      "traffic": "200+",
       "rank": 10
     }
   ]
