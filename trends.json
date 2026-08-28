@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-28T11:30:13Z",
+  "updated": "2026-08-28T12:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "movistar arena",
-      "traffic": "10000+",
+      "name": "contexto tucuman",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "movistar arena",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "harald v de noruega",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "agua",
-      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "placa tectónica",
+      "name": "agua",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "maría susini",
-      "traffic": "100+",
+      "name": "placa tectónica",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ahora entre ríos",
+      "name": "maría susini",
       "traffic": "100+",
       "rank": 6
     },
     {
+      "name": "ahora entre ríos",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "día del empleado de comercio",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "luciana baez accidente",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "aaron paul",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima concordia",
+      "name": "aaron paul",
       "traffic": "200+",
       "rank": 10
     }
