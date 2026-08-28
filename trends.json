@@ -1,46 +1,46 @@
 {
-  "updated": "2026-08-28T00:00:16Z",
+  "updated": "2026-08-28T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "polaco riemersma",
-      "traffic": "1000+",
+      "name": "perro",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "epic games store",
+      "name": "fiba",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "internacional",
+      "name": "platense vs instituto",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "llaneros - millonarios",
-      "traffic": "200+",
+      "name": "epic games store",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "antonela roccuzzo",
+      "name": "internacional",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "edlp",
+      "name": "llaneros - millonarios",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "anestesista",
-      "traffic": "200+",
+      "name": "antonela roccuzzo",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "enzo fernández",
-      "traffic": "1000+",
+      "name": "anestesista",
+      "traffic": "200+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "internacional - grêmio",
-      "traffic": "2000+",
+      "name": "enzo fernández",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
