@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-28T17:00:22Z",
+  "updated": "2026-08-28T17:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kendry páez",
+      "name": "astrología china",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "brian sarmiento",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "mirtha legrand",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "kendry páez",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "meteored",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "soldado voluntario",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "ilia topuria",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "racing de santander - elche c. f.",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "alan velasco",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "bebote alvarez",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "beneficiario",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "robbie williams",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "club tokio",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "boca vs lanus",
+      "name": "bebote alvarez",
       "traffic": "200+",
       "rank": 10
     }
