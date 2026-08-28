@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-28T22:00:19Z",
+  "updated": "2026-08-28T22:30:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "james vowles",
-      "traffic": "100+",
+      "name": "barreda película",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "unión - sarmiento",
-      "traffic": "2000+",
+      "name": "ronaldo martinez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "asociación atlética quimsa",
+      "name": "uom paritarias",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "corte suprema",
-      "traffic": "1000+",
+      "name": "reinaldo merlo",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "inflación",
-      "traffic": "2000+",
+      "name": "james vowles",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "wall street",
-      "traffic": "200+",
+      "name": "unión - sarmiento",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "detención",
+      "name": "asociación atlética quimsa",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "selección femenina de hockey sobre césped de argentina",
+      "name": "inflación",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "psg vs",
-      "traffic": "1000+",
+      "name": "wall street",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "veda de pesca",
-      "traffic": "200+",
+      "name": "corte suprema",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
