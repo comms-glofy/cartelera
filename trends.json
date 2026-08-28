@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-28T04:30:17Z",
+  "updated": "2026-08-28T05:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el mago pop",
-      "traffic": "2000+",
+      "name": "clima concordia",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "el mago pop",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "mago pop",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "mi telefe en vivo",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "platense hoy",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "sebastián estevanez",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "telefe en vivo",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "gran hermano en vivo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "clima santa fe",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "quiniela plus",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "popstars jurado",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "el polaco",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "pergolini",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
