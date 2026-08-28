@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-28T16:00:15Z",
+  "updated": "2026-08-28T16:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "robbie williams",
+      "name": "bebote alvarez",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "club tokio",
+      "name": "beneficiario",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "boca vs lanus",
+      "name": "robbie williams",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "movistararena",
+      "name": "club tokio",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "boca vs lanus",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "rey harald v de noruega",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
       "name": "economía",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "entradas omar courtz",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "rey de noruega",
-      "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "movistar arena",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "agua",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "placa tectónica",
+      "name": "agua",
       "traffic": "500+",
       "rank": 10
     }
