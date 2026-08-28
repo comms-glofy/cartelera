@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-28T15:30:14Z",
+  "updated": "2026-08-28T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca vs lanus",
-      "traffic": "100+",
+      "name": "robbie williams",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "movistararena",
+      "name": "club tokio",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "boca vs lanus",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "movistararena",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "economía",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "entradas omar courtz",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "movistar arena entradas",
-      "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "rey de noruega",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "movistar arena",
       "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "agua",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "placa tectónica",
+      "name": "agua",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "maría susini",
-      "traffic": "100+",
+      "name": "placa tectónica",
+      "traffic": "500+",
       "rank": 10
     }
   ]
