@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-28T02:00:14Z",
+  "updated": "2026-08-28T02:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pergolini",
-      "traffic": "5000+",
+      "name": "gran hermano en vivo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "florence pugh",
-      "traffic": "500+",
+      "name": "clima santa fe",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "aldo leiva",
-      "traffic": "100+",
+      "name": "quiniela plus",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "quiniela de hoy",
-      "traffic": "2000+",
+      "name": "popstars jurado",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "charlie garcia",
-      "traffic": "1000+",
+      "name": "pergolini",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "santiago silva",
+      "name": "jorge pedersoli",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "puma rodriguez",
+      "name": "florence pugh",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "perro",
-      "traffic": "2000+",
+      "name": "aldo leiva",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "epic games store",
-      "traffic": "200+",
+      "name": "quiniela de hoy",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "platense - instituto",
-      "traffic": "20000+",
+      "name": "instituto hoy",
+      "traffic": "200+",
       "rank": 10
     }
   ]
