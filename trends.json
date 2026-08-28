@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T05:30:16Z",
+  "updated": "2026-08-28T06:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "mi telefe en vivo",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "gran hermano en vivo",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
       "name": "clima santa fe",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "quiniela plus",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "popstars jurado",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "el polaco",
+      "traffic": "5000+",
+      "rank": 9
+    },
+    {
+      "name": "pergolini",
       "traffic": "5000+",
       "rank": 10
     }
