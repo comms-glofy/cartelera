@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-28T16:30:18Z",
+  "updated": "2026-08-28T17:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bebote alvarez",
+      "name": "kendry páez",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "meteored",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "ilia topuria",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "racing de santander - elche c. f.",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "alan velasco",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "bebote alvarez",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "beneficiario",
       "traffic": "100+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "robbie williams",
       "traffic": "200+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "club tokio",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "boca vs lanus",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "rey harald v de noruega",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "economía",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "entradas omar courtz",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "movistar arena",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "agua",
-      "traffic": "500+",
       "rank": 10
     }
   ]
