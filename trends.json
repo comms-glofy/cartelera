@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-27T23:30:13Z",
+  "updated": "2026-08-28T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "antonela roccuzzo",
-      "traffic": "200+",
+      "name": "polaco riemersma",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "copa argentina 2026",
-      "traffic": "200+",
+      "name": "epic games store",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "anestesista",
-      "traffic": "100+",
+      "name": "internacional",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "enzo fernández",
-      "traffic": "500+",
+      "name": "llaneros - millonarios",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "eclipse",
-      "traffic": "500+",
+      "name": "antonela roccuzzo",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "edlp",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "anestesista",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "enzo fernández",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "eclipse",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "internacional - grêmio",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "cuando sale gta 6",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "daniel martinazzo",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ort",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "kirchnerismo",
-      "traffic": "500+",
       "rank": 10
     }
   ]
