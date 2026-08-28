@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T04:00:18Z",
+  "updated": "2026-08-28T04:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,13 +9,13 @@
       "rank": 1
     },
     {
-      "name": "mi telefe en vivo",
-      "traffic": "500+",
+      "name": "platense hoy",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "platense hoy",
-      "traffic": "200+",
+      "name": "sebastián estevanez",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
-      "name": "sebastián estevanez",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
       "name": "gran hermano en vivo",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "clima santa fe",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "quiniela plus",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "popstars jurado",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "el polaco",
+      "traffic": "5000+",
+      "rank": 9
+    },
+    {
+      "name": "pergolini",
       "traffic": "5000+",
       "rank": 10
     }
