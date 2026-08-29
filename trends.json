@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T14:00:16Z",
+  "updated": "2026-08-29T14:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luciana aymar",
+      "name": "los pumas",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sv elversberg - leverkusen",
-      "traffic": "200+",
+      "name": "efemerides de hoy",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bundesliga",
-      "traffic": "1000+",
+      "name": "espn",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bournemouth - everton",
-      "traffic": "500+",
+      "name": "espn en vivo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "comodoro rivadavia",
+      "name": "emergencia",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "víctor muñoz",
-      "traffic": "200+",
+      "name": "sv elversberg - leverkusen",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "congreso",
-      "traffic": "100+",
+      "name": "luciana aymar",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "umar nurmagomedov",
+      "name": "bundesliga",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "dua lipa",
-      "traffic": "100+",
+      "name": "bournemouth - everton",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "29 de agosto",
-      "traffic": "200+",
+      "name": "comodoro rivadavia",
+      "traffic": "100+",
       "rank": 10
     }
   ]
