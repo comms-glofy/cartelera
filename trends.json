@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T14:30:16Z",
+  "updated": "2026-08-29T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "los pumas",
+      "name": "yibbi jansen",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "efemerides de hoy",
-      "traffic": "100+",
+      "name": "leones hockey",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "espn",
+      "name": "levante - real betis",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "espn en vivo",
+      "name": "los pumas",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "emergencia",
+      "name": "efemerides de hoy",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sv elversberg - leverkusen",
+      "name": "espn",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "luciana aymar",
-      "traffic": "500+",
+      "name": "emergencia",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "bundesliga",
-      "traffic": "200+",
+      "name": "sv elversberg - leverkusen",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "bournemouth - everton",
+      "name": "luciana aymar",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "comodoro rivadavia",
-      "traffic": "100+",
+      "name": "bundesliga",
+      "traffic": "200+",
       "rank": 10
     }
   ]
