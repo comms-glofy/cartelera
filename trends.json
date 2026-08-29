@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T16:30:17Z",
+  "updated": "2026-08-29T17:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "real sociedad - rcd espanyol",
+      "name": "miniserie",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bolivia",
+      "name": "tamara bezares",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dia del gamer",
-      "traffic": "100+",
+      "name": "basura",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "perro",
-      "traffic": "500+",
+      "name": "real sociedad - rcd espanyol",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "quiniela de tucumán",
-      "traffic": "1000+",
+      "name": "bolivia",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "usman nurmagomedov",
+      "name": "dia del gamer",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tottenham - newcastle",
+      "name": "perro",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "fiorentina - frosinone",
-      "traffic": "500+",
+      "name": "quiniela de tucumán",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "cómo salieron las leonas",
-      "traffic": "1000+",
+      "name": "usman nurmagomedov",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "dortmund - hamburg",
-      "traffic": "500+",
+      "name": "tottenham - newcastle",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
