@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T11:00:15Z",
+  "updated": "2026-08-29T11:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liverpool - nottingham forest",
-      "traffic": "200+",
+      "name": "película",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "claudio tapia",
-      "traffic": "200+",
+      "name": "gobernador",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "multa",
-      "traffic": "200+",
+      "name": "misiones",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "alerta meteorológica",
+      "name": "noticia",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "oyo nyimba kabamba iguru rukidi iv de toro",
-      "traffic": "100+",
+      "name": "liverpool - nottingham forest",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "claudio tapia",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "multa",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "alerta meteorológica",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "oyo nyimba kabamba iguru rukidi iv de toro",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "misionesonline",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "clima posadas",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "clima cipolletti",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "baby etchecopar",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "betano",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
