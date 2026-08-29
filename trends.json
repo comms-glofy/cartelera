@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T18:00:17Z",
+  "updated": "2026-08-29T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nico gonzalez",
+      "name": "galatasaray - göztepe",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "recoleta",
-      "traffic": "200+",
+      "name": "periódico",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "real sociedad",
+      "name": "cuba",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "river banfield",
-      "traffic": "200+",
+      "name": "juventus - parma",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "sassuolo - torino",
-      "traffic": "100+",
+      "name": "colegiales - deportivo maipú",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "académico de viseu futebol clube - porto",
+      "name": "clima rio cuarto",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "monza - udinese",
+      "name": "borussia",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "ucrania",
-      "traffic": "100+",
+      "name": "recoleta",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "deportivo riestra - vélez",
-      "traffic": "10000+",
+      "name": "nico gonzález",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "fiorentina vs",
-      "traffic": "200+",
+      "name": "real sociedad",
+      "traffic": "100+",
       "rank": 10
     }
   ]
