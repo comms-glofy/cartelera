@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T03:00:16Z",
+  "updated": "2026-08-29T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lpf",
-      "traffic": "500+",
+      "name": "kick",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "atlante - león",
-      "traffic": "100+",
+      "name": "tijuana - pumas",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "primera",
-      "traffic": "100+",
+      "name": "tyc sport",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "tabla de posiciones",
-      "traffic": "200+",
+      "name": "lpf",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "torneo argentino",
+      "name": "atlante - león",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "boca versus lanús",
-      "traffic": "100+",
+      "name": "primera división de argentina",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "superliga",
-      "traffic": "500+",
+      "name": "primera",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "peña biafore",
-      "traffic": "200+",
+      "name": "tabla anual",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "gta",
-      "traffic": "200+",
+      "name": "tabla de posiciones",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "enner valencia",
-      "traffic": "500+",
+      "name": "torneo argentino",
+      "traffic": "200+",
       "rank": 10
     }
   ]
