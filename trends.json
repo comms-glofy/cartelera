@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T02:30:15Z",
+  "updated": "2026-08-29T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gta",
-      "traffic": "200+",
+      "name": "lpf",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "superliga",
-      "traffic": "200+",
+      "name": "atlante - león",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "enner valencia",
-      "traffic": "500+",
+      "name": "primera",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nueva camiseta de boca",
-      "traffic": "100+",
+      "name": "tabla de posiciones",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "angels - phillies",
+      "name": "torneo argentino",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gutierrez is mai neim",
-      "traffic": "500+",
+      "name": "boca versus lanús",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "necaxa - cruz azul",
-      "traffic": "200+",
+      "name": "superliga",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "facundo herrera boca",
+      "name": "peña biafore",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "como va boca",
-      "traffic": "2000+",
+      "name": "gta",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "puma rodriguez",
-      "traffic": "200+",
+      "name": "enner valencia",
+      "traffic": "500+",
       "rank": 10
     }
   ]
