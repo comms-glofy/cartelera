@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T21:00:14Z",
+  "updated": "2026-08-29T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético mineiro - vitória",
+      "name": "entrenador",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tristan suarez",
-      "traffic": "200+",
+      "name": "club deportivo morón",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "utc cajamarca - universitario",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "seattle sounders - chicago fire",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "el santa evita",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "atlético mineiro - vitória",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "defensor sporting - torque",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "tristan suarez",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "el cronista",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "clima tandil",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "sevilla vs atlético madrid",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "juventus vs",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "lyon fc",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "arsenal de sarandi",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "argentina vs australia",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "lyon - le havre",
-      "traffic": "200+",
       "rank": 10
     }
   ]
