@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-28T23:30:16Z",
+  "updated": "2026-08-29T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "reino unido",
+      "name": "gabriel ávalos",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "avalos",
+      "name": "germán pezzella",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "31 de agosto",
-      "traffic": "200+",
+      "name": "boca juniors - lanús",
+      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "kevin zenón",
+      "name": "reino unido",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "meteorología",
+      "name": "31 de agosto",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "asociación del fútbol argentino",
-      "traffic": "100+",
+      "name": "kevin zenón",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "barreda película",
-      "traffic": "500+",
+      "name": "sarmiento",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ronaldo martinez",
+      "name": "meteorología",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "uom paritarias",
-      "traffic": "200+",
+      "name": "asociación del fútbol argentino",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "reinaldo merlo",
-      "traffic": "200+",
+      "name": "barreda película",
+      "traffic": "500+",
       "rank": 10
     }
   ]
