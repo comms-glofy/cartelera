@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T10:30:12Z",
+  "updated": "2026-08-29T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alerta meteorológica",
-      "traffic": "100+",
+      "name": "liverpool - nottingham forest",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "claudio tapia",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "multa",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "alerta meteorológica",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "oyo nyimba kabamba iguru rukidi iv de toro",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "misionesonline",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "clima posadas",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "clima cipolletti",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "baby etchecopar",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "betano",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "tijuana - pumas",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "leon fc",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "kick",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "atlante - león",
-      "traffic": "200+",
       "rank": 10
     }
   ]
