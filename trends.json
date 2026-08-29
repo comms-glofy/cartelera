@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T19:00:16Z",
+  "updated": "2026-08-29T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sevilla - atlético madrid",
-      "traffic": "2000+",
+      "name": "rosario central - gimnasia",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "franco mastantuono",
-      "traffic": "200+",
+      "name": "midland - nueva chicago",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "river vs banfield",
+      "name": "tibet",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "galatasaray - göztepe",
-      "traffic": "500+",
+      "name": "iphone 18",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "argentina - australia",
-      "traffic": "5000+",
+      "name": "estados unidos",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "periódico",
-      "traffic": "100+",
+      "name": "tercera guerra mundial",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cuba",
-      "traffic": "100+",
+      "name": "sevilla - atlético madrid",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "juventus - parma",
-      "traffic": "1000+",
+      "name": "franco mastantuono",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "colegiales - deportivo maipú",
-      "traffic": "500+",
+      "name": "river vs banfield",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima rio cuarto",
-      "traffic": "100+",
+      "name": "galatasaray - göztepe",
+      "traffic": "500+",
       "rank": 10
     }
   ]
