@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T13:30:17Z",
+  "updated": "2026-08-29T13:55:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "víctor muñoz",
-      "traffic": "100+",
+      "name": "luciana aymar",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "sv elversberg - leverkusen",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "bundesliga",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "bournemouth - everton",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "comodoro rivadavia",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "víctor muñoz",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "congreso",
       "traffic": "100+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "umar nurmagomedov",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "dua lipa",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "cher",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "29 de agosto",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "motogp",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "testigo",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "juan martín del potro",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "500+",
+      "name": "29 de agosto",
+      "traffic": "200+",
       "rank": 10
     }
   ]
