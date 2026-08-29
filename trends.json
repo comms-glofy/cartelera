@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T23:00:13Z",
+  "updated": "2026-08-29T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami - montréal",
+      "name": "new york rb - philadelphia",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "policía de corrientes",
-      "traffic": "100+",
+      "name": "junior - santa fe",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "inter miami - montréal",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "policía de corrientes",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "dogo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "tarjeta de crédito",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "são paulo - bragantino",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "corrupción",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "caso barreda",
+      "name": "são paulo - bragantino",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "predicción",
-      "traffic": "1000+",
+      "name": "corrupción",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "jaguares - américa",
-      "traffic": "200+",
+      "name": "caso barreda",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "miguel ángel pichetto",
-      "traffic": "200+",
+      "name": "predicción",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
