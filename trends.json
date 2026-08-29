@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T21:30:14Z",
+  "updated": "2026-08-29T22:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "entrenador",
-      "traffic": "200+",
+      "name": "miguel ángel pichetto",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "club deportivo morón",
+      "name": "clima santa rosa",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "utc cajamarca - universitario",
-      "traffic": "200+",
+      "name": "quiniela de cordoba",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "seattle sounders - chicago fire",
+      "name": "cristina fernández de kirchner",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "el santa evita",
+      "name": "ignacio buse",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "atlético mineiro - vitória",
-      "traffic": "500+",
+      "name": "girona - u. d. las palmas",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "defensor sporting - torque",
+      "name": "alan lescano",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "tristan suarez",
-      "traffic": "500+",
+      "name": "huracán - estudiantes de río cuarto",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "el cronista",
-      "traffic": "1000+",
+      "name": "entrenador",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima tandil",
-      "traffic": "500+",
+      "name": "club deportivo morón",
+      "traffic": "100+",
       "rank": 10
     }
   ]
