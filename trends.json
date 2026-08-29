@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T10:00:16Z",
+  "updated": "2026-08-29T10:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "pronostico posadas",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
       "name": "clima posadas",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "clima cipolletti",
       "traffic": "100+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "baby etchecopar",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "betano",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "tijuana - pumas",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "leon fc",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "kick",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "atlante - león",
+      "traffic": "200+",
       "rank": 10
     }
   ]
