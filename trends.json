@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-29T03:30:15Z",
+  "updated": "2026-08-29T04:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kick",
-      "traffic": "1000+",
+      "name": "betano",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "tyc sport",
+      "name": "kick",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "lpf",
-      "traffic": "500+",
+      "name": "atlante - león",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "atlante - león",
+      "name": "lpf",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "primera división de argentina",
-      "traffic": "200+",
+      "name": "primera",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "primera",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "tabla anual",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
       "name": "tabla de posiciones",
-      "traffic": "5000+",
-      "rank": 9
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "torneo argentino",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "boca jrs",
+      "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "boca versus lanús",
+      "traffic": "100+",
       "rank": 10
     }
   ]
