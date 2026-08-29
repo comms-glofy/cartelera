@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T15:30:17Z",
+  "updated": "2026-08-29T16:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rb leipzig - mönchengladbach",
-      "traffic": "100+",
+      "name": "tottenham - newcastle",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "leipzig",
-      "traffic": "100+",
+      "name": "como salieron las leonas",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "fiorentina - frosinone",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "dortmund - hamburg",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "tv publica",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "mario massaccesi",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "leipzig",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "sudáfrica - nueva zelanda",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "provincia de buenos aires",
       "traffic": "100+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "yibbi jansen",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "leones hockey",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "levante - real betis",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "leverkusen",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "bayer leverkusen",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "los pumas",
-      "traffic": "200+",
       "rank": 10
     }
   ]
