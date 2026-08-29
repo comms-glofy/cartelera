@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T20:00:22Z",
+  "updated": "2026-08-29T20:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sevilla vs atlético madrid",
-      "traffic": "200+",
+      "name": "tristan suarez",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "el cronista",
+      "name": "clima tandil",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima tandil",
-      "traffic": "100+",
+      "name": "el cronista",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "juventus vs",
-      "traffic": "100+",
+      "name": "sevilla vs atlético madrid",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "club atlético de madrid",
-      "traffic": "2000+",
+      "name": "juventus vs",
+      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "lyon fc",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "club atlético de madrid",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "arsenal de sarandi",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "lyon - le havre",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "rosario central - gimnasia",
-      "traffic": "10000+",
+      "name": "lyon - le havre",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "midland - nueva chicago",
-      "traffic": "1000+",
+      "name": "rosario central - gimnasia",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
