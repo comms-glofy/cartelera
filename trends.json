@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T20:30:15Z",
+  "updated": "2026-08-29T21:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tristan suarez",
-      "traffic": "100+",
+      "name": "atlético mineiro - vitória",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima tandil",
+      "name": "tristan suarez",
       "traffic": "200+",
       "rank": 2
     },
     {
       "name": "el cronista",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "clima tandil",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "sevilla vs atlético madrid",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "juventus vs",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "lyon fc",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "club atlético de madrid",
-      "traffic": "2000+",
+      "name": "lyon fc",
+      "traffic": "500+",
       "rank": 7
     },
     {
       "name": "arsenal de sarandi",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "lyon - le havre",
+      "name": "argentina vs australia",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rosario central - gimnasia",
-      "traffic": "20000+",
+      "name": "lyon - le havre",
+      "traffic": "200+",
       "rank": 10
     }
   ]
