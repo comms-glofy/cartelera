@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T18:00:14Z",
+  "updated": "2026-08-30T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sampaoli",
-      "traffic": "200+",
+      "name": "deportivo morón - san miguel",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "almirante brown - deportivo madryn",
+      "name": "callejero fino",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "curazao",
+      "name": "all boys - chaco for ever",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "serie a",
+      "name": "atlanta - san martín",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "kylian mbappé",
+      "name": "estudiantes - ferro",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "napoli vs",
-      "traffic": "200+",
+      "name": "serie argentina netflix",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "manchester",
-      "traffic": "100+",
+      "name": "espn premium",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "barcelona - ud tenerife",
-      "traffic": "200+",
+      "name": "cagliari - inter",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "joaquín freitas",
-      "traffic": "500+",
+      "name": "tv argentina",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "peñarol",
-      "traffic": "200+",
+      "name": "futbol para todos",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
