@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T02:00:14Z",
+  "updated": "2026-08-30T02:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "martín varsavsky",
-      "traffic": "100+",
+      "name": "andy kusnetzoff",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alianza - atlético nacional",
+      "name": "angels - phillies",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "quiniela chaqueña",
-      "traffic": "200+",
+      "name": "mls",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "robert de niro",
-      "traffic": "500+",
+      "name": "martín varsavsky",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "georgina barbarossa",
+      "name": "cuantos goles tiene messi",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "wanda nara",
+      "name": "alianza - atlético nacional",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "maxi lopez",
+      "name": "quiniela chaqueña",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ingrid grudke",
-      "traffic": "2000+",
+      "name": "robert de niro",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "maxi lópez",
-      "traffic": "500+",
+      "name": "georgina barbarossa",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "ronaldinho",
-      "traffic": "500+",
+      "name": "wanda nara",
+      "traffic": "200+",
       "rank": 10
     }
   ]
