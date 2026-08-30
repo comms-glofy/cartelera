@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T22:00:18Z",
+  "updated": "2026-08-30T22:20:58Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quilmes - temperley",
-      "traffic": "200+",
+      "name": "independiente",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "julián álvarez",
-      "traffic": "500+",
+      "name": "palmeiras vs",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "telekino 2443",
-      "traffic": "100+",
+      "name": "neymar",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "columbus crew - new england",
-      "traffic": "100+",
+      "name": "quilmes - temperley",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "tomás martín etcheverry",
+      "name": "telekino 2443",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "independiente - gimnasia y esgrima",
-      "traffic": "2000+",
+      "name": "julián álvarez",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "columbus crew - new england",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "independiente - gimnasia y esgrima",
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "us open",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "federal a",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "san martín de tucumán - atlético güemes",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "diego monroig",
-      "traffic": "500+",
       "rank": 10
     }
   ]
