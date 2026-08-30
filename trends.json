@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T18:30:15Z",
+  "updated": "2026-08-30T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deportivo morón - san miguel",
+      "name": "corinthians - santos",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "callejero fino",
-      "traffic": "200+",
+      "name": "cerro - libertad",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "all boys - chaco for ever",
+      "name": "facundo colidio",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "atlanta - san martín",
-      "traffic": "200+",
+      "name": "nicolás iván gonzález",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "estudiantes - ferro",
-      "traffic": "200+",
+      "name": "inter de milán",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "serie argentina netflix",
-      "traffic": "1000+",
+      "name": "flamengo - botafogo",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "espn premium",
+      "name": "almada",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cagliari - inter",
-      "traffic": "1000+",
+      "name": "lucas martínez quarta",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tv argentina",
-      "traffic": "200+",
+      "name": "patronato - almagro",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "futbol para todos",
-      "traffic": "5000+",
+      "name": "el santa evita",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
