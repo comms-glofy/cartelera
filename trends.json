@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-30T16:00:15Z",
+  "updated": "2026-08-30T16:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "napoli - como",
+      "name": "airbus a380",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "joão pedro",
+      "name": "exequiel palacios",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ajax",
-      "traffic": "200+",
+      "name": "napoli - como",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "nuevo iphone 18 pro max",
-      "traffic": "500+",
+      "name": "joão pedro",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "valentín barco",
+      "name": "joan manuel serrat",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gonzalo gelini",
+      "name": "chelse",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "manchester united - ipswich",
-      "traffic": "5000+",
+      "name": "ajax",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "naufragio",
-      "traffic": "1000+",
+      "name": "nuevo iphone 18 pro max",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "el nine",
-      "traffic": "100+",
+      "name": "valentín barco",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "sorteo loto plus",
+      "name": "gonzalo gelini",
       "traffic": "100+",
       "rank": 10
     }
