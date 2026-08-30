@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T02:30:13Z",
+  "updated": "2026-08-30T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "andy kusnetzoff",
-      "traffic": "200+",
+      "name": "que le paso a julian alvarez",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "angels - phillies",
+      "name": "andy kusnetzoff",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mls",
-      "traffic": "2000+",
+      "name": "angels - phillies",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "alexander shaw",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "martín varsavsky",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "cuantos goles tiene messi",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "alianza - atlético nacional",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "quiniela chaqueña",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "robert de niro",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "georgina barbarossa",
+      "name": "robert de niro",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "wanda nara",
-      "traffic": "200+",
+      "name": "georgina barbarossa",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
