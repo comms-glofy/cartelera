@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T10:00:14Z",
+  "updated": "2026-08-30T10:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mar del plata",
-      "traffic": "100+",
+      "name": "camioneta",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "chocó",
+      "name": "ganar",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "clima mar del plata",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "chocó",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "santos - tigres",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "mad max",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "santa rosa de lima",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "joaquin furriel",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima necochea",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "donald trump",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "que le paso a julian alvarez",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "andy kusnetzoff",
-      "traffic": "200+",
       "rank": 10
     }
   ]
