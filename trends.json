@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T01:00:14Z",
+  "updated": "2026-08-30T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gaston edul",
+      "name": "georgina barbarossa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "susurran tu nombre reparto",
+      "name": "wanda nara",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ph hoy",
+      "name": "michelle monaghan",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "alianza lima - deportivo garcilaso",
-      "traffic": "200+",
+      "name": "maxi lópez",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "apple tv",
-      "traffic": "200+",
+      "name": "ronaldinho",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "juan barinaga",
-      "traffic": "100+",
+      "name": "nashville sc - cincinnati",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "bruno vellas geriatra",
-      "traffic": "100+",
+      "name": "gaston edul",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "manta - barcelona sc",
-      "traffic": "500+",
+      "name": "susurran tu nombre reparto",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "toronto - nyc fc",
+      "name": "ph hoy",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "atlético tucumán - belgrano",
-      "traffic": "20000+",
+      "name": "alianza lima - deportivo garcilaso",
+      "traffic": "500+",
       "rank": 10
     }
   ]
