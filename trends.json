@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T11:00:16Z",
+  "updated": "2026-08-30T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "frío",
+      "name": "moto gp",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "antonela roccuzzo",
+      "name": "ingreso",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "camioneta",
+      "name": "frío",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "100+",
+      "name": "antonela roccuzzo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "chocó",
+      "name": "camioneta",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "santos - tigres",
-      "traffic": "200+",
+      "name": "el territorio",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "mad max",
+      "name": "quiniela plus",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "santa rosa de lima",
-      "traffic": "200+",
+      "name": "clima mar del plata",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "joaquin furriel",
-      "traffic": "100+",
+      "name": "chocó",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima necochea",
-      "traffic": "100+",
+      "name": "santos - tigres",
+      "traffic": "200+",
       "rank": 10
     }
   ]
