@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T17:00:15Z",
+  "updated": "2026-08-30T17:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peñarol",
-      "traffic": "100+",
+      "name": "deportivo - valencia c. f.",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "napoli",
-      "traffic": "1000+",
+      "name": "kylian mbappé",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rennes - le mans football club",
+      "name": "napoli vs",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "airbus a380",
+      "name": "barcelona - ud tenerife",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "marcelino núñez",
-      "traffic": "200+",
+      "name": "united fc",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "exequiel palacios",
-      "traffic": "100+",
+      "name": "joaquín freitas",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "napoli - como",
-      "traffic": "1000+",
+      "name": "peñarol",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "laliga",
+      "name": "napoli",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "joão pedro",
+      "name": "rennes - le mans football club",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "joan manuel serrat",
-      "traffic": "500+",
+      "name": "airbus a380",
+      "traffic": "200+",
       "rank": 10
     }
   ]
