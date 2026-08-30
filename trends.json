@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-30T16:30:13Z",
+  "updated": "2026-08-30T16:53:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "airbus a380",
-      "traffic": "200+",
+      "name": "napoli",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "exequiel palacios",
+      "name": "rennes - le mans football club",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "napoli - como",
-      "traffic": "500+",
+      "name": "airbus a380",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "marcelino núñez",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "exequiel palacios",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "napoli - como",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "laliga",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "joão pedro",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "joan manuel serrat",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "chelse",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "ajax",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "nuevo iphone 18 pro max",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "valentín barco",
-      "traffic": "200+",
+      "name": "joan manuel serrat",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "gonzalo gelini",
+      "name": "chelse",
       "traffic": "100+",
       "rank": 10
     }
