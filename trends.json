@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T00:00:15Z",
+  "updated": "2026-08-30T00:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético tucumán - belgrano",
+      "name": "alianza lima - deportivo garcilaso",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "talleres - central córdoba",
+      "name": "apple tv",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "empleado",
-      "traffic": "200+",
+      "name": "juan barinaga",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "vasco da gama - cruzeiro",
-      "traffic": "500+",
+      "name": "bruno vellas geriatra",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "pachuca - guadalajara",
-      "traffic": "100+",
+      "name": "manta - barcelona sc",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "gutierrez is mai neim",
-      "traffic": "1000+",
+      "name": "toronto - nyc fc",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "new york rb - philadelphia",
-      "traffic": "200+",
+      "name": "talleres - central córdoba",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "junior - santa fe",
-      "traffic": "2000+",
+      "name": "atlético tucumán - belgrano",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "inter miami - montréal",
-      "traffic": "10000+",
+      "name": "empleado",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "policía de corrientes",
-      "traffic": "500+",
+      "name": "vasco da gama - cruzeiro",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
