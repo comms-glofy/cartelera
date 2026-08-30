@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T20:00:15Z",
+  "updated": "2026-08-30T20:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sepulveda",
-      "traffic": "200+",
+      "name": "argentinos",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "violeta urtizberea",
-      "traffic": "100+",
+      "name": "tabla de posiciones",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "marta luisa de noruega",
+      "name": "a qué hora juega independiente",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cameron diaz",
-      "traffic": "100+",
+      "name": "posiciones de banfield contra river plate",
+      "traffic": "20000+",
       "rank": 4
     },
     {
-      "name": "tabla anual",
-      "traffic": "200+",
+      "name": "gran hermano encuestas",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "monaco fc",
-      "traffic": "100+",
+      "name": "riestra velez arbitro",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "atlanta",
-      "traffic": "200+",
+      "name": "lpf",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "argentinos jrs. - aldosivi",
-      "traffic": "2000+",
+      "name": "incendio",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "univ. concepción - u. de chile",
+      "name": "torneo argentino",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "racing de córdoba - colón",
-      "traffic": "1000+",
+      "name": "b nacional",
+      "traffic": "500+",
       "rank": 10
     }
   ]
