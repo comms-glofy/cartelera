@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T21:30:14Z",
+  "updated": "2026-08-30T22:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grêmio - chapecoense",
+      "name": "quilmes - temperley",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "diego monroig",
-      "traffic": "200+",
+      "name": "julián álvarez",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "alan lescano",
+      "name": "telekino 2443",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "1 de septiembre",
+      "name": "columbus crew - new england",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "usopen",
-      "traffic": "100+",
+      "name": "tomás martín etcheverry",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "colo-colo - audax italiano",
-      "traffic": "200+",
+      "name": "independiente - gimnasia y esgrima",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "adrian mannarino",
-      "traffic": "200+",
+      "name": "us open",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "mirassol - palmeiras",
-      "traffic": "1000+",
+      "name": "federal a",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "los leones hockey mundial",
+      "name": "san martín de tucumán - atlético güemes",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "julia roberts",
-      "traffic": "100+",
+      "name": "diego monroig",
+      "traffic": "500+",
       "rank": 10
     }
   ]
