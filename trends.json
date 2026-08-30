@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T19:00:15Z",
+  "updated": "2026-08-30T19:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corinthians - santos",
+      "name": "como va river",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cerro - libertad",
-      "traffic": "500+",
+      "name": "nacional",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "facundo colidio",
+      "name": "celta de vigo - athletic",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "nicolás iván gonzález",
-      "traffic": "100+",
+      "name": "inter milan",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "inter de milán",
-      "traffic": "100+",
+      "name": "mónaco - marsella",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "flamengo - botafogo",
-      "traffic": "500+",
+      "name": "central norte",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "almada",
-      "traffic": "200+",
+      "name": "cerro - libertad",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "lucas martínez quarta",
-      "traffic": "200+",
+      "name": "corinthians - santos",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "patronato - almagro",
-      "traffic": "500+",
+      "name": "facundo colidio",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "el santa evita",
-      "traffic": "1000+",
+      "name": "inter de milán",
+      "traffic": "200+",
       "rank": 10
     }
   ]
