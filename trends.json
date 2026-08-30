@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-29T23:30:15Z",
+  "updated": "2026-08-30T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "new york rb - philadelphia",
+      "name": "atlético tucumán - belgrano",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "junior - santa fe",
-      "traffic": "1000+",
+      "name": "talleres - central córdoba",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inter miami - montréal",
-      "traffic": "5000+",
+      "name": "empleado",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "policía de corrientes",
-      "traffic": "200+",
+      "name": "vasco da gama - cruzeiro",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "dogo",
+      "name": "pachuca - guadalajara",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "tarjeta de crédito",
-      "traffic": "100+",
+      "name": "gutierrez is mai neim",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "são paulo - bragantino",
-      "traffic": "500+",
+      "name": "new york rb - philadelphia",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "corrupción",
-      "traffic": "100+",
+      "name": "junior - santa fe",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "caso barreda",
-      "traffic": "500+",
+      "name": "inter miami - montréal",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "predicción",
-      "traffic": "2000+",
+      "name": "policía de corrientes",
+      "traffic": "500+",
       "rank": 10
     }
   ]
