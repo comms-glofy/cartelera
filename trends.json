@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-30T05:00:14Z",
+  "updated": "2026-08-30T05:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "chocó",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "santos - tigres",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "inter miami",
-      "traffic": "20000+",
+      "name": "posiciones de junior de barranquilla contra independiente santa fe",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
