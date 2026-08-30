@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-30T15:30:14Z",
+  "updated": "2026-08-30T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ajax",
+      "name": "napoli - como",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nuevo iphone 18 pro max",
-      "traffic": "500+",
+      "name": "joão pedro",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "valentín barco",
+      "name": "ajax",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gonzalo gelini",
-      "traffic": "100+",
+      "name": "nuevo iphone 18 pro max",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "manchester united - ipswich",
-      "traffic": "2000+",
+      "name": "valentín barco",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "naufragio",
-      "traffic": "500+",
+      "name": "gonzalo gelini",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "colo barco",
-      "traffic": "100+",
+      "name": "manchester united - ipswich",
+      "traffic": "5000+",
       "rank": 7
+    },
+    {
+      "name": "naufragio",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "el nine",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "sorteo loto plus",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "chelsea football club",
+      "name": "sorteo loto plus",
       "traffic": "100+",
       "rank": 10
     }
