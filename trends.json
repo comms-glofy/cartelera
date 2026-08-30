@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-30T12:30:15Z",
+  "updated": "2026-08-30T13:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chelsea - brighton",
-      "traffic": "1000+",
+      "name": "premier",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "chelsea",
-      "traffic": "500+",
+      "name": "us open 2026",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "chelsea - brighton",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "chelsea",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "córdoba",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "diario el dia",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "gran hermano generación dorada",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "lanacion",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "moto gp",
+      "name": "gran hermano generación dorada",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "diego peretti",
+      "name": "lanacion",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ingreso",
-      "traffic": "500+",
+      "name": "moto gp",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "frío",
+      "name": "diego peretti",
       "traffic": "200+",
       "rank": 10
     }
