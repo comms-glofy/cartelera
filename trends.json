@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-30T19:30:13Z",
+  "updated": "2026-08-30T19:37:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como va river",
+      "name": "argentinos jrs. - aldosivi",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "nacional",
-      "traffic": "100+",
+      "name": "angel correa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "celta de vigo - athletic",
+      "name": "univ. concepción - u. de chile",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "racing de córdoba - colón",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "como va river",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "deportivo la coruña",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "celta de vigo - athletic",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "inter milan",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "mónaco - marsella",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "central norte",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "cerro - libertad",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "corinthians - santos",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "facundo colidio",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "inter de milán",
+      "name": "central norte",
       "traffic": "200+",
       "rank": 10
     }
