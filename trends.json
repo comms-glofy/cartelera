@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T22:30:13Z",
+  "updated": "2026-08-30T23:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "independiente",
-      "traffic": "5000+",
+      "name": "ciclismo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "palmeiras vs",
-      "traffic": "200+",
+      "name": "avalos",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "neymar",
+      "name": "delcy rodríguez",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "quilmes - temperley",
-      "traffic": "1000+",
+      "name": "quilmes ac",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "telekino 2443",
-      "traffic": "200+",
+      "name": "sismo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "julián álvarez",
+      "name": "nicolás maduro",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "columbus crew - new england",
-      "traffic": "100+",
+      "name": "palmeiras vs",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
+      "name": "neymar",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "independiente - gimnasia y esgrima",
-      "traffic": "10000+",
+      "name": "quilmes - temperley",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "us open",
-      "traffic": "1000+",
+      "name": "telekino 2443",
+      "traffic": "500+",
       "rank": 10
     }
   ]
