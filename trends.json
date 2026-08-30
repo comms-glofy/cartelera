@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-30T23:00:17Z",
+  "updated": "2026-08-30T23:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "solana sierra",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "ciclismo",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "avalos",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "delcy rodríguez",
-      "traffic": "200+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "sismo",
+      "name": "delcy rodríguez",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "sismo",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "nicolás maduro",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "independiente vs. gimnasia y esgrima",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "palmeiras vs",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "neymar",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "quilmes - temperley",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "telekino 2443",
-      "traffic": "500+",
+      "name": "nicolás tripichio",
+      "traffic": "200+",
       "rank": 10
     }
   ]
