@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T13:00:14Z",
+  "updated": "2026-08-30T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "premier",
+      "name": "paranaense - fluminense",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "us open 2026",
-      "traffic": "100+",
+      "name": "gabriel jesus",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "chelsea - brighton",
-      "traffic": "2000+",
+      "name": "feyenoord",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chelsea",
-      "traffic": "1000+",
+      "name": "enzo fernández",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "córdoba",
-      "traffic": "500+",
+      "name": "leeds - brentford",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "diario el dia",
-      "traffic": "100+",
+      "name": "sunderland afc - fulham",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gran hermano generación dorada",
-      "traffic": "200+",
+      "name": "los leones hoy",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "lanacion",
+      "name": "anne hathaway",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "moto gp",
+      "name": "premier",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "diego peretti",
-      "traffic": "200+",
+      "name": "us open 2026",
+      "traffic": "100+",
       "rank": 10
     }
   ]
