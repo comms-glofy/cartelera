@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T11:30:15Z",
+  "updated": "2026-08-30T12:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "moto gp",
+      "name": "diario el dia",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ingreso",
+      "name": "gran hermano generación dorada",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "frío",
-      "traffic": "200+",
+      "name": "lanacion",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "antonela roccuzzo",
-      "traffic": "200+",
+      "name": "moto gp",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "diego peretti",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "ingreso",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "frío",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "antonela roccuzzo",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "camioneta",
       "traffic": "500+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "el territorio",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "quiniela plus",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima mar del plata",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "chocó",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "santos - tigres",
-      "traffic": "200+",
       "rank": 10
     }
   ]
