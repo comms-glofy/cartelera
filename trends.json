@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T19:37:22Z",
+  "updated": "2026-08-30T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentinos jrs. - aldosivi",
-      "traffic": "500+",
+      "name": "sepulveda",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "angel correa",
-      "traffic": "200+",
+      "name": "violeta urtizberea",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "univ. concepción - u. de chile",
-      "traffic": "200+",
+      "name": "marta luisa de noruega",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "racing de córdoba - colón",
-      "traffic": "200+",
+      "name": "cameron diaz",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "como va river",
-      "traffic": "500+",
+      "name": "tabla anual",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "deportivo la coruña",
+      "name": "monaco fc",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "celta de vigo - athletic",
-      "traffic": "500+",
+      "name": "atlanta",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "inter milan",
-      "traffic": "500+",
+      "name": "argentinos jrs. - aldosivi",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "mónaco - marsella",
+      "name": "univ. concepción - u. de chile",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "central norte",
-      "traffic": "200+",
+      "name": "racing de córdoba - colón",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
