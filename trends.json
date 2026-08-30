@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T09:00:16Z",
+  "updated": "2026-08-30T09:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "clima necochea",
+      "name": "santa rosa de lima",
       "traffic": "100+",
       "rank": 6
     },
     {
+      "name": "clima necochea",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "donald trump",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "que le paso a julian alvarez",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "andy kusnetzoff",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "angels - phillies",
+      "name": "andy kusnetzoff",
       "traffic": "200+",
       "rank": 10
     }
