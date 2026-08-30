@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T06:11:34Z",
+  "updated": "2026-08-30T06:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chocó",
-      "traffic": "200+",
+      "name": "clima mar del plata",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "santos - tigres",
+      "name": "chocó",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mad max",
-      "traffic": "100+",
+      "name": "santos - tigres",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "joaquin furriel",
+      "name": "mad max",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima necochea",
+      "name": "joaquin furriel",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "donald trump",
-      "traffic": "500+",
+      "name": "clima necochea",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "que le paso a julian alvarez",
-      "traffic": "1000+",
+      "name": "donald trump",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "andy kusnetzoff",
+      "name": "que le paso a julian alvarez",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "angels - phillies",
+      "name": "andy kusnetzoff",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "martín varsavsky",
-      "traffic": "500+",
+      "name": "angels - phillies",
+      "traffic": "200+",
       "rank": 10
     }
   ]
