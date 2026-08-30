@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T20:30:20Z",
+  "updated": "2026-08-30T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentinos",
-      "traffic": "2000+",
+      "name": "godoy cruz - san telmo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "tabla de posiciones",
+      "name": "thiago agustín tirante",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "a qué hora juega independiente",
-      "traffic": "100+",
+      "name": "lautaro martínez",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "posiciones de banfield contra river plate",
-      "traffic": "20000+",
+      "name": "gallardo",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gran hermano encuestas",
-      "traffic": "1000+",
+      "name": "septiembre",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "riestra velez arbitro",
-      "traffic": "1000+",
+      "name": "juan martín lucero",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "lpf",
-      "traffic": "1000+",
+      "name": "colon hoy",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "incendio",
+      "name": "argentinos",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "torneo argentino",
-      "traffic": "200+",
+      "name": "tabla de posiciones",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "b nacional",
-      "traffic": "500+",
+      "name": "a qué hora juega independiente",
+      "traffic": "100+",
       "rank": 10
     }
   ]
