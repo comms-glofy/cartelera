@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T00:34:56Z",
+  "updated": "2026-08-30T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alianza lima - deportivo garcilaso",
+      "name": "gaston edul",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "apple tv",
+      "name": "susurran tu nombre reparto",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juan barinaga",
+      "name": "ph hoy",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "bruno vellas geriatra",
-      "traffic": "100+",
+      "name": "alianza lima - deportivo garcilaso",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "manta - barcelona sc",
-      "traffic": "500+",
+      "name": "apple tv",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "toronto - nyc fc",
+      "name": "juan barinaga",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "talleres - central córdoba",
-      "traffic": "10000+",
+      "name": "bruno vellas geriatra",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "atlético tucumán - belgrano",
-      "traffic": "10000+",
+      "name": "manta - barcelona sc",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "empleado",
-      "traffic": "200+",
+      "name": "toronto - nyc fc",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "vasco da gama - cruzeiro",
-      "traffic": "1000+",
+      "name": "atlético tucumán - belgrano",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
