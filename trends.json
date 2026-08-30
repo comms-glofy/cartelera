@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-30T14:00:14Z",
+  "updated": "2026-08-30T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "real madrid - málaga",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "los leones",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "gendarmería",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "final hockey masculino",
-      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "enzo",
+      "name": "liga inglesa",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "paranaense - fluminense",
-      "traffic": "500+",
+      "name": "don alejo autoservicio",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "gabriel jesus",
-      "traffic": "200+",
+      "name": "final hockey masculino",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "feyenoord",
-      "traffic": "200+",
+      "name": "premier league",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "enzo fernández",
-      "traffic": "1000+",
+      "name": "enzo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "leeds - brentford",
-      "traffic": "200+",
+      "name": "paranaense - fluminense",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "sunderland afc - fulham",
-      "traffic": "200+",
+      "name": "gabriel jesus",
+      "traffic": "500+",
       "rank": 10
     }
   ]
