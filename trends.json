@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-30T15:00:15Z",
+  "updated": "2026-08-30T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester united - ipswich",
-      "traffic": "500+",
+      "name": "ajax",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "naufragio",
-      "traffic": "100+",
+      "name": "nuevo iphone 18 pro max",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "colo barco",
-      "traffic": "100+",
+      "name": "valentín barco",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "el nine",
+      "name": "gonzalo gelini",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "sorteo loto plus",
-      "traffic": "100+",
+      "name": "manchester united - ipswich",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "chelsea football club",
-      "traffic": "100+",
+      "name": "naufragio",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "real madrid - málaga",
-      "traffic": "5000+",
+      "name": "colo barco",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "gendarmería",
-      "traffic": "200+",
+      "name": "el nine",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "liga inglesa",
-      "traffic": "200+",
+      "name": "sorteo loto plus",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "don alejo autoservicio",
+      "name": "chelsea football club",
       "traffic": "100+",
       "rank": 10
     }
