@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-31T03:00:18Z",
+  "updated": "2026-08-31T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "adrian suar",
+      "name": "volcan purace",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "coquimbo unido",
-      "traffic": "500+",
+      "name": "quini 6 sorteo 3404",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "monterrey - san luis",
-      "traffic": "500+",
+      "name": "adrian suar",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "deportivo cali",
-      "traffic": "100+",
+      "name": "coquimbo unido",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "monterrey - san luis",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "deportivo cali",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "pincoya",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "encuestas gran hermano",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "venus williams",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "quini6",
+      "name": "encuestas gran hermano",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "susurran tu nombre pelicula",
-      "traffic": "100+",
+      "name": "venus williams",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "millonarios",
+      "name": "susurran tu nombre pelicula",
       "traffic": "100+",
       "rank": 10
     }
