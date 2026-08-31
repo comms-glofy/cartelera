@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T17:00:15Z",
+  "updated": "2026-08-31T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "roma fc",
+      "name": "sabalenka",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "playstation 5",
+      "name": "roma fc",
       "traffic": "200+",
       "rank": 2
     },
     {
       "name": "alcaraz",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "roma vs",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "playstation 5",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "gran cañón",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "sport",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "aryna sabalenka",
-      "traffic": "2000+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "sergio massa",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "cuenta dni",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "tagliafico",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "diario ole",
-      "traffic": "100+",
       "rank": 10
     }
   ]
