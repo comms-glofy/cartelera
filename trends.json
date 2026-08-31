@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-31T19:00:19Z",
+  "updated": "2026-08-31T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "besiktas",
-      "traffic": "100+",
+      "name": "moria casán",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "francesc garrido",
+      "name": "benfica - estoril",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pami",
-      "traffic": "2000+",
+      "name": "paulo dybala",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tsitsipas",
-      "traffic": "100+",
+      "name": "nadia podoroska",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "aston villa - arsenal",
-      "traffic": "2000+",
+      "name": "atalanta",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "1000+",
+      "name": "barcelona - rayo vallecano",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "maipú",
-      "traffic": "500+",
+      "name": "crédito hipotecario",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "osasuna - getafe",
-      "traffic": "500+",
+      "name": "armada argentina",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "roman safiullin",
+      "name": "rodrigo mora",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "copenhague fc",
+      "name": "besiktas",
       "traffic": "200+",
       "rank": 10
     }
