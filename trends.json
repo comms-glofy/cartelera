@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-31T10:00:16Z",
+  "updated": "2026-08-31T10:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "pronostico",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "100+",
+      "name": "clima rosario",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pronóstico",
-      "traffic": "200+",
+      "name": "el once digital",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "weather",
+      "name": "sube saldo",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lluvia",
-      "traffic": "1000+",
+      "name": "cronica",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "charlotte caniggia",
-      "traffic": "100+",
+      "name": "quini 6 30 de agosto 2026",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "pronostico cordoba",
+      "name": "pronostico caba",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "pronostico posadas",
-      "traffic": "500+",
+      "name": "temperatura cordoba",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "fin de semana",
-      "traffic": "2000+",
+      "name": "clima hoy",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "serena williams",
+      "name": "pronostico rosario",
       "traffic": "200+",
       "rank": 10
     }
