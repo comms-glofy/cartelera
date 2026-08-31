@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T00:44:01Z",
+  "updated": "2026-08-31T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "temporal",
-      "traffic": "100+",
+      "name": "matko miljevic",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pete hegseth",
-      "traffic": "100+",
+      "name": "marcelo gallardo",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "loto 5",
-      "traffic": "200+",
+      "name": "chicago",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "exequiel zeballos",
+      "name": "temporal",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "serie de televisión",
-      "traffic": "200+",
+      "name": "pete hegseth",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ezequiel ávila",
-      "traffic": "100+",
+      "name": "loto 5",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cienciano - cusco",
+      "name": "serie de televisión",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "coquimbo unido - huachipato",
+      "name": "exequiel zeballos",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "china suárez",
-      "traffic": "200+",
+      "name": "ezequiel ávila",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "robert kiyosaki",
-      "traffic": "100+",
+      "name": "cienciano - cusco",
+      "traffic": "200+",
       "rank": 10
     }
   ]
