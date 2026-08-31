@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T13:30:17Z",
+  "updated": "2026-08-31T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "musimundo",
+      "name": "valentina salcedo",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "dia del empleado de comercio 2026",
+      "name": "musimundo",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "dia del empleado de comercio 2026",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "river id",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "zeballos",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "oficina de presupuesto del congreso",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sinagoga",
-      "traffic": "500+",
+      "name": "oficina de presupuesto del congreso",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "sinagoga",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "crucigrama la nacion",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "banco de la nación argentina",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "bono",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "leipzig",
-      "traffic": "200+",
+      "name": "bono",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
