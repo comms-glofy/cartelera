@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-31T09:30:15Z",
+  "updated": "2026-08-31T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lluvia",
-      "traffic": "500+",
+      "name": "clima hoy",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "charlotte caniggia",
+      "name": "clima mar del plata",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pronostico posadas",
+      "name": "pronóstico",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "fin de semana",
-      "traffic": "1000+",
+      "name": "weather",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "serena williams",
-      "traffic": "200+",
+      "name": "lluvia",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "volcan purace",
-      "traffic": "200+",
+      "name": "charlotte caniggia",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "adrian suar",
+      "name": "pronostico cordoba",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "monterrey - san luis",
-      "traffic": "1000+",
+      "name": "pronostico posadas",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "deportivo cali",
-      "traffic": "200+",
+      "name": "fin de semana",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "pincoya",
+      "name": "serena williams",
       "traffic": "200+",
       "rank": 10
     }
