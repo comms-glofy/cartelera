@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T04:30:19Z",
+  "updated": "2026-08-31T05:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "coquimbo unido",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
       "name": "monterrey - san luis",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "deportivo cali",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "pincoya",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "encuestas gran hermano",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "venus williams",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "susurran tu nombre pelicula",
+      "traffic": "100+",
       "rank": 10
     }
   ]
