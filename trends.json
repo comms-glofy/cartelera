@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-31T02:00:17Z",
+  "updated": "2026-08-31T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pincoya",
-      "traffic": "200+",
+      "name": "adrian suar",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "encuestas gran hermano",
-      "traffic": "1000+",
+      "name": "coquimbo unido",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "monterrey - san luis",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "deportivo cali",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "pincoya",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "venus williams",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "quini6",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "susurran tu nombre pelicula",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "millonarios",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "toluca - juárez",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "marcelo gallardo",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "matko miljevic",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "chicago",
+      "name": "toluca - juárez",
       "traffic": "100+",
       "rank": 10
     }
