@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T21:00:16Z",
+  "updated": "2026-08-31T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "julieta jankunas",
-      "traffic": "500+",
+      "name": "estudiantes - newell's",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lucas martínez quarta",
+      "name": "santiago solari",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "braga fc",
+      "name": "stan wawrinka",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "julieta jankunas",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "braga fc",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "lucas martínez quarta",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "trabzonspor",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "robo",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "diana de gales",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "tomás aranda",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "benfica vs",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "fiscal",
+      "name": "diana de gales",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "manto terrestre",
-      "traffic": "200+",
+      "name": "tomás aranda",
+      "traffic": "500+",
       "rank": 10
     }
   ]
