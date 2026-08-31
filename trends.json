@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T00:30:21Z",
+  "updated": "2026-08-31T00:44:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "independiente rivadavia vs racing club",
-      "traffic": "200+",
+      "name": "temporal",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "pete hegseth",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "loto 5",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "exequiel zeballos",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "ezequiel ávila",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "serie de televisión",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "cienciano - cusco",
+      "name": "serie de televisión",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "coquimbo unido - huachipato",
-      "traffic": "200+",
+      "name": "ezequiel ávila",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "china suárez",
+      "name": "cienciano - cusco",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "robert kiyosaki",
-      "traffic": "100+",
+      "name": "coquimbo unido - huachipato",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "precipitación",
+      "name": "china suárez",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "novak djokovic",
-      "traffic": "2000+",
+      "name": "robert kiyosaki",
+      "traffic": "100+",
       "rank": 10
     }
   ]
