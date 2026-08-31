@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T23:00:17Z",
+  "updated": "2026-08-31T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "latam",
+      "name": "remo - coritiba",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alberto benegas lynch",
+      "name": "paso",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "estadio mario alberto kempes",
+      "name": "soledad fandiño",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "canadá - argentina",
-      "traffic": "1000+",
+      "name": "marte",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "marco trungelliti",
-      "traffic": "200+",
+      "name": "horóscopo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "dólar",
+      "name": "fortaleza - operário",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "jennifer aniston",
-      "traffic": "200+",
+      "name": "román andrés burruchaga",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "netflix top movies right now",
-      "traffic": "100+",
+      "name": "latam",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "donald trump",
-      "traffic": "500+",
+      "name": "alberto benegas lynch",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lamine yamal",
-      "traffic": "1000+",
+      "name": "estadio mario alberto kempes",
+      "traffic": "100+",
       "rank": 10
     }
   ]
