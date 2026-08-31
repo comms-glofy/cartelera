@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-31T10:30:16Z",
+  "updated": "2026-08-31T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico",
-      "traffic": "2000+",
+      "name": "north west",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "servicio meteorológico nacional",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "pronostico",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "el once digital",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "sube saldo",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "cronica",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "quini 6 30 de agosto 2026",
+      "name": "clima caba",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "pronostico caba",
+      "name": "cronica",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "temperatura cordoba",
-      "traffic": "100+",
+      "name": "quini 6 30 de agosto 2026",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "temperatura cordoba",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pronostico rosario",
+      "name": "pronostico caba",
       "traffic": "200+",
       "rank": 10
     }
