@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-31T20:00:14Z",
+  "updated": "2026-08-31T20:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fiscal",
-      "traffic": "200+",
+      "name": "robo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "arsenal",
-      "traffic": "1000+",
+      "name": "diana de gales",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "benfica",
-      "traffic": "1000+",
+      "name": "tomás aranda",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "goat",
+      "name": "benfica vs",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "moria casán",
-      "traffic": "1000+",
+      "name": "fiscal",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "benfica - estoril",
-      "traffic": "200+",
+      "name": "manto terrestre",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "paulo dybala",
-      "traffic": "500+",
+      "name": "benfica",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "nadia podoroska",
-      "traffic": "200+",
+      "name": "goat",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "barcelona - rayo vallecano",
-      "traffic": "20000+",
+      "name": "moria casán",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "crédito hipotecario",
+      "name": "benfica - estoril",
       "traffic": "500+",
       "rank": 10
     }
