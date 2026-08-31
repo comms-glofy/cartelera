@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T12:00:15Z",
+  "updated": "2026-08-31T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "crucigrama la nacion",
-      "traffic": "200+",
+      "name": "zeballos",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "banco de la nación argentina",
+      "name": "oficina de presupuesto del congreso",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bono",
-      "traffic": "2000+",
+      "name": "crucigrama la nacion",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "leipzig",
+      "name": "banco de la nación argentina",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "allanamiento",
-      "traffic": "200+",
+      "name": "bono",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "monza",
+      "name": "leipzig",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "beca",
+      "name": "allanamiento",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tiempo de san juan",
+      "name": "monza",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "north west",
-      "traffic": "200+",
+      "name": "beca",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "datachaco",
-      "traffic": "100+",
+      "name": "tiempo de san juan",
+      "traffic": "200+",
       "rank": 10
     }
   ]
