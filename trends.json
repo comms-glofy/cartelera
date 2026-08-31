@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T06:00:19Z",
+  "updated": "2026-08-31T06:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sofia kenin",
-      "traffic": "2000+",
-      "rank": 1
-    },
-    {
       "name": "serena williams",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "djokovic navone",
-      "traffic": "500+",
-      "rank": 3
+      "rank": 1
     },
     {
       "name": "volcan purace",
       "traffic": "200+",
-      "rank": 4
+      "rank": 2
     },
     {
       "name": "quini 6 sorteo 3404",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 3
     },
     {
       "name": "adrian suar",
       "traffic": "100+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "monterrey - san luis",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "deportivo cali",
       "traffic": "200+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "pincoya",
       "traffic": "200+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "encuestas gran hermano",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "venus williams",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "susurran tu nombre pelicula",
+      "traffic": "100+",
       "rank": 10
     }
   ]
