@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-31T08:00:17Z",
+  "updated": "2026-08-31T08:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima posadas",
-      "traffic": "100+",
+      "name": "fin de semana",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fin de semana",
-      "traffic": "200+",
+      "name": "clima posadas",
+      "traffic": "100+",
       "rank": 2
     },
     {
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
-      "name": "quini 6 sorteo 3404",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
       "name": "adrian suar",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "monterrey - san luis",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "deportivo cali",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "pincoya",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "encuestas gran hermano",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "venus williams",
       "traffic": "1000+",
       "rank": 10
     }
