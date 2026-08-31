@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T15:00:16Z",
+  "updated": "2026-08-31T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jonathan david",
-      "traffic": "100+",
+      "name": "tyc",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "lago la plata",
-      "traffic": "100+",
+      "name": "marca",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "visa",
-      "traffic": "200+",
+      "name": "messi",
+      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "facundo roncaglia",
-      "traffic": "100+",
+      "name": "miguel zavaleta",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "claudio echeverri",
+      "name": "pat cash",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "valentina salcedo",
-      "traffic": "100+",
+      "name": "silvina luna",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "musimundo",
-      "traffic": "200+",
+      "name": "chino darín",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "dia del empleado de comercio 2026",
-      "traffic": "200+",
+      "name": "jonathan david",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "river id",
-      "traffic": "2000+",
+      "name": "lago la plata",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "zeballos",
-      "traffic": "2000+",
+      "name": "facundo roncaglia",
+      "traffic": "200+",
       "rank": 10
     }
   ]
