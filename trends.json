@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T11:30:14Z",
+  "updated": "2026-08-31T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bono",
-      "traffic": "2000+",
+      "name": "crucigrama la nacion",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "leipzig",
+      "name": "banco de la nación argentina",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "allanamiento",
-      "traffic": "200+",
+      "name": "bono",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "monza",
+      "name": "leipzig",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "beca",
-      "traffic": "100+",
+      "name": "allanamiento",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tiempo de san juan",
+      "name": "monza",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "north west",
+      "name": "beca",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "datachaco",
-      "traffic": "100+",
+      "name": "tiempo de san juan",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "servicio meteorológico nacional",
+      "name": "north west",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pronostico",
-      "traffic": "2000+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 10
     }
   ]
