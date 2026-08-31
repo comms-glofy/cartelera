@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T18:30:15Z",
+  "updated": "2026-08-31T19:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aston villa - arsenal",
-      "traffic": "200+",
+      "name": "besiktas",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "francesc garrido",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "pami",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "tsitsipas",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "aston villa - arsenal",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "carlos alcaraz",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "maipú",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "osasuna - getafe",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "del potro",
-      "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "roman safiullin",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "copenhague fc",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "el tiempo en córdoba",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "vicuña mackenna",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "dybala",
-      "traffic": "100+",
       "rank": 10
     }
   ]
