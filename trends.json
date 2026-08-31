@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T02:30:14Z",
+  "updated": "2026-08-31T03:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
+      "name": "encuestas gran hermano",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "venus williams",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "quini6",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "susurran tu nombre pelicula",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "millonarios",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "toluca - juárez",
+      "name": "millonarios",
       "traffic": "100+",
       "rank": 10
     }
