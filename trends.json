@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T12:30:14Z",
+  "updated": "2026-08-31T13:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "dia del empleado de comercio 2026",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "river id",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
       "name": "zeballos",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "oficina de presupuesto del congreso",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "crucigrama la nacion",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "banco de la nación argentina",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "bono",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "leipzig",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "allanamiento",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "monza",
-      "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "beca",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "tiempo de san juan",
-      "traffic": "200+",
       "rank": 10
     }
   ]
