@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T11:00:17Z",
+  "updated": "2026-08-31T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "north west",
-      "traffic": "200+",
+      "name": "bono",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "datachaco",
+      "name": "leipzig",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "servicio meteorológico nacional",
+      "name": "allanamiento",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "pronostico",
-      "traffic": "2000+",
+      "name": "monza",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "el once digital",
+      "name": "beca",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima caba",
-      "traffic": "2000+",
+      "name": "tiempo de san juan",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cronica",
-      "traffic": "100+",
+      "name": "north west",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "quini 6 30 de agosto 2026",
-      "traffic": "2000+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "temperatura cordoba",
-      "traffic": "100+",
+      "name": "servicio meteorológico nacional",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pronostico caba",
-      "traffic": "200+",
+      "name": "pronostico",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
