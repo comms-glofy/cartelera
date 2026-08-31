@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-31T08:30:17Z",
+  "updated": "2026-08-31T09:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fin de semana",
-      "traffic": "200+",
+      "name": "pronostico posadas",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima posadas",
-      "traffic": "100+",
+      "name": "fin de semana",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "serena williams",
+      "name": "clima posadas",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "volcan purace",
+      "name": "serena williams",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "volcan purace",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "adrian suar",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "monterrey - san luis",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "deportivo cali",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pincoya",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "encuestas gran hermano",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "venus williams",
+      "name": "encuestas gran hermano",
       "traffic": "1000+",
       "rank": 10
     }
