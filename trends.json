@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T20:37:23Z",
+  "updated": "2026-08-31T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "robo",
+      "name": "julieta jankunas",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "diana de gales",
-      "traffic": "100+",
+      "name": "lucas martínez quarta",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tomás aranda",
-      "traffic": "200+",
+      "name": "braga fc",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "benfica vs",
+      "name": "trabzonspor",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fiscal",
-      "traffic": "200+",
+      "name": "robo",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "manto terrestre",
+      "name": "diana de gales",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "goat",
-      "traffic": "100+",
+      "name": "tomás aranda",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "moria casán",
-      "traffic": "2000+",
+      "name": "benfica vs",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "benfica - estoril",
-      "traffic": "1000+",
+      "name": "fiscal",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "atalanta",
-      "traffic": "500+",
+      "name": "manto terrestre",
+      "traffic": "200+",
       "rank": 10
     }
   ]
