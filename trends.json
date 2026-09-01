@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T00:00:13Z",
+  "updated": "2026-09-01T00:20:58Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia jujuy - agropecuario",
-      "traffic": "200+",
+      "name": "u. católica - o'higgins",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "ben shelton",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "nahitan nández",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "gimnasia jujuy - agropecuario",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "domingo cavallo",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "facundo díaz acosta",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "instituto - san lorenzo",
-      "traffic": "2000+",
-      "rank": 4
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "tyc sports en vivo",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "remo - coritiba",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "paso",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "soledad fandiño",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "marte",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "horóscopo",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "fortaleza - operário",
-      "traffic": "200+",
       "rank": 10
     }
   ]
