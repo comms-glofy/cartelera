@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T22:30:15Z",
+  "updated": "2026-09-01T23:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ricardo darín",
-      "traffic": "100+",
+      "name": "epicentro",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "evento de el niño de 2026 2027",
-      "traffic": "1000+",
+      "name": "gabriela sabatini",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "adam bareiro",
+      "name": "ricardo darín",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cuenta dni",
+      "name": "evento de el niño de 2026 2027",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "juan pablo valdés",
+      "name": "adam bareiro",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "océano pacífico",
-      "traffic": "200+",
+      "name": "cuenta dni",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "jadon sancho",
+      "name": "juan pablo valdés",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "leicester city - plymouth argyle",
-      "traffic": "100+",
+      "name": "jadon sancho",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "raízen",
-      "traffic": "100+",
+      "name": "océano pacífico",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "2 de mayo - sportivo luqueño",
-      "traffic": "1000+",
+      "name": "leicester city - plymouth argyle",
+      "traffic": "100+",
       "rank": 10
     }
   ]
