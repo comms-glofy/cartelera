@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T05:32:06Z",
+  "updated": "2026-09-01T06:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "naomi osaka",
+      "name": "clima posadas",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "anastasia zakharova",
+      "name": "naomi osaka",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "poder judicial de san juan",
+      "name": "anastasia zakharova",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "la cumbre",
-      "traffic": "200+",
+      "name": "quien se fue de gran hermano",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "martin damm jr.",
+      "name": "poder judicial de san juan",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "rhode",
-      "traffic": "100+",
+      "name": "la cumbre",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "quien se fue de gran hermano hoy",
-      "traffic": "2000+",
+      "name": "martin damm jr.",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "secretario judicial",
+      "name": "rhode",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "willer ditta",
-      "traffic": "500+",
+      "name": "secretario judicial",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "maru botana",
-      "traffic": "2000+",
+      "name": "willer ditta",
+      "traffic": "500+",
       "rank": 10
     }
   ]
