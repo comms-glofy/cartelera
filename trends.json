@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T19:30:16Z",
+  "updated": "2026-09-01T20:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "francisco cerúndolo",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "ludovica squirru",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "celia maría cuccittini",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "torino - monza",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "demanda judicial",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "meteorología",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "transporte público",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "matías moroni",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "west ham - wolves",
+      "name": "matías moroni",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "maximiliano gutiérrez",
+      "name": "transporte público",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "milton delgado",
+      "name": "west ham - wolves",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "championship",
-      "traffic": "100+",
+      "name": "maximiliano gutiérrez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
