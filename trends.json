@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T17:00:15Z",
+  "updated": "2026-09-01T17:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "comesaña",
-      "traffic": "200+",
+      "name": "erin piacenti",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "omar de felippe",
+      "name": "cobolli",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "maria becerra",
-      "traffic": "100+",
+      "name": "suerte",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "flavio cobolli",
-      "traffic": "200+",
+      "name": "sadie sink",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "parma - cremonese",
-      "traffic": "200+",
+      "name": "subsidio",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "epec",
+      "name": "comesaña",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gorosito",
-      "traffic": "10000+",
+      "name": "omar de felippe",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "paredes",
-      "traffic": "2000+",
+      "name": "maria becerra",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "lionel richie",
+      "name": "flavio cobolli",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "francisco comesaña",
-      "traffic": "500+",
+      "name": "parma - cremonese",
+      "traffic": "200+",
       "rank": 10
     }
   ]
