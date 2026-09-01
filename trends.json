@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T12:30:20Z",
+  "updated": "2026-09-01T13:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "banco provincia",
-      "traffic": "1000+",
+      "name": "el niño clima",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "el niño clima",
-      "traffic": "200+",
-      "rank": 2
-    },
-    {
       "name": "calendario septiembre 2026",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "clima mar del plata",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "evangelio de hoy",
       "traffic": "100+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "clima la plata",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "clima corrientes",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "mi anses",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "feriados",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "clima posadas",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "naomi osaka",
+      "traffic": "200+",
       "rank": 10
     }
   ]
