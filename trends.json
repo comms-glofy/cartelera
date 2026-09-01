@@ -1,46 +1,46 @@
 {
-  "updated": "2026-09-01T00:20:58Z",
+  "updated": "2026-09-01T00:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tarjeta roja futbol",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "u. católica - o'higgins",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "ben shelton",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "nahitan nández",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "gimnasia jujuy - agropecuario",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "domingo cavallo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "facundo díaz acosta",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "instituto - san lorenzo",
       "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "tyc sports en vivo",
-      "traffic": "200+",
       "rank": 8
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "paso",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 10
     }
   ]
