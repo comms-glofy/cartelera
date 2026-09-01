@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T03:30:15Z",
+  "updated": "2026-09-01T04:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "poder judicial de san juan",
-      "traffic": "200+",
+      "name": "naomi osaka",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "martin damm jr.",
+      "name": "anastasia zakharova",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rhode",
-      "traffic": "100+",
+      "name": "la cumbre",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "secretario judicial",
-      "traffic": "100+",
+      "name": "poder judicial de san juan",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "willer ditta",
-      "traffic": "1000+",
+      "name": "martin damm jr.",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pincoya",
-      "traffic": "2000+",
+      "name": "rhode",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "maru botana",
+      "name": "gran hermano",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "tigre",
-      "traffic": "2000+",
+      "name": "secretario judicial",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "lady di",
-      "traffic": "500+",
+      "name": "willer ditta",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "mi telefe en vivo",
-      "traffic": "500+",
+      "name": "maru botana",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
