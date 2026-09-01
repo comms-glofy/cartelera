@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T18:42:07Z",
+  "updated": "2026-09-01T19:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "torino - monza",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "demanda judicial",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "meteorología",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "transporte público",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "matías moroni",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "west ham - wolves",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "maximiliano gutiérrez",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "milton delgado",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "championship",
       "traffic": "100+",
-      "rank": 1
+      "rank": 9
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 2
-    },
-    {
-      "name": "playstation",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "julián álvarez",
-      "traffic": "10000+",
-      "rank": 4
-    },
-    {
-      "name": "tomás rebord",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "al hilal - al-ahli saudi",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "carla czudnowsky",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "erin piacenti",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "cobolli",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "suerte",
-      "traffic": "200+",
       "rank": 10
     }
   ]
