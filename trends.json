@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T09:30:14Z",
+  "updated": "2026-09-01T10:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mi anses",
-      "traffic": "200+",
+      "name": "clima la plata",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "feriados",
-      "traffic": "500+",
+      "name": "clima corrientes",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "mi anses",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "feriados",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "clima posadas",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "naomi osaka",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "anastasia zakharova",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "poder judicial de san juan",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "la cumbre",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "martin damm jr.",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "rhode",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "secretario judicial",
-      "traffic": "100+",
       "rank": 10
     }
   ]
