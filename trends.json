@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T23:00:22Z",
+  "updated": "2026-09-01T23:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "epicentro",
-      "traffic": "1000+",
+      "name": "juventude",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gabriela sabatini",
-      "traffic": "200+",
+      "name": "fentanilo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ricardo darín",
-      "traffic": "100+",
+      "name": "impuesto",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "evento de el niño de 2026 2027",
-      "traffic": "1000+",
+      "name": "lomonaco",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "adam bareiro",
-      "traffic": "100+",
+      "name": "epicentro",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "cuenta dni",
-      "traffic": "2000+",
+      "name": "gabriela sabatini",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "juan pablo valdés",
+      "name": "ricardo darín",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jadon sancho",
-      "traffic": "200+",
+      "name": "evento de el niño de 2026 2027",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "océano pacífico",
+      "name": "adam bareiro",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "leicester city - plymouth argyle",
-      "traffic": "100+",
+      "name": "cuenta dni",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
