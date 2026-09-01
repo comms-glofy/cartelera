@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T15:30:18Z",
+  "updated": "2026-09-01T16:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "francisco comesaña",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "enzo fernández",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "barco",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "lo celso",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "aeropuerto",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "echeverri",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "dani carvajal",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "javier milei",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "banco provincia",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "el niño clima",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "calendario septiembre 2026",
+      "name": "bono jubilados",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "200+",
+      "name": "banco provincia",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
