@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T16:00:20Z",
+  "updated": "2026-09-01T16:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "francisco comesaña",
+      "name": "parma - cremonese",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "enzo fernández",
-      "traffic": "1000+",
+      "name": "epec",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "barco",
-      "traffic": "500+",
+      "name": "paredes",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "lo celso",
-      "traffic": "500+",
+      "name": "gorosito",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "aeropuerto",
-      "traffic": "200+",
+      "name": "lionel richie",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "echeverri",
-      "traffic": "1000+",
+      "name": "francisco comesaña",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "dani carvajal",
-      "traffic": "1000+",
+      "name": "enzo fernández",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "javier milei",
+      "name": "barco",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "bono jubilados",
-      "traffic": "1000+",
+      "name": "lo celso",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "banco provincia",
-      "traffic": "5000+",
+      "name": "aeropuerto",
+      "traffic": "200+",
       "rank": 10
     }
   ]
