@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T19:00:19Z",
+  "updated": "2026-09-01T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "torino - monza",
-      "traffic": "200+",
+      "name": "celia maría cuccittini",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "demanda judicial",
+      "name": "torino - monza",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "meteorología",
+      "name": "demanda judicial",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "transporte público",
-      "traffic": "100+",
+      "name": "meteorología",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "matías moroni",
+      "name": "transporte público",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "matías moroni",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "west ham - wolves",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "maximiliano gutiérrez",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "milton delgado",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "championship",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "primera división",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
