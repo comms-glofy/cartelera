@@ -1,56 +1,56 @@
 {
-  "updated": "2026-08-31T23:30:13Z",
+  "updated": "2026-09-01T00:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "remo - coritiba",
+      "name": "gimnasia jujuy - agropecuario",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "paso",
-      "traffic": "200+",
+      "name": "domingo cavallo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "soledad fandiño",
+      "name": "facundo díaz acosta",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "marte",
-      "traffic": "100+",
+      "name": "instituto - san lorenzo",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "horóscopo",
-      "traffic": "100+",
+      "name": "remo - coritiba",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fortaleza - operário",
-      "traffic": "200+",
+      "name": "paso",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "román andrés burruchaga",
+      "name": "soledad fandiño",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "latam",
-      "traffic": "200+",
+      "name": "marte",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "alberto benegas lynch",
-      "traffic": "200+",
+      "name": "horóscopo",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "estadio mario alberto kempes",
-      "traffic": "100+",
+      "name": "fortaleza - operário",
+      "traffic": "200+",
       "rank": 10
     }
   ]
