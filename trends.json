@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T15:02:34Z",
+  "updated": "2026-09-01T15:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lo celso",
+      "name": "enzo fernández",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "echeverri",
-      "traffic": "1000+",
+      "name": "barco",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "dani carvajal",
-      "traffic": "500+",
+      "name": "lo celso",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "javier milei",
+      "name": "echeverri",
       "traffic": "1000+",
       "rank": 4
     },
     {
+      "name": "dani carvajal",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "javier milei",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
       "name": "banco provincia",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "el niño clima",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "calendario septiembre 2026",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "clima mar del plata",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "evangelio de hoy",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "clima la plata",
-      "traffic": "100+",
       "rank": 10
     }
   ]
