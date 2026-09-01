@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T21:00:19Z",
+  "updated": "2026-09-01T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "exequiel zeballos",
+      "name": "gerardo morales",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "carburando",
+      "name": "eclipse solar",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "crédito",
+      "name": "luis machin",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "monza fc",
-      "traffic": "200+",
+      "name": "club atlético boca juniors",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "germán pezzella",
-      "traffic": "100+",
+      "name": "miley",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "8 de septiembre",
+      "name": "carburando",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "paro universitario",
+      "name": "trump malvinas",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "camilo ugo carabelli",
-      "traffic": "200+",
+      "name": "crédito",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "lilia lardone",
-      "traffic": "100+",
+      "name": "monza fc",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "reino unido",
-      "traffic": "2000+",
+      "name": "germán pezzella",
+      "traffic": "100+",
       "rank": 10
     }
   ]
