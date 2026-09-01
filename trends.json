@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T06:30:16Z",
+  "updated": "2026-09-01T07:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,47 +10,47 @@
     },
     {
       "name": "naomi osaka",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
-    },
-    {
-      "name": "anastasia zakharova",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "quien se fue de gran hermano",
-      "traffic": "2000+",
-      "rank": 4
     },
     {
       "name": "poder judicial de san juan",
       "traffic": "200+",
-      "rank": 5
+      "rank": 3
     },
     {
       "name": "la cumbre",
       "traffic": "200+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "martin damm jr.",
       "traffic": "200+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "rhode",
       "traffic": "100+",
-      "rank": 8
+      "rank": 6
+    },
+    {
+      "name": "quien se fue de gran hermano hoy",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "secretario judicial",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "willer ditta",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "maru botana",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
