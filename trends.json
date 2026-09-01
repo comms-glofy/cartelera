@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T18:30:23Z",
+  "updated": "2026-09-01T18:42:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "championship",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "playstation",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "julián álvarez",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tomás rebord",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "al hilal - al-ahli saudi",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "carla czudnowsky",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "erin piacenti",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cobolli",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "suerte",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "sadie sink",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "subsidio",
-      "traffic": "100+",
       "rank": 10
     }
   ]
