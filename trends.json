@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T23:30:17Z",
+  "updated": "2026-09-01T23:45:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juventude",
+      "name": "guillermo heisinger",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "atlético mineiro - cruzeiro",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "máximo kirchner",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "juventude",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "fentanilo",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "impuesto",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "lomonaco",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "epicentro",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "gabriela sabatini",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "ricardo darín",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "evento de el niño de 2026 2027",
+      "name": "epicentro",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "adam bareiro",
-      "traffic": "200+",
+      "name": "gabriela sabatini",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cuenta dni",
-      "traffic": "2000+",
+      "name": "ricardo darín",
+      "traffic": "200+",
       "rank": 10
     }
   ]
