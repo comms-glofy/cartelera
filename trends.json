@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T03:00:19Z",
+  "updated": "2026-09-01T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gran hermano",
-      "traffic": "1000+",
+      "name": "poder judicial de san juan",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "secretario judicial",
+      "name": "martin damm jr.",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "colapso una escalera mecanica",
-      "traffic": "2000+",
+      "name": "rhode",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "pincoya",
-      "traffic": "200+",
+      "name": "secretario judicial",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gran hermano en vivo",
-      "traffic": "200+",
+      "name": "willer ditta",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "maru botana",
+      "name": "pincoya",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "tigre",
+      "name": "maru botana",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "lady di",
-      "traffic": "500+",
+      "name": "tigre",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "dbacks - phillies",
-      "traffic": "200+",
+      "name": "lady di",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "diaz acosta",
-      "traffic": "200+",
+      "name": "mi telefe en vivo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
