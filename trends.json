@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-02T03:30:17Z",
+  "updated": "2026-09-02T04:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "materia oscura",
-      "traffic": "100+",
+      "name": "gran hermano",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "victoria sauze",
-      "traffic": "200+",
+      "name": "lorenzo sonego",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sofia cairo",
+      "name": "materia oscura",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cruzeiro vs",
+      "name": "victoria sauze",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "atletico mineiro",
+      "name": "sofia cairo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "mariana nannis",
-      "traffic": "1000+",
+      "name": "yanina zilli",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "once caldas",
-      "traffic": "200+",
+      "name": "cruzeiro vs",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "ranking atp",
+      "name": "cruzeiro vs atlético mineiro",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "zverev",
+      "name": "atletico mineiro",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dbacks - phillies",
+      "name": "once caldas",
       "traffic": "200+",
       "rank": 10
     }
