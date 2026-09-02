@@ -1,25 +1,25 @@
 {
-  "updated": "2026-09-02T03:00:16Z",
+  "updated": "2026-09-02T03:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "victoria sauze",
-      "traffic": "200+",
+      "name": "materia oscura",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sofia cairo",
+      "name": "victoria sauze",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "materia oscura",
-      "traffic": "100+",
+      "name": "sofia cairo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cruzeiro vs atlético mineiro",
+      "name": "cruzeiro vs",
       "traffic": "200+",
       "rank": 4
     },
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "dbacks - phillies",
+      "name": "zverev",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "alexander zverev",
-      "traffic": "1000+",
+      "name": "dbacks - phillies",
+      "traffic": "200+",
       "rank": 10
     }
   ]
