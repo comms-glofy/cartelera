@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-02T12:30:23Z",
+  "updated": "2026-09-02T13:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mark ruffalo",
-      "traffic": "200+",
+      "name": "campeón",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "acuerdo",
-      "traffic": "100+",
+      "name": "mark ruffalo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dia de la industria",
+      "name": "acuerdo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "2 de septiembre",
+      "name": "donweb",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "contexto",
-      "traffic": "100+",
+      "name": "dia de la industria",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "diego maradona",
-      "traffic": "1000+",
+      "name": "2 de septiembre",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "500+",
+      "name": "contexto",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "carlos horacio salinas",
-      "traffic": "200+",
+      "name": "diego maradona",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "kevin lomónaco",
-      "traffic": "1000+",
+      "name": "la politica online",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima bahia blanca",
+      "name": "clima mar del plata",
       "traffic": "200+",
       "rank": 10
     }
