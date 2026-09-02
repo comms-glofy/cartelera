@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-02T10:30:18Z",
+  "updated": "2026-09-02T11:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mar del plata",
+      "name": "diego maradona",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima bahia blanca",
+      "name": "clima mar del plata",
       "traffic": "200+",
       "rank": 2
     },
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "salario",
-      "traffic": "200+",
+      "name": "carlos horacio salinas",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "película una mujer sin pasado",
+      "name": "clima bahia blanca",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gran hermano",
-      "traffic": "2000+",
+      "name": "salario",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "materia oscura",
+      "name": "película una mujer sin pasado",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "luisana lopilato",
-      "traffic": "500+",
+      "name": "gran hermano",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "victoria sauze",
+      "name": "materia oscura",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "sofia cairo",
-      "traffic": "200+",
+      "name": "luisana lopilato",
+      "traffic": "500+",
       "rank": 10
     }
   ]
