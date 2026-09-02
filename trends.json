@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T09:30:20Z",
+  "updated": "2026-09-02T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "película una mujer sin pasado",
-      "traffic": "200+",
+      "name": "kevin lomónaco",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "luisana lopilato",
+      "name": "diario norte",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "materia oscura",
+      "name": "película una mujer sin pasado",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "victoria sauze",
-      "traffic": "200+",
+      "name": "gran hermano",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "sofia cairo",
-      "traffic": "200+",
+      "name": "luisana lopilato",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "zilli",
-      "traffic": "1000+",
+      "name": "materia oscura",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cruzeiro vs atlético mineiro",
+      "name": "victoria sauze",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "atletico mineiro",
+      "name": "sofia cairo",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mariana nannis",
-      "traffic": "1000+",
+      "name": "copa de brasil",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "once caldas",
-      "traffic": "200+",
+      "name": "zilli",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
