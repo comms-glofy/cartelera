@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T21:30:19Z",
+  "updated": "2026-09-02T22:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "encuesta gran hermano hoy",
-      "traffic": "100+",
+      "name": "flamengo - mirassol",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "mary austin",
+      "name": "futbolista",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "senador",
-      "traffic": "200+",
+      "name": "máximo kirchner",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "enrique cerezo",
-      "traffic": "100+",
+      "name": "tomás aranda",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "boca vs velez",
-      "traffic": "2000+",
+      "name": "encuesta gran hermano hoy",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "matías galarza",
-      "traffic": "200+",
+      "name": "mary austin",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "taekwondo",
+      "name": "senador",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "claudio úbeda",
-      "traffic": "100+",
+      "name": "enrique cerezo",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "pablo garcía betis",
-      "traffic": "200+",
+      "name": "boca vs velez",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "ruta nacional 5",
-      "traffic": "200+",
+      "name": "matías galarza",
+      "traffic": "500+",
       "rank": 10
     }
   ]
