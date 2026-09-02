@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T16:30:26Z",
+  "updated": "2026-09-02T16:49:03Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pity alvarez",
+      "name": "sindicato",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "udinese - venezia",
+      "name": "banco de la nación argentina",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "calingasta",
+      "name": "juan martín del potro",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "kevin zenón",
-      "traffic": "200+",
+      "name": "isack hadjar",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "turismo carretera",
-      "traffic": "200+",
+      "name": "pity alvarez",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "quiniela de tucuman",
-      "traffic": "100+",
+      "name": "udinese",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "meteorología",
-      "traffic": "500+",
+      "name": "kevin zenón",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "masterchef celebrity argentina",
+      "name": "calingasta",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mar",
+      "name": "turismo carretera",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "icardi",
-      "traffic": "200+",
+      "name": "quiniela de tucuman",
+      "traffic": "100+",
       "rank": 10
     }
   ]
