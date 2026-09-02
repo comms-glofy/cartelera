@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T18:00:21Z",
+  "updated": "2026-09-02T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "uber",
+      "name": "rafael jódar",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "casa rosada",
-      "traffic": "500+",
+      "name": "ben shelton",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
+      "name": "mel gibson",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "salta",
+      "name": "uber",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "skater",
-      "traffic": "200+",
+      "name": "casa rosada",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "sean lennon",
-      "traffic": "200+",
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "dani ceballos",
-      "traffic": "100+",
+      "name": "salta",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "río negro",
+      "name": "skater",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "brad pitt",
+      "name": "sean lennon",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "choque frontal",
-      "traffic": "100+",
+      "name": "dani ceballos",
+      "traffic": "200+",
       "rank": 10
     }
   ]
