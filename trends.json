@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T08:30:16Z",
+  "updated": "2026-09-02T09:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "gran hermano",
+      "name": "luisana lopilato",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "luisana lopilato",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
       "name": "materia oscura",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "victoria sauze",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "sofia cairo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "zilli",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "cruzeiro vs",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "atletico mineiro",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "mariana nannis",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "once caldas",
+      "traffic": "200+",
       "rank": 10
     }
   ]
