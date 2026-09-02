@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-02T21:00:17Z",
+  "updated": "2026-09-02T21:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "senador",
-      "traffic": "200+",
+      "name": "encuesta gran hermano hoy",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "enrique cerezo",
+      "name": "mary austin",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "senador",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "enrique cerezo",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "boca vs velez",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "matías galarza",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "taekwondo",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "pablo garcía betis",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "ruta nacional 5",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "burnley - middlesbrough",
+      "name": "claudio úbeda",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "matteo berrettini",
+      "name": "pablo garcía betis",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cambio climático",
+      "name": "ruta nacional 5",
       "traffic": "200+",
       "rank": 10
     }
