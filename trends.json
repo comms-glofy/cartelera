@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T00:30:21Z",
+  "updated": "2026-09-02T01:00:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sonmez",
-      "traffic": "500+",
+      "name": "mineiro",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "daniel vallejo",
-      "traffic": "200+",
+      "name": "empresario",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ldu quito - mushuc runa",
-      "traffic": "500+",
+      "name": "coco gauff",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "guillermo heisinger",
+      "name": "monfils",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "atlético mineiro - cruzeiro",
-      "traffic": "2000+",
+      "name": "guillermo andino",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "máximo kirchner",
-      "traffic": "100+",
+      "name": "sonmez",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "juventude",
-      "traffic": "500+",
+      "name": "nora colosimo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "fentanilo",
-      "traffic": "100+",
+      "name": "ldu quito - mushuc runa",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "impuesto",
-      "traffic": "500+",
+      "name": "guillermo heisinger",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "lomonaco",
-      "traffic": "200+",
+      "name": "atlético mineiro - cruzeiro",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
