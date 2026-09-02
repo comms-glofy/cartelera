@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T02:41:08Z",
+  "updated": "2026-09-02T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cruzeiro vs atlético mineiro",
-      "traffic": "100+",
+      "name": "victoria sauze",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "atletico mineiro",
-      "traffic": "100+",
+      "name": "sofia cairo",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "materia oscura",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "cruzeiro vs atlético mineiro",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "atletico mineiro",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "mariana nannis",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "once caldas",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "ranking atp",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "once caldas",
-      "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "dbacks - phillies",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "alexander zverev",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "empresario",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "monfils",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "guillermo andino",
-      "traffic": "200+",
+      "name": "alexander zverev",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
