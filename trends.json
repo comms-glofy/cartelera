@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T17:30:28Z",
+  "updated": "2026-09-02T18:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sean lennon",
-      "traffic": "100+",
+      "name": "uber",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "dani ceballos",
-      "traffic": "100+",
+      "name": "casa rosada",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "brad pitt",
-      "traffic": "200+",
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "río negro",
+      "name": "salta",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "choque frontal",
-      "traffic": "100+",
+      "name": "skater",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "mohammed ben sulayem",
-      "traffic": "100+",
+      "name": "sean lennon",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "alud",
-      "traffic": "200+",
+      "name": "dani ceballos",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "sindicato",
-      "traffic": "500+",
+      "name": "río negro",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juan martín del potro",
+      "name": "brad pitt",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "banco de la nación argentina",
-      "traffic": "200+",
+      "name": "choque frontal",
+      "traffic": "100+",
       "rank": 10
     }
   ]
