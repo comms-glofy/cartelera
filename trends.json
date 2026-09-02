@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-02T01:00:28Z",
+  "updated": "2026-09-02T01:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mineiro",
-      "traffic": "100+",
+      "name": "alexander zverev",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "coco gauff",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "monfils",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "guillermo andino",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "sonmez",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "nora colosimo",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "nora colosimo",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "ldu quito - mushuc runa",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "guillermo heisinger",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "atlético mineiro - cruzeiro",
       "traffic": "5000+",
+      "rank": 9
+    },
+    {
+      "name": "máximo kirchner",
+      "traffic": "200+",
       "rank": 10
     }
   ]
