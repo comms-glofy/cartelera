@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T15:00:54Z",
+  "updated": "2026-09-02T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela",
-      "traffic": "200+",
+      "name": "choque múltiple",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "quiniela de mendoza",
-      "traffic": "100+",
+      "name": "edelap",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "quiniela de hoy",
+      "name": "bull market",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sassuolo",
+      "name": "quiniela",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sassuolo - frosinone",
-      "traffic": "200+",
+      "name": "quiniela de mendoza",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "campeón",
-      "traffic": "2000+",
+      "name": "quiniela de hoy",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "sassuolo",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "sassuolo - frosinone",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "campeón",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "lucia vergara desaparecida",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "mark ruffalo",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "donweb",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "dia de la industria",
-      "traffic": "500+",
       "rank": 10
     }
   ]
