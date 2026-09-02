@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T04:00:18Z",
+  "updated": "2026-09-02T04:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gran hermano",
-      "traffic": "500+",
-      "rank": 1
-    },
-    {
       "name": "lorenzo sonego",
       "traffic": "100+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "materia oscura",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "victoria sauze",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "sofia cairo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "yanina zilli",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "cruzeiro vs",
-      "traffic": "100+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "cruzeiro vs atlético mineiro",
       "traffic": "100+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "atletico mineiro",
       "traffic": "200+",
-      "rank": 9
+      "rank": 7
+    },
+    {
+      "name": "mariana nannis",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "once caldas",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "ranking atp",
+      "traffic": "100+",
       "rank": 10
     }
   ]
