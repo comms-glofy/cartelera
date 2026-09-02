@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T07:34:43Z",
+  "updated": "2026-09-02T08:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "película una mujer sin pasado",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "luisana lopilato",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "materia oscura",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "victoria sauze",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "sofia cairo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "zilli",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "cruzeiro vs",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "atletico mineiro",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "mariana nannis",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "once caldas",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "ranking atp",
-      "traffic": "100+",
       "rank": 10
     }
   ]
