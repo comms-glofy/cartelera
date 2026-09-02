@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:00:20Z",
+  "updated": "2026-09-02T20:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,22 +24,22 @@
       "rank": 4
     },
     {
-      "name": "libertad",
+      "name": "championship",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "championship",
+      "name": "cambio climático",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cambio climático",
-      "traffic": "100+",
+      "name": "libertad",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bayern munich",
+      "name": "agustina albertario",
       "traffic": "200+",
       "rank": 8
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "agustina albertario",
-      "traffic": "100+",
+      "name": "jesús méndez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
