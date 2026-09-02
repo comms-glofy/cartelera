@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T14:00:21Z",
+  "updated": "2026-09-02T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sassuolo - frosinone",
+      "name": "quiniela",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "campeón",
-      "traffic": "1000+",
+      "name": "quiniela de mendoza",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "quiniela de hoy",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "sassuolo",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "sassuolo - frosinone",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "campeón",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "lucia vergara desaparecida",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "mark ruffalo",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "acuerdo",
-      "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "donweb",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "dia de la industria",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "2 de septiembre",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "contexto",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "diego maradona",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
