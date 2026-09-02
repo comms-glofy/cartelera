@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T23:00:22Z",
+  "updated": "2026-09-02T23:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "autopista córdoba - rosario",
-      "traffic": "500+",
+      "name": "antonela roccuzzo",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "lloyd harris",
-      "traffic": "200+",
+      "name": "colegiales - midland",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "autopista córdoba - rosario",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "lloyd harris",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "evacuación",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "tasa",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "nicole neumann",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "dep. cuenca - guayaquil city",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "canal 12",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "jalil elias",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ignacio buse",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "club de fútbol cruz azul",
-      "traffic": "100+",
+      "name": "jalil elias",
+      "traffic": "500+",
       "rank": 10
     }
   ]
