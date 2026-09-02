@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T15:30:19Z",
+  "updated": "2026-09-02T16:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "choque múltiple",
-      "traffic": "500+",
+      "name": "turismo carretera",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "edelap",
-      "traffic": "200+",
+      "name": "quiniela de tucuman",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bull market",
-      "traffic": "200+",
+      "name": "meteorología",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "quiniela",
+      "name": "masterchef celebrity argentina",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "quiniela de mendoza",
+      "name": "mar",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "quiniela de hoy",
-      "traffic": "200+",
+      "name": "icardi",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "sassuolo",
-      "traffic": "200+",
+      "name": "keanu reeves",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "sassuolo - frosinone",
-      "traffic": "200+",
+      "name": "choque múltiple",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "campeón",
-      "traffic": "500+",
+      "name": "edelap",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lucia vergara desaparecida",
-      "traffic": "100+",
+      "name": "quiniela",
+      "traffic": "200+",
       "rank": 10
     }
   ]
