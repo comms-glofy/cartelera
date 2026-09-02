@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-02T22:18:37Z",
+  "updated": "2026-09-02T22:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "nicole neumann",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "canal 12",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "ignacio buse",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "club de fútbol cruz azul",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "flamengo - mirassol",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "carla jeffery",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "futbolista",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "máximo kirchner",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tomás aranda",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "olimpia - guaraní",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "encuesta gran hermano hoy",
-      "traffic": "200+",
       "rank": 10
     }
   ]
