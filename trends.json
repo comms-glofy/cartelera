@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-03T16:30:22Z",
+  "updated": "2026-09-03T17:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "palermo fc",
+      "name": "iga świątek",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "abierto de estados unidos 2026",
-      "traffic": "200+",
+      "name": "palermo fc",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cerundolo",
+      "name": "abierto de estados unidos 2026",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "organización meteorológica mundial",
-      "traffic": "1000+",
+      "name": "cerundolo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "jan-lennard struff",
-      "traffic": "100+",
+      "name": "organización meteorológica mundial",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "nadia podoroska",
+      "name": "jan-lennard struff",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "nadia podoroska",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "hola",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "presupuesto",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "downdetector",
+      "name": "presupuesto",
       "traffic": "200+",
       "rank": 10
     }
