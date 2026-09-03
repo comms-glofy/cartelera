@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T15:30:17Z",
+  "updated": "2026-09-03T16:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "presupuesto",
-      "traffic": "100+",
+      "name": "organización meteorológica mundial",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "openai",
-      "traffic": "1000+",
+      "name": "cerundolo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "chatgpt",
-      "traffic": "20000+",
+      "name": "jan-lennard struff",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "state of play",
+      "name": "nadia podoroska",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gloria steinem",
-      "traffic": "500+",
+      "name": "francisco cerúndolo",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "sistema único de boleto electrónico",
-      "traffic": "100+",
+      "name": "hola",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "jacob elordi",
+      "name": "presupuesto",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "paro aeropuertos",
-      "traffic": "200+",
+      "name": "gemini",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "tercera edad",
+      "name": "ia",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "armando cavalieri",
-      "traffic": "200+",
+      "name": "chatgpt",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
