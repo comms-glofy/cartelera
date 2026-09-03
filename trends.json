@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-03T20:04:34Z",
+  "updated": "2026-09-03T20:30:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "embargo",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "sergio urribarri",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "harry potter hbo max",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ruta marítima",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "marco trungelliti",
-      "traffic": "200+",
       "rank": 4
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "usopen",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 9
     },
     {
