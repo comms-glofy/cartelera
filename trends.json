@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T16:00:24Z",
+  "updated": "2026-09-03T16:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "organización meteorológica mundial",
-      "traffic": "1000+",
+      "name": "palermo fc",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cerundolo",
+      "name": "abierto de estados unidos 2026",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "cerundolo",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "organización meteorológica mundial",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "jan-lennard struff",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "nadia podoroska",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "francisco cerúndolo",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "hola",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "presupuesto",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "gemini",
-      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "ia",
-      "traffic": "1000+",
+      "name": "presupuesto",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "chatgpt",
-      "traffic": "20000+",
+      "name": "downdetector",
+      "traffic": "200+",
       "rank": 10
     }
   ]
