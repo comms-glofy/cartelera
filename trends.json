@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-03T20:30:26Z",
+  "updated": "2026-09-03T21:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "embargo",
-      "traffic": "500+",
+      "name": "frente frío",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sergio urribarri",
+      "name": "marcos llorente",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "harry potter hbo max",
-      "traffic": "100+",
+      "name": "embargo",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "ruta marítima",
-      "traffic": "100+",
+      "name": "sergio urribarri",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "cagliari fc",
+      "name": "harry potter hbo max",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "arturo puig",
-      "traffic": "200+",
+      "name": "ruta marítima",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cagliari - hellas verona",
-      "traffic": "200+",
+      "name": "cagliari fc",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "arturo puig",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "lautaro rivero",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "usopen",
-      "traffic": "500+",
       "rank": 9
     },
     {
