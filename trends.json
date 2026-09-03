@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T17:30:16Z",
+  "updated": "2026-09-03T18:00:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hernán encina",
-      "traffic": "500+",
+      "name": "mariano martinez",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "iga świątek",
+      "name": "mariano martinez desaparecido",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "palermo fc",
-      "traffic": "200+",
+      "name": "hernán encina",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "cadena nacional milei",
+      "name": "iga świątek",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "abierto de estados unidos 2026",
+      "name": "palermo fc",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cerundolo",
-      "traffic": "1000+",
+      "name": "abierto de estados unidos 2026",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "jan-lennard struff",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "organización meteorológica mundial",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nadia podoroska",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "hola",
-      "traffic": "500+",
       "rank": 10
     }
   ]
