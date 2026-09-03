@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T23:00:16Z",
+  "updated": "2026-09-03T23:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grêmio - internacional",
-      "traffic": "500+",
+      "name": "gremio vs internacional",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima el niño",
-      "traffic": "1000+",
+      "name": "club atlético belgrano",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alan lescano",
-      "traffic": "200+",
+      "name": "el niño clima",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "luna llena",
+      "name": "trump",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "quiebra",
-      "traffic": "200+",
+      "name": "grêmio - internacional",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "todo noticias",
+      "name": "alan lescano",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "laurita fernández",
-      "traffic": "100+",
+      "name": "luna llena",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "selección de fútbol de españa",
+      "name": "quiebra",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "ignacio buse",
-      "traffic": "200+",
+      "name": "todo noticias",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "estudiante",
-      "traffic": "10000+",
+      "name": "laurita fernández",
+      "traffic": "200+",
       "rank": 10
     }
   ]
