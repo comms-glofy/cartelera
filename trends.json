@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T03:00:17Z",
+  "updated": "2026-09-03T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca racing copa argentina",
-      "traffic": "200+",
+      "name": "américa - monterrey",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "quien se fue de gran hermano",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "clima merlo",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "partido hoy",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "neymar",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "camilo septimo",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "como salio boca",
-      "traffic": "2000+",
+      "name": "neymar",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "carlos palacios",
+      "name": "camilo septimo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "boca jrs",
-      "traffic": "200+",
+      "name": "como salio boca",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "bica vs",
-      "traffic": "200+",
+      "name": "posiciones de barcelona sc contra independiente del valle",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "eugenio derbez",
-      "traffic": "100+",
+      "name": "river copa argentina",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "luca feler",
-      "traffic": "1000+",
+      "name": "boca partidos",
+      "traffic": "200+",
       "rank": 10
     }
   ]
