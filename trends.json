@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T01:00:18Z",
+  "updated": "2026-09-03T01:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos alcaraz",
+      "name": "jaime faria",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "santa fe - millonarios",
-      "traffic": "1000+",
+      "name": "santos vs",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "tv publica",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "como va boca",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "narcotráfico",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "bellingi",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "carlos alcaraz",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "santa fe - millonarios",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "el chalten",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "ronaldo martinez",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "cassandra wilson",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
-      "rank": 6
-    },
-    {
-      "name": "santos - palmeiras",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "vitória - vasco da gama",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "mariano navone",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "jefe de la policía",
-      "traffic": "1000+",
+      "name": "ronaldo martinez",
+      "traffic": "500+",
       "rank": 10
     }
   ]
