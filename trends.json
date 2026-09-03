@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T07:30:17Z",
+  "updated": "2026-09-03T08:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
+      "name": "america",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "d",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "américa - monterrey",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "quien se fue de gran hermano",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima merlo",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "boca racing copa argentina",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "partido hoy",
+      "name": "boca racing copa argentina",
       "traffic": "200+",
       "rank": 10
     }
