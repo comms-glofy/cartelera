@@ -1,31 +1,31 @@
 {
-  "updated": "2026-09-03T08:30:15Z",
+  "updated": "2026-09-03T09:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "quini6",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tiempo en cordoba",
+      "name": "clima rosario",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "tiempo en cordoba",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "clima cordoba",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "america",
-      "traffic": "200+",
       "rank": 5
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "deportes",
-      "traffic": "500+",
+      "name": "boca racing copa argentina",
+      "traffic": "200+",
       "rank": 10
     }
   ]
