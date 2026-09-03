@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T01:30:17Z",
+  "updated": "2026-09-03T02:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jaime faria",
-      "traffic": "200+",
+      "name": "santos",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "santos vs",
+      "name": "toluca - león",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tv publica",
-      "traffic": "100+",
+      "name": "jaime faria",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "como va boca",
-      "traffic": "1000+",
+      "name": "santos vs",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "narcotráfico",
+      "name": "tv publica",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "bellingi",
-      "traffic": "100+",
+      "name": "como va boca",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "1000+",
+      "name": "narcotráfico",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "santa fe - millonarios",
-      "traffic": "2000+",
+      "name": "bellingi",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "el chalten",
-      "traffic": "500+",
+      "name": "carlos alcaraz",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "ronaldo martinez",
-      "traffic": "500+",
+      "name": "santa fe - millonarios",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
