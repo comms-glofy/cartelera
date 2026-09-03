@@ -1,36 +1,36 @@
 {
-  "updated": "2026-09-03T10:30:23Z",
+  "updated": "2026-09-03T11:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juan fernando quintero",
+      "name": "ricardo darín",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tiempo de hoy",
+      "name": "fuego",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el clima hoy",
+      "name": "clima mendoza",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "el tiempo hoy",
-      "traffic": "100+",
+      "name": "juan fernando quintero",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "pronostico caba",
-      "traffic": "1000+",
+      "name": "clima buenos aires",
+      "traffic": "2000+",
       "rank": 5
     },
     {
       "name": "kun agüero",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 6
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "quini6",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "clima cordoba",
-      "traffic": "500+",
+      "name": "tiempo en cordoba",
+      "traffic": "100+",
       "rank": 10
     }
   ]
