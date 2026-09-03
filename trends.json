@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T10:00:24Z",
+  "updated": "2026-09-03T10:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico caba",
-      "traffic": "500+",
+      "name": "juan fernando quintero",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "tiempo de hoy",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "el clima hoy",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "el tiempo hoy",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "pronostico caba",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "kun agüero",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
+    },
+    {
+      "name": "pronóstico para hoy",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "quini6",
       "traffic": "500+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "clima rosario",
       "traffic": "200+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "clima cordoba",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "d",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "américa - monterrey",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "quien se fue de gran hermano",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "clima merlo",
-      "traffic": "100+",
       "rank": 10
     }
   ]
