@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-03T15:00:25Z",
+  "updated": "2026-09-03T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "state of play",
+      "name": "presupuesto",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "gloria steinem",
-      "traffic": "500+",
+      "name": "openai",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "jacob elordi",
-      "traffic": "100+",
+      "name": "chatgpt",
+      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "paro aeropuertos",
+      "name": "state of play",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tercera edad",
-      "traffic": "1000+",
+      "name": "gloria steinem",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "armando cavalieri",
-      "traffic": "200+",
+      "name": "sistema único de boleto electrónico",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "producto",
-      "traffic": "1000+",
+      "name": "jacob elordi",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "dia del ferretero",
-      "traffic": "1000+",
+      "name": "paro aeropuertos",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "adriana baravalle",
-      "traffic": "200+",
+      "name": "tercera edad",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "estrecho de magallanes",
+      "name": "armando cavalieri",
       "traffic": "200+",
       "rank": 10
     }
