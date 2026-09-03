@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T06:00:16Z",
+  "updated": "2026-09-03T06:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo en cordoba",
+      "name": "clima rosario",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima cordoba",
+      "name": "tiempo en cordoba",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
+      "name": "clima cordoba",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "d",
+      "name": "pronostico cordoba",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "america",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "d",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "américa - monterrey",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "quien se fue de gran hermano",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima merlo",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "neymar",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "camilo septimo",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "deportes",
-      "traffic": "500+",
+      "name": "boca racing copa argentina",
+      "traffic": "200+",
       "rank": 10
     }
   ]
