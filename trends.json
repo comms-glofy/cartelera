@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T07:00:18Z",
+  "updated": "2026-09-03T07:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,47 +9,47 @@
       "rank": 1
     },
     {
+      "name": "tiempo en cordoba",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "clima cordoba",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "d",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "américa - monterrey",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quien se fue de gran hermano",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima merlo",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "boca racing copa argentina",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "partido hoy",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "camilo septimo",
+      "name": "partido hoy",
       "traffic": "200+",
       "rank": 10
     }
