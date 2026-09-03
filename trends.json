@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-03T09:30:17Z",
+  "updated": "2026-09-03T10:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "pronostico caba",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "pronóstico para hoy",
+      "name": "kun agüero",
       "traffic": "200+",
       "rank": 2
     },
     {
       "name": "quini6",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "clima cordoba",
-      "traffic": "1000+",
+      "traffic": "500+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "america",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "d",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "américa - monterrey",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "quien se fue de gran hermano",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "clima merlo",
+      "traffic": "100+",
       "rank": 10
     }
   ]
