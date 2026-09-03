@@ -1,31 +1,31 @@
 {
-  "updated": "2026-09-03T03:30:16Z",
+  "updated": "2026-09-03T04:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "américa - monterrey",
-      "traffic": "500+",
+      "name": "america",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "quien se fue de gran hermano",
+      "name": "américa - monterrey",
       "traffic": "1000+",
       "rank": 2
     },
     {
+      "name": "quien se fue de gran hermano",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "clima merlo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "partido hoy",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "neymar",
-      "traffic": "500+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "como salio boca",
+      "name": "posiciones de barcelona sc contra independiente del valle",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "posiciones de barcelona sc contra independiente del valle",
+      "name": "como salio boca",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "river copa argentina",
+      "name": "eugenio derbez",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "boca partidos",
-      "traffic": "200+",
+      "name": "hernan feler",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
