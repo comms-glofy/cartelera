@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T04:53:57Z",
+  "updated": "2026-09-03T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quien se fue de gran hermano hoy",
-      "traffic": "200+",
-      "rank": 1
-    },
-    {
       "name": "d",
       "traffic": "100+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "américa - monterrey",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "quien se fue de gran hermano",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "clima merlo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "boca racing copa argentina",
       "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "partido hoy",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "neymar",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "camilo septimo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "deportes",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "posiciones de barcelona sc contra independiente del valle",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "como salio boca",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "como salio boca hoy",
-      "traffic": "500+",
       "rank": 10
     }
   ]
