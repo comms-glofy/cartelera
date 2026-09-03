@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T02:00:17Z",
+  "updated": "2026-09-03T02:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos",
-      "traffic": "500+",
+      "name": "marchiori",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "eugenio derbez",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "montero",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "navone",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "partidos de boca juniors",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "boc",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "santos",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "toluca - león",
       "traffic": "200+",
-      "rank": 2
+      "rank": 8
     },
     {
       "name": "jaime faria",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "santos vs",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "tv publica",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "como va boca",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "narcotráfico",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "bellingi",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "carlos alcaraz",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "santa fe - millonarios",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
