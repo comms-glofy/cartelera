@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-03T05:30:17Z",
+  "updated": "2026-09-03T06:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima cordoba",
-      "traffic": "1000+",
+      "name": "tiempo en cordoba",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
+      "name": "clima cordoba",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "quien se fue de gran hermano hoy",
+      "name": "pronostico cordoba",
       "traffic": "100+",
       "rank": 3
     },
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "boca racing copa argentina",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
       "name": "neymar",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "camilo septimo",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "deportes",
+      "traffic": "500+",
       "rank": 10
     }
   ]
