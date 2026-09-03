@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T11:30:23Z",
+  "updated": "2026-09-03T12:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "adriana baravalle",
+      "name": "tercera edad",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "estrecho de magallanes",
-      "traffic": "200+",
+      "name": "armando cavalieri",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ricardo darín",
-      "traffic": "100+",
+      "name": "producto",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "fuego",
+      "name": "dia del ferretero",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima mendoza",
+      "name": "adriana baravalle",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "juan fernando quintero",
+      "name": "estrecho de magallanes",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima buenos aires",
-      "traffic": "2000+",
+      "name": "ricardo darín",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "kun agüero",
+      "name": "fuego",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "quini6",
-      "traffic": "1000+",
+      "name": "clima mendoza",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "juan fernando quintero",
+      "traffic": "500+",
       "rank": 10
     }
   ]
