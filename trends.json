@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T00:30:17Z",
+  "updated": "2026-09-03T01:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ronaldo martinez",
-      "traffic": "100+",
+      "name": "carlos alcaraz",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "santa fe - millonarios",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "el chalten",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "ronaldo martinez",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "cassandra wilson",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 3
-    },
-    {
-      "name": "aryna sabalenka",
-      "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "santos - palmeiras",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "vitória - vasco da gama",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "mariano navone",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "jefe de la policía",
+      "name": "vitória - vasco da gama",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "brasileirão serie a",
-      "traffic": "100+",
+      "name": "mariano navone",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "sabalenka",
-      "traffic": "200+",
+      "name": "jefe de la policía",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
