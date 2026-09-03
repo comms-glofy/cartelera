@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T18:30:17Z",
+  "updated": "2026-09-03T19:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mariano martinez desaparecido",
-      "traffic": "200+",
+      "name": "real sociedad",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mariano martinez",
-      "traffic": "200+",
+      "name": "real sociedad - celta de vigo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "hernán encina",
-      "traffic": "1000+",
+      "name": "toulouse - losc",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "sapito encina",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "mariano martinez desaparecido",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "iga świątek",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "palermo fc",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "abierto de estados unidos 2026",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cerundolo",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "jan-lennard struff",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "organización meteorológica mundial",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "nadia podoroska",
-      "traffic": "200+",
       "rank": 10
     }
   ]
