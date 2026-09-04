@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T12:00:20Z",
+  "updated": "2026-09-04T12:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gasly",
-      "traffic": "200+",
+      "name": "johana chacon",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "f1 monza",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "dia de la secretaria 2026 argentina",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "nehuén pérez",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "disney",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "disney plus",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "día de la secretaria",
-      "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nicki minaj",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima formosa",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "4 de septiembre",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "elena rybakina",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "maría vázquez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
