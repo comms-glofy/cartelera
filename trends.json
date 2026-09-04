@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T19:00:19Z",
+  "updated": "2026-09-04T19:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "viento",
-      "traffic": "500+",
+      "name": "como vs",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "200+",
+      "name": "liverpool vs",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "f1 franco colapinto",
-      "traffic": "2000+",
+      "name": "defensores de belgrano",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "stuttgart vs",
-      "traffic": "100+",
+      "name": "sismo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "aterrizaje",
+      "name": "pepita la pistolera película",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "psg - mónaco",
-      "traffic": "2000+",
+      "name": "carlos alcaraz",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "jubilación",
-      "traffic": "2000+",
+      "name": "viento",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "genoa - como",
-      "traffic": "500+",
+      "name": "stuttgart vs",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "solange abraham",
+      "name": "f1 franco colapinto",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "wu yibing",
-      "traffic": "100+",
+      "name": "aterrizaje",
+      "traffic": "200+",
       "rank": 10
     }
   ]
