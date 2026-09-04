@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T22:00:15Z",
+  "updated": "2026-09-04T22:04:05Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "la liga",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "psg",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "emma navarro",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "millie bobby brown",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nico paz",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "usopen",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "mauricio macri",
-      "traffic": "100+",
       "rank": 10
     }
   ]
