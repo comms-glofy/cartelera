@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T06:30:16Z",
+  "updated": "2026-09-04T07:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -35,22 +35,22 @@
     },
     {
       "name": "zverev",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "alexander zverev",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "adam levine",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "aeronave",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "claudia villafañe",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
