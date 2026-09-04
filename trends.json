@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T00:00:17Z",
+  "updated": "2026-09-04T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paula badosa",
+      "name": "libertad fc - emelec",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "granja tres arroyos",
-      "traffic": "100+",
+      "name": "badosa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gremio vs internacional",
+      "name": "pablo yadarola",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "club atlético belgrano",
-      "traffic": "100+",
+      "name": "gabriel martinelli",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "el niño clima",
-      "traffic": "1000+",
+      "name": "maratón de buenos aires",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "trump",
-      "traffic": "100+",
+      "name": "coco gauff",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cataratas del iguazú",
-      "traffic": "500+",
+      "name": "paula badosa",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "2027",
-      "traffic": "1000+",
+      "name": "granja tres arroyos",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "grêmio - internacional",
-      "traffic": "2000+",
+      "name": "gremio vs internacional",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "alan lescano",
-      "traffic": "500+",
+      "name": "club atlético belgrano",
+      "traffic": "100+",
       "rank": 10
     }
   ]
