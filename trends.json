@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T14:30:21Z",
+  "updated": "2026-09-04T15:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "base naval integrada ushuaia",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
       "name": "canal 26",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "dia de que es hoy",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "fábrica",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "mario guerci",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "serie de televisión",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "johana chacon",
+      "traffic": "200+",
       "rank": 10
     }
   ]
