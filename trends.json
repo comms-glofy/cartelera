@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-04T00:42:21Z",
+  "updated": "2026-09-04T01:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sea lion",
+      "name": "miley",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bbc",
+      "name": "monfils",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "malvinas argentinas",
-      "traffic": "100+",
+      "name": "sea lion",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "libertad fc - emelec",
+      "name": "bbc",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "badosa",
+      "name": "c5n en vivo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pablo yadarola",
+      "name": "malvinas argentinas",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gabriel martinelli",
+      "name": "libertad fc - emelec",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "maratón de buenos aires",
+      "name": "badosa",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "coco gauff",
+      "name": "pablo yadarola",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "paula badosa",
+      "name": "gabriel martinelli",
       "traffic": "200+",
       "rank": 10
     }
