@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T14:00:17Z",
+  "updated": "2026-09-04T14:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rodrygo",
-      "traffic": "100+",
+      "name": "biasotti",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "selva alemán",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "media maratón",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "rodrygo",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "base naval integrada ushuaia",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "canal 26",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "dia de que es hoy",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "fábrica",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "mario guerci",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "serie de televisión",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "johana chacon",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "gasly",
-      "traffic": "500+",
       "rank": 10
     }
   ]
