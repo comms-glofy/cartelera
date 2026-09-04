@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T22:30:16Z",
+  "updated": "2026-09-04T23:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cotización dólar oficial dólar blue hoy",
-      "traffic": "500+",
+      "name": "ferro - club mitre",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "padre",
+      "name": "leandro paredes",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "torque - cerro largo",
+      "name": "phillies - braves",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "pablo carrizo",
-      "traffic": "100+",
+      "name": "cotización dólar oficial dólar blue hoy",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "1000+",
+      "name": "padre",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "juez",
+      "name": "pablo carrizo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "temblor en córdoba",
-      "traffic": "1000+",
+      "name": "torque - cerro largo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "platense - deportivo riestra",
-      "traffic": "5000+",
+      "name": "tomás martín etcheverry",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "onimusha",
+      "name": "juez",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "belgrano - huracán",
-      "traffic": "10000+",
+      "name": "temblor en córdoba",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
