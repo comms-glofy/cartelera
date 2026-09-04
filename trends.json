@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T21:00:19Z",
+  "updated": "2026-09-04T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ligue 1",
-      "traffic": "1000+",
+      "name": "psg",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "500+",
+      "name": "psg vs",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "trasplante",
-      "traffic": "100+",
+      "name": "emma navarro",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ola de frío",
+      "name": "nico paz",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "porto vs",
-      "traffic": "100+",
+      "name": "millie bobby brown",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "macizo del mont blanc",
-      "traffic": "500+",
+      "name": "usopen",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sarmiento de junin",
-      "traffic": "1000+",
+      "name": "mauricio macri",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "psg vs monaco",
-      "traffic": "200+",
+      "name": "mirtha legrand",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "caso matias juarez tucuman",
+      "name": "trasplante",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "nicolás reniero",
-      "traffic": "100+",
+      "name": "ola de frío",
+      "traffic": "500+",
       "rank": 10
     }
   ]
