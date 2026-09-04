@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T10:00:17Z",
+  "updated": "2026-09-04T10:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "cambiaso",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "maría vázquez",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pepita la pistolera película",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "adolfo cambiaso",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nina dobrev",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "alexander zverev",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "adam levine",
-      "traffic": "200+",
       "rank": 10
     }
   ]
