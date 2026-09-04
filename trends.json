@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T04:00:18Z",
+  "updated": "2026-09-04T04:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima formosa",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "elena rybakina",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "maría vázquez",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "pepita la pistolera película",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "adolfo cambiaso",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "nina dobrev",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "zverev",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "adam levine",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "aeronave",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "quentin halys",
-      "traffic": "200+",
       "rank": 10
     }
   ]
