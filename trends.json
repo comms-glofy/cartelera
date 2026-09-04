@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T00:30:16Z",
+  "updated": "2026-09-04T00:42:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "libertad fc - emelec",
+      "name": "sea lion",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "badosa",
-      "traffic": "200+",
+      "name": "bbc",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pablo yadarola",
-      "traffic": "200+",
+      "name": "malvinas argentinas",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "gabriel martinelli",
+      "name": "libertad fc - emelec",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "maratón de buenos aires",
+      "name": "badosa",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "coco gauff",
+      "name": "pablo yadarola",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "paula badosa",
+      "name": "gabriel martinelli",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "granja tres arroyos",
-      "traffic": "100+",
+      "name": "maratón de buenos aires",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "gremio vs internacional",
-      "traffic": "500+",
+      "name": "coco gauff",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "club atlético belgrano",
-      "traffic": "100+",
+      "name": "paula badosa",
+      "traffic": "200+",
       "rank": 10
     }
   ]
