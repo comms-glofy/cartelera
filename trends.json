@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-03T23:30:21Z",
+  "updated": "2026-09-04T00:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gremio vs internacional",
-      "traffic": "100+",
+      "name": "paula badosa",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "club atlético belgrano",
+      "name": "granja tres arroyos",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el niño clima",
-      "traffic": "1000+",
+      "name": "gremio vs internacional",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "trump",
+      "name": "club atlético belgrano",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "grêmio - internacional",
-      "traffic": "2000+",
+      "name": "el niño clima",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "alan lescano",
-      "traffic": "200+",
+      "name": "trump",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "luna llena",
-      "traffic": "200+",
+      "name": "cataratas del iguazú",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "quiebra",
-      "traffic": "500+",
+      "name": "2027",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "todo noticias",
-      "traffic": "500+",
+      "name": "grêmio - internacional",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "laurita fernández",
-      "traffic": "200+",
+      "name": "alan lescano",
+      "traffic": "500+",
       "rank": 10
     }
   ]
