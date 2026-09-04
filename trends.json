@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T23:00:17Z",
+  "updated": "2026-09-04T23:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ferro - club mitre",
+      "name": "cáncer",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "leandro paredes",
-      "traffic": "500+",
+      "name": "los palmeras",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "phillies - braves",
-      "traffic": "200+",
+      "name": "ferro - club mitre",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "cotización dólar oficial dólar blue hoy",
+      "name": "leandro paredes",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "padre",
-      "traffic": "500+",
+      "name": "phillies - braves",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "cotización dólar oficial dólar blue hoy",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "padre",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "pablo carrizo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "torque - cerro largo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "tomás martín etcheverry",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "juez",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "temblor en córdoba",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
