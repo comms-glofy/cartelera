@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T21:30:17Z",
+  "updated": "2026-09-04T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "psg",
-      "traffic": "2000+",
+      "name": "temblor en córdoba",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "psg vs",
-      "traffic": "1000+",
+      "name": "navone hoy",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "emma navarro",
-      "traffic": "200+",
+      "name": "platense - deportivo riestra",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "nico paz",
+      "name": "onimusha",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "millie bobby brown",
-      "traffic": "200+",
+      "name": "psg",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "usopen",
+      "name": "emma navarro",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mauricio macri",
-      "traffic": "100+",
+      "name": "millie bobby brown",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "500+",
+      "name": "nico paz",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "trasplante",
-      "traffic": "100+",
+      "name": "usopen",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ola de frío",
-      "traffic": "500+",
+      "name": "mauricio macri",
+      "traffic": "100+",
       "rank": 10
     }
   ]
