@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T03:00:24Z",
+  "updated": "2026-09-04T03:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "maría vázquez",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "pepita la pistolera película",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "adolfo cambiaso",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "nina dobrev",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "zverev",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "alexander zverev",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "adam levine",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "aeronave",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "claudia villafañe",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "gaël monfils",
-      "traffic": "100+",
+      "name": "quentin halys",
+      "traffic": "200+",
       "rank": 10
     }
   ]
