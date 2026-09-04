@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T20:30:16Z",
+  "updated": "2026-09-04T21:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "porto vs",
-      "traffic": "100+",
+      "name": "ligue 1",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "frente frío",
-      "traffic": "100+",
+      "name": "mirtha legrand",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "macizo del mont blanc",
-      "traffic": "200+",
+      "name": "trasplante",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sarmiento de junin",
+      "name": "ola de frío",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "porto vs",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "macizo del mont blanc",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "sarmiento de junin",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "psg vs monaco",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "caso matias juarez tucuman",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "nicolás reniero",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "pronostico mar del plata",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "federico sturzenegger",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "temblor cordoba",
-      "traffic": "500+",
       "rank": 10
     }
   ]
