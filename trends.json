@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T20:00:15Z",
+  "updated": "2026-09-04T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "federico sturzenegger",
-      "traffic": "200+",
+      "name": "porto vs",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "temblor cordoba",
-      "traffic": "200+",
+      "name": "frente frío",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sofía martínez",
-      "traffic": "100+",
+      "name": "macizo del mont blanc",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "porto",
-      "traffic": "500+",
+      "name": "sarmiento de junin",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "500+",
+      "name": "psg vs monaco",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "real betis vs. real madrid",
-      "traffic": "200+",
+      "name": "caso matias juarez tucuman",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "liverpool vs",
-      "traffic": "200+",
+      "name": "nicolás reniero",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "como vs",
-      "traffic": "200+",
+      "name": "pronostico mar del plata",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "julio iglesias",
-      "traffic": "100+",
+      "name": "federico sturzenegger",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "defensores de belgrano",
-      "traffic": "200+",
+      "name": "temblor cordoba",
+      "traffic": "500+",
       "rank": 10
     }
   ]
