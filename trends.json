@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T19:47:42Z",
+  "updated": "2026-09-04T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mar del plata",
-      "traffic": "500+",
+      "name": "federico sturzenegger",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "porto",
+      "name": "temblor cordoba",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "real betis vs. real madrid",
-      "traffic": "200+",
+      "name": "sofía martínez",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "como vs",
-      "traffic": "200+",
+      "name": "porto",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "julio iglesias",
-      "traffic": "100+",
+      "name": "clima mar del plata",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "defensores de belgrano",
+      "name": "real betis vs. real madrid",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sismo",
+      "name": "liverpool vs",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pepita la pistolera película",
+      "name": "como vs",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "viento",
-      "traffic": "1000+",
+      "name": "julio iglesias",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "500+",
+      "name": "defensores de belgrano",
+      "traffic": "200+",
       "rank": 10
     }
   ]
