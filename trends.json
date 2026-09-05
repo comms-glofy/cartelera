@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T04:00:19Z",
+  "updated": "2026-09-05T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juárez - pachuca",
-      "traffic": "200+",
+      "name": "adam sandler",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "andy ruiz",
-      "traffic": "100+",
+      "name": "reinaldo merlo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "shelton",
-      "traffic": "100+",
+      "name": "andy ruiz",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "juárez - pachuca",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "ben shelton",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "juventud antoniana",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "anna kalinskaya",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "maju lozano",
+      "name": "svitolina",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "alan chaves",
-      "traffic": "200+",
+      "name": "anna kalinskaya",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "jorgelina vidal",
-      "traffic": "2000+",
+      "name": "maju lozano",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mostaza merlo",
-      "traffic": "500+",
+      "name": "alan chaves",
+      "traffic": "200+",
       "rank": 10
     }
   ]
