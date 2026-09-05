@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T05:30:15Z",
+  "updated": "2026-09-05T06:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,13 +9,13 @@
       "rank": 1
     },
     {
-      "name": "reinaldo merlo",
-      "traffic": "500+",
+      "name": "andy ruiz",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "andy ruiz",
-      "traffic": "200+",
+      "name": "reinaldo merlo",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "ben shelton",
-      "traffic": "1000+",
+      "name": "shelton",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "ben shelton",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "juventud antoniana",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "anna kalinskaya",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "maju lozano",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "alan chaves",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "jorgelina vidal",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
