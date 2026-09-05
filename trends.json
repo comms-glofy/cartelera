@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T17:30:13Z",
+  "updated": "2026-09-05T18:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "al ittihad - al-nassr",
-      "traffic": "200+",
+      "name": "ia-63 pampa",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "sofia montenegro",
-      "traffic": "100+",
+      "name": "boris johnson",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bayern munich",
+      "name": "danubio - peñarol",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gimnasia - tigre",
-      "traffic": "2000+",
+      "name": "sofía martínez",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "al ittihad - al-nassr",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "sofia montenegro",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "bayern munich",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "gimnasia - tigre",
+      "traffic": "10000+",
+      "rank": 8
     },
     {
       "name": "juez",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "marítimo - benfica",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "inter",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "terremoto",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "potapova",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "julián alvarez",
-      "traffic": "5000+",
+      "name": "inter",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
