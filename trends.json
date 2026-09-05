@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T00:30:17Z",
+  "updated": "2026-09-05T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alex michelsen",
+      "name": "valentin vacherot",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "carlos tevez",
-      "traffic": "200+",
+      "name": "serena williams",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "santino andino",
-      "traffic": "100+",
+      "name": "weather tomorrow",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cartografía",
+      "name": "alex michelsen",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "200+",
+      "name": "carlos tevez",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "nyc fc - nashville sc",
-      "traffic": "200+",
+      "name": "santino andino",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "los palmeras",
-      "traffic": "500+",
+      "name": "cartografía",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cáncer",
+      "name": "ricardo stec",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "ferro - club mitre",
-      "traffic": "2000+",
+      "name": "clima bahia blanca",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "leandro paredes",
-      "traffic": "1000+",
+      "name": "nyc fc - nashville sc",
+      "traffic": "500+",
       "rank": 10
     }
   ]
