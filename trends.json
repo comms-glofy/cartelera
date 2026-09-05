@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T15:30:15Z",
+  "updated": "2026-09-05T16:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gasly",
+      "name": "schalke 04 - bayern",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "sudáfrica - nueva zelanda",
+      "name": "hull city - aston villa",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "mattia colnaghi",
-      "traffic": "200+",
+      "name": "dia de que es hoy",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mateo pellegrino",
-      "traffic": "200+",
+      "name": "atletico",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "dortmund",
-      "traffic": "100+",
+      "name": "franco mastantuono",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "boca vs gimnasia de mendoza",
+      "name": "atlético madrid",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "camión",
-      "traffic": "500+",
+      "name": "antonelli",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "west ham - derby county",
-      "traffic": "100+",
+      "name": "inter - napoli",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "iliman ndiaye",
-      "traffic": "200+",
+      "name": "werder bremen - rb leipzig",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "dazn",
-      "traffic": "100+",
+      "name": "federica brignone",
+      "traffic": "200+",
       "rank": 10
     }
   ]
