@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T18:30:16Z",
+  "updated": "2026-09-05T19:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chacarita - atlanta",
-      "traffic": "1000+",
+      "name": "san martin de tucuman",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cerro chapelco",
+      "name": "fábrica",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "roma - atalanta",
-      "traffic": "500+",
+      "name": "rugby",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "junín",
-      "traffic": "200+",
+      "name": "a qué hora juega boca",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "ia-63 pampa",
-      "traffic": "2000+",
+      "name": "posiciones de schalke 04 contra bayern",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "boris johnson",
+      "name": "sevilla - barcelona",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "danubio - peñarol",
-      "traffic": "500+",
+      "name": "puerto iguazú",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sofía martínez",
-      "traffic": "500+",
+      "name": "claudio tapia",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "al ittihad - al-nassr",
-      "traffic": "1000+",
+      "name": "fritz",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "sofia montenegro",
-      "traffic": "200+",
+      "name": "acassuso - all boys",
+      "traffic": "500+",
       "rank": 10
     }
   ]
