@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-04T23:30:18Z",
+  "updated": "2026-09-05T00:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cáncer",
-      "traffic": "200+",
+      "name": "ferro hoy",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "los palmeras",
+      "name": "cartografía",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ferro - club mitre",
-      "traffic": "1000+",
+      "name": "ricardo stec",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "leandro paredes",
-      "traffic": "500+",
+      "name": "clima bahia blanca",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "phillies - braves",
+      "name": "nyc fc - nashville sc",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cotización dólar oficial dólar blue hoy",
-      "traffic": "500+",
+      "name": "cáncer",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "padre",
-      "traffic": "1000+",
+      "name": "ferro - club mitre",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "pablo carrizo",
-      "traffic": "200+",
+      "name": "leandro paredes",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "torque - cerro largo",
-      "traffic": "200+",
+      "name": "phillies - braves",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "2000+",
+      "name": "cotización dólar oficial dólar blue hoy",
+      "traffic": "500+",
       "rank": 10
     }
   ]
