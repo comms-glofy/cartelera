@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T20:30:15Z",
+  "updated": "2026-09-05T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ola de frío",
+      "name": "são paulo - atlético mineiro",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sarmiento de resistencia",
-      "traffic": "100+",
+      "name": "clima la plata",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "piastri",
-      "traffic": "100+",
+      "name": "presupuesto",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "boca",
-      "traffic": "20000+",
+      "name": "zenon",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "alex michelsen",
-      "traffic": "500+",
+      "name": "futbol libre boca junior",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pelota libre boca hoy",
-      "traffic": "500+",
+      "name": "tv argentina",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "satas",
-      "traffic": "200+",
+      "name": "sporting lisboa - nacional",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "roma vs",
-      "traffic": "200+",
+      "name": "posiciones de tristán suárez contra san martín de tucumán",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "colón - deportivo morón",
-      "traffic": "2000+",
+      "name": "sarmiento de resistencia",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "crimen",
-      "traffic": "100+",
+      "name": "ola de frío",
+      "traffic": "200+",
       "rank": 10
     }
   ]
