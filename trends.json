@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T02:30:13Z",
+  "updated": "2026-09-05T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "anna kalinskaya",
+      "name": "ben shelton",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "maju lozano",
+      "name": "juventud antoniana",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "alan chaves",
-      "traffic": "100+",
+      "name": "anna kalinskaya",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "mostaza merlo",
-      "traffic": "100+",
+      "name": "maju lozano",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "8 de septiembre",
-      "traffic": "500+",
+      "name": "alan chaves",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "mostaza merlo",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "8 de septiembre",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "concepción - audax italiano",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "bruce campbell",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "vacherot",
-      "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "cfmoto",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "serena williams",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
