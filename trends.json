@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-05T05:00:14Z",
+  "updated": "2026-09-05T05:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "adam sandler",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "ben shelton",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "svitolina",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "anna kalinskaya",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "maju lozano",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "alan chaves",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "jorgelina vidal",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
