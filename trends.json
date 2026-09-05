@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T14:30:18Z",
+  "updated": "2026-09-05T15:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fiorentina vs",
+      "name": "camión",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "f1 en vivo",
-      "traffic": "200+",
+      "name": "west ham - derby county",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "man city",
+      "name": "iliman ndiaye",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "brentford - sunderland afc",
-      "traffic": "200+",
+      "name": "dazn",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "disney plus",
-      "traffic": "2000+",
+      "name": "sebastián d'angelo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "disney",
-      "traffic": "2000+",
+      "name": "pablo aimar",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "la joaqui",
-      "traffic": "100+",
+      "name": "disney+",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "city",
-      "traffic": "1000+",
+      "name": "fiorentina vs",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "leverkusen - fc union berlin",
-      "traffic": "200+",
+      "name": "f1 en vivo",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "bundesliga",
-      "traffic": "200+",
+      "name": "man city",
+      "traffic": "500+",
       "rank": 10
     }
   ]
