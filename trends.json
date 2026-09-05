@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T15:00:17Z",
+  "updated": "2026-09-05T15:24:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "camión",
-      "traffic": "200+",
+      "name": "gasly",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "west ham - derby county",
-      "traffic": "100+",
+      "name": "sudáfrica - nueva zelanda",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "iliman ndiaye",
+      "name": "mattia colnaghi",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "dazn",
-      "traffic": "100+",
+      "name": "mateo pellegrino",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sebastián d'angelo",
-      "traffic": "200+",
+      "name": "dortmund",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "pablo aimar",
+      "name": "boca vs gimnasia de mendoza",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "disney+",
-      "traffic": "200+",
+      "name": "camión",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "fiorentina vs",
-      "traffic": "200+",
+      "name": "west ham - derby county",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "f1 en vivo",
-      "traffic": "5000+",
+      "name": "iliman ndiaye",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "man city",
-      "traffic": "500+",
+      "name": "dazn",
+      "traffic": "100+",
       "rank": 10
     }
   ]
