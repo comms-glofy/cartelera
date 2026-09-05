@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T11:00:17Z",
+  "updated": "2026-09-05T11:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vélez",
-      "traffic": "100+",
+      "name": "deuda",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "abc",
-      "traffic": "200+",
+      "name": "newcastle - bournemouth",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "f1 monza",
-      "traffic": "500+",
+      "name": "cuenta d n i",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "horarios f1",
-      "traffic": "500+",
+      "name": "tres arroyos",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "crédito",
+      "name": "vélez",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "clarín",
+      "name": "abc",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "icarly",
-      "traffic": "100+",
+      "name": "f1 monza",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "adam sandler",
-      "traffic": "1000+",
+      "name": "crédito",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "reinaldo merlo",
+      "name": "f1 horarios",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "andy ruiz",
-      "traffic": "200+",
+      "name": "icarly",
+      "traffic": "100+",
       "rank": 10
     }
   ]
