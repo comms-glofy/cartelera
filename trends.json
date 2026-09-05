@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T17:00:18Z",
+  "updated": "2026-09-05T17:26:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "laliga",
-      "traffic": "500+",
+      "name": "al ittihad - al-nassr",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "sofia montenegro",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "bayern munich",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "gimnasia - tigre",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "juez",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "marítimo - benfica",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "inter",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "marítimo - benfica",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "terremoto",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "inter vs napoli",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "potapova",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "inter milan",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "aldosivi - banfield",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "liga española",
-      "traffic": "200+",
+      "name": "julián alvarez",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
