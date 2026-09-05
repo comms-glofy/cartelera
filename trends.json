@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T23:09:39Z",
+  "updated": "2026-09-05T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami - atlanta united",
-      "traffic": "5000+",
+      "name": "fluminense - vasco da gama",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "santa fe - fortaleza",
-      "traffic": "2000+",
+      "name": "philadelphia - montréal",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "deportivo toluca fútbol club",
+      "name": "antonio mohamed",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bárbara lanata",
-      "traffic": "100+",
+      "name": "inter miami - atlanta united",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "boeing 787",
-      "traffic": "100+",
+      "name": "santa fe - fortaleza",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "club sportivo independiente rivadavia",
+      "name": "deportivo toluca fútbol club",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "michael zheng",
+      "name": "boeing 787",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "san lorenzo hoy",
-      "traffic": "500+",
+      "name": "bárbara lanata",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "independiente del valle - macará",
-      "traffic": "500+",
+      "name": "club sportivo independiente rivadavia",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "como salio boca hoy",
-      "traffic": "500+",
+      "name": "michael zheng",
+      "traffic": "100+",
       "rank": 10
     }
   ]
