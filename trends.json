@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-05T23:00:15Z",
+  "updated": "2026-09-05T23:09:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "inter miami - atlanta united",
-      "traffic": "1000+",
+      "traffic": "5000+",
       "rank": 1
     },
     {
       "name": "santa fe - fortaleza",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 2
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "club sportivo independiente rivadavia",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
     },
     {
@@ -45,12 +45,12 @@
     },
     {
       "name": "independiente del valle - macará",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 9
     },
     {
       "name": "como salio boca hoy",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 10
     }
   ]
