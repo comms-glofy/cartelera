@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T13:00:17Z",
+  "updated": "2026-09-05T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hoffenheim - dortmund",
+      "name": "nottingham forest - tottenham",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "19 de septiembre",
-      "traffic": "100+",
+      "name": "brighton - leeds",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fiorentina - torino",
-      "traffic": "500+",
+      "name": "manchester city - coventry city",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "5 de septiembre",
+      "name": "f2",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "formula 1 horario",
-      "traffic": "200+",
+      "name": "hoffenheim - dortmund",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "19 de septiembre",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "fiorentina - torino",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "5 de septiembre",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "empresario",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "ernestina pais",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "clasificacion f1",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "freddie mercury",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "oscar ruggeri",
-      "traffic": "500+",
       "rank": 10
     }
   ]
