@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T18:00:15Z",
+  "updated": "2026-09-05T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ia-63 pampa",
-      "traffic": "2000+",
+      "name": "chacarita - atlanta",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "boris johnson",
+      "name": "cerro chapelco",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "danubio - peñarol",
-      "traffic": "200+",
+      "name": "roma - atalanta",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "junín",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "ia-63 pampa",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "boris johnson",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "danubio - peñarol",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "sofía martínez",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "al ittihad - al-nassr",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "sofia montenegro",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "bayern munich",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "gimnasia - tigre",
-      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "juez",
+      "name": "al ittihad - al-nassr",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "inter",
-      "traffic": "1000+",
+      "name": "sofia montenegro",
+      "traffic": "200+",
       "rank": 10
     }
   ]
