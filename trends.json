@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-05T12:00:17Z",
+  "updated": "2026-09-05T12:19:46Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ernestina pais",
-      "traffic": "2000+",
+      "name": "empresario",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clasificacion f1",
-      "traffic": "500+",
+      "name": "ernestina pais",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "clasificacion f1",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "freddie mercury",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "oscar ruggeri",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "deuda",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "newcastle - bournemouth",
-      "traffic": "1000+",
+      "name": "deuda",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "newcastle - bournemouth",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "cuenta d n i",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tres arroyos",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "vélez",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "abc",
+      "name": "vélez",
       "traffic": "500+",
       "rank": 10
     }
