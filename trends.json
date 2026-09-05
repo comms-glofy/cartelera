@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T16:30:16Z",
+  "updated": "2026-09-05T17:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter milan",
-      "traffic": "200+",
+      "name": "laliga",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "aldosivi - banfield",
-      "traffic": "2000+",
+      "name": "juez",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "premier league",
-      "traffic": "20000+",
+      "name": "inter",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "liga española",
+      "name": "marítimo - benfica",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "alberto iribarne",
-      "traffic": "100+",
+      "name": "terremoto",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "atletico madrid",
-      "traffic": "2000+",
+      "name": "inter vs napoli",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "2000+",
+      "name": "potapova",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "pamela anderson",
+      "name": "inter milan",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "schalke 04 - bayern",
-      "traffic": "2000+",
+      "name": "aldosivi - banfield",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "hull city - aston villa",
-      "traffic": "2000+",
+      "name": "liga española",
+      "traffic": "200+",
       "rank": 10
     }
   ]
