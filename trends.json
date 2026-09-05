@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T19:00:19Z",
+  "updated": "2026-09-05T19:16:58Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san martin de tucuman",
+      "name": "helicóptero",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fábrica",
+      "name": "roma fc",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rugby",
-      "traffic": "100+",
+      "name": "bragantino - bahía",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "a qué hora juega boca",
-      "traffic": "2000+",
+      "name": "al nassr",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "posiciones de schalke 04 contra bayern",
-      "traffic": "1000+",
+      "name": "oscar piastri",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sevilla - barcelona",
+      "name": "fábrica",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "puerto iguazú",
+      "name": "san martin de tucuman",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "claudio tapia",
-      "traffic": "200+",
+      "name": "rugby",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "fritz",
-      "traffic": "100+",
+      "name": "gimnasia y esgrima - boca juniors",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "acassuso - all boys",
-      "traffic": "500+",
+      "name": "posiciones de schalke 04 contra bayern",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
