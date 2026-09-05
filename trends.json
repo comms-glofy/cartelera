@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-05T10:30:16Z",
+  "updated": "2026-09-05T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1 horarios",
-      "traffic": "200+",
+      "name": "vélez",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clarín",
-      "traffic": "100+",
+      "name": "abc",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "icarly",
-      "traffic": "100+",
+      "name": "f1 monza",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "adam sandler",
-      "traffic": "1000+",
+      "name": "horarios f1",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "reinaldo merlo",
-      "traffic": "1000+",
+      "name": "crédito",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "andy ruiz",
+      "name": "clarín",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "juárez - pachuca",
-      "traffic": "200+",
+      "name": "icarly",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "posiciones de técnico universitario contra liga de quito",
-      "traffic": "2000+",
+      "name": "adam sandler",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "ben shelton",
+      "name": "reinaldo merlo",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "juventud antoniana",
+      "name": "andy ruiz",
       "traffic": "200+",
       "rank": 10
     }
