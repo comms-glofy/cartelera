@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-05T00:00:18Z",
+  "updated": "2026-09-05T00:15:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ferro hoy",
-      "traffic": "100+",
+      "name": "carlos tevez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cartografía",
+      "name": "santino andino",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ricardo stec",
-      "traffic": "200+",
+      "name": "cartografía",
+      "traffic": "100+",
       "rank": 3
     },
     {
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "cáncer",
-      "traffic": "200+",
+      "name": "los palmeras",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "cáncer",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "ferro - club mitre",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "leandro paredes",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "phillies - braves",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cotización dólar oficial dólar blue hoy",
+      "name": "phillies - braves",
       "traffic": "500+",
       "rank": 10
     }
