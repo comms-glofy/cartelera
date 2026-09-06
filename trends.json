@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T21:31:25Z",
+  "updated": "2026-09-06T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jubilación en españa",
+      "name": "río negro",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "tandanor",
-      "traffic": "200+",
+      "name": "otan",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "bill gates",
+      "name": "mario guerci",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "caza furtiva",
-      "traffic": "100+",
+      "name": "river plate - independiente rivadavia",
+      "traffic": "20000+",
       "rank": 4
     },
     {
-      "name": "miami",
-      "traffic": "100+",
+      "name": "avión miami",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "botafogo - palmeiras",
-      "traffic": "500+",
+      "name": "jubilación en españa",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "denzel washington",
-      "traffic": "100+",
+      "name": "tandanor",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "medvedev",
+      "name": "bill gates",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "margarita ii de dinamarca",
-      "traffic": "200+",
+      "name": "caza furtiva",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "daniil medvédev",
-      "traffic": "200+",
+      "name": "miami",
+      "traffic": "100+",
       "rank": 10
     }
   ]
