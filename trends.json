@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-06T11:11:49Z",
+  "updated": "2026-09-06T11:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "formula 1 hoy",
+      "name": "f1 hoy",
       "traffic": "20000+",
       "rank": 1
     },
     {
       "name": "facundo arana",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "loto 5",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "arif erman",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "a que hora es la carrera de f1",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "méxico",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "7 de septiembre",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "learner tien",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "andy kusnetzoff",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "yuliia starodubtseva",
+      "name": "andy kusnetzoff",
       "traffic": "100+",
       "rank": 10
     }
