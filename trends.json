@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T22:30:16Z",
+  "updated": "2026-09-06T23:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telekino",
-      "traffic": "500+",
+      "name": "alfredo berti",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "león - américa",
+      "name": "matias fernandez",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "automóvil",
-      "traffic": "200+",
+      "name": "telekino",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "financiación",
+      "name": "león - américa",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "río negro",
-      "traffic": "500+",
+      "name": "automóvil",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "sportivo luqueño - sportivo ameliano",
+      "name": "financiación",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "río negro",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "sportivo luqueño - sportivo ameliano",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "otan",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "mario guerci",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "river plate - independiente rivadavia",
-      "traffic": "100000+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de deportivo madryn contra club ciudad de bolívar fútbol",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
