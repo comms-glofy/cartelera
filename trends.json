@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T10:00:15Z",
+  "updated": "2026-09-06T10:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "méxico",
-      "traffic": "1000+",
+      "name": "arif erman",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "alexander zverev",
+      "name": "a que hora es la carrera de f1",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "7 de septiembre",
-      "traffic": "5000+",
+      "name": "méxico",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "learner tien",
-      "traffic": "200+",
+      "name": "alexander zverev",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "jakub mensík",
-      "traffic": "200+",
+      "name": "7 de septiembre",
+      "traffic": "5000+",
       "rank": 5
+    },
+    {
+      "name": "learner tien",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "andy kusnetzoff",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "yuliia starodubtseva",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "botic van de zandschulp",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "desastre",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "johnny",
-      "traffic": "500+",
       "rank": 10
     }
   ]
