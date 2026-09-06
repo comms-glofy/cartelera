@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T03:00:18Z",
+  "updated": "2026-09-06T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "alexander zverev",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "breel embolo",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "7 de septiembre",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "jakub mensík",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "miguel almirón",
-      "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "andy kusnetzoff",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "a qué hora es la carrera de fórmula 1 mañana",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "botic van de zandschulp",
+      "name": "yuliia starodubtseva",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "desastre",
-      "traffic": "200+",
+      "name": "a qué hora es la carrera de fórmula 1 mañana",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "susurran tu nombre",
-      "traffic": "200+",
+      "name": "botic van de zandschulp",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "johnny",
-      "traffic": "100+",
+      "name": "desastre",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "real salt lake - lafc",
-      "traffic": "100+",
+      "name": "susurran tu nombre",
+      "traffic": "500+",
       "rank": 10
     }
   ]
