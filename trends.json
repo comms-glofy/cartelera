@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T20:00:15Z",
+  "updated": "2026-09-06T20:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sarah khalifa",
+      "name": "huachipato - colo-colo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
+      "name": "paro docente",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marsella fc",
+      "name": "la capital",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "central córdoba - independiente",
-      "traffic": "5000+",
+      "name": "deportivo madryn",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "lanús - defensa y justicia",
-      "traffic": "2000+",
+      "name": "internacional x santos",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "milton delgado",
-      "traffic": "200+",
+      "name": "olimpo",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "marsella - paris fc",
-      "traffic": "200+",
+      "name": "franquicia",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "gimnasia de jujuy",
+      "name": "ciclón",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "san miguel club",
-      "traffic": "100+",
+      "name": "juan pablo ii college - alianza lima",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "libertad - rubio ñu",
-      "traffic": "500+",
+      "name": "diario el eco de tandil",
+      "traffic": "200+",
       "rank": 10
     }
   ]
