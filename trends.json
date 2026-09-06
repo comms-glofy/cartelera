@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T14:30:16Z",
+  "updated": "2026-09-06T15:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester united",
-      "traffic": "500+",
+      "name": "arsenal - chelsea",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "lando norris",
-      "traffic": "100+",
+      "name": "gabriel bortoleto",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "abogado",
-      "traffic": "200+",
+      "name": "alex albon",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lewis hamilton",
+      "name": "f",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "nico hülkenberg",
-      "traffic": "200+",
+      "name": "fernando alonso",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "arsenal vs chelsea",
-      "traffic": "100+",
+      "name": "barca",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "central vs newell's",
-      "traffic": "100+",
+      "name": "oliver bearman",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "hadjar",
-      "traffic": "100+",
+      "name": "arvid lindblad",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "poder adquisitivo",
-      "traffic": "100+",
+      "name": "lando norris",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "antonelli",
-      "traffic": "200+",
+      "name": "abogado",
+      "traffic": "500+",
       "rank": 10
     }
   ]
