@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T14:18:22Z",
+  "updated": "2026-09-06T14:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "manchester united",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "lando norris",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "abogado",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "name": "lewis hamilton",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "nico hülkenberg",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "lewis hamilton",
-      "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "arsenal vs chelsea",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "central vs newell's",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "hadjar",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "poder adquisitivo",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "antonelli",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones f1",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "hamilton",
-      "traffic": "100+",
       "rank": 10
     }
   ]
