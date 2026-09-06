@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T18:30:18Z",
+  "updated": "2026-09-06T19:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san martín - midland",
+      "name": "internacional - santos",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tommy paul",
+      "name": "godoy cruz",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "subsidio",
-      "traffic": "200+",
+      "name": "influencer",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "spider-man: brand new day",
+      "name": "fenómeno",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "profesor",
-      "traffic": "200+",
+      "name": "juventus vs milan",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "linda nosková",
-      "traffic": "100+",
+      "name": "carlos alcaraz",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "juventus - milan",
-      "traffic": "1000+",
+      "name": "rcd espanyol - sevilla",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "alcaraz",
+      "name": "cruzeiro - paranaense",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "gustavo yarroch",
-      "traffic": "200+",
+      "name": "san martín - midland",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "marta kostiuk",
-      "traffic": "100+",
+      "name": "tommy paul",
+      "traffic": "200+",
       "rank": 10
     }
   ]
