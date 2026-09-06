@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T23:00:19Z",
+  "updated": "2026-09-06T23:26:46Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alfredo berti",
+      "name": "deportivo pereira - millonarios",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "matias fernandez",
+      "name": "puerto madero",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "telekino",
-      "traffic": "1000+",
+      "name": "chubut",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "león - américa",
-      "traffic": "200+",
+      "name": "tv argentina",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "automóvil",
+      "name": "matias fernandez",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "financiación",
+      "name": "alfredo berti",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "río negro",
-      "traffic": "2000+",
+      "name": "telekino",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "sportivo luqueño - sportivo ameliano",
-      "traffic": "500+",
+      "name": "león - américa",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "otan",
-      "traffic": "500+",
+      "name": "financiación",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mario guerci",
-      "traffic": "100+",
+      "name": "automóvil",
+      "traffic": "500+",
       "rank": 10
     }
   ]
