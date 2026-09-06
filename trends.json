@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T01:30:22Z",
+  "updated": "2026-09-06T02:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paula chaves",
-      "traffic": "500+",
+      "name": "elena rybakina",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "elba marcovecchio",
+      "name": "universitario - comerciantes unidos",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "china suárez",
-      "traffic": "200+",
+      "name": "paula chaves",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "chino maidana",
+      "name": "elba marcovecchio",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "johnny depp",
+      "name": "chino leunis",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "11 de septiembre",
-      "traffic": "100+",
+      "name": "china suárez",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "chino maidana",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "johnny depp",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "11 de septiembre",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "velez",
       "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "chapelco",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "el chalten",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "iva jovic",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
