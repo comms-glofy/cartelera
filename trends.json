@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-05T23:30:16Z",
+  "updated": "2026-09-06T00:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fluminense - vasco da gama",
+      "name": "miss mundo 2026",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "philadelphia - montréal",
+      "name": "apple tv",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "vélez - estudiantes",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "otan",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "fluminense - vasco da gama",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "philadelphia - montréal",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "antonio mohamed",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "inter miami - atlanta united",
       "traffic": "10000+",
-      "rank": 4
-    },
-    {
-      "name": "santa fe - fortaleza",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "deportivo toluca fútbol club",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "boeing 787",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "bárbara lanata",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "club sportivo independiente rivadavia",
-      "traffic": "200+",
+      "name": "santa fe - fortaleza",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "michael zheng",
-      "traffic": "100+",
+      "name": "boeing 787",
+      "traffic": "200+",
       "rank": 10
     }
   ]
