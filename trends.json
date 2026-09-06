@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T22:00:15Z",
+  "updated": "2026-09-06T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "río negro",
+      "name": "telekino",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "otan",
-      "traffic": "500+",
+      "name": "león - américa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mario guerci",
-      "traffic": "100+",
+      "name": "automóvil",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "river plate - independiente rivadavia",
-      "traffic": "20000+",
+      "name": "financiación",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "avión miami",
+      "name": "río negro",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "jubilación en españa",
-      "traffic": "1000+",
+      "name": "sportivo luqueño - sportivo ameliano",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tandanor",
-      "traffic": "200+",
+      "name": "otan",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "bill gates",
-      "traffic": "200+",
+      "name": "mario guerci",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "caza furtiva",
-      "traffic": "100+",
+      "name": "river plate - independiente rivadavia",
+      "traffic": "100000+",
       "rank": 9
     },
     {
-      "name": "miami",
-      "traffic": "100+",
+      "name": "posiciones de deportivo madryn contra club ciudad de bolívar fútbol",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
