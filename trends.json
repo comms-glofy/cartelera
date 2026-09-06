@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T17:13:08Z",
+  "updated": "2026-09-06T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alavés - osasuna",
+      "name": "o'higgins - u. la calera",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "periodismo deportivo",
+      "name": "christos tzolis",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "la peña de morfi",
+      "name": "premier padel",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "málaga - levante",
-      "traffic": "100+",
+      "name": "alex michelsen",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bepicolombo",
+      "name": "desaparición de loan peña",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "florida",
-      "traffic": "500+",
+      "name": "rosario central - newell's",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "ley",
+      "name": "alavés - osasuna",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bolonia - sassuolo",
-      "traffic": "200+",
+      "name": "la peña de morfi",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "arsenal vs. chelsea",
-      "traffic": "500+",
+      "name": "periodismo deportivo",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "river vs independiente rivadavia",
-      "traffic": "500+",
+      "name": "málaga - levante",
+      "traffic": "100+",
       "rank": 10
     }
   ]
