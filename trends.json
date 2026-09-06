@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T11:30:18Z",
+  "updated": "2026-09-06T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1 hoy",
+      "name": "f1",
       "traffic": "20000+",
       "rank": 1
     },
     {
+      "name": "juana repetto",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "facundo arana",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "loto 5",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "arif erman",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "a que hora es la carrera de f1",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "méxico",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "7 de septiembre",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "learner tien",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "andy kusnetzoff",
-      "traffic": "100+",
       "rank": 10
     }
   ]
