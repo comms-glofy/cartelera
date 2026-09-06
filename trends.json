@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-06T19:30:15Z",
+  "updated": "2026-09-06T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "central córdoba - independiente",
-      "traffic": "500+",
+      "name": "sarah khalifa",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lanús - defensa y justicia",
-      "traffic": "200+",
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "marsella - paris fc",
+      "name": "marsella fc",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "central córdoba - independiente",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "lanús - defensa y justicia",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "milton delgado",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "marsella - paris fc",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "gimnasia de jujuy",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "san miguel club",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "libertad - rubio ñu",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "estados unidos",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "cabo verde",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "deportivo maipú - patronato",
+      "name": "libertad - rubio ñu",
       "traffic": "500+",
       "rank": 10
     }
