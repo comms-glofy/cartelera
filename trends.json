@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-06T01:00:15Z",
+  "updated": "2026-09-06T01:10:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "johnny depp",
-      "traffic": "100+",
+      "name": "chino maidana",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "johnny depp",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "11 de septiembre",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "velez",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "eala",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "el chalten",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "iva jovic",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "u. de chile - coquimbo unido",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "facundo farias",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "inter miami cf",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "toronto - chicago fire",
+      "name": "inter miami cf",
       "traffic": "200+",
       "rank": 10
     }
