@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T02:30:18Z",
+  "updated": "2026-09-06T03:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "botic van de zandschulp",
-      "traffic": "100+",
+      "name": "7 de septiembre",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "desastre",
+      "name": "jakub mensík",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "susurran tu nombre",
-      "traffic": "200+",
+      "name": "miguel almirón",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "tuli",
-      "traffic": "500+",
+      "name": "andy kusnetzoff",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "real salt lake - lafc",
-      "traffic": "100+",
+      "name": "a qué hora es la carrera de fórmula 1 mañana",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "johnny",
+      "name": "botic van de zandschulp",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "junior - jaguares",
-      "traffic": "100+",
+      "name": "desastre",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cincinnati fc",
-      "traffic": "100+",
+      "name": "susurran tu nombre",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "pedro alfonso",
-      "traffic": "200+",
+      "name": "johnny",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "elena rybakina",
-      "traffic": "200+",
+      "name": "real salt lake - lafc",
+      "traffic": "100+",
       "rank": 10
     }
   ]
