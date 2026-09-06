@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T01:10:52Z",
+  "updated": "2026-09-06T01:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chino maidana",
+      "name": "paula chaves",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "johnny depp",
+      "name": "elba marcovecchio",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "11 de septiembre",
-      "traffic": "100+",
+      "name": "china suárez",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "velez",
-      "traffic": "5000+",
+      "name": "chino maidana",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "eala",
+      "name": "johnny depp",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "el chalten",
+      "name": "11 de septiembre",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "iva jovic",
-      "traffic": "500+",
+      "name": "velez",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "u. de chile - coquimbo unido",
-      "traffic": "200+",
+      "name": "chapelco",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "facundo farias",
-      "traffic": "200+",
+      "name": "el chalten",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "inter miami cf",
-      "traffic": "200+",
+      "name": "iva jovic",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
