@@ -1,31 +1,31 @@
 {
-  "updated": "2026-09-06T06:30:13Z",
+  "updated": "2026-09-06T07:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mensik",
+      "name": "zverev",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "zverev",
-      "traffic": "500+",
-      "rank": 2
-    },
-    {
       "name": "tabilo",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "7 de septiembre",
       "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "learner tien",
+      "traffic": "500+",
       "rank": 5
     },
     {
