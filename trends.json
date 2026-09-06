@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-06T15:00:15Z",
+  "updated": "2026-09-06T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arsenal - chelsea",
-      "traffic": "2000+",
+      "name": "epec",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "gabriel bortoleto",
+      "name": "chelsea vs arsenal",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "alex albon",
-      "traffic": "100+",
+      "name": "lamine yamal",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "f",
-      "traffic": "200+",
+      "name": "toto wolff",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "lesión",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "liam lawson",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "arsenal - chelsea",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "fernando alonso",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "barca",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "oliver bearman",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "arvid lindblad",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "lando norris",
+      "name": "f",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "abogado",
-      "traffic": "500+",
+      "name": "oliver bearman",
+      "traffic": "200+",
       "rank": 10
     }
   ]
