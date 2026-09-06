@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-06T04:30:16Z",
+  "updated": "2026-09-06T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "zverev",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "7 de septiembre",
       "traffic": "2000+",
-      "rank": 2
-    },
-    {
-      "name": "jakub mensík",
-      "traffic": "200+",
       "rank": 3
     },
     {
       "name": "learner tien",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "johnny",
+      "name": "susurran tu nombre",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "susurran tu nombre",
-      "traffic": "500+",
+      "name": "real salt lake - lafc",
+      "traffic": "100+",
       "rank": 10
     }
   ]
