@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T16:30:15Z",
+  "updated": "2026-09-07T17:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pity alvarez",
+      "name": "2026",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "iga świątek",
+      "name": "sebastián villa",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cagliari - lecce",
-      "traffic": "200+",
+      "name": "video gaston edul",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "potapova",
-      "traffic": "200+",
+      "name": "torneo de apertura y clausura",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "automovilismo",
+      "name": "getafe - celta de vigo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ford f-100",
-      "traffic": "200+",
+      "name": "arabia saudita",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "avión de caza",
-      "traffic": "200+",
+      "name": "demanda judicial",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cooperativa",
-      "traffic": "100+",
+      "name": "iga świątek",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "5000+",
+      "name": "pity alvarez",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fabio grosso",
-      "traffic": "100+",
+      "name": "cagliari - lecce",
+      "traffic": "200+",
       "rank": 10
     }
   ]
