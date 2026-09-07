@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T00:30:16Z",
+  "updated": "2026-09-07T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "accidente avion miami",
-      "traffic": "500+",
+      "name": "paula bernini",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "a qué hora juega racing",
-      "traffic": "200+",
+      "name": "oriana sabatini",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cruz azul",
+      "name": "temporada",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tabla anual",
-      "traffic": "1000+",
+      "name": "tabla anual 2026",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "tsitsipas",
+      "name": "accidente avion miami",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "racing - atlético tucumán",
-      "traffic": "20000+",
+      "name": "a qué hora juega racing",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "luis díaz",
+      "name": "cruz azul",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ben shelton",
-      "traffic": "200+",
+      "name": "tsitsipas",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "mauricio macri",
-      "traffic": "100+",
+      "name": "racing - atlético tucumán",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "aucas - barcelona sc",
-      "traffic": "500+",
+      "name": "luis díaz",
+      "traffic": "200+",
       "rank": 10
     }
   ]
