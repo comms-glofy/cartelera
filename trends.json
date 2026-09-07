@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T14:00:15Z",
+  "updated": "2026-09-07T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "licitación",
-      "traffic": "100+",
+      "name": "quiniela en vivo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "granja",
+      "name": "licitación",
       "traffic": "100+",
       "rank": 2
     },
     {
       "name": "prófugo",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "granja",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "river id",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "línea roca",
-      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "marcos farias",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "la cámpora",
+      "name": "comodoro rivadavia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "alina akselrad",
-      "traffic": "100+",
+      "name": "la cámpora",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "dia del empleado de comercio 2026",
-      "traffic": "200+",
+      "name": "alina akselrad",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "belec falleció cristian belec actor",
-      "traffic": "500+",
+      "name": "tren roca",
+      "traffic": "200+",
       "rank": 10
     }
   ]
