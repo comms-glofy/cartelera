@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T10:00:16Z",
+  "updated": "2026-09-07T10:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "temperatura",
-      "traffic": "500+",
+      "name": "ola de frío",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima salta",
+      "name": "sube saldo",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "1",
+      "name": "libertad",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "temperatura buenos aires",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "temperatura",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "clima salta",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "1",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "quini 6 domingo 6 de septiembre",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "gaston edul",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "fecha de cobro anses",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "elizabeth holmes",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "falcioni",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "marcos juarez",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "boss",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
