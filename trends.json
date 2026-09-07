@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-07T22:00:18Z",
+  "updated": "2026-09-07T22:30:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fiesta nacional del salame quintero",
-      "traffic": "100+",
+      "name": "vitória - grêmio",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "imputabilidad",
-      "traffic": "2000+",
+      "name": "learner tien",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "botic van de zandschulp",
+      "name": "melendi",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "barracas central - argentinos jrs.",
-      "traffic": "5000+",
+      "name": "fiesta nacional del salame quintero",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "us open",
-      "traffic": "5000+",
+      "name": "imputabilidad",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "botic van de zandschulp",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "barracas central - argentinos jrs.",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "us open",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "karina mazzocco",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "chicago",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "elena rybakina",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "inflación",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "jorge lanata",
+      "name": "chicago",
       "traffic": "200+",
       "rank": 10
     }
