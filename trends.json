@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T00:00:15Z",
+  "updated": "2026-09-07T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing - atlético tucumán",
-      "traffic": "2000+",
+      "name": "accidente avion miami",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "luis díaz",
+      "name": "a qué hora juega racing",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ben shelton",
-      "traffic": "200+",
+      "name": "cruz azul",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "stéfanos tsitsipás",
-      "traffic": "100+",
+      "name": "tabla anual",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "mauricio macri",
-      "traffic": "100+",
+      "name": "tsitsipas",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "aucas - barcelona sc",
-      "traffic": "200+",
+      "name": "racing - atlético tucumán",
+      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "deportivo pereira - millonarios",
+      "name": "luis díaz",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "puerto madero",
+      "name": "ben shelton",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "chubut",
-      "traffic": "2000+",
+      "name": "mauricio macri",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "tv argentina",
-      "traffic": "100+",
+      "name": "aucas - barcelona sc",
+      "traffic": "500+",
       "rank": 10
     }
   ]
