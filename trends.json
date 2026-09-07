@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T23:00:17Z",
+  "updated": "2026-09-07T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arthur géa",
+      "name": "cerro",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "barracas",
+      "name": "corrupción",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "lautaro martínez",
-      "traffic": "1000+",
+      "name": "mauro icardi",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "oscar a la mejor actriz",
+      "name": "victoria xipolitakis",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "club atlético independiente",
-      "traffic": "500+",
+      "name": "argentinos",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "vitória - grêmio",
+      "name": "arthur géa",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "learner tien",
-      "traffic": "200+",
+      "name": "barracas",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "melendi",
-      "traffic": "100+",
+      "name": "lautaro martínez",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "fiesta nacional del salame quintero",
-      "traffic": "100+",
+      "name": "oscar a la mejor actriz",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "imputabilidad",
-      "traffic": "2000+",
+      "name": "vitória - grêmio",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
