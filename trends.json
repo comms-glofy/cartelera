@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-07T09:00:17Z",
+  "updated": "2026-09-07T09:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "1",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "quini 6 domingo 6 de septiembre",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "gaston edul",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "fecha de cobro anses",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "elizabeth holmes",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "falcioni",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "marcos juarez",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "siga la vaca",
-      "traffic": "2000+",
       "rank": 7
     },
     {
