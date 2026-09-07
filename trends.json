@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T02:30:15Z",
+  "updated": "2026-09-07T03:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcos juarez",
-      "traffic": "100+",
+      "name": "elizabeth holmes",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "boss",
-      "traffic": "200+",
+      "name": "marcos juarez",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "boss",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "hakim ziyech",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "emma navarro",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "volcan krakatoa",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quini 6 resultados",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "puente festivo",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "toluca - monterrey",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "alemania",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "alberto fernández",
-      "traffic": "200+",
       "rank": 10
     }
   ]
