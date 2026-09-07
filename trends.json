@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T18:30:18Z",
+  "updated": "2026-09-07T19:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vozinha",
-      "traffic": "500+",
+      "name": "elche c. f. - real sociedad",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "usopen",
-      "traffic": "100+",
+      "name": "ángel di maría",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "carburando",
+      "name": "udinese - lazio",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "glaciar",
-      "traffic": "200+",
+      "name": "francisco cerúndolo",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "cerundolo",
-      "traffic": "2000+",
+      "name": "julián alvarez",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "zheng qinwen",
-      "traffic": "500+",
+      "name": "al hilal",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "elecciones generales de brasil de 2026",
-      "traffic": "200+",
+      "name": "vozinha",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "franco picardi",
+      "name": "usopen",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "primera división de argentina",
-      "traffic": "1000+",
+      "name": "carburando",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cagliari fc",
-      "traffic": "100+",
+      "name": "glaciar",
+      "traffic": "200+",
       "rank": 10
     }
   ]
