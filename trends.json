@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T18:00:20Z",
+  "updated": "2026-09-07T18:04:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "glaciar",
+      "name": "carburando",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cerundolo",
-      "traffic": "1000+",
+      "name": "zheng",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "zheng qinwen",
+      "name": "glaciar",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "elecciones generales de brasil de 2026",
-      "traffic": "200+",
+      "name": "cerundolo",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "franco picardi",
+      "name": "zheng qinwen",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "primera división de argentina",
-      "traffic": "1000+",
+      "name": "elecciones generales de brasil de 2026",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "us open hoy",
-      "traffic": "5000+",
+      "name": "franco picardi",
+      "traffic": "200+",
       "rank": 7
+    },
+    {
+      "name": "primera división de argentina",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "cagliari fc",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "cristiano ronaldo",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "gary oldman",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "liga de campeones de la uefa",
-      "traffic": "100+",
       "rank": 10
     }
   ]
