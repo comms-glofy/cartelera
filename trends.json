@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T03:00:17Z",
+  "updated": "2026-09-07T03:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elizabeth holmes",
-      "traffic": "200+",
+      "name": "fecha de cobro anses",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "marcos juarez",
-      "traffic": "100+",
+      "name": "elizabeth holmes",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "marcos juarez",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "boss",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "hakim ziyech",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "emma navarro",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "volcan krakatoa",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "quini 6 resultados",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "puente festivo",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "toluca - monterrey",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "alemania",
-      "traffic": "500+",
       "rank": 10
     }
   ]
