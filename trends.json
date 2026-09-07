@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T23:30:15Z",
+  "updated": "2026-09-07T23:56:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cerro",
-      "traffic": "200+",
+      "name": "¿quien se va de gran hermano hoy?",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "corrupción",
-      "traffic": "100+",
+      "name": "unión - instituto",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "mauro icardi",
+      "name": "israel",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "victoria xipolitakis",
+      "name": "excursionistas",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "argentinos",
+      "name": "valeria seefeld",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "arthur géa",
+      "name": "cerro porteño",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "barracas",
-      "traffic": "100+",
+      "name": "iva jovic",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "lautaro martínez",
-      "traffic": "1000+",
+      "name": "cerro",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "oscar a la mejor actriz",
-      "traffic": "200+",
+      "name": "corrupción",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "vitória - grêmio",
-      "traffic": "1000+",
+      "name": "mauro icardi",
+      "traffic": "200+",
       "rank": 10
     }
   ]
