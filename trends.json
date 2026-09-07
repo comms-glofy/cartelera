@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T16:00:18Z",
+  "updated": "2026-09-07T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cooperativa",
-      "traffic": "100+",
+      "name": "pity alvarez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "5000+",
+      "name": "iga świątek",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fabio grosso",
-      "traffic": "100+",
+      "name": "cagliari - lecce",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "quiniela en vivo",
-      "traffic": "500+",
+      "name": "potapova",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "licitación",
-      "traffic": "500+",
+      "name": "automovilismo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "prófugo",
+      "name": "ford f-100",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "granja",
-      "traffic": "100+",
+      "name": "avión de caza",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "river id",
-      "traffic": "1000+",
+      "name": "cooperativa",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "marcos farias",
-      "traffic": "2000+",
+      "name": "mirtha legrand",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "comodoro rivadavia",
-      "traffic": "200+",
+      "name": "fabio grosso",
+      "traffic": "100+",
       "rank": 10
     }
   ]
