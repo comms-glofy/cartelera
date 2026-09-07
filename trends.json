@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T15:00:17Z",
+  "updated": "2026-09-07T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mirtha legrand",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "fabio grosso",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "quiniela en vivo",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "licitación",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "prófugo",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "granja",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "river id",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "marcos farias",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "comodoro rivadavia",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "la cámpora",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "alina akselrad",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "tren roca",
-      "traffic": "200+",
       "rank": 10
     }
   ]
