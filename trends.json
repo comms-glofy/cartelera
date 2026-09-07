@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T15:30:19Z",
+  "updated": "2026-09-07T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mirtha legrand",
-      "traffic": "1000+",
+      "name": "cooperativa",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "mirtha legrand",
+      "traffic": "5000+",
+      "rank": 2
     },
     {
       "name": "fabio grosso",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "quiniela en vivo",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "licitación",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "prófugo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "granja",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "river id",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "marcos farias",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "comodoro rivadavia",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "la cámpora",
-      "traffic": "500+",
       "rank": 10
     }
   ]
