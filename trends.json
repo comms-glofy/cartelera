@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T21:00:17Z",
+  "updated": "2026-09-07T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elena rybakina",
+      "name": "abierto de estados unidos",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "rybakina",
-      "traffic": "100+",
+      "name": "naomi osaka",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inflación",
+      "name": "chicago",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jorge lanata",
+      "name": "karina mazzocco",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "ivan morales",
+      "name": "elena rybakina",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tren",
-      "traffic": "500+",
+      "name": "rybakina",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "dólar blue",
+      "name": "inflación",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "paso",
-      "traffic": "200+",
+      "name": "jorge lanata",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "vacaciones",
-      "traffic": "100+",
+      "name": "ivan morales",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "aire",
-      "traffic": "500+",
+      "name": "tren",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
