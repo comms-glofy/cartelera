@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T19:30:14Z",
+  "updated": "2026-09-07T20:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mercado cambiario",
+      "name": "nueva chicago - quilmes",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "federico aramburu",
-      "traffic": "500+",
+      "name": "fútbol",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "elche c. f. - real sociedad",
+      "name": "franco mastantuono",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ángel di maría",
-      "traffic": "1000+",
+      "name": "mercado cambiario",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "udinese - lazio",
-      "traffic": "200+",
+      "name": "federico aramburu",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "5000+",
+      "name": "elche c. f. - real sociedad",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "al hilal",
-      "traffic": "200+",
+      "name": "ángel di maría",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "julián alvarez",
+      "name": "udinese - lazio",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "vozinha",
-      "traffic": "1000+",
+      "name": "al hilal",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "usopen",
-      "traffic": "200+",
+      "name": "julián alvarez",
+      "traffic": "500+",
       "rank": 10
     }
   ]
