@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-07T17:00:19Z",
+  "updated": "2026-09-07T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "2026",
+      "name": "gary oldman",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sebastián villa",
-      "traffic": "200+",
+      "name": "liga de campeones de la uefa",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "video gaston edul",
+      "name": "2026",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "torneo de apertura y clausura",
-      "traffic": "100+",
+      "name": "sebastián villa",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "getafe - celta de vigo",
-      "traffic": "200+",
+      "name": "torneo de apertura y clausura",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "getafe - celta de vigo",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "arabia saudita",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "demanda judicial",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "iga świątek",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "pity alvarez",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "cagliari - lecce",
-      "traffic": "200+",
       "rank": 10
     }
   ]
