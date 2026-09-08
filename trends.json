@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T08:15:19Z",
+  "updated": "2026-09-08T08:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
+      "name": "zverev",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "mi anses",
       "traffic": "50000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "carlos portaluppi",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "yanina zilli",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nequi galotti",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "del potro",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "killing eve",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "darderi",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "emelec",
-      "traffic": "500+",
       "rank": 10
     }
   ]
