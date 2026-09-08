@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T10:00:17Z",
+  "updated": "2026-09-08T10:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mario pergolini",
-      "traffic": "100+",
+      "name": "ia fotos años 80",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "asociación trabajadores del estado",
+      "name": "mario pergolini",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "crédito",
-      "traffic": "1000+",
+      "name": "asociación trabajadores del estado",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "crédito",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "nieve",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "mi",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mi anses",
       "traffic": "50000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "carlos portaluppi",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "yanina zilli",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "nequi galotti",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "del potro",
-      "traffic": "100+",
       "rank": 10
     }
   ]
