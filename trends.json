@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T15:00:21Z",
+  "updated": "2026-09-08T15:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexis mac allister",
-      "traffic": "200+",
+      "name": "ian subiabre",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "informe pisa",
+      "name": "alexis mac allister",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "club atlético aldosivi",
+      "name": "informe pisa",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "benin",
+      "name": "club atlético aldosivi",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "benin",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "viviana colmenero",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "virus",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "balon de oro 2026",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "marco trungelliti",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tren urquiza",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "conflicto",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
