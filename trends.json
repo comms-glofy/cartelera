@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-08T17:09:28Z",
+  "updated": "2026-09-08T17:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "noskova",
-      "traffic": "100+",
+      "name": "miss austria",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "aston villa",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "sabalenka",
+      "name": "fiscal",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "fiscal",
+      "name": "real madrid vs inter",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "real madrid vs inter",
-      "traffic": "100+",
+      "name": "aryna sabalenka",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "aryna sabalenka",
-      "traffic": "2000+",
+      "name": "covid-19",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
