@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T12:30:20Z",
+  "updated": "2026-09-08T12:58:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,12 +10,12 @@
     },
     {
       "name": "balon de oro 2026",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
       "name": "conflicto",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "tierra del fuego",
-      "traffic": "100+",
+      "name": "inteligencia",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "tierra del fuego",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "sandra bullock",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "catamarca ya",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "brasil",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "general fernández oro",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "el ancasti",
-      "traffic": "100+",
+      "name": "general fernández oro",
+      "traffic": "500+",
       "rank": 10
     }
   ]
