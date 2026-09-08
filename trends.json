@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T19:00:21Z",
+  "updated": "2026-09-08T19:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "eduardo coudet",
+      "name": "lille",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "frances tiafoe",
+      "name": "inter vs real madrid",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "borussia dortmund",
-      "traffic": "100+",
+      "name": "evangelina anderson",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bahamas",
+      "name": "culturismo",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "aek vs. lask",
-      "traffic": "100+",
+      "name": "eduardo coudet",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "losc - real betis",
-      "traffic": "1000+",
+      "name": "frances tiafoe",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "reino unido",
-      "traffic": "1000+",
+      "name": "borussia dortmund",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bournemouth - lincoln city",
-      "traffic": "200+",
+      "name": "bahamas",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "banco provincia",
-      "traffic": "1000+",
+      "name": "aek vs. lask",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "millwall - newcastle",
-      "traffic": "200+",
+      "name": "reino unido",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
