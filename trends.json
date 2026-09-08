@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T00:30:16Z",
+  "updated": "2026-09-08T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "volcan krakatoa",
-      "traffic": "2000+",
+      "name": "boca vs sao paulo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cotización del dólar blue",
-      "traffic": "500+",
+      "name": "quiniela nacional",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "¿quien se va de gran hermano hoy?",
+      "name": "emelec - manta",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "unión - instituto",
-      "traffic": "10000+",
+      "name": "volcan krakatoa",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "¿quien se va de gran hermano hoy?",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "unión - instituto",
+      "traffic": "20000+",
+      "rank": 6
+    },
+    {
+      "name": "coco gauff",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "israel",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "excursionistas",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "valeria seefeld",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "cerro porteño",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "iva jovic",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "cerro",
-      "traffic": "200+",
+      "name": "valeria seefeld",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
