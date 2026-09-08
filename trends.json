@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T13:00:21Z",
+  "updated": "2026-09-08T13:30:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marco trungelliti",
+      "name": "virus",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "balon de oro 2026",
-      "traffic": "200+",
+      "name": "balon de oro",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "conflicto",
+      "name": "marco trungelliti",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "pruebas pisa",
-      "traffic": "1000+",
+      "name": "balon de oro 2026",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "inteligencia",
-      "traffic": "200+",
+      "name": "conflicto",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "pruebas pisa",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "inteligencia",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "tierra del fuego",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "sandra bullock",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "catamarca ya",
-      "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "brasil",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "general fernández oro",
-      "traffic": "500+",
       "rank": 10
     }
   ]
