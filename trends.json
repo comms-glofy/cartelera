@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T01:00:17Z",
+  "updated": "2026-09-08T01:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca vs sao paulo",
-      "traffic": "500+",
+      "name": "luciano darderi",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "quiniela nacional",
+      "name": "emelec",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "emelec - manta",
-      "traffic": "100+",
+      "name": "¿quien se va de gran hermano?",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "volcan krakatoa",
-      "traffic": "2000+",
+      "name": "instituto hoy",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "¿quien se va de gran hermano hoy?",
-      "traffic": "100+",
+      "name": "boca vs sao paulo",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "quiniela nacional",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "volcan krakatoa",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "unión - instituto",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "coco gauff",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "israel",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "excursionistas",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "valeria seefeld",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
