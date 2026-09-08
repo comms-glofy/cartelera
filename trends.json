@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-08T04:00:17Z",
+  "updated": "2026-09-08T04:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mi",
-      "traffic": "100+",
+      "name": "nieve",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "zverev",
-      "traffic": "200+",
+      "name": "mi",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "khachanov",
+      "name": "zverev",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "matias gallardo",
-      "traffic": "100+",
+      "name": "khachanov",
+      "traffic": "500+",
       "rank": 4
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "darderi",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 9
     },
     {
