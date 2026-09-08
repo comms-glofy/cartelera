@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T10:30:21Z",
+  "updated": "2026-09-08T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ia fotos años 80",
-      "traffic": "2000+",
+      "name": "catamarca ya",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mario pergolini",
-      "traffic": "100+",
+      "name": "brasil",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "asociación trabajadores del estado",
-      "traffic": "200+",
+      "name": "general fernández oro",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "crédito",
-      "traffic": "500+",
+      "name": "el ancasti",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "nieve",
-      "traffic": "1000+",
+      "name": "ia fotos años 80",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "mi",
-      "traffic": "100+",
+      "name": "mario pergolini",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mi anses",
-      "traffic": "50000+",
+      "name": "asociación trabajadores del estado",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "carlos portaluppi",
+      "name": "crédito",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "yanina zilli",
+      "name": "nieve",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "nequi galotti",
-      "traffic": "1000+",
+      "name": "mi",
+      "traffic": "100+",
       "rank": 10
     }
   ]
