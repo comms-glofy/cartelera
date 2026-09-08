@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T21:30:16Z",
+  "updated": "2026-09-08T22:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fluminense - platense",
-      "traffic": "2000+",
+      "name": "ángel di maría",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "santa fe - vasco da gama",
-      "traffic": "500+",
+      "name": "aluvión",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "enzo fernández",
-      "traffic": "1000+",
+      "name": "miley",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cucurella",
-      "traffic": "100+",
+      "name": "crítica",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "carlos augusto",
-      "traffic": "200+",
+      "name": "la nación",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "diomande",
+      "name": "juez",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "diego peretti",
-      "traffic": "200+",
+      "name": "moratoria",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "vinicius",
-      "traffic": "100+",
+      "name": "fluminense - platense",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "ethan mbappé",
-      "traffic": "500+",
+      "name": "santa fe - vasco da gama",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "dortmund vs. villarreal",
-      "traffic": "200+",
+      "name": "kylian mbappé",
+      "traffic": "500+",
       "rank": 10
     }
   ]
