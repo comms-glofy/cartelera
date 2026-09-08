@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T16:00:16Z",
+  "updated": "2026-09-08T16:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "supremo tribunal federal de brasil",
-      "traffic": "100+",
+      "name": "fiscal",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ian subiabre",
-      "traffic": "100+",
+      "name": "aryna sabalenka",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "alexis mac allister",
+      "name": "covid-19",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "informe pisa",
+      "name": "uefa champions league",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "club atlético aldosivi",
+      "name": "benjamín vicuña",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "benin",
-      "traffic": "500+",
+      "name": "chiche gelblung",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "viviana colmenero",
+      "name": "entre ríos",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "nominados al balón de oro 2026",
-      "traffic": "2000+",
+      "name": "supremo tribunal federal de brasil",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "virus",
-      "traffic": "500+",
+      "name": "ian subiabre",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "marco trungelliti",
-      "traffic": "500+",
+      "name": "alexis mac allister",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
