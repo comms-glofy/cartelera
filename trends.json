@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T19:30:18Z",
+  "updated": "2026-09-08T20:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lille",
-      "traffic": "200+",
+      "name": "desaparición de loan peña",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "inter vs real madrid",
-      "traffic": "200+",
+      "name": "city",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "evangelina anderson",
+      "name": "sommer",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "culturismo",
-      "traffic": "100+",
+      "name": "eclipse solar",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "eduardo coudet",
-      "traffic": "500+",
+      "name": "porto",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "frances tiafoe",
+      "name": "curtis jones",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "borussia dortmund",
-      "traffic": "200+",
+      "name": "primera división",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "bahamas",
+      "name": "libro",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "aek vs. lask",
-      "traffic": "100+",
+      "name": "real madrid vs. inter",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "reino unido",
-      "traffic": "2000+",
+      "name": "lille",
+      "traffic": "500+",
       "rank": 10
     }
   ]
