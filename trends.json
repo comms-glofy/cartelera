@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-08T22:00:20Z",
+  "updated": "2026-09-08T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ángel di maría",
+      "name": "tasa de interés",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "aluvión",
-      "traffic": "200+",
+      "name": "club de fútbol",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "miley",
+      "name": "sacha fenestraz",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "crítica",
+      "name": "variante ómicron del sars-cov-2",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "la nación",
-      "traffic": "1000+",
+      "name": "iphone 17",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "juez",
+      "name": "juegos suramericanos de 2026",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "moratoria",
-      "traffic": "100+",
+      "name": "ángel di maría",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "fluminense - platense",
-      "traffic": "10000+",
+      "name": "aluvión",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "santa fe - vasco da gama",
-      "traffic": "2000+",
+      "name": "miley",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "kylian mbappé",
-      "traffic": "500+",
+      "name": "crítica",
+      "traffic": "200+",
       "rank": 10
     }
   ]
