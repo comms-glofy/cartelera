@@ -1,31 +1,31 @@
 {
-  "updated": "2026-09-08T17:00:17Z",
+  "updated": "2026-09-08T17:09:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aston villa",
-      "traffic": "200+",
+      "name": "noskova",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "aston villa",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "grand theft auto vi",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "movie scene map",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "aek atenas",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "champions hoy",
-      "traffic": "500+",
       "rank": 5
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "sabalenka",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 7
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "aryna sabalenka",
-      "traffic": "2000+",
+      "name": "real madrid vs inter",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "covid-19",
-      "traffic": "500+",
+      "name": "aryna sabalenka",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
