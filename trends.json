@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T21:48:10Z",
+  "updated": "2026-09-09T22:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jugador de fútbol",
+      "name": "khachanov",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "moratoria",
-      "traffic": "100+",
+      "name": "axel kicillof",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "scott bessent",
+      "name": "estudiantes vs corinthians",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "estadio",
-      "traffic": "100+",
+      "name": "jugador de fútbol",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "palmeiras - ldu quito",
-      "traffic": "1000+",
+      "name": "moratoria",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "scott bessent",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "estadio",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "palmeiras - ldu quito",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "santos - atlético mineiro",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "miss austria 2024",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "morena rial",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "julián alvarez",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "clima cordoba",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
