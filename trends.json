@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T15:00:18Z",
+  "updated": "2026-09-09T15:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juegos suramericanos 2026",
-      "traffic": "200+",
+      "name": "fábrica",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clase media",
-      "traffic": "200+",
+      "name": "di maria",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "ángela leiva",
+      "name": "valeria mazza",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "juegos suramericanos 2026",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "clase media",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "ángela leiva",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "pocho lavezzi",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "anthropic",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "9 de septiembre",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "tn",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "apple",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "laudelina caso loan",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "cristina seoane",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
