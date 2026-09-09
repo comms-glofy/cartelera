@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T03:00:14Z",
+  "updated": "2026-09-09T03:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "enner valencia",
+      "name": "noelia marzol",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "resultado boca hoy",
-      "traffic": "200+",
+      "name": "enner valencia",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "velasco",
+      "name": "resultado boca hoy",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "sporting",
-      "traffic": "200+",
+      "name": "velasco",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "navarro tenista",
+      "name": "sporting",
       "traffic": "200+",
       "rank": 7
     },
     {
+      "name": "navarro tenista",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "puente festivo",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lozano boca",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "boca",
-      "traffic": "200000+",
       "rank": 10
     }
   ]
