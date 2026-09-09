@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T02:30:18Z",
+  "updated": "2026-09-09T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "enner valencia",
-      "traffic": "500+",
+      "name": "loan peña",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "boca partido",
+      "name": "como salio boca",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "partido",
-      "traffic": "2000+",
+      "name": "enner valencia",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "velasco",
-      "traffic": "100+",
+      "name": "resultado boca hoy",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "velasco",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "sporting",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "navarro tenista",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "puente festivo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
-      "name": "álvaro montero",
+      "name": "lozano boca",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "boca",
       "traffic": "200000+",
-      "rank": 9
-    },
-    {
-      "name": "gran hermano",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
