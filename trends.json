@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T21:00:16Z",
+  "updated": "2026-09-09T21:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico cordoba",
-      "traffic": "200+",
+      "name": "palmeiras - ldu quito",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "rangers fc",
-      "traffic": "100+",
+      "name": "santos - atlético mineiro",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "arsenal fc",
+      "name": "miss austria 2024",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sabrina rojas",
+      "name": "morena rial",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "estrecho de magallanes",
-      "traffic": "500+",
+      "name": "julián alvarez",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "ferran torres",
-      "traffic": "200+",
+      "name": "clima cordoba",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "parlamento",
+      "name": "tormenta helada",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "defensores de belgrano",
-      "traffic": "100+",
+      "name": "chile",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "barcola",
-      "traffic": "100+",
+      "name": "senado",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "racing paranaense",
-      "traffic": "200+",
+      "name": "sporting lisboa vs. galatasaray",
+      "traffic": "100+",
       "rank": 10
     }
   ]
