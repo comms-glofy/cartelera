@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T10:00:19Z",
+  "updated": "2026-09-09T10:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "victoria granatto",
-      "traffic": "2000+",
+      "name": "tiempo en santa fe",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pronostico santa fe",
+      "name": "longevidad",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima santa fe",
+      "name": "clima parana",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "loan peña",
+      "name": "victoria granatto",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "jacob coxon",
+      "name": "pronostico santa fe",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "como salio boca",
-      "traffic": "2000+",
+      "name": "clima santa fe",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "noelia marzol",
-      "traffic": "1000+",
+      "name": "us open",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "alan velasco",
-      "traffic": "100+",
+      "name": "loan peña",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "covid nueva variante",
-      "traffic": "2000+",
+      "name": "jacob coxon",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "sporting",
-      "traffic": "200+",
+      "name": "como salio boca",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
