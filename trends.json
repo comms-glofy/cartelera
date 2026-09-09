@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T06:19:06Z",
+  "updated": "2026-09-09T06:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "enner valencia",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
       "name": "sporting",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "navarro tenista",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "puente festivo",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "lozano boca",
+      "traffic": "200+",
       "rank": 10
     }
   ]
