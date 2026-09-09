@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T02:00:17Z",
+  "updated": "2026-09-09T02:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "resultado de boca",
+      "name": "enner valencia",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "velasco",
-      "traffic": "100+",
+      "name": "boca partido",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "sporting",
-      "traffic": "200+",
+      "name": "partido",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "navarro tenista",
+      "name": "velasco",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "merentiel",
+      "name": "sporting",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "puente festivo",
-      "traffic": "200+",
+      "name": "navarro tenista",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "puente festivo",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "álvaro montero",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "gran hermano",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "telefe",
-      "traffic": "1000+",
+      "name": "boca",
+      "traffic": "200000+",
       "rank": 9
     },
     {
-      "name": "robert arboleda",
-      "traffic": "200+",
+      "name": "gran hermano",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
