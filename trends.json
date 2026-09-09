@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-09T15:30:18Z",
+  "updated": "2026-09-09T15:51:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "fósil",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "fábrica",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "di maria",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "valeria mazza",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "juegos suramericanos 2026",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clase media",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ángela leiva",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pocho lavezzi",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "anthropic",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "9 de septiembre",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tn",
+      "name": "9 de septiembre",
       "traffic": "500+",
       "rank": 10
     }
