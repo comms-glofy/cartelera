@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T09:00:22Z",
+  "updated": "2026-09-09T09:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima santa fe",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "us open 2026",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
       "name": "ben shelton",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "loan peña",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "jacob coxon",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "cómo salió boca",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "como salio boca",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "noelia marzol",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "alan velasco",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "covid nueva variante",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "sporting",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "navarro tenista",
-      "traffic": "200+",
       "rank": 10
     }
   ]
