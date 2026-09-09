@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T16:00:20Z",
+  "updated": "2026-09-09T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela de tucumán",
-      "traffic": "200+",
+      "name": "barcelona - feyenoord",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "fósil",
-      "traffic": "100+",
+      "name": "elena rybakina",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "fábrica",
-      "traffic": "500+",
+      "name": "barcelona vs feyenoord",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "di maria",
-      "traffic": "2000+",
+      "name": "quiniela en vivo",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "valeria mazza",
+      "name": "quiniela de tucuman",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "juegos suramericanos 2026",
+      "name": "fósil",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clase media",
-      "traffic": "200+",
+      "name": "fábrica",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "ángela leiva",
-      "traffic": "200+",
+      "name": "di maria",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "pocho lavezzi",
-      "traffic": "100+",
+      "name": "valeria mazza",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "anthropic",
-      "traffic": "2000+",
+      "name": "juegos suramericanos 2026",
+      "traffic": "200+",
       "rank": 10
     }
   ]
