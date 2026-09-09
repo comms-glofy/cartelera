@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T20:00:16Z",
+  "updated": "2026-09-09T20:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "psg",
-      "traffic": "2000+",
+      "name": "estrecho de magallanes",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lee kang-in",
+      "name": "ferran torres",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ricardo darín",
+      "name": "racing paranaense",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "premio",
-      "traffic": "200+",
+      "name": "barcola",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "napoli vs",
-      "traffic": "200+",
+      "name": "parlamento",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "oriana sabatini",
+      "name": "defensores de belgrano",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "andreeva mirra",
-      "traffic": "100+",
+      "name": "napoli vs. arsenal",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "moreirense - benfica",
+      "name": "rio ngumoha",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "santiago bausili",
-      "traffic": "200+",
+      "name": "psg",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "atletico madrid",
-      "traffic": "5000+",
+      "name": "ricardo darín",
+      "traffic": "200+",
       "rank": 10
     }
   ]
