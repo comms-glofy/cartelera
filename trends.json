@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T08:00:20Z",
+  "updated": "2026-09-09T08:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "us open 2026",
+      "name": "ben shelton",
       "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "ben shelton",
-      "traffic": "5000+",
-      "rank": 2
-    },
-    {
       "name": "loan peña",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "jacob coxon",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "como salio boca",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "noelia marzol",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "alan velasco",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "covid nueva variante",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "sporting",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "navarro tenista",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "puente festivo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
