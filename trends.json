@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-09T20:30:20Z",
+  "updated": "2026-09-09T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estrecho de magallanes",
+      "name": "pronostico cordoba",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ferran torres",
-      "traffic": "200+",
+      "name": "rangers fc",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "racing paranaense",
-      "traffic": "200+",
+      "name": "arsenal fc",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "barcola",
+      "name": "sabrina rojas",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "estrecho de magallanes",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "ferran torres",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "parlamento",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "defensores de belgrano",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "napoli vs. arsenal",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "rio ngumoha",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "psg",
-      "traffic": "2000+",
+      "name": "barcola",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ricardo darín",
+      "name": "racing paranaense",
       "traffic": "200+",
       "rank": 10
     }
