@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T01:00:46Z",
+  "updated": "2026-09-09T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "espn",
-      "traffic": "500+",
+      "name": "álvaro montero",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "leonel flores",
-      "traffic": "200+",
+      "name": "puente festivo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "emma navarro",
-      "traffic": "500+",
+      "name": "lozano boca",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jessica pegula",
-      "traffic": "200+",
+      "name": "boca",
+      "traffic": "100000+",
       "rank": 4
     },
     {
-      "name": "alcaraz vs shelton",
-      "traffic": "200+",
+      "name": "gran hermano",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "juan cortese",
-      "traffic": "200+",
+      "name": "telefe",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "alcaraz",
-      "traffic": "1000+",
+      "name": "futbol en vivo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "meteored",
-      "traffic": "500+",
+      "name": "robert arboleda",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "wrexham - burnley",
-      "traffic": "100+",
+      "name": "brasileirao",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "boca juniors - são paulo",
-      "traffic": "200000+",
+      "name": "espn",
+      "traffic": "500+",
       "rank": 10
     }
   ]
