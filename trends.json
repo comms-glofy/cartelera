@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T17:00:17Z",
+  "updated": "2026-09-09T17:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "lanzamiento iphone 18",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "clima rio cuarto",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "harald v de noruega",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "barcelona",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "stuttgart - viking",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "salta",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "partidos de champions league",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "zheng qinwen",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "barcelona - feyenoord",
       "traffic": "20000+",
-      "rank": 5
-    },
-    {
-      "name": "elena rybakina",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "barcelona vs feyenoord",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "quiniela en vivo",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "quiniela de tucuman",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "fósil",
-      "traffic": "200+",
+      "name": "rybakina",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
