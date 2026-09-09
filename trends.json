@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-09T10:30:16Z",
+  "updated": "2026-09-09T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo en santa fe",
+      "name": "clima rafaela",
       "traffic": "100+",
       "rank": 1
     },
@@ -15,7 +15,7 @@
     },
     {
       "name": "clima parana",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -24,13 +24,13 @@
       "rank": 4
     },
     {
-      "name": "pronostico santa fe",
-      "traffic": "200+",
+      "name": "clima santa fe",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "clima santa fe",
-      "traffic": "500+",
+      "name": "glaciar",
+      "traffic": "200+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "loan peña",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
       "name": "jacob coxon",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "como salio boca",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "noelia marzol",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
