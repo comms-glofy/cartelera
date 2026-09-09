@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-09T09:30:18Z",
+  "updated": "2026-09-09T10:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima santa fe",
-      "traffic": "100+",
+      "name": "victoria granatto",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "us open 2026",
-      "traffic": "5000+",
+      "name": "pronostico santa fe",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ben shelton",
-      "traffic": "5000+",
+      "name": "clima santa fe",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "cómo salió boca",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
       "name": "como salio boca",
-      "traffic": "1000+",
-      "rank": 7
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "noelia marzol",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "alan velasco",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "covid nueva variante",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "sporting",
+      "traffic": "200+",
       "rank": 10
     }
   ]
