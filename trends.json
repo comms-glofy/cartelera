@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T12:30:17Z",
+  "updated": "2026-09-09T13:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,12 +14,12 @@
       "rank": 2
     },
     {
-      "name": "cronica",
-      "traffic": "200+",
+      "name": "tn",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "tn",
+      "name": "apple",
       "traffic": "500+",
       "rank": 4
     },
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "apple",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
       "name": "cristina seoane",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "club deportivo eldense",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "clima rafaela",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "pronostico parana",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "longevidad",
       "traffic": "200+",
       "rank": 10
     }
