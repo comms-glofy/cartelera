@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T03:30:18Z",
+  "updated": "2026-09-09T04:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "loan peña",
-      "traffic": "1000+",
+      "name": "ben shelton",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "como salio boca",
-      "traffic": "500+",
+      "name": "loan peña",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "noelia marzol",
+      "name": "como salio boca",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "enner valencia",
+      "name": "noelia marzol",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "resultado boca hoy",
-      "traffic": "500+",
+      "name": "covid nueva variante",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "enner valencia",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "velasco",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sporting",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "navarro tenista",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "puente festivo",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "lozano boca",
-      "traffic": "200+",
       "rank": 10
     }
   ]
