@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T00:30:19Z",
+  "updated": "2026-09-09T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juan cortese",
-      "traffic": "200+",
+      "name": "espn",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "alcaraz vs shelton",
-      "traffic": "100+",
+      "name": "leonel flores",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "alcaraz",
+      "name": "emma navarro",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "jessica pegula",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "alcaraz vs shelton",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "juan cortese",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "alcaraz",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "meteored",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "wrexham - burnley",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "boca juniors - são paulo",
-      "traffic": "100000+",
-      "rank": 6
-    },
-    {
-      "name": "justicia",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "san pablo fc",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "peugeot partner rapid",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "vasco",
-      "traffic": "200+",
+      "name": "boca juniors - são paulo",
+      "traffic": "200000+",
       "rank": 10
     }
   ]
