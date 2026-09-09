@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T04:30:16Z",
+  "updated": "2026-09-09T05:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "alan velasco",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
       "name": "covid nueva variante",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "enner valencia",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "sporting",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "navarro tenista",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "puente festivo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
