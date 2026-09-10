@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T22:30:17Z",
+  "updated": "2026-09-10T23:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "samuel liberman",
-      "traffic": "100+",
+      "name": "caso loan",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "jubilación",
-      "traffic": "2000+",
+      "name": "beca",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "benjamín netanyahu",
-      "traffic": "200+",
+      "name": "muerte",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "restaurante",
+      "name": "samuel liberman",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "marc overmars",
-      "traffic": "100+",
+      "name": "jubilación",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "aerolínea",
-      "traffic": "100+",
+      "name": "benjamín netanyahu",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cine",
+      "name": "restaurante",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "vehículo submarino autónomo",
-      "traffic": "200+",
+      "name": "marc overmars",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "diego leuco",
+      "name": "aerolínea",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "madre",
-      "traffic": "2000+",
+      "name": "vehículo submarino autónomo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
