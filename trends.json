@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T05:00:22Z",
+  "updated": "2026-09-10T05:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "mls",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
       "name": "charlie kirk",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "nueva honda biz 110",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "pronostico caba",
+      "traffic": "500+",
       "rank": 10
     }
   ]
