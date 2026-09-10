@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T07:00:18Z",
+  "updated": "2026-09-10T07:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quini 6 sorteo 3407",
-      "traffic": "10000+",
-      "rank": 1
-    },
-    {
       "name": "10 de septiembre",
       "traffic": "100+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "physint",
       "traffic": "500+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "nadia podoroska",
       "traffic": "100+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "clima la plata",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "lionel messi",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "quien se fue de gran hermano",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
-      "name": "inter de miami",
-      "traffic": "1000+",
-      "rank": 8
+      "name": "marina calabro",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "marina calabró",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "clima quilmes",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "mls",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
