@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T03:00:17Z",
+  "updated": "2026-09-10T03:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marina calabró",
-      "traffic": "1000+",
+      "name": "physint",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima quilmes",
-      "traffic": "200+",
+      "name": "nadia podoroska",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "quien se va de gran hermano hoy",
+      "name": "clima la plata",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "charlie kirk",
-      "traffic": "100+",
+      "name": "quien se fue de gran hermano hoy",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "nueva honda biz 110",
-      "traffic": "100+",
+      "name": "marina calabró",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "pronostico caba",
-      "traffic": "500+",
+      "name": "clima quilmes",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "américa - deportivo pereira",
+      "name": "charlie kirk",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "zverev",
-      "traffic": "2000+",
+      "name": "nueva honda biz 110",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "inter miami cf",
+      "name": "pronostico caba",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "van de zandschulp",
-      "traffic": "100+",
+      "name": "américa - deportivo pereira",
+      "traffic": "200+",
       "rank": 10
     }
   ]
