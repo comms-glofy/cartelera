@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T21:45:25Z",
+  "updated": "2026-09-10T22:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "madre",
+      "name": "vehículo submarino autónomo",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "diego leuco",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "madre",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "malcolm marx",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "independiente del valle",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "hija",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "puente festivo",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "carlos melconian",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "al-nassr football club",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima mar del plata",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "lisandro martínez",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "manchester united",
-      "traffic": "1000+",
+      "name": "como vs. rb leipzig",
+      "traffic": "200+",
       "rank": 10
     }
   ]
