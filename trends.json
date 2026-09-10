@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-10T16:52:26Z",
+  "updated": "2026-09-10T17:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "loan",
-      "traffic": "100+",
+      "name": "roma",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "luis zahera",
+      "name": "militar",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fenerbahçe - roma",
-      "traffic": "1000+",
+      "name": "loan",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "luis zahera",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "fenerbahçe - roma",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "2026",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "basura",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "fenerbahçe",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "soberanía",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "patricia bullrich",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "psv",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "fiesta del cine",
+      "name": "psv",
       "traffic": "200+",
       "rank": 10
     }
