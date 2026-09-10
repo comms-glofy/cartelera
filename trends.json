@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T02:00:17Z",
+  "updated": "2026-09-10T02:30:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami cf",
+      "name": "mls",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "van de zandschulp",
-      "traffic": "100+",
+      "name": "quien se va de gran hermano hoy",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "garro",
-      "traffic": "200+",
+      "name": "charlie kirk",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima moreno",
+      "name": "pronostico caba",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "quiniela nocturna",
-      "traffic": "500+",
+      "name": "nueva honda biz 110",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "depay",
+      "name": "américa - deportivo pereira",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "victoria fraga",
+      "name": "inter miami cf",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "rodrigo battaglia",
-      "traffic": "100+",
+      "name": "zverev",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "memphis depay",
-      "traffic": "500+",
+      "name": "van de zandschulp",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "hakim ziyech",
-      "traffic": "200+",
+      "name": "clima moreno",
+      "traffic": "500+",
       "rank": 10
     }
   ]
