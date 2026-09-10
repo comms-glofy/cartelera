@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T07:50:26Z",
+  "updated": "2026-09-10T08:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "marina calabro",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "marina calabró",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "clima quilmes",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "mls",
-      "traffic": "1000+",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "charlie kirk",
+      "traffic": "500+",
       "rank": 10
     }
   ]
