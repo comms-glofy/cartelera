@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T03:30:17Z",
+  "updated": "2026-09-10T04:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "10 de septiembre",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "physint",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "nadia podoroska",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima la plata",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "quien se fue de gran hermano hoy",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "marina calabró",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima quilmes",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "charlie kirk",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nueva honda biz 110",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico caba",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "américa - deportivo pereira",
-      "traffic": "200+",
+      "name": "rodrigo garro",
+      "traffic": "500+",
       "rank": 10
     }
   ]
