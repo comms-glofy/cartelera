@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T09:30:19Z",
+  "updated": "2026-09-10T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "14 de septiembre",
+      "name": "amalia granata",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "10 de septiembre",
-      "traffic": "100+",
+      "name": "loto plus",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "physint",
-      "traffic": "500+",
+      "name": "lotería",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "nadia podoroska",
+      "name": "14 de septiembre",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima la plata",
-      "traffic": "200+",
+      "name": "10 de septiembre",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "lionel messi",
-      "traffic": "10000+",
+      "name": "physint",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "nadia podoroska",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "clima la plata",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "quien se fue de gran hermano",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "marina calabró",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "clima quilmes",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mls",
-      "traffic": "1000+",
+      "name": "marina calabro",
+      "traffic": "200+",
       "rank": 10
     }
   ]
