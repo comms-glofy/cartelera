@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T00:00:16Z",
+  "updated": "2026-09-10T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chicago fire - inter miami",
+      "name": "pipino cuevas",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "toronto - nashville sc",
+      "name": "luis juez",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alibaba",
-      "traffic": "200+",
+      "name": "yanina zilli",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "montréal - charlotte fc",
-      "traffic": "200+",
+      "name": "joaquín furriel",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fortaleza",
-      "traffic": "100+",
+      "name": "chicago fire - inter miami",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "estudiantes",
-      "traffic": "5000+",
+      "name": "toronto - nashville sc",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "botic van de zandschulp",
+      "name": "alibaba",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dólar estadounidense",
-      "traffic": "2000+",
+      "name": "montréal - charlotte fc",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "valentín barco",
-      "traffic": "200+",
+      "name": "fortaleza",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "diego hartfield",
-      "traffic": "100+",
+      "name": "estudiantes",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
