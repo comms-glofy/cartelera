@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T12:40:11Z",
+  "updated": "2026-09-10T13:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kevin zenón",
+      "name": "clima formosa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "javier bardem",
-      "traffic": "100+",
+      "name": "kevin zenón",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "11 de septiembre es feriado en argentina",
+      "name": "javier bardem",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "salud de mirtha legrand",
-      "traffic": "200+",
+      "name": "11 de septiembre es feriado en argentina",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "pablo longoria",
+      "name": "salud de mirtha legrand",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gabriel rolón",
+      "name": "pablo longoria",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "10 de septiembre que se celebra",
+      "name": "gabriel rolón",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "camionero",
+      "name": "10 de septiembre que se celebra",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "decreto",
-      "traffic": "500+",
+      "name": "camionero",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "turgutluspor",
-      "traffic": "100+",
+      "name": "decreto",
+      "traffic": "500+",
       "rank": 10
     }
   ]
