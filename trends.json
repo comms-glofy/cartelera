@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-10T10:00:18Z",
+  "updated": "2026-09-10T10:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "amalia granata",
+      "name": "mauro icardi",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "luciana salazar",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "amalia granata",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "loto plus",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "lotería",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "14 de septiembre",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "10 de septiembre",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "physint",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "nadia podoroska",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima la plata",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "quien se fue de gran hermano",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "marina calabro",
+      "name": "clima la plata",
       "traffic": "200+",
       "rank": 10
     }
