@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T01:00:16Z",
+  "updated": "2026-09-10T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "victoria fraga",
-      "traffic": "100+",
+      "name": "clima moreno",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "memphis depay",
-      "traffic": "200+",
+      "name": "quini 6 hoy",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "seahawks - patriots",
+      "name": "depay",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "edlp",
+      "name": "victoria fraga",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "hakim ziyech",
+      "name": "memphis depay",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "alexander zverev",
-      "traffic": "1000+",
+      "name": "edlp",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "seahawks - patriots",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "hakim ziyech",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "alexander zverev",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "pipino cuevas",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "luis juez",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "yanina zilli",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "joaquín furriel",
-      "traffic": "100+",
       "rank": 10
     }
   ]
