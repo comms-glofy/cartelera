@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T14:00:16Z",
+  "updated": "2026-09-10T14:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gal gadot",
-      "traffic": "200+",
+      "name": "aerolineas argentinas",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "encuesta",
-      "traffic": "500+",
+      "name": "aerolineas",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "james gunn",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "renault niagara",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "colegio emaus",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "gal gadot",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "encuesta",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "clima formosa",
       "traffic": "200+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "kevin zenón",
       "traffic": "500+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "javier bardem",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "harry styles",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "salud de mirtha legrand",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "pablo longoria",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "gabriel rolón",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "10 de septiembre que se celebra",
-      "traffic": "500+",
       "rank": 10
     }
   ]
