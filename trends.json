@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:00:20Z",
+  "updated": "2026-09-10T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -25,12 +25,12 @@
     },
     {
       "name": "como fc",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "leonardo balerdi",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "bayern munich",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 10
     }
   ]
