@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T09:00:23Z",
+  "updated": "2026-09-10T09:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "10 de septiembre",
+      "name": "14 de septiembre",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "10 de septiembre",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "physint",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "nadia podoroska",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima la plata",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lionel messi",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "quien se fue de gran hermano",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "marina calabró",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima quilmes",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mls",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "charlie kirk",
-      "traffic": "500+",
       "rank": 10
     }
   ]
