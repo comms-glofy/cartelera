@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T12:00:18Z",
+  "updated": "2026-09-10T12:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "salud de mirtha legrand",
+      "name": "11 de septiembre es feriado en argentina",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "salud de mirtha legrand",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "pablo longoria",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "gabriel rolón",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "10 de septiembre que se celebra",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "camionero",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "decreto",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "turgutluspor",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "mauro icardi",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "luciana salazar",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "amalia granata",
+      "name": "mauro icardi",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "lotería",
-      "traffic": "10000+",
+      "name": "luciana salazar",
+      "traffic": "200+",
       "rank": 10
     }
   ]
