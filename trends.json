@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T21:30:18Z",
+  "updated": "2026-09-10T21:45:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "puente festivo",
-      "traffic": "100+",
+      "name": "madre",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima mar del plata",
+      "name": "malcolm marx",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "manchester united",
-      "traffic": "1000+",
+      "name": "independiente del valle",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lens vs",
-      "traffic": "100+",
+      "name": "hija",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "bayer",
+      "name": "puente festivo",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima santiago del estero",
-      "traffic": "100+",
+      "name": "carlos melconian",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "leipzig",
+      "name": "al-nassr football club",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "panathinaikos",
-      "traffic": "100+",
+      "name": "clima mar del plata",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "bayern vs",
+      "name": "lisandro martínez",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "leonardo balerdi",
-      "traffic": "200+",
+      "name": "manchester united",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
