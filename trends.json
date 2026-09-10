@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-10T21:00:18Z",
+  "updated": "2026-09-10T21:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mar del plata",
-      "traffic": "200+",
+      "name": "puente festivo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lisandro martínez",
-      "traffic": "100+",
+      "name": "clima mar del plata",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
-      "name": "panathinaikos",
+      "name": "bayer",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "bayern vs",
-      "traffic": "500+",
+      "name": "clima santiago del estero",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "carlos horacio salinas",
-      "traffic": "500+",
+      "name": "leipzig",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "leonardo balerdi",
-      "traffic": "200+",
+      "name": "panathinaikos",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "como fc",
-      "traffic": "200+",
+      "name": "bayern vs",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "especie invasora",
+      "name": "leonardo balerdi",
       "traffic": "200+",
       "rank": 10
     }
