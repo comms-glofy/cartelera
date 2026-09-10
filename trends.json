@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T11:30:16Z",
+  "updated": "2026-09-10T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gabriel rolón",
+      "name": "salud de mirtha legrand",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "10 de septiembre que se celebra",
+      "name": "pablo longoria",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "decreto",
+      "name": "gabriel rolón",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "turgutluspor",
+      "name": "10 de septiembre que se celebra",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "mauro icardi",
+      "name": "decreto",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "turgutluspor",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "mauro icardi",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "luciana salazar",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "amalia granata",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "lotería",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "loto plus",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "14 de septiembre",
-      "traffic": "200+",
       "rank": 10
     }
   ]
