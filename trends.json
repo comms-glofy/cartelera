@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T23:00:19Z",
+  "updated": "2026-09-10T23:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "roberto mouzo",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "clima san luis",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "caso loan",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "name": "club atlético tucumán",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "muerte",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "beca",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 6
     },
     {
-      "name": "muerte",
-      "traffic": "100+",
-      "rank": 3
+      "name": "club estudiantes de la plata",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "samuel liberman",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "jubilación",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "benjamín netanyahu",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "restaurante",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "marc overmars",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "aerolínea",
-      "traffic": "100+",
+      "name": "jubilación",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "vehículo submarino autónomo",
-      "traffic": "200+",
+      "name": "restaurante",
+      "traffic": "500+",
       "rank": 10
     }
   ]
