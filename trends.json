@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T11:00:18Z",
+  "updated": "2026-09-10T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "decreto",
-      "traffic": "200+",
+      "name": "gabriel rolón",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "turgutluspor",
+      "name": "10 de septiembre que se celebra",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mauro icardi",
+      "name": "decreto",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "luciana salazar",
+      "name": "turgutluspor",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "amalia granata",
+      "name": "mauro icardi",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "luciana salazar",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "amalia granata",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "lotería",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "loto plus",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "14 de septiembre",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "10 de septiembre",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "physint",
-      "traffic": "500+",
       "rank": 10
     }
   ]
