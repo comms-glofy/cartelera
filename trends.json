@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T15:00:17Z",
+  "updated": "2026-09-10T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "virus",
-      "traffic": "100+",
+      "name": "club atlético independiente",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "aerolíneas argentinas",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "meteored",
+      "traffic": "200000+",
+      "rank": 3
+    },
+    {
+      "name": "virus",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "madring",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "devaluación",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "salud mental",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "aerolineas argentinas",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "aerolineas",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "james gunn",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "renault niagara",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "colegio emaus",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "gal gadot",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "encuesta",
-      "traffic": "1000+",
+      "name": "james gunn",
+      "traffic": "500+",
       "rank": 10
     }
   ]
