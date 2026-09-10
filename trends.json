@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-10T19:30:16Z",
+  "updated": "2026-09-10T20:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos horacio salinas",
+      "name": "clima cordoba",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bayern vs",
-      "traffic": "200+",
+      "name": "panathinaikos",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "leonardo balerdi",
-      "traffic": "100+",
+      "name": "carlos horacio salinas",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "especie invasora",
-      "traffic": "100+",
+      "name": "bayern vs",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "drive",
+      "name": "leonardo balerdi",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "inflacion",
-      "traffic": "2000+",
+      "name": "especie invasora",
+      "traffic": "100+",
       "rank": 7
+    },
+    {
+      "name": "drive",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "bayern",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "bayern munich",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "rodrigo mora",
-      "traffic": "100+",
       "rank": 10
     }
   ]
