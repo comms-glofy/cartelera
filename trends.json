@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T23:30:20Z",
+  "updated": "2026-09-10T23:40:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "roberto mouzo",
-      "traffic": "200+",
+      "name": "sabalenka",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clima san luis",
+      "name": "roberto mouzo",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "clima san luis",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "caso loan",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "club atlético tucumán",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "muerte",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "beca",
+      "name": "muerte",
       "traffic": "1000+",
       "rank": 6
     },
     {
+      "name": "beca",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "club estudiantes de la plata",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "samuel liberman",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "jubilación",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "restaurante",
-      "traffic": "500+",
       "rank": 10
     }
   ]
