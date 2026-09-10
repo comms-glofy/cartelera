@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-09T23:47:35Z",
+  "updated": "2026-09-10T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "montréal - charlotte fc",
+      "name": "chicago fire - inter miami",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fortaleza",
+      "name": "toronto - nashville sc",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "estudiantes",
-      "traffic": "2000+",
+      "name": "alibaba",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "botic van de zandschulp",
+      "name": "montréal - charlotte fc",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "fortaleza",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "estudiantes",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "botic van de zandschulp",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "dólar estadounidense",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "valentín barco",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "diego hartfield",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "balón de oro",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "atlanta united - orlando city",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "metrotel argentina",
-      "traffic": "200+",
       "rank": 10
     }
   ]
