@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-10T16:30:21Z",
+  "updated": "2026-09-10T16:52:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luis zahera",
-      "traffic": "200+",
+      "name": "loan",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fenerbahçe - roma",
-      "traffic": "500+",
+      "name": "luis zahera",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "2026",
+      "name": "fenerbahçe - roma",
       "traffic": "1000+",
       "rank": 3
     },
     {
+      "name": "2026",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "basura",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "fenerbahçe",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "soberanía",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "psv",
-      "traffic": "200+",
       "rank": 7
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "fiesta del cine",
+      "name": "psv",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ipc agosto 2026",
+      "name": "fiesta del cine",
       "traffic": "200+",
       "rank": 10
     }
