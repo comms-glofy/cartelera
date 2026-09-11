@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T04:30:17Z",
+  "updated": "2026-09-11T05:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "crimen",
-      "traffic": "500+",
+      "name": "cienciano",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "cienciano",
-      "traffic": "2000+",
+      "name": "crimen",
+      "traffic": "500+",
       "rank": 10
     }
   ]
