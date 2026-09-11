@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T21:00:17Z",
+  "updated": "2026-09-11T21:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sandra pettovello",
-      "traffic": "500+",
+      "name": "crisis",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mateo pellegrino",
+      "name": "gal gadot",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dara khosrowshahi",
-      "traffic": "200+",
+      "name": "bebé",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "boca vs central cordoba",
-      "traffic": "500+",
+      "name": "sheyko studer",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "serie a",
-      "traffic": "500+",
+      "name": "sandra pettovello",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "khachanov",
+      "name": "mateo pellegrino",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ejército mexicano",
-      "traffic": "100+",
+      "name": "dara khosrowshahi",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "columbus crew",
+      "name": "boca vs central cordoba",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "gastón edul",
-      "traffic": "200+",
+      "name": "zverev",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "alexander zverev",
-      "traffic": "2000+",
+      "name": "khachanov",
+      "traffic": "500+",
       "rank": 10
     }
   ]
