@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T18:30:16Z",
+  "updated": "2026-09-11T19:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "venezia - fiorentina",
-      "traffic": "500+",
+      "name": "unión cuba petróleo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sevilla - valencia c. f.",
-      "traffic": "500+",
+      "name": "west ham - wrexham",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "az alkmaar",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "sevilla - valencia c. f.",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "venezia - fiorentina",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "voluntariado",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "puente festivo",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "voluntariado",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "enriquecimiento ilícito",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "crédito",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "jubilaciones",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "gobierno",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "desierto del sahara",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "diego maradona",
-      "traffic": "500+",
+      "name": "accidente",
+      "traffic": "200+",
       "rank": 10
     }
   ]
