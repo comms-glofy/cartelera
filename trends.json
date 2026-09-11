@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T02:30:15Z",
+  "updated": "2026-09-11T02:49:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "narcolepsia",
-      "traffic": "100+",
+      "name": "bolivar",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "polémica",
+      "name": "narcolepsia",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "polémica",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "millonarios",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "cienciano",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "crimen",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "rams - 49ers",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "rybakina",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "atlético nacional",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "fausto vera",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "millonarios - deportivo cali",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
