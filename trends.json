@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-11T00:00:18Z",
+  "updated": "2026-09-11T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "premio",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "crucero del norte",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "guillermo moreno",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "aryna sabalenka",
-      "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "vélez",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "torres gemelas",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "sabalenka",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "roberto mouzo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima san luis",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "caso loan",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "club atlético tucumán",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "muerte",
+      "name": "caso loan",
       "traffic": "1000+",
       "rank": 10
     }
