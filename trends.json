@@ -1,31 +1,31 @@
 {
-  "updated": "2026-09-11T12:33:13Z",
+  "updated": "2026-09-11T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "que dia es hoy",
-      "traffic": "100+",
+      "name": "luciana geuna",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "encuesta",
-      "traffic": "500+",
+      "name": "clima mendoza",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "que dia es hoy",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "encuesta",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "disney",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "dia del docente",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "aumento jubilados",
-      "traffic": "5000+",
       "rank": 5
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "poceada chaqueña",
-      "traffic": "100+",
+      "name": "11 de septiembre dia del maestro",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
