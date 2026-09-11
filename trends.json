@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T17:00:19Z",
+  "updated": "2026-09-11T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fifa",
+      "name": "besiktas",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "al-faisaly - al ittihad",
+      "name": "diego maradona",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "jubilación mínima",
-      "traffic": "5000+",
+      "name": "jennifer lawrence",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bandera",
+      "name": "al-nassr football club",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "avenida santa fe",
-      "traffic": "2000+",
+      "name": "mundial sub 20 femenino",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "astrid de noruega",
-      "traffic": "500+",
+      "name": "fifa",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "fernando alonso",
+      "name": "al-faisaly - al ittihad",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "fundación princesa de asturias",
-      "traffic": "500+",
+      "name": "jubilación mínima",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "caballito",
+      "name": "bandera",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "sele vera accidente",
-      "traffic": "200+",
+      "name": "avenida santa fe",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
