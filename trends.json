@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T10:00:18Z",
+  "updated": "2026-09-11T10:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronóstico del tiempo",
-      "traffic": "100+",
+      "name": "f1 horarios",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clima corrientes",
+      "name": "poceada chaqueña",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "club atlético boca juniors",
-      "traffic": "500+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 3
     },
     {
-      "name": "clima neuquen",
+      "name": "pronóstico del tiempo",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "ciclogénesis",
+      "name": "clima corrientes",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "creatina",
-      "traffic": "100+",
+      "name": "club atlético boca juniors",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "pronostico cordoba",
+      "name": "clima neuquen",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pumas - león",
+      "name": "ciclogénesis",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "bolivar",
-      "traffic": "200+",
+      "name": "creatina",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "narcolepsia",
-      "traffic": "100+",
+      "name": "pumas - león",
+      "traffic": "500+",
       "rank": 10
     }
   ]
