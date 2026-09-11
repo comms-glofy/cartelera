@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T04:00:17Z",
+  "updated": "2026-09-11T04:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo en cordoba",
-      "traffic": "2000+",
-      "rank": 1
-    },
-    {
       "name": "creatina",
       "traffic": "100+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "11 de septiembre",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "pronostico cordoba",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "pumas - león",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "bolivar",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "narcolepsia",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "polémica",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "ludovico di santo",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "crimen",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "cienciano",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
