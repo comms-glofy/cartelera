@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T18:00:16Z",
+  "updated": "2026-09-11T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jubilaciones",
-      "traffic": "5000+",
+      "name": "venezia - fiorentina",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "gobierno",
+      "name": "sevilla - valencia c. f.",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "al-nassr football club",
+      "name": "puente festivo",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "besiktas",
-      "traffic": "200+",
+      "name": "voluntariado",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "desierto del sahara",
+      "name": "enriquecimiento ilícito",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "diego maradona",
-      "traffic": "200+",
+      "name": "crédito",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "jennifer lawrence",
-      "traffic": "200+",
+      "name": "jubilaciones",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "mundial sub 20 femenino",
-      "traffic": "200+",
+      "name": "gobierno",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "fifa",
+      "name": "desierto del sahara",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "al-faisaly - al ittihad",
-      "traffic": "200+",
+      "name": "diego maradona",
+      "traffic": "500+",
       "rank": 10
     }
   ]
