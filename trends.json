@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-10T23:40:20Z",
+  "updated": "2026-09-11T00:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sabalenka",
-      "traffic": "500+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 1
     },
     {
-      "name": "roberto mouzo",
+      "name": "guillermo moreno",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima san luis",
-      "traffic": "200+",
+      "name": "aryna sabalenka",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "caso loan",
-      "traffic": "1000+",
+      "name": "vélez",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "club atlético tucumán",
+      "name": "torres gemelas",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "muerte",
-      "traffic": "1000+",
+      "name": "roberto mouzo",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "beca",
-      "traffic": "1000+",
+      "name": "clima san luis",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "club estudiantes de la plata",
-      "traffic": "5000+",
+      "name": "caso loan",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "samuel liberman",
-      "traffic": "200+",
+      "name": "club atlético tucumán",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "jubilación",
-      "traffic": "5000+",
+      "name": "muerte",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
