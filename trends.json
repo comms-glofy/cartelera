@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T16:00:17Z",
+  "updated": "2026-09-11T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "al-faisaly - al ittihad",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "jubilación mínima",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "bandera",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "avenida santa fe",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "astrid de noruega",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "fernando alonso",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "fundación princesa de asturias",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "caballito",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "sele vera accidente",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "sandra bullock",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "luciana geuna",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
