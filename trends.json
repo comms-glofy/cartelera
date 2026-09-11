@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T21:49:46Z",
+  "updated": "2026-09-11T22:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "natalia pastorutti",
+      "name": "francisco paoltroni",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "defensa y justicia - gimnasia y esgrima",
-      "traffic": "1000+",
+      "name": "minería",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "natalia pastorutti",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "defensa y justicia - gimnasia y esgrima",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "mercado cambiario",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "reelección",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "crisis",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "gal gadot",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "fiorentina fc",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "bebé",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "sheyko studer",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "sandra pettovello",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "dara khosrowshahi",
-      "traffic": "500+",
       "rank": 10
     }
   ]
