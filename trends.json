@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T12:00:17Z",
+  "updated": "2026-09-11T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "encuesta",
-      "traffic": "200+",
+      "name": "que dia es hoy",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "disney",
+      "name": "encuesta",
       "traffic": "500+",
       "rank": 2
     },
     {
+      "name": "disney",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "dia del docente",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "aumento jubilados",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "madring",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "inteligencia artificial",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "entre ríos",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "dia del maestro argentina",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "poceada chaqueña",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "horarios f1",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "clima",
-      "traffic": "200000+",
-      "rank": 8
-    },
-    {
-      "name": "pronóstico del tiempo",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "clima corrientes",
-      "traffic": "200+",
       "rank": 10
     }
   ]
