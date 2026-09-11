@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T09:00:56Z",
+  "updated": "2026-09-11T09:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ciclogénesis",
-      "traffic": "200+",
+      "name": "club atlético boca juniors",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "creatina",
+      "name": "clima neuquen",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pronostico cordoba",
+      "name": "ciclogénesis",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "creatina",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "11 de septiembre",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "pronostico cordoba",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "pumas - león",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "bolivar",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "narcolepsia",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "polémica",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "ludovico di santo",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "millonarios",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "cienciano",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
