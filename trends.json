@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T01:00:20Z",
+  "updated": "2026-09-11T01:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "millonarios - deportivo cali",
-      "traffic": "200+",
+      "name": "jamie carragher",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "premio",
+      "name": "cienciano vs",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "crucero del norte",
+      "name": "rams - 49ers",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "rybakina",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "guillermo moreno",
-      "traffic": "500+",
+      "name": "atlético nacional",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "vélez",
-      "traffic": "1000+",
+      "name": "fausto vera",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "torres gemelas",
-      "traffic": "100+",
+      "name": "millonarios - deportivo cali",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "sabalenka",
-      "traffic": "5000+",
+      "name": "premio",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "roberto mouzo",
+      "name": "crucero del norte",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima san luis",
-      "traffic": "200+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 10
     }
   ]
