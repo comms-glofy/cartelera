@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T17:30:14Z",
+  "updated": "2026-09-11T18:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "besiktas",
-      "traffic": "200+",
+      "name": "jubilaciones",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "diego maradona",
-      "traffic": "200+",
+      "name": "gobierno",
+      "traffic": "500+",
       "rank": 2
-    },
-    {
-      "name": "jennifer lawrence",
-      "traffic": "200+",
-      "rank": 3
     },
     {
       "name": "al-nassr football club",
       "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "besiktas",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "mundial sub 20 femenino",
+      "name": "desierto del sahara",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "fifa",
+      "name": "diego maradona",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "al-faisaly - al ittihad",
+      "name": "jennifer lawrence",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jubilación mínima",
-      "traffic": "5000+",
+      "name": "mundial sub 20 femenino",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "bandera",
+      "name": "fifa",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "avenida santa fe",
-      "traffic": "5000+",
+      "name": "al-faisaly - al ittihad",
+      "traffic": "200+",
       "rank": 10
     }
   ]
