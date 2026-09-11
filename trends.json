@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T19:00:17Z",
+  "updated": "2026-09-11T19:25:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "unión cuba petróleo",
-      "traffic": "100+",
+      "name": "el niño",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "west ham - wrexham",
+      "name": "newell's - vélez",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "az alkmaar",
-      "traffic": "200+",
+      "name": "fiorentina vs",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sevilla - valencia c. f.",
-      "traffic": "1000+",
+      "name": "sevilla",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "venezia - fiorentina",
-      "traffic": "1000+",
+      "name": "union berlin",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "voluntariado",
-      "traffic": "200+",
+      "name": "unión cuba petróleo",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "puente festivo",
+      "name": "west ham - wrexham",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "enriquecimiento ilícito",
-      "traffic": "100+",
+      "name": "gran premio de españa",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "crédito",
-      "traffic": "1000+",
+      "name": "az alkmaar",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "accidente",
-      "traffic": "200+",
+      "name": "venezia - fiorentina",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
