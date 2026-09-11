@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T15:30:19Z",
+  "updated": "2026-09-11T16:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "avenida santa fe",
-      "traffic": "200+",
+      "name": "jubilación mínima",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "astrid de noruega",
+      "name": "bandera",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fernando alonso",
-      "traffic": "100+",
+      "name": "avenida santa fe",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "astrid de noruega",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "fernando alonso",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "fundación princesa de asturias",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "caballito",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "sele vera accidente",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "sandra bullock",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "luciana geuna",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "clima mendoza",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "que dia es hoy",
-      "traffic": "500+",
       "rank": 10
     }
   ]
