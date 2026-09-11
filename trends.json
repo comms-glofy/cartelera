@@ -1,46 +1,46 @@
 {
-  "updated": "2026-09-11T15:00:55Z",
+  "updated": "2026-09-11T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "astrid de noruega",
-      "traffic": "100+",
+      "name": "avenida santa fe",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "astrid de noruega",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "fernando alonso",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "fundación princesa de asturias",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "caballito",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "sele vera accidente",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "sandra bullock",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "luciana geuna",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "hoy es el dia de",
-      "traffic": "100+",
       "rank": 8
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "que dia es hoy",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 10
     }
   ]
