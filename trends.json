@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T20:00:17Z",
+  "updated": "2026-09-11T20:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gastón edul",
-      "traffic": "200+",
+      "name": "dara khosrowshahi",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "boca vs central cordoba",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "serie a",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "khachanov",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "columbus crew",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "gastón edul",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "colombia",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "ocupación británica de las islas malvinas",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "newell's - vélez",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "fiorentina",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "el niño",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "fiorentina vs",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "sevilla",
-      "traffic": "200+",
+      "name": "newell's - vélez",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
