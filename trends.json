@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T23:30:17Z",
+  "updated": "2026-09-11T23:51:04Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dinero",
-      "traffic": "100+",
+      "name": "islas malvinas",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "eliana guercio",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "nelson castro",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "coritiba - paranaense",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "dinero",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "selección de fútbol de ecuador",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
     },
     {
-      "name": "clima buenos aires",
-      "traffic": "500+",
-      "rank": 3
+      "name": "unitas",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "cotización dólar blue",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "clima caba",
-      "traffic": "200000+",
-      "rank": 5
-    },
-    {
-      "name": "pampita",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "película",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "cande vetrano",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "torneo argentino",
-      "traffic": "200+",
+      "name": "clima buenos aires",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "zverev hoy",
-      "traffic": "100+",
+      "name": "clima caba",
+      "traffic": "500+",
       "rank": 10
     }
   ]
