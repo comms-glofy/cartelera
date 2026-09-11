@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T20:30:22Z",
+  "updated": "2026-09-11T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dara khosrowshahi",
-      "traffic": "100+",
+      "name": "sandra pettovello",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "mateo pellegrino",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "dara khosrowshahi",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "boca vs central cordoba",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "serie a",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "khachanov",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "columbus crew",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "gastón edul",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "alexander zverev",
-      "traffic": "1000+",
+      "name": "ejército mexicano",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "colombia",
+      "name": "columbus crew",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "ocupación británica de las islas malvinas",
-      "traffic": "100+",
+      "name": "gastón edul",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "newell's - vélez",
-      "traffic": "20000+",
+      "name": "alexander zverev",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
