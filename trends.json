@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T13:00:15Z",
+  "updated": "2026-09-11T13:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luciana geuna",
-      "traffic": "200+",
+      "name": "sandra bullock",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima mendoza",
+      "name": "luciana geuna",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "que dia es hoy",
+      "name": "clima mendoza",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "encuesta",
-      "traffic": "1000+",
+      "name": "que dia es hoy",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "disney",
+      "name": "encuesta",
       "traffic": "1000+",
       "rank": 5
     },
     {
+      "name": "disney",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
       "name": "madring",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "starlink",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "inteligencia artificial",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "entre ríos",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "dia del maestro argentina",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "11 de septiembre dia del maestro",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
