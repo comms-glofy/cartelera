@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T14:30:22Z",
+  "updated": "2026-09-11T15:00:55Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "caballito",
-      "traffic": "200+",
+      "name": "astrid de noruega",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sele vera accidente",
+      "name": "fernando alonso",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sandra bullock",
+      "name": "fundación princesa de asturias",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "luciana geuna",
+      "name": "caballito",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "hoy es el dia de",
+      "name": "sele vera accidente",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima mendoza",
+      "name": "sandra bullock",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "que dia es hoy",
-      "traffic": "200+",
+      "name": "luciana geuna",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "encuesta",
-      "traffic": "2000+",
+      "name": "hoy es el dia de",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "disney",
-      "traffic": "1000+",
+      "name": "clima mendoza",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "aumento jubilados",
-      "traffic": "5000+",
+      "name": "que dia es hoy",
+      "traffic": "200+",
       "rank": 10
     }
   ]
