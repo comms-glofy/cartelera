@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-11T19:30:16Z",
+  "updated": "2026-09-11T20:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el niño",
-      "traffic": "2000+",
+      "name": "gastón edul",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "newell's - vélez",
+      "name": "columbus crew",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fiorentina vs",
-      "traffic": "100+",
+      "name": "alexander zverev",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "sevilla",
-      "traffic": "100+",
+      "name": "colombia",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "union berlin",
-      "traffic": "200+",
+      "name": "ocupación británica de las islas malvinas",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "unión cuba petróleo",
-      "traffic": "100+",
+      "name": "newell's - vélez",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "west ham - wrexham",
-      "traffic": "500+",
+      "name": "fiorentina",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "gran premio de españa",
+      "name": "el niño",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "az alkmaar",
-      "traffic": "200+",
+      "name": "fiorentina vs",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "venezia - fiorentina",
-      "traffic": "2000+",
+      "name": "sevilla",
+      "traffic": "200+",
       "rank": 10
     }
   ]
