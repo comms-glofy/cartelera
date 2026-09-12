@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T17:30:17Z",
+  "updated": "2026-09-12T17:46:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estudiantes - platense",
-      "traffic": "500+",
+      "name": "justicia",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "casa pia - porto",
+      "name": "al khaleej - al-nassr",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "barcelona - atlético madrid",
+      "name": "cinepolis",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "estudiantes - platense",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "casa pia - porto",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "barcelona - atlético madrid",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "inundación",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "blizzcon",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "valentín barco",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "fuerza aérea de chile",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "monaco fc",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "maximiliano pullaro",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "milan",
-      "traffic": "500+",
       "rank": 10
     }
   ]
