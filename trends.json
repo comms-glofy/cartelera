@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T20:07:51Z",
+  "updated": "2026-09-12T20:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pago",
+      "name": "elena rybakina",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "chapecoense - internacional",
-      "traffic": "200+",
+      "name": "arsenal fc",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rocío robles",
-      "traffic": "200+",
+      "name": "sabalenka",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "campeonato de fórmula 3 de la fia",
-      "traffic": "100+",
+      "name": "granizo",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "climatización",
+      "name": "ryan garcia",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "paris fc",
-      "traffic": "200+",
+      "name": "pago",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "dario amodei",
-      "traffic": "100+",
+      "name": "keely shaye smith",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "parrilla de salida",
+      "name": "chapecoense - internacional",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "diablo 5",
-      "traffic": "100+",
+      "name": "rocío robles",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "a qué hora juega river",
-      "traffic": "5000+",
+      "name": "climatización",
+      "traffic": "100+",
       "rank": 10
     }
   ]
