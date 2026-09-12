@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T12:30:16Z",
+  "updated": "2026-09-12T13:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing de santander - alavés",
+      "name": "dortmund - paderborn",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sydney sweeney",
+      "name": "túnel de agua negra",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gonzalo valenzuela",
-      "traffic": "100+",
+      "name": "reino unido",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "donald trump",
+      "name": "f2",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "bichos de campo",
-      "traffic": "100+",
+      "name": "racing de santander - alavés",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "emanuel mammana",
-      "traffic": "10000+",
+      "name": "sydney sweeney",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "nicole neumann",
+      "name": "donald trump",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "perfil",
-      "traffic": "200+",
+      "name": "gonzalo valenzuela",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "clima de hoy",
+      "name": "bichos de campo",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima la plata",
-      "traffic": "100+",
+      "name": "emanuel mammana",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
