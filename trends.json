@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T16:00:16Z",
+  "updated": "2026-09-12T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "premier league",
-      "traffic": "2000+",
+      "name": "monaco fc",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "athletic - elche c. f.",
-      "traffic": "500+",
+      "name": "maximiliano pullaro",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mobland",
-      "traffic": "100+",
+      "name": "milan",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ricardo darín",
+      "name": "gran hermano generación dorada",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bachir belloumi",
-      "traffic": "100+",
+      "name": "premier league",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "ejército nacional de colombia",
-      "traffic": "100+",
+      "name": "athletic - elche c. f.",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "lazio - milan",
-      "traffic": "2000+",
+      "name": "mobland",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "tortura",
+      "name": "ricardo darín",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "actc",
-      "traffic": "200+",
+      "name": "bachir belloumi",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "hull city",
-      "traffic": "200+",
+      "name": "ejército nacional de colombia",
+      "traffic": "100+",
       "rank": 10
     }
   ]
