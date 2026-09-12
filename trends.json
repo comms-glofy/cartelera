@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T01:00:15Z",
+  "updated": "2026-09-12T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santa fe - tolima",
+      "name": "tabla anual",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "flow",
-      "traffic": "2000+",
+      "name": "boc",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "enner valencia",
-      "traffic": "1000+",
+      "name": "lady gaga",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "fútbol para todos",
+      "name": "milton giménez",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "salud",
+      "name": "tv argentina",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "puerto iguazú",
+      "name": "kylian mbappé",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tarjeta roja futbol",
-      "traffic": "500+",
+      "name": "futbol para todos",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "coritiba",
-      "traffic": "100+",
+      "name": "cómo va boca",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "marcelo gallardo",
-      "traffic": "500+",
+      "name": "ola de calor",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ruta nacional 22",
-      "traffic": "200+",
+      "name": "santa fe - tolima",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
