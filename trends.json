@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T15:30:19Z",
+  "updated": "2026-09-12T16:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lazio - milan",
-      "traffic": "1000+",
+      "name": "premier league",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "tortura",
-      "traffic": "200+",
+      "name": "athletic - elche c. f.",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "actc",
-      "traffic": "200+",
+      "name": "mobland",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "hull city",
+      "name": "ricardo darín",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "genoa",
-      "traffic": "200+",
+      "name": "bachir belloumi",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ruta nacional 237",
-      "traffic": "1000+",
+      "name": "ejército nacional de colombia",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "liverpool fc",
-      "traffic": "200+",
+      "name": "lazio - milan",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "crystal palace",
+      "name": "tortura",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "bundesliga",
+      "name": "actc",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "osasuna - rcd espanyol",
-      "traffic": "500+",
+      "name": "hull city",
+      "traffic": "200+",
       "rank": 10
     }
   ]
