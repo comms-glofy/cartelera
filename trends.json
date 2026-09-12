@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T19:00:15Z",
+  "updated": "2026-09-12T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grêmio - vasco da gama",
+      "name": "pierce brosnan",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "guaraní - cerro",
-      "traffic": "500+",
+      "name": "atalanta",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "almagro - deportivo maipú",
+      "name": "arsenal vs",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "all boys - san telmo",
-      "traffic": "500+",
+      "name": "paris fc - lyon",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "atlético mineiro - fluminense",
-      "traffic": "500+",
+      "name": "rayo vallecano",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sunderland afc - arsenal",
-      "traffic": "2000+",
+      "name": "atalanta - cagliari",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "real madrid - rayo vallecano",
-      "traffic": "5000+",
+      "name": "grêmio - vasco da gama",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "independiente rivadavia",
-      "traffic": "2000+",
+      "name": "guaraní - cerro",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "colisión",
-      "traffic": "1000+",
+      "name": "almagro - deportivo maipú",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "diego moreira",
-      "traffic": "200+",
+      "name": "atlético mineiro - fluminense",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
