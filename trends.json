@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-12T11:30:16Z",
+  "updated": "2026-09-12T11:56:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico del tiempo",
-      "traffic": "20000+",
+      "name": "emanuel mammana",
+      "traffic": "10000+",
       "rank": 1
     },
     {
       "name": "nicole neumann",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "clima la plata",
+      "name": "clima de hoy",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "actuación",
+      "name": "clima la plata",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "tiempo hoy",
-      "traffic": "500+",
+      "name": "actuación",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "pronóstico para hoy",
-      "traffic": "500+",
+      "name": "f1 horarios",
+      "traffic": "5000+",
       "rank": 7
+    },
+    {
+      "name": "tiempo hoy",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "película enfrentados marfil",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "periodista",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "bet365",
-      "traffic": "100+",
       "rank": 10
     }
   ]
