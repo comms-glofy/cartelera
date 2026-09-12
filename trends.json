@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T02:30:18Z",
+  "updated": "2026-09-12T02:57:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tabla anual 2026",
-      "traffic": "1000+",
+      "name": "us open",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "matías satas",
+      "name": "valeria mazza",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "benicio gravier",
+      "name": "matías satas",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "brey",
-      "traffic": "100+",
+      "name": "benicio gravier",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "romero boca",
-      "traffic": "200+",
+      "name": "brey",
+      "traffic": "100+",
       "rank": 5
     },
     {
       "name": "necaxa",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tabla anual",
-      "traffic": "1000+",
+      "name": "romero boca",
+      "traffic": "200+",
       "rank": 7
+    },
+    {
+      "name": "tabla anual",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "boc",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lady gaga",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "milton giménez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
