@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-12T21:30:17Z",
+  "updated": "2026-09-12T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "miniserie",
-      "traffic": "200+",
+      "name": "como va river",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "juliana awada",
+      "name": "miniserie",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "vicentin",
-      "traffic": "200+",
+      "name": "juliana awada",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -24,18 +24,18 @@
       "rank": 4
     },
     {
-      "name": "falcioni",
-      "traffic": "500+",
+      "name": "vicentin",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "franco nicola",
-      "traffic": "1000+",
+      "name": "falcioni",
+      "traffic": "500+",
       "rank": 6
     },
     {
       "name": "palmeiras - são paulo",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 7
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "pelota",
-      "traffic": "1000+",
+      "name": "sabalenka hoy",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "sabalenka hoy",
-      "traffic": "100+",
+      "name": "pelota",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
