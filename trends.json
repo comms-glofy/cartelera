@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-12T14:00:17Z",
+  "updated": "2026-09-12T14:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bournemouth - brentford",
+      "name": "osasuna - rcd espanyol",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "hoffenheim - stuttgart",
-      "traffic": "200+",
+      "name": "genoa - frosinone",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "crystal palace - ipswich",
+      "name": "bournemouth - brentford",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "juegos suramericanos 2026",
+      "name": "hoffenheim - stuttgart",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "millonario",
+      "name": "empresa",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "augsburgo - leverkusen",
+      "name": "crystal palace - ipswich",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "liverpool - fulham",
-      "traffic": "2000+",
+      "name": "juegos suramericanos 2026",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "aston villa - nottingham forest",
-      "traffic": "1000+",
+      "name": "millonario",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "estafa",
-      "traffic": "500+",
+      "name": "augsburgo - leverkusen",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "chelsea - hull city",
+      "name": "liverpool - fulham",
       "traffic": "2000+",
       "rank": 10
     }
