@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T12:00:16Z",
+  "updated": "2026-09-12T12:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "emanuel mammana",
-      "traffic": "10000+",
+      "name": "racing de santander - alavés",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nicole neumann",
-      "traffic": "200+",
+      "name": "sydney sweeney",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "perfil",
-      "traffic": "200+",
+      "name": "gonzalo valenzuela",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima de hoy",
+      "name": "donald trump",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima la plata",
+      "name": "bichos de campo",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "actuación",
-      "traffic": "100+",
+      "name": "emanuel mammana",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "f1 horarios",
-      "traffic": "5000+",
+      "name": "nicole neumann",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tiempo hoy",
-      "traffic": "500+",
+      "name": "perfil",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima hoy",
-      "traffic": "500+",
+      "name": "clima de hoy",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "película enfrentados marfil",
-      "traffic": "200+",
+      "name": "clima la plata",
+      "traffic": "100+",
       "rank": 10
     }
   ]
