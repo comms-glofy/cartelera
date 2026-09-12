@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T10:30:13Z",
+  "updated": "2026-09-12T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo hoy",
-      "traffic": "1000+",
+      "name": "perfil",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "película enfrentados marfil",
+      "name": "clima la plata",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "periodista",
+      "name": "actuación",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "bet365",
-      "traffic": "100+",
+      "name": "tiempo hoy",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "patricia bullrich",
-      "traffic": "200+",
+      "name": "clima hoy",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "clima tucuman",
-      "traffic": "100+",
+      "name": "película enfrentados marfil",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tijuana - querétaro",
-      "traffic": "100+",
+      "name": "periodista",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "atlante - pachuca",
-      "traffic": "200+",
+      "name": "bet365",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "inter de miami",
+      "name": "patricia bullrich",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "valeria mazza",
-      "traffic": "1000+",
+      "name": "clima tucuman",
+      "traffic": "200+",
       "rank": 10
     }
   ]
