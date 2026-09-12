@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T22:00:15Z",
+  "updated": "2026-09-12T22:27:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como va river",
-      "traffic": "500+",
+      "name": "talleres - unión",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "miniserie",
+      "name": "clever ferreira",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juliana awada",
-      "traffic": "500+",
+      "name": "posiciones de river plate",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "san martin de san juan",
+      "name": "palmeiras vs",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "vicentin",
-      "traffic": "200+",
+      "name": "miniserie",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "falcioni",
+      "name": "juliana awada",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "palmeiras - são paulo",
-      "traffic": "2000+",
+      "name": "san martin de san juan",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "sudáfrica - nueva zelanda",
-      "traffic": "1000+",
+      "name": "vicentin",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sabalenka hoy",
-      "traffic": "200+",
+      "name": "falcioni",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "pelota",
-      "traffic": "1000+",
+      "name": "palmeiras - são paulo",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
