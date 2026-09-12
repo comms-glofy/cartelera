@@ -1,31 +1,31 @@
 {
-  "updated": "2026-09-12T15:00:16Z",
+  "updated": "2026-09-12T15:05:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "genoa",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "ruta nacional 237",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "liverpool fc",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "bundesliga",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "osasuna - rcd espanyol",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "genoa - frosinone",
-      "traffic": "200+",
       "rank": 5
     },
     {
