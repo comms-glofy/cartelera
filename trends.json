@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T13:30:17Z",
+  "updated": "2026-09-12T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liverpool - fulham",
-      "traffic": "500+",
+      "name": "bournemouth - brentford",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "aston villa - nottingham forest",
-      "traffic": "500+",
+      "name": "hoffenheim - stuttgart",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "estafa",
+      "name": "crystal palace - ipswich",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chelsea - hull city",
-      "traffic": "1000+",
+      "name": "juegos suramericanos 2026",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "12 de septiembre",
+      "name": "millonario",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "hacker",
-      "traffic": "100+",
+      "name": "augsburgo - leverkusen",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "dortmund - paderborn",
-      "traffic": "500+",
+      "name": "liverpool - fulham",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "túnel de agua negra",
-      "traffic": "100+",
+      "name": "aston villa - nottingham forest",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "reino unido",
-      "traffic": "2000+",
+      "name": "estafa",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "f2",
-      "traffic": "200+",
+      "name": "chelsea - hull city",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
