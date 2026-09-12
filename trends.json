@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-12T10:00:17Z",
+  "updated": "2026-09-12T10:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima hoy",
+      "name": "tiempo hoy",
       "traffic": "1000+",
       "rank": 1
     },
@@ -14,38 +14,38 @@
       "rank": 2
     },
     {
-      "name": "bet365",
+      "name": "periodista",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "bet365",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "patricia bullrich",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima tucuman",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tijuana - querétaro",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "atlante - pachuca",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "inter de miami",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "us open",
-      "traffic": "5000+",
       "rank": 9
     },
     {
