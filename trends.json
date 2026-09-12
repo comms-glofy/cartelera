@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T05:00:15Z",
+  "updated": "2026-09-12T05:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "lady gaga mama",
-      "traffic": "500+",
+      "name": "atlante - pachuca",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inter de miami",
+      "name": "lady gaga mama",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "inter de miami",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "gp de españa 2026",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "valeria mazza",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tabla anual 2026",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "matías satas",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "bacidalupe",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "benicio gravier",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "brey",
-      "traffic": "100+",
       "rank": 10
     }
   ]
