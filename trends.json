@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T19:30:17Z",
+  "updated": "2026-09-12T20:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pierce brosnan",
+      "name": "chapecoense - internacional",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "atalanta",
+      "name": "rocío robles",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "arsenal vs",
-      "traffic": "200+",
+      "name": "campeonato de fórmula 3 de la fia",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "paris fc - lyon",
+      "name": "climatización",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "rayo vallecano",
-      "traffic": "100+",
+      "name": "paris fc",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "atalanta - cagliari",
-      "traffic": "200+",
+      "name": "dario amodei",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "grêmio - vasco da gama",
-      "traffic": "500+",
+      "name": "parrilla de salida",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "guaraní - cerro",
-      "traffic": "1000+",
+      "name": "diablo 5",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "almagro - deportivo maipú",
-      "traffic": "500+",
+      "name": "a qué hora juega river",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "atlético mineiro - fluminense",
-      "traffic": "1000+",
+      "name": "arsenal",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
