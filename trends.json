@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T18:30:15Z",
+  "updated": "2026-09-12T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sunderland afc - arsenal",
-      "traffic": "1000+",
+      "name": "grêmio - vasco da gama",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "real madrid - rayo vallecano",
-      "traffic": "2000+",
+      "name": "guaraní - cerro",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "independiente rivadavia",
-      "traffic": "1000+",
+      "name": "almagro - deportivo maipú",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "all boys - san telmo",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "atlético mineiro - fluminense",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "sunderland afc - arsenal",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "real madrid - rayo vallecano",
+      "traffic": "5000+",
+      "rank": 7
+    },
+    {
+      "name": "independiente rivadavia",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "colisión",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "diego moreira",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "river vs atletico tucuman",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "lazio vs milan",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "colegiales - nueva chicago",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "athletic bilbao",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "justicia",
-      "traffic": "500+",
       "rank": 10
     }
   ]
