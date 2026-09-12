@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T20:00:18Z",
+  "updated": "2026-09-12T20:07:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chapecoense - internacional",
-      "traffic": "200+",
+      "name": "pago",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "rocío robles",
+      "name": "chapecoense - internacional",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "campeonato de fórmula 3 de la fia",
-      "traffic": "100+",
+      "name": "rocío robles",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "climatización",
+      "name": "campeonato de fórmula 3 de la fia",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "climatización",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "paris fc",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "dario amodei",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "parrilla de salida",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "diablo 5",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "a qué hora juega river",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "arsenal",
-      "traffic": "10000+",
+      "name": "a qué hora juega river",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
