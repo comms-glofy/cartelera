@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T00:00:19Z",
+  "updated": "2026-09-12T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tarjeta roja futbol",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "coritiba",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "ben shelton",
+      "traffic": "10000+",
+      "rank": 3
+    },
+    {
       "name": "tiempo de mañana",
       "traffic": "100000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "cinema la plata",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "ruta nacional 22",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "boca juniors - central córdoba",
-      "traffic": "20000+",
-      "rank": 4
-    },
-    {
-      "name": "islas malvinas",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "100000+",
+      "rank": 7
     },
     {
       "name": "eliana guercio",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "islas malvinas",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "coritiba - paranaense",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "nelson castro",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "dinero",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "selección de fútbol de ecuador",
-      "traffic": "100+",
       "rank": 10
     }
   ]
