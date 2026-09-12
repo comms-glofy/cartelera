@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T21:00:19Z",
+  "updated": "2026-09-12T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "palmeiras - são paulo",
+      "name": "miniserie",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sudáfrica - nueva zelanda",
+      "name": "juliana awada",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pelota",
-      "traffic": "1000+",
+      "name": "vicentin",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sabalenka hoy",
-      "traffic": "100+",
+      "name": "san martin de san juan",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "brown de adrogue",
-      "traffic": "100+",
+      "name": "falcioni",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "atlético tucumán - river plate",
-      "traffic": "50000+",
+      "name": "franco nicola",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "rybakina",
+      "name": "palmeiras - são paulo",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "aryna sabalenka",
+      "name": "sudáfrica - nueva zelanda",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "selección de fútbol de inglaterra",
-      "traffic": "200+",
+      "name": "pelota",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "elena rybakina",
-      "traffic": "1000+",
+      "name": "sabalenka hoy",
+      "traffic": "100+",
       "rank": 10
     }
   ]
