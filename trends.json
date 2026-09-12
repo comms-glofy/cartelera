@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T09:30:15Z",
+  "updated": "2026-09-12T10:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bet365",
-      "traffic": "100+",
+      "name": "clima hoy",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "patricia bullrich",
+      "name": "película enfrentados marfil",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima tucuman",
+      "name": "bet365",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "enfrentados ebano",
-      "traffic": "100+",
+      "name": "patricia bullrich",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tijuana - querétaro",
+      "name": "clima tucuman",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "tijuana - querétaro",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "atlante - pachuca",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "inter de miami",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "us open",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "valeria mazza",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "matías satas",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "bacidalupe",
-      "traffic": "200+",
       "rank": 10
     }
   ]
