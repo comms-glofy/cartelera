@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T23:00:53Z",
+  "updated": "2026-09-12T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sharapova",
+      "name": "santos - cruzeiro",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "julián weich",
+      "name": "matías galarza",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inter miami - nashville sc",
-      "traffic": "2000+",
+      "name": "dc united - atlanta united",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "final us open",
-      "traffic": "20000+",
+      "name": "tommy mcmillen",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "torneo argentino",
+      "name": "botafogo - bragantino",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ruta nacional 11",
-      "traffic": "200+",
+      "name": "deuda",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "fondo monetario internacional",
+      "name": "campeonato argentino",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "alexa grasso",
-      "traffic": "100+",
+      "name": "sharapova",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "ryan garcia vs conor benn",
-      "traffic": "100+",
+      "name": "julián weich",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tabla anual 2026",
-      "traffic": "1000+",
+      "name": "inter miami - nashville sc",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
