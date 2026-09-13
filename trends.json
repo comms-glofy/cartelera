@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T04:00:17Z",
+  "updated": "2026-09-13T04:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de alianza lima contra universitario",
-      "traffic": "200+",
+      "name": "cruz azul",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cruz azul - américa",
-      "traffic": "200+",
+      "name": "ilia topuria",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "junior",
-      "traffic": "200+",
+      "name": "celine dion",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "daniel vila",
+      "name": "posiciones de alianza lima contra universitario",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "luis machin",
+      "name": "cruz azul - américa",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "juana viale",
+      "name": "conor benn",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "myriam bregman",
-      "traffic": "100+",
+      "name": "daniel vila",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "orlando city - toronto",
-      "traffic": "100+",
+      "name": "luis machin",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "gladys, la bomba tucumana",
-      "traffic": "1000+",
+      "name": "juana viale",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "colorado - montréal",
-      "traffic": "500+",
+      "name": "myriam bregman",
+      "traffic": "100+",
       "rank": 10
     }
   ]
