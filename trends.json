@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T14:30:14Z",
+  "updated": "2026-09-13T14:34:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "oscar piastri",
-      "traffic": "100+",
+      "name": "levante vs barcelona",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "14 de septiembre",
-      "traffic": "100+",
+      "name": "bortoleto",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lando norris",
-      "traffic": "200+",
+      "name": "posiciones f1",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "rb leipzig - hamburg",
+      "name": "gabriel bortoleto",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "charles leclerc",
+      "name": "antonelli",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "precio",
-      "traffic": "100+",
+      "name": "andrea kimi antonelli",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "city vs united",
+      "name": "14 de septiembre",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cruce caballero",
+      "name": "oscar piastri",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "economía",
-      "traffic": "100+",
+      "name": "rb leipzig - hamburg",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "alaska",
-      "traffic": "100+",
+      "name": "charles leclerc",
+      "traffic": "200+",
       "rank": 10
     }
   ]
