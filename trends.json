@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T20:30:18Z",
+  "updated": "2026-09-13T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ricardo fort",
+      "name": "vivienda prefabricada",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ryan gosling",
-      "traffic": "100+",
+      "name": "colo-colo - concepción",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "independiente vs san lorenzo",
-      "traffic": "100+",
+      "name": "nacional b",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "sporting lisboa",
+      "name": "federal a",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tabla anual futbol argentino",
-      "traffic": "1000+",
+      "name": "real sociedad",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "flamengo - corinthians",
-      "traffic": "1000+",
+      "name": "sarmiento de resistencia",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "central cordoba rosario",
-      "traffic": "100+",
+      "name": "godoy cruz - colón",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "juventus vs",
-      "traffic": "200+",
+      "name": "ricardo fort",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "argentinos jrs. - gimnasia",
-      "traffic": "10000+",
+      "name": "ryan gosling",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "brad pitt",
-      "traffic": "200+",
+      "name": "usopen",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
