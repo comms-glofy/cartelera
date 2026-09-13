@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T20:00:16Z",
+  "updated": "2026-09-13T20:14:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flamengo - corinthians",
-      "traffic": "1000+",
+      "name": "independiente vs san lorenzo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ligue 1",
-      "traffic": "200+",
+      "name": "ryan gosling",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "sporting lisboa",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "tabla anual futbol argentino",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "flamengo - corinthians",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "ligue 1",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "central cordoba rosario",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "juventus vs",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "argentinos jrs. - gimnasia",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "brad pitt",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "midland - chacarita",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "gimnasia jujuy - atlético rafaela",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "club mitre - chaco for ever",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "zverev hoy",
-      "traffic": "100+",
       "rank": 10
     }
   ]
