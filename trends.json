@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T13:30:17Z",
+  "updated": "2026-09-13T14:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la peña de morfi",
+      "name": "economía",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "losc - troyes",
-      "traffic": "200+",
+      "name": "cruce caballero",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "lecce - monza",
-      "traffic": "200+",
+      "name": "alaska",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "extorsión",
-      "traffic": "100+",
+      "name": "levante - barcelona",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "fernando alonso",
-      "traffic": "100+",
+      "name": "hamilton",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "f1 horarios argentina",
+      "name": "lewis hamilton",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "canal sur",
+      "name": "hadjar",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "barco pesquero",
+      "name": "max verstappen",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "la cumbrecita",
+      "name": "la peña de morfi",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "kendry páez",
-      "traffic": "100+",
+      "name": "lecce - monza",
+      "traffic": "500+",
       "rank": 10
     }
   ]
