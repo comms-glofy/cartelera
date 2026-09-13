@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T14:00:18Z",
+  "updated": "2026-09-13T14:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "economía",
+      "name": "oscar piastri",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cruce caballero",
+      "name": "14 de septiembre",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alaska",
-      "traffic": "100+",
+      "name": "lando norris",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "levante - barcelona",
-      "traffic": "5000+",
+      "name": "rb leipzig - hamburg",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "hamilton",
+      "name": "charles leclerc",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lewis hamilton",
-      "traffic": "200+",
+      "name": "precio",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "hadjar",
+      "name": "city vs united",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "max verstappen",
+      "name": "cruce caballero",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "la peña de morfi",
+      "name": "economía",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "lecce - monza",
-      "traffic": "500+",
+      "name": "alaska",
+      "traffic": "100+",
       "rank": 10
     }
   ]
