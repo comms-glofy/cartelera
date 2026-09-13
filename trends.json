@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T10:30:18Z",
+  "updated": "2026-09-13T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,12 +15,12 @@
     },
     {
       "name": "balón de oro",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
     },
     {
       "name": "la nación",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "posiciones de alianza lima contra universitario",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
       "name": "cruz azul - américa",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "monterrey fc",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "posiciones de liga de quito contra deportivo cuenca",
+      "traffic": "200+",
       "rank": 10
     }
   ]
