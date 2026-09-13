@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T16:30:16Z",
+  "updated": "2026-09-13T17:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "phil foden",
-      "traffic": "500+",
+      "name": "benfica - gil vicente",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bayern",
-      "traffic": "500+",
+      "name": "parrilla f1",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "bayern munich",
+      "name": "getafe - deportivo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "le mans football club - lens",
-      "traffic": "100+",
+      "name": "pep guardiola",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "aldo leiva",
-      "traffic": "1000+",
+      "name": "donnarumma",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "vicente taborda",
+      "name": "doku",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "exequiel zeballos",
-      "traffic": "1000+",
+      "name": "haaland",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cd moquegua - sporting cristal",
+      "name": "canal 9",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "leipzig",
-      "traffic": "100+",
+      "name": "julián weich",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "city",
-      "traffic": "1000+",
+      "name": "napoli",
+      "traffic": "500+",
       "rank": 10
     }
   ]
