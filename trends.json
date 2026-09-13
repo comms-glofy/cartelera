@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T10:00:16Z",
+  "updated": "2026-09-13T10:27:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la nación",
-      "traffic": "200+",
+      "name": "loto plus",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sele vera accidente",
+      "name": "as",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ilia topuria",
+      "name": "balón de oro",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "celine dion",
-      "traffic": "100+",
+      "name": "la nación",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "posiciones de alianza lima contra universitario",
-      "traffic": "200+",
+      "name": "sele vera accidente",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "cruz azul - américa",
-      "traffic": "1000+",
+      "name": "ilia topuria",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "monterrey fc",
+      "name": "celine dion",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "posiciones de liga de quito contra deportivo cuenca",
+      "name": "posiciones de alianza lima contra universitario",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ester exposito",
-      "traffic": "200+",
+      "name": "cruz azul - américa",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "daniel vila",
-      "traffic": "200+",
+      "name": "monterrey fc",
+      "traffic": "100+",
       "rank": 10
     }
   ]
