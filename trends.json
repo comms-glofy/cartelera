@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T17:00:17Z",
+  "updated": "2026-09-13T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "benfica - gil vicente",
+      "name": "sarmiento - belgrano",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "parrilla f1",
-      "traffic": "2000+",
+      "name": "maru botana",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "getafe - deportivo",
+      "name": "tini stoessel",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "pep guardiola",
+      "name": "nfl",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "donnarumma",
-      "traffic": "200+",
+      "name": "semenyo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "doku",
-      "traffic": "200+",
+      "name": "tigre - rosario central",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "haaland",
-      "traffic": "200+",
+      "name": "sofi martinez",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "canal 9",
-      "traffic": "100+",
+      "name": "benfica - gil vicente",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "julián weich",
-      "traffic": "1000+",
+      "name": "parrilla f1",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "napoli",
-      "traffic": "500+",
+      "name": "donnarumma",
+      "traffic": "200+",
       "rank": 10
     }
   ]
