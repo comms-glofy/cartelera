@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T11:00:16Z",
+  "updated": "2026-09-13T11:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "loto plus",
-      "traffic": "100+",
+      "name": "f1",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "as",
+      "name": "kevin zenón",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "balón de oro",
-      "traffic": "200+",
+      "name": "moto gp",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "la nación",
-      "traffic": "1000+",
+      "name": "garbarino",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "sele vera accidente",
+      "name": "loto plus",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ilia topuria",
-      "traffic": "100+",
+      "name": "f2",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "celine dion",
-      "traffic": "100+",
+      "name": "as",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "cruz azul - américa",
-      "traffic": "1000+",
+      "name": "balón de oro",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "monterrey fc",
-      "traffic": "100+",
+      "name": "la nación",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "posiciones de liga de quito contra deportivo cuenca",
-      "traffic": "200+",
+      "name": "sele vera accidente",
+      "traffic": "100+",
       "rank": 10
     }
   ]
