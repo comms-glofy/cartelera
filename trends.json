@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T16:00:16Z",
+  "updated": "2026-09-13T16:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "exequiel zeballos",
-      "traffic": "1000+",
+      "name": "phil foden",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cd moquegua - sporting cristal",
-      "traffic": "100+",
+      "name": "bayern",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "leipzig",
-      "traffic": "100+",
+      "name": "bayern munich",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "city",
-      "traffic": "500+",
+      "name": "le mans football club - lens",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fecha",
-      "traffic": "200+",
+      "name": "aldo leiva",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "manchester",
+      "name": "vicente taborda",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "city united",
-      "traffic": "200+",
+      "name": "exequiel zeballos",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "monza vs",
-      "traffic": "200+",
+      "name": "cd moquegua - sporting cristal",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "city vs",
-      "traffic": "200+",
+      "name": "leipzig",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "monza",
-      "traffic": "2000+",
+      "name": "city",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
