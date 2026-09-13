@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T11:30:18Z",
+  "updated": "2026-09-13T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,42 +15,42 @@
     },
     {
       "name": "moto gp",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
     },
     {
       "name": "garbarino",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "loto plus",
-      "traffic": "100+",
+      "name": "carrera f1",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "loto plus",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "f2",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "as",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "balón de oro",
+      "name": "as",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "la nación",
-      "traffic": "2000+",
+      "name": "balón de oro",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "sele vera accidente",
-      "traffic": "100+",
+      "name": "la nación",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
