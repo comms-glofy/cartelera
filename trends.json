@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T21:00:16Z",
+  "updated": "2026-09-13T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vivienda prefabricada",
-      "traffic": "100+",
+      "name": "san martín de tucumán - agropecuario",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "colo-colo - concepción",
+      "name": "chicago fire - new england",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nacional b",
-      "traffic": "500+",
+      "name": "bbc news mundo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "federal a",
-      "traffic": "200+",
+      "name": "changuito zeballos",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "real sociedad",
-      "traffic": "200+",
+      "name": "villa mitre",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sarmiento de resistencia",
+      "name": "servicio militar",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "godoy cruz - colón",
-      "traffic": "1000+",
+      "name": "jaime durán barba",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "ricardo fort",
+      "name": "gelp",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "ryan gosling",
-      "traffic": "200+",
+      "name": "vivienda prefabricada",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "usopen",
-      "traffic": "1000+",
+      "name": "independiente san lorenzo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
