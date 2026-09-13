@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T00:08:21Z",
+  "updated": "2026-09-13T00:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luck ra",
-      "traffic": "200+",
+      "name": "inter miami vs. nashville sc",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "expulsión",
-      "traffic": "200+",
+      "name": "florence pugh",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "azúcar",
+      "name": "luck ra",
       "traffic": "200+",
       "rank": 3
     },
     {
       "name": "jean silva",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "inter miami vs nashville",
-      "traffic": "100+",
+      "name": "expulsión",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "azúcar",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "josé miguel delgado",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "el club gastronómico",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "brandon moreno",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ldu quito - dep. cuenca",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "toluca - atlas",
-      "traffic": "100+",
       "rank": 10
     }
   ]
