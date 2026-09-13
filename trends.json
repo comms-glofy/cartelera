@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T03:30:18Z",
+  "updated": "2026-09-13T04:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "daniel vila",
+      "name": "posiciones de alianza lima contra universitario",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "luis machin",
+      "name": "cruz azul - américa",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juana viale",
-      "traffic": "100+",
+      "name": "junior",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "orlando city - toronto",
-      "traffic": "100+",
+      "name": "daniel vila",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "myriam bregman",
-      "traffic": "100+",
+      "name": "luis machin",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "alianza - junior",
+      "name": "juana viale",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gladys, la bomba tucumana",
-      "traffic": "500+",
+      "name": "myriam bregman",
+      "traffic": "100+",
       "rank": 7
+    },
+    {
+      "name": "orlando city - toronto",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "gladys, la bomba tucumana",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "colorado - montréal",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "gerardo romano",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "poceada chaqueña",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
