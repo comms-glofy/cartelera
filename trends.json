@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T02:30:17Z",
+  "updated": "2026-09-13T03:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ester exposito",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "inter miami vs nashville sc",
+      "traffic": "10000+",
+      "rank": 2
+    },
+    {
       "name": "daniel vila",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "luis machin",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "juana viale",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "myriam bregman",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "orlando city - toronto",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "alianza - junior",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "gladys, la bomba tucumana",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "colorado - montréal",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "gerardo romano",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "poceada chaqueña",
-      "traffic": "1000+",
+      "name": "colorado - montréal",
+      "traffic": "500+",
       "rank": 10
     }
   ]
