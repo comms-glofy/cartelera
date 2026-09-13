@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T00:30:22Z",
+  "updated": "2026-09-13T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami vs. nashville sc",
-      "traffic": "500+",
+      "name": "alianza lima - universitario",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "florence pugh",
+      "name": "boxeo hoy",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "luck ra",
-      "traffic": "200+",
+      "name": "inter miami vs. nashville sc",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "florence pugh",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "jean silva",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "expulsión",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "azúcar",
+      "name": "luck ra",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "josé miguel delgado",
-      "traffic": "100+",
+      "name": "azúcar",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "el club gastronómico",
-      "traffic": "100+",
+      "name": "expulsión",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "brandon moreno",
+      "name": "josé miguel delgado",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ldu quito - dep. cuenca",
-      "traffic": "200+",
+      "name": "el club gastronómico",
+      "traffic": "100+",
       "rank": 10
     }
   ]
