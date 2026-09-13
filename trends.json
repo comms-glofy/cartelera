@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T23:00:16Z",
+  "updated": "2026-09-13T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jugador",
-      "traffic": "100+",
+      "name": "céline dion",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "barcelona sc - delfín",
-      "traffic": "200+",
+      "name": "virgen del milagro",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "libertad fc - independiente del valle",
+      "name": "macarena ceballos",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "brics",
+      "name": "jugador",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "juan miguel arrayago",
-      "traffic": "500+",
+      "name": "libertad fc - independiente del valle",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "concierto",
+      "name": "barcelona sc - delfín",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "peñarol - albion",
-      "traffic": "500+",
+      "name": "brics",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "san lorenzo hoy",
-      "traffic": "500+",
+      "name": "juan miguel arrayago",
+      "traffic": "1000+",
       "rank": 8
+    },
+    {
+      "name": "peñarol - albion",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "trinity rodman",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "agustín canapino",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
