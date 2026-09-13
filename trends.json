@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-12T23:30:14Z",
+  "updated": "2026-09-13T00:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos - cruzeiro",
-      "traffic": "500+",
+      "name": "joseph morales",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "matías galarza",
+      "name": "ldu quito - dep. cuenca",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dc united - atlanta united",
-      "traffic": "200+",
+      "name": "toluca - atlas",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tommy mcmillen",
+      "name": "soledad pastorutti",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "botafogo - bragantino",
+      "name": "gp madrid",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "deuda",
-      "traffic": "500+",
+      "name": "facundo chapur",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "campeonato argentino",
-      "traffic": "200+",
+      "name": "santos - cruzeiro",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "sharapova",
-      "traffic": "1000+",
+      "name": "dc united - atlanta united",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "julián weich",
+      "name": "matías galarza",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "inter miami - nashville sc",
-      "traffic": "5000+",
+      "name": "tommy mcmillen",
+      "traffic": "200+",
       "rank": 10
     }
   ]
