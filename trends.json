@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T01:30:16Z",
+  "updated": "2026-09-13T02:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gerardo romano",
-      "traffic": "200+",
+      "name": "myriam bregman",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "poceada chaqueña",
-      "traffic": "500+",
+      "name": "orlando city - toronto",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "botafogo vs",
+      "name": "alianza - junior",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "excursionistas",
-      "traffic": "100+",
+      "name": "colorado - montréal",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "esquí",
-      "traffic": "100+",
+      "name": "gerardo romano",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "malcorra",
-      "traffic": "100+",
+      "name": "poceada chaqueña",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "ryan reynolds",
+      "name": "botafogo vs",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "monterrey - tigres",
-      "traffic": "200+",
+      "name": "excursionistas",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "alianza lima - universitario",
-      "traffic": "500+",
+      "name": "esquí",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "boxeo hoy",
-      "traffic": "200+",
+      "name": "malcorra",
+      "traffic": "100+",
       "rank": 10
     }
   ]
