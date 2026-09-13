@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T12:00:18Z",
+  "updated": "2026-09-13T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1",
-      "traffic": "2000+",
+      "name": "celta de vigo - málaga",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "kevin zenón",
+      "name": "motogp",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "moto gp",
+      "name": "kevin zenón",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "garbarino",
-      "traffic": "200+",
+      "name": "f1",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "carrera f1",
-      "traffic": "500+",
+      "name": "moto gp",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "peronismo",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "garbarino",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "loto plus",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "f2",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "as",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "balón de oro",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "la nación",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
