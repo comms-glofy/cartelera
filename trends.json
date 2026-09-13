@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T18:30:15Z",
+  "updated": "2026-09-13T19:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "stade brestois - psg",
-      "traffic": "1000+",
+      "name": "racing de córdoba - deportivo morón",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "patronato - temperley",
-      "traffic": "200+",
+      "name": "matias galarza",
+      "traffic": "5000+",
       "rank": 2
+    },
+    {
+      "name": "estudiantes - acassuso",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "psv",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "almirante brown - ferro",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "shelton",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "olimpia - sportivo luqueño",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "stade brestois - psg",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "patronato - temperley",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "sinner",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "real sociedad - atlético madrid",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "us open",
-      "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "sassuolo - juventus",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "galatasaray",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "almirante brown",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "suramericanos 2026",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "del potro",
-      "traffic": "200+",
       "rank": 10
     }
   ]
