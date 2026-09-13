@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T07:00:18Z",
+  "updated": "2026-09-13T07:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "junior",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
       "name": "posiciones de liga de quito contra deportivo cuenca",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "daniel vila",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "luis machin",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "juana viale",
+      "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "myriam bregman",
       "traffic": "100+",
       "rank": 10
     }
