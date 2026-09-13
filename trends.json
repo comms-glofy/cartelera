@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T21:30:14Z",
+  "updated": "2026-09-13T22:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san martín de tucumán - agropecuario",
-      "traffic": "500+",
+      "name": "muerte",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "jonathan david",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "independiente - san lorenzo",
+      "traffic": "10000+",
+      "rank": 3
+    },
+    {
+      "name": "anthropic",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "san martín de tucumán - agropecuario",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "changuito zeballos",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "chicago fire - new england",
       "traffic": "200+",
-      "rank": 2
+      "rank": 7
+    },
+    {
+      "name": "rubio ñu - nacional",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "bbc news mundo",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "changuito zeballos",
-      "traffic": "1000+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "villa mitre",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "servicio militar",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "jaime durán barba",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "gelp",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "vivienda prefabricada",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "independiente san lorenzo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
