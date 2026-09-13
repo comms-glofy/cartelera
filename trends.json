@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T22:31:58Z",
+  "updated": "2026-09-13T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peñarol - albion",
-      "traffic": "200+",
+      "name": "jugador",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "san lorenzo hoy",
-      "traffic": "500+",
+      "name": "barcelona sc - delfín",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "trinity rodman",
+      "name": "libertad fc - independiente del valle",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "agustín canapino",
-      "traffic": "2000+",
+      "name": "brics",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "muerte",
-      "traffic": "200+",
+      "name": "juan miguel arrayago",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "jonathan david",
-      "traffic": "100+",
+      "name": "concierto",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "independiente - san lorenzo",
-      "traffic": "20000+",
+      "name": "peñarol - albion",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "anthropic",
-      "traffic": "200+",
+      "name": "san lorenzo hoy",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "san martín de tucumán - agropecuario",
-      "traffic": "2000+",
+      "name": "trinity rodman",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rubio ñu - nacional",
-      "traffic": "500+",
+      "name": "agustín canapino",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
