@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T15:00:14Z",
+  "updated": "2026-09-13T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sv elversberg - bayern",
+      "name": "city vs",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "verstappen",
+      "name": "monza vs",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "premier padel",
-      "traffic": "100+",
+      "name": "mclaren",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "manchester united - manchester city",
-      "traffic": "5000+",
+      "name": "f1 madrid 2026",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "kimi antonelli",
-      "traffic": "1000+",
+      "name": "wanda nara",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "laguna del monte",
-      "traffic": "200+",
+      "name": "lille",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "xavi espart",
-      "traffic": "200+",
+      "name": "oliver bearman",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "george russell",
-      "traffic": "200+",
+      "name": "sv elversberg - bayern",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "antonelli",
-      "traffic": "1000+",
+      "name": "premier padel",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "bortoleto",
-      "traffic": "200+",
+      "name": "manchester united - manchester city",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
