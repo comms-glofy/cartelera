@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T08:30:19Z",
+  "updated": "2026-09-14T09:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gobernador",
+      "name": "1",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "santos laguna",
-      "traffic": "100+",
+      "name": "gobernador",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "olivia agüero",
-      "traffic": "200+",
+      "name": "santos laguna",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "santiago del moro",
+      "name": "granhermano mitelefe com",
       "traffic": "2000+",
       "rank": 4
     },
     {
+      "name": "olivia agüero",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "charlotte caniggia",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "san diego fc - philadelphia",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "cúcuta - millonarios",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "guadalajara - pumas",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "pedro troglio",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "casa argentina en paris",
-      "traffic": "200+",
       "rank": 10
     }
   ]
