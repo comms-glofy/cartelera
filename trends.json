@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T19:00:22Z",
+  "updated": "2026-09-14T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gira oasis 2027",
-      "traffic": "500+",
+      "name": "inter",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "sebastián montoya",
-      "traffic": "100+",
+      "name": "inter milan",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "bolivia",
-      "traffic": "500+",
+      "name": "paulo dybala",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "instituto de obra social de las fuerzas armadas",
+      "name": "quiniela chaqueña",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "helada",
-      "traffic": "200+",
+      "name": "sebastián montoya",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "como fc",
-      "traffic": "200+",
+      "name": "bolivia",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "hebe casado",
+      "name": "helada",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "villarreal - real betis",
-      "traffic": "500+",
+      "name": "instituto de obra social de las fuerzas armadas",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "leeds - newcastle",
-      "traffic": "500+",
+      "name": "hebe casado",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ruta nacional 237",
-      "traffic": "1000+",
+      "name": "como fc",
+      "traffic": "200+",
       "rank": 10
     }
   ]
