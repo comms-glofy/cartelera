@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T17:00:18Z",
+  "updated": "2026-09-14T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mercado cambiario",
-      "traffic": "100+",
+      "name": "oasis 2027",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ypf",
+      "name": "caballo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fecha de pago de jubilaciones y pensiones",
+      "name": "cristina fernández de kirchner",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "como - parma",
-      "traffic": "500+",
+      "name": "mercado cambiario",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "torino - roma",
-      "traffic": "1000+",
+      "name": "ypf",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "quiniela de tucumán",
+      "name": "hyrox",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "asociación del fútbol argentino",
-      "traffic": "1000+",
+      "name": "fecha de pago de jubilaciones y pensiones",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "salario",
-      "traffic": "500+",
+      "name": "joanna wietrzyk",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "club atlético boca juniors",
-      "traffic": "2000+",
+      "name": "como - parma",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "oasis",
-      "traffic": "500+",
+      "name": "torino - roma",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
