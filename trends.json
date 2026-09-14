@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T04:00:19Z",
+  "updated": "2026-09-14T04:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "posiciones de barcelona sc contra delfin sc",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
       "name": "san diego fc - philadelphia",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "cúcuta - millonarios",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "guadalajara - pumas",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "pedro troglio",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "casa argentina en paris",
+      "traffic": "200+",
       "rank": 10
     }
   ]
