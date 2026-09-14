@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T09:30:20Z",
+  "updated": "2026-09-14T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "1",
-      "traffic": "200+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "gobernador",
-      "traffic": "200+",
+      "name": "quini 6 13 de septiembre",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "santos laguna",
+      "name": "enfrentados marfil película",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "granhermano mitelefe com",
-      "traffic": "2000+",
+      "name": "gobernador",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "santos laguna",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "olivia agüero",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "jordy caicedo",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "santiago del moro",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "charlotte caniggia",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "san diego fc - philadelphia",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "cúcuta - millonarios",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "guadalajara - pumas",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "pedro troglio",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
