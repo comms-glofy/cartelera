@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T15:00:18Z",
+  "updated": "2026-09-14T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético vélez sarsfield",
-      "traffic": "200+",
+      "name": "asociación del fútbol argentino",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "dólar estadounidense",
-      "traffic": "200+",
+      "name": "salario",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "islas malvinas",
-      "traffic": "1000+",
+      "name": "oasis",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "hayden panettiere",
+      "name": "club atlético boca juniors",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "fifa",
-      "traffic": "2000+",
+      "name": "club atlético vélez sarsfield",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "inteligencia",
+      "name": "dólar estadounidense",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sam altman",
-      "traffic": "200+",
+      "name": "islas malvinas",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "juan pablo vojvoda",
-      "traffic": "5000+",
+      "name": "hayden panettiere",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "harrison ford",
-      "traffic": "100+",
+      "name": "fifa",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "incendio",
-      "traffic": "500+",
+      "name": "inteligencia",
+      "traffic": "200+",
       "rank": 10
     }
   ]
