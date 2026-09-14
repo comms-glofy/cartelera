@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-14T10:30:19Z",
+  "updated": "2026-09-14T11:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico extendido",
-      "traffic": "100+",
+      "name": "calor",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bono",
-      "traffic": "500+",
+      "name": "pronostico extendido",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "candidato",
-      "traffic": "100+",
+      "name": "bono",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "flavio briatore",
+      "traffic": "50000+",
+      "rank": 4
     },
     {
       "name": "1",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "quini 6 13 de septiembre",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "enfrentados marfil película",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "gobernador",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "santos laguna",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "olivia agüero",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "jordy caicedo",
+      "name": "olivia agüero",
       "traffic": "200+",
       "rank": 10
     }
