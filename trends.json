@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T00:00:20Z",
+  "updated": "2026-09-14T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "huracán - racing",
-      "traffic": "500+",
+      "name": "banco nación",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "santiago montiel",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "huracán - racing",
+      "traffic": "10000+",
+      "rank": 3
     },
     {
       "name": "puente festivo",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "allanamiento",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "céline dion",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "virgen del milagro",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "macarena ceballos",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "chimy avila",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "jugador",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "libertad fc - independiente del valle",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "barcelona sc - delfín",
-      "traffic": "500+",
       "rank": 10
     }
   ]
