@@ -1,31 +1,31 @@
 {
-  "updated": "2026-09-14T20:30:14Z",
+  "updated": "2026-09-14T21:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "administración nacional de la seguridad social",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "2026",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "club sportivo independiente rivadavia",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "tenis",
-      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "wisconsin",
-      "traffic": "100+",
+      "name": "tenis",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "defensores de belgrano",
-      "traffic": "100+",
+      "name": "wisconsin",
+      "traffic": "200+",
       "rank": 5
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "inter vs. udinese",
-      "traffic": "200+",
+      "name": "luděk mikloško",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "luděk mikloško",
+      "name": "inter",
       "traffic": "2000+",
       "rank": 10
     }
