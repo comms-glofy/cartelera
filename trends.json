@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T20:00:18Z",
+  "updated": "2026-09-14T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter vs. udinese",
-      "traffic": "200+",
+      "name": "2026",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "luděk mikloško",
+      "name": "club sportivo independiente rivadavia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inter",
-      "traffic": "2000+",
+      "name": "tenis",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "inter milan",
-      "traffic": "500+",
+      "name": "wisconsin",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "paulo dybala",
-      "traffic": "200+",
+      "name": "defensores de belgrano",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "quiniela chaqueña",
-      "traffic": "200+",
+      "name": "leeds vs",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "sebastián montoya",
+      "name": "denuncia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "roma",
-      "traffic": "200+",
+      "name": "kevin mac allister",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "bolivia",
-      "traffic": "500+",
+      "name": "inter vs. udinese",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "helada",
-      "traffic": "500+",
+      "name": "luděk mikloško",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
