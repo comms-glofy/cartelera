@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-13T23:30:15Z",
+  "updated": "2026-09-14T00:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "céline dion",
-      "traffic": "200+",
+      "name": "huracán - racing",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "virgen del milagro",
-      "traffic": "100+",
+      "name": "puente festivo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "macarena ceballos",
+      "name": "allanamiento",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jugador",
-      "traffic": "100+",
+      "name": "céline dion",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "libertad fc - independiente del valle",
-      "traffic": "200+",
+      "name": "virgen del milagro",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "barcelona sc - delfín",
+      "name": "macarena ceballos",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "brics",
-      "traffic": "100+",
+      "name": "chimy avila",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "juan miguel arrayago",
-      "traffic": "1000+",
+      "name": "jugador",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "peñarol - albion",
+      "name": "libertad fc - independiente del valle",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "trinity rodman",
-      "traffic": "200+",
+      "name": "barcelona sc - delfín",
+      "traffic": "500+",
       "rank": 10
     }
   ]
