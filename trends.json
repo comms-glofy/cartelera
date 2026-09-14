@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-14T23:30:15Z",
+  "updated": "2026-09-14T23:55:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gladys la bomba tucumana",
-      "traffic": "200+",
+      "name": "la reina del flow",
+      "traffic": "100+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "estadio alberto j. armando",
+      "name": "gladys la bomba tucumana",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "condena",
+      "name": "horario de verano",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "masterchef celebrity argentina",
-      "traffic": "500+",
+      "name": "estadio alberto j. armando",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cristiano ronaldo",
-      "traffic": "500+",
+      "name": "condena",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "economía",
+      "name": "masterchef celebrity argentina",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "la pampa",
-      "traffic": "200+",
+      "name": "cristiano ronaldo",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "deportivo riestra - lanús",
-      "traffic": "20000+",
+      "name": "economía",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "banfield - barracas central",
-      "traffic": "10000+",
+      "name": "la pampa",
+      "traffic": "200+",
       "rank": 10
     }
   ]
