@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T17:30:16Z",
+  "updated": "2026-09-14T17:35:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "como",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "bob mackie",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "dolar oficial hoy",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "oasis 2027",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "caballo",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "serie a",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "cristina fernández de kirchner",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "mercado cambiario",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "ypf",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "hyrox",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "fecha de pago de jubilaciones y pensiones",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "joanna wietrzyk",
+      "name": "paso a paso",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "como - parma",
-      "traffic": "1000+",
+      "name": "mercado cambiario",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "torino - roma",
-      "traffic": "1000+",
+      "name": "ypf",
+      "traffic": "500+",
       "rank": 10
     }
   ]
