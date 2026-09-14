@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T15:30:16Z",
+  "updated": "2026-09-14T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "asociación del fútbol argentino",
+      "name": "torino - roma",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "salario",
-      "traffic": "500+",
+      "name": "como - parma",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "oasis",
-      "traffic": "200+",
+      "name": "asociación del fútbol argentino",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "club atlético boca juniors",
+      "name": "salario",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "club atlético vélez sarsfield",
+      "name": "oasis",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "club atlético boca juniors",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "club atlético vélez sarsfield",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "dólar estadounidense",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "islas malvinas",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "hayden panettiere",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "fifa",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "inteligencia",
-      "traffic": "200+",
       "rank": 10
     }
   ]
