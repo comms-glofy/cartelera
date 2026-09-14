@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T18:00:19Z",
+  "updated": "2026-09-14T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como",
+      "name": "villarreal - real betis",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "dolar oficial hoy",
-      "traffic": "500+",
+      "name": "leeds - newcastle",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bob mackie",
-      "traffic": "100+",
+      "name": "ruta nacional 237",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "oasis 2027",
+      "name": "the economist",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "caballo",
+      "name": "invierno",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "serie a",
-      "traffic": "100+",
+      "name": "inter - udinese",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "cristina fernández de kirchner",
-      "traffic": "500+",
+      "name": "fenerbahçe",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "paso a paso",
-      "traffic": "200+",
+      "name": "como",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "mercado cambiario",
-      "traffic": "100+",
+      "name": "dolar oficial hoy",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ypf",
-      "traffic": "500+",
+      "name": "bob mackie",
+      "traffic": "100+",
       "rank": 10
     }
   ]
