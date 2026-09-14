@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T19:30:17Z",
+  "updated": "2026-09-14T20:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter",
-      "traffic": "1000+",
+      "name": "inter vs. udinese",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "luděk mikloško",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "inter",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "inter milan",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "paulo dybala",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "quiniela chaqueña",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "sebastián montoya",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "bolivia",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "helada",
+      "name": "sebastián montoya",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "instituto de obra social de las fuerzas armadas",
+      "name": "roma",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "hebe casado",
-      "traffic": "200+",
+      "name": "bolivia",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "como fc",
-      "traffic": "200+",
+      "name": "helada",
+      "traffic": "500+",
       "rank": 10
     }
   ]
