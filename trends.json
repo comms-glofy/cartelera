@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T14:00:18Z",
+  "updated": "2026-09-14T14:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inteligencia",
-      "traffic": "500+",
+      "name": "islas malvinas",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "hayden panettiere",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "oxicodona",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "fifa",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "sam altman",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "juan pablo vojvoda",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "harrison ford",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "incendio",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "manuel adorni",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "kosovo",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "justicia",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "calor",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "18 de septiembre",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico extendido",
-      "traffic": "100+",
       "rank": 10
     }
   ]
