@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-14T23:00:15Z",
+  "updated": "2026-09-14T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estadio alberto j. armando",
+      "name": "gladys la bomba tucumana",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "diego milito",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "estadio alberto j. armando",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "condena",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "masterchef celebrity argentina",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "cristiano ronaldo",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "economía",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "la pampa",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "deportivo riestra - lanús",
-      "traffic": "10000+",
-      "rank": 7
+      "traffic": "20000+",
+      "rank": 9
     },
     {
       "name": "banfield - barracas central",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "crimen",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "braga vs",
-      "traffic": "200+",
       "rank": 10
     }
   ]
