@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T15:00:19Z",
+  "updated": "2026-09-15T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alfredo cornejo",
+      "name": "al ain - al-nassr",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "lunes",
+      "name": "cantante",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "balón de oro 2026",
-      "traffic": "200+",
+      "name": "movistar arena",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "kaley cuoco",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "alfredo cornejo",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "lunes",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "estadio",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "balón de oro 2026",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "hyrox",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "fauda",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "tom pelphrey",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "marco trungelliti",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "bebé",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "la política online",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "voluntariado",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
