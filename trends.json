@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-15T03:30:21Z",
+  "updated": "2026-09-15T04:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "eva bargiela",
-      "traffic": "100+",
+      "name": "gh",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "gran hermano en vivo",
-      "traffic": "200+",
+      "name": "eva bargiela",
+      "traffic": "100+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "charlotte caniggia",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
       "name": "cristian pavón",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "cotización dólar oficial dólar blue hoy",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "leon fc",
-      "traffic": "100+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "michael fox",
       "traffic": "500+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "luis barrionuevo",
       "traffic": "200+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "américa de cali",
       "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "rhea seehorn",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "matías galarza",
+      "traffic": "500+",
       "rank": 10
     }
   ]
