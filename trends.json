@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T04:30:17Z",
+  "updated": "2026-09-15T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "rob reiner",
+      "name": "gran hermano en vivo",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "rob reiner",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "posiciones de instituto atlético central córdoba contra estudiantes de río cuarto",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "charlotte caniggia",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "cristian pavón",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "cotización dólar oficial dólar blue hoy",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "michael j fox",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "luis barrionuevo",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "américa de cali",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "rhea seehorn",
-      "traffic": "500+",
       "rank": 10
     }
   ]
