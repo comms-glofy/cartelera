@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T16:00:18Z",
+  "updated": "2026-09-15T16:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "genoa - fc südtirol",
-      "traffic": "200+",
+      "name": "rayo vallecano - rcd espanyol",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "popstars",
+      "name": "genoa",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "al ain - al-nassr",
-      "traffic": "1000+",
+      "name": "valle salvaje",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "movistar arena",
-      "traffic": "2000+",
+      "name": "genoa - fc südtirol",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "alfredo cornejo",
-      "traffic": "500+",
+      "name": "popstars",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lunes",
+      "name": "al ain - al-nassr",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "estadio",
-      "traffic": "200+",
+      "name": "cantante",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "balón de oro 2026",
-      "traffic": "500+",
+      "name": "movistar arena",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "hyrox",
-      "traffic": "1000+",
+      "name": "alfredo cornejo",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fauda",
-      "traffic": "200+",
+      "name": "lunes",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
