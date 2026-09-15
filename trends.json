@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T09:00:19Z",
+  "updated": "2026-09-15T09:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "eva bargiela",
+      "name": "darío barassi",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "gh",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "eva bargiela",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "emmy",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "gran hermano en vivo",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "rob reiner",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "posiciones de instituto atlético central córdoba contra estudiantes de río cuarto",
       "traffic": "10000+",
-      "rank": 5
-    },
-    {
-      "name": "charlotte caniggia",
-      "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "cristian pavón",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "cotización dólar oficial dólar blue hoy",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "michael j fox",
+      "name": "cotización dólar oficial dólar blue hoy",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "luis barrionuevo",
-      "traffic": "200+",
+      "name": "leon fc",
+      "traffic": "100+",
       "rank": 10
     }
   ]
