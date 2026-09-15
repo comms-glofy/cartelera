@@ -1,35 +1,35 @@
 {
-  "updated": "2026-09-15T17:30:19Z",
+  "updated": "2026-09-15T18:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "alavés - valencia c. f.",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
-    },
-    {
-      "name": "leonardo ponzio",
-      "traffic": "200+",
-      "rank": 2
     },
     {
       "name": "benin",
       "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "leonardo ponzio",
+      "traffic": "200+",
       "rank": 3
     },
     {
       "name": "burkina faso",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "liga de campeones de la afc",
-      "traffic": "200+",
+      "name": "rayo vallecano",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "rayo vallecano",
+      "name": "liga de campeones de la afc",
       "traffic": "200+",
       "rank": 6
     },
@@ -40,7 +40,7 @@
     },
     {
       "name": "rayo vallecano - rcd espanyol",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 8
     },
     {
