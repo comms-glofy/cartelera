@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T19:30:14Z",
+  "updated": "2026-09-15T20:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "escuela",
-      "traffic": "1000+",
+      "name": "educación privada",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "militarización del espacio",
+      "name": "jurado",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "maluma",
-      "traffic": "100+",
+      "name": "liverpool fc",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "escuela",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "hipódromo de san isidro",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "ajax vs",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "alaves vs",
+      "name": "militarización del espacio",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cronograma",
-      "traffic": "200+",
+      "name": "maluma",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "quiniela de tucumán",
+      "name": "alaves vs",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "american",
-      "traffic": "500+",
+      "name": "ajax vs",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "elche c. f. - real madrid",
-      "traffic": "5000+",
+      "name": "cronograma",
+      "traffic": "500+",
       "rank": 10
     }
   ]
