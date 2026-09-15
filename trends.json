@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T19:00:19Z",
+  "updated": "2026-09-15T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "american",
-      "traffic": "200+",
+      "name": "escuela",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "elche c. f. - real madrid",
-      "traffic": "5000+",
+      "name": "militarización del espacio",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "administration",
-      "traffic": "500+",
+      "name": "maluma",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "above",
-      "traffic": "200+",
+      "name": "hipódromo de san isidro",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "against",
-      "traffic": "200+",
+      "name": "ajax vs",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "action",
-      "traffic": "200+",
+      "name": "alaves vs",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "air",
+      "name": "cronograma",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "fiorentina - pisa",
-      "traffic": "1000+",
+      "name": "quiniela de tucumán",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "china",
-      "traffic": "200+",
+      "name": "american",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ezequiel lavezzi",
-      "traffic": "200+",
+      "name": "elche c. f. - real madrid",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
