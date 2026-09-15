@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T16:30:13Z",
+  "updated": "2026-09-15T17:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rayo vallecano - rcd espanyol",
-      "traffic": "500+",
+      "name": "liga de campeones de la afc",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "rayo vallecano",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "emanuel ortega",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "rayo vallecano - rcd espanyol",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "genoa",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "valle salvaje",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "genoa - fc südtirol",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "popstars",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "al ain - al-nassr",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "cantante",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "movistar arena",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "alfredo cornejo",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "lunes",
-      "traffic": "5000+",
+      "name": "cantante",
+      "traffic": "200+",
       "rank": 10
     }
   ]
