@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T10:00:21Z",
+  "updated": "2026-09-15T10:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mike amigorena",
-      "traffic": "100+",
+      "name": "gustavo sofovich",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "darío barassi",
-      "traffic": "200+",
+      "name": "mike amigorena",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "herencia",
+      "name": "concurso de acreedores",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "darío barassi",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "herencia",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "gh",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "eva bargiela",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "emmy",
-      "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "gran hermano en vivo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "rob reiner",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "posiciones de instituto atlético central córdoba contra estudiantes de río cuarto",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "cristian pavón",
-      "traffic": "500+",
       "rank": 10
     }
   ]
