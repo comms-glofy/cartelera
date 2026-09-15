@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T22:30:15Z",
+  "updated": "2026-09-15T23:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "balón de oro",
-      "traffic": "500+",
+      "name": "a que hora juega boca",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "sao paulo vs boca",
-      "traffic": "200+",
+      "name": "fluminense",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "peatón",
-      "traffic": "200+",
+      "name": "meteored",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "alex saab",
-      "traffic": "100+",
+      "name": "balón de oro",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "kylian mbappé",
+      "name": "google deepmind",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "agustin lopez gagliasso",
-      "traffic": "100+",
+      "name": "peatón",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "franco mastantuono",
-      "traffic": "100+",
+      "name": "alex saab",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "quiniela en vivo",
+      "name": "agustin lopez gagliasso",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "cotización",
-      "traffic": "1000+",
+      "name": "ed sheeran",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ceuta",
-      "traffic": "200+",
+      "name": "kylian mbappé",
+      "traffic": "500+",
       "rank": 10
     }
   ]
