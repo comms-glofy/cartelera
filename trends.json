@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-15T15:30:19Z",
+  "updated": "2026-09-15T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "al ain - al-nassr",
-      "traffic": "500+",
+      "name": "genoa - fc südtirol",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cantante",
-      "traffic": "1000+",
+      "name": "popstars",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "al ain - al-nassr",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "movistar arena",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "kaley cuoco",
-      "traffic": "100+",
       "rank": 4
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "estadio",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 7
     },
     {
