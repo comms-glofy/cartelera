@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T11:00:17Z",
+  "updated": "2026-09-15T11:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "voluntariado",
-      "traffic": "100+",
+      "name": "policía",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "gustavo sofovich",
-      "traffic": "2000+",
+      "name": "la política online",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mike amigorena",
+      "name": "voluntariado",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "concurso de acreedores",
-      "traffic": "200+",
+      "name": "sequía",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "darío barassi",
-      "traffic": "500+",
+      "name": "gustavo sofovich",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "herencia",
+      "name": "mike amigorena",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gh",
-      "traffic": "2000+",
+      "name": "concurso de acreedores",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "eva bargiela",
-      "traffic": "100+",
+      "name": "darío barassi",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "gran hermano en vivo",
-      "traffic": "200+",
+      "name": "herencia",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "rob reiner",
-      "traffic": "200+",
+      "name": "gh",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
