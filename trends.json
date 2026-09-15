@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T00:00:16Z",
+  "updated": "2026-09-15T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la reina del flow",
-      "traffic": "100+",
+      "name": "instituto",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "diego milito",
-      "traffic": "2000+",
+      "name": "mariska hargitay",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "emmys",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "la reina del flow",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "gladys la bomba tucumana",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "horario de verano",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "estadio alberto j. armando",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "condena",
+      "name": "diego milito",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "masterchef celebrity argentina",
-      "traffic": "500+",
+      "name": "horario de verano",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "cristiano ronaldo",
-      "traffic": "500+",
+      "name": "estadio alberto j. armando",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "economía",
-      "traffic": "500+",
+      "name": "condena",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "la pampa",
-      "traffic": "200+",
+      "name": "masterchef celebrity argentina",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
