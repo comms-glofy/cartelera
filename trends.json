@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-15T13:00:19Z",
+  "updated": "2026-09-15T13:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fauda",
+      "name": "balón de oro 2026",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "hyrox",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "fauda",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "tom pelphrey",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "marco trungelliti",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "policía",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "la política online",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "voluntariado",
+      "name": "la política online",
       "traffic": "500+",
       "rank": 6
     },
     {
+      "name": "voluntariado",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "sequía",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "gustavo sofovich",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mike amigorena",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "concurso de acreedores",
-      "traffic": "200+",
       "rank": 10
     }
   ]
