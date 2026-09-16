@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T18:17:26Z",
+  "updated": "2026-09-16T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "everton - wolves",
-      "traffic": "200+",
+      "name": "coventry city - aston villa",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "fed",
-      "traffic": "200+",
+      "name": "milan - benfica",
+      "traffic": "500+",
       "rank": 2
     },
     {
       "name": "manchester united - brighton",
-      "traffic": "500+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "sorteo",
-      "traffic": "500+",
+      "name": "everton - wolves",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "massimo moratti",
+      "name": "fed",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "jonathan david",
-      "traffic": "200+",
+      "name": "sorteo",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "diario jornada",
+      "name": "massimo moratti",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "celta de vigo",
+      "name": "jonathan david",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "los ángeles",
+      "name": "diario jornada",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "web app fc 27",
-      "traffic": "500+",
+      "name": "celta de vigo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
