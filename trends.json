@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T18:00:22Z",
+  "updated": "2026-09-16T18:17:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "massimo moratti",
+      "name": "everton - wolves",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jonathan david",
+      "name": "fed",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "celta de vigo",
-      "traffic": "200+",
+      "name": "manchester united - brighton",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "diario jornada",
-      "traffic": "200+",
+      "name": "sorteo",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "web app fc 27",
-      "traffic": "500+",
+      "name": "massimo moratti",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "europa league",
+      "name": "jonathan david",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "armada",
+      "name": "diario jornada",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "atleta",
-      "traffic": "2000+",
+      "name": "celta de vigo",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "submarino",
+      "name": "los ángeles",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lena dunham",
-      "traffic": "200+",
+      "name": "web app fc 27",
+      "traffic": "500+",
       "rank": 10
     }
   ]
