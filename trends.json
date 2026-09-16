@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T20:00:19Z",
+  "updated": "2026-09-16T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "benfica",
-      "traffic": "200+",
+      "name": "barca",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "olympiacos",
-      "traffic": "200+",
+      "name": "bayer leverkusen",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "invierno",
-      "traffic": "5000+",
+      "name": "carabao cup",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "norte",
+      "name": "amiga traidora",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "anderlecht - lyon",
+      "name": "alejandro garnacho",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "leverkusen - celje",
-      "traffic": "200+",
+      "name": "invierno",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "everton",
-      "traffic": "100+",
+      "name": "benfica",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "frente frío",
-      "traffic": "500+",
+      "name": "olympiacos",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "maría becerra",
-      "traffic": "200+",
+      "name": "norte",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "inflación",
-      "traffic": "1000+",
+      "name": "anderlecht - lyon",
+      "traffic": "200+",
       "rank": 10
     }
   ]
