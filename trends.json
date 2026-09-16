@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T11:30:19Z",
+  "updated": "2026-09-16T12:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "16 de septiembre",
+      "name": "acuerdo",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tuberculosis",
+      "name": "16 de septiembre",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima la plata",
+      "name": "tuberculosis",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "calor",
-      "traffic": "200+",
+      "name": "clima la plata",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "calor",
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "twitter",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "michael j fox",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "essence",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "quien gano gran hermano 2026",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "promedio industrial dow jones",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "kick",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
