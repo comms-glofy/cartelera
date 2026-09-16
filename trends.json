@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T01:30:17Z",
+  "updated": "2026-09-16T02:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paredes",
-      "traffic": "200+",
+      "name": "quiniela de tucuman",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "super niño",
-      "traffic": "2000+",
+      "name": "sao paulo vs palmeiras",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lozano boca",
+      "name": "puebla - toluca",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "leonel flores",
+      "name": "álvaro montero",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "boca",
-      "traffic": "200000+",
+      "name": "paredes",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "brasileirao",
+      "name": "lozano boca",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sao paulo fc",
-      "traffic": "1000+",
+      "name": "super niño",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "eduardo costantini",
+      "name": "leonel flores",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "alta montaña",
-      "traffic": "100+",
+      "name": "boca",
+      "traffic": "200000+",
       "rank": 9
     },
     {
-      "name": "flow",
-      "traffic": "5000+",
+      "name": "brasileirao",
+      "traffic": "500+",
       "rank": 10
     }
   ]
