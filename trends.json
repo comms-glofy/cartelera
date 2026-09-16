@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T00:00:16Z",
+  "updated": "2026-09-16T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cristina kirchner",
-      "traffic": "500+",
+      "name": "fabián mazzei",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "paulo henrique ganso",
-      "traffic": "100+",
+      "name": "canobbio fluminense",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sepulveda",
-      "traffic": "200+",
+      "name": "martinelli",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mar",
-      "traffic": "200+",
+      "name": "lluvia",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "palermo",
-      "traffic": "100+",
+      "name": "cristina kirchner",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "vasco",
+      "name": "paulo henrique ganso",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "javier bardem",
+      "name": "sepulveda",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "a que hora juega boca",
-      "traffic": "5000+",
+      "name": "canobbio",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "meteored",
-      "traffic": "2000+",
+      "name": "agustín canobbio",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "balón de oro",
-      "traffic": "500+",
+      "name": "mar",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
