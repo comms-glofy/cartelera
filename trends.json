@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T07:00:21Z",
+  "updated": "2026-09-16T07:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "michael j fox",
+      "name": "twitter",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "essence",
-      "traffic": "200+",
+      "name": "michael j fox",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "quien gano gran hermano 2026",
+      "name": "essence",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "quien gano gran hermano 2026",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "kick",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "promedio industrial dow jones",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "s&p 500",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "virginia messi",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "angel romero",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "el nine",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "boca vs river",
-      "traffic": "100+",
       "rank": 10
     }
   ]
