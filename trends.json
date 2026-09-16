@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T04:30:17Z",
+  "updated": "2026-09-16T05:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,17 +15,17 @@
     },
     {
       "name": "quien gano gran hermano 2026",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "promedio industrial dow jones",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "kick",
       "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "promedio industrial dow jones",
+      "traffic": "200+",
       "rank": 5
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "diario ole",
-      "traffic": "2000+",
+      "name": "el nine",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "el nine",
+      "name": "boca vs river",
       "traffic": "100+",
       "rank": 10
     }
