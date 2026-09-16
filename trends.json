@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-16T02:00:18Z",
+  "updated": "2026-09-16T02:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela de tucuman",
-      "traffic": "500+",
+      "name": "sporting",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "quiniela de tucuman",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "sao paulo vs palmeiras",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "puebla - toluca",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "álvaro montero",
-      "traffic": "200+",
+      "name": "puebla - toluca",
+      "traffic": "500+",
       "rank": 4
     },
     {
       "name": "paredes",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "lozano boca",
+      "name": "álvaro montero",
       "traffic": "200+",
       "rank": 6
     },
     {
       "name": "super niño",
-      "traffic": "100+",
+      "traffic": "2000+",
       "rank": 7
     },
     {
