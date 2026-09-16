@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T22:00:53Z",
+  "updated": "2026-09-16T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fbi",
-      "traffic": "100+",
+      "name": "santos",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "adeyemi",
-      "traffic": "100+",
+      "name": "67",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tiziano gravier",
-      "traffic": "100+",
+      "name": "apuesta",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "lamine yamal",
-      "traffic": "500+",
+      "name": "botafogo - grêmio",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "alumno",
+      "name": "cuerpo de marines de los estados unidos",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "independiente rivadavia - atlético tucumán",
-      "traffic": "10000+",
+      "name": "vix index",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "ldu quito - palmeiras",
-      "traffic": "2000+",
+      "name": "fbi",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "atlético mineiro - santos",
-      "traffic": "2000+",
+      "name": "tiziano gravier",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "jack doohan",
-      "traffic": "200+",
+      "name": "lamine yamal",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "liga de quito",
-      "traffic": "200+",
+      "name": "barca hoy",
+      "traffic": "100+",
       "rank": 10
     }
   ]
