@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T21:00:18Z",
+  "updated": "2026-09-16T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ldu quito - palmeiras",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "atlético mineiro - santos",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "independiente rivadavia - atlético tucumán",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "liga de quito",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "enriquecimiento ilícito",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "leverkusen",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "ypf",
       "traffic": "200+",
-      "rank": 1
+      "rank": 7
     },
     {
       "name": "raphinha",
       "traffic": "200+",
-      "rank": 2
+      "rank": 8
     },
     {
       "name": "inter de milán",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "barca",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "bayer leverkusen",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "shea lacey",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "amiga traidora",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "alejandro garnacho",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "spider-man: brand new day",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "benfica",
-      "traffic": "200+",
+      "name": "barca",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
