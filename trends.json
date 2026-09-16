@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T02:30:20Z",
+  "updated": "2026-09-16T03:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sporting",
-      "traffic": "200+",
+      "name": "diario ole",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "quiniela de tucuman",
-      "traffic": "1000+",
+      "name": "el nine",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sao paulo vs palmeiras",
-      "traffic": "200+",
+      "name": "boca vs river",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "puebla - toluca",
-      "traffic": "500+",
+      "name": "leandro paredes",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "paredes",
+      "name": "santos",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "álvaro montero",
-      "traffic": "200+",
+      "name": "cienciano",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "super niño",
-      "traffic": "2000+",
+      "name": "enner valencia",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "leonel flores",
-      "traffic": "200+",
+      "name": "promedios",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "boca",
-      "traffic": "200000+",
+      "name": "colidio",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "brasileirao",
-      "traffic": "500+",
+      "name": "sporting",
+      "traffic": "200+",
       "rank": 10
     }
   ]
