@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T03:00:17Z",
+  "updated": "2026-09-16T03:25:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario ole",
-      "traffic": "2000+",
+      "name": "kick",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "promedio industrial dow jones",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "virginia messi",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "cómo salió boca juniors",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "s&p 500",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "sebastián villa",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "angel romero",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "el nine",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "boca vs river",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "leandro paredes",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "santos",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "cienciano",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "enner valencia",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "promedios",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "colidio",
-      "traffic": "200+",
+      "name": "juan izquierdo",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "sporting",
-      "traffic": "200+",
+      "name": "leandro paredes",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
