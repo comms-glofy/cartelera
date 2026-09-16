@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-16T14:00:18Z",
+  "updated": "2026-09-16T14:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atragantamiento",
-      "traffic": "100+",
+      "name": "facundo colidio",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "atragantamiento",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "tom cruise",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "argentina sub-20 - selección femenina de fútbol sub-20 de corea del sur",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "edificio",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "roberto cachanosky",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "venta",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "acuerdo",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "16 de septiembre",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tuberculosis",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima tucuman",
+      "name": "tuberculosis",
       "traffic": "100+",
       "rank": 10
     }
