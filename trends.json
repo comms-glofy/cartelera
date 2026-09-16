@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T11:00:18Z",
+  "updated": "2026-09-16T11:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima la plata",
+      "name": "16 de septiembre",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "calor",
-      "traffic": "200+",
+      "name": "tuberculosis",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "twitter",
+      "name": "clima la plata",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "calor",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "twitter",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "michael j fox",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "essence",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "quien gano gran hermano 2026",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "promedio industrial dow jones",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "kick",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "s&p 500",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "virginia messi",
-      "traffic": "200+",
       "rank": 10
     }
   ]
