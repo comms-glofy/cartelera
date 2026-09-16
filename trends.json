@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T19:00:19Z",
+  "updated": "2026-09-16T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "levante - athletic",
-      "traffic": "200+",
+      "name": "río paraná",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "jorge porcel",
-      "traffic": "200+",
+      "name": "inflación",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "milan",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "juicio",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "levante - athletic",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "sevilla",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "jorge porcel",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "barcelona - racing de santander",
-      "traffic": "5000+",
-      "rank": 4
+      "traffic": "10000+",
+      "rank": 8
     },
     {
       "name": "sunderland afc - az",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "coventry city - aston villa",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "milan - benfica",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "manchester united - brighton",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "fed",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "everton - wolves",
-      "traffic": "200+",
+      "name": "coventry city - aston villa",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
