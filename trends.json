@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-16T20:30:14Z",
+  "updated": "2026-09-16T21:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barca",
-      "traffic": "500+",
+      "name": "ypf",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bayer leverkusen",
-      "traffic": "100+",
+      "name": "raphinha",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "carabao cup",
-      "traffic": "100+",
+      "name": "inter de milán",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "amiga traidora",
-      "traffic": "100+",
+      "name": "barca",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "alejandro garnacho",
+      "name": "bayer leverkusen",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "invierno",
-      "traffic": "5000+",
+      "name": "shea lacey",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "benfica",
-      "traffic": "200+",
+      "name": "amiga traidora",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "olympiacos",
+      "name": "alejandro garnacho",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "norte",
+      "name": "spider-man: brand new day",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "anderlecht - lyon",
+      "name": "benfica",
       "traffic": "200+",
       "rank": 10
     }
