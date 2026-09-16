@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T03:30:15Z",
+  "updated": "2026-09-16T04:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kick",
-      "traffic": "1000+",
+      "name": "essence",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "quien gano gran hermano 2026",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "promedio industrial dow jones",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "kick",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "virginia messi",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "cómo salió boca juniors",
-      "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "s&p 500",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "sebastián villa",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "angel romero",
+      "name": "cómo salió boca juniors",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "el nine",
-      "traffic": "100+",
+      "name": "angel romero",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juan izquierdo",
+      "name": "diario ole",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "leandro paredes",
-      "traffic": "2000+",
+      "name": "el nine",
+      "traffic": "100+",
       "rank": 10
     }
   ]
