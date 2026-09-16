@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T00:30:17Z",
+  "updated": "2026-09-16T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fabián mazzei",
-      "traffic": "200+",
+      "name": "boca",
+      "traffic": "100000+",
       "rank": 1
     },
     {
-      "name": "canobbio fluminense",
+      "name": "brasileirao",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "martinelli",
-      "traffic": "100+",
+      "name": "sao paulo fc",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "lluvia",
-      "traffic": "5000+",
+      "name": "eduardo costantini",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "cristina kirchner",
-      "traffic": "500+",
+      "name": "alta montaña",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "paulo henrique ganso",
+      "name": "elina costantini",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sepulveda",
+      "name": "fabián mazzei",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "canobbio",
-      "traffic": "1000+",
+      "name": "canobbio fluminense",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "agustín canobbio",
-      "traffic": "500+",
+      "name": "martinelli",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "mar",
-      "traffic": "1000+",
+      "name": "cristina kirchner",
+      "traffic": "500+",
       "rank": 10
     }
   ]
