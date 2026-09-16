@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T01:00:16Z",
+  "updated": "2026-09-16T01:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca",
-      "traffic": "100000+",
+      "name": "paredes",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "super niño",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "lozano boca",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "leonel flores",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "boca",
+      "traffic": "200000+",
+      "rank": 5
     },
     {
       "name": "brasileirao",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "sao paulo fc",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "eduardo costantini",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "alta montaña",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "elina costantini",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "fabián mazzei",
-      "traffic": "200+",
+      "name": "sao paulo fc",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "canobbio fluminense",
+      "name": "eduardo costantini",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "martinelli",
+      "name": "alta montaña",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "cristina kirchner",
-      "traffic": "500+",
+      "name": "flow",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
