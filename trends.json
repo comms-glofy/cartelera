@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-16T09:30:15Z",
+  "updated": "2026-09-16T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "calor",
-      "traffic": "100+",
+      "name": "selección de fútbol de argentina",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "twitter",
+      "name": "calor",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "michael j fox",
+      "name": "twitter",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "essence",
-      "traffic": "200+",
+      "name": "michael j fox",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "quien gano gran hermano 2026",
+      "name": "essence",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "quien gano gran hermano 2026",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "kick",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "promedio industrial dow jones",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "virginia messi",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "sebastián villa",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "angel romero",
+      "name": "sebastián villa",
       "traffic": "200+",
       "rank": 10
     }
