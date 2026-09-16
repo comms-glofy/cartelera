@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-16T22:30:16Z",
+  "updated": "2026-09-16T23:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos",
+      "name": "palmeiras",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "67",
-      "traffic": "200+",
+      "name": "mineiro",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "apuesta",
-      "traffic": "500+",
+      "name": "josé coronado",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "marcela tinayre",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "a qué hora juega estudiantes",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "67",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "apuesta",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "botafogo - grêmio",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "cuerpo de marines de los estados unidos",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "vix index",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "fbi",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "tiziano gravier",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "lamine yamal",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "barca hoy",
+      "name": "vix index",
       "traffic": "100+",
       "rank": 10
     }
