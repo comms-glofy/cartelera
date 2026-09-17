@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T23:00:16Z",
+  "updated": "2026-09-17T23:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el niño costero",
-      "traffic": "100+",
+      "name": "los ángeles",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "devaluación",
+      "name": "alejandro garnacho",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "adrián ravier",
+      "name": "juegos suramericanos de 2026",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "reestructuración",
-      "traffic": "200+",
+      "name": "el niño costero",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "casa militar",
-      "traffic": "500+",
+      "name": "devaluación",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "leopardus tilcayo",
+      "name": "adrián ravier",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "charles spencer, ix conde de spencer",
+      "name": "reestructuración",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "robo",
+      "name": "casa militar",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "tom hanks",
-      "traffic": "200+",
+      "name": "leopardus tilcayo",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "boca juniors vs vélez",
-      "traffic": "100+",
+      "name": "charles spencer, ix conde de spencer",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
