@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T22:00:17Z",
+  "updated": "2026-09-17T22:19:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "leopardus tilcayo",
-      "traffic": "100+",
+      "name": "reestructuración",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "robo",
+      "name": "casa militar",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tom hanks",
+      "name": "leopardus tilcayo",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sorteo quini",
-      "traffic": "5000+",
+      "name": "robo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "hernán drago",
-      "traffic": "200+",
+      "name": "tom hanks",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "perú",
+      "name": "boca juniors vs vélez",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gran premio de brasil",
-      "traffic": "200+",
+      "name": "sorteo quini",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "paro universitario",
-      "traffic": "100+",
+      "name": "hernán drago",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "federico sturzenegger",
-      "traffic": "1000+",
+      "name": "perú",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "selección de fútbol de paraguay",
-      "traffic": "1000+",
+      "name": "gran premio de brasil",
+      "traffic": "200+",
       "rank": 10
     }
   ]
