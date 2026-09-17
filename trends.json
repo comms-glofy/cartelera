@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T16:30:16Z",
+  "updated": "2026-09-17T17:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "real betis - getafe",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "david beckham",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "allanamiento",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "longevidad",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "thomas tuchel",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "bna",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "marco trungelliti",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "argentina sub 20",
+      "name": "trabajo",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "argentina vs paraguay",
-      "traffic": "1000+",
+      "name": "bna",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "instituto de previsión social",
+      "name": "marco trungelliti",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "sporting",
-      "traffic": "200+",
+      "name": "argentina vs paraguay",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
