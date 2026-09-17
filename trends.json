@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T17:30:15Z",
+  "updated": "2026-09-17T18:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alpine f1 team",
-      "traffic": "200+",
+      "name": "europa league",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "vaspia",
-      "traffic": "100+",
+      "name": "manchester city - norwich",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "real betis - getafe",
-      "traffic": "2000+",
+      "name": "hoffenheim",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "david beckham",
+      "name": "claudio úbeda",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "camionero",
-      "traffic": "100+",
+      "name": "alpine f1 team",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "allanamiento",
-      "traffic": "500+",
+      "name": "vaspia",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "longevidad",
-      "traffic": "500+",
+      "name": "jorge porcel",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "thomas tuchel",
-      "traffic": "100+",
+      "name": "real betis - getafe",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "quiniela de tucuman",
-      "traffic": "100+",
+      "name": "david beckham",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "trabajo",
-      "traffic": "100+",
+      "name": "camionero",
+      "traffic": "200+",
       "rank": 10
     }
   ]
