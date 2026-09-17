@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T19:30:14Z",
+  "updated": "2026-09-17T20:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juventus",
-      "traffic": "200+",
+      "name": "juventus vs",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "allan",
-      "traffic": "100+",
+      "name": "predicción",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "crystal palace",
-      "traffic": "100+",
+      "name": "juventus",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "juanita tinelli",
-      "traffic": "100+",
+      "name": "floyd samba",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "besiktas",
-      "traffic": "100+",
+      "name": "allan",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "málaga - villarreal",
+      "name": "crystal palace",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "crystal palace - lech poznań",
-      "traffic": "200+",
+      "name": "juanita tinelli",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "celtic",
-      "traffic": "200+",
+      "name": "besiktas",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "gasoducto",
-      "traffic": "1000+",
+      "name": "málaga - villarreal",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "juventus - nec",
-      "traffic": "1000+",
+      "name": "crystal palace - lech poznań",
+      "traffic": "500+",
       "rank": 10
     }
   ]
