@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-17T15:30:18Z",
+  "updated": "2026-09-17T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "thomas tuchel",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "quiniela de tucuman",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "bna",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "argentina sub 20",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "argentina vs paraguay",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "instituto de previsión social",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "sporting",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "cat frazier",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "aguara guazu",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "humedad",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "efemerides de hoy",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "josé maría muscari",
+      "name": "aguara guazu",
       "traffic": "200+",
       "rank": 10
     }
