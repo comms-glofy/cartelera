@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-17T20:30:16Z",
+  "updated": "2026-09-17T21:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "predicción",
-      "traffic": "1000+",
+      "name": "federico sturzenegger",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "floyd samba",
-      "traffic": "500+",
+      "name": "selección de fútbol de paraguay",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "juventus",
-      "traffic": "500+",
+      "name": "pampita",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "telemundo",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "millie bobby brown",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "predicción",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "juventus",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "allan",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "juanita tinelli",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "crystal palace",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "besiktas",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "málaga - villarreal",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "crystal palace - lech poznań",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "celtic",
+      "name": "besiktas",
       "traffic": "200+",
       "rank": 10
     }
