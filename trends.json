@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T17:00:16Z",
+  "updated": "2026-09-17T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "real betis - getafe",
-      "traffic": "2000+",
+      "name": "alpine f1 team",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "david beckham",
+      "name": "vaspia",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "allanamiento",
-      "traffic": "200+",
+      "name": "real betis - getafe",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "longevidad",
+      "name": "david beckham",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "thomas tuchel",
+      "name": "camionero",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "allanamiento",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "longevidad",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "thomas tuchel",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "quiniela de tucuman",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "trabajo",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "bna",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "marco trungelliti",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "argentina vs paraguay",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
