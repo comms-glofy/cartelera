@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T21:00:19Z",
+  "updated": "2026-09-17T21:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gran premio de brasil",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "federico sturzenegger",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "selección de fútbol de paraguay",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "pampita",
-      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "telemundo",
+      "name": "felipe vi de españa",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "millie bobby brown",
+      "name": "pampita",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "predicción",
-      "traffic": "1000+",
+      "name": "telemundo",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "juventus",
-      "traffic": "1000+",
+      "name": "arsenal football club",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "allan",
+      "name": "millie bobby brown",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juanita tinelli",
+      "name": "juventus vs",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "besiktas",
-      "traffic": "200+",
+      "name": "predicción",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
