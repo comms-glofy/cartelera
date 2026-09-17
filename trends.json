@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T22:30:17Z",
+  "updated": "2026-09-17T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "reestructuración",
-      "traffic": "200+",
+      "name": "el niño costero",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "casa militar",
+      "name": "devaluación",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "leopardus tilcayo",
-      "traffic": "100+",
+      "name": "adrián ravier",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "reestructuración",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "casa militar",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "leopardus tilcayo",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "charles spencer, ix conde de spencer",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "robo",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "tom hanks",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "boca juniors vs vélez",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "hernán drago",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "perú",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "gran premio de brasil",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "paro universitario",
-      "traffic": "200+",
       "rank": 10
     }
   ]
