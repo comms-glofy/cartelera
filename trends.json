@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-17T20:00:16Z",
+  "updated": "2026-09-17T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juventus vs",
-      "traffic": "100+",
+      "name": "predicción",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "predicción",
+      "name": "floyd samba",
       "traffic": "500+",
       "rank": 2
     },
@@ -19,12 +19,12 @@
       "rank": 3
     },
     {
-      "name": "floyd samba",
+      "name": "allan",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "allan",
+      "name": "juanita tinelli",
       "traffic": "200+",
       "rank": 5
     },
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "juanita tinelli",
+      "name": "besiktas",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "besiktas",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
       "name": "málaga - villarreal",
-      "traffic": "500+",
-      "rank": 9
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "crystal palace - lech poznań",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "celtic",
+      "traffic": "200+",
       "rank": 10
     }
   ]
