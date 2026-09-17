@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-17T18:00:17Z",
+  "updated": "2026-09-17T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "europa league",
-      "traffic": "100+",
+      "name": "real sociedad - bournemouth",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "manchester city - norwich",
-      "traffic": "2000+",
+      "name": "europa league",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "hoffenheim",
-      "traffic": "200+",
+      "name": "manchester city - norwich",
+      "traffic": "10000+",
       "rank": 3
     },
     {
@@ -24,23 +24,23 @@
       "rank": 4
     },
     {
-      "name": "alpine f1 team",
+      "name": "hoffenheim",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "vaspia",
-      "traffic": "100+",
+      "name": "alpine f1 team",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "jorge porcel",
-      "traffic": "1000+",
+      "name": "vaspia",
+      "traffic": "200+",
       "rank": 7
     },
     {
       "name": "real betis - getafe",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 8
     },
     {
