@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-17T13:00:22Z",
+  "updated": "2026-09-17T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sporting",
-      "traffic": "1000+",
+      "name": "instituto de previsión social",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "aguara guazu",
+      "name": "sporting",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "humedad",
+      "name": "cat frazier",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "efemerides de hoy",
+      "name": "aguara guazu",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "josé maría muscari",
-      "traffic": "200+",
+      "name": "humedad",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "día del profesor en argentina",
-      "traffic": "1000+",
+      "name": "hoy es el dia de",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "ari lijalad",
-      "traffic": "500+",
+      "name": "josé maría muscari",
+      "traffic": "200+",
       "rank": 7
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "loto plus",
-      "traffic": "200+",
+      "name": "ari lijalad",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima mar del plata",
+      "name": "loto plus",
       "traffic": "200+",
       "rank": 10
     }
