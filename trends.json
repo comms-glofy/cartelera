@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-17T16:00:18Z",
+  "updated": "2026-09-17T16:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "allanamiento",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "longevidad",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "thomas tuchel",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "bna",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "argentina sub 20",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "argentina vs paraguay",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "instituto de previsión social",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "sporting",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "cat frazier",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "aguara guazu",
+      "name": "sporting",
       "traffic": "200+",
       "rank": 10
     }
