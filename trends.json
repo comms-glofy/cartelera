@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T12:30:17Z",
+  "updated": "2026-09-17T13:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aguara guazu",
-      "traffic": "100+",
+      "name": "sporting",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "humedad",
+      "name": "aguara guazu",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "efemerides de hoy",
-      "traffic": "100+",
+      "name": "humedad",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "josé maría muscari",
-      "traffic": "100+",
+      "name": "efemerides de hoy",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "josé maría muscari",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "día del profesor en argentina",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "ari lijalad",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gerardo zamora",
+      "name": "ari lijalad",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "loto plus",
-      "traffic": "200+",
+      "name": "gerardo zamora",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "clima mar del plata",
+      "name": "loto plus",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "meteorología",
-      "traffic": "1000+",
+      "name": "clima mar del plata",
+      "traffic": "200+",
       "rank": 10
     }
   ]
