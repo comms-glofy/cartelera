@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T19:09:20Z",
+  "updated": "2026-09-17T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "málaga - villarreal",
+      "name": "juventus",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "crystal palace - lech poznań",
-      "traffic": "200+",
+      "name": "allan",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gasoducto",
-      "traffic": "1000+",
+      "name": "crystal palace",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "juventus - nec",
-      "traffic": "200+",
+      "name": "juanita tinelli",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "real sociedad - bournemouth",
-      "traffic": "200+",
+      "name": "besiktas",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "europa league",
-      "traffic": "500+",
+      "name": "málaga - villarreal",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "manchester city - norwich",
-      "traffic": "10000+",
+      "name": "crystal palace - lech poznań",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "claudio úbeda",
+      "name": "celtic",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "hoffenheim",
-      "traffic": "500+",
+      "name": "gasoducto",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "vaspia",
-      "traffic": "200+",
+      "name": "juventus - nec",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
