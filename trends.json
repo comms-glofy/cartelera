@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-16T23:30:15Z",
+  "updated": "2026-09-17T00:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "botafogo",
-      "traffic": "200+",
+      "name": "corinthians - estudiantes",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "faiq bolkiah",
-      "traffic": "200+",
+      "name": "río uruguay",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "barrio",
+      "name": "once caldas - tolima",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "carlos sainz jr.",
-      "traffic": "100+",
+      "name": "club atlético chacarita juniors",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "adrian newey",
-      "traffic": "200+",
+      "name": "asociación de trabajadores del estado",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "médico",
-      "traffic": "200+",
+      "name": "facundo moyano",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "hacker",
-      "traffic": "100+",
+      "name": "inter miami - cruz azul",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "inter de miami",
-      "traffic": "2000+",
+      "name": "botafogo",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "palmeiras",
-      "traffic": "2000+",
+      "name": "faiq bolkiah",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "mineiro",
-      "traffic": "2000+",
+      "name": "barrio",
+      "traffic": "200+",
       "rank": 10
     }
   ]
