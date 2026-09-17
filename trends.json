@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T10:30:18Z",
+  "updated": "2026-09-17T11:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mar del plata",
-      "traffic": "200+",
+      "name": "día del profesor en argentina",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "meteorología",
+      "name": "gerardo zamora",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lotería de santa fe",
-      "traffic": "200+",
+      "name": "ari lijalad",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "quiniela",
-      "traffic": "500+",
+      "name": "loto plus",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "cipolletti",
+      "name": "clima mar del plata",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "arresto domiciliario",
-      "traffic": "200+",
+      "name": "meteorología",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "antonela roccuzzo",
+      "name": "lotería de santa fe",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "quini6",
-      "traffic": "5000+",
+      "name": "quiniela",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "andrés blanco",
-      "traffic": "100+",
+      "name": "cipolletti",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "loto",
-      "traffic": "100+",
+      "name": "arresto domiciliario",
+      "traffic": "200+",
       "rank": 10
     }
   ]
