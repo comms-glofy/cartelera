@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-17T02:30:16Z",
+  "updated": "2026-09-17T03:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quien gano gh",
-      "traffic": "100+",
+      "name": "flamengo",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "caruso lombardi",
-      "traffic": "100+",
+      "name": "flamengo vs",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "quien gano gran hermano 2026",
-      "traffic": "1000+",
+      "name": "nico varrone",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "joaquin correa",
-      "traffic": "200+",
+      "name": "roña castro",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "gran hermano en vivo",
-      "traffic": "2000+",
+      "name": "muslera",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "telefe",
+      "name": "quien gano gh",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "mi telefe",
-      "traffic": "1000+",
+      "name": "caruso lombardi",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "rodrigo garro",
-      "traffic": "200+",
+      "name": "quien gano gran hermano 2026",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "inter miami cf",
+      "name": "casemiro",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "pipino cuevas",
-      "traffic": "200+",
+      "name": "telefe",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
