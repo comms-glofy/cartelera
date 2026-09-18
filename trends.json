@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T17:00:17Z",
+  "updated": "2026-09-18T17:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "encuesta",
-      "traffic": "1000+",
+      "name": "club de fútbol",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lockheed martin f-35 lightning ii",
+      "name": "taller mecánico",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ángel correa",
+      "name": "base naval",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "bullrich",
-      "traffic": "500+",
+      "name": "encuesta",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "500+",
+      "name": "lockheed martin f-35 lightning ii",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ceferino reato",
+      "name": "ángel correa",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "fuerzas armadas de los estados unidos",
-      "traffic": "200+",
+      "name": "bullrich",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "serie de televisión",
-      "traffic": "500+",
+      "name": "administración nacional de la seguridad social",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "tom cruise",
+      "name": "ceferino reato",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "limpieza",
-      "traffic": "1000+",
+      "name": "serie de televisión",
+      "traffic": "500+",
       "rank": 10
     }
   ]
