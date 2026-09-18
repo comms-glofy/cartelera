@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T16:00:18Z",
+  "updated": "2026-09-18T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fuerzas armadas de los estados unidos",
-      "traffic": "200+",
+      "name": "administración nacional de la seguridad social",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "serie de televisión",
+      "name": "ceferino reato",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tom cruise",
-      "traffic": "100+",
+      "name": "fuerzas armadas de los estados unidos",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "limpieza",
+      "name": "tom cruise",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ea sports fc 27",
-      "traffic": "100+",
+      "name": "serie de televisión",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "limpieza",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "club atlético nueva chicago",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "lucas blondel",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "indio solari",
+      "name": "ea sports fc 27",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "premio",
-      "traffic": "5000+",
+      "name": "lucas blondel",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ala delta motorizada",
-      "traffic": "1000+",
+      "name": "indio solari",
+      "traffic": "100+",
       "rank": 10
     }
   ]
