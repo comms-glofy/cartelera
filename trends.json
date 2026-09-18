@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T20:00:17Z",
+  "updated": "2026-09-18T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético platense",
-      "traffic": "200+",
+      "name": "ayrton costa",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "roberto mouras",
-      "traffic": "100+",
+      "name": "meteorología",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "neumopatia",
+      "name": "bundesliga",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "espanyol",
-      "traffic": "200+",
+      "name": "monaco",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "sassuolo",
-      "traffic": "100+",
+      "name": "virginia mones ruiz",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "bayern",
-      "traffic": "500+",
+      "name": "pluribus",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "desalojo",
+      "name": "club atlético platense",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bayern munich",
-      "traffic": "200+",
+      "name": "roberto mouras",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "avión",
+      "name": "neumopatia",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "robert de niro",
-      "traffic": "200+",
+      "name": "sassuolo",
+      "traffic": "100+",
       "rank": 10
     }
   ]
