@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-18T00:00:16Z",
+  "updated": "2026-09-18T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flamengo - independiente del valle",
-      "traffic": "2000+",
+      "name": "juicio",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "torque - cienciano",
-      "traffic": "2000+",
+      "name": "senado",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "josé mayans",
-      "traffic": "100+",
+      "name": "bucaramanga - medellín",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ciberataque",
-      "traffic": "100+",
+      "name": "masterchef",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "marley",
-      "traffic": "100+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 5
     },
     {
-      "name": "tormenta",
-      "traffic": "5000+",
+      "name": "flamengo",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "boca velez copa argentina",
+      "name": "eduardo costantini",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "los ángeles",
-      "traffic": "500+",
+      "name": "flamengo - independiente del valle",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "alejandro garnacho",
-      "traffic": "200+",
+      "name": "torque - cienciano",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "juegos suramericanos de 2026",
+      "name": "josé mayans",
       "traffic": "200+",
       "rank": 10
     }
