@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T19:30:18Z",
+  "updated": "2026-09-18T20:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "desalojo",
-      "traffic": "100+",
+      "name": "club atlético platense",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bayern munich",
-      "traffic": "200+",
+      "name": "roberto mouras",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "avión",
-      "traffic": "1000+",
+      "name": "neumopatia",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "robert de niro",
+      "name": "espanyol",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "frontera entre argentina y bolivia",
-      "traffic": "200+",
+      "name": "sassuolo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "julián vignolo",
-      "traffic": "100+",
+      "name": "bayern",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "rcd espanyol - elche c. f.",
-      "traffic": "1000+",
+      "name": "desalojo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "monza - sassuolo",
-      "traffic": "500+",
+      "name": "bayern munich",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cadillac en fórmula 1",
-      "traffic": "500+",
+      "name": "avión",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "la página millonaria",
-      "traffic": "500+",
+      "name": "robert de niro",
+      "traffic": "200+",
       "rank": 10
     }
   ]
