@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T21:30:24Z",
+  "updated": "2026-09-18T22:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manuel adorni",
-      "traffic": "100+",
+      "name": "máximo kirchner",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "kick",
-      "traffic": "1000+",
+      "name": "circuito callejero de bakú",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima mendoza",
+      "name": "promedio industrial dow jones",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jonathan silva",
-      "traffic": "500+",
+      "name": "paso internacional los libertadores",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "la marcha de la bronca",
-      "traffic": "500+",
+      "name": "manuel adorni",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "chelsea vs",
-      "traffic": "500+",
+      "name": "kick",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "dólar estadounidense",
-      "traffic": "500+",
+      "name": "clima mendoza",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "roberto cachanosky",
-      "traffic": "200+",
+      "name": "jonathan silva",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "hugo moyano",
-      "traffic": "200+",
+      "name": "dólar estadounidense",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "lamine yamal",
-      "traffic": "200+",
+      "name": "la marcha de la bronca",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
