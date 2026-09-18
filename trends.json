@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T12:00:15Z",
+  "updated": "2026-09-18T12:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "avión de caza",
+      "name": "tom hardy",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "todo noticias",
-      "traffic": "1000+",
+      "name": "hechos reales",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sanciones internacionales contra irán",
+      "name": "axel kicillof",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "avión de caza",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "todo noticias",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "sanciones internacionales contra irán",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "18 de septiembre",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "hyrox",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "clima san luis",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "prisión preventiva",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "clima mar del plata",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "bombero",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "horóscopo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
