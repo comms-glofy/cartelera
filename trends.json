@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T17:30:17Z",
+  "updated": "2026-09-18T18:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club de fútbol",
-      "traffic": "200+",
+      "name": "bayern - fc union berlin",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "taller mecánico",
+      "name": "dolarización",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "base naval",
-      "traffic": "100+",
+      "name": "2026",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "encuesta",
-      "traffic": "1000+",
+      "name": "club de fútbol",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lockheed martin f-35 lightning ii",
-      "traffic": "100+",
+      "name": "base naval",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "taller mecánico",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "encuesta",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "lockheed martin f-35 lightning ii",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "ángel correa",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "bullrich",
-      "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "administración nacional de la seguridad social",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "ceferino reato",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "serie de televisión",
-      "traffic": "500+",
       "rank": 10
     }
   ]
