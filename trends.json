@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T09:30:17Z",
+  "updated": "2026-09-18T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la plata",
-      "traffic": "100+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "2027",
+      "name": "choque frontal",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "avenida brasil",
+      "name": "misiones",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "jack doohan",
-      "traffic": "500+",
+      "name": "pronostico posadas",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "partidos de copa libertadores",
+      "name": "la plata",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "antonela roccuzzo",
-      "traffic": "1000+",
+      "name": "2027",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sudamericana",
-      "traffic": "2000+",
+      "name": "valle salvaje",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "accidente rosario",
-      "traffic": "500+",
+      "name": "tiempo tucuman",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "brad pitt",
-      "traffic": "200+",
+      "name": "avenida brasil",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "charlie hunnam",
-      "traffic": "100+",
+      "name": "jack doohan",
+      "traffic": "500+",
       "rank": 10
     }
   ]
