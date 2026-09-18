@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T01:30:14Z",
+  "updated": "2026-09-18T02:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "subsidio",
-      "traffic": "200+",
+      "name": "pozo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "city torque",
+      "name": "vicentin",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marta kostiuk",
+      "name": "subsidio",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ben saunders",
-      "traffic": "100+",
+      "name": "city torque",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sol pérez",
+      "name": "marta kostiuk",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "base militar",
-      "traffic": "200+",
+      "name": "ben saunders",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "senado",
+      "name": "sol pérez",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "juicio",
+      "name": "base militar",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "bucaramanga - medellín",
+      "name": "senado",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "masterchef",
-      "traffic": "200+",
+      "name": "juicio",
+      "traffic": "500+",
       "rank": 10
     }
   ]
