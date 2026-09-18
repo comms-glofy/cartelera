@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-18T21:00:21Z",
+  "updated": "2026-09-18T21:05:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la marcha de la bronca",
-      "traffic": "500+",
+      "name": "jonathan silva",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "chelsea football club",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "chelsea vs",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "la marcha de la bronca",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "dólar estadounidense",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "roberto cachanosky",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "lamine yamal",
-      "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "hugo moyano",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "club estudiantes de la plata",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "bayer",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "central córdoba - defensa y justicia",
-      "traffic": "5000+",
+      "name": "lamine yamal",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "corteza terrestre",
+      "name": "bayer",
       "traffic": "100+",
       "rank": 10
     }
