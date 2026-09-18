@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T00:35:26Z",
+  "updated": "2026-09-18T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "base militar",
+      "name": "marta kostiuk",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "juicio",
-      "traffic": "500+",
+      "name": "ben saunders",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "senado",
+      "name": "sol pérez",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bucaramanga - medellín",
+      "name": "base militar",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "masterchef",
-      "traffic": "200+",
+      "name": "juicio",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "senado",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "flamengo",
-      "traffic": "10000+",
+      "name": "bucaramanga - medellín",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "eduardo costantini",
+      "name": "masterchef",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "flamengo - independiente del valle",
-      "traffic": "10000+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 9
     },
     {
-      "name": "torque - cienciano",
-      "traffic": "2000+",
+      "name": "flamengo",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
