@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T04:00:16Z",
+  "updated": "2026-09-18T04:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "avenida brasil",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "jack doohan",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "boca vs velez copa argentina",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "elina costantini",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "partidos de copa libertadores",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "antonela roccuzzo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "sudamericana",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "accidente rosario",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "brad pitt",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "charlie hunnam",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "pozo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
