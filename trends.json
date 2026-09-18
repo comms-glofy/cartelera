@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T15:00:16Z",
+  "updated": "2026-09-18T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "premio",
-      "traffic": "500+",
+      "name": "lucas blondel",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "premio",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "noticia",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
-      "name": "diario el eco de tandil",
-      "traffic": "1000+",
-      "rank": 4
+      "name": "auh",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "harry kane",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "diario el eco de tandil",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "copa davis",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "venti",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "cuti romero",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "causa de los cuadernos",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "estudiante",
-      "traffic": "500+",
       "rank": 10
     }
   ]
