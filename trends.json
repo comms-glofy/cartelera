@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T11:30:14Z",
+  "updated": "2026-09-18T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sanciones internacionales contra irán",
+      "name": "avión de caza",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "18 de septiembre",
-      "traffic": "100+",
+      "name": "todo noticias",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "hyrox",
+      "name": "sanciones internacionales contra irán",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima san luis",
-      "traffic": "100+",
+      "name": "18 de septiembre",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "prisión preventiva",
-      "traffic": "500+",
+      "name": "hyrox",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "clima san luis",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "prisión preventiva",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "clima mar del plata",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "bombero",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "horóscopo",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima",
-      "traffic": "200000+",
-      "rank": 9
-    },
-    {
-      "name": "choque frontal",
-      "traffic": "500+",
       "rank": 10
     }
   ]
