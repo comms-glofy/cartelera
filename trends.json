@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T09:00:23Z",
+  "updated": "2026-09-18T09:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "avenida brasil",
+      "name": "la plata",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "jack doohan",
-      "traffic": "200+",
+      "name": "2027",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "partidos de copa libertadores",
+      "name": "avenida brasil",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "jack doohan",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "partidos de copa libertadores",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "antonela roccuzzo",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "sudamericana",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "accidente rosario",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "brad pitt",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "charlie hunnam",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "pozo",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "vicentin",
-      "traffic": "500+",
       "rank": 10
     }
   ]
