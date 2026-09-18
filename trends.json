@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T10:00:18Z",
+  "updated": "2026-09-18T10:29:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "horóscopo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "choque frontal",
-      "traffic": "100+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 2
     },
     {
-      "name": "misiones",
-      "traffic": "100+",
+      "name": "choque frontal",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "pronostico posadas",
+      "name": "control de alcoholemia",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "la plata",
+      "name": "pronostico posadas",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "2027",
+      "name": "la plata",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "valle salvaje",
-      "traffic": "100+",
+      "name": "2027",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tiempo tucuman",
+      "name": "valle salvaje",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "avenida brasil",
+      "name": "tiempo tucuman",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "jack doohan",
-      "traffic": "500+",
+      "name": "avenida brasil",
+      "traffic": "100+",
       "rank": 10
     }
   ]
