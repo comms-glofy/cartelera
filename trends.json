@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-18T02:00:15Z",
+  "updated": "2026-09-18T02:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pozo",
+      "name": "charlie hunnam",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "vicentin",
-      "traffic": "200+",
+      "name": "pozo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "subsidio",
+      "name": "vicentin",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "city torque",
+      "name": "subsidio",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "city torque",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "marta kostiuk",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ben saunders",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sol pérez",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "base militar",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "senado",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "juicio",
+      "name": "senado",
       "traffic": "500+",
       "rank": 10
     }
