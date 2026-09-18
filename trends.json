@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T08:30:17Z",
+  "updated": "2026-09-18T09:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gato",
-      "traffic": "1000+",
-      "rank": 1
-    },
-    {
       "name": "avenida brasil",
       "traffic": "100+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "jack doohan",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "partidos de copa libertadores",
       "traffic": "100+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "antonela roccuzzo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "sudamericana",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "accidente rosario",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "brad pitt",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "charlie hunnam",
       "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "pozo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "jorginho",
-      "traffic": "200+",
+      "name": "vicentin",
+      "traffic": "500+",
       "rank": 10
     }
   ]
