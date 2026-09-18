@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-18T13:00:17Z",
+  "updated": "2026-09-18T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tilcayo",
-      "traffic": "2000+",
+      "name": "venti",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tom hardy",
+      "name": "copa davis",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "cuti romero",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "estudiante",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "causa de los cuadernos",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "tilcayo",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "tom hardy",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "hechos reales",
       "traffic": "100+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "axel kicillof",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "avión de caza",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "iván schargrodsky",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "todo noticias",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "sanciones internacionales contra irán",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "18 de septiembre",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "hyrox",
+      "name": "avión de caza",
       "traffic": "100+",
       "rank": 10
     }
