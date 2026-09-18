@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T21:05:30Z",
+  "updated": "2026-09-18T21:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jonathan silva",
-      "traffic": "200+",
+      "name": "manuel adorni",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "chelsea football club",
-      "traffic": "100+",
+      "name": "kick",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "chelsea vs",
-      "traffic": "500+",
+      "name": "clima mendoza",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "la marcha de la bronca",
+      "name": "jonathan silva",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "dólar estadounidense",
-      "traffic": "200+",
+      "name": "la marcha de la bronca",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "chelsea vs",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "dólar estadounidense",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "roberto cachanosky",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "hugo moyano",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "club estudiantes de la plata",
-      "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lamine yamal",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "bayer",
-      "traffic": "100+",
       "rank": 10
     }
   ]
