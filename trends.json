@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T16:30:15Z",
+  "updated": "2026-09-18T17:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "encuesta",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "lockheed martin f-35 lightning ii",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "ángel correa",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "bullrich",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "administración nacional de la seguridad social",
       "traffic": "500+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "ceferino reato",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "fuerzas armadas de los estados unidos",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
+    },
+    {
+      "name": "serie de televisión",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "tom cruise",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "serie de televisión",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "limpieza",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "club atlético nueva chicago",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "ea sports fc 27",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "lucas blondel",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "indio solari",
-      "traffic": "100+",
+      "name": "limpieza",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
