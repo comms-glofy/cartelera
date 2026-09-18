@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T07:30:18Z",
+  "updated": "2026-09-18T08:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "elina costantini",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
       "name": "partidos de copa libertadores",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "antonela roccuzzo",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "sudamericana",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "accidente rosario",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "brad pitt",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "charlie hunnam",
+      "traffic": "100+",
       "rank": 10
     }
   ]
