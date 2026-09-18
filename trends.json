@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T00:30:17Z",
+  "updated": "2026-09-18T00:35:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juicio",
+      "name": "base militar",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "senado",
-      "traffic": "200+",
+      "name": "juicio",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "bucaramanga - medellín",
+      "name": "senado",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "masterchef",
+      "name": "bucaramanga - medellín",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "masterchef",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "flamengo",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "eduardo costantini",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "flamengo - independiente del valle",
-      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "torque - cienciano",
-      "traffic": "1000+",
+      "name": "flamengo - independiente del valle",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "josé mayans",
-      "traffic": "200+",
+      "name": "torque - cienciano",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
