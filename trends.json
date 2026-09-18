@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-18T19:00:22Z",
+  "updated": "2026-09-18T19:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "robert de niro",
-      "traffic": "200+",
+      "name": "desalojo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "frontera entre argentina y bolivia",
+      "name": "bayern munich",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "julián vignolo",
-      "traffic": "100+",
+      "name": "avión",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "rcd espanyol - elche c. f.",
-      "traffic": "500+",
+      "name": "robert de niro",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "frontera entre argentina y bolivia",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "julián vignolo",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "rcd espanyol - elche c. f.",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "monza - sassuolo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "cadillac en fórmula 1",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "la página millonaria",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "alavés gloriosas - barcelona",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "brentford - chelsea",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "mónaco - lens",
+      "name": "la página millonaria",
       "traffic": "500+",
       "rank": 10
     }
