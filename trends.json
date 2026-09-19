@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-19T02:00:18Z",
+  "updated": "2026-09-19T02:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cazzu",
-      "traffic": "100+",
+      "name": "racing de cordoba",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "cautiva",
-      "traffic": "500+",
+      "name": "luiz inácio lula da silva",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima san juan",
+      "name": "charlie hunnam",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "crónica",
-      "traffic": "200+",
+      "name": "ella beatty",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "emilia attias",
-      "traffic": "500+",
+      "name": "cazzu",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "alianza lima - adt",
+      "name": "cautiva",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "aucas - macará",
-      "traffic": "200+",
+      "name": "clima san juan",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "toronto tempo - fever",
-      "traffic": "100+",
+      "name": "crónica",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "dinamarca",
+      "name": "emilia attias",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "julieta poggio",
-      "traffic": "500+",
+      "name": "alianza lima - adt",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
