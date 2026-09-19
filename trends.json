@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-19T13:30:16Z",
+  "updated": "2026-09-19T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la nacion",
-      "traffic": "1000+",
+      "name": "tottenham",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "google",
-      "traffic": "500+",
+      "name": "maps",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "infobae",
+      "name": "la nacion",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "clarin",
-      "traffic": "200+",
+      "name": "google",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "infobae",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "clarin",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "tn",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "west ham",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "juárez - tigres",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "resident evil noche cero",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "racing de cordoba",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "chechu bonelli",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
