@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-19T00:00:19Z",
+  "updated": "2026-09-19T00:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ricardo darín",
-      "traffic": "500+",
+      "name": "toronto tempo - fever",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "refinanciación",
-      "traffic": "500+",
+      "name": "julieta poggio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "racing - sarmiento",
-      "traffic": "5000+",
+      "name": "dinamarca",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "autódromo",
+      "name": "eugenio zanetti",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "emiliano martínez",
-      "traffic": "500+",
+      "name": "moria",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "brian sarmiento",
-      "traffic": "200+",
+      "name": "ricardo darín",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "gobierno",
-      "traffic": "1000+",
+      "name": "refinanciación",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "agustín marchesín",
-      "traffic": "1000+",
+      "name": "racing - sarmiento",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "uber",
-      "traffic": "1000+",
+      "name": "autódromo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "la cámpora",
-      "traffic": "2000+",
+      "name": "emiliano martínez",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
