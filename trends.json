@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-19T01:00:16Z",
+  "updated": "2026-09-19T01:25:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "emilia attias",
-      "traffic": "500+",
+      "name": "cautiva",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "crónica",
+      "name": "clima san juan",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "emilia attias",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "crónica",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "alianza lima - adt",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "aucas - macará",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "toronto tempo - fever",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "julieta poggio",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "dinamarca",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "eugenio zanetti",
-      "traffic": "200+",
+      "name": "julieta poggio",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "moria",
-      "traffic": "200+",
+      "name": "dinamarca",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ricardo darín",
-      "traffic": "1000+",
+      "name": "moria",
+      "traffic": "500+",
       "rank": 10
     }
   ]
