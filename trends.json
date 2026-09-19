@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T20:30:16Z",
+  "updated": "2026-09-19T21:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "lanacion",
+      "name": "weather tomorrow",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "tottenham",
+      "name": "lanacion",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "maps",
-      "traffic": "500+",
+      "name": "tottenham",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "la nacion",
+      "name": "maps",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "google",
-      "traffic": "1000+",
+      "name": "la nacion",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "infobae",
-      "traffic": "2000+",
+      "name": "google",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
