@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-19T11:30:13Z",
+  "updated": "2026-09-19T12:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "google",
+      "name": "la nacion",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "infobae",
+      "name": "google",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clarin",
-      "traffic": "100+",
+      "name": "infobae",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "west ham",
+      "name": "clarin",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "west ham",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "juárez - tigres",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "racing de cordoba",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "chechu bonelli",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "luiz inácio lula da silva",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "charlie hunnam",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "ella beatty",
-      "traffic": "100+",
       "rank": 10
     }
   ]
