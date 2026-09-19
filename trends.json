@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T12:30:18Z",
+  "updated": "2026-09-19T13:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "google",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "racing de cordoba",
+      "name": "resident evil noche cero",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "chechu bonelli",
-      "traffic": "5000+",
+      "name": "racing de cordoba",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "luiz inácio lula da silva",
-      "traffic": "200+",
+      "name": "chechu bonelli",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
