@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-18T23:30:16Z",
+  "updated": "2026-09-19T00:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing",
-      "traffic": "2000+",
+      "name": "ricardo darín",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "emiliano martínez",
+      "name": "refinanciación",
       "traffic": "500+",
       "rank": 2
     },
     {
+      "name": "racing - sarmiento",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "autódromo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "emiliano martínez",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "brian sarmiento",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "gobierno",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "agustín marchesín",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "uber",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "la cámpora",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "parense de manos",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "a qué hora juega racing",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "máximo kirchner",
-      "traffic": "200+",
+      "name": "la cámpora",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
