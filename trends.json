@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-19T16:00:14Z",
+  "updated": "2026-09-19T16:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "arsenal",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tottenham",
+      "name": "play store",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "maps",
-      "traffic": "500+",
+      "name": "tottenham",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "la nacion",
+      "name": "maps",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "la nacion",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "google",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "infobae",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clarin",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tn",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "adidas",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "west ham",
-      "traffic": "500+",
       "rank": 10
     }
   ]
