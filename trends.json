@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-19T11:00:18Z",
+  "updated": "2026-09-19T11:18:56Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "west ham",
-      "traffic": "200+",
+      "name": "google",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "juárez - tigres",
-      "traffic": "500+",
+      "name": "infobae",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "racing de cordoba",
+      "name": "clarin",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "west ham",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "juárez - tigres",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "racing de cordoba",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "chechu bonelli",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "luiz inácio lula da silva",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "charlie hunnam",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "ella beatty",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "cazzu",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "cautiva",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima san juan",
+      "name": "ella beatty",
       "traffic": "100+",
       "rank": 10
     }
