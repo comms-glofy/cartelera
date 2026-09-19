@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-19T03:30:23Z",
+  "updated": "2026-09-19T04:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing de cordoba",
+      "name": "west ham",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "luiz inácio lula da silva",
+      "name": "juárez - tigres",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "charlie hunnam",
+      "name": "racing de cordoba",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ella beatty",
-      "traffic": "100+",
+      "name": "chechu bonelli",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "cazzu",
-      "traffic": "100+",
+      "name": "luiz inácio lula da silva",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cautiva",
-      "traffic": "500+",
+      "name": "charlie hunnam",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "clima san juan",
+      "name": "ella beatty",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "crónica",
-      "traffic": "500+",
+      "name": "cazzu",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "emilia attias",
-      "traffic": "500+",
+      "name": "alianza lima",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "masterchef",
-      "traffic": "200+",
+      "name": "cautiva",
+      "traffic": "500+",
       "rank": 10
     }
   ]
