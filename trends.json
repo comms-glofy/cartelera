@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-19T15:00:16Z",
+  "updated": "2026-09-19T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tottenham",
+      "name": "arsenal",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "maps",
-      "traffic": "200+",
+      "name": "tottenham",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "la nacion",
-      "traffic": "1000+",
+      "name": "maps",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "la nacion",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "google",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "infobae",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clarin",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tn",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "adidas",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "west ham",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "juárez - tigres",
+      "name": "west ham",
       "traffic": "500+",
       "rank": 10
     }
