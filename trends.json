@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T22:00:16Z",
+  "updated": "2026-09-20T22:09:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,7 +14,7 @@
       "rank": 2
     },
     {
-      "name": "boca vs san lorenzo",
+      "name": "san lorenzo - boca juniors",
       "traffic": "10000+",
       "rank": 3
     },
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
+      "name": "city",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "atletico madrid",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "real madrid",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "manchester city",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "apagón eléctrico",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "smn",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "la nacion",
+      "name": "smn",
       "traffic": "200+",
       "rank": 10
     }
