@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T02:30:17Z",
+  "updated": "2026-09-20T03:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "instituto",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
-      "name": "como va river",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
       "name": "river vs huracan",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "roma fc",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "arsenal",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "telefe",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "weather tomorrow",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "play store",
+      "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "tottenham",
       "traffic": "100+",
       "rank": 10
     }
