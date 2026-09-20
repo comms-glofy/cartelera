@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-20T19:37:05Z",
+  "updated": "2026-09-20T20:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca san lorenzo",
-      "traffic": "1000+",
-      "rank": 1
-    },
-    {
       "name": "boca vs san lorenzo",
       "traffic": "5000+",
-      "rank": 2
-    },
-    {
-      "name": "atletico",
-      "traffic": "200+",
-      "rank": 3
+      "rank": 1
     },
     {
       "name": "city",
       "traffic": "200+",
-      "rank": 4
+      "rank": 2
     },
     {
       "name": "atletico madrid",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "real madrid",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "manchester city",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "apagón eléctrico",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "smn",
       "traffic": "200+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "la nacion",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "ufc",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "instituto",
+      "traffic": "500+",
       "rank": 10
     }
   ]
