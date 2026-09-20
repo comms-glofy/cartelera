@@ -1,52 +1,57 @@
 {
-  "updated": "2026-09-20T13:30:15Z",
+  "updated": "2026-09-20T13:57:42Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "manchester city",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "apagón eléctrico",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "la nacion",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ufc",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "instituto",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "river plate - huracán",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pelota",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "roma fc",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "arsenal",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "telefe",
       "traffic": "100+",
-      "rank": 9
+      "rank": 10
     }
   ]
 }
