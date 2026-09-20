@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-20T01:00:18Z",
+  "updated": "2026-09-20T01:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "corte de luz",
-      "traffic": "5000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "google",
-      "traffic": "1000+",
+      "name": "la nacion",
+      "traffic": "500+",
       "rank": 10
     }
   ]
