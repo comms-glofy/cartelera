@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-19T23:30:16Z",
+  "updated": "2026-09-20T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "river plate - huracán",
+      "name": "river vs huracan",
       "traffic": "1000+",
       "rank": 1
     },
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "tottenham",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
       "name": "maps",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "la nacion",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "google",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
