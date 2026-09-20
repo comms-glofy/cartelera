@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-20T00:00:16Z",
+  "updated": "2026-09-20T00:13:46Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "river vs huracan",
-      "traffic": "1000+",
+      "name": "river",
+      "traffic": "5000+",
       "rank": 1
+    },
+    {
+      "name": "corte de luz",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "roma fc",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "arsenal",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "telefe",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "weather tomorrow",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "play store",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lanacion",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "maps",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "la nacion",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "google",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
