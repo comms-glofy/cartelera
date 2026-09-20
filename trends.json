@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-20T02:00:14Z",
+  "updated": "2026-09-20T02:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "instituto",
+      "name": "ufc",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "corte de luz",
-      "traffic": "2000+",
+      "name": "instituto",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "river vs huracan",
-      "traffic": "5000+",
+      "name": "corte de luz",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "roma fc",
+      "name": "como va river",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "arsenal",
-      "traffic": "200+",
+      "name": "river vs huracan",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "telefe",
+      "name": "roma fc",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "weather tomorrow",
+      "name": "arsenal",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "play store",
+      "name": "telefe",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "tottenham",
-      "traffic": "100+",
+      "name": "weather tomorrow",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "maps",
-      "traffic": "500+",
+      "name": "play store",
+      "traffic": "100+",
       "rank": 10
     }
   ]
