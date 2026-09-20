@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-20T20:00:19Z",
+  "updated": "2026-09-20T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca vs san lorenzo",
-      "traffic": "5000+",
+      "name": "tabla anual",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "city",
+      "name": "lpf",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "atletico madrid",
-      "traffic": "1000+",
+      "name": "san lorenzo",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "real madrid",
-      "traffic": "5000+",
+      "name": "city",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "manchester city",
+      "name": "atletico madrid",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "apagón eléctrico",
+      "name": "real madrid",
       "traffic": "2000+",
       "rank": 6
     },
     {
+      "name": "manchester city",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "apagón eléctrico",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
       "name": "smn",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "la nacion",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ufc",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "instituto",
-      "traffic": "500+",
       "rank": 10
     }
   ]
