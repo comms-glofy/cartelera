@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-20T15:30:16Z",
+  "updated": "2026-09-20T16:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atletico madrid",
+      "name": "city",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "real madrid",
-      "traffic": "1000+",
+      "name": "atletico madrid",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "manchester city",
+      "name": "real madrid",
       "traffic": "1000+",
       "rank": 3
     },
     {
+      "name": "manchester city",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "apagón eléctrico",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "smn",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "la nacion",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "ufc",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "instituto",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "pelota",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "river vs huracan",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "roma fc",
+      "name": "pelota",
       "traffic": "100+",
       "rank": 10
     }
