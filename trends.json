@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-20T00:13:46Z",
+  "updated": "2026-09-20T00:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "river",
-      "traffic": "5000+",
+      "name": "corte de luz",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "corte de luz",
-      "traffic": "200+",
+      "name": "river vs huracan",
+      "traffic": "5000+",
       "rank": 2
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "maps",
-      "traffic": "500+",
+      "name": "tottenham",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "la nacion",
+      "name": "maps",
       "traffic": "500+",
       "rank": 10
     }
