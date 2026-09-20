@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-20T11:00:18Z",
+  "updated": "2026-09-20T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ufc",
-      "traffic": "500+",
+      "name": "la nacion",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "instituto",
+      "name": "ufc",
       "traffic": "500+",
       "rank": 2
     },
     {
+      "name": "instituto",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "corte de luz",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "river plate - huracán",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pelota",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "roma fc",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "arsenal",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "telefe",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "weather tomorrow",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "play store",
-      "traffic": "100+",
       "rank": 10
     }
   ]
