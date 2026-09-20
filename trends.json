@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-20T16:30:15Z",
+  "updated": "2026-09-20T17:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atletico madrid vs",
-      "traffic": "200+",
-      "rank": 1
-    },
-    {
       "name": "a que hora juega boca",
-      "traffic": "100+",
-      "rank": 2
+      "traffic": "500+",
+      "rank": 1
     },
     {
       "name": "city",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "atletico madrid",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "real madrid",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "manchester city",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "apagón eléctrico",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "smn",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "la nacion",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "ufc",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "instituto",
       "traffic": "500+",
       "rank": 10
     }
