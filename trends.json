@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-20T00:30:18Z",
+  "updated": "2026-09-20T01:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "corte de luz",
-      "traffic": "500+",
+      "traffic": "5000+",
       "rank": 1
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "lanacion",
+      "name": "tottenham",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "tottenham",
-      "traffic": "100+",
+      "name": "maps",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "maps",
-      "traffic": "500+",
+      "name": "google",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
