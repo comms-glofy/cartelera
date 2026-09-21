@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-21T23:30:16Z",
+  "updated": "2026-09-21T23:47:48Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "independiente rivadavia",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "mercado libre",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "aldosivi",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "deportick",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "dia del estudiante",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "primavera",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "flores amarillas",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "feliz primavera",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "cindy crawford",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "pagina 12",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "la nacion",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "infobae",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
