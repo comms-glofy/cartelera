@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T20:00:20Z",
+  "updated": "2026-09-21T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "cindy crawford",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "pagina 12",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "la nacion",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "infobae",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "presley gerber",
-      "traffic": "500+",
       "rank": 10
     }
   ]
