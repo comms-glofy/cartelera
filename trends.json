@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-21T22:00:19Z",
+  "updated": "2026-09-21T22:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aldosivi",
+      "name": "mercado libre",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "aldosivi",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "deportick",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "dia del estudiante",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "primavera",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "flores amarillas",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "feliz primavera",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pagina 12",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "la nacion",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "infobae",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "presley gerber",
-      "traffic": "500+",
       "rank": 10
     }
   ]
