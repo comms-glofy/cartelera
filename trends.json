@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-21T11:30:16Z",
+  "updated": "2026-09-21T12:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cindy crawford",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "pagina 12",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "la nacion",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "infobae",
-      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "rosario3",
-      "traffic": "100+",
+      "name": "infobae",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "presley gerber",
-      "traffic": "100+",
+      "name": "rosario3",
+      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "tn",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "maps",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "velez hoy",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "velez",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "belgrano",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "tabla anual",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "lpf",
-      "traffic": "200+",
       "rank": 10
     }
   ]
