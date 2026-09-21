@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-21T23:00:56Z",
+  "updated": "2026-09-21T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "mercado libre",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "deportick",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "cindy crawford",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
       "name": "pagina 12",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "la nacion",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "infobae",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
