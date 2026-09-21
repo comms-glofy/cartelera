@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T07:00:17Z",
+  "updated": "2026-09-21T07:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "city",
-      "traffic": "500+",
+      "name": "la liga",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "atletico madrid",
-      "traffic": "2000+",
+      "name": "city",
+      "traffic": "500+",
       "rank": 8
+    },
+    {
+      "name": "atletico madrid",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "real madrid",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "manchester city",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
