@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-21T13:30:15Z",
+  "updated": "2026-09-21T14:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "primavera",
+      "name": "dia del estudiante",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "primavera",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "feliz primavera",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "pagina 12",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "la nacion",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "infobae",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "presley gerber",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "rosario3",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tn",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "maps",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "velez",
+      "name": "maps",
       "traffic": "1000+",
       "rank": 10
     }
