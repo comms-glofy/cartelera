@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T05:30:16Z",
+  "updated": "2026-09-21T06:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "boca vs san lorenzo",
-      "traffic": "10000+",
+      "name": "san lorenzo hoy",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "city",
-      "traffic": "200+",
+      "name": "boca vs san lorenzo",
+      "traffic": "10000+",
       "rank": 6
+    },
+    {
+      "name": "city",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "atletico madrid",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "real madrid",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "manchester city",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "facebook",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
