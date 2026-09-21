@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-21T11:00:19Z",
+  "updated": "2026-09-21T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la nacion",
+      "name": "pagina 12",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "infobae",
-      "traffic": "500+",
+      "name": "la nacion",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "velez",
+      "name": "infobae",
       "traffic": "1000+",
       "rank": 3
     },
     {
+      "name": "rosario3",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "presley gerber",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "tn",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "velez",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "belgrano",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "tabla anual",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "lpf",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "san lorenzo hoy",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "boca vs san lorenzo",
-      "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "la liga",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "city",
-      "traffic": "500+",
       "rank": 10
     }
   ]
