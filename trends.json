@@ -1,36 +1,36 @@
 {
-  "updated": "2026-09-21T00:30:16Z",
+  "updated": "2026-09-21T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "belgrano",
-      "traffic": "500+",
+      "name": "velez",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "belgrano",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "tabla anual",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "lpf",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "futbol en vivo",
-      "traffic": "100+",
       "rank": 4
-    },
-    {
-      "name": "diario panorama",
-      "traffic": "100+",
-      "rank": 5
     },
     {
       "name": "boca vs san lorenzo",
       "traffic": "10000+",
+      "rank": 5
+    },
+    {
+      "name": "atletico",
+      "traffic": "200+",
       "rank": 6
     },
     {
@@ -40,12 +40,12 @@
     },
     {
       "name": "atletico madrid",
-      "traffic": "1000+",
+      "traffic": "500+",
       "rank": 8
     },
     {
       "name": "real madrid",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 9
     },
     {
