@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-22T10:00:18Z",
+  "updated": "2026-09-22T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "meteorología",
-      "traffic": "200+",
+      "name": "posiciones de barracas central contra independiente rivadavia",
+      "traffic": "500+",
       "rank": 1
-    },
-    {
-      "name": "22 de septiembre",
-      "traffic": "200+",
-      "rank": 2
     },
     {
       "name": "entrenador",
       "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "meteorología",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "pami",
+      "name": "22 de septiembre",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tiempo",
-      "traffic": "10000+",
+      "name": "pami",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "tiempo",
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "temperatura",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "posiciones de club atlético lanús contra estudiantes de la plata",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "betano",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "independiente rivadavia",
+      "name": "betano",
       "traffic": "500+",
       "rank": 9
     },
