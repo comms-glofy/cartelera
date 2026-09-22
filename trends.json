@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-22T09:00:28Z",
+  "updated": "2026-09-22T09:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "betano",
-      "traffic": "200+",
+      "name": "tiempo",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "lanus",
-      "traffic": "200+",
+      "name": "lanús - estudiantes",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "betano",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "independiente rivadavia",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mercado libre",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "aldosivi",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "deportick",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "dia del estudiante",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "primavera",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "flores amarillas",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "feliz primavera",
+      "name": "flores amarillas",
       "traffic": "500+",
       "rank": 10
     }
