@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-22T17:00:17Z",
+  "updated": "2026-09-22T17:30:54Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "hayden panettiere",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "chat gpt",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "tulio crespi",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "classroom",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "europa",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "universidad",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima",
       "traffic": "50000+",
-      "rank": 6
-    },
-    {
-      "name": "posiciones de barracas central contra independiente rivadavia",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "pami",
+      "name": "entrenador",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "entrenador",
+      "name": "pami",
       "traffic": "2000+",
       "rank": 9
     },
