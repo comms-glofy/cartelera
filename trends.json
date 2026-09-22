@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-22T17:30:54Z",
+  "updated": "2026-09-22T17:54:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hayden panettiere",
+      "name": "taylor swift",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "chat gpt",
-      "traffic": "1000+",
+      "name": "hayden panettiere",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tulio crespi",
-      "traffic": "200+",
+      "name": "chat gpt",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "tulio crespi",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "classroom",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "europa",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "universidad",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima",
       "traffic": "50000+",
-      "rank": 7
-    },
-    {
-      "name": "entrenador",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "pami",
+      "name": "la cueva del león",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "la cueva del león",
+      "name": "pami",
       "traffic": "2000+",
       "rank": 10
     }
