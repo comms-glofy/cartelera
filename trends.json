@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-22T11:30:19Z",
+  "updated": "2026-09-22T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "classroom",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -24,13 +24,13 @@
       "rank": 4
     },
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "infobae",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "infobae",
-      "traffic": "500+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 6
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "meteorología",
-      "traffic": "500+",
+      "name": "22 de septiembre",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
