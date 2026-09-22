@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-22T12:00:18Z",
+  "updated": "2026-09-22T12:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "classroom",
-      "traffic": "200+",
+      "name": "chatgpt",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "europa",
+      "name": "classroom",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "europa",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "abc",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "universidad",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "infobae",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima",
       "traffic": "50000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "posiciones de barracas central contra independiente rivadavia",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "entrenador",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "pami",
-      "traffic": "1000+",
+      "name": "entrenador",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "22 de septiembre",
+      "name": "pami",
       "traffic": "1000+",
       "rank": 10
     }
