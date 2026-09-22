@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-22T19:00:18Z",
+  "updated": "2026-09-22T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "taylor swift",
+      "name": "bono",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "hayden panettiere",
-      "traffic": "2000+",
+      "name": "encuesta",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "nora cárpena",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "capital humano",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "taylor swift",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "hayden panettiere",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "chat gpt",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "tulio crespi",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "classroom",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "europa",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "universidad",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "clima",
-      "traffic": "50000+",
-      "rank": 8
-    },
-    {
-      "name": "entrenador",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "pami",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
