@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-22T22:00:17Z",
+  "updated": "2026-09-22T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "juan otero",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "primera división",
-      "traffic": "5000+",
+      "traffic": "2000+",
       "rank": 2
     },
     {
       "name": "edinson cavani",
-      "traffic": "100+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "bono",
-      "traffic": "5000+",
+      "name": "club atlético river plate",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "encuesta",
-      "traffic": "1000+",
+      "name": "bono",
+      "traffic": "5000+",
       "rank": 6
+    },
+    {
+      "name": "encuesta",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "nora cárpena",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "capital humano",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "taylor swift",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "hayden panettiere",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
