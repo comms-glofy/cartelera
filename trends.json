@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-22T21:00:16Z",
+  "updated": "2026-09-22T21:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "edinson cavani",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "argentina vs",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "club atlético river plate",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "bono",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "encuesta",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "nora cárpena",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "capital humano",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "taylor swift",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "hayden panettiere",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "claude",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "tulio crespi",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "classroom",
-      "traffic": "200+",
       "rank": 10
     }
   ]
