@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-23T09:30:50Z",
+  "updated": "2026-09-23T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "inpres",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "temblor",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "cuenta dni",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "santa fe - deportivo cali",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "feriados 2026",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "juan otero",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "edinson cavani",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "argentina vs",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "bono",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "encuesta",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "nora cárpena",
-      "traffic": "500+",
       "rank": 10
     }
   ]
