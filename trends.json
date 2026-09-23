@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-23T20:00:17Z",
+  "updated": "2026-09-23T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canto 4",
+      "name": "mirtha legrand",
       "traffic": "2000+",
       "rank": 1
     },
     {
+      "name": "adt - cienciano",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "canto 4",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
       "name": "2027",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "zonda",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "argentina vs peru",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "rick sollo",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "caballito",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "uocra",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "pensión",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "inpres",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "fito paez",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
