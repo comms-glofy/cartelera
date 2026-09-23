@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-23T19:00:26Z",
+  "updated": "2026-09-23T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "zonda",
+      "name": "2027",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "argentina vs peru",
+      "name": "canto 4",
       "traffic": "1000+",
       "rank": 2
     },
     {
+      "name": "zonda",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "argentina vs peru",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
       "name": "rick sollo",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "caballito",
       "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "pensión",
-      "traffic": "10000+",
-      "rank": 5
-    },
-    {
-      "name": "inpres",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "fito paez",
+      "name": "uocra",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "cuenta dni",
-      "traffic": "2000+",
+      "name": "pensión",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "santa fe - deportivo cali",
-      "traffic": "5000+",
+      "name": "inpres",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "feriados 2026",
-      "traffic": "1000+",
+      "name": "fito paez",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
