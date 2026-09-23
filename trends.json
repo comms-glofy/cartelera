@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-23T12:00:21Z",
+  "updated": "2026-09-23T12:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "inpres",
-      "traffic": "1000+",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "temblor en la rioja",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "cuenta dni",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "santa fe - deportivo cali",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "feriados 2026",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "juan otero",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "edinson cavani",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "argentina vs",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "bono",
-      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "encuesta",
-      "traffic": "5000+",
+      "name": "club atlético river plate",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
