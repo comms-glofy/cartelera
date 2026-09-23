@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T10:00:18Z",
+  "updated": "2026-09-23T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "temblor",
+      "name": "temblor en la rioja",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "temblor",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "cuenta dni",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "santa fe - deportivo cali",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "feriados 2026",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "juan otero",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "edinson cavani",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "argentina vs",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "bono",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
