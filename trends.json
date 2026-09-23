@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-23T16:00:35Z",
+  "updated": "2026-09-23T16:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "caballito",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "pensión",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "inpres",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "fito paez",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "cuenta dni",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "santa fe - deportivo cali",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "feriados 2026",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "juan otero",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "edinson cavani",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "argentina vs",
-      "traffic": "100+",
       "rank": 10
     }
   ]
