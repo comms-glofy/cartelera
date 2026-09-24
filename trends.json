@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-24T10:00:17Z",
+  "updated": "2026-09-24T10:30:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético river plate",
+      "name": "corea del sur - ecuador",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "club atlético river plate",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "ingreso",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mora bianchi",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "u. la calera - u. católica",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "javier milei",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "viento",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "escrache",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "selección de fútbol de argentina",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mirtha legrand",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "adt - cienciano",
-      "traffic": "500+",
       "rank": 10
     }
   ]
