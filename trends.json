@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-24T22:00:18Z",
+  "updated": "2026-09-24T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "futbolista",
+      "name": "lionel scaloni",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "árbitro",
+      "name": "miniserie",
       "traffic": "500+",
       "rank": 2
     },
     {
+      "name": "futbolista",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "árbitro",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "o'higgins - santa cruz",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "erling haaland",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "argentina vs benin",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "arnaud denis",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "cristiano ronaldo",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "marcos franchi",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "fondo monetario internacional",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "portugal fc",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "portugal",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
