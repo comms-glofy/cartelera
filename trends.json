@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-24T23:00:17Z",
+  "updated": "2026-09-24T23:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "miniserie",
+      "name": "camión",
       "traffic": "1000+",
       "rank": 1
     },
     {
       "name": "lionel scaloni",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "futbolista",
-      "traffic": "1000+",
+      "name": "miniserie",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "evento de el niño de 2026 2027",
-      "traffic": "1000+",
+      "name": "futbolista",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "evento de el niño de 2026 2027",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "árbitro",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "o'higgins - santa cruz",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "erling haaland",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "argentina vs benin",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "arnaud denis",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "cristiano ronaldo",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
