@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-24T03:00:17Z",
+  "updated": "2026-09-24T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mora bianchi",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "u. la calera - u. católica",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "javier milei",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "viento",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "escrache",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "selección de fútbol de argentina",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mirtha legrand",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "adt - cienciano",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "canto 4",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "2027",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "rick sollo",
+      "name": "2027",
       "traffic": "5000+",
       "rank": 10
     }
