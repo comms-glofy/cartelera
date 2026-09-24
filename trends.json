@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-24T21:00:19Z",
+  "updated": "2026-09-24T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcos franchi",
-      "traffic": "100+",
+      "name": "erling haaland",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "fondo monetario internacional",
-      "traffic": "500+",
+      "name": "cristiano ronaldo",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "portugal fc",
-      "traffic": "100+",
+      "name": "arnaud denis",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "portugal",
-      "traffic": "1000+",
+      "name": "marcos franchi",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "noruega vs",
+      "name": "fondo monetario internacional",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "nations league",
-      "traffic": "1000+",
+      "name": "portugal fc",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "deportick",
-      "traffic": "10000+",
+      "name": "portugal",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "portugal vs",
-      "traffic": "2000+",
+      "name": "noruega vs",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "austria - israel",
-      "traffic": "2000+",
+      "name": "nations league",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "países bajos - alemania",
-      "traffic": "10000+",
+      "name": "deportick",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
