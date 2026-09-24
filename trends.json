@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-24T21:30:14Z",
+  "updated": "2026-09-24T21:40:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "erling haaland",
-      "traffic": "1000+",
+      "name": "árbitro",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cristiano ronaldo",
-      "traffic": "2000+",
+      "name": "o'higgins - santa cruz",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "arnaud denis",
+      "name": "erling haaland",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "marcos franchi",
+      "name": "cristiano ronaldo",
       "traffic": "2000+",
       "rank": 4
     },
     {
+      "name": "arnaud denis",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "marcos franchi",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
       "name": "fondo monetario internacional",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "portugal fc",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "portugal",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "noruega vs",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "nations league",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "deportick",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
