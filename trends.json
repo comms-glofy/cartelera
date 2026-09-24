@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-24T12:00:18Z",
+  "updated": "2026-09-24T12:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "japón - uruguay",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "moneda",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "lotería de santa fe",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "corea del sur - ecuador",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "club atlético river plate",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ingreso",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mora bianchi",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "u. la calera - u. católica",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "javier milei",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "viento",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "escrache",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
