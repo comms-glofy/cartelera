@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-24T20:00:21Z",
+  "updated": "2026-09-24T20:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "portugal",
-      "traffic": "1000+",
+      "name": "fondo monetario internacional",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "noruega vs",
+      "name": "portugal",
       "traffic": "1000+",
       "rank": 2
     },
     {
+      "name": "nations league",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "noruega vs",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "deportick",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "portugal vs",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "austria - israel",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "liga de naciones",
-      "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "países bajos - alemania",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fecha de cobro jubilados octubre 2026",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "trabajo",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "propiedad",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
