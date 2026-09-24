@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-24T19:30:17Z",
+  "updated": "2026-09-24T20:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "portugal vs",
+      "name": "portugal",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "deportick",
-      "traffic": "200+",
+      "name": "noruega vs",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "austria - israel",
-      "traffic": "1000+",
+      "name": "deportick",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "liga de naciones",
+      "name": "portugal vs",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "países bajos - alemania",
-      "traffic": "10000+",
+      "name": "austria - israel",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "fecha de cobro jubilados octubre 2026",
+      "name": "liga de naciones",
       "traffic": "2000+",
       "rank": 6
     },
     {
+      "name": "países bajos - alemania",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "fecha de cobro jubilados octubre 2026",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
       "name": "trabajo",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "propiedad",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "juan manuel cerúndolo",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "japón - uruguay",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
