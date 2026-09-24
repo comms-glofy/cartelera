@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-24T18:30:20Z",
+  "updated": "2026-09-24T19:00:47Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "austria - israel",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "países bajos - alemania",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "fecha de cobro jubilados octubre 2026",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "trabajo",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "propiedad",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "japón - uruguay",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "moneda",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lotería de santa fe",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "corea del sur - ecuador",
       "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "club atlético river plate",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
