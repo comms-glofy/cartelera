@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-25T01:30:13Z",
+  "updated": "2026-09-25T02:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "costa rica - curazao",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "joaquin levinton",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "haití - trinidad y tobago",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "camión",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lionel scaloni",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "miniserie",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "futbolista",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "evento de el niño de 2026 2027",
-      "traffic": "2000+",
-      "rank": 8
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "árbitro",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "o'higgins - santa cruz",
-      "traffic": "200+",
       "rank": 10
     }
   ]
