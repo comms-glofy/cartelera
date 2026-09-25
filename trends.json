@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-25T16:00:18Z",
+  "updated": "2026-09-25T16:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gonzalez oro",
+      "traffic": "10000+",
+      "rank": 1
+    },
+    {
       "name": "avión",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "peter thiel",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "avenida general paz",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "gp de azerbaiyán 2026",
-      "traffic": "5000+",
       "rank": 4
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "brasil vs",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 7
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "trabajador doméstico",
-      "traffic": "1000+",
+      "name": "gran premio de azerbaiyán",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
