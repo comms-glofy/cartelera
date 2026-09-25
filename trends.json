@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-25T08:00:18Z",
+  "updated": "2026-09-25T08:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "estafa",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "cleveland taylor swift",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "patient zero taylor swift",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "gualaceo - independiente del valle",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "costa rica - curazao",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "joaquin levinton",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "haití - trinidad y tobago",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "camión",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "lionel scaloni",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "miniserie",
+      "name": "lionel scaloni",
       "traffic": "2000+",
       "rank": 10
     }
