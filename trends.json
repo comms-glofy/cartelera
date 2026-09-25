@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-25T16:30:20Z",
+  "updated": "2026-09-25T17:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "gonzalez oro",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 1
     },
     {
       "name": "avión",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 2
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "brasil vs",
-      "traffic": "5000+",
+      "name": "brasil",
+      "traffic": "2000+",
       "rank": 7
+    },
+    {
+      "name": "brasil vs",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "clima hoy",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "australia - brasil",
       "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "gran premio de azerbaiyán",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
