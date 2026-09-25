@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-25T04:00:18Z",
+  "updated": "2026-09-25T04:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gualaceo - independiente del valle",
+      "name": "patient zero taylor swift",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "gualaceo - independiente del valle",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "costa rica - curazao",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "joaquin levinton",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "haití - trinidad y tobago",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "camión",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lionel scaloni",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "miniserie",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "futbolista",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "evento de el niño de 2026 2027",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
