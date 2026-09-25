@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-25T21:00:16Z",
+  "updated": "2026-09-25T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liga de naciones",
-      "traffic": "5000+",
+      "name": "federico sturzenegger",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -20,12 +20,12 @@
     },
     {
       "name": "mansión",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 4
     },
     {
       "name": "camionero",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 5
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "turquía - francia",
-      "traffic": "20000+",
+      "name": "italia - bélgica",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
