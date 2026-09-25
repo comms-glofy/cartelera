@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-25T09:30:20Z",
+  "updated": "2026-09-25T10:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "australia - brasil",
+      "name": "clima hoy",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "gran premio de azerbaiyán",
-      "traffic": "100+",
+      "name": "selección de fútbol de brasil",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "estafa",
-      "traffic": "200+",
+      "name": "australia - brasil",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "cleveland taylor swift",
+      "name": "gran premio de azerbaiyán",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "estafa",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "cleveland taylor swift",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "patient zero taylor swift",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "gualaceo - independiente del valle",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "costa rica - curazao",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "joaquin levinton",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "haití - trinidad y tobago",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "pronóstico del tiempo",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
