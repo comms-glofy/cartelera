@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-25T12:00:18Z",
+  "updated": "2026-09-25T12:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brasil vs",
+      "name": "disney",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "brasil vs",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
       "name": "clima hoy",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "selección de fútbol de brasil",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "australia - brasil",
       "traffic": "20000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "gran premio de azerbaiyán",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "trabajador doméstico",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "estafa",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "cleveland taylor swift",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "patient zero taylor swift",
+      "name": "estafa",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "gualaceo - independiente del valle",
-      "traffic": "1000+",
+      "name": "cleveland taylor swift",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "costa rica - curazao",
-      "traffic": "5000+",
+      "name": "patient zero taylor swift",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
