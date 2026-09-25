@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-25T15:00:15Z",
+  "updated": "2026-09-25T15:23:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "avenida general paz",
-      "traffic": "2000+",
+      "name": "avión",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "aeronave",
-      "traffic": "500+",
+      "name": "peter thiel",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "avenida general paz",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "gp de azerbaiyán 2026",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "disney",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "brasil vs",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima hoy",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "australia - brasil",
       "traffic": "50000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "trabajador doméstico",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "estafa",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
