@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-25T01:00:16Z",
+  "updated": "2026-09-25T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronóstico del tiempo",
-      "traffic": "1000+",
+      "name": "joaquin levinton",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "camión",
-      "traffic": "2000+",
+      "name": "haití - trinidad y tobago",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "lionel scaloni",
+      "name": "pronóstico del tiempo",
       "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "miniserie",
+      "name": "camión",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "futbolista",
+      "name": "lionel scaloni",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "evento de el niño de 2026 2027",
+      "name": "miniserie",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "árbitro",
+      "name": "futbolista",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "o'higgins - santa cruz",
-      "traffic": "200+",
+      "name": "evento de el niño de 2026 2027",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "erling haaland",
-      "traffic": "1000+",
+      "name": "árbitro",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "argentina vs benin",
-      "traffic": "1000+",
+      "name": "o'higgins - santa cruz",
+      "traffic": "200+",
       "rank": 10
     }
   ]
