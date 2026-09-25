@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-25T11:00:18Z",
+  "updated": "2026-09-25T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "brasil vs",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -15,42 +15,42 @@
     },
     {
       "name": "australia - brasil",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 3
     },
     {
       "name": "gran premio de azerbaiyán",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "estafa",
+      "name": "trabajador doméstico",
       "traffic": "1000+",
       "rank": 5
     },
     {
+      "name": "estafa",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
       "name": "cleveland taylor swift",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "patient zero taylor swift",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "gualaceo - independiente del valle",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "costa rica - curazao",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "joaquin levinton",
-      "traffic": "500+",
       "rank": 10
     }
   ]
