@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T22:00:19Z",
+  "updated": "2026-09-25T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "federico sturzenegger",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 2
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "camionero",
-      "traffic": "5000+",
+      "name": "argentina sub 20",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "malí - cabo verde",
+      "name": "camionero",
       "traffic": "5000+",
       "rank": 7
     },
     {
+      "name": "malí - cabo verde",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
       "name": "marruecos - gabón",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "argentina vs paraguay",
       "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "egipto - angola",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
