@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-25T14:00:23Z",
+  "updated": "2026-09-25T14:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clasificacion f1",
-      "traffic": "2000+",
-      "rank": 1
-    },
-    {
       "name": "avenida general paz",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "aeronave",
       "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "gp de azerbaiyán 2026",
+      "traffic": "5000+",
       "rank": 3
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "estafa",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
