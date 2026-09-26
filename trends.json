@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-26T19:00:14Z",
+  "updated": "2026-09-26T19:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "england vs spain",
+      "name": "meteorología",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lamine yamal",
-      "traffic": "500+",
+      "name": "carlos alcaraz",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "estudiantes - rosario central",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "all boys - colón",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "lamine yamal",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "chequia - croacia",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "inglaterra - españa",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "laver cup",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "leo ramal",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "sudáfrica - guinea",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "franco colapinto",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "dia del empleado de comercio 2026",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "google",
-      "traffic": "100+",
       "rank": 10
     }
   ]
