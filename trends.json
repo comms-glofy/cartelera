@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-26T22:00:16Z",
+  "updated": "2026-09-26T22:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "deportivo madryn - central norte",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "cristina fernández de kirchner",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "peñarol - boston river",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "river vs vélez",
       "traffic": "500+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "flavio briatore",
       "traffic": "50000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "club ciudad de bolívar - chaco for ever",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "meteorología",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "carlos alcaraz",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "estudiantes - rosario central",
-      "traffic": "100000+",
-      "rank": 6
+      "traffic": "200000+",
+      "rank": 9
     },
     {
       "name": "all boys - colón",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "estudiantes - san miguel",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "lamine yamal",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "chequia - croacia",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
