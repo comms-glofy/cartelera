@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-26T14:00:14Z",
+  "updated": "2026-09-26T14:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "dia del empleado de comercio 2026",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "colapinto",
+      "traffic": "20000+",
+      "rank": 2
     },
     {
       "name": "google",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "f1",
-      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "gp de azerbaiyán 2026",
-      "traffic": "20000+",
+      "name": "f1 hoy",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "gp de azerbaiyán 2026",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "luis caputo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "disney",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "azerbaijan",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "disney plus",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "infobae",
-      "traffic": "200+",
       "rank": 9
     },
     {
