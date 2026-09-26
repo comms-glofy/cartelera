@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-26T10:30:15Z",
+  "updated": "2026-09-26T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "activity",
-      "traffic": "100+",
+      "name": "azerbaijan",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "age",
-      "traffic": "100+",
+      "name": "baku",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "infobae",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "activity",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "f1 horarios",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "age",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "la cocina rebelde",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "pedro rosemblat",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "unión magdalena - santa fe",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "daniel osvaldo",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "marley & mirko",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "action",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "federico sturzenegger",
-      "traffic": "2000+",
+      "name": "daniel osvaldo",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
