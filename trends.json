@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-26T17:00:16Z",
+  "updated": "2026-09-26T17:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "españa vs",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "laver cup",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "leo ramal",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "sudáfrica - guinea",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "dia del empleado de comercio 2026",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "google",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "f1 hoy",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "gp de azerbaiyán 2026",
       "traffic": "50000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "luis caputo",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "disney",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "azerbaijan",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
