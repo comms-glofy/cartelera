@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T13:00:12Z",
+  "updated": "2026-09-26T13:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "f1",
-      "traffic": "20000+",
+      "traffic": "50000+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "azerbaiyán",
+      "name": "disney",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "disney",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
       "name": "azerbaijan",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "disney plus",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "la nacion",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "activity",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "after",
+      "traffic": "100+",
       "rank": 10
     }
   ]
