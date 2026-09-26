@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-26T01:09:13Z",
+  "updated": "2026-09-26T01:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marley & mirko",
-      "traffic": "2000+",
+      "name": "daniel osvaldo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "federico sturzenegger",
+      "name": "marley & mirko",
       "traffic": "2000+",
       "rank": 2
     },
     {
+      "name": "federico sturzenegger",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
       "name": "manchester city culpable",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mirtha legrand",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "mansión",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "argentina sub 20",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "camionero",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "malí - cabo verde",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "marruecos - gabón",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "argentina vs paraguay",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
