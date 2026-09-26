@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T20:00:17Z",
+  "updated": "2026-09-26T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -30,27 +30,27 @@
     },
     {
       "name": "all boys - colón",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 6
+    },
+    {
+      "name": "england vs spain",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "lamine yamal",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "chequia - croacia",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "inglaterra - españa",
       "traffic": "100000+",
-      "rank": 9
-    },
-    {
-      "name": "laver cup",
-      "traffic": "200+",
       "rank": 10
     }
   ]
