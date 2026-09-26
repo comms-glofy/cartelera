@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:30:15Z",
+  "updated": "2026-09-26T06:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "liga de naciones",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
       "name": "francia",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "manchester city culpable",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "mirtha legrand",
       "traffic": "10000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "mansión",
       "traffic": "10000+",
+      "rank": 9
+    },
+    {
+      "name": "argentina sub 20",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
