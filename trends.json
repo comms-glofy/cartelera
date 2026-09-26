@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-26T18:30:50Z",
+  "updated": "2026-09-26T18:57:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "england vs spain",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "lamine yamal",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "chequia - croacia",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "inglaterra - españa",
       "traffic": "20000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "laver cup",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "leo ramal",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "sudáfrica - guinea",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "franco colapinto",
+      "traffic": "20000+",
+      "rank": 8
     },
     {
       "name": "dia del empleado de comercio 2026",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "google",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "ole",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "f1 hoy",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "gp de azerbaiyán 2026",
-      "traffic": "50000+",
       "rank": 10
     }
   ]
