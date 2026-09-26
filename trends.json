@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-26T23:00:18Z",
+  "updated": "2026-09-26T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canadá - chile",
-      "traffic": "500+",
+      "name": "tormenta",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "cruz azul - toluca",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "lluvia",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "canadá - chile",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "ufc",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "fabiana araujo",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "deportivo madryn - central norte",
-      "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "cristina fernández de kirchner",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "deportivo madryn - central norte",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "peñarol - boston river",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "perfil",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "river vs vélez",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "flavio briatore",
-      "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "club ciudad de bolívar - chaco for ever",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
