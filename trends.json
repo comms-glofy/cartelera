@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-27T22:00:17Z",
+  "updated": "2026-09-27T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia y tiro de salta - atlético rafaela",
-      "traffic": "1000+",
+      "name": "quien juega hoy",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "chile",
+      "name": "partidos hoy",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "juan otero",
-      "traffic": "1000+",
+      "name": "cómo va boca",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "gimnasia y tiro de salta - atlético rafaela",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "chile",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "juan otero",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "fondo buitre",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "racing de córdoba - godoy cruz",
-      "traffic": "5000+",
-      "rank": 5
+      "traffic": "10000+",
+      "rank": 8
     },
     {
       "name": "bolivia - paraguay",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "midland - tristán suárez",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "deportivo maipú - temperley",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "racing - boca juniors",
-      "traffic": "1000000+",
-      "rank": 9
-    },
-    {
-      "name": "patronato - san martín",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
