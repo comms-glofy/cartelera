@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-27T15:00:15Z",
+  "updated": "2026-09-27T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "granizo",
-      "traffic": "2000+",
+      "name": "serbia - países bajos",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "boca racing",
-      "traffic": "500+",
+      "name": "granizo",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "hija",
+      "name": "boca racing",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "puente colgante",
-      "traffic": "2000+",
+      "name": "hija",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "clima",
-      "traffic": "500000+",
+      "name": "puente colgante",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "clima",
+      "traffic": "200000+",
+      "rank": 6
     },
     {
       "name": "google's birthday",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "australia - sudáfrica",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "carlos melconian",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "sofía martínez",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "raoni barcelos",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
