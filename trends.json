@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-27T10:30:12Z",
+  "updated": "2026-09-27T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "google's birthday",
-      "traffic": "200+",
+      "name": "puente colgante",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "carlos melconian",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 2
     },
     {
-      "name": "tiempo hoy",
+      "name": "google's birthday",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "carlos melconian",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "tiempo hoy",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "pronostico",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "sofía martínez",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "discapacidad",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "jairo",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "pepe chatruc",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "alerta meteorológica",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
