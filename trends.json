@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-27T04:30:15Z",
+  "updated": "2026-09-27T05:00:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "sofía martínez",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "pepe chatruc",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
       "name": "alerta meteorológica",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "bochini",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "ailin perez",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "sabrina rojas",
-      "traffic": "1000+",
-      "rank": 9
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "yanina zilli",
       "traffic": "5000+",
+      "rank": 9
+    },
+    {
+      "name": "leandro paredes",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
