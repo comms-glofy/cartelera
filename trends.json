@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-27T00:30:14Z",
+  "updated": "2026-09-27T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "méxico - colombia",
-      "traffic": "500+",
+      "name": "yanina zilli",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "leandro paredes",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "casa rosada",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "méxico - colombia",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "tiempo mañana",
       "traffic": "20000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "ufc hoy",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "tormenta",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "cruz azul - toluca",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "colegiales - chacarita",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "canadá - chile",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "ufc",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "fabiana araujo",
-      "traffic": "500+",
+      "name": "colegiales - chacarita",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
