@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-27T19:30:13Z",
+  "updated": "2026-09-27T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "portugal vs",
+      "name": "bolivia - paraguay",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "defensores de belgrano - ferro",
-      "traffic": "2000+",
+      "name": "midland - tristán suárez",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "almagro - nueva chicago",
-      "traffic": "2000+",
+      "name": "deportivo maipú - temperley",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "noruega - portugal",
-      "traffic": "20000+",
+      "name": "racing - boca juniors",
+      "traffic": "100000+",
       "rank": 4
     },
     {
-      "name": "alemania - grecia",
+      "name": "portugal vs",
       "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "comunicado de alpine",
-      "traffic": "5000+",
+      "name": "defensores de belgrano - ferro",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "lance stroll",
+      "name": "almagro - nueva chicago",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "empresario",
-      "traffic": "5000+",
+      "name": "noruega - portugal",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "serbia - países bajos",
-      "traffic": "5000+",
+      "name": "alemania - grecia",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "boca racing",
-      "traffic": "20000+",
+      "name": "comunicado de alpine",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
