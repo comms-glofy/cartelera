@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T23:00:14Z",
+  "updated": "2026-09-27T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "columbus crew - inter miami",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "partidos hoy",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
       "name": "gimnasia y tiro de salta - atlético rafaela",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "chile",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "juan otero",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "fondo buitre",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "racing de córdoba - godoy cruz",
       "traffic": "10000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "bolivia - paraguay",
       "traffic": "20000+",
+      "rank": 9
+    },
+    {
+      "name": "midland - tristán suárez",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
