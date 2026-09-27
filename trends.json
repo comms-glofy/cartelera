@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T04:00:15Z",
+  "updated": "2026-09-27T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,47 +10,47 @@
     },
     {
       "name": "discapacidad",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "flavio azzaro",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "jairo",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pepe chatruc",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "alerta meteorológica",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "bochini",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ailin perez",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "sabrina rojas",
-      "traffic": "2000+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "yanina zilli",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "leandro paredes",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
