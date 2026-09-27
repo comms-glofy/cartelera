@@ -1,36 +1,36 @@
 {
-  "updated": "2026-09-27T13:00:17Z",
+  "updated": "2026-09-27T13:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "hija",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "puente colgante",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "clima",
       "traffic": "500000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "google's birthday",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "australia - sudáfrica",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "carlos melconian",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "tiempo hoy",
-      "traffic": "500+",
       "rank": 6
     },
     {
