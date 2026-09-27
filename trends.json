@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-26T23:30:15Z",
+  "updated": "2026-09-27T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tormenta",
-      "traffic": "2000+",
+      "name": "tiempo de mañana",
+      "traffic": "100000+",
       "rank": 1
     },
     {
-      "name": "cruz azul - toluca",
-      "traffic": "500+",
+      "name": "tiempo mañana",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "lluvia",
-      "traffic": "2000+",
+      "name": "ufc hoy",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "canadá - chile",
+      "name": "tormenta",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "ufc",
-      "traffic": "1000+",
+      "name": "cruz azul - toluca",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "fabiana araujo",
-      "traffic": "500+",
+      "name": "colegiales - chacarita",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "cristina fernández de kirchner",
+      "name": "canadá - chile",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "deportivo madryn - central norte",
+      "name": "ufc",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "peñarol - boston river",
-      "traffic": "1000+",
+      "name": "fabiana araujo",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "perfil",
-      "traffic": "5000+",
+      "name": "cristina fernández de kirchner",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
