@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-27T20:00:15Z",
+  "updated": "2026-09-27T20:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bolivia - paraguay",
+      "name": "racing de córdoba - godoy cruz",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "midland - tristán suárez",
-      "traffic": "500+",
+      "name": "tyc sports en vivo",
+      "traffic": "5000+",
       "rank": 2
+    },
+    {
+      "name": "bolivia - paraguay",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "midland - tristán suárez",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "deportivo maipú - temperley",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "racing - boca juniors",
-      "traffic": "100000+",
-      "rank": 4
+      "traffic": "200000+",
+      "rank": 6
     },
     {
       "name": "portugal vs",
       "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "defensores de belgrano - ferro",
-      "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "almagro - nueva chicago",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "noruega - portugal",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "alemania - grecia",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "comunicado de alpine",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
