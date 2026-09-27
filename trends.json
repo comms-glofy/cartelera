@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-27T21:00:15Z",
+  "updated": "2026-09-27T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing de córdoba - godoy cruz",
-      "traffic": "2000+",
+      "name": "gimnasia y tiro de salta - atlético rafaela",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "bolivia - paraguay",
-      "traffic": "10000+",
+      "name": "juan otero",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "midland - tristán suárez",
+      "name": "chile",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "deportivo maipú - temperley",
+      "name": "fondo buitre",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "racing - boca juniors",
-      "traffic": "500000+",
+      "name": "racing de córdoba - godoy cruz",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "portugal vs",
+      "name": "bolivia - paraguay",
       "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "defensores de belgrano - ferro",
-      "traffic": "2000+",
+      "name": "midland - tristán suárez",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "almagro - nueva chicago",
-      "traffic": "2000+",
+      "name": "deportivo maipú - temperley",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "noruega - portugal",
-      "traffic": "50000+",
+      "name": "racing - boca juniors",
+      "traffic": "500000+",
       "rank": 9
     },
     {
-      "name": "alemania - grecia",
-      "traffic": "10000+",
+      "name": "patronato - san martín",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
