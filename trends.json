@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-27T16:00:16Z",
+  "updated": "2026-09-27T16:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "fórmula 1",
+      "traffic": "10000+",
+      "rank": 1
+    },
+    {
       "name": "serbia - países bajos",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "granizo",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "boca racing",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "hija",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "puente colgante",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 6
-    },
-    {
-      "name": "google's birthday",
-      "traffic": "2000+",
       "rank": 7
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "sofía martínez",
-      "traffic": "10000+",
+      "name": "28º aniversario de google",
+      "traffic": "50000+",
       "rank": 10
     }
   ]
