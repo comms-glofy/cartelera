@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-27T18:00:15Z",
+  "updated": "2026-09-27T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lance stroll",
-      "traffic": "1000+",
+      "name": "noruega - portugal",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "comunicado alpine",
-      "traffic": "500+",
+      "name": "alemania - grecia",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "comunicado de alpine",
+      "traffic": "10000+",
+      "rank": 3
+    },
+    {
+      "name": "lance stroll",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "empresario",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "fórmula 1",
-      "traffic": "10000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "serbia - países bajos",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "boca racing",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "granizo",
       "traffic": "200000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "hija",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "puente colgante",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "google's birthday",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
