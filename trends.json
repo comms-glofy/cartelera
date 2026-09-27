@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-27T13:30:13Z",
+  "updated": "2026-09-27T14:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "hija",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
       "name": "puente colgante",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 2
     },
     {
@@ -30,27 +30,27 @@
     },
     {
       "name": "carlos melconian",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 6
+    },
+    {
+      "name": "pronostico",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "sofía martínez",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "raoni barcelos",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "marilina bertoldi",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "discapacidad",
-      "traffic": "2000+",
+      "name": "marilina bertoldi",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
