@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-27T02:00:17Z",
+  "updated": "2026-09-27T02:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jairo",
+      "name": "discapacidad",
       "traffic": "500+",
       "rank": 1
     },
     {
+      "name": "jairo",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "pepe chatruc",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "alerta meteorológica",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "bochini",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "ailin perez",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "sabrina rojas",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "diego leuco",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "yanina zilli",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "leandro paredes",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "casa rosada",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "méxico - colombia",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
