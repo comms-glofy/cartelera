@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T11:30:17Z",
+  "updated": "2026-09-27T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,42 +15,42 @@
     },
     {
       "name": "google's birthday",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "australia - sudáfrica",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "carlos melconian",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tiempo hoy",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pronostico",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sofía martínez",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "raoni barcelos",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "discapacidad",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "jairo",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "pepe chatruc",
-      "traffic": "200+",
       "rank": 10
     }
   ]
