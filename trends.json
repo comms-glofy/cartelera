@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:30:15Z",
+  "updated": "2026-09-27T13:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,17 +10,17 @@
     },
     {
       "name": "clima",
-      "traffic": "100000+",
+      "traffic": "500000+",
       "rank": 2
     },
     {
       "name": "google's birthday",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
       "name": "australia - sudáfrica",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "pronostico",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
       "name": "sofía martínez",
-      "traffic": "2000+",
-      "rank": 8
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "raoni barcelos",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "marilina bertoldi",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "discapacidad",
       "traffic": "2000+",
       "rank": 10
     }
