@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-27T09:30:16Z",
+  "updated": "2026-09-27T10:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico",
-      "traffic": "2000+",
+      "name": "clima hoy",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "sofía martínez",
+      "name": "pronostico",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "discapacidad",
+      "name": "sofía martínez",
       "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "jairo",
-      "traffic": "5000+",
+      "name": "raoni barcelos",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "pepe chatruc",
-      "traffic": "200+",
+      "name": "discapacidad",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "alerta meteorológica",
+      "name": "jairo",
       "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "bochini",
+      "name": "pepe chatruc",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ailin perez",
+      "name": "alerta meteorológica",
       "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "sabrina rojas",
-      "traffic": "1000+",
+      "name": "bochini",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "leandro paredes",
-      "traffic": "1000+",
+      "name": "ailin perez",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
