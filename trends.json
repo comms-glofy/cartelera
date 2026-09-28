@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-28T10:00:19Z",
+  "updated": "2026-09-28T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "serie de televisión",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "japón - venezuela",
-      "traffic": "1000+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 2
+    },
+    {
+      "name": "japón - venezuela",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "pierre gasly",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima cordoba",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "28 de septiembre",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "mls",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "curazao - nicaragua",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "pareja",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "tiempo de mañana",
-      "traffic": "500000+",
       "rank": 10
     }
   ]
