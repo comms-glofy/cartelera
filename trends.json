@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-28T15:00:19Z",
+  "updated": "2026-09-28T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "granizo",
-      "traffic": "2000+",
+      "name": "minuto de silencio",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "granizo",
+      "traffic": "5000+",
+      "rank": 2
     },
     {
       "name": "feriados 2026",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "bono",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "dia del empleado de comercio 2026",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "serie de televisión",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "japón - venezuela",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pierre gasly",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "28 de septiembre",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
