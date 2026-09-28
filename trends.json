@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-28T00:30:15Z",
+  "updated": "2026-09-28T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pareja",
+      "name": "curazao - nicaragua",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "tiempo mañana",
-      "traffic": "20000+",
+      "name": "pareja",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "gimnasia jujuy - san martín de tucumán",
-      "traffic": "2000+",
+      "name": "tiempo mañana",
+      "traffic": "20000+",
       "rank": 3
+    },
+    {
+      "name": "gimnasia jujuy - san martín de tucumán",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "evangelina salazar",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "pluto tv",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "kick",
+      "name": "pluto tv",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "columbus crew - inter miami",
-      "traffic": "20000+",
+      "name": "kick",
+      "traffic": "2000+",
       "rank": 7
+    },
+    {
+      "name": "columbus crew - inter miami",
+      "traffic": "50000+",
+      "rank": 8
     },
     {
       "name": "quien juega hoy",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "gimnasia y tiro de salta - atlético rafaela",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "chile",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
