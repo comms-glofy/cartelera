@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T12:00:17Z",
+  "updated": "2026-09-28T12:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,13 +14,13 @@
       "rank": 2
     },
     {
-      "name": "clima",
-      "traffic": "200000+",
+      "name": "japón - venezuela",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "japón - venezuela",
-      "traffic": "5000+",
+      "name": "clima",
+      "traffic": "200000+",
       "rank": 4
     },
     {
@@ -29,18 +29,18 @@
       "rank": 5
     },
     {
+      "name": "pronostico del tiempo",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "tiempo hoy",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima cordoba",
-      "traffic": "500+",
       "rank": 8
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "mls",
-      "traffic": "2000+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
