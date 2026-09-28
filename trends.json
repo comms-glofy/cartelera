@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-28T11:30:15Z",
+  "updated": "2026-09-28T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "dia del empleado de comercio 2026",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "serie de televisión",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "japón - venezuela",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pierre gasly",
-      "traffic": "5000+",
-      "rank": 4
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "tiempo hoy",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima cordoba",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "28 de septiembre",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "mls",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "curazao - nicaragua",
+      "name": "mls",
       "traffic": "2000+",
       "rank": 10
     }
