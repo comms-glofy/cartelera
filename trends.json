@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-28T18:00:20Z",
+  "updated": "2026-09-28T18:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alud",
+      "name": "bélgica - francia",
       "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "minuto de silencio",
-      "traffic": "2000+",
+      "name": "george russell",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "alud",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "minuto de silencio",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "córdoba",
       "traffic": "200000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "feriados 2026",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "bono",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "dia del empleado de comercio 2026",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "serie de televisión",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "japón - venezuela",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "pierre gasly",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "tiempo hoy",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
