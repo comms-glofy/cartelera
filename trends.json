@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-28T19:00:19Z",
+  "updated": "2026-09-28T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "allanamiento",
-      "traffic": "1000+",
+      "name": "fin de semana",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "bélgica - francia",
-      "traffic": "10000+",
+      "name": "allanamiento",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "bélgica - francia",
+      "traffic": "20000+",
+      "rank": 3
     },
     {
       "name": "george russell",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "alud",
-      "traffic": "5000+",
-      "rank": 4
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "minuto de silencio",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "córdoba",
       "traffic": "200000+",
-      "rank": 6
-    },
-    {
-      "name": "feriados 2026",
-      "traffic": "1000+",
       "rank": 7
     },
     {
