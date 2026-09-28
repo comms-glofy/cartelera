@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-28T20:00:15Z",
+  "updated": "2026-09-28T20:30:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "primera división",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "asignación universal por hijo",
+      "traffic": "20000+",
+      "rank": 2
+    },
+    {
+      "name": "oscar e. bosetti",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "condena",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "carburando",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "fin de semana",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "allanamiento",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "bélgica - francia",
       "traffic": "20000+",
-      "rank": 5
-    },
-    {
-      "name": "george russell",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "formación profesional",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "alud",
-      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "minuto de silencio",
+      "name": "george russell",
       "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "córdoba",
-      "traffic": "200000+",
+      "name": "formación profesional",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
