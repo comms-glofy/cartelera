@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T10:30:15Z",
+  "updated": "2026-09-28T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "clima",
-      "traffic": "100000+",
+      "traffic": "200000+",
       "rank": 2
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "tiempo hoy",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima cordoba",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "28 de septiembre",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "mls",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "curazao - nicaragua",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "pareja",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
