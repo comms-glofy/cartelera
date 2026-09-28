@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T14:30:16Z",
+  "updated": "2026-09-28T15:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "bono",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 3
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "pronostico del tiempo",
-      "traffic": "500+",
+      "name": "pronostico cordoba",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
+      "name": "28 de septiembre",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
