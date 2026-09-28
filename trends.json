@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-28T20:30:33Z",
+  "updated": "2026-09-28T21:00:46Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "primera división",
-      "traffic": "2000+",
+      "name": "gobierno",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "asignación universal por hijo",
-      "traffic": "20000+",
+      "name": "primera división",
+      "traffic": "5000+",
       "rank": 2
+    },
+    {
+      "name": "asignación universal por hijo",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "oscar e. bosetti",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "condena",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "carburando",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "fin de semana",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "allanamiento",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "bélgica - francia",
-      "traffic": "20000+",
+      "name": "allanamiento",
+      "traffic": "5000+",
       "rank": 8
+    },
+    {
+      "name": "bélgica - francia",
+      "traffic": "50000+",
+      "rank": 9
     },
     {
       "name": "george russell",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "formación profesional",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
