@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-28T17:00:17Z",
+  "updated": "2026-09-28T17:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "alud",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 1
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "córdoba",
-      "traffic": "5000+",
+      "traffic": "200000+",
       "rank": 3
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "clima",
-      "traffic": "200000+",
-      "rank": 8
-    },
-    {
       "name": "japón - venezuela",
       "traffic": "10000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "pierre gasly",
       "traffic": "10000+",
+      "rank": 9
+    },
+    {
+      "name": "tiempo hoy",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
