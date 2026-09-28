@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-28T19:30:16Z",
+  "updated": "2026-09-28T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fin de semana",
-      "traffic": "2000+",
+      "name": "condena",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "allanamiento",
+      "name": "carburando",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "bélgica - francia",
-      "traffic": "20000+",
+      "name": "fin de semana",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "george russell",
+      "name": "allanamiento",
       "traffic": "2000+",
       "rank": 4
     },
     {
+      "name": "bélgica - francia",
+      "traffic": "20000+",
+      "rank": 5
+    },
+    {
+      "name": "george russell",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "formación profesional",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "alud",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "minuto de silencio",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "córdoba",
       "traffic": "200000+",
-      "rank": 7
-    },
-    {
-      "name": "bono",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "dia del empleado de comercio 2026",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "serie de televisión",
-      "traffic": "200+",
       "rank": 10
     }
   ]
