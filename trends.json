@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-28T18:30:19Z",
+  "updated": "2026-09-28T19:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bélgica - francia",
-      "traffic": "5000+",
+      "name": "allanamiento",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "george russell",
-      "traffic": "1000+",
+      "name": "bélgica - francia",
+      "traffic": "10000+",
       "rank": 2
+    },
+    {
+      "name": "george russell",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "alud",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "minuto de silencio",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "córdoba",
       "traffic": "200000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "feriados 2026",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "bono",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "dia del empleado de comercio 2026",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "serie de televisión",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "japón - venezuela",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
