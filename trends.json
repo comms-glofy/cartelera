@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-28T00:00:15Z",
+  "updated": "2026-09-28T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "evangelina salazar",
+      "name": "pareja",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "pluto tv",
-      "traffic": "1000+",
+      "name": "tiempo mañana",
+      "traffic": "20000+",
       "rank": 2
     },
     {
       "name": "gimnasia jujuy - san martín de tucumán",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "kick",
+      "name": "evangelina salazar",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "columbus crew - inter miami",
-      "traffic": "20000+",
+      "name": "pluto tv",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "quien juega hoy",
+      "name": "kick",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "gimnasia y tiro de salta - atlético rafaela",
-      "traffic": "2000+",
+      "name": "columbus crew - inter miami",
+      "traffic": "20000+",
       "rank": 7
     },
     {
-      "name": "chile",
-      "traffic": "5000+",
+      "name": "quien juega hoy",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "juan otero",
+      "name": "gimnasia y tiro de salta - atlético rafaela",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "fondo buitre",
-      "traffic": "1000+",
+      "name": "chile",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
