@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T09:00:17Z",
+  "updated": "2026-09-29T09:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico",
+      "name": "australia - brasil",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "smn",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tiempo hoy",
-      "traffic": "200000+",
+      "name": "clima posadas",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "pronóstico",
-      "traffic": "200+",
+      "name": "inundación",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "es mi sueño",
-      "traffic": "500+",
+      "name": "pronostico",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "200000+",
+      "rank": 6
+    },
+    {
+      "name": "es mi sueño",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "morena beltran",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "mi telefe",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "telefe",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "el niño",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "tiempo mañana",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "libertad - olimpia",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
