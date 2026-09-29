@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-29T10:30:14Z",
+  "updated": "2026-09-29T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "clima",
-      "traffic": "200000+",
+      "traffic": "500000+",
       "rank": 1
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "clima hoy",
+      "name": "es mi sueño",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "es mi sueño",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
       "name": "morena beltran",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "mi telefe",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "telefe",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
