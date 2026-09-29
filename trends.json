@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:30:18Z",
+  "updated": "2026-09-29T18:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "lesoto - marruecos",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "héctor ártico",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
       "name": "brasil vs",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "clima",
       "traffic": "500000+",
-      "rank": 8
-    },
-    {
-      "name": "australia - brasil",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "smn",
-      "traffic": "200+",
       "rank": 10
     }
   ]
