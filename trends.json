@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T18:00:17Z",
+  "updated": "2026-09-29T18:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "matías soulé",
+      "name": "muerte",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "helicóptero",
-      "traffic": "2000+",
+      "name": "choque frontal",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "cabo verde - ruanda",
-      "traffic": "2000+",
+      "name": "españa - croacia",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "jimena barón",
+      "name": "anses",
       "traffic": "20000+",
       "rank": 4
     },
     {
-      "name": "pagotto",
-      "traffic": "10000+",
+      "name": "antonela roccuzzo",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "burundi - argelia",
+      "name": "matías soulé",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "lesoto - marruecos",
+      "name": "helicóptero",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "héctor ártico",
+      "name": "cabo verde - ruanda",
       "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "brasil vs",
-      "traffic": "1000+",
+      "name": "jimena barón",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "clima",
-      "traffic": "500000+",
+      "name": "pagotto",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
