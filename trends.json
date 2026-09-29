@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T16:30:17Z",
+  "updated": "2026-09-29T17:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "jimena barón",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 2
     },
     {
@@ -30,27 +30,27 @@
     },
     {
       "name": "clima",
-      "traffic": "200000+",
+      "traffic": "500000+",
       "rank": 6
-    },
-    {
-      "name": "tiempo",
-      "traffic": "20000+",
-      "rank": 7
     },
     {
       "name": "australia - brasil",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "smn",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "clima posadas",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "clima de hoy",
+      "traffic": "200+",
       "rank": 10
     }
   ]
