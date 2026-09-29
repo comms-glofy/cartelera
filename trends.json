@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T14:00:17Z",
+  "updated": "2026-09-29T14:12:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "burundi - argelia",
+      "name": "juan carlos pagotto",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "brasil vs",
+      "name": "burundi - argelia",
       "traffic": "1000+",
       "rank": 2
     },
     {
+      "name": "brasil vs",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "clima",
       "traffic": "500000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tiempo",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "australia - brasil",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "smn",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima posadas",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima de hoy",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "inundación",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "el tiempo",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
