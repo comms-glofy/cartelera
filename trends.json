@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T00:00:18Z",
+  "updated": "2026-09-29T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "libertad - olimpia",
-      "traffic": "5000+",
+      "name": "tiempo de mañana",
+      "traffic": "500000+",
       "rank": 1
+    },
+    {
+      "name": "tiempo mañana",
+      "traffic": "20000+",
+      "rank": 2
+    },
+    {
+      "name": "libertad - olimpia",
+      "traffic": "10000+",
+      "rank": 3
     },
     {
       "name": "gobierno",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "asignación universal por hijo",
       "traffic": "20000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "oscar e. bosetti",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "condena",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "carburando",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "fin de semana",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "allanamiento",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "bélgica - francia",
-      "traffic": "50000+",
       "rank": 10
     }
   ]
