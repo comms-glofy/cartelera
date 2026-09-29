@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T20:00:16Z",
+  "updated": "2026-09-29T20:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "evento de el niño de 2026 2027",
-      "traffic": "5000+",
+      "name": "inglaterra vs",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "balón de oro",
-      "traffic": "1000+",
+      "name": "evento de el niño de 2026 2027",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "escocia - suiza",
+      "name": "balón de oro",
       "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "muerte",
+      "name": "escocia - suiza",
       "traffic": "2000+",
       "rank": 4
     },
     {
+      "name": "muerte",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
       "name": "choque frontal",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "españa - croacia",
       "traffic": "50000+",
-      "rank": 6
-    },
-    {
-      "name": "anses",
-      "traffic": "20000+",
       "rank": 7
     },
     {
-      "name": "antonela roccuzzo",
-      "traffic": "2000+",
+      "name": "anses",
+      "traffic": "10000+",
       "rank": 8
+    },
+    {
+      "name": "antonela roccuzzo",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "matías soulé",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "helicóptero",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
