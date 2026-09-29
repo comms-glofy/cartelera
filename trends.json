@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-29T12:00:17Z",
+  "updated": "2026-09-29T12:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "brasil vs",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -40,17 +40,17 @@
     },
     {
       "name": "inundación",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "el tiempo",
-      "traffic": "1000+",
+      "name": "clima hoy",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "clima hoy",
-      "traffic": "10000+",
+      "name": "tiempo hoy",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
