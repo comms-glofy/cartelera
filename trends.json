@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T11:00:16Z",
+  "updated": "2026-09-29T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "500000+",
+      "name": "brasil vs",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "clima",
+      "traffic": "200000+",
+      "rank": 2
     },
     {
       "name": "tiempo",
       "traffic": "20000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "australia - brasil",
-      "traffic": "10000+",
-      "rank": 3
+      "traffic": "20000+",
+      "rank": 4
     },
     {
       "name": "smn",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima posadas",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "inundación",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "es mi sueño",
-      "traffic": "2000+",
+      "name": "inundación",
+      "traffic": "1000+",
       "rank": 7
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "es mi sueño",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "morena beltran",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "mi telefe",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "telefe",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
