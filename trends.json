@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T13:30:18Z",
+  "updated": "2026-09-29T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brasil vs",
+      "name": "burundi - argelia",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "clima",
-      "traffic": "200000+",
+      "name": "brasil vs",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "clima",
+      "traffic": "500000+",
+      "rank": 3
     },
     {
       "name": "tiempo",
       "traffic": "20000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "australia - brasil",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "smn",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima posadas",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clima de hoy",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "inundación",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "el tiempo",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
