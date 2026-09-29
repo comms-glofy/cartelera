@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-29T17:00:18Z",
+  "updated": "2026-09-29T17:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "helicóptero",
+      "name": "matías soulé",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "helicóptero",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "cabo verde - ruanda",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
       "name": "jimena barón",
       "traffic": "20000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "pagotto",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "burundi - argelia",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "brasil vs",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "clima",
       "traffic": "500000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "australia - brasil",
       "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "smn",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima posadas",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima de hoy",
+      "name": "smn",
       "traffic": "200+",
       "rank": 10
     }
