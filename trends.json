@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T22:30:15Z",
+  "updated": "2026-09-29T23:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lucas sugo",
-      "traffic": "1000+",
+      "name": "argentina vs",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "deportivo pereira - santa fe",
+      "name": "lucas sugo",
       "traffic": "2000+",
       "rank": 2
     },
     {
+      "name": "deportivo pereira - santa fe",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
       "name": "inglaterra vs",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "evento de el niño de 2026 2027",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "balón de oro",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "escocia - suiza",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "muerte",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "choque frontal",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "españa - croacia",
       "traffic": "100000+",
-      "rank": 9
-    },
-    {
-      "name": "anses",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
