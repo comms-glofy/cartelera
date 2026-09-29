@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T01:30:13Z",
+  "updated": "2026-09-29T02:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telefe",
-      "traffic": "2000+",
+      "name": "mi telefe",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "telefe",
+      "traffic": "5000+",
+      "rank": 2
     },
     {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "tiempo mañana",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "libertad - olimpia",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "gobierno",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "asignación universal por hijo",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "oscar e. bosetti",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "condena",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
