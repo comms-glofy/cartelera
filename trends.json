@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T16:00:17Z",
+  "updated": "2026-09-29T16:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jimena barón",
-      "traffic": "10000+",
+      "name": "helicóptero",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "pagotto",
+      "name": "jimena barón",
       "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "burundi - argelia",
-      "traffic": "1000+",
+      "name": "pagotto",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "brasil vs",
+      "name": "burundi - argelia",
       "traffic": "1000+",
       "rank": 4
     },
     {
+      "name": "brasil vs",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "tiempo",
+      "traffic": "20000+",
+      "rank": 7
     },
     {
       "name": "australia - brasil",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "smn",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "clima posadas",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "clima de hoy",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "inundación",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
