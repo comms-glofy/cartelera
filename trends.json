@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T08:30:16Z",
+  "updated": "2026-09-29T09:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "es mi sueño",
-      "traffic": "500+",
+      "name": "pronostico",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "morena beltran",
+      "name": "clima hoy",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "mi telefe",
-      "traffic": "1000+",
+      "name": "tiempo hoy",
+      "traffic": "200000+",
       "rank": 3
+    },
+    {
+      "name": "pronóstico",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "es mi sueño",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "morena beltran",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "telefe",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "el niño",
       "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tiempo mañana",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "libertad - olimpia",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "gobierno",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "asignación universal por hijo",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
