@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T11:30:15Z",
+  "updated": "2026-09-29T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "inundación",
-      "traffic": "1000+",
+      "name": "clima de hoy",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima hoy",
-      "traffic": "2000+",
+      "name": "inundación",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "es mi sueño",
-      "traffic": "5000+",
+      "name": "el tiempo",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "morena beltran",
-      "traffic": "1000+",
+      "name": "clima hoy",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
