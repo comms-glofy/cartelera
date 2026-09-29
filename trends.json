@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T21:30:14Z",
+  "updated": "2026-09-29T22:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deportivo pereira - santa fe",
-      "traffic": "1000+",
+      "name": "lucas sugo",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "deportivo pereira - santa fe",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "inglaterra vs",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "evento de el niño de 2026 2027",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "balón de oro",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "escocia - suiza",
-      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "muerte",
+      "name": "escocia - suiza",
       "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "choque frontal",
-      "traffic": "2000+",
+      "name": "muerte",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "españa - croacia",
-      "traffic": "50000+",
+      "name": "choque frontal",
+      "traffic": "2000+",
       "rank": 8
+    },
+    {
+      "name": "españa - croacia",
+      "traffic": "100000+",
+      "rank": 9
     },
     {
       "name": "anses",
       "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "antonela roccuzzo",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
