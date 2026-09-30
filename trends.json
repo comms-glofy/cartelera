@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T03:00:16Z",
+  "updated": "2026-09-30T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,12 +14,12 @@
       "rank": 2
     },
     {
-      "name": "karina mazzocco",
+      "name": "diego ramos",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "diego ramos",
+      "name": "karina mazzocco",
       "traffic": "1000+",
       "rank": 4
     },
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "cuando juega argentina",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "estados unidos - chile",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "maxi ghione",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "argentina vs",
-      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "lucas sugo",
-      "traffic": "2000+",
+      "name": "argentina vs",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
