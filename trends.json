@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-30T21:00:18Z",
+  "updated": "2026-09-30T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "meteorología",
-      "traffic": "2000+",
+      "name": "uruguay",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "decreto",
-      "traffic": "10000+",
+      "name": "esteban ocon",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "meteorología",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "decreto",
+      "traffic": "20000+",
+      "rank": 4
     },
     {
       "name": "rodolfo arruabarrena",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "eritrea - sudáfrica",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "walter samuel",
       "traffic": "50000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "novak djokovic",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "marta fort",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "juana viale",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "peru vs",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
