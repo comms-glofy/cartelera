@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-30T09:30:19Z",
+  "updated": "2026-09-30T10:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wálter samuel",
+      "name": "juan manuel cerúndolo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "marta fort",
+      "name": "wálter samuel",
       "traffic": "500+",
       "rank": 2
     },
     {
+      "name": "marta fort",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "juana viale",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "diego ramos",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "karina mazzocco",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "telefe",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "méxico - perú",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "estados unidos - chile",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "maxi ghione",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "argentina",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
