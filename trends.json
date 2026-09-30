@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-30T21:30:15Z",
+  "updated": "2026-09-30T22:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "uruguay",
+      "name": "máximo kirchner",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "esteban ocon",
+      "name": "uruguay",
       "traffic": "1000+",
       "rank": 2
     },
     {
+      "name": "esteban ocon",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "meteorología",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "decreto",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "rodolfo arruabarrena",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "eritrea - sudáfrica",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "walter samuel",
       "traffic": "50000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "novak djokovic",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "marta fort",
-      "traffic": "500+",
       "rank": 10
     }
   ]
