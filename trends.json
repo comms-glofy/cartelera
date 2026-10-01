@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-01T22:30:13Z",
+  "updated": "2026-10-01T23:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aixa",
+      "name": "el niño",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "kun agüero",
-      "traffic": "2000+",
+      "name": "aixa",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "club deportivo eldense",
+      "name": "kun agüero",
       "traffic": "2000+",
       "rank": 3
     },
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "portugal vs",
+      "name": "club deportivo eldense",
       "traffic": "2000+",
       "rank": 5
     },
     {
+      "name": "portugal vs",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
       "name": "grecia - países bajos",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "gales - noruega",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "alemania - serbia",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "dinamarca - portugal",
       "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "megaproyecto",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
