@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-01T00:08:06Z",
+  "updated": "2026-10-01T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mi telefe en vivo",
-      "traffic": "1000+",
+      "name": "prestianni",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "roman vega",
+      "name": "mi telefe en vivo",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "mi telefe",
-      "traffic": "2000+",
+      "name": "roman vega",
+      "traffic": "10000+",
       "rank": 3
+    },
+    {
+      "name": "mi telefe",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "es mi sueño",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "telefe",
-      "traffic": "10000+",
-      "rank": 5
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "argentina - bolivia",
       "traffic": "200000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "torque - peñarol",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "graciela borges",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "máximo kirchner",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "uruguay",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
