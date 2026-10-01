@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-01T22:00:18Z",
+  "updated": "2026-10-01T22:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kun agüero",
+      "name": "aixa",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "club deportivo eldense",
+      "name": "kun agüero",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "gran premio de malasia",
+      "name": "club deportivo eldense",
       "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "portugal vs",
+      "name": "gran premio de malasia",
       "traffic": "2000+",
       "rank": 4
     },
     {
+      "name": "portugal vs",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "grecia - países bajos",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "gales - noruega",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "alemania - serbia",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "dinamarca - portugal",
-      "traffic": "20000+",
-      "rank": 8
+      "traffic": "50000+",
+      "rank": 9
     },
     {
       "name": "megaproyecto",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "river id",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
