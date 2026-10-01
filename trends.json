@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T12:30:14Z",
+  "updated": "2026-10-01T13:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "joaquín levinton",
+      "name": "alexander zverev",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "alexander zverev",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
       "name": "quini6",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "carlos alcaraz",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "frankkaster",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "valentín gómez",
-      "traffic": "2000+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "enzo fernández",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "santiago simón",
       "traffic": "10000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "mastantuono",
       "traffic": "5000+",
+      "rank": 8
+    },
+    {
+      "name": "burkina faso",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "exequiel palacios",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
