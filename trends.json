@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T03:30:13Z",
+  "updated": "2026-10-01T04:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,42 +15,42 @@
     },
     {
       "name": "santiago simón",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 3
-    },
-    {
-      "name": "mastantuono",
-      "traffic": "5000+",
-      "rank": 4
     },
     {
       "name": "burkina faso",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "exequiel palacios",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "leonel flores",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "cuti romero",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "benin",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "prestianni",
       "traffic": "10000+",
+      "rank": 9
+    },
+    {
+      "name": "roman vega",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
