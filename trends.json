@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-30T23:30:14Z",
+  "updated": "2026-10-01T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telefe",
-      "traffic": "1000+",
+      "name": "es mi sueño",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "argentina - bolivia",
-      "traffic": "50000+",
+      "name": "mi telefe",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "torque - peñarol",
+      "name": "roman vega",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "graciela borges",
-      "traffic": "1000+",
+      "name": "telefe",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "máximo kirchner",
-      "traffic": "2000+",
+      "name": "argentina - bolivia",
+      "traffic": "200000+",
       "rank": 5
     },
     {
-      "name": "uruguay",
-      "traffic": "2000+",
+      "name": "torque - peñarol",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "esteban ocon",
+      "name": "graciela borges",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "meteorología",
-      "traffic": "20000+",
+      "name": "máximo kirchner",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "decreto",
-      "traffic": "20000+",
+      "name": "uruguay",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "rodolfo arruabarrena",
+      "name": "esteban ocon",
       "traffic": "1000+",
       "rank": 10
     }
