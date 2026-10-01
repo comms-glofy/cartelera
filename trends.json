@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-01T01:00:20Z",
+  "updated": "2026-10-01T01:30:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "leonel flores",
-      "traffic": "2000+",
+      "name": "burkina faso",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "cuti romero",
+      "name": "exequiel palacios",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "benin",
-      "traffic": "1000+",
+      "name": "cuti romero",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "prestianni",
-      "traffic": "10000+",
+      "name": "leonel flores",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "mi telefe en vivo",
+      "name": "benin",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "roman vega",
+      "name": "prestianni",
       "traffic": "10000+",
       "rank": 6
     },
     {
+      "name": "mi telefe en vivo",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "roman vega",
+      "traffic": "20000+",
+      "rank": 8
+    },
+    {
       "name": "mi telefe",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "es mi sueño",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "telefe",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "argentina - bolivia",
-      "traffic": "500000+",
       "rank": 10
     }
   ]
