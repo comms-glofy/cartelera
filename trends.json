@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-01T05:00:15Z",
+  "updated": "2026-10-01T05:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flaco lopez",
-      "traffic": "5000+",
-      "rank": 1
-    },
-    {
       "name": "enzo fernández",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "santiago simón",
       "traffic": "10000+",
-      "rank": 3
-    },
-    {
-      "name": "mastantuono",
-      "traffic": "5000+",
-      "rank": 4
+      "rank": 2
     },
     {
       "name": "burkina faso",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 3
     },
     {
       "name": "exequiel palacios",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "leonel flores",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "cuti romero",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "benin",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "prestianni",
       "traffic": "10000+",
+      "rank": 8
+    },
+    {
+      "name": "roman vega",
+      "traffic": "20000+",
+      "rank": 9
+    },
+    {
+      "name": "es mi sueño",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
