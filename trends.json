@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-01T21:00:19Z",
+  "updated": "2026-10-01T21:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club deportivo eldense",
+      "name": "kun agüero",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "club deportivo eldense",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
       "name": "gran premio de malasia",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "portugal vs",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "grecia - países bajos",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gales - noruega",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "alemania - serbia",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "dinamarca - portugal",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "megaproyecto",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "river id",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "christa pike",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
