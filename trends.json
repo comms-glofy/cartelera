@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-02T16:00:52Z",
+  "updated": "2026-10-02T16:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "novak djokovic",
-      "traffic": "1000+",
+      "name": "ricardo soule",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "zonda",
+      "name": "novak djokovic",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "aryna sabalenka",
+      "name": "zonda",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "saint thomas este-oeste",
-      "traffic": "500+",
+      "name": "aryna sabalenka",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "día del bancario",
+      "name": "saint thomas este-oeste",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "día del bancario",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "pago",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "mala fama",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "estudiantes",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "olé",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "sergio uñac",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
