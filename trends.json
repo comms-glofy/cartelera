@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T15:30:17Z",
+  "updated": "2026-10-02T16:00:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "estudiantes",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
       "name": "olé",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "sergio uñac",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "platense - estudiantes",
-      "traffic": "100000+",
       "rank": 10
     }
   ]
