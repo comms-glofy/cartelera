@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T11:30:18Z",
+  "updated": "2026-10-02T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
+      "name": "olé",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "sergio uñac",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "platense - estudiantes",
       "traffic": "100000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "aixa",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "kun agüero",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "gran premio de malasia",
+      "name": "kun agüero",
       "traffic": "2000+",
       "rank": 10
     }
