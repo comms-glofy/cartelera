@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-02T00:00:17Z",
+  "updated": "2026-10-02T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "platense - estudiantes",
-      "traffic": "2000+",
+      "name": "sergio uñac",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "platense - estudiantes",
+      "traffic": "20000+",
+      "rank": 2
     },
     {
       "name": "el niño",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "aixa",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "kun agüero",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gran premio de malasia",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "club deportivo eldense",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "portugal vs",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "grecia - países bajos",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "gales - noruega",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "alemania - serbia",
+      "name": "gales - noruega",
       "traffic": "10000+",
       "rank": 10
     }
