@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-02T13:30:18Z",
+  "updated": "2026-10-02T14:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aryna sabalenka",
+      "name": "novak djokovic",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "zonda",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "aryna sabalenka",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "saint thomas este-oeste",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "día del bancario",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "pago",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "mala fama",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "olé",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "sergio uñac",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "platense - estudiantes",
       "traffic": "100000+",
-      "rank": 8
-    },
-    {
-      "name": "el niño",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "aixa",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
