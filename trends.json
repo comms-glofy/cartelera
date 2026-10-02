@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-02T22:00:17Z",
+  "updated": "2026-10-02T22:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "independiente - instituto",
-      "traffic": "5000+",
+      "name": "ferro - deportivo madryn",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "max verstappen",
-      "traffic": "1000+",
+      "name": "independiente - instituto",
+      "traffic": "20000+",
       "rank": 2
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "10000+",
+      "name": "max verstappen",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "línea sarmiento",
+      "name": "agustina cherri",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "francia - italia",
-      "traffic": "50000+",
+      "name": "mirtha legrand",
+      "traffic": "10000+",
       "rank": 5
     },
     {
-      "name": "flavio briatore",
-      "traffic": "5000+",
+      "name": "línea sarmiento",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "francia - italia",
+      "traffic": "50000+",
+      "rank": 7
     },
     {
       "name": "burkina faso",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "méxico",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "robbie williams",
-      "traffic": "1000+",
+      "name": "flavio briatore",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "leandro paredes",
+      "name": "méxico",
       "traffic": "2000+",
       "rank": 10
     }
