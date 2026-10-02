@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-02T19:00:17Z",
+  "updated": "2026-10-02T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "línea sarmiento",
-      "traffic": "1000+",
+      "name": "mirtha legrand",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "francia - italia",
-      "traffic": "10000+",
+      "name": "línea sarmiento",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "méxico",
-      "traffic": "2000+",
+      "name": "francia - italia",
+      "traffic": "20000+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "burkina faso",
-      "traffic": "1000+",
+      "name": "méxico",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "burkina faso",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "robbie williams",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "leandro paredes",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "alerta meteorológica",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "ricardo soule",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "novak djokovic",
-      "traffic": "1000+",
+      "name": "ricardo soule",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
