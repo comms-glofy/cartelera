@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-02T18:00:15Z",
+  "updated": "2026-10-02T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "robbie williams",
+      "name": "línea sarmiento",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "leandro paredes",
-      "traffic": "2000+",
+      "name": "francia - italia",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "alerta meteorológica",
-      "traffic": "2000+",
+      "name": "méxico",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "ricardo soule",
-      "traffic": "5000+",
+      "name": "flavio briatore",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "novak djokovic",
+      "name": "burkina faso",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "zonda",
+      "name": "robbie williams",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "aryna sabalenka",
-      "traffic": "1000+",
+      "name": "leandro paredes",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "día del bancario",
-      "traffic": "500+",
+      "name": "alerta meteorológica",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "pago",
-      "traffic": "2000+",
+      "name": "ricardo soule",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "mala fama",
+      "name": "novak djokovic",
       "traffic": "1000+",
       "rank": 10
     }
