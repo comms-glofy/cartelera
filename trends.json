@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-02T08:00:22Z",
+  "updated": "2026-10-02T08:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mala fama",
-      "traffic": "1000+",
+      "name": "pago",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "olé",
+      "name": "mala fama",
       "traffic": "1000+",
       "rank": 2
     },
     {
+      "name": "olé",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "sergio uñac",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "platense - estudiantes",
       "traffic": "100000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "aixa",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "kun agüero",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "gran premio de malasia",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "club deportivo eldense",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "portugal vs",
+      "name": "club deportivo eldense",
       "traffic": "2000+",
       "rank": 10
     }
