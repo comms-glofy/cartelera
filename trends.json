@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-03T03:00:17Z",
+  "updated": "2026-10-03T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lourdes sanchez",
-      "traffic": "1000+",
+      "name": "colombia - paraguay",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "gignac",
+      "name": "tabla anual 2026",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "primera división",
-      "traffic": "10000+",
+      "name": "lourdes sanchez",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "gignac",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "independiente rivadavia - gimnasia",
       "traffic": "50000+",
-      "rank": 4
+      "rank": 5
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "500000+",
-      "rank": 5
+      "name": "tiempo mañana",
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "boca juniors - unión",
       "traffic": "500000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "são paulo - santos",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "islas malvinas",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ferro - deportivo madryn",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "independiente - instituto",
-      "traffic": "100000+",
       "rank": 10
     }
   ]
