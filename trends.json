@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-03T20:00:19Z",
+  "updated": "2026-10-03T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético tucumán - barracas central",
-      "traffic": "2000+",
+      "name": "diego peretti",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "newell's - lanús",
+      "name": "atlético tucumán - barracas central",
       "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "suiza - eslovenia",
-      "traffic": "2000+",
+      "name": "newell's - lanús",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "deportivo morón - all boys",
+      "name": "suiza - eslovenia",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "san miguel - club mitre",
-      "traffic": "1000+",
+      "name": "deportivo morón - all boys",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "carlos sainz jr.",
+      "name": "san miguel - club mitre",
       "traffic": "1000+",
       "rank": 6
     },
     {
+      "name": "carlos sainz jr.",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "tristán suárez - quilmes",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "españa - chequia",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "colón - estudiantes",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "temperley - gimnasia jujuy",
-      "traffic": "2000+",
+      "name": "colón - estudiantes",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
