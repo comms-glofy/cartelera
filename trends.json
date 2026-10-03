@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-03T19:00:17Z",
+  "updated": "2026-10-03T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deportivo morón - all boys",
+      "name": "suiza - eslovenia",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "san miguel - club mitre",
-      "traffic": "500+",
+      "name": "deportivo morón - all boys",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "carlos sainz jr.",
+      "name": "san miguel - club mitre",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "inglaterra",
+      "name": "carlos sainz jr.",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "tristán suárez - quilmes",
-      "traffic": "1000+",
+      "name": "inglaterra",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "españa - chequia",
-      "traffic": "10000+",
+      "name": "tristán suárez - quilmes",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "colón - estudiantes",
-      "traffic": "2000+",
+      "name": "españa - chequia",
+      "traffic": "20000+",
       "rank": 7
+    },
+    {
+      "name": "colón - estudiantes",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "temperley - gimnasia jujuy",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "canadá - perú",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "la plata",
+      "name": "canadá - perú",
       "traffic": "2000+",
       "rank": 10
     }
