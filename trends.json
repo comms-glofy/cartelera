@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-03T18:30:28Z",
+  "updated": "2026-10-03T19:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "deportivo morón - all boys",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "san miguel - club mitre",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "carlos sainz jr.",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "inglaterra",
       "traffic": "500+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "tristán suárez - quilmes",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "españa - chequia",
-      "traffic": "5000+",
-      "rank": 3
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "colón - estudiantes",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "temperley - gimnasia jujuy",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "canadá - perú",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "la plata",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "defensa y justicia - san lorenzo",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "clima tucuman",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "flavio briatore",
-      "traffic": "1000+",
+      "name": "la plata",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
