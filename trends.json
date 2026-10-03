@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-03T01:30:15Z",
+  "updated": "2026-10-03T02:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "boca",
+      "traffic": "50000+",
+      "rank": 1
+    },
+    {
+      "name": "lourdes sanchez",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "primera división",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
       "name": "futbol para todos",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "independiente rivadavia - gimnasia",
       "traffic": "20000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "tiempo de mañana",
       "traffic": "500000+",
-      "rank": 3
-    },
-    {
-      "name": "boca vs union",
-      "traffic": "20000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "são paulo - santos",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "islas malvinas",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ferro - deportivo madryn",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "independiente - instituto",
       "traffic": "100000+",
-      "rank": 8
-    },
-    {
-      "name": "max verstappen",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "francia",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
