@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T04:30:13Z",
+  "updated": "2026-10-03T05:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,18 +9,18 @@
       "rank": 1
     },
     {
-      "name": "tabla anual 2026",
+      "name": "lourdes sanchez",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "lourdes sanchez",
+      "name": "gignac",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "gignac",
-      "traffic": "1000+",
+      "name": "primera división",
+      "traffic": "10000+",
       "rank": 4
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
+      "name": "tiempo mañana",
+      "traffic": "20000+",
+      "rank": 7
+    },
+    {
       "name": "boca juniors - unión",
       "traffic": "500000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "são paulo - santos",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "islas malvinas",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "ferro - deportivo madryn",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
