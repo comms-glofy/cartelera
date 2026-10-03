@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-03T13:30:16Z",
+  "updated": "2026-10-03T14:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el niño",
+      "name": "albacete",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "albacete",
-      "traffic": "500+",
+      "name": "el niño",
+      "traffic": "1000+",
       "rank": 2
     },
     {
       "name": "francisco cerúndolo",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "alan velasco",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "carlos alcaraz",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "colombia - paraguay",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lourdes sanchez",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "gignac",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "primera división",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
