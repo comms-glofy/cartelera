@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-03T15:00:16Z",
+  "updated": "2026-10-03T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "india - brasil",
-      "traffic": "10000+",
+      "name": "croacia - inglaterra",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "albacete",
-      "traffic": "2000+",
+      "name": "india - brasil",
+      "traffic": "20000+",
       "rank": 2
     },
     {
       "name": "el niño",
-      "traffic": "2000+",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "francisco cerúndolo",
+      "name": "albacete",
       "traffic": "2000+",
       "rank": 4
     },
     {
+      "name": "francisco cerúndolo",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "alexander zverev",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "carlos alcaraz",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pronostico",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "colombia - paraguay",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "lourdes sanchez",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
