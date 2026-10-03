@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-03T10:30:13Z",
+  "updated": "2026-10-03T11:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "alan velasco",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "clima",
       "traffic": "100000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "carlos alcaraz",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "colombia - paraguay",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "meteored",
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "lourdes sanchez",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "gignac",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "primera división",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "independiente rivadavia - gimnasia",
       "traffic": "50000+",
-      "rank": 7
-    },
-    {
-      "name": "tiempo de mañana",
-      "traffic": "500000+",
-      "rank": 8
-    },
-    {
-      "name": "tiempo mañana",
-      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "boca juniors - unión",
+      "name": "tiempo de mañana",
       "traffic": "500000+",
       "rank": 10
     }
