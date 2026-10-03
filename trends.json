@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-03T21:30:15Z",
+  "updated": "2026-10-03T21:57:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diego peretti",
-      "traffic": "2000+",
+      "name": "atlético mineiro - bragantino",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "atlético tucumán - barracas central",
-      "traffic": "10000+",
+      "name": "diego peretti",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "newell's - lanús",
+      "name": "atlético tucumán - barracas central",
       "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "suiza - eslovenia",
-      "traffic": "2000+",
+      "name": "newell's - lanús",
+      "traffic": "20000+",
       "rank": 4
     },
     {
-      "name": "deportivo morón - all boys",
+      "name": "suiza - eslovenia",
       "traffic": "2000+",
       "rank": 5
     },
     {
+      "name": "deportivo morón - all boys",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
       "name": "san miguel - club mitre",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "carlos sainz jr.",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tristán suárez - quilmes",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "españa - chequia",
       "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "colón - estudiantes",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
