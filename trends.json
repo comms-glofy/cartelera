@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-03T00:00:15Z",
+  "updated": "2026-10-03T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo mañana",
-      "traffic": "20000+",
+      "name": "independiente rivadavia - gimnasia",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "a qué hora juega boca",
-      "traffic": "2000+",
+      "name": "matías gallardo",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
+      "rank": 3
+    },
+    {
+      "name": "tiempo mañana",
+      "traffic": "20000+",
+      "rank": 4
+    },
+    {
+      "name": "a qué hora juega boca",
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "são paulo - santos",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "islas malvinas",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "ferro - deportivo madryn",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "independiente - instituto",
-      "traffic": "50000+",
-      "rank": 6
-    },
-    {
-      "name": "max verstappen",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "francia",
-      "traffic": "1000+",
+      "name": "ferro - deportivo madryn",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "agustina cherri",
-      "traffic": "2000+",
+      "name": "independiente - instituto",
+      "traffic": "100000+",
       "rank": 9
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "10000+",
+      "name": "max verstappen",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
