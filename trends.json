@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T06:30:14Z",
+  "updated": "2026-10-03T07:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -20,7 +20,7 @@
     },
     {
       "name": "meteored",
-      "traffic": "500000+",
+      "traffic": "20000+",
       "rank": 4
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "tiempo mañana",
-      "traffic": "20000+",
+      "name": "tiempo de mañana",
+      "traffic": "500000+",
       "rank": 9
     },
     {
-      "name": "boca juniors - unión",
-      "traffic": "500000+",
+      "name": "tiempo mañana",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
