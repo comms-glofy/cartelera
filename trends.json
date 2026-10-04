@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-04T10:30:14Z",
+  "updated": "2026-10-04T11:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colapinto",
-      "traffic": "10000+",
+      "name": "granizo",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "max verstappen",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "médico",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ángela leiva",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "formula 1",
-      "traffic": "5000+",
-      "rank": 5
+      "traffic": "20000+",
+      "rank": 6
     },
     {
       "name": "f1",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "malasia",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "disney plus",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "disney",
-      "traffic": "1000+",
+      "name": "bahrein",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "julián alvarez",
+      "name": "disney plus",
       "traffic": "1000+",
       "rank": 10
     }
