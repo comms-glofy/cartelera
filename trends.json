@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T02:30:15Z",
+  "updated": "2026-10-04T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "julián alvarez",
-      "traffic": "500+",
+      "name": "santi castro",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "enzo fernández",
-      "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "santi castro",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
       "name": "estados unidos - méxico",
-      "traffic": "5000+",
-      "rank": 4
+      "traffic": "10000+",
+      "rank": 2
     },
     {
       "name": "esteban ribovics",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "franco mastantuono",
-      "traffic": "2000+",
-      "rank": 6
+      "rank": 3
     },
     {
       "name": "tomás palacios",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 4
     },
     {
       "name": "leonel flores",
-      "traffic": "100000+",
-      "rank": 8
-    },
-    {
-      "name": "flores boca",
-      "traffic": "2000+",
-      "rank": 9
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "mastantuono",
-      "traffic": "5000+",
+      "traffic": "10000+",
+      "rank": 6
+    },
+    {
+      "name": "soule",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "arg",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "gianluca prestianni",
+      "traffic": "10000+",
+      "rank": 9
+    },
+    {
+      "name": "lautaro martínez",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
