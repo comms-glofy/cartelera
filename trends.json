@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T01:30:16Z",
+  "updated": "2026-10-04T02:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "soule",
-      "traffic": "1000+",
+      "name": "estados unidos - méxico",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "mastantuono",
+      "name": "esteban ribovics",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "arg",
+      "name": "matias soule",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "gianluca prestianni",
-      "traffic": "2000+",
+      "name": "leonel flores",
+      "traffic": "100000+",
       "rank": 4
     },
     {
-      "name": "prestianni",
-      "traffic": "2000+",
+      "name": "tomás palacios",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "lautaro martínez",
+      "name": "flores boca",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "telefe en vivo",
-      "traffic": "20000+",
+      "name": "mastantuono",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "benin",
-      "traffic": "5000+",
+      "name": "soule",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "mi telefe",
-      "traffic": "5000+",
+      "name": "gianluca prestianni",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "despedida de messi",
-      "traffic": "5000+",
+      "name": "lautaro martínez",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
