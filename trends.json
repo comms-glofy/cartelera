@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T19:00:17Z",
+  "updated": "2026-10-04T19:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san telmo - almirante brown",
-      "traffic": "1000+",
+      "name": "lula",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "emiliano martínez",
+      "name": "fito páez",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "chacarita - patronato",
+      "name": "san telmo - almirante brown",
       "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "colisión",
-      "traffic": "2000+",
+      "name": "emiliano martínez",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "países bajos - serbia",
-      "traffic": "1000+",
+      "name": "chacarita - patronato",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "talleres vs belgrano",
-      "traffic": "1000+",
+      "name": "colisión",
+      "traffic": "5000+",
       "rank": 6
+    },
+    {
+      "name": "países bajos - serbia",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "grecia - alemania",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
+      "name": "talleres vs belgrano",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "portugal - noruega",
       "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "pronóstico del tiempo",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "huracán - aldosivi",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "barcelona - real madrid c. f. femenino",
-      "traffic": "500+",
       "rank": 10
     }
   ]
