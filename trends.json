@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T02:00:16Z",
+  "updated": "2026-10-04T02:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estados unidos - méxico",
-      "traffic": "2000+",
+      "name": "julián alvarez",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "esteban ribovics",
+      "name": "enzo fernández",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "matias soule",
-      "traffic": "1000+",
+      "name": "santi castro",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "leonel flores",
-      "traffic": "100000+",
+      "name": "estados unidos - méxico",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "tomás palacios",
+      "name": "esteban ribovics",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "flores boca",
+      "name": "franco mastantuono",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "mastantuono",
-      "traffic": "5000+",
+      "name": "tomás palacios",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "soule",
-      "traffic": "2000+",
+      "name": "leonel flores",
+      "traffic": "100000+",
       "rank": 8
     },
     {
-      "name": "gianluca prestianni",
+      "name": "flores boca",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "lautaro martínez",
-      "traffic": "2000+",
+      "name": "mastantuono",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
