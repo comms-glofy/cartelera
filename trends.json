@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-04T03:00:14Z",
+  "updated": "2026-10-04T03:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "julián alvarez",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "santi castro",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "estados unidos - méxico",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "esteban ribovics",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
-      "name": "tomás palacios",
+      "name": "franco mastantuono",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "leonel flores",
       "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "mastantuono",
-      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "soule",
+      "name": "tomás palacios",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "arg",
-      "traffic": "1000+",
+      "name": "mastantuono",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "gianluca prestianni",
-      "traffic": "10000+",
+      "name": "soule",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "lautaro martínez",
+      "name": "agustín giay",
       "traffic": "2000+",
       "rank": 10
     }
