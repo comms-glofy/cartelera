@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-04T12:42:10Z",
+  "updated": "2026-10-04T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "500+",
+      "name": "la nacion",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "novak djokovic",
+      "name": "alexander zverev",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "alexander zverev",
+      "name": "novak djokovic",
       "traffic": "1000+",
       "rank": 3
     },
@@ -30,27 +30,27 @@
     },
     {
       "name": "granizo",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "formula 1 hoy",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "colapinto",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "médico",
-      "traffic": "1000+",
-      "rank": 9
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "ángela leiva",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
