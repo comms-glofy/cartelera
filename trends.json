@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-04T13:30:16Z",
+  "updated": "2026-10-04T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "la nacion",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
       "name": "novak djokovic",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "pagina 12",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "rayo",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "granizo",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "fórmula 1",
+      "traffic": "20000+",
+      "rank": 7
     },
     {
       "name": "médico",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "colapinto hoy",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "ángela leiva",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "formula 1",
-      "traffic": "10000+",
+      "name": "ángela leiva",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
