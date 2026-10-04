@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-04T11:00:18Z",
+  "updated": "2026-10-04T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "granizo",
+      "name": "rayo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "max verstappen",
-      "traffic": "200+",
+      "name": "granizo",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "médico",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "médico",
-      "traffic": "200+",
       "rank": 4
     },
     {
       "name": "ángela leiva",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "f1 hoy",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "formula 1",
       "traffic": "20000+",
-      "rank": 6
-    },
-    {
-      "name": "f1",
-      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "malasia",
-      "traffic": "500+",
+      "name": "f1",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "bahrein",
-      "traffic": "500+",
+      "name": "malasia",
+      "traffic": "1000+",
       "rank": 9
     },
     {
