@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T18:30:16Z",
+  "updated": "2026-10-04T19:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "países bajos - serbia",
-      "traffic": "500+",
+      "name": "san telmo - almirante brown",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "talleres vs belgrano",
-      "traffic": "1000+",
+      "name": "emiliano martínez",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "portugal - noruega",
-      "traffic": "5000+",
+      "name": "chacarita - patronato",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "pronóstico del tiempo",
-      "traffic": "1000+",
+      "name": "colisión",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "huracan",
+      "name": "países bajos - serbia",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "huracán - aldosivi",
-      "traffic": "10000+",
+      "name": "talleres vs belgrano",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "barcelona - real madrid c. f. femenino",
-      "traffic": "500+",
+      "name": "portugal - noruega",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "kosovo - austria",
+      "name": "pronóstico del tiempo",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "elecciones brasil",
-      "traffic": "10000+",
+      "name": "huracán - aldosivi",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "la nacion",
-      "traffic": "5000+",
+      "name": "barcelona - real madrid c. f. femenino",
+      "traffic": "500+",
       "rank": 10
     }
   ]
