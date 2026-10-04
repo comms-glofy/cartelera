@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T15:00:14Z",
+  "updated": "2026-10-04T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elecciones brasil",
-      "traffic": "500+",
+      "name": "kosovo - austria",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "elecciones brasil",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "djokovic",
+      "traffic": "5000+",
+      "rank": 3
     },
     {
       "name": "la nacion",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "administración nacional de la seguridad social",
       "traffic": "20000+",
-      "rank": 3
-    },
-    {
-      "name": "novak djokovic",
-      "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "miniserie",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pagina 12",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "rayo",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "granizo",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "fórmula 1",
       "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "formula 1 hoy",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
