@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-04T00:23:19Z",
+  "updated": "2026-10-04T00:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telefe en vivo",
-      "traffic": "10000+",
+      "name": "prestianni",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "despedida de messi",
-      "traffic": "2000+",
+      "name": "telefe en vivo",
+      "traffic": "10000+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "benin",
-      "traffic": "1000+",
+      "name": "despedida de messi",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "benin",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "telefe",
       "traffic": "10000+",
-      "rank": 5
-    },
-    {
-      "name": "choque múltiple",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "argentina - burkina faso",
-      "traffic": "200000+",
+      "name": "choque múltiple",
+      "traffic": "2000+",
       "rank": 7
+    },
+    {
+      "name": "argentina - burkina faso",
+      "traffic": "500000+",
+      "rank": 8
     },
     {
       "name": "deportivo recoleta - libertad",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "atlético mineiro - bragantino",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "diego peretti",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
