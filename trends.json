@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T13:00:15Z",
+  "updated": "2026-10-04T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "alexander zverev",
-      "traffic": "1000+",
-      "rank": 2
-    },
-    {
       "name": "novak djokovic",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "miniserie",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "rayo",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "granizo",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "colapinto",
-      "traffic": "20000+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "médico",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "500+",
-      "rank": 9
+      "rank": 7
+    },
+    {
+      "name": "colapinto hoy",
+      "traffic": "20000+",
+      "rank": 8
     },
     {
       "name": "ángela leiva",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "formula 1",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
