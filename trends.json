@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-04T16:30:18Z",
+  "updated": "2026-10-04T17:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "kosovo - austria",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "djokovic",
-      "traffic": "5000+",
-      "rank": 4
-    },
-    {
       "name": "san francisco de asis",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "administración nacional de la seguridad social",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "novak djokovic",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "miniserie",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "pagina 12",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "rayo",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "granizo",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
