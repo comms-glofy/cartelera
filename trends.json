@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T09:00:17Z",
+  "updated": "2026-10-04T09:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "formula 1",
-      "traffic": "2000+",
+      "name": "colapinto",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "f1",
-      "traffic": "5000+",
+      "name": "francisco cerúndolo",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "médico",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "ángela leiva",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "formula 1",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "f1",
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "malasia",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "disney plus",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "disney",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "julián alvarez",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "enzo fernández",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "santi castro",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "santiago castro",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "estados unidos - méxico",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
