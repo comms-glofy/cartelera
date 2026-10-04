@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T01:00:19Z",
+  "updated": "2026-10-04T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nico paz",
-      "traffic": "5000+",
+      "name": "soule",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "gianluca prestianni",
-      "traffic": "2000+",
+      "name": "mastantuono",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "lautaro martínez",
+      "name": "arg",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "telefe en vivo",
-      "traffic": "10000+",
+      "name": "gianluca prestianni",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "benin",
+      "name": "prestianni",
       "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "mi telefe",
+      "name": "lautaro martínez",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "despedida de messi",
-      "traffic": "2000+",
+      "name": "telefe en vivo",
+      "traffic": "20000+",
       "rank": 7
     },
     {
-      "name": "telefe",
-      "traffic": "20000+",
+      "name": "benin",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "choque múltiple",
-      "traffic": "2000+",
+      "name": "mi telefe",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "argentina - burkina faso",
-      "traffic": "500000+",
+      "name": "despedida de messi",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
