@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T22:30:17Z",
+  "updated": "2026-10-04T23:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing - peñarol",
-      "traffic": "500+",
+      "name": "godoy cruz",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "argentinos jrs. - tigre",
-      "traffic": "5000+",
+      "name": "ronaldo caiado",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "san martín de tucumán - gimnasia y tiro de salta",
-      "traffic": "2000+",
+      "name": "racing - peñarol",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "argentinos jrs. - tigre",
+      "traffic": "10000+",
+      "rank": 4
+    },
+    {
+      "name": "san martín de tucumán - gimnasia y tiro de salta",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "flavio bolsonaro",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "cuando juega river",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "escritor augusto cury",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "atlético rafaela - atlanta",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "alvarado",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "clariana barão",
-      "traffic": "1000+",
+      "name": "escritor augusto cury",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "chaco for ever - defensores de belgrano",
+      "name": "atlético rafaela - atlanta",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "central norte - racing de córdoba",
-      "traffic": "5000+",
+      "name": "alvarado",
+      "traffic": "500+",
       "rank": 10
     }
   ]
