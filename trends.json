@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T06:09:35Z",
+  "updated": "2026-10-04T06:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mexico vs",
-      "traffic": "2000+",
-      "rank": 1
-    },
-    {
       "name": "julián alvarez",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "enzo fernández",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "santi castro",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "estados unidos - méxico",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "esteban ribovics",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "leonel flores",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "mastantuono",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "soule",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "prestianni",
       "traffic": "5000+",
+      "rank": 9
+    },
+    {
+      "name": "lautaro martínez",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
