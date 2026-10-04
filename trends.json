@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T17:15:45Z",
+  "updated": "2026-10-04T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "huracán - aldosivi",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "barcelona - real madrid c. f. femenino",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "kosovo - austria",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "elecciones brasil",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "la nacion",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "djokovic",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "san francisco de asis",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "novak djokovic",
+      "name": "administración nacional de la seguridad social",
       "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "miniserie",
-      "traffic": "2000+",
+      "name": "novak djokovic",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "pagina 12",
-      "traffic": "500+",
+      "name": "miniserie",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
