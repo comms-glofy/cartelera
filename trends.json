@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-04T14:00:17Z",
+  "updated": "2026-10-04T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "elecciones brasil",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "la nacion",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "administración nacional de la seguridad social",
+      "traffic": "20000+",
+      "rank": 3
     },
     {
       "name": "novak djokovic",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "miniserie",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "pagina 12",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "rayo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "granizo",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "fórmula 1",
       "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "médico",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "francisco cerúndolo",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ángela leiva",
-      "traffic": "5000+",
+      "name": "formula 1 hoy",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
