@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-04T00:00:14Z",
+  "updated": "2026-10-04T00:23:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telefe",
-      "traffic": "2000+",
+      "name": "telefe en vivo",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "argentina fc",
-      "traffic": "1000+",
+      "name": "despedida de messi",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "mi telefe",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "benin",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "telefe",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "choque múltiple",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "argentina - burkina faso",
-      "traffic": "100000+",
-      "rank": 4
+      "traffic": "200000+",
+      "rank": 7
     },
     {
       "name": "deportivo recoleta - libertad",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "atlético mineiro - bragantino",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "diego peretti",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "atlético tucumán - barracas central",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "newell's - lanús",
-      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "suiza - eslovenia",
+      "name": "diego peretti",
       "traffic": "2000+",
       "rank": 10
     }
