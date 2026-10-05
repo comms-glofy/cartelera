@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T01:00:15Z",
+  "updated": "2026-10-05T01:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,12 +10,12 @@
     },
     {
       "name": "lionel messi",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 2
     },
     {
       "name": "estudiantes de río cuarto - racing",
-      "traffic": "20000+",
+      "traffic": "50000+",
       "rank": 3
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "posiciones de club atlético huracán contra aldosivi",
+      "traffic": "50000+",
+      "rank": 8
+    },
+    {
       "name": "argentinos jrs. - tigre",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "stuart barlow",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "san martín de tucumán - gimnasia y tiro de salta",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
