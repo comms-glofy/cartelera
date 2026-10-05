@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T16:00:19Z",
+  "updated": "2026-10-05T16:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "cadena 3",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "infobae",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima mar del plata",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "carlos alcaraz",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lunes",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "yanina latorre",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ecuador vs panama",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "marta fort",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
