@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-05T08:30:15Z",
+  "updated": "2026-10-05T09:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "yanina latorre",
-      "traffic": "100+",
+      "name": "carlos alcaraz",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ecuador vs panama",
+      "name": "clima mar del plata",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "lunes",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "yanina latorre",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "ecuador vs panama",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "marta fort",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "minuto uno",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "chapadmalal",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "lionel messi",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "estudiantes de río cuarto - racing",
       "traffic": "100000+",
-      "rank": 7
-    },
-    {
-      "name": "renan santos",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "ronaldo caiado",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "godoy cruz",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
