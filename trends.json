@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-05T21:30:24Z",
+  "updated": "2026-10-05T22:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "estudiantes - gimnasia y esgrima",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "la plata",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "italia vs",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "francia vs",
-      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -25,12 +25,12 @@
     },
     {
       "name": "deportivo riestra - central córdoba",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 5
     },
     {
       "name": "zulema galperín",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 6
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "francia - bélgica",
-      "traffic": "20000+",
+      "traffic": "50000+",
       "rank": 9
     },
     {
