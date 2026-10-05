@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-05T07:00:16Z",
+  "updated": "2026-10-05T07:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ecuador vs panama",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "marta fort",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "minuto uno",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "chapadmalal",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "lionel messi",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "estudiantes de río cuarto - racing",
       "traffic": "100000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "renan santos",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ronaldo caiado",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "godoy cruz",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "racing - peñarol",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "argentinos jrs. - tigre",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
