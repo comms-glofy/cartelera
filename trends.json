@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T18:42:30Z",
+  "updated": "2026-10-05T19:05:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,47 +10,47 @@
     },
     {
       "name": "francia - bélgica",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "2026",
-      "traffic": "5000+",
+      "name": "benín",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "argentina vs benin",
-      "traffic": "2000+",
+      "name": "2026",
+      "traffic": "10000+",
       "rank": 4
+    },
+    {
+      "name": "argentina vs benin",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "deportivo recoleta - libertad",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "novak djokovic",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "banco provincia",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "japón - nueva zelanda",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "cadena 3",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "infobae",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
