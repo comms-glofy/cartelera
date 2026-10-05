@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-05T19:05:18Z",
+  "updated": "2026-10-05T20:11:08Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "italia - turquía",
+      "name": "francia vs",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "francia - bélgica",
-      "traffic": "10000+",
+      "name": "nueva chicago - deportivo maipú",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "benín",
-      "traffic": "2000+",
+      "name": "deportivo riestra - central córdoba",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "2026",
-      "traffic": "10000+",
+      "name": "zulema galperín",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "argentina vs benin",
-      "traffic": "10000+",
+      "name": "tormenta",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "deportivo recoleta - libertad",
+      "name": "italia - turquía",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "novak djokovic",
-      "traffic": "5000+",
+      "name": "francia - bélgica",
+      "traffic": "20000+",
       "rank": 7
     },
     {
-      "name": "banco provincia",
-      "traffic": "5000+",
+      "name": "benín",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "japón - nueva zelanda",
-      "traffic": "500+",
+      "name": "2026",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "cadena 3",
-      "traffic": "1000+",
+      "name": "argentina vs benin",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
