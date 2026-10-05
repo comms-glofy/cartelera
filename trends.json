@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-05T11:30:17Z",
+  "updated": "2026-10-05T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "japón - nueva zelanda",
-      "traffic": "200+",
+      "name": "novak djokovic",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "japón - nueva zelanda",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "infobae",
+      "traffic": "10000+",
+      "rank": 3
     },
     {
       "name": "clima mar del plata",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "carlos alcaraz",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "lunes",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "yanina latorre",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "ecuador vs panama",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "marta fort",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "minuto uno",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "chapadmalal",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "lionel messi",
+      "name": "minuto uno",
       "traffic": "5000+",
       "rank": 10
     }
