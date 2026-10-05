@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-05T16:30:18Z",
+  "updated": "2026-10-05T17:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "argentina vs benin",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
       "name": "deportivo recoleta - libertad",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "novak djokovic",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "japón - nueva zelanda",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "cadena 3",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "infobae",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima mar del plata",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "carlos alcaraz",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lunes",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "yanina latorre",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "ecuador vs panama",
-      "traffic": "200+",
       "rank": 10
     }
   ]
