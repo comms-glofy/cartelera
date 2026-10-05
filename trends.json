@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-05T18:00:17Z",
+  "updated": "2026-10-05T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "2026",
-      "traffic": "2000+",
+      "name": "italia - turquía",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "francia - bélgica",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
+      "name": "2026",
+      "traffic": "5000+",
+      "rank": 3
     },
     {
       "name": "argentina vs benin",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "deportivo recoleta - libertad",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "novak djokovic",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "banco provincia",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "japón - nueva zelanda",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cadena 3",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "infobae",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "clima mar del plata",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "carlos alcaraz",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
