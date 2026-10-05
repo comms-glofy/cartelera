@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-05T00:00:50Z",
+  "updated": "2026-10-05T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estudiantes de río cuarto - racing",
-      "traffic": "1000+",
+      "name": "chapadmalal",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "renan santos",
-      "traffic": "1000+",
+      "name": "lionel messi",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "estudiantes de río cuarto - racing",
+      "traffic": "10000+",
+      "rank": 3
+    },
+    {
+      "name": "renan santos",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "ronaldo caiado",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "godoy cruz",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "ronaldo caiado",
-      "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "racing - peñarol",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "argentinos jrs. - tigre",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "stuart barlow",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "san martín de tucumán - gimnasia y tiro de salta",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "escritor augusto cury",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "cuando juega river",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
