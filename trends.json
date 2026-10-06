@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T19:00:15Z",
+  "updated": "2026-10-06T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "méxico",
-      "traffic": "1000+",
+      "name": "senador",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "american idol",
+      "name": "refinanciación",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "subte a",
-      "traffic": "100+",
+      "name": "francisco comesaña",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "venezuela vs",
-      "traffic": "100+",
+      "name": "descubrimiento",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "cipolletti",
+      "name": "croatia vs spain",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "obra pública",
+      "name": "england vs czechia",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "río de la plata",
-      "traffic": "200+",
+      "name": "méxico",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "croacia - españa",
-      "traffic": "10000+",
+      "name": "american idol",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "inglaterra - chequia",
-      "traffic": "5000+",
+      "name": "subte a",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "primera división",
-      "traffic": "5000+",
+      "name": "venezuela vs",
+      "traffic": "200+",
       "rank": 10
     }
   ]
