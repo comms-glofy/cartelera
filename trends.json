@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T14:30:52Z",
+  "updated": "2026-10-06T15:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "world space week 2026",
-      "traffic": "500+",
+      "name": "anses",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "semana mundial del espacio 2026",
-      "traffic": "10000+",
+      "name": "india vs uruguay",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "djokovic",
-      "traffic": "5000+",
+      "name": "world space week 2026",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "benin",
-      "traffic": "10000+",
+      "name": "semana mundial del espacio 2026",
+      "traffic": "20000+",
       "rank": 4
+    },
+    {
+      "name": "novak djokovic",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "benin",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "joaquín levinton",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "carlos alcaraz",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "día de la raza",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "agustín canapino",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de banfield contra rosario central",
-      "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de club atlético vélez sarsfield contra platense",
-      "traffic": "100000+",
       "rank": 10
     }
   ]
