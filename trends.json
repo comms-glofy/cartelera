@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T11:30:19Z",
+  "updated": "2026-10-06T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "novak djokovic",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "benin",
       "traffic": "10000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "joaquín levinton",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "carlos alcaraz",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "día de la raza",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "agustín canapino",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "posiciones de banfield contra rosario central",
       "traffic": "50000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "posiciones de club atlético vélez sarsfield contra platense",
       "traffic": "100000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "medellín - santa fe",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "nacional - torque",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "claudia villafañe",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
