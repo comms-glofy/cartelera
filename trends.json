@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T18:30:17Z",
+  "updated": "2026-10-06T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "doctorado honoris causa",
+      "name": "méxico",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "cipolletti",
+      "name": "american idol",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "río de la plata",
-      "traffic": "200+",
+      "name": "subte a",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "obra pública",
+      "name": "venezuela vs",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "croacia - españa",
-      "traffic": "5000+",
+      "name": "cipolletti",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "obra pública",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "río de la plata",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "croacia - españa",
+      "traffic": "10000+",
+      "rank": 8
     },
     {
       "name": "inglaterra - chequia",
       "traffic": "5000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "progresar",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "papu gómez",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "adrián ravier",
-      "traffic": "200+",
       "rank": 10
     }
   ]
