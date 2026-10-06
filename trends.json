@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-06T01:30:16Z",
+  "updated": "2026-10-06T02:00:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "despedida de messi",
-      "traffic": "2000+",
-      "rank": 1
-    },
-    {
       "name": "medellín - santa fe",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "banfield - rosario central",
       "traffic": "20000+",
+      "rank": 2
+    },
+    {
+      "name": "argentina mañana",
+      "traffic": "5000+",
       "rank": 3
     },
     {
