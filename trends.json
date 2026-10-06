@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T15:00:19Z",
+  "updated": "2026-10-06T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "uruguay india",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "insecto",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "jordan pickford",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "anses",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "india vs uruguay",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "world space week 2026",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "semana mundial del espacio 2026",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "novak djokovic",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "benin",
-      "traffic": "5000+",
-      "rank": 6
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "joaquín levinton",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "carlos alcaraz",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "día de la raza",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "agustín canapino",
-      "traffic": "500+",
       "rank": 10
     }
   ]
