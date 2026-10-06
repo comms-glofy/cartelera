@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-06T01:00:17Z",
+  "updated": "2026-10-06T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "despedida de messi",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "medellín - santa fe",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "banfield - rosario central",
       "traffic": "20000+",
-      "rank": 2
-    },
-    {
-      "name": "argentina mañana",
-      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "claudia villafañe",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 6
     },
     {
