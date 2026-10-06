@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-05T23:30:17Z",
+  "updated": "2026-10-06T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nacional - torque",
-      "traffic": "500+",
+      "name": "argentina mañana",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "velez",
-      "traffic": "5000+",
+      "name": "nacional - torque",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "velez",
+      "traffic": "10000+",
+      "rank": 3
     },
     {
       "name": "claudia villafañe",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "estudiantes - gimnasia y esgrima",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "la plata",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "italia vs",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nueva chicago - deportivo maipú",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "zulema galperín",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "deportivo riestra - central córdoba",
       "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "tormenta",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
