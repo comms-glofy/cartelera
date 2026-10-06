@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T17:30:18Z",
+  "updated": "2026-10-06T18:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gonzalo montiel",
-      "traffic": "100+",
+      "name": "papu gómez",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cristian fabbiani",
+      "name": "adrián ravier",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "peter lamelas",
-      "traffic": "100+",
+      "name": "argelia vs",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rosario motorsport",
-      "traffic": "100+",
+      "name": "doctor honoris causa",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "nicolás otamendi",
+      "name": "feriado 12 de octubre",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "efemérides 6 de octubre",
-      "traffic": "200+",
+      "name": "gonzalo montiel",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "joaquín oviedo",
+      "name": "cristian fabbiani",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bebé",
-      "traffic": "500+",
+      "name": "peter lamelas",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "garayalde",
-      "traffic": "200+",
+      "name": "rosario motorsport",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "uruguay vs",
-      "traffic": "2000+",
+      "name": "nicolás otamendi",
+      "traffic": "200+",
       "rank": 10
     }
   ]
