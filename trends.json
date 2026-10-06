@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T03:30:18Z",
+  "updated": "2026-10-06T04:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "despedida de messi",
-      "traffic": "5000+",
-      "rank": 2
-    },
-    {
       "name": "medellín - santa fe",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "banfield - rosario central",
       "traffic": "50000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "nacional - torque",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "velez",
-      "traffic": "50000+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "claudia villafañe",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "cerro - 2 de mayo",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 6
+    },
+    {
+      "name": "vélez - platense",
+      "traffic": "50000+",
+      "rank": 7
     },
     {
       "name": "estudiantes - gimnasia y esgrima",
       "traffic": "50000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "la plata",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "nueva chicago - deportivo maipú",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
