@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T16:00:59Z",
+  "updated": "2026-10-06T16:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bebé",
+      "name": "rosario motorsport",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "garayalde",
+      "name": "efemérides 6 de octubre",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "uruguay vs",
-      "traffic": "1000+",
+      "name": "nicolás otamendi",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "insecto",
-      "traffic": "100+",
+      "name": "joaquín oviedo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "jordan pickford",
+      "name": "bebé",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "anses",
-      "traffic": "10000+",
+      "name": "garayalde",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "india vs uruguay",
-      "traffic": "200+",
+      "name": "uruguay vs",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "world space week 2026",
-      "traffic": "1000+",
+      "name": "insecto",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "semana mundial del espacio 2026",
-      "traffic": "20000+",
+      "name": "jordan pickford",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "novak djokovic",
-      "traffic": "5000+",
+      "name": "anses",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
