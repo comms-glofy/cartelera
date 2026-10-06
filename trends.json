@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T22:00:18Z",
+  "updated": "2026-10-06T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ángel di maría",
-      "traffic": "200+",
+      "name": "olimpia - nacional",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "asociación trabajadores del estado",
+      "name": "general villegas",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dia de la madre 2026 argentina",
-      "traffic": "100+",
+      "name": "clima",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "patín",
-      "traffic": "100+",
+      "name": "ángel di maría",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "dia de la madre 2026 argentina",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "asociación trabajadores del estado",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "fiscal",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "sergio torres",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "suiza vs",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "escocia vs",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "san marino vs",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "valentina pergolini",
-      "traffic": "500+",
       "rank": 10
     }
   ]
