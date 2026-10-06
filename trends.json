@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T09:30:54Z",
+  "updated": "2026-10-06T10:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "día de la raza",
-      "traffic": "100+",
+      "name": "joaquín levinton",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "agustín canapino",
+      "name": "carlos alcaraz",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "posiciones de banfield contra rosario central",
-      "traffic": "50000+",
+      "name": "día de la raza",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "posiciones de club atlético vélez sarsfield contra platense",
-      "traffic": "100000+",
+      "name": "agustín canapino",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "posiciones de estudiantes de la plata contra gimnasia de mendoza",
+      "name": "posiciones de banfield contra rosario central",
       "traffic": "50000+",
       "rank": 5
     },
     {
+      "name": "posiciones de club atlético vélez sarsfield contra platense",
+      "traffic": "100000+",
+      "rank": 6
+    },
+    {
+      "name": "posiciones de estudiantes de la plata contra gimnasia de mendoza",
+      "traffic": "50000+",
+      "rank": 7
+    },
+    {
       "name": "medellín - santa fe",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "nacional - torque",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "claudia villafañe",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "cerro - 2 de mayo",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "la plata",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
