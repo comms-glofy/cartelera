@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T19:40:16Z",
+  "updated": "2026-10-06T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "senador",
-      "traffic": "100+",
+      "name": "ricardo fort",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "refinanciación",
+      "name": "darío herrera",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "francisco comesaña",
-      "traffic": "200+",
+      "name": "senador",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "descubrimiento",
-      "traffic": "500+",
+      "name": "refinanciación",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "croatia vs spain",
+      "name": "francisco comesaña",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "england vs czechia",
-      "traffic": "100+",
+      "name": "descubrimiento",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "méxico",
-      "traffic": "1000+",
+      "name": "croatia vs spain",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "american idol",
-      "traffic": "500+",
+      "name": "england vs czechia",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "subte a",
-      "traffic": "200+",
+      "name": "méxico",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "venezuela vs",
-      "traffic": "200+",
+      "name": "american idol",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
