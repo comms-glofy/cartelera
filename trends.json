@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T17:00:47Z",
+  "updated": "2026-10-06T17:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cristian fabbiani",
+      "name": "gonzalo montiel",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "peter lamelas",
-      "traffic": "100+",
+      "name": "cristian fabbiani",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rosario motorsport",
+      "name": "peter lamelas",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nicolás otamendi",
-      "traffic": "200+",
+      "name": "rosario motorsport",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "efemérides 6 de octubre",
-      "traffic": "100+",
+      "name": "nicolás otamendi",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "joaquín oviedo",
+      "name": "efemérides 6 de octubre",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "joaquín oviedo",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "bebé",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "garayalde",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "uruguay vs",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "insecto",
-      "traffic": "200+",
+      "name": "uruguay vs",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
