@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-06T16:30:17Z",
+  "updated": "2026-10-06T17:00:47Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rosario motorsport",
+      "name": "cristian fabbiani",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "efemérides 6 de octubre",
+      "name": "peter lamelas",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "nicolás otamendi",
-      "traffic": "200+",
+      "name": "rosario motorsport",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "joaquín oviedo",
+      "name": "nicolás otamendi",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bebé",
-      "traffic": "200+",
+      "name": "efemérides 6 de octubre",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "garayalde",
+      "name": "joaquín oviedo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "uruguay vs",
-      "traffic": "1000+",
+      "name": "bebé",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "insecto",
+      "name": "garayalde",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "jordan pickford",
-      "traffic": "500+",
+      "name": "uruguay vs",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "anses",
-      "traffic": "10000+",
+      "name": "insecto",
+      "traffic": "200+",
       "rank": 10
     }
   ]
