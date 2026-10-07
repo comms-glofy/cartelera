@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-07T20:30:57Z",
+  "updated": "2026-10-07T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca vs. talleres",
-      "traffic": "200+",
+      "name": "ranking fifa",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "luis novaresio",
+      "name": "boca vs. talleres",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cristiano ronaldo",
-      "traffic": "1000+",
+      "name": "luis novaresio",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "moreno",
-      "traffic": "100+",
+      "name": "cristiano ronaldo",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "murio piero",
-      "traffic": "2000+",
+      "name": "moreno",
+      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "masters de shanghái",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "sean connery",
-      "traffic": "200+",
+      "name": "piero",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "accidente doméstico",
+      "name": "sean connery",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "maricarmen",
-      "traffic": "2000+",
+      "name": "accidente doméstico",
+      "traffic": "200+",
       "rank": 10
     }
   ]
