@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T09:00:17Z",
+  "updated": "2026-10-07T09:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el tiempo",
-      "traffic": "50000+",
+      "name": "clima santa fe",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tiempo hoy",
-      "traffic": "200+",
+      "name": "pronostico",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "pronostico del tiempo",
+      "name": "abc",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "carlos clerici",
-      "traffic": "500+",
+      "name": "pronostico buenos aires",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "ariel vallejo",
-      "traffic": "200+",
+      "name": "pronostico del tiempo",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "sofi martinez",
-      "traffic": "100+",
+      "name": "el tiempo",
+      "traffic": "50000+",
       "rank": 6
     },
     {
-      "name": "drones",
-      "traffic": "200+",
+      "name": "tiempo hoy",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "méxico - chile",
-      "traffic": "20000+",
+      "name": "claudio bravo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "julián alvarez",
-      "traffic": "500+",
+      "name": "justicia",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "papa de messi",
-      "traffic": "100+",
+      "name": "periodista",
+      "traffic": "500+",
       "rank": 10
     }
   ]
