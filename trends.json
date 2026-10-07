@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T00:00:19Z",
+  "updated": "2026-10-07T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colo-colo - puerto montt",
-      "traffic": "200+",
+      "name": "cuti romero",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "viudez",
-      "traffic": "200+",
+      "name": "mexico vs chile",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "chiqui tapia",
-      "traffic": "200+",
+      "name": "club eclipse",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "bening",
+      "name": "chicago fire - whitecaps",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "messi 2018",
-      "traffic": "1000+",
+      "name": "jorge jesus",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ranking fifa",
-      "traffic": "500+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 6
     },
     {
-      "name": "argentina mundial",
-      "traffic": "500+",
+      "name": "mac allister",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "paredes",
-      "traffic": "500+",
+      "name": "tiempo mañana",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "agustin giay",
+      "name": "maradona",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "tagliafico",
-      "traffic": "500+",
+      "name": "viudez",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
