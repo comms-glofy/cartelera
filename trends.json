@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T16:00:24Z",
+  "updated": "2026-10-07T16:31:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "sequía",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "iga świątek",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "ciudadano",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "tom cruise",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "alejandro domínguez",
-      "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "banco mundial",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "economista",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "paul walker",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "instituto almafuerte",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "diego simeone",
+      "name": "instituto almafuerte",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "diario el eco de tandil",
-      "traffic": "1000+",
+      "name": "diego simeone",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "kristalina georgieva",
-      "traffic": "500+",
+      "name": "diario el eco de tandil",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
