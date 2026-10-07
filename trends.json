@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T19:00:19Z",
+  "updated": "2026-10-07T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "maricarmen",
+      "name": "accidente doméstico",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gimena accardi",
-      "traffic": "200+",
+      "name": "maricarmen",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "ypf",
+      "name": "gimena accardi",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "ypf",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "derogación",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "carlos tevez",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "kibutz",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "juez",
+      "name": "epe",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "roberto baratta",
-      "traffic": "200+",
+      "name": "kibutz",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "damian rojo",
-      "traffic": "200+",
+      "name": "roberto baratta",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "recesión",
-      "traffic": "200+",
+      "name": "juez",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
