@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-07T06:30:17Z",
+  "updated": "2026-10-07T07:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mi anses",
-      "traffic": "5000+",
-      "rank": 1
-    },
-    {
       "name": "ariel vallejo",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "sofi martinez",
       "traffic": "100+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "drones",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "méxico - chile",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "los hijos de messi",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "julián alvarez",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "papa de messi",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "balon de oro 2026",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "marca",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "antonella",
       "traffic": "200+",
       "rank": 10
     }
