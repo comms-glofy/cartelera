@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T10:30:16Z",
+  "updated": "2026-10-07T11:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -20,12 +20,12 @@
     },
     {
       "name": "weather",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
       "name": "diario de cuyo",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "abc",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "pronóstico para hoy",
-      "traffic": "200+",
+      "name": "pronostico",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
