@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T18:00:14Z",
+  "updated": "2026-10-07T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos tevez",
+      "name": "ypf",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "kibutz",
-      "traffic": "500+",
+      "name": "derogación",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "damian rojo",
-      "traffic": "200+",
+      "name": "carlos tevez",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "juez",
-      "traffic": "200+",
+      "name": "kibutz",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "juez",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "roberto baratta",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "damian rojo",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "recesión",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "nieve",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "burzaco",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "sequía",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "iga świątek",
-      "traffic": "100+",
+      "name": "clasificación mundial de la fifa",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
