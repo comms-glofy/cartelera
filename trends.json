@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T10:00:18Z",
+  "updated": "2026-10-07T10:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "weather",
-      "traffic": "200+",
+      "name": "tiempo de san juan",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "diario de cuyo",
-      "traffic": "200+",
+      "name": "paro de colectivos san juan",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "clima santa fe",
+      "name": "tiempo en santa fe",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "juan sebastián verón",
-      "traffic": "100+",
+      "name": "weather",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "abc",
-      "traffic": "200+",
+      "name": "diario de cuyo",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "eva marie saint",
-      "traffic": "100+",
+      "name": "juan sebastián verón",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pronóstico para hoy",
-      "traffic": "100+",
+      "name": "clima santa fe",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tiempo de hoy",
-      "traffic": "100+",
+      "name": "abc",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "el clima",
-      "traffic": "100+",
+      "name": "eva marie saint",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pronostico buenos aires",
-      "traffic": "100+",
+      "name": "pronóstico para hoy",
+      "traffic": "200+",
       "rank": 10
     }
   ]
