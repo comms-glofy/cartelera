@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T22:30:16Z",
+  "updated": "2026-10-07T22:37:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "remo - grêmio",
+      "name": "luciano castro",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "río cosquín",
+      "name": "antofagasta - u. de chile",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "chloe bello",
-      "traffic": "500+",
+      "name": "remo - grêmio",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bragantino - mirassol",
+      "name": "río cosquín",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "jeffrey archer",
-      "traffic": "200+",
+      "name": "chloe bello",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "internacional - corinthians",
-      "traffic": "1000+",
+      "name": "bragantino - mirassol",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "juan musso",
+      "name": "jeffrey archer",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "christian horner",
-      "traffic": "200+",
+      "name": "internacional - corinthians",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "one piece",
-      "traffic": "100+",
+      "name": "juan musso",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "julieta ortega",
-      "traffic": "500+",
+      "name": "christian horner",
+      "traffic": "200+",
       "rank": 10
     }
   ]
