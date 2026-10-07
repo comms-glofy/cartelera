@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T13:30:18Z",
+  "updated": "2026-10-07T14:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paul walker",
+      "name": "economista",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "instituto almafuerte",
+      "name": "paul walker",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "diego simeone",
+      "name": "instituto almafuerte",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "diario el eco de tandil",
-      "traffic": "200+",
+      "name": "diego simeone",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "diario el eco de tandil",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "kristalina georgieva",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ayelen paleo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "windy",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fenómeno",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "7 de octubre",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "tiempo de san juan",
-      "traffic": "200+",
       "rank": 10
     }
   ]
