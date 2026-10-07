@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-07T22:00:18Z",
+  "updated": "2026-10-07T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "internacional - corinthians",
-      "traffic": "500+",
+      "name": "remo - grêmio",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "christian horner",
-      "traffic": "100+",
+      "name": "río cosquín",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juan musso",
-      "traffic": "100+",
+      "name": "chloe bello",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "bragantino - mirassol",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "jeffrey archer",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "internacional - corinthians",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "juan musso",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "christian horner",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "one piece",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "mauro icardi",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "julieta ortega",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "prófugo",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "ranking fifa",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "boca vs. talleres",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "luis novaresio",
+      "name": "julieta ortega",
       "traffic": "500+",
       "rank": 10
     }
