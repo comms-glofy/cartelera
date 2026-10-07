@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T23:00:17Z",
+  "updated": "2026-10-07T23:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "granizo",
-      "traffic": "2000+",
+      "name": "vitória - chapecoense",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "brasileirao",
+      "name": "internacional",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "luciano castro",
-      "traffic": "200+",
+      "name": "botafogo - vasco da gama",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "antofagasta - u. de chile",
-      "traffic": "200+",
+      "name": "rodrigo",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "remo - grêmio",
-      "traffic": "500+",
+      "name": "aeropuerto internacional de miami",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "río cosquín",
+      "name": "palacio pizzurno",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "chloe bello",
-      "traffic": "1000+",
+      "name": "oscar alberto ortiz",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "bragantino - mirassol",
-      "traffic": "500+",
+      "name": "granizo",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "jeffrey archer",
+      "name": "luciano castro",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "internacional - corinthians",
-      "traffic": "2000+",
+      "name": "antofagasta - u. de chile",
+      "traffic": "200+",
       "rank": 10
     }
   ]
