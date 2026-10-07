@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T02:00:16Z",
+  "updated": "2026-10-07T02:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colombia fc",
+      "name": "drones",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lautaro martínez",
-      "traffic": "2000+",
+      "name": "méxico - chile",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "jorge messi",
+      "name": "los hijos de messi",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "aranda",
-      "traffic": "100+",
+      "name": "julián alvarez",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "thiago almada",
-      "traffic": "200+",
+      "name": "papa de messi",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "flores seleccion argentina",
-      "traffic": "200+",
+      "name": "sancor seguros",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "palacios",
+      "name": "balon de oro 2026",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "mastantuono",
-      "traffic": "10000+",
+      "name": "antonella",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "flores boca",
-      "traffic": "5000+",
+      "name": "subsidio",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "colo colo",
-      "traffic": "1000+",
+      "name": "colombia fc",
+      "traffic": "200+",
       "rank": 10
     }
   ]
