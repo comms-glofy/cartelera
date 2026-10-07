@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T03:30:16Z",
+  "updated": "2026-10-07T04:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ariel vallejo",
-      "traffic": "100+",
+      "name": "mi anses",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "ariel vallejo",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "sofi martinez",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "drones",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "méxico - chile",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "los hijos de messi",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "julián alvarez",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "carta de enzo fernandez a messi",
-      "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "balon de oro 2026",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "antonella",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "subsidio",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "cómo salió argentina",
-      "traffic": "500+",
       "rank": 10
     }
   ]
