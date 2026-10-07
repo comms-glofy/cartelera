@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-07T14:00:19Z",
+  "updated": "2026-10-07T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "economista",
+      "name": "banco mundial",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "paul walker",
-      "traffic": "200+",
+      "name": "alejandro domínguez",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "instituto almafuerte",
+      "name": "economista",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "diego simeone",
-      "traffic": "500+",
+      "name": "paul walker",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "diario el eco de tandil",
+      "name": "instituto almafuerte",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "diego simeone",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "diario el eco de tandil",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "kristalina georgieva",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ayelen paleo",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "windy",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "fenómeno",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "7 de octubre",
+      "name": "virgen del rosario",
       "traffic": "100+",
       "rank": 10
     }
