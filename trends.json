@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T08:30:17Z",
+  "updated": "2026-10-07T09:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos clerici",
-      "traffic": "200+",
+      "name": "el tiempo",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "mi anses",
-      "traffic": "5000+",
+      "name": "tiempo hoy",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ariel vallejo",
+      "name": "pronostico del tiempo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sofi martinez",
-      "traffic": "100+",
+      "name": "carlos clerici",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "drones",
+      "name": "ariel vallejo",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "sofi martinez",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "drones",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "méxico - chile",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "julián alvarez",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "papa de messi",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "balon de oro 2026",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "antonella",
-      "traffic": "200+",
       "rank": 10
     }
   ]
