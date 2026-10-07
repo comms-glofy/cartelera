@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-07T02:30:16Z",
+  "updated": "2026-10-07T03:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "drones",
-      "traffic": "200+",
+      "name": "sofi martinez",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "méxico - chile",
-      "traffic": "5000+",
+      "name": "drones",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "los hijos de messi",
-      "traffic": "200+",
+      "name": "méxico - chile",
+      "traffic": "10000+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "papa de messi",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
       "name": "sancor seguros",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "balon de oro 2026",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "antonella",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "subsidio",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "colombia fc",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "aranda",
+      "traffic": "100+",
       "rank": 10
     }
   ]
