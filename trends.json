@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-07T12:30:16Z",
+  "updated": "2026-10-07T13:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "windy",
+      "name": "diego simeone",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "diario el eco de tandil",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "ayelen paleo",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "kristalina georgieva",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "windy",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "fenómeno",
       "traffic": "500+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "7 de octubre",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "tiempo de san juan",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "weather",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "diario de cuyo",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "juan sebastián verón",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "clima santa fe",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "eva marie saint",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "abc",
+      "name": "diario de cuyo",
       "traffic": "2000+",
       "rank": 10
     }
