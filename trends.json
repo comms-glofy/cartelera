@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-07T17:30:13Z",
+  "updated": "2026-10-07T17:53:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "damian rojo",
-      "traffic": "200+",
+      "name": "carlos tevez",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "juez",
-      "traffic": "200+",
+      "name": "kibutz",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "recesión",
+      "name": "damian rojo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "roberto baratta",
-      "traffic": "100+",
+      "name": "juez",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "nieve",
+      "name": "roberto baratta",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "clasificación mundial de la fifa",
-      "traffic": "2000+",
+      "name": "recesión",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "burzaco",
+      "name": "nieve",
       "traffic": "200+",
       "rank": 7
     },
     {
+      "name": "burzaco",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "sequía",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "iga świątek",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "escuela",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
