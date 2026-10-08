@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T10:30:15Z",
+  "updated": "2026-10-08T11:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gran premio de singapur",
-      "traffic": "100+",
+      "name": "cosquín",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "0223",
+      "name": "shanghai open",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "200+",
+      "name": "gran premio de singapur",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "diario de cuyo",
-      "traffic": "200+",
+      "name": "0223",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "mariano navone",
-      "traffic": "200+",
+      "name": "diario de cuyo",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "el clima",
+      "name": "juan manuel cerúndolo",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "mariano navone",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "el clima",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "quini6",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "pronóstico para hoy",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "stellantis",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "lionel scaloni",
-      "traffic": "500+",
       "rank": 10
     }
   ]
