@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T08:00:15Z",
+  "updated": "2026-10-08T08:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima corrientes",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "sandra pettovello",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "betsson",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "betano",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "world space week 2026",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "zulema galperin",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "diario panorama",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "mi anses",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima santiago del estero",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "gernot rohr",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "china ansa",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "mala fama",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
