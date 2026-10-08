@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-08T22:00:14Z",
+  "updated": "2026-10-08T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos - flamengo",
-      "traffic": "500+",
+      "name": "familia real",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "wanda nara",
-      "traffic": "500+",
+      "name": "arturo puricelli",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "supercopa internacional",
+      "name": "tagle",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "club atlético talleres",
+      "name": "céline dion",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "granit xhaka",
-      "traffic": "100+",
+      "name": "alberto ades",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "myrian prunotto",
+      "name": "natalie harp",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "julián alvarez",
-      "traffic": "1000+",
+      "name": "santos - flamengo",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "fuerza aérea",
-      "traffic": "1000+",
+      "name": "wanda nara",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "aterrizaje",
-      "traffic": "200+",
+      "name": "supercopa internacional",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "byd",
+      "name": "club atlético talleres",
       "traffic": "200+",
       "rank": 10
     }
