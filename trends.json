@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T11:00:18Z",
+  "updated": "2026-10-08T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cosquín",
-      "traffic": "1000+",
+      "name": "peron",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "shanghai open",
-      "traffic": "100+",
+      "name": "anne carson",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "gran premio de singapur",
+      "name": "temperatura de la superficie del mar",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "0223",
+      "name": "8 de octubre",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "diario de cuyo",
-      "traffic": "500+",
+      "name": "anna del boca",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "200+",
+      "name": "cosquín",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "mariano navone",
-      "traffic": "200+",
+      "name": "shanghai open",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "el clima",
+      "name": "gran premio de singapur",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "quini6",
-      "traffic": "1000+",
+      "name": "0223",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pronóstico para hoy",
-      "traffic": "100+",
+      "name": "diario de cuyo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
