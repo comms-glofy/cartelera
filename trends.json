@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T17:01:47Z",
+  "updated": "2026-10-08T17:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "villa banana",
-      "traffic": "200+",
+      "name": "cyberleek",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lomas de zamora",
-      "traffic": "200+",
+      "name": "benín",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "lavado de dinero",
+      "name": "villa banana",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "deportick",
-      "traffic": "1000+",
+      "name": "lomas de zamora",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "lavado de dinero",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "deportick",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "psicología",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "moratoria",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "finanzas abiertas",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "boca socios",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "agua y saneamientos argentinos",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dia de la madre 2026 argentina",
-      "traffic": "200+",
+      "name": "boca socios",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
