@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T14:30:17Z",
+  "updated": "2026-10-08T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "selección de fútbol de benín",
-      "traffic": "2000+",
+      "name": "dia de la madre 2026 argentina",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lollapalooza 2027",
-      "traffic": "200+",
+      "name": "amoris laetitia",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "copa libertadores 2027",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "selección de fútbol de benín",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "lollapalooza 2027",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "banco de la nación argentina",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "recuperación económica",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "barby franco",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "chofer",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "oscar angeletti",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "quilino",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "presidente de burkina faso",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "luna nueva",
-      "traffic": "200+",
+      "name": "chofer",
+      "traffic": "500+",
       "rank": 10
     }
   ]
