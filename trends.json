@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T18:00:16Z",
+  "updated": "2026-10-08T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "balón de oro",
-      "traffic": "1000+",
+      "name": "cd moquegua - cienciano",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mauricio filiberti",
+      "name": "fernando alonso",
       "traffic": "500+",
       "rank": 2
     },
     {
+      "name": "arresto",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "balón de oro",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "mauricio filiberti",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "impuesto a las ganancias",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "cyberleek",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "benín",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "villa banana",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "lomas de zamora",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "lavado de dinero",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "deportick",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "psicología",
-      "traffic": "1000+",
+      "name": "lomas de zamora",
+      "traffic": "500+",
       "rank": 10
     }
   ]
