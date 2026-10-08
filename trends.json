@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T18:30:14Z",
+  "updated": "2026-10-08T19:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cd moquegua - cienciano",
+      "name": "estrecho de magallanes",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fernando alonso",
+      "name": "cd moquegua - cienciano",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "arresto",
-      "traffic": "200+",
+      "name": "fernando alonso",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "balón de oro",
-      "traffic": "1000+",
+      "name": "arresto",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "balón de oro",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "mauricio filiberti",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "impuesto a las ganancias",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "cyberleek",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "benín",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "villa banana",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "lomas de zamora",
-      "traffic": "500+",
       "rank": 10
     }
   ]
