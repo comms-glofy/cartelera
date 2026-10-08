@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T20:00:15Z",
+  "updated": "2026-10-08T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jorge jesus",
-      "traffic": "200+",
+      "name": "byd",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "epicentro",
-      "traffic": "200+",
+      "name": "josh hartnett",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "misiones",
+      "name": "davoo xeneize",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "petróleo",
-      "traffic": "200+",
+      "name": "mario kempes",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "ezequiel garay",
-      "traffic": "100+",
+      "name": "florencia kirchner",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "brunéi",
-      "traffic": "500+",
+      "name": "evacuación",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "estrecho de magallanes",
-      "traffic": "200+",
+      "name": "jorge jesus",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "cd moquegua - cienciano",
+      "name": "epicentro",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "fernando alonso",
-      "traffic": "1000+",
+      "name": "misiones",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "arresto",
-      "traffic": "500+",
+      "name": "petróleo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
