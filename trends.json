@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T13:00:15Z",
+  "updated": "2026-10-08T13:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paul mescal",
-      "traffic": "200+",
+      "name": "luna nueva",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "maximiliano ghione",
+      "name": "presidente de burkina faso",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "s&p 500",
-      "traffic": "100+",
+      "name": "alejandro domínguez",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "8 de octubre que se celebra",
-      "traffic": "500+",
+      "name": "antonio laje",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "premio nobel de literatura 2026",
-      "traffic": "100+",
+      "name": "miguel angel russo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "facundo moyano",
+      "name": "paul mescal",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tomás roncero",
-      "traffic": "500+",
+      "name": "maximiliano ghione",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "declaración",
-      "traffic": "1000+",
+      "name": "s&p 500",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "peron",
-      "traffic": "200+",
+      "name": "8 de octubre que se celebra",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "anne carson",
-      "traffic": "2000+",
+      "name": "premio nobel de literatura 2026",
+      "traffic": "100+",
       "rank": 10
     }
   ]
