@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T19:30:15Z",
+  "updated": "2026-10-08T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "petróleo",
+      "name": "jorge jesus",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ezequiel garay",
-      "traffic": "100+",
+      "name": "epicentro",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "brunéi",
-      "traffic": "500+",
+      "name": "misiones",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "estrecho de magallanes",
+      "name": "petróleo",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "ezequiel garay",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "brunéi",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "estrecho de magallanes",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "cd moquegua - cienciano",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "fernando alonso",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "arresto",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "balón de oro",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "mauricio filiberti",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "impuesto a las ganancias",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
