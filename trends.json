@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T20:30:14Z",
+  "updated": "2026-10-08T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "byd",
-      "traffic": "100+",
+      "name": "julián alvarez",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "fuerza aérea",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "aterrizaje",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "byd",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "josh hartnett",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "davoo xeneize",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "mario kempes",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "florencia kirchner",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "evacuación",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "jorge jesus",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "epicentro",
+      "name": "florencia kirchner",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "misiones",
+      "name": "evacuación",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "petróleo",
-      "traffic": "200+",
+      "name": "jorge jesus",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
