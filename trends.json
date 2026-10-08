@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T21:47:11Z",
+  "updated": "2026-10-08T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético talleres",
-      "traffic": "200+",
+      "name": "santos - flamengo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "granit xhaka",
-      "traffic": "100+",
+      "name": "wanda nara",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "myrian prunotto",
+      "name": "supercopa internacional",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "julián alvarez",
-      "traffic": "500+",
+      "name": "club atlético talleres",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "fuerza aérea",
-      "traffic": "1000+",
+      "name": "granit xhaka",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "aterrizaje",
+      "name": "myrian prunotto",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "byd",
-      "traffic": "200+",
+      "name": "julián alvarez",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "josh hartnett",
-      "traffic": "100+",
+      "name": "fuerza aérea",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "davoo xeneize",
-      "traffic": "500+",
+      "name": "aterrizaje",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mario kempes",
-      "traffic": "100+",
+      "name": "byd",
+      "traffic": "200+",
       "rank": 10
     }
   ]
