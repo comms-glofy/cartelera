@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-08T09:30:21Z",
+  "updated": "2026-10-08T10:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el clima",
-      "traffic": "100+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "diario de cuyo",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "mariano navone",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "pronostico extendido",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "tiempo de hoy",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "quini6",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "pronóstico para hoy",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "name": "stellantis",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "lionel scaloni",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "pronostico posadas",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "clima posadas",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima corrientes",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "sandra pettovello",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "betsson",
+      "name": "clima posadas",
       "traffic": "200+",
       "rank": 10
     }
