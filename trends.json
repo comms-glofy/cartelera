@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T06:00:14Z",
+  "updated": "2026-10-08T06:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "world space week 2026",
+      "name": "betano",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "zulema galperin",
-      "traffic": "100+",
+      "name": "world space week 2026",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "mi anses",
-      "traffic": "5000+",
+      "name": "zulema galperin",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima santiago del estero",
+      "name": "diario panorama",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "gernot rohr",
-      "traffic": "500+",
+      "name": "mi anses",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "china ansa",
+      "name": "clima santiago del estero",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "gernot rohr",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "china ansa",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "mala fama",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "marta fort",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "susana romano sued",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "jugar gta 5",
-      "traffic": "500+",
       "rank": 10
     }
   ]
