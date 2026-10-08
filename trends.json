@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T19:00:17Z",
+  "updated": "2026-10-08T19:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estrecho de magallanes",
+      "name": "petróleo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cd moquegua - cienciano",
-      "traffic": "500+",
+      "name": "ezequiel garay",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fernando alonso",
+      "name": "brunéi",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "arresto",
+      "name": "estrecho de magallanes",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "balón de oro",
-      "traffic": "2000+",
+      "name": "cd moquegua - cienciano",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "mauricio filiberti",
-      "traffic": "500+",
+      "name": "fernando alonso",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "arresto",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "balón de oro",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
+      "name": "mauricio filiberti",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "impuesto a las ganancias",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "cyberleek",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "benín",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "villa banana",
-      "traffic": "200+",
       "rank": 10
     }
   ]
