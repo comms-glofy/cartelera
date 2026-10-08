@@ -1,31 +1,31 @@
 {
-  "updated": "2026-10-08T03:00:33Z",
+  "updated": "2026-10-08T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gernot rohr",
-      "traffic": "200+",
+      "name": "clima santiago del estero",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "gernot rohr",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "china ansa",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "mala fama",
-      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "marta fort",
-      "traffic": "500+",
+      "name": "mala fama",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "cruzeiro vs",
-      "traffic": "100+",
+      "name": "marta fort",
+      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -40,16 +40,16 @@
     },
     {
       "name": "la cámpora",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "alejandro mancuso",
-      "traffic": "200+",
+      "name": "cruzeiro",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "botafogo",
+      "name": "alejandro mancuso",
       "traffic": "200+",
       "rank": 10
     }
