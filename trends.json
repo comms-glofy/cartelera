@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T12:30:16Z",
+  "updated": "2026-10-08T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "maximiliano ghione",
-      "traffic": "100+",
+      "name": "paul mescal",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "s&p 500",
+      "name": "maximiliano ghione",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "8 de octubre que se celebra",
+      "name": "s&p 500",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "8 de octubre que se celebra",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "premio nobel de literatura 2026",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "facundo moyano",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tomás roncero",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "declaración",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "peron",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "anne carson",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "temperatura de la superficie del mar",
-      "traffic": "100+",
+      "name": "anne carson",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
