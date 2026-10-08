@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T04:00:17Z",
+  "updated": "2026-10-08T04:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mi anses",
-      "traffic": "2000+",
+      "name": "world space week 2026",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima santiago del estero",
+      "name": "zulema galperin",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "diario panorama",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "mi anses",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "clima santiago del estero",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "gernot rohr",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "china ansa",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "mala fama",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "marta fort",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "cruzeiro vs",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "susana romano sued",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "jugar gta 5",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "la cámpora",
-      "traffic": "500+",
       "rank": 10
     }
   ]
