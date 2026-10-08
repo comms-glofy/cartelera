@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T11:30:15Z",
+  "updated": "2026-10-08T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peron",
+      "name": "8 de octubre que se celebra",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "anne carson",
-      "traffic": "500+",
+      "name": "premio nobel de literatura 2026",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "temperatura de la superficie del mar",
-      "traffic": "100+",
+      "name": "facundo moyano",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "8 de octubre",
-      "traffic": "100+",
+      "name": "tomás roncero",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "anna del boca",
+      "name": "declaración",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "cosquín",
-      "traffic": "1000+",
+      "name": "peron",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "shanghai open",
-      "traffic": "100+",
+      "name": "anne carson",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "gran premio de singapur",
-      "traffic": "200+",
+      "name": "temperatura de la superficie del mar",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "0223",
-      "traffic": "100+",
+      "name": "8 de octubre",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "diario de cuyo",
-      "traffic": "500+",
+      "name": "anna del boca",
+      "traffic": "200+",
       "rank": 10
     }
   ]
