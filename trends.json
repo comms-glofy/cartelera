@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T23:00:16Z",
+  "updated": "2026-10-08T23:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos vs",
-      "traffic": "100+",
+      "name": "brasileirão serie a",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "santos vs flamengo",
-      "traffic": "100+",
+      "name": "brasileirao",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lluvia",
-      "traffic": "2000+",
+      "name": "arali vivas",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "paranaense - atlético mineiro",
-      "traffic": "500+",
+      "name": "administración nacional de la seguridad social",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "crónica",
+      "name": "santos vs",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "atlético nacional - tolima",
-      "traffic": "200+",
+      "name": "paranaense - atlético mineiro",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "tasa de interés",
-      "traffic": "100+",
+      "name": "lluvia",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "familia real",
+      "name": "crónica",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "arturo puricelli",
-      "traffic": "100+",
+      "name": "atlético nacional - tolima",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tagle",
-      "traffic": "200+",
+      "name": "tasa de interés",
+      "traffic": "100+",
       "rank": 10
     }
   ]
