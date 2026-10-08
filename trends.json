@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T00:30:16Z",
+  "updated": "2026-10-08T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca vs talleres",
-      "traffic": "1000+",
+      "name": "alejandro mancuso",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mario pergolini",
-      "traffic": "200+",
+      "name": "constanza chavarria accidente",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "cruzeiro - são paulo",
+      "name": "boca vs talleres",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "pablo giralt",
+      "name": "mario pergolini",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "dennis haskins",
-      "traffic": "200+",
+      "name": "cruzeiro - são paulo",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "clima granizo",
-      "traffic": "2000+",
+      "name": "pablo giralt",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "internacional",
+      "name": "dennis haskins",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "vitória - chapecoense",
-      "traffic": "200+",
+      "name": "clima granizo",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "botafogo - vasco da gama",
-      "traffic": "2000+",
+      "name": "internacional",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rodrigo",
-      "traffic": "1000+",
+      "name": "vitória - chapecoense",
+      "traffic": "200+",
       "rank": 10
     }
   ]
