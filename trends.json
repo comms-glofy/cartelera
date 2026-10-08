@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T15:30:16Z",
+  "updated": "2026-10-08T16:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "finanzas abiertas",
+      "name": "psicología",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "moratoria",
-      "traffic": "100+",
+      "name": "finanzas abiertas",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "boca socios",
-      "traffic": "500+",
+      "name": "moratoria",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "boca socios",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "agua y saneamientos argentinos",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "dia de la madre 2026 argentina",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "amoris laetitia",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "copa libertadores 2027",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "selección de fútbol de benín",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "lollapalooza 2027",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "banco de la nación argentina",
-      "traffic": "200+",
+      "name": "lollapalooza 2027",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
