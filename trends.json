@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T20:15:02Z",
+  "updated": "2026-10-09T20:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lyon fc",
+      "name": "tribunal penal internacional",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "lyon fc",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "tobogán",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "carlos torrendell",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "west ham",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "fenómeno",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "dortmund",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "aeropuerto",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "anthropic",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "subsidio",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "esteban mirol",
-      "traffic": "500+",
       "rank": 10
     }
   ]
