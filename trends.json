@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-09T16:00:17Z",
+  "updated": "2026-10-09T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alfaro moreno",
-      "traffic": "200+",
+      "name": "horacio rosatti",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "hielo",
-      "traffic": "200+",
+      "name": "matias martin",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "12 de octubre",
-      "traffic": "1000+",
+      "name": "alfaro moreno",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "hielo",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "12 de octubre",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "cfmoto",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "héctor alterio",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "romina uhrig",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "navi pillay",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "werner herzog",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "casa rosada",
+      "name": "plus ultra líneas aéreas",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "palacio libertad",
+      "name": "navi pillay",
       "traffic": "500+",
       "rank": 10
     }
