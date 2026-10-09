@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T09:00:17Z",
+  "updated": "2026-10-09T09:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "mar del plata",
+      "name": "pronostico posadas",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "mar del plata",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "escuela nacional de inteligencia",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "dalma maradona",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "marina calabró",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "maru botana",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "calu rivero",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "florencia raggi",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "pergolini",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "china ansa",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clase media",
-      "traffic": "500+",
       "rank": 10
     }
   ]
