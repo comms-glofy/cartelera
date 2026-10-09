@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T13:30:15Z",
+  "updated": "2026-10-09T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telepase",
-      "traffic": "500+",
+      "name": "navi pillay",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "palacio libertad",
+      "name": "werner herzog",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "casa rosada",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "palacio libertad",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "disneyplus",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "disney",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "disney+",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "combustible",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "iga świątek",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "demi moore",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "dexter",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "carolina amoroso",
-      "traffic": "200+",
       "rank": 10
     }
   ]
