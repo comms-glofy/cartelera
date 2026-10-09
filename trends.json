@@ -1,40 +1,40 @@
 {
-  "updated": "2026-10-09T03:30:14Z",
+  "updated": "2026-10-09T04:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "dalma maradona",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "marina calabró",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "maru botana",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "calu rivero",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pergolini",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "china ansa",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "clase media",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "margaret hamilton",
+      "name": "clase media",
       "traffic": "200+",
       "rank": 7
     },
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "airbag river",
+      "name": "margaret hamilton",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "chile",
-      "traffic": "2000+",
+      "name": "airbag river",
+      "traffic": "200+",
       "rank": 10
     }
   ]
