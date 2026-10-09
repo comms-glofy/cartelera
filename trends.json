@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T19:00:17Z",
+  "updated": "2026-10-09T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pierre gasly",
-      "traffic": "5000+",
+      "name": "west ham",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ramón díaz",
-      "traffic": "100+",
+      "name": "fenómeno",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "málaga - rcd espanyol",
+      "name": "aeropuerto",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "kirchnerismo",
+      "name": "anthropic",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "selección de fútbol de portugal",
-      "traffic": "500+",
+      "name": "bundesliga",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lens - lyon",
-      "traffic": "200+",
+      "name": "subsidio",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "psv",
+      "name": "esteban mirol",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dinero",
-      "traffic": "100+",
+      "name": "valeria mazza",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "neuquén",
+      "name": "west ham - qpr",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "caputo",
-      "traffic": "2000+",
+      "name": "pierre gasly",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
