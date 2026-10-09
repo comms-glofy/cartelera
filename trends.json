@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-09T13:00:17Z",
+  "updated": "2026-10-09T13:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "disney",
-      "traffic": "2000+",
+      "name": "telepase",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "iga świątek",
-      "traffic": "200+",
+      "name": "palacio libertad",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "demi moore",
+      "name": "disneyplus",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "dexter",
-      "traffic": "200+",
+      "name": "disney",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "carolina amoroso",
+      "name": "disney+",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "novak djokovic",
-      "traffic": "2000+",
+      "name": "combustible",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "shanghai open",
-      "traffic": "1000+",
+      "name": "iga świątek",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima mendoza",
+      "name": "demi moore",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "huevo",
-      "traffic": "1000+",
+      "name": "dexter",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pronostico cordoba",
+      "name": "carolina amoroso",
       "traffic": "200+",
       "rank": 10
     }
