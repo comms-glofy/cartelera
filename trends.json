@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-09T16:30:15Z",
+  "updated": "2026-10-09T17:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "galatasaray - kasımpaşa",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "camioneta",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "pami",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "ceuta",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "luiz inácio lula da silva",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "copa sudamericana",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "horacio rosatti",
       "traffic": "100+",
-      "rank": 1
+      "rank": 7
     },
     {
       "name": "matias martin",
       "traffic": "100+",
-      "rank": 2
+      "rank": 8
     },
     {
       "name": "alfaro moreno",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "hielo",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "12 de octubre",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "cfmoto",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "héctor alterio",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "romina uhrig",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "plus ultra líneas aéreas",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "navi pillay",
+      "name": "hielo",
       "traffic": "500+",
       "rank": 10
     }
