@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-09T20:30:15Z",
+  "updated": "2026-10-09T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "octubre",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "tasa de cambio",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "sporting lisboa",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "tribunal penal internacional",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "lyon fc",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "tobogán",
-      "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "carlos torrendell",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "west ham",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "fenómeno",
+      "name": "tobogán",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "dortmund",
-      "traffic": "500+",
+      "name": "carlos torrendell",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "aeropuerto",
-      "traffic": "200+",
+      "name": "west ham",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "anthropic",
-      "traffic": "200+",
+      "name": "fenómeno",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "subsidio",
+      "name": "nombre",
       "traffic": "2000+",
       "rank": 10
     }
