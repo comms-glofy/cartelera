@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-09T12:30:15Z",
+  "updated": "2026-10-09T13:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "disney+",
-      "traffic": "100+",
+      "name": "disney",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "horarios f1",
-      "traffic": "2000+",
+      "name": "huevo",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "huevo",
-      "traffic": "500+",
+      "name": "pronostico cordoba",
+      "traffic": "200+",
       "rank": 10
     }
   ]
