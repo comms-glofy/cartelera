@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T01:42:28Z",
+  "updated": "2026-10-09T02:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca vs instituto",
-      "traffic": "100+",
+      "name": "chile",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "aluvion en chile",
+      "name": "nicolas repetto",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "boca vs instituto",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "nba",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "fortaleza - millonarios",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "daniel hadad",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "paranaense",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "santiago caputo",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "palmeiras",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "neymar",
-      "traffic": "500+",
+      "name": "palmeiras",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "gustavo mendez",
-      "traffic": "500+",
+      "name": "neymar",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
