@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T23:00:16Z",
+  "updated": "2026-10-09T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "can yaman",
-      "traffic": "100+",
+      "name": "marcos ledesma",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gelp",
-      "traffic": "200+",
+      "name": "memorándum de entendimiento",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "futbol para todos",
-      "traffic": "2000+",
+      "name": "tv argentina",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nidal hasan",
-      "traffic": "100+",
+      "name": "braida",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "industria textil",
+      "name": "boc",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "candidato político",
-      "traffic": "100+",
+      "name": "can yaman",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "instituto - boca juniors",
-      "traffic": "100000+",
+      "name": "gelp",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "primera división de argentina",
-      "traffic": "200+",
+      "name": "nidal hasan",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "rio uruguay",
-      "traffic": "100+",
+      "name": "industria textil",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "premio",
-      "traffic": "500+",
+      "name": "candidato político",
+      "traffic": "200+",
       "rank": 10
     }
   ]
