@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T15:00:17Z",
+  "updated": "2026-10-09T15:27:52Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "romina uhrig",
+      "name": "hielo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "navi pillay",
-      "traffic": "200+",
+      "name": "12 de octubre",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "plus ultra líneas aéreas",
-      "traffic": "200+",
+      "name": "cfmoto",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "héctor alterio",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "romina uhrig",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "plus ultra líneas aéreas",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "navi pillay",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "werner herzog",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "casa rosada",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "palacio libertad",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "disneyplus",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "disney",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "disney+",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "combustible",
-      "traffic": "1000+",
+      "name": "palacio libertad",
+      "traffic": "500+",
       "rank": 10
     }
   ]
