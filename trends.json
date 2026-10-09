@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T17:30:14Z",
+  "updated": "2026-10-09T18:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcos rojo",
+      "name": "dortmund - werder bremen",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "playstation",
-      "traffic": "200+",
+      "name": "derogación",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "dia de la madre 2026 argentina",
-      "traffic": "200+",
+      "name": "al nassr",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "chloe bello",
-      "traffic": "1000+",
+      "name": "villa la angostura",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "aldosivi - sarmiento",
-      "traffic": "2000+",
+      "name": "asociación del fútbol argentino",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "galatasaray - kasımpaşa",
-      "traffic": "500+",
+      "name": "marcos rojo",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "camioneta",
+      "name": "playstation",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pami",
-      "traffic": "2000+",
+      "name": "dia de la madre 2026 argentina",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ceuta",
-      "traffic": "200+",
+      "name": "chloe bello",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "copa sudamericana",
-      "traffic": "500+",
+      "name": "aldosivi - sarmiento",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
