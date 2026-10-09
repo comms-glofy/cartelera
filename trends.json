@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T08:30:17Z",
+  "updated": "2026-10-09T09:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dalma maradona",
-      "traffic": "500+",
+      "name": "disney plus",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "maru botana",
+      "name": "mar del plata",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "calu rivero",
-      "traffic": "100+",
+      "name": "dalma maradona",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "florencia raggi",
+      "name": "marina calabró",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "pergolini",
+      "name": "maru botana",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "china ansa",
-      "traffic": "200+",
+      "name": "calu rivero",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "clase media",
-      "traffic": "500+",
+      "name": "florencia raggi",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "diego ramos",
-      "traffic": "500+",
+      "name": "pergolini",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "margaret hamilton",
+      "name": "china ansa",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rocio robles",
-      "traffic": "1000+",
+      "name": "clase media",
+      "traffic": "500+",
       "rank": 10
     }
   ]
