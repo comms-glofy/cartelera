@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T00:00:51Z",
+  "updated": "2026-10-09T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fluminense - coritiba",
-      "traffic": "500+",
+      "name": "luis ventura",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "palmeiras - bahía",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "fluminense - coritiba",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "bruce willis",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "julián álvarez",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "nicolás occhiato",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "pensión no contributiva",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "club atlético tucumán",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "brasileirao",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "arali vivas",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "santos vs",
-      "traffic": "200+",
+      "name": "arali vivas",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "paranaense - atlético mineiro",
-      "traffic": "2000+",
+      "name": "administración nacional de la seguridad social",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
