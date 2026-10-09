@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T14:30:17Z",
+  "updated": "2026-10-09T15:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "navi pillay",
+      "name": "romina uhrig",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "werner herzog",
+      "name": "navi pillay",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "casa rosada",
+      "name": "plus ultra líneas aéreas",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "werner herzog",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "casa rosada",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "palacio libertad",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "disneyplus",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "disney",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "disney+",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "combustible",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "iga świątek",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "demi moore",
-      "traffic": "100+",
       "rank": 10
     }
   ]
