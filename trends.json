@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T01:00:16Z",
+  "updated": "2026-10-09T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "palmeiras",
-      "traffic": "200+",
+      "name": "boca vs instituto",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "neymar",
-      "traffic": "500+",
+      "name": "aluvion en chile",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gustavo mendez",
+      "name": "nba",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "alud en santiago de chile",
-      "traffic": "100+",
+      "name": "fortaleza - millonarios",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "luis ventura",
-      "traffic": "500+",
+      "name": "daniel hadad",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "palmeiras - bahía",
-      "traffic": "2000+",
+      "name": "paranaense",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "fluminense - coritiba",
-      "traffic": "2000+",
+      "name": "santiago caputo",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "bruce willis",
-      "traffic": "500+",
+      "name": "palmeiras vs",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "julián álvarez",
-      "traffic": "5000+",
+      "name": "neymar",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nicolás occhiato",
-      "traffic": "200+",
+      "name": "gustavo mendez",
+      "traffic": "500+",
       "rank": 10
     }
   ]
