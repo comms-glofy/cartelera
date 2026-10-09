@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T02:00:19Z",
+  "updated": "2026-10-09T02:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chile",
-      "traffic": "1000+",
+      "name": "diego ramos",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "nicolas repetto",
+      "name": "clase media",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "boca vs instituto",
+      "name": "margaret hamilton",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nba",
-      "traffic": "500+",
+      "name": "airbag river",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fortaleza - millonarios",
-      "traffic": "200+",
+      "name": "chile",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "daniel hadad",
-      "traffic": "200+",
+      "name": "nicolas repetto",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "paranaense",
+      "name": "eduardo bolsonaro",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "santiago caputo",
+      "name": "boca vs instituto",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "palmeiras",
+      "name": "nba",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "neymar",
-      "traffic": "1000+",
+      "name": "fortaleza - millonarios",
+      "traffic": "500+",
       "rank": 10
     }
   ]
