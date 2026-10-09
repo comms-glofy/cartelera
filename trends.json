@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T12:00:17Z",
+  "updated": "2026-10-09T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dexter",
-      "traffic": "200+",
+      "name": "disney+",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "carolina amoroso",
-      "traffic": "100+",
+      "name": "iga świątek",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "demi moore",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "dexter",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "carolina amoroso",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "novak djokovic",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "shanghai open",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "clima mendoza",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "huevo",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "horarios f1",
+      "name": "shanghai open",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "200+",
+      "name": "clima mendoza",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "tiempo en rosario",
-      "traffic": "200+",
+      "name": "horarios f1",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "jubilación",
-      "traffic": "10000+",
+      "name": "huevo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
