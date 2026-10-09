@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T10:00:18Z",
+  "updated": "2026-10-09T10:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jubilación",
-      "traffic": "10000+",
+      "name": "shanghai open",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "vuelo",
+      "name": "clima mendoza",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "1000+",
+      "name": "horarios f1",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "terremoto",
-      "traffic": "100+",
+      "name": "pronostico cordoba",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima posadas",
+      "name": "tiempo en rosario",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "axel kicillof",
-      "traffic": "100+",
+      "name": "jubilación",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "disney plus",
+      "name": "vuelo",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "mar del plata",
-      "traffic": "500+",
+      "name": "francisco cerúndolo",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "escuela nacional de inteligencia",
+      "name": "terremoto",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dalma maradona",
-      "traffic": "1000+",
+      "name": "axel kicillof",
+      "traffic": "200+",
       "rank": 10
     }
   ]
