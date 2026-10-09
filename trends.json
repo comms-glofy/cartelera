@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T05:00:16Z",
+  "updated": "2026-10-09T05:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "pergolini",
-      "traffic": "200+",
+      "name": "florencia raggi",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "china ansa",
+      "name": "pergolini",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clase media",
-      "traffic": "500+",
+      "name": "china ansa",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "diego ramos",
+      "name": "clase media",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "margaret hamilton",
-      "traffic": "200+",
+      "name": "diego ramos",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "rocio robles",
-      "traffic": "1000+",
+      "name": "margaret hamilton",
+      "traffic": "200+",
       "rank": 10
     }
   ]
