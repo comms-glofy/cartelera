@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T18:00:18Z",
+  "updated": "2026-10-09T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dortmund - werder bremen",
+      "name": "psv",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "derogación",
-      "traffic": "500+",
+      "name": "dinero",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "al nassr",
-      "traffic": "100+",
+      "name": "neuquén",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "villa la angostura",
-      "traffic": "100+",
+      "name": "caputo",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "asociación del fútbol argentino",
-      "traffic": "500+",
+      "name": "10 de octubre",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "marcos rojo",
-      "traffic": "200+",
+      "name": "dortmund - werder bremen",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "playstation",
+      "name": "al nassr",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dia de la madre 2026 argentina",
-      "traffic": "200+",
+      "name": "derogación",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "chloe bello",
-      "traffic": "1000+",
+      "name": "villa la angostura",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "aldosivi - sarmiento",
-      "traffic": "10000+",
+      "name": "marcos rojo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
