@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T21:30:16Z",
+  "updated": "2026-10-09T22:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "premio",
-      "traffic": "100+",
+      "name": "instituto - boca juniors",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "fuerzas armadas",
-      "traffic": "100+",
+      "name": "primera división de argentina",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "octubre",
-      "traffic": "500+",
+      "name": "rio uruguay",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tasa de cambio",
+      "name": "premio",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sporting lisboa",
+      "name": "fuerzas armadas",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gimnasia - atlético tucumán",
-      "traffic": "10000+",
+      "name": "octubre",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "tribunal penal internacional",
-      "traffic": "100+",
+      "name": "tasa de cambio",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lyon fc",
+      "name": "sporting lisboa",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tobogán",
-      "traffic": "2000+",
+      "name": "gimnasia - atlético tucumán",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "carlos torrendell",
-      "traffic": "200+",
+      "name": "tribunal penal internacional",
+      "traffic": "100+",
       "rank": 10
     }
   ]
