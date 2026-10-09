@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T18:30:15Z",
+  "updated": "2026-10-09T19:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "psv",
-      "traffic": "200+",
+      "name": "pierre gasly",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "dinero",
+      "name": "ramón díaz",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "neuquén",
+      "name": "málaga - rcd espanyol",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "caputo",
-      "traffic": "2000+",
+      "name": "kirchnerismo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "10 de octubre",
-      "traffic": "100+",
+      "name": "selección de fútbol de portugal",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "dortmund - werder bremen",
-      "traffic": "500+",
+      "name": "lens - lyon",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "al nassr",
+      "name": "psv",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "derogación",
-      "traffic": "500+",
+      "name": "dinero",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "villa la angostura",
-      "traffic": "100+",
+      "name": "neuquén",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "marcos rojo",
-      "traffic": "1000+",
+      "name": "caputo",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
