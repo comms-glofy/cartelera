@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T09:30:17Z",
+  "updated": "2026-10-09T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "disney plus",
-      "traffic": "200+",
+      "name": "jubilación",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "pronostico posadas",
-      "traffic": "200+",
+      "name": "vuelo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mar del plata",
-      "traffic": "200+",
+      "name": "francisco cerúndolo",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "escuela nacional de inteligencia",
+      "name": "terremoto",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "dalma maradona",
-      "traffic": "500+",
+      "name": "clima posadas",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "marina calabró",
-      "traffic": "2000+",
+      "name": "axel kicillof",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "maru botana",
+      "name": "disney plus",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "calu rivero",
-      "traffic": "100+",
+      "name": "mar del plata",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "florencia raggi",
-      "traffic": "2000+",
+      "name": "escuela nacional de inteligencia",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pergolini",
-      "traffic": "200+",
+      "name": "dalma maradona",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
