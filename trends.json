@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T22:00:21Z",
+  "updated": "2026-10-09T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "instituto - boca juniors",
-      "traffic": "10000+",
+      "name": "nidal hasan",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "primera división de argentina",
-      "traffic": "200+",
+      "name": "candidato político",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "instituto - boca juniors",
+      "traffic": "50000+",
+      "rank": 3
     },
     {
       "name": "rio uruguay",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "premio",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "fuerzas armadas",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "octubre",
-      "traffic": "1000+",
       "rank": 6
     },
     {
       "name": "tasa de cambio",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "octubre",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "sporting lisboa",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "gimnasia - atlético tucumán",
       "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "tribunal penal internacional",
-      "traffic": "100+",
       "rank": 10
     }
   ]
