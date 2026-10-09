@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-09T19:30:14Z",
+  "updated": "2026-10-09T20:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "west ham",
-      "traffic": "100+",
+      "name": "carlos torrendell",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "west ham",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "fenómeno",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "aeropuerto",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "anthropic",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bundesliga",
+      "name": "anthropic",
       "traffic": "200+",
       "rank": 5
     },
     {
       "name": "subsidio",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 6
     },
     {
       "name": "esteban mirol",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 7
     },
     {
