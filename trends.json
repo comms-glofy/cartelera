@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T21:00:17Z",
+  "updated": "2026-10-09T21:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "premio",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "fuerzas armadas",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "octubre",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "tasa de cambio",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "sporting lisboa",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "gimnasia - atlético tucumán",
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "tribunal penal internacional",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "lyon fc",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "tobogán",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "carlos torrendell",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "west ham",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "fenómeno",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "nombre",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
