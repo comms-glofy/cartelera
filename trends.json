@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-08T23:30:18Z",
+  "updated": "2026-10-09T00:00:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brasileirão serie a",
-      "traffic": "200+",
+      "name": "fluminense - coritiba",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "brasileirao",
+      "name": "bruce willis",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "arali vivas",
-      "traffic": "500+",
+      "name": "nicolás occhiato",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "administración nacional de la seguridad social",
-      "traffic": "5000+",
+      "name": "pensión no contributiva",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "santos vs",
+      "name": "club atlético tucumán",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "paranaense - atlético mineiro",
-      "traffic": "1000+",
+      "name": "brasileirao",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "lluvia",
-      "traffic": "2000+",
+      "name": "arali vivas",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "crónica",
-      "traffic": "200+",
+      "name": "administración nacional de la seguridad social",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "atlético nacional - tolima",
-      "traffic": "500+",
+      "name": "santos vs",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tasa de interés",
-      "traffic": "100+",
+      "name": "paranaense - atlético mineiro",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
