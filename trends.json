@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-09T22:30:16Z",
+  "updated": "2026-10-09T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nidal hasan",
+      "name": "can yaman",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "candidato político",
-      "traffic": "100+",
+      "name": "gelp",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "instituto - boca juniors",
-      "traffic": "50000+",
+      "name": "futbol para todos",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "rio uruguay",
+      "name": "nidal hasan",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "premio",
-      "traffic": "500+",
+      "name": "industria textil",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fuerzas armadas",
-      "traffic": "200+",
+      "name": "candidato político",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tasa de cambio",
-      "traffic": "500+",
+      "name": "instituto - boca juniors",
+      "traffic": "100000+",
       "rank": 7
     },
     {
-      "name": "octubre",
-      "traffic": "1000+",
+      "name": "primera división de argentina",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sporting lisboa",
-      "traffic": "200+",
+      "name": "rio uruguay",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "gimnasia - atlético tucumán",
-      "traffic": "20000+",
+      "name": "premio",
+      "traffic": "500+",
       "rank": 10
     }
   ]
