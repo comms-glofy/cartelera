@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T00:11:33Z",
+  "updated": "2026-10-10T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pablo aimar",
+      "name": "lautaro blanco",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "excursionistas",
-      "traffic": "200+",
+      "name": "pablo aimar",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "superliga",
+      "name": "excursionistas",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "superliga",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "federación portuguesa de fútbol",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "memorándum de entendimiento",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tv argentina",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "braida",
-      "traffic": "200+",
       "rank": 7
     },
     {
       "name": "boc",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 8
+    },
+    {
+      "name": "braida",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "fernando alarcón",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "can yaman",
-      "traffic": "200+",
       "rank": 10
     }
   ]
