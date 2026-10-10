@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T15:00:19Z",
+  "updated": "2026-10-10T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tormenta tropical",
-      "traffic": "200+",
+      "name": "inter - parma",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cipolletti",
-      "traffic": "100+",
+      "name": "real madrid",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mario kempes",
+      "name": "tormenta tropical",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "bayern vs",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "cipolletti",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "10 de octubre",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "premio nobel de la paz",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "kim kardashian",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "lando norris",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "presley gerber",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "bayern munich",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "atletico madrid",
-      "traffic": "500+",
       "rank": 10
     }
   ]
