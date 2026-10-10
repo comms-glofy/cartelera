@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-10T01:00:16Z",
+  "updated": "2026-10-10T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "union",
-      "traffic": "1000+",
+      "name": "ben affleck",
+      "traffic": "100+",
       "rank": 1
     },
     {
@@ -14,13 +14,13 @@
       "rank": 2
     },
     {
-      "name": "primera división",
-      "traffic": "2000+",
+      "name": "andrea rincón",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "promedios",
-      "traffic": "500+",
+      "name": "primera división",
+      "traffic": "2000+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "pablo aimar",
-      "traffic": "100+",
+      "name": "promedios",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "excursionistas",
+      "name": "alex luna",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "superliga",
-      "traffic": "500+",
+      "name": "unión - defensa y justicia",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "federación portuguesa de fútbol",
-      "traffic": "2000+",
+      "name": "paredes",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "memorándum de entendimiento",
-      "traffic": "500+",
+      "name": "pablo aimar",
+      "traffic": "100+",
       "rank": 10
     }
   ]
