@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-10T02:30:13Z",
+  "updated": "2026-10-10T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "once caldas",
+      "name": "juventud antoniana",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "juventud antoniana",
+      "name": "once caldas",
       "traffic": "100+",
       "rank": 2
     },
@@ -30,7 +30,7 @@
     },
     {
       "name": "maru botana",
-      "traffic": "500+",
+      "traffic": "200+",
       "rank": 6
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "tabla de posiciones",
-      "traffic": "200+",
+      "name": "andrea rincón",
+      "traffic": "500+",
       "rank": 10
     }
   ]
