@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T12:00:15Z",
+  "updated": "2026-10-10T12:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos alcaraz",
-      "traffic": "1000+",
+      "name": "jacob coxon",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rayo vallecano - athletic",
-      "traffic": "200+",
+      "name": "vehículo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "otro día perdido",
-      "traffic": "200+",
+      "name": "factura",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "barby franco",
-      "traffic": "200+",
+      "name": "carlos alcaraz",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "arsenal - leeds",
-      "traffic": "2000+",
+      "name": "qualy f1",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "premier league",
+      "name": "rayo vallecano - athletic",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "crimen",
-      "traffic": "200+",
+      "name": "otro día perdido",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "shanghai open",
+      "name": "barby franco",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sebastián boselli",
-      "traffic": "200+",
+      "name": "arsenal - leeds",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "leandro rey hilfer",
-      "traffic": "500+",
+      "name": "premier league",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
