@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-09T23:30:15Z",
+  "updated": "2026-10-10T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcos ledesma",
-      "traffic": "200+",
+      "name": "pablo aimar",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "excursionistas",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "superliga",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "federación portuguesa de fútbol",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "memorándum de entendimiento",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "tv argentina",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "braida",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "boc",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "can yaman",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "gelp",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "nidal hasan",
-      "traffic": "100+",
+      "name": "braida",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "industria textil",
-      "traffic": "500+",
+      "name": "fernando alarcón",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "candidato político",
+      "name": "can yaman",
       "traffic": "200+",
       "rank": 10
     }
