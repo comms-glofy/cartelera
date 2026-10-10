@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T16:30:13Z",
+  "updated": "2026-10-10T17:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter milan",
+      "name": "psg",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "julián alvarez",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "jorge jesus",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "red bull tv",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "harry kane",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "inter milan",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "river hoy",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "independiente del valle - aucas",
       "traffic": "500+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "inter",
       "traffic": "200+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "manchester city",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "barcelona - getafe",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "diego milito",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "lucas boyé",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "manchester united - tottenham",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "bayer vs",
-      "traffic": "100+",
       "rank": 10
     }
   ]
