@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T21:00:15Z",
+  "updated": "2026-10-10T21:05:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vinícius júnior",
-      "traffic": "200+",
+      "name": "kylian mbappé",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "toto caputo",
+      "name": "yan diomandé",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "selección de fútbol de portugal",
-      "traffic": "2000+",
+      "name": "ajax vs",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "noticia",
-      "traffic": "200+",
+      "name": "patronato",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "urba top 14",
-      "traffic": "500+",
+      "name": "vinícius júnior",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "marcela pagano",
+      "name": "toto caputo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ruta nacional 22",
-      "traffic": "200+",
+      "name": "selección de fútbol de portugal",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "marcelo espina",
-      "traffic": "100+",
+      "name": "noticia",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sportivo san lorenzo - sportivo trinidense",
-      "traffic": "200+",
+      "name": "urba top 14",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "dalma maradona",
-      "traffic": "1000+",
+      "name": "marcela pagano",
+      "traffic": "200+",
       "rank": 10
     }
   ]
