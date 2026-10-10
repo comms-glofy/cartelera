@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T14:00:13Z",
+  "updated": "2026-10-10T14:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bayern munich",
-      "traffic": "200+",
+      "name": "mario kempes",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "dia de la madre 2026 argentina",
-      "traffic": "200+",
+      "name": "10 de octubre",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "atletico madrid",
-      "traffic": "100+",
+      "name": "premio nobel de la paz",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "mainz 05 - leverkusen",
+      "name": "kim kardashian",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ipswich - fulham",
-      "traffic": "200+",
+      "name": "lando norris",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "barcelona",
-      "traffic": "200+",
+      "name": "presley gerber",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "alavés - atlético madrid",
-      "traffic": "2000+",
+      "name": "chelsea",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "sunderland afc - brighton",
-      "traffic": "200+",
+      "name": "bayern munich",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "sebastián báez",
+      "name": "atletico madrid",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "steven spielberg",
-      "traffic": "100+",
+      "name": "dia de la madre 2026 argentina",
+      "traffic": "200+",
       "rank": 10
     }
   ]
