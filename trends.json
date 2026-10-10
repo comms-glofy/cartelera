@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T13:00:14Z",
+  "updated": "2026-10-10T13:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "genoa - fiorentina",
+      "name": "chelsea - bournemouth",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "a que hora es la clasificacion de f1",
+      "name": "aston villa - brentford",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "vehículo",
-      "traffic": "200+",
+      "name": "arsenal fc",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "jacob coxon",
-      "traffic": "100+",
+      "name": "panamericana",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "factura",
-      "traffic": "200+",
+      "name": "reid wiseman",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "finanzas",
-      "traffic": "100+",
+      "name": "augsburgo - bayern",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "1000+",
+      "name": "kīlauea",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "juan manuel cerúndolo",
+      "name": "genoa - fiorentina",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "rayo vallecano - athletic",
-      "traffic": "500+",
+      "name": "vehículo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "otro día perdido",
-      "traffic": "500+",
+      "name": "jacob coxon",
+      "traffic": "200+",
       "rank": 10
     }
   ]
