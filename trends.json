@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T22:30:15Z",
+  "updated": "2026-10-10T23:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ufc",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "tigre inglaterra",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "inter miami - dc united",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "u. católica - audax italiano",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "ninku",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "plus ultra líneas aéreas",
       "traffic": "200+",
-      "rank": 1
+      "rank": 6
     },
     {
       "name": "edlp",
       "traffic": "200+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "seven sudamericano masculino",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "tigre - banfield",
-      "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "recesión",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "volodímir zelenski",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "francisco prado",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "peñarol - progreso",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "inter miami",
-      "traffic": "2000+",
+      "name": "tigre - banfield",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "centro comercial",
-      "traffic": "200+",
+      "name": "recesión",
+      "traffic": "500+",
       "rank": 10
     }
   ]
