@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T06:10:39Z",
+  "updated": "2026-10-10T06:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tigres - toluca",
-      "traffic": "500+",
+      "name": "epic games",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "juventud antoniana",
+      "name": "nueva zelanda - australia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "once caldas",
-      "traffic": "200+",
+      "name": "tigres - toluca",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "puebla - león",
-      "traffic": "100+",
+      "name": "la joaqui",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "amelia earhart",
+      "name": "juventud antoniana",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "julieta nair calvo",
+      "name": "once caldas",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "maru botana",
-      "traffic": "200+",
+      "name": "puebla - león",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "animales",
-      "traffic": "100+",
+      "name": "amelia earhart",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ben affleck",
-      "traffic": "500+",
+      "name": "julieta nair calvo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tabla anual 2026",
-      "traffic": "500+",
+      "name": "maru botana",
+      "traffic": "200+",
       "rank": 10
     }
   ]
