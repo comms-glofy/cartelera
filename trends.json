@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T11:30:14Z",
+  "updated": "2026-10-10T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "otro día perdido",
-      "traffic": "200+",
+      "name": "carlos alcaraz",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "barby franco",
-      "traffic": "100+",
+      "name": "rayo vallecano - athletic",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "arsenal - leeds",
-      "traffic": "2000+",
+      "name": "otro día perdido",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "shanghai open",
+      "name": "barby franco",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "crimen",
-      "traffic": "200+",
+      "name": "arsenal - leeds",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "sebastián boselli",
-      "traffic": "200+",
+      "name": "premier league",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "leandro rey hilfer",
-      "traffic": "1000+",
+      "name": "crimen",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tomás martín etcheverry",
+      "name": "shanghai open",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "atp shanghai",
+      "name": "sebastián boselli",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "disney plus",
-      "traffic": "1000+",
+      "name": "leandro rey hilfer",
+      "traffic": "500+",
       "rank": 10
     }
   ]
