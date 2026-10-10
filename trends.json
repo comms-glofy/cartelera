@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T15:30:15Z",
+  "updated": "2026-10-10T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter - parma",
-      "traffic": "500+",
+      "name": "barcelona - getafe",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "real madrid",
+      "name": "lucas boyé",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tormenta tropical",
+      "name": "diego milito",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bayern vs",
-      "traffic": "200+",
+      "name": "manchester united - tottenham",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "cipolletti",
+      "name": "bayer vs",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "10 de octubre",
-      "traffic": "2000+",
+      "name": "bayer",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "premio nobel de la paz",
-      "traffic": "1000+",
+      "name": "barca",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "kim kardashian",
-      "traffic": "200+",
+      "name": "bayern de múnich",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "lando norris",
-      "traffic": "200+",
+      "name": "inter - parma",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "presley gerber",
-      "traffic": "100+",
+      "name": "dia de la madre",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
