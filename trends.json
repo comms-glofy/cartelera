@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-10T12:30:16Z",
+  "updated": "2026-10-10T12:50:48Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jacob coxon",
-      "traffic": "100+",
+      "name": "genoa - fiorentina",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "factura",
+      "name": "jacob coxon",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "1000+",
+      "name": "factura",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "qualy f1",
-      "traffic": "200+",
+      "name": "finanzas",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "juan manuel cerúndolo",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "rayo vallecano - athletic",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "otro día perdido",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "barby franco",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "arsenal - leeds",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "premier league",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
