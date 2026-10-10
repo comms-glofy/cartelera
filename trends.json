@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T19:30:14Z",
+  "updated": "2026-10-10T20:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "central córdoba - estudiantes",
+      "name": "sedán",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "franco jara",
+      "name": "barracas",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "real madrid vs villarreal",
-      "traffic": "200+",
+      "name": "midland - atlético rafaela",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "napoli vs",
+      "name": "ajax",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "kun agüero",
-      "traffic": "500+",
+      "name": "b nacional",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "monaco fc",
-      "traffic": "200+",
+      "name": "chicago fire - nyc fc",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gustavo bordet",
-      "traffic": "100+",
+      "name": "central córdoba - estudiantes",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "posiciones de manchester united contra tottenham",
-      "traffic": "2000+",
+      "name": "franco jara",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "quilmes - agropecuario",
+      "name": "real madrid vs villarreal",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "mls",
-      "traffic": "100+",
+      "name": "napoli vs",
+      "traffic": "200+",
       "rank": 10
     }
   ]
