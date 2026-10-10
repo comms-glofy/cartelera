@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T20:30:18Z",
+  "updated": "2026-10-10T21:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sportivo san lorenzo - sportivo trinidense",
+      "name": "vinícius júnior",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "dalma maradona",
-      "traffic": "1000+",
+      "name": "toto caputo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "huachipato - o'higgins",
-      "traffic": "200+",
+      "name": "selección de fútbol de portugal",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "paquita la del barrio",
+      "name": "noticia",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "mónaco - toulouse",
-      "traffic": "100+",
+      "name": "urba top 14",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "río negro",
-      "traffic": "100+",
+      "name": "marcela pagano",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "playa bristol",
+      "name": "ruta nacional 22",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "real madrid vs. villarreal",
-      "traffic": "500+",
+      "name": "marcelo espina",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "sedán",
+      "name": "sportivo san lorenzo - sportivo trinidense",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "barracas",
-      "traffic": "100+",
+      "name": "dalma maradona",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
