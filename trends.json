@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T17:37:12Z",
+  "updated": "2026-10-10T18:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "porto",
-      "traffic": "100+",
+      "name": "colegiales - tristán suárez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "septiembre",
+      "name": "messi cup",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "luis zahera",
+      "name": "porto",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rb leipzig - frankfurt",
-      "traffic": "200+",
+      "name": "septiembre",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "empresario",
-      "traffic": "5000+",
+      "name": "gabriel jesus",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "anthony gordon",
+      "name": "luis zahera",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "psg",
+      "name": "rb leipzig - frankfurt",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jorge jesus",
+      "name": "empresario",
       "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "red bull tv",
-      "traffic": "100+",
+      "name": "anthony gordon",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "harry kane",
-      "traffic": "100+",
+      "name": "psg",
+      "traffic": "200+",
       "rank": 10
     }
   ]
