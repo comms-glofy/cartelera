@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T12:50:48Z",
+  "updated": "2026-10-10T13:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "vehículo",
-      "traffic": "100+",
+      "name": "a que hora es la clasificacion de f1",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "vehículo",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "jacob coxon",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "factura",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "finanzas",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "carlos alcaraz",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "rayo vallecano - athletic",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "otro día perdido",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "barby franco",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "arsenal - leeds",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
