@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-10T03:00:16Z",
+  "updated": "2026-10-10T03:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juventud antoniana",
-      "traffic": "100+",
+      "name": "tigres - toluca",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "once caldas",
-      "traffic": "100+",
+      "name": "juventud antoniana",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "once caldas",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "puebla - león",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "amelia earhart",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "julieta nair calvo",
+      "name": "amelia earhart",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "maru botana",
+      "name": "julieta nair calvo",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "maru botana",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "animales",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "aluvión",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "ben affleck",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "andrea rincón",
+      "name": "ben affleck",
       "traffic": "500+",
       "rank": 10
     }
