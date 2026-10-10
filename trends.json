@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T17:30:14Z",
+  "updated": "2026-10-10T17:37:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gabriel jesus",
-      "traffic": "200+",
+      "name": "porto",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "septiembre",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "luis zahera",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "rb leipzig - frankfurt",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "empresario",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "anthony gordon",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "psg",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "jorge jesus",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "red bull tv",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "harry kane",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "inter milan",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
