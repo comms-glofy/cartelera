@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T18:30:16Z",
+  "updated": "2026-10-10T19:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "almagro - chacarita",
-      "traffic": "500+",
+      "name": "posiciones de manchester united contra tottenham",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "josé coronado",
-      "traffic": "500+",
+      "name": "quilmes - agropecuario",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "barracas central - huracán",
-      "traffic": "200+",
+      "name": "mls",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "al hilal - al ittihad",
-      "traffic": "200+",
+      "name": "lamine yamal",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "napoli - frosinone",
+      "name": "psg vs",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "united vs",
+      "name": "carnicería",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "real madrid - villarreal",
-      "traffic": "5000+",
+      "name": "porto vs",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "colegiales - tristán suárez",
-      "traffic": "500+",
+      "name": "barracas central - huracán",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "messi cup",
-      "traffic": "100+",
+      "name": "almagro - chacarita",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "porto",
-      "traffic": "200+",
+      "name": "napoli - frosinone",
+      "traffic": "500+",
       "rank": 10
     }
   ]
