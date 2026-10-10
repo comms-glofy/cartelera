@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T14:30:14Z",
+  "updated": "2026-10-10T15:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mario kempes",
-      "traffic": "100+",
+      "name": "tormenta tropical",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "cipolletti",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "mario kempes",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "10 de octubre",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "premio nobel de la paz",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "kim kardashian",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "lando norris",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "presley gerber",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "chelsea",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "bayern munich",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "atletico madrid",
-      "traffic": "200+",
+      "name": "bayern munich",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "dia de la madre 2026 argentina",
-      "traffic": "200+",
+      "name": "atletico madrid",
+      "traffic": "500+",
       "rank": 10
     }
   ]
