@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T00:30:15Z",
+  "updated": "2026-10-10T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lautaro blanco",
-      "traffic": "100+",
+      "name": "union",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "tabla de posiciones",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "primera división",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "promedios",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "marley y mirko",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "pablo aimar",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "excursionistas",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "superliga",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "federación portuguesa de fútbol",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "memorándum de entendimiento",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "tv argentina",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "boc",
+      "name": "superliga",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "braida",
-      "traffic": "200+",
+      "name": "federación portuguesa de fútbol",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "fernando alarcón",
-      "traffic": "1000+",
+      "name": "memorándum de entendimiento",
+      "traffic": "500+",
       "rank": 10
     }
   ]
