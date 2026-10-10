@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T09:30:15Z",
+  "updated": "2026-10-10T10:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "disney plus",
-      "traffic": "500+",
+      "name": "leandro rey hilfer",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "epic games",
+      "name": "tomás martín etcheverry",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "disney plus",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "epic games",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "nueva zelanda - australia",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "tigres - toluca",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "la joaqui",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "juventud antoniana",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "once caldas",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "puebla - león",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "amelia earhart",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "julieta nair calvo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
