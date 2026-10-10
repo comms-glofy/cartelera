@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-10T23:00:14Z",
+  "updated": "2026-10-10T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ufc",
-      "traffic": "1000+",
+      "name": "serie de televisión",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tigre inglaterra",
-      "traffic": "100+",
+      "name": "juliana awada",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inter miami - dc united",
-      "traffic": "5000+",
+      "name": "zoo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "u. católica - audax italiano",
-      "traffic": "200+",
+      "name": "mirame asi el camino de noa",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "ninku",
+      "name": "vasco da gama vs",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "plus ultra líneas aéreas",
-      "traffic": "200+",
+      "name": "ufc",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "edlp",
-      "traffic": "200+",
+      "name": "tigre inglaterra",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "seven sudamericano masculino",
-      "traffic": "100+",
+      "name": "inter miami - dc united",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "tigre - banfield",
-      "traffic": "10000+",
+      "name": "u. católica - audax italiano",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "recesión",
-      "traffic": "500+",
+      "name": "ninku",
+      "traffic": "100+",
       "rank": 10
     }
   ]
