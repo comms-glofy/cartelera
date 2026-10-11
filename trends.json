@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T12:00:14Z",
+  "updated": "2026-10-11T12:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "disney plus",
-      "traffic": "1000+",
+      "name": "alexander zverev",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "shanghai open",
+      "name": "darío giordano",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "disney+",
+      "name": "basura",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ámbar de benedictis",
+      "name": "jennifer aniston",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "roma fc",
+      "name": "disneyplus",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "l-gante",
-      "traffic": "200+",
+      "name": "lewis hamilton",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "naufragio",
-      "traffic": "100+",
+      "name": "elche c. f. - celta de vigo",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "página/12",
-      "traffic": "100+",
+      "name": "kim kardashian",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "hombre tigre inglaterra",
+      "name": "disney plus",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "el dia",
-      "traffic": "100+",
+      "name": "disney+",
+      "traffic": "200+",
       "rank": 10
     }
   ]
