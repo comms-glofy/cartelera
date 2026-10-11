@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T13:15:02Z",
+  "updated": "2026-10-11T13:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chile",
-      "traffic": "500+",
+      "name": "nepal",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "chile",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "crystal palace - nottingham forest",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ezequiel gonzález",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "hamilton",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "caballito",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "papa leon",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "cirujano",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "dragon ball super beerus",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "basura",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "disneyplus",
-      "traffic": "100+",
+      "name": "lewis hamilton",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
