@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T21:00:14Z",
+  "updated": "2026-10-11T21:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "robo",
+      "name": "ldu quito - barcelona sc",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "posiciones de defensores de belgrano contra acassuso",
+      "name": "tabla anual futbol argentino",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "steve nielsen",
+      "name": "robo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "argentinos",
-      "traffic": "5000+",
+      "name": "posiciones de defensores de belgrano contra acassuso",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "steve nielsen",
+      "traffic": "20000+",
+      "rank": 5
+    },
+    {
+      "name": "torneo federal a",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "central norte",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "miguel ángel",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "grêmio - internacional",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "la voz",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "san miguel club",
+      "name": "la voz",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nacional b",
-      "traffic": "500+",
+      "name": "grêmio - internacional",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
