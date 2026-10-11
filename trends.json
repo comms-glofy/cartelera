@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T11:00:13Z",
+  "updated": "2026-10-11T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el dia",
+      "name": "l-gante",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "como - roma",
-      "traffic": "500+",
+      "name": "naufragio",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pierre gasly",
-      "traffic": "5000+",
+      "name": "página/12",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cristian ludueña",
-      "traffic": "1000+",
+      "name": "hombre tigre inglaterra",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "11 de octubre",
+      "name": "el dia",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "francisco cerúndolo",
-      "traffic": "500+",
+      "name": "como - roma",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "moto gp",
-      "traffic": "200+",
+      "name": "pierre gasly",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "videos",
-      "traffic": "100+",
+      "name": "cristian ludueña",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "loto plus",
-      "traffic": "500+",
+      "name": "11 de octubre",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "kevin zenón",
-      "traffic": "100+",
+      "name": "francisco cerúndolo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
