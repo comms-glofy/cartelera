@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T12:30:18Z",
+  "updated": "2026-10-11T13:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexander zverev",
-      "traffic": "500+",
+      "name": "hamilton",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "darío giordano",
-      "traffic": "100+",
+      "name": "caballito",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "basura",
+      "name": "papa leon",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "jennifer aniston",
+      "name": "cirujano",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "disneyplus",
-      "traffic": "100+",
+      "name": "darío giordano",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lewis hamilton",
+      "name": "basura",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "elche c. f. - celta de vigo",
-      "traffic": "5000+",
+      "name": "alexander zverev",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "kim kardashian",
-      "traffic": "500+",
+      "name": "disneyplus",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "disney plus",
-      "traffic": "2000+",
+      "name": "jennifer aniston",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "disney+",
-      "traffic": "200+",
+      "name": "elche c. f. - celta de vigo",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
