@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-11T10:30:14Z",
+  "updated": "2026-10-11T11:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como - roma",
-      "traffic": "200+",
+      "name": "el dia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pierre gasly",
-      "traffic": "10000+",
+      "name": "como - roma",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "cristian ludueña",
-      "traffic": "500+",
+      "name": "pierre gasly",
+      "traffic": "5000+",
       "rank": 3
+    },
+    {
+      "name": "cristian ludueña",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "11 de octubre",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "francisco cerúndolo",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "moto gp",
-      "traffic": "100+",
+      "name": "francisco cerúndolo",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "moto gp",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "videos",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "loto plus",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "los angeles fc",
-      "traffic": "100+",
+      "name": "loto plus",
+      "traffic": "500+",
       "rank": 9
     },
     {
