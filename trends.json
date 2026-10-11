@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-11T17:30:18Z",
+  "updated": "2026-10-11T18:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sandra pettovello",
-      "traffic": "100+",
+      "name": "atlanta - san martín de tucumán",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "san lorenzo - deportivo riestra",
-      "traffic": "2000+",
+      "name": "deportivo madryn - chaco for ever",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "empresario",
-      "traffic": "500+",
+      "name": "rande gerber",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "juventus",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "sandra pettovello",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "san lorenzo - deportivo riestra",
+      "traffic": "10000+",
+      "rank": 6
+    },
+    {
+      "name": "empresario",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "cherki",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "wilfredo gómez",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "doku",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "haaland",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "pep guardiola",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "terremoto",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "benfica - guimarães",
+      "name": "doku",
       "traffic": "500+",
       "rank": 10
     }
