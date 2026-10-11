@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-11T15:00:15Z",
+  "updated": "2026-10-11T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "real sociedad",
-      "traffic": "100+",
+      "name": "entre ríos",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "liverpool - manchester city",
-      "traffic": "10000+",
+      "name": "liverpool vs man city",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "estafa",
-      "traffic": "500+",
+      "name": "exequiel zeballos",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "kelly piquet",
+      "name": "real sociedad",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "crystal palace",
-      "traffic": "100+",
+      "name": "liverpool - manchester city",
+      "traffic": "20000+",
       "rank": 5
-    },
-    {
-      "name": "villa devoto",
-      "traffic": "100+",
-      "rank": 6
     },
     {
       "name": "copa airlines",
       "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "estafa",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "dia del martillero",
-      "traffic": "100+",
+      "name": "kelly piquet",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "crunchyroll",
-      "traffic": "200+",
+      "name": "villa devoto",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "debate",
+      "name": "dia del martillero",
       "traffic": "100+",
       "rank": 10
     }
