@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T18:15:54Z",
+  "updated": "2026-10-11T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "temperley",
-      "traffic": "200+",
+      "name": "estudiantes - deportivo morón",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "atlanta",
-      "traffic": "200+",
+      "name": "atlético mineiro - santos",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "temperley",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "cagliari - juventus",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "coquimbo unido - colo-colo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "harlem festival",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "atlanta - san martín de tucumán",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "deportivo madryn - chaco for ever",
-      "traffic": "500+",
+      "name": "atlanta - san martín de tucumán",
+      "traffic": "2000+",
       "rank": 7
+    },
+    {
+      "name": "deportivo madryn - chaco for ever",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "rande gerber",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "sandra pettovello",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "san lorenzo - deportivo riestra",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
