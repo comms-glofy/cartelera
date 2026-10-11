@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T15:30:15Z",
+  "updated": "2026-10-11T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "entre ríos",
-      "traffic": "5000+",
+      "name": "real betis - osasuna",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "liverpool vs man city",
-      "traffic": "200+",
+      "name": "tiafoe",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "exequiel zeballos",
+      "name": "pedro rosemblat",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "real sociedad",
-      "traffic": "200+",
+      "name": "milan",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "liverpool - manchester city",
-      "traffic": "20000+",
+      "name": "lewis koumas",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "copa airlines",
-      "traffic": "100+",
+      "name": "sassuolo - milan",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "estafa",
-      "traffic": "500+",
+      "name": "entre ríos",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "kelly piquet",
+      "name": "city",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "villa devoto",
-      "traffic": "100+",
+      "name": "exequiel zeballos",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dia del martillero",
-      "traffic": "100+",
+      "name": "real sociedad",
+      "traffic": "200+",
       "rank": 10
     }
   ]
