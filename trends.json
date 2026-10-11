@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T06:00:15Z",
+  "updated": "2026-10-11T06:08:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "los angeles fc",
+      "name": "kevin zenón",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "kevin zenón",
-      "traffic": "100+",
-      "rank": 2
-    },
-    {
       "name": "américa - monterrey",
       "traffic": "500+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "atlas - guadalajara",
       "traffic": "100+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "torneo argentino",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "posiciones de universitario contra fbc melgar",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "brendan allen",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "novaresio",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "thiago almada",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "lingote",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "inter miami vs dc united",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
