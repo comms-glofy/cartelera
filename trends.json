@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T02:00:16Z",
+  "updated": "2026-10-11T02:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "agustina propato",
-      "traffic": "100+",
+      "name": "brendan allen",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "evil dead",
-      "traffic": "100+",
+      "name": "novaresio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "petrolero",
-      "traffic": "100+",
+      "name": "luis novaresio",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "austin fc - nashville sc",
-      "traffic": "100+",
+      "name": "lingote",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tamara pettinato",
+      "name": "pereyra river",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "river va",
+      "name": "river vs boca",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tigre mata a hombre",
-      "traffic": "500+",
+      "name": "agustina propato",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "santiago beltrán",
+      "name": "evil dead",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "florencia raggi",
-      "traffic": "1000+",
+      "name": "petrolero",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "juana repetto",
-      "traffic": "500+",
+      "name": "austin fc - nashville sc",
+      "traffic": "100+",
       "rank": 10
     }
   ]
