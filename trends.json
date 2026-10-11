@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T19:00:14Z",
+  "updated": "2026-10-11T19:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lpf play",
-      "traffic": "2000+",
+      "name": "olimpo",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "temperley - nueva chicago",
-      "traffic": "500+",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "gimnasia jujuy - gimnasia y tiro de salta",
-      "traffic": "500+",
+      "name": "lpf play",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "cipolletti vs alvarado",
-      "traffic": "100+",
+      "name": "gimnasia jujuy - gimnasia y tiro de salta",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "patronato - atlético güemes",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "cipolletti vs alvarado",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "luck ra",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "estudiantes - deportivo morón",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "atlético mineiro - santos",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "cagliari - juventus",
-      "traffic": "1000+",
+      "name": "estudiantes - deportivo morón",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "coquimbo unido - colo-colo",
-      "traffic": "500+",
+      "name": "atlético mineiro - santos",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "harlem festival",
-      "traffic": "100+",
+      "name": "cagliari - juventus",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
