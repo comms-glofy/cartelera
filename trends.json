@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T21:30:16Z",
+  "updated": "2026-10-11T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ldu quito - barcelona sc",
+      "name": "chubut",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tabla anual futbol argentino",
+      "name": "santa fe - fortaleza",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "robo",
+      "name": "flamengo vs",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "posiciones de defensores de belgrano contra acassuso",
-      "traffic": "200+",
+      "name": "racing - belgrano",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "steve nielsen",
-      "traffic": "20000+",
+      "name": "alexander aslani",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "torneo federal a",
-      "traffic": "200+",
+      "name": "tabla anual",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "central norte",
+      "name": "ldu quito - barcelona sc",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "miguel ángel",
-      "traffic": "100+",
+      "name": "álex arce",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "la voz",
+      "name": "robo",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "grêmio - internacional",
-      "traffic": "1000+",
+      "name": "posiciones de defensores de belgrano contra acassuso",
+      "traffic": "200+",
       "rank": 10
     }
   ]
