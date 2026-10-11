@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T16:30:18Z",
+  "updated": "2026-10-11T17:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcos paz",
-      "traffic": "200+",
+      "name": "terremoto",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "delito",
+      "name": "benfica - guimarães",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dragon ball super beerus capitulo 1",
-      "traffic": "100+",
+      "name": "marcos paz",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "real betis - osasuna",
-      "traffic": "500+",
+      "name": "delito",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "milan",
+      "name": "dragon ball super beerus capitulo 1",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "real betis - osasuna",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "milan",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "pedro rosemblat",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tiafoe",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "sassuolo - milan",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "city",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "entre ríos",
-      "traffic": "5000+",
+      "name": "sassuolo - milan",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
