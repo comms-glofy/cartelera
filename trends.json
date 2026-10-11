@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T14:00:15Z",
+  "updated": "2026-10-11T14:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "premier",
+      "name": "crunchyroll",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "real sociedad - deportivo",
-      "traffic": "200+",
+      "name": "debate",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "río uruguay",
-      "traffic": "5000+",
+      "name": "acuerdo",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sam neill",
-      "traffic": "100+",
+      "name": "verstappen",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "hull city - everton",
-      "traffic": "200+",
+      "name": "concordia",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "nepal",
-      "traffic": "500+",
+      "name": "lazio",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "chile",
-      "traffic": "1000+",
+      "name": "valle salvaje",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "crystal palace - nottingham forest",
-      "traffic": "500+",
+      "name": "córdoba",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "ezequiel gonzález",
-      "traffic": "200+",
+      "name": "f1 posiciones",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "hijos de romina yan",
-      "traffic": "200+",
+      "name": "tomas aranda",
+      "traffic": "100+",
       "rank": 10
     }
   ]
