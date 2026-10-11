@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T16:00:15Z",
+  "updated": "2026-10-11T16:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "real betis - osasuna",
+      "name": "marcos paz",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tiafoe",
-      "traffic": "100+",
+      "name": "delito",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pedro rosemblat",
-      "traffic": "200+",
+      "name": "dragon ball super beerus capitulo 1",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "real betis - osasuna",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "milan",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "lewis koumas",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "sassuolo - milan",
+      "name": "pedro rosemblat",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "entre ríos",
-      "traffic": "5000+",
+      "name": "tiafoe",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "city",
-      "traffic": "200+",
+      "name": "sassuolo - milan",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "exequiel zeballos",
-      "traffic": "200+",
+      "name": "city",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "real sociedad",
-      "traffic": "200+",
+      "name": "entre ríos",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
