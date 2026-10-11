@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-11T08:00:14Z",
+  "updated": "2026-10-11T08:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kevin zenón",
+      "name": "loto plus",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "kevin zenón",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "américa - monterrey",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "atlas - guadalajara",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "posiciones de universitario contra fbc melgar",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "primera",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "novaresio",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "thiago almada",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lingote",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "river vs boca",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "evil dead",
+      "name": "river vs boca",
       "traffic": "200+",
       "rank": 10
     }
