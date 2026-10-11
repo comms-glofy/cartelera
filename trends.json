@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T18:30:14Z",
+  "updated": "2026-10-11T19:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estudiantes - deportivo morón",
-      "traffic": "500+",
+      "name": "lpf play",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "atlético mineiro - santos",
+      "name": "temperley - nueva chicago",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "temperley",
-      "traffic": "200+",
+      "name": "gimnasia jujuy - gimnasia y tiro de salta",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "cagliari - juventus",
-      "traffic": "500+",
+      "name": "cipolletti vs alvarado",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "coquimbo unido - colo-colo",
+      "name": "luck ra",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "harlem festival",
-      "traffic": "100+",
+      "name": "estudiantes - deportivo morón",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "atlanta - san martín de tucumán",
-      "traffic": "2000+",
+      "name": "atlético mineiro - santos",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "deportivo madryn - chaco for ever",
+      "name": "cagliari - juventus",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "rande gerber",
-      "traffic": "100+",
+      "name": "coquimbo unido - colo-colo",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "sandra pettovello",
-      "traffic": "500+",
+      "name": "harlem festival",
+      "traffic": "100+",
       "rank": 10
     }
   ]
