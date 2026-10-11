@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-11T04:00:17Z",
+  "updated": "2026-10-11T04:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "américa - monterrey",
-      "traffic": "200+",
+      "name": "los angeles fc",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "américa - monterrey",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "atlas - guadalajara",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "torneo argentino",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "brendan allen",
-      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "novaresio",
+      "name": "posiciones de universitario contra fbc melgar",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "thiago almada",
-      "traffic": "100+",
+      "name": "brendan allen",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "lingote",
-      "traffic": "500+",
+      "name": "novaresio",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "river vs boca",
+      "name": "thiago almada",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "evil dead",
-      "traffic": "200+",
+      "name": "lingote",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "agustina propato",
+      "name": "river vs boca",
       "traffic": "100+",
       "rank": 10
     }
