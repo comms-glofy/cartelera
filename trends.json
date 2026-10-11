@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T20:00:15Z",
+  "updated": "2026-10-11T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rubio ñu - olimpia",
-      "traffic": "500+",
+      "name": "grêmio - internacional",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "colon",
-      "traffic": "1000+",
+      "name": "san miguel club",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "palmeiras - corinthians",
+      "name": "la voz",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "deportivo maipú - san martín",
-      "traffic": "200+",
+      "name": "nacional b",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "platense - argentinos jrs.",
-      "traffic": "2000+",
+      "name": "flamengo - fluminense",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "juventus vs",
+      "name": "chicago vs",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "estados unidos",
-      "traffic": "500+",
+      "name": "la voz del interior",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "rosario central - independiente rivadavia",
-      "traffic": "2000+",
+      "name": "rubio ñu - olimpia",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "olimpo",
-      "traffic": "200+",
+      "name": "deportivo maipú - san martín",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "temperley - nueva chicago",
-      "traffic": "2000+",
+      "name": "palmeiras - corinthians",
+      "traffic": "500+",
       "rank": 10
     }
   ]
