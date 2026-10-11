@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T17:00:15Z",
+  "updated": "2026-10-11T17:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "terremoto",
-      "traffic": "5000+",
+      "name": "sandra pettovello",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "benfica - guimarães",
-      "traffic": "200+",
+      "name": "san lorenzo - deportivo riestra",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "marcos paz",
-      "traffic": "200+",
+      "name": "empresario",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "delito",
+      "name": "cherki",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "dragon ball super beerus capitulo 1",
+      "name": "wilfredo gómez",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "real betis - osasuna",
-      "traffic": "1000+",
+      "name": "doku",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "milan",
+      "name": "haaland",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pedro rosemblat",
+      "name": "pep guardiola",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tiafoe",
-      "traffic": "100+",
+      "name": "terremoto",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "sassuolo - milan",
-      "traffic": "1000+",
+      "name": "benfica - guimarães",
+      "traffic": "500+",
       "rank": 10
     }
   ]
