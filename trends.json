@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T08:30:13Z",
+  "updated": "2026-10-11T09:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "loto plus",
-      "traffic": "100+",
+      "name": "francisco cerúndolo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "kevin zenón",
+      "name": "moto gp",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "américa - monterrey",
-      "traffic": "500+",
+      "name": "loto plus",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "atlas - guadalajara",
+      "name": "kevin zenón",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "posiciones de universitario contra fbc melgar",
-      "traffic": "200+",
+      "name": "américa - monterrey",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "primera",
-      "traffic": "200+",
+      "name": "atlas - guadalajara",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "novaresio",
+      "name": "posiciones de universitario contra fbc melgar",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "thiago almada",
-      "traffic": "100+",
+      "name": "primera",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "lingote",
-      "traffic": "1000+",
+      "name": "novaresio",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "river vs boca",
-      "traffic": "200+",
+      "name": "thiago almada",
+      "traffic": "100+",
       "rank": 10
     }
   ]
