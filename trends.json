@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-11T09:30:13Z",
+  "updated": "2026-10-11T10:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "francisco cerúndolo",
-      "traffic": "500+",
+      "name": "cristian ludueña",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "francisco cerúndolo",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "moto gp",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "videos",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "loto plus",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "kevin zenón",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "américa - monterrey",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "atlas - guadalajara",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "posiciones de universitario contra fbc melgar",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "primera",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "novaresio",
+      "name": "primera",
       "traffic": "200+",
       "rank": 10
     }
