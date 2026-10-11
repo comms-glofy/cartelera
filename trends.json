@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T23:00:16Z",
+  "updated": "2026-10-11T23:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "turf",
+      "name": "cusco - alianza lima",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cinemacenter",
+      "name": "joan gaspart",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cotización",
-      "traffic": "1000+",
+      "name": "talleres vs independiente",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "bahía - mirassol",
+      "name": "turf",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "jesica cirio",
+      "name": "cinemacenter",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "aluvión",
+      "name": "bahía - mirassol",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "dinero",
-      "traffic": "200+",
+      "name": "jesica cirio",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "gran premio de los estados unidos",
-      "traffic": "2000+",
+      "name": "dinero",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "luis novaresio",
+      "name": "aluvión",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "palmeiras vs",
-      "traffic": "100+",
+      "name": "cotización",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
