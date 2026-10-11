@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T01:00:14Z",
+  "updated": "2026-10-11T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "futbol para todos",
-      "traffic": "2000+",
+      "name": "tamara pettinato",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "marcos acuña",
-      "traffic": "200+",
+      "name": "santiago beltrán",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "juana repetto",
+      "name": "tigre mata a hombre",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "loteria nacional nocturna",
-      "traffic": "200+",
+      "name": "river va",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "los fundamentalistas del aire acondicionado",
+      "name": "florencia raggi",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "paso internacional los libertadores",
-      "traffic": "100+",
+      "name": "futbol para todos",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "universitario - melgar",
+      "name": "juana repetto",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "nora colosimo",
+      "name": "loteria nacional nocturna",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "river plate - estudiantes de río cuarto",
-      "traffic": "200000+",
+      "name": "los fundamentalistas del aire acondicionado",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "orlando city - columbus crew",
-      "traffic": "500+",
+      "name": "paso internacional los libertadores",
+      "traffic": "100+",
       "rank": 10
     }
   ]
