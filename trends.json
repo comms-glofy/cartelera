@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T09:00:18Z",
+  "updated": "2026-10-12T09:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "ricardo darín",
-      "traffic": "200+",
+      "name": "sorteo quini 6",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "fuego",
-      "traffic": "500+",
+      "name": "ricardo darín",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ruta nacional 11",
+      "name": "fuego",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "ruta nacional 11",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "maru botana",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "superávit económico",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "madre",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "paula trapani",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "pumas - cruz azul",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
