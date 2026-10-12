@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T05:00:16Z",
+  "updated": "2026-10-12T05:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima santiago del estero",
+      "name": "xbox cloud gaming",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ricardo darín",
+      "name": "clima santiago del estero",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fuego",
+      "name": "ricardo darín",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "posiciones de cusco fc contra alianza lima",
+      "name": "fuego",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ruta nacional 11",
+      "name": "posiciones de cusco fc contra alianza lima",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "ruta nacional 11",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "maru botana",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "superávit económico",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "madre",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "paula trapani",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "pumas - cruz azul",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
