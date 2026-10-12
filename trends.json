@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T03:00:15Z",
+  "updated": "2026-10-12T03:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de cusco fc contra alianza lima",
-      "traffic": "200+",
+      "name": "clima santiago del estero",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fuego",
+      "name": "ricardo darín",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ruta nacional 11",
+      "name": "américa de cali",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "maru botana",
+      "name": "fuego",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "superávit económico",
+      "name": "posiciones de cusco fc contra alianza lima",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "sorteo telekino",
+      "name": "ruta nacional 11",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "madre",
-      "traffic": "1000+",
+      "name": "maru botana",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "pumas - cruz azul",
-      "traffic": "1000+",
+      "name": "superávit económico",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "américa - medellín",
-      "traffic": "500+",
+      "name": "sorteo telekino",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "corriente del niño",
-      "traffic": "1000+",
+      "name": "paula trapani",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
