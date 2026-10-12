@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T22:00:15Z",
+  "updated": "2026-10-12T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santiago sosa",
-      "traffic": "100+",
+      "name": "basura",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alineaciones de boca juniors contra vasco da gama",
+      "name": "bryan cranston",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "naufragio",
-      "traffic": "1000+",
+      "name": "santiago sosa",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "barco",
-      "traffic": "200+",
+      "name": "all boys - godoy cruz",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "diego latorre",
+      "name": "alineaciones de boca juniors contra vasco da gama",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gimnasia y esgrima - newell's",
-      "traffic": "10000+",
+      "name": "naufragio",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "breaking bad",
-      "traffic": "5000+",
+      "name": "barco",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "rj mitte",
-      "traffic": "20000+",
+      "name": "diego latorre",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "marcos galperin",
-      "traffic": "500+",
+      "name": "gimnasia y esgrima - newell's",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "sueño",
-      "traffic": "500+",
+      "name": "breaking bad",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
