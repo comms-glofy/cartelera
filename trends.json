@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T20:30:16Z",
+  "updated": "2026-10-12T21:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "benjamín vicuña",
-      "traffic": "500+",
+      "name": "gimnasia y esgrima - newell's",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "u. de chile - ñublense",
+      "name": "breaking bad",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sevilla",
-      "traffic": "200+",
+      "name": "rj mitte",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "embajador",
-      "traffic": "100+",
+      "name": "marcos galperin",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "racing de córdoba - los andes",
+      "name": "patada",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "berazategui",
-      "traffic": "100+",
+      "name": "selma blair",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "¿quien es darío giordano?",
-      "traffic": "2000+",
+      "name": "pandemia",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "río paraná",
-      "traffic": "100+",
+      "name": "alberto fernández",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "newcastle",
+      "name": "benjamín vicuña",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "torino - udinese",
-      "traffic": "500+",
+      "name": "u. de chile - ñublense",
+      "traffic": "200+",
       "rank": 10
     }
   ]
