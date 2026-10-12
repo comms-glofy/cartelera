@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T20:00:15Z",
+  "updated": "2026-10-12T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "berazategui",
-      "traffic": "100+",
+      "name": "benjamín vicuña",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "río paraná",
-      "traffic": "100+",
+      "name": "u. de chile - ñublense",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "newcastle",
-      "traffic": "500+",
+      "name": "sevilla",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "torino - udinese",
-      "traffic": "200+",
+      "name": "embajador",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "coritiba - botafogo",
+      "name": "racing de córdoba - los andes",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "julio iglesias",
-      "traffic": "500+",
+      "name": "berazategui",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "primera c",
-      "traffic": "200+",
+      "name": "¿quien es darío giordano?",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "gregorio dalbon",
-      "traffic": "2000+",
+      "name": "río paraná",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "brasileños",
+      "name": "newcastle",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "lanús - vélez",
-      "traffic": "20000+",
+      "name": "torino - udinese",
+      "traffic": "500+",
       "rank": 10
     }
   ]
