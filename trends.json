@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-12T15:30:17Z",
+  "updated": "2026-10-12T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "puerto iguazú",
-      "traffic": "200+",
+      "name": "walter benítez",
+      "traffic": "100+",
       "rank": 1
     },
     {
@@ -14,8 +14,8 @@
       "rank": 2
     },
     {
-      "name": "indio solari",
-      "traffic": "200+",
+      "name": "cataratas del iguazú",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "rodrigo battaglia",
+      "name": "indio solari",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "asignación universal por hijo",
-      "traffic": "2000+",
+      "name": "rodrigo battaglia",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "quiniela",
+      "name": "asignación universal por hijo",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "alejandra gere",
-      "traffic": "100+",
+      "name": "quiniela",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "quiniela en vivo",
-      "traffic": "1000+",
+      "name": "quiniela nacional",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "actor gabriel prieto",
-      "traffic": "200+",
+      "name": "alejandra gere",
+      "traffic": "100+",
       "rank": 10
     }
   ]
