@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T10:00:22Z",
+  "updated": "2026-10-12T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hoy es feriado",
+      "name": "masterchef",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "xbox cloud gaming",
-      "traffic": "200+",
+      "name": "quini6",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "clima santiago del estero",
-      "traffic": "200+",
+      "name": "guaymallén",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sorteo quini 6",
-      "traffic": "1000+",
+      "name": "hoy es feriado",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "ricardo darín",
+      "name": "xbox cloud gaming",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fuego",
+      "name": "clima santiago del estero",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ruta nacional 11",
+      "name": "ricardo darín",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "maru botana",
-      "traffic": "500+",
+      "name": "fuego",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "superávit económico",
+      "name": "ruta nacional 11",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "madre",
-      "traffic": "2000+",
+      "name": "maru botana",
+      "traffic": "500+",
       "rank": 10
     }
   ]
