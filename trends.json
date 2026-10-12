@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T14:00:16Z",
+  "updated": "2026-10-12T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela",
-      "traffic": "1000+",
+      "name": "rodrigo battaglia",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "quiniela nacional",
-      "traffic": "500+",
+      "name": "asignación universal por hijo",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "quiniela",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "quiniela de hoy",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "alejandra gere",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "quiniela en vivo",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "actor gabriel prieto",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "selección de fútbol de nueva zelanda",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "cristiano ronaldo",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "linor srl",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "domingo cavallo",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "peronismo",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "quini 6 domingo 11 de octubre",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
