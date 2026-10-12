@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T22:30:14Z",
+  "updated": "2026-10-12T23:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "basura",
-      "traffic": "200+",
+      "name": "paso de los libres",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "bryan cranston",
+      "name": "balón de oro 2026",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "santiago sosa",
-      "traffic": "100+",
+      "name": "lionel messi en el fútbol club barcelona",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "all boys - godoy cruz",
-      "traffic": "5000+",
+      "name": "chapecoense - paranaense",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "alineaciones de boca juniors contra vasco da gama",
+      "name": "lapegue",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "naufragio",
-      "traffic": "2000+",
+      "name": "película",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "barco",
-      "traffic": "500+",
+      "name": "basura",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "diego latorre",
+      "name": "bryan cranston",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "gimnasia y esgrima - newell's",
-      "traffic": "20000+",
+      "name": "all boys - godoy cruz",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "breaking bad",
-      "traffic": "10000+",
+      "name": "alineaciones de boca juniors contra vasco da gama",
+      "traffic": "500+",
       "rank": 10
     }
   ]
