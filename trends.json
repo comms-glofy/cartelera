@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T18:32:10Z",
+  "updated": "2026-10-12T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "levante - sevilla",
-      "traffic": "200+",
+      "name": "coritiba - botafogo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "lanus",
-      "traffic": "500+",
+      "name": "primera c",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ruta nacional 40",
-      "traffic": "100+",
+      "name": "julio iglesias",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "california",
-      "traffic": "100+",
+      "name": "gregorio dalbon",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "primera nacional",
-      "traffic": "10000+",
+      "name": "brasileños",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "sofía martínez",
-      "traffic": "500+",
+      "name": "lanús - vélez",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "inundación",
+      "name": "levante - sevilla",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "franco yan",
-      "traffic": "100+",
+      "name": "ruta nacional 40",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ramon diaz",
-      "traffic": "500+",
+      "name": "california",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "glaciar",
-      "traffic": "500+",
+      "name": "primera nacional",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
