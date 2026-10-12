@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-12T11:30:18Z",
+  "updated": "2026-10-12T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "megan fox",
+      "name": "destructor",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mendoza",
+      "name": "diario uno",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "juan de benedictis",
-      "traffic": "500+",
+      "name": "la página millonaria",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "gabriela sabatini",
-      "traffic": "200+",
+      "name": "maxi salas",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "masterchef",
-      "traffic": "2000+",
+      "name": "fútbol club barcelona",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "12 de octubre es feriado",
+      "name": "megan fox",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "quini6",
-      "traffic": "2000+",
+      "name": "mendoza",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "gastón ávila",
-      "traffic": "200+",
+      "name": "juan de benedictis",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "guaymallén",
+      "name": "martín menem",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "hoy es feriado",
+      "name": "masterchef",
       "traffic": "2000+",
       "rank": 10
     }
