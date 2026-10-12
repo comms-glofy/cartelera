@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T11:00:18Z",
+  "updated": "2026-10-12T11:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "megan fox",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "mendoza",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "juan de benedictis",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "name": "gabriela sabatini",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "masterchef",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "12 de octubre es feriado",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "quini6",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "gastón ávila",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "guaymallén",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "hoy es feriado",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "cine romántico",
+      "name": "gastón ávila",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "xbox cloud gaming",
+      "name": "guaymallén",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "miren algarañaz",
-      "traffic": "100+",
+      "name": "hoy es feriado",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
