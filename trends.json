@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-12T09:30:21Z",
+  "updated": "2026-10-12T10:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "xbox cloud gaming",
-      "traffic": "200+",
+      "name": "hoy es feriado",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "clima santiago del estero",
+      "name": "xbox cloud gaming",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "clima santiago del estero",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "sorteo quini 6",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ricardo darín",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "fuego",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ruta nacional 11",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "maru botana",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "superávit económico",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "madre",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "paula trapani",
+      "name": "madre",
       "traffic": "2000+",
       "rank": 10
     }
