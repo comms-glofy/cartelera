@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-12T21:00:18Z",
+  "updated": "2026-10-12T21:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia y esgrima - newell's",
-      "traffic": "200+",
+      "name": "naufragio",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "breaking bad",
+      "name": "barco",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rj mitte",
-      "traffic": "2000+",
+      "name": "diego latorre",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "gimnasia y esgrima - newell's",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "breaking bad",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "rj mitte",
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "marcos galperin",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "patada",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "selma blair",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "pandemia",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "alberto fernández",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "benjamín vicuña",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "u. de chile - ñublense",
+      "name": "pandemia",
       "traffic": "200+",
       "rank": 10
     }
