@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T17:00:16Z",
+  "updated": "2026-10-12T17:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiebra",
-      "traffic": "200+",
+      "name": "romina yan hijos",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "orden del toisón de oro",
-      "traffic": "200+",
+      "name": "ramon diaz",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "atalanta",
+      "name": "showcase",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "atalanta - venezia",
-      "traffic": "500+",
+      "name": "glaciar",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "economía",
-      "traffic": "500+",
+      "name": "masterchef celebrity",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "cristina fernández de kirchner",
+      "name": "orden del toisón de oro",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "camión cisterna",
-      "traffic": "200+",
+      "name": "atalanta",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "walter benítez",
-      "traffic": "200+",
+      "name": "economía",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "luján",
+      "name": "atalanta - venezia",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "puerto iguazú",
-      "traffic": "1000+",
+      "name": "cristina fernández de kirchner",
+      "traffic": "500+",
       "rank": 10
     }
   ]
