@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-12T16:30:15Z",
+  "updated": "2026-10-12T17:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atalanta",
-      "traffic": "100+",
+      "name": "quiebra",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "atalanta - venezia",
+      "name": "orden del toisón de oro",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "economía",
+      "name": "atalanta",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "cristina fernández de kirchner",
-      "traffic": "200+",
+      "name": "atalanta - venezia",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "camión cisterna",
-      "traffic": "100+",
+      "name": "economía",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "walter benítez",
+      "name": "cristina fernández de kirchner",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "luján",
-      "traffic": "10000+",
+      "name": "camión cisterna",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "puerto iguazú",
-      "traffic": "1000+",
+      "name": "walter benítez",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "rodolfo arruabarrena",
-      "traffic": "1000+",
+      "name": "luján",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "javier milei",
+      "name": "puerto iguazú",
       "traffic": "1000+",
       "rank": 10
     }
