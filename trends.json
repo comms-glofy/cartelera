@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-12T03:30:17Z",
+  "updated": "2026-10-12T04:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "clima santiago del estero",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "américa de cali",
-      "traffic": "100+",
+      "name": "fuego",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "fuego",
+      "name": "ruta nacional 11",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "posiciones de cusco fc contra alianza lima",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "ruta nacional 11",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
       "name": "maru botana",
       "traffic": "500+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "superávit económico",
       "traffic": "200+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "sorteo telekino",
       "traffic": "100+",
-      "rank": 9
+      "rank": 7
+    },
+    {
+      "name": "madre",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "paula trapani",
       "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "pumas - cruz azul",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
