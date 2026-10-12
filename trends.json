@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T01:00:16Z",
+  "updated": "2026-10-12T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pampita",
+      "name": "américa - medellín",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "corriente del niño",
+      "name": "pampita",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "masterchef hoy",
+      "name": "corriente del niño",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mudo vazquez",
+      "name": "masterchef hoy",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "posiciones de liga de quito contra barcelona sc",
-      "traffic": "2000+",
+      "name": "mudo vazquez",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "talleres - independiente",
-      "traffic": "20000+",
+      "name": "posiciones de liga de quito contra barcelona sc",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "talleres - independiente",
+      "traffic": "50000+",
+      "rank": 7
     },
     {
       "name": "marcelo gallardo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "méxico",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ramón díaz",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "joan gaspart",
-      "traffic": "500+",
       "rank": 10
     }
   ]
