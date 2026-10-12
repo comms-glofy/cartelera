@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T18:00:15Z",
+  "updated": "2026-10-12T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "levante - sevilla",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "lanus",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "ruta nacional 40",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "california",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "primera nacional",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "sofía martínez",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "inundación",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "franco yan",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "ramon diaz",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "de que murio romina yan",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "glaciar",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "showcase",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "masterchef celebrity",
-      "traffic": "5000+",
+      "name": "glaciar",
+      "traffic": "500+",
       "rank": 10
     }
   ]
