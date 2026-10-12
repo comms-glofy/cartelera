@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T10:30:15Z",
+  "updated": "2026-10-12T11:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "masterchef",
-      "traffic": "2000+",
+      "name": "juan de benedictis",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "quini6",
+      "name": "masterchef",
       "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "guaymallén",
+      "name": "12 de octubre es feriado",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "hoy es feriado",
+      "name": "quini6",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "xbox cloud gaming",
-      "traffic": "200+",
+      "name": "gastón ávila",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima santiago del estero",
+      "name": "guaymallén",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ricardo darín",
-      "traffic": "200+",
+      "name": "hoy es feriado",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "fuego",
+      "name": "cine romántico",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ruta nacional 11",
+      "name": "xbox cloud gaming",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "maru botana",
-      "traffic": "500+",
+      "name": "miren algarañaz",
+      "traffic": "100+",
       "rank": 10
     }
   ]
