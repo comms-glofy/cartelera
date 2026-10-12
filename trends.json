@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T04:30:15Z",
+  "updated": "2026-10-12T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia de la raza",
-      "traffic": "2000+",
-      "rank": 1
-    },
-    {
       "name": "clima santiago del estero",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "ricardo darín",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "fuego",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "posiciones de cusco fc contra alianza lima",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "ruta nacional 11",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "maru botana",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "superávit económico",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "sorteo telekino",
-      "traffic": "100+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "madre",
       "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "paula trapani",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "pumas - cruz azul",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
