@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T19:30:14Z",
+  "updated": "2026-10-12T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "río paraná",
-      "traffic": "500+",
+      "name": "berazategui",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "newcastle",
-      "traffic": "200+",
+      "name": "río paraná",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "newcastle",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "torino - udinese",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "coritiba - botafogo",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "julio iglesias",
-      "traffic": "200+",
+      "name": "coritiba - botafogo",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "julio iglesias",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "primera c",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "gregorio dalbon",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "brasileños",
-      "traffic": "200+",
+      "name": "gregorio dalbon",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "lanús - vélez",
-      "traffic": "10000+",
+      "name": "brasileños",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "levante - sevilla",
-      "traffic": "500+",
+      "name": "lanús - vélez",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
