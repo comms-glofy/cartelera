@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T00:30:14Z",
+  "updated": "2026-10-12T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "masterchef hoy",
+      "name": "pampita",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "posiciones de liga de quito contra barcelona sc",
-      "traffic": "2000+",
+      "name": "corriente del niño",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "talleres - independiente",
-      "traffic": "10000+",
+      "name": "masterchef hoy",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "marcelo gallardo",
+      "name": "mudo vazquez",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "méxico",
-      "traffic": "1000+",
+      "name": "posiciones de liga de quito contra barcelona sc",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "ramón díaz",
-      "traffic": "200+",
+      "name": "talleres - independiente",
+      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "joan gaspart",
+      "name": "marcelo gallardo",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "cusco - alianza lima",
-      "traffic": "500+",
+      "name": "méxico",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "turf",
+      "name": "ramón díaz",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cinemacenter",
-      "traffic": "200+",
+      "name": "joan gaspart",
+      "traffic": "500+",
       "rank": 10
     }
   ]
