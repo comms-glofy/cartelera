@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-11T23:30:17Z",
+  "updated": "2026-10-12T00:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cusco - alianza lima",
-      "traffic": "200+",
+      "name": "talleres - independiente",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "joan gaspart",
+      "name": "marcelo gallardo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "talleres vs independiente",
-      "traffic": "100+",
+      "name": "méxico",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "turf",
-      "traffic": "200+",
+      "name": "ramón díaz",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "cinemacenter",
+      "name": "cusco - alianza lima",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "bahía - mirassol",
+      "name": "joan gaspart",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "jesica cirio",
-      "traffic": "500+",
+      "name": "turf",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dinero",
+      "name": "cinemacenter",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "aluvión",
-      "traffic": "200+",
+      "name": "jesica cirio",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cotización",
-      "traffic": "1000+",
+      "name": "bahía - mirassol",
+      "traffic": "500+",
       "rank": 10
     }
   ]
