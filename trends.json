@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-12T19:00:15Z",
+  "updated": "2026-10-12T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "coritiba - botafogo",
+      "name": "río paraná",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "primera c",
+      "name": "newcastle",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "julio iglesias",
+      "name": "torino - udinese",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gregorio dalbon",
-      "traffic": "200+",
+      "name": "coritiba - botafogo",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "brasileños",
+      "name": "julio iglesias",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lanús - vélez",
-      "traffic": "2000+",
+      "name": "primera c",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "levante - sevilla",
+      "name": "gregorio dalbon",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "ruta nacional 40",
+      "name": "brasileños",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "california",
-      "traffic": "100+",
+      "name": "lanús - vélez",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "primera nacional",
-      "traffic": "10000+",
+      "name": "levante - sevilla",
+      "traffic": "500+",
       "rank": 10
     }
   ]
