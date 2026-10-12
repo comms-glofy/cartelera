@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-12T15:00:19Z",
+  "updated": "2026-10-12T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "javier milei",
-      "traffic": "1000+",
+      "name": "puerto iguazú",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "rodolfo arruabarrena",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "indio solari",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "rodrigo battaglia",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "asignación universal por hijo",
+      "name": "javier milei",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "quiniela de hoy",
-      "traffic": "2000+",
+      "name": "rodrigo battaglia",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "quiniela nacional",
-      "traffic": "500+",
+      "name": "asignación universal por hijo",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "quiniela",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "alejandra gere",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "quiniela en vivo",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "actor gabriel prieto",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "selección de fútbol de nueva zelanda",
+      "name": "actor gabriel prieto",
       "traffic": "200+",
       "rank": 10
     }
