@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T11:00:14Z",
+  "updated": "2026-10-13T11:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alexander zverev",
-      "traffic": "500+",
+      "name": "los 40 principales",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ultimátum",
+      "name": "perú",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "el ancasti",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "alexander zverev",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "ultimátum",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "el once",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "13 de octubre",
+      "traffic": "10000+",
+      "rank": 7
+    },
+    {
+      "name": "que pasa salta",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "refinanciación",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "13 de octubre",
-      "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "diario chaco",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "que pasa salta",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "susana romano sued",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "administración nacional de medicamentos, alimentos y tecnología médica",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "contexto",
-      "traffic": "200+",
       "rank": 10
     }
   ]
