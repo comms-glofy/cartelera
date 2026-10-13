@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T10:00:14Z",
+  "updated": "2026-10-13T10:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima la plata",
-      "traffic": "100+",
+      "name": "contexto",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "la voz del interior",
+      "name": "la capital",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "agua",
-      "traffic": "1000+",
+      "name": "fuerzas armadas",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tiempo en cordoba",
+      "name": "champions",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tiempo de hoy",
+      "name": "clima bahia blanca",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "12/octubre/2026",
-      "traffic": "500+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "bet365",
-      "traffic": "200+",
+      "name": "clima la plata",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cristian traverso",
-      "traffic": "200+",
+      "name": "la voz del interior",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "clima mendoza",
-      "traffic": "200+",
+      "name": "agua",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "donald",
-      "traffic": "1000+",
+      "name": "tiempo en cordoba",
+      "traffic": "100+",
       "rank": 10
     }
   ]
