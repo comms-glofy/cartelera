@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T19:00:17Z",
+  "updated": "2026-10-13T19:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "graciela alfano",
+      "name": "kristalina georgieva",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "el papa leon xiv",
-      "traffic": "500+",
+      "name": "uefa champions",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "champions hoy",
+      "name": "marta sánchez",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "arsenal - losc",
-      "traffic": "1000+",
+      "name": "barca",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "viking - bayern",
-      "traffic": "1000+",
+      "name": "montaña rusa",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "inter - club brujas",
-      "traffic": "1000+",
+      "name": "atletico madrid",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "villarreal - napoli",
-      "traffic": "500+",
+      "name": "indec",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "galatasaray - barcelona",
-      "traffic": "10000+",
+      "name": "atletico de madrid",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "slavia praga",
+      "name": "florinda meza",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mónica guido",
-      "traffic": "1000+",
+      "name": "partidos de champions league",
+      "traffic": "200+",
       "rank": 10
     }
   ]
