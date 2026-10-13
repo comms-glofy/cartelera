@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T16:00:17Z",
+  "updated": "2026-10-13T16:13:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "al-sadd - al hilal",
-      "traffic": "200+",
+      "name": "inundación",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "liga de campeones de la uefa",
+      "name": "champions league",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "primera división",
-      "traffic": "2000+",
+      "name": "demian reidel",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "miren algañarás",
+      "name": "al-sadd - al hilal",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "playstation 5",
+      "name": "liga de campeones de la uefa",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "primera división",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "miren algañarás",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "playstation 5",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "tupungato",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "la bola negra",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "asociación trabajadores del estado",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "paulo dybala",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "six flags",
-      "traffic": "500+",
       "rank": 10
     }
   ]
