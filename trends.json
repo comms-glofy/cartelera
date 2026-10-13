@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T04:00:19Z",
+  "updated": "2026-10-13T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -30,7 +30,7 @@
     },
     {
       "name": "circulación atmosférica",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "bambino pons",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "guido kaczka",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "posiciones de all boys contra godoy cruz",
       "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "índice de precios al consumidor",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
