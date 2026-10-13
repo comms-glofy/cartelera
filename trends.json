@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T03:30:15Z",
+  "updated": "2026-10-13T04:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "romário",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "autopista córdoba - rosario",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "nhl",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mario massaccesi",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "grego rossello",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "circulación atmosférica",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ramon diaz a river",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "guido kaczka",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "posiciones de all boys contra godoy cruz",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "índice de precios al consumidor",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "carburando",
-      "traffic": "500+",
       "rank": 10
     }
   ]
