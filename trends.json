@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T20:30:13Z",
+  "updated": "2026-10-13T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mario massaccesi",
-      "traffic": "2000+",
+      "name": "anthropic",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "misil",
+      "name": "infocielo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mcdonald's",
-      "traffic": "200+",
+      "name": "nicolò tresoldi",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "ucl",
-      "traffic": "200+",
+      "name": "montaña rusa six flags",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "copa libertadores",
+      "name": "bayer vs",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "arsenal",
-      "traffic": "500+",
+      "name": "adenocarcinoma",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "arsenal vs",
-      "traffic": "200+",
+      "name": "mario massaccesi",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "aleksey batrakov",
+      "name": "misil",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "velatorio",
+      "name": "ucl",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "boca vasco da gama",
-      "traffic": "2000+",
+      "name": "mcdonald's",
+      "traffic": "200+",
       "rank": 10
     }
   ]
