@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T16:30:17Z",
+  "updated": "2026-10-13T17:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "marco trungelliti",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "lens fc",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "red hot chili peppers",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "goliath six flags",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "sudamericana",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "agencia nacional de seguridad vial",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "champions league 2026",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "champions league",
-      "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "inundación",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "demian reidel",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "al-sadd - al hilal",
+      "name": "demian reidel",
       "traffic": "200+",
       "rank": 8
     },
     {
       "name": "liga de campeones de la uefa",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "primera división",
-      "traffic": "5000+",
+      "name": "al-sadd - al hilal",
+      "traffic": "500+",
       "rank": 10
     }
   ]
