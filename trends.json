@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T23:00:15Z",
+  "updated": "2026-10-13T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "antonio de la rúa",
-      "traffic": "200+",
+      "name": "anses",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "árbol",
-      "traffic": "200+",
+      "name": "ruta provincial 39",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "bryan cranston rj mitte",
-      "traffic": "500+",
+      "name": "estados unidos - españa",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "max dowman",
+      "name": "antonio de la rúa",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "reino unido",
-      "traffic": "2000+",
+      "name": "árbol",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "a que hora juega boca",
-      "traffic": "20000+",
+      "name": "bryan cranston rj mitte",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "max dowman",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "reino unido",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "netinho",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "tren patagónico",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de atlético de madrid contra manchester united",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "mercado cambiario",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
