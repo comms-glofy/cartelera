@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T01:05:04Z",
+  "updated": "2026-10-13T01:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carburando",
+      "name": "guido kaczka",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "francisco comesaña",
-      "traffic": "200+",
+      "name": "índice de precios al consumidor",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "julieta prandi",
-      "traffic": "2000+",
+      "name": "carburando",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "andrea kimi antonelli",
+      "name": "francisco comesaña",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bragantino - cruzeiro",
-      "traffic": "2000+",
+      "name": "julieta prandi",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "inflación",
+      "name": "andrea kimi antonelli",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "bragantino - cruzeiro",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "balón de oro 2026",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "paso de los libres",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "lionel messi en el fútbol club barcelona",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "chapecoense - paranaense",
-      "traffic": "500+",
       "rank": 10
     }
   ]
