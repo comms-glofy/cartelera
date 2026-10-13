@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T22:30:13Z",
+  "updated": "2026-10-13T23:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "reino unido",
-      "traffic": "2000+",
+      "name": "antonio de la rúa",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "netinho",
+      "name": "árbol",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "bryan cranston rj mitte",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "max dowman",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "reino unido",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "a que hora juega boca",
+      "traffic": "20000+",
+      "rank": 6
+    },
+    {
+      "name": "netinho",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "tren patagónico",
       "traffic": "200+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "posiciones de atlético de madrid contra manchester united",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "mercado cambiario",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "a qué hora juega boca",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "pensión",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "posiciones de villarreal club de fútbol contra ssc napoli",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "julián alvarez",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "libertadores",
-      "traffic": "500+",
       "rank": 10
     }
   ]
