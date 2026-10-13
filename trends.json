@@ -1,25 +1,25 @@
 {
-  "updated": "2026-10-13T13:30:17Z",
+  "updated": "2026-10-13T14:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gabriel rolón",
+      "name": "six flags",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "marley",
+      "name": "gabriel rolón",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "germán pezzella",
-      "traffic": "100+",
+      "name": "marley",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "zverev",
+      "name": "germán pezzella",
       "traffic": "200+",
       "rank": 4
     },
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "mercado pago",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
       "name": "pronostico parana",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "what",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "clima santa fe",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "outlook",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
