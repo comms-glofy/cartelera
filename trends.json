@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T15:00:22Z",
+  "updated": "2026-10-13T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la bola negra",
+      "name": "miren algañarás",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "asociación trabajadores del estado",
-      "traffic": "500+",
+      "name": "playstation 5",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "paulo dybala",
-      "traffic": "200+",
+      "name": "tupungato",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "la bola negra",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "asociación trabajadores del estado",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "paulo dybala",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "six flags",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "gabriel rolón",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "marley",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "germán pezzella",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "13 de octubre que se celebra",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "vehículo",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico parana",
-      "traffic": "200+",
       "rank": 10
     }
   ]
