@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T05:30:13Z",
+  "updated": "2026-10-13T06:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "autopista córdoba - rosario",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
       "name": "nhl",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "mario massaccesi",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "grego rossello",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "circulación atmosférica",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "ramon diaz a river",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "bambino pons",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "guido kaczka",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
