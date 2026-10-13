@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-13T14:30:20Z",
+  "updated": "2026-10-13T15:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paulo dybala",
+      "name": "la bola negra",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "six flags",
-      "traffic": "200+",
+      "name": "asociación trabajadores del estado",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "gabriel rolón",
+      "name": "paulo dybala",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "marley",
-      "traffic": "200+",
+      "name": "six flags",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "germán pezzella",
+      "name": "gabriel rolón",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "zverev",
+      "name": "marley",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "germán pezzella",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "13 de octubre que se celebra",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "vehículo",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico parana",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "what",
+      "name": "pronostico parana",
       "traffic": "200+",
       "rank": 10
     }
