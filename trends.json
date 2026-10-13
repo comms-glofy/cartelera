@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T22:00:14Z",
+  "updated": "2026-10-13T22:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "netinho",
-      "traffic": "200+",
+      "name": "reino unido",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "tren patagónico",
+      "name": "netinho",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "posiciones de atlético de madrid contra manchester united",
-      "traffic": "50000+",
+      "name": "tren patagónico",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mercado cambiario",
-      "traffic": "500+",
+      "name": "posiciones de atlético de madrid contra manchester united",
+      "traffic": "20000+",
       "rank": 4
     },
     {
-      "name": "julián alvarez",
+      "name": "mercado cambiario",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "pensión",
-      "traffic": "1000+",
+      "name": "a qué hora juega boca",
+      "traffic": "10000+",
       "rank": 6
+    },
+    {
+      "name": "pensión",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "posiciones de villarreal club de fútbol contra ssc napoli",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "lamine yamal",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "libertadores",
-      "traffic": "200+",
+      "name": "julián alvarez",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "leipzig",
-      "traffic": "200+",
+      "name": "libertadores",
+      "traffic": "500+",
       "rank": 10
     }
   ]
