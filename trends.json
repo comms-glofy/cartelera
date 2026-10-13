@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T12:30:17Z",
+  "updated": "2026-10-13T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mercado pago",
+      "name": "zverev",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "pronostico parana",
-      "traffic": "200+",
+      "name": "germán pezzella",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "what",
+      "name": "13 de octubre que se celebra",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "vehículo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "mercado pago",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "pronostico parana",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "what",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "clima santa fe",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
+    },
+    {
+      "name": "outlook",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "macro",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "diario jornada",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "banco nacion",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "perú",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "los 40 principales",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "el ancasti",
-      "traffic": "100+",
       "rank": 10
     }
   ]
