@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T09:00:16Z",
+  "updated": "2026-10-13T09:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "12/octubre/2026",
-      "traffic": "200+",
+      "name": "agua",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "bet365",
-      "traffic": "100+",
+      "name": "12/octubre/2026",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "bet365",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "cristian traverso",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "clima mendoza",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "donald",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "romário",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "autopista córdoba - rosario",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "nhl",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "mario massaccesi",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "grego rossello",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "circulación atmosférica",
-      "traffic": "500+",
       "rank": 10
     }
   ]
