@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T18:30:16Z",
+  "updated": "2026-10-13T19:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "viking - bayern",
-      "traffic": "500+",
+      "name": "graciela alfano",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "arsenal - losc",
+      "name": "el papa leon xiv",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "inter - club brujas",
-      "traffic": "500+",
+      "name": "champions hoy",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "villarreal - napoli",
-      "traffic": "200+",
+      "name": "arsenal - losc",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "galatasaray - barcelona",
-      "traffic": "5000+",
+      "name": "viking - bayern",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "inter - club brujas",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "villarreal - napoli",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "galatasaray - barcelona",
+      "traffic": "10000+",
+      "rank": 8
     },
     {
       "name": "slavia praga",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "mónica guido",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "uefa champions league",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "morena beltrán",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "lens fc",
-      "traffic": "500+",
       "rank": 10
     }
   ]
