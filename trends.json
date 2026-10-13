@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T04:30:15Z",
+  "updated": "2026-10-13T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "romário",
+      "name": "clima mendoza",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "autopista córdoba - rosario",
-      "traffic": "1000+",
+      "name": "donald",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nhl",
+      "name": "romário",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mario massaccesi",
+      "name": "autopista córdoba - rosario",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "grego rossello",
+      "name": "nhl",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "circulación atmosférica",
-      "traffic": "500+",
+      "name": "mario massaccesi",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "ramon diaz a river",
-      "traffic": "500+",
+      "name": "grego rossello",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bambino pons",
+      "name": "circulación atmosférica",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "guido kaczka",
-      "traffic": "1000+",
+      "name": "ramon diaz a river",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "posiciones de all boys contra godoy cruz",
-      "traffic": "20000+",
+      "name": "bambino pons",
+      "traffic": "500+",
       "rank": 10
     }
   ]
