@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T16:00:18Z",
+  "updated": "2026-10-14T16:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "escuela",
-      "traffic": "500+",
+      "name": "verano",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "donald trump",
+      "name": "amaia montero",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "guillermina valdés",
-      "traffic": "200+",
+      "name": "lask - liverpool",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "estatua viviente",
-      "traffic": "500+",
+      "name": "feyenoord - como",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "charlie sheen",
-      "traffic": "200+",
+      "name": "escuela",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "matías galarza",
+      "name": "donald trump",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "moria casán",
-      "traffic": "100+",
+      "name": "guillermina valdés",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "camión cisterna",
+      "name": "estatua viviente",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "dia de la costurera",
+      "name": "charlie sheen",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "hugo moyano",
-      "traffic": "1000+",
+      "name": "matías galarza",
+      "traffic": "200+",
       "rank": 10
     }
   ]
