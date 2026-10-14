@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T15:30:23Z",
+  "updated": "2026-10-14T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guillermina valdés",
-      "traffic": "200+",
+      "name": "escuela",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "estatua viviente",
+      "name": "donald trump",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "charlie sheen",
+      "name": "guillermina valdés",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "estatua viviente",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "charlie sheen",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "matías galarza",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "moria casán",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "camión cisterna",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "dia de la costurera",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "hugo moyano",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "dólar estadounidense",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "robin givens",
-      "traffic": "200+",
       "rank": 10
     }
   ]
