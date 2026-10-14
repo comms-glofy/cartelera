@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T07:30:14Z",
+  "updated": "2026-10-14T08:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "roña castro",
-      "traffic": "1000+",
+      "name": "betano",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "roña castro",
+      "traffic": "2000+",
+      "rank": 2
     },
     {
       "name": "character ai",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "diario ole",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "sebastián villa",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ole",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pamela david",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nazareno casero",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "messi cup",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "como salio boca",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "millonarios",
-      "traffic": "200+",
       "rank": 10
     }
   ]
