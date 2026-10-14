@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-14T13:00:15Z",
+  "updated": "2026-10-14T13:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "hugo moyano",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
+      "name": "daniil medvédev",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "la isla del sol",
-      "traffic": "200+",
+      "name": "pronostico cordoba",
+      "traffic": "100+",
       "rank": 6
-    },
-    {
-      "name": "tn",
-      "traffic": "200+",
-      "rank": 7
     },
     {
       "name": "terremoto",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "cronica",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "betano",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "roña castro",
+      "traffic": "50000+",
       "rank": 10
     }
   ]
