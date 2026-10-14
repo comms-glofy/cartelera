@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T00:30:17Z",
+  "updated": "2026-10-14T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca juniors - vasco da gama",
-      "traffic": "100000+",
+      "name": "colidio",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cuántos años tiene el papa",
+      "name": "espn",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "anses",
-      "traffic": "10000+",
+      "name": "boc",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ruta provincial 39",
-      "traffic": "2000+",
+      "name": "alan lescano",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "estados unidos - españa",
-      "traffic": "500+",
+      "name": "aluvión",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "antonio de la rúa",
+      "name": "policía municipal",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "árbol",
-      "traffic": "1000+",
+      "name": "river id",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "bryan cranston rj mitte",
-      "traffic": "1000+",
+      "name": "boca juniors - vasco da gama",
+      "traffic": "200000+",
       "rank": 8
     },
     {
-      "name": "max dowman",
+      "name": "cuántos años tiene el papa",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "reino unido",
-      "traffic": "2000+",
+      "name": "anses",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
