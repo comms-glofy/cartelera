@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-14T11:00:22Z",
+  "updated": "2026-10-14T11:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "castro",
+      "name": "lisandro martínez",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
+      "name": "castro",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "la isla del sol",
-      "traffic": "200+",
+      "name": "pronostico cordoba",
+      "traffic": "100+",
       "rank": 3
     },
     {
@@ -35,17 +35,17 @@
     },
     {
       "name": "roña castro",
-      "traffic": "20000+",
+      "traffic": "50000+",
       "rank": 7
-    },
-    {
-      "name": "vaticano papa leon xiv",
-      "traffic": "20000+",
-      "rank": 8
     },
     {
       "name": "character ai",
       "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "kick",
+      "traffic": "2000+",
       "rank": 9
     },
     {
