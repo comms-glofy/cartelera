@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:30:17Z",
+  "updated": "2026-10-14T19:33:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "psg vs",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
       "name": "lucas beltrán",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "aston villa - fenerbahçe",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "real betis - porto",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "manchester city - psg",
       "traffic": "20000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "roma - real madrid",
       "traffic": "20000+",
+      "rank": 9
+    },
+    {
+      "name": "psg",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
