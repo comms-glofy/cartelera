@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T01:30:15Z",
+  "updated": "2026-10-14T02:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boca partido",
+      "name": "boca ahora",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "como va boca",
-      "traffic": "1000+",
+      "name": "galo ochoa",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "boca partido",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "zoo",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "club de regatas vasco da gama",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "álvaro montero",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "boc",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "colidio",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "boc",
-      "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "espn",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "alan lescano",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "policía municipal",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "aluvión",
-      "traffic": "200+",
       "rank": 10
     }
   ]
