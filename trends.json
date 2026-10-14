@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T11:30:13Z",
+  "updated": "2026-10-14T12:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lisandro martínez",
+      "name": "robin givens",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "castro",
-      "traffic": "200+",
+      "name": "aryna sabalenka",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "100+",
+      "name": "lisandro martínez",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "terremoto",
+      "name": "castro",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "cronica",
-      "traffic": "200+",
+      "name": "pronostico cordoba",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "betano",
+      "name": "la isla del sol",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "roña castro",
-      "traffic": "50000+",
+      "name": "terremoto",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "character ai",
-      "traffic": "100+",
+      "name": "cronica",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "kick",
-      "traffic": "2000+",
+      "name": "betano",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "diario ole",
-      "traffic": "200+",
+      "name": "roña castro",
+      "traffic": "50000+",
       "rank": 10
     }
   ]
