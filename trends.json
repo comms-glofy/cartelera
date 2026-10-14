@@ -1,31 +1,31 @@
 {
-  "updated": "2026-10-14T20:00:20Z",
+  "updated": "2026-10-14T20:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aguinaldo",
-      "traffic": "1000+",
+      "name": "a qué hora juega river",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "man city",
+      "name": "barco",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marten de roon",
-      "traffic": "200+",
+      "name": "aguinaldo",
+      "traffic": "1000+",
       "rank": 3
     },
     {
       "name": "betis",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
       "name": "manchester city",
-      "traffic": "2000+",
+      "traffic": "10000+",
       "rank": 5
     },
     {
@@ -40,17 +40,17 @@
     },
     {
       "name": "real madrid",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "roma fc",
-      "traffic": "500+",
+      "name": "uefa champions league",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "uefa champions league",
-      "traffic": "500+",
+      "name": "lincoln city - west ham",
+      "traffic": "200+",
       "rank": 10
     }
   ]
