@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T04:30:14Z",
+  "updated": "2026-10-14T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "blanco boca",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
       "name": "messi cup",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "que pasa si boca pierde hoy",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "como salio boca",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "millonarios",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "edith hermida",
       "traffic": "200+",
       "rank": 10
     }
