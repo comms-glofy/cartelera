@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T16:30:19Z",
+  "updated": "2026-10-14T17:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "verano",
-      "traffic": "200+",
+      "name": "lesión",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "amaia montero",
+      "name": "como vs",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "ballena",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "feyenoord",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "nieve",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "punta arenas",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "verano",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "amaia montero",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "lask - liverpool",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "feyenoord - como",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "escuela",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "donald trump",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "guillermina valdés",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "estatua viviente",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "charlie sheen",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "matías galarza",
-      "traffic": "200+",
       "rank": 10
     }
   ]
