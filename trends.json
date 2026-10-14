@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T03:30:12Z",
+  "updated": "2026-10-14T04:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario ole",
-      "traffic": "200+",
+      "name": "noviembre",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "sebastián villa",
+      "name": "diario ole",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nazareno casero",
-      "traffic": "500+",
+      "name": "sebastián villa",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "messi cup",
+      "name": "boca partidos",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "que pasa si boca pierde hoy",
-      "traffic": "200+",
+      "name": "pamela david",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "como salio boca",
-      "traffic": "2000+",
+      "name": "nazareno casero",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "millonarios",
-      "traffic": "200+",
+      "name": "blanco boca",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "edith hermida",
+      "name": "messi cup",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sporting",
-      "traffic": "1000+",
+      "name": "que pasa si boca pierde hoy",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "boca ahora",
-      "traffic": "1000+",
+      "name": "como salio boca",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
