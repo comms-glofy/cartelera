@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T17:00:17Z",
+  "updated": "2026-10-14T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lesión",
-      "traffic": "10000+",
+      "name": "liverpool vs",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "como vs",
+      "name": "eduardo coudet",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ballena",
-      "traffic": "200+",
+      "name": "perro",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "feyenoord",
-      "traffic": "200+",
+      "name": "como vs",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "nieve",
+      "name": "ballena",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "punta arenas",
-      "traffic": "500+",
+      "name": "lesión",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "verano",
+      "name": "feyenoord",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "amaia montero",
-      "traffic": "200+",
+      "name": "punta arenas",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "lask - liverpool",
-      "traffic": "5000+",
+      "name": "verano",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "feyenoord - como",
-      "traffic": "1000+",
+      "name": "amaia montero",
+      "traffic": "500+",
       "rank": 10
     }
   ]
