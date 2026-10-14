@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T19:33:35Z",
+  "updated": "2026-10-14T20:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "real madrid vs",
+      "name": "aguinaldo",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "lincoln city - west ham",
+      "name": "man city",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "thiago mendes",
+      "name": "marten de roon",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "amoris laetitia",
-      "traffic": "200+",
+      "name": "betis",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "lucas beltrán",
-      "traffic": "200+",
+      "name": "manchester city",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "aston villa - fenerbahçe",
-      "traffic": "2000+",
+      "name": "ucl",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "real betis - porto",
-      "traffic": "500+",
+      "name": "cyberleek",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "manchester city - psg",
-      "traffic": "20000+",
+      "name": "real madrid",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "roma - real madrid",
-      "traffic": "20000+",
+      "name": "roma fc",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "psg",
-      "traffic": "2000+",
+      "name": "uefa champions league",
+      "traffic": "500+",
       "rank": 10
     }
   ]
