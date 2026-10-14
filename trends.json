@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T02:30:15Z",
+  "updated": "2026-10-14T03:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "messi cup",
+      "name": "diario ole",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "que pasa si boca pierde hoy",
+      "name": "sebastián villa",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "como salio boca",
+      "name": "ascacibar",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "millonarios",
-      "traffic": "200+",
+      "name": "pamela david",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "edith hermida",
+      "name": "nazareno casero",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "sporting",
-      "traffic": "1000+",
+      "name": "messi cup",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "boca ahora",
+      "name": "que pasa si boca pierde hoy",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "william chapman",
-      "traffic": "500+",
+      "name": "como salio boca",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "galo ochoa",
-      "traffic": "500+",
+      "name": "millonarios",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "carlos andrés gómez",
-      "traffic": "1000+",
+      "name": "edith hermida",
+      "traffic": "200+",
       "rank": 10
     }
   ]
