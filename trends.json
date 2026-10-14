@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T05:30:18Z",
+  "updated": "2026-10-14T06:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "noviembre",
-      "traffic": "5000+",
+      "name": "roña castro",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "character ai",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "diario ole",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "sebastián villa",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ole",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pamela david",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nazareno casero",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "messi cup",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "que pasa si boca pierde hoy",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "como salio boca",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "millonarios",
-      "traffic": "200+",
       "rank": 10
     }
   ]
