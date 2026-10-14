@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T13:30:14Z",
+  "updated": "2026-10-14T14:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "robin givens",
-      "traffic": "200+",
+      "name": "dólar estadounidense",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "aryna sabalenka",
-      "traffic": "1000+",
+      "name": "robin givens",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "aryna sabalenka",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "lisandro martínez",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "daniil medvédev",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "terremoto",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cronica",
+      "name": "la isla del sol",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "betano",
+      "name": "terremoto",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "roña castro",
-      "traffic": "50000+",
+      "name": "cronica",
+      "traffic": "200+",
       "rank": 10
     }
   ]
