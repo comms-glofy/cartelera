@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T10:00:18Z",
+  "updated": "2026-10-14T10:25:02Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "castro",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "pronostico cordoba",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "la isla del sol",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "terremoto",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "cronica",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "betano",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "roña castro",
-      "traffic": "10000+",
-      "rank": 5
+      "traffic": "20000+",
+      "rank": 7
     },
     {
       "name": "character ai",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "diario ole",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "sebastián villa",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "pamela david",
+      "name": "kick",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "nazareno casero",
-      "traffic": "500+",
+      "name": "diario ole",
+      "traffic": "200+",
       "rank": 10
     }
   ]
