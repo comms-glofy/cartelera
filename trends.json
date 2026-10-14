@@ -1,46 +1,46 @@
 {
-  "updated": "2026-10-14T09:30:16Z",
+  "updated": "2026-10-14T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "terremoto",
-      "traffic": "200+",
+      "name": "la isla del sol",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cronica",
-      "traffic": "100+",
+      "name": "terremoto",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "betano",
+      "name": "cronica",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "betano",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "roña castro",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "character ai",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "diario ole",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sebastián villa",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "ole",
-      "traffic": "2000+",
       "rank": 8
     },
     {
