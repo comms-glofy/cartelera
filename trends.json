@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T18:30:19Z",
+  "updated": "2026-10-14T19:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aston villa - fenerbahçe",
+      "name": "lucas beltrán",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "real betis - porto",
-      "traffic": "200+",
+      "name": "aston villa - fenerbahçe",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "roma - real madrid",
-      "traffic": "5000+",
+      "name": "real betis - porto",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "manchester city - psg",
-      "traffic": "2000+",
+      "name": "roma - real madrid",
+      "traffic": "10000+",
       "rank": 4
+    },
+    {
+      "name": "manchester city - psg",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "flavio briatore",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "psg",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "champions hoy",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "liverpool",
-      "traffic": "1000+",
+      "name": "roma vs real madrid",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "encuesta",
-      "traffic": "1000+",
+      "name": "champions hoy",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "liverpool vs",
-      "traffic": "1000+",
+      "name": "liverpool",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
