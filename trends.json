@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T22:00:18Z",
+  "updated": "2026-10-14T22:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jefatura de gabinete de ministros",
-      "traffic": "200+",
+      "name": "sarmiento",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "condenado",
-      "traffic": "200+",
+      "name": "mineiro",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "atlético mineiro - torque",
-      "traffic": "1000+",
+      "name": "jefatura de gabinete de ministros",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sarmiento - river plate",
-      "traffic": "50000+",
+      "name": "condenado",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "erling haaland",
-      "traffic": "500+",
+      "name": "atlético mineiro - torque",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "kylian mbappé",
-      "traffic": "200+",
+      "name": "médico",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "represa de yacyretá frontera argentina-paraguay",
-      "traffic": "200+",
+      "name": "sarmiento - river plate",
+      "traffic": "100000+",
       "rank": 7
+    },
+    {
+      "name": "represa de yacyretá frontera argentina-paraguay",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "roger martínez",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "la roma",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "porto",
-      "traffic": "200+",
+      "name": "posiciones de bodø/glimt contra borussia dortmund",
+      "traffic": "500+",
       "rank": 10
     }
   ]
