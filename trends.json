@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T18:00:16Z",
+  "updated": "2026-10-14T18:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "champions hoy",
-      "traffic": "2000+",
+      "name": "aston villa - fenerbahçe",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "real betis - porto",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "roma - real madrid",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "manchester city - psg",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "flavio briatore",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "psg",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "champions hoy",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "liverpool",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "encuesta",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "liverpool fc",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "eduardo coudet",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "perro",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "como vs",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "ballena",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "lesión",
-      "traffic": "2000+",
+      "name": "encuesta",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "punta arenas",
-      "traffic": "500+",
+      "name": "liverpool vs",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
