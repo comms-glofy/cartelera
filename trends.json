@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T03:00:17Z",
+  "updated": "2026-10-14T03:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "ascacibar",
+      "name": "nazareno casero",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "pamela david",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "nazareno casero",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
       "name": "messi cup",
       "traffic": "200+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "que pasa si boca pierde hoy",
       "traffic": "200+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "como salio boca",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "millonarios",
       "traffic": "200+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "edith hermida",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "sporting",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "boca ahora",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
