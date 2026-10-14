@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-14T21:30:16Z",
+  "updated": "2026-10-14T22:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sarmiento - river plate",
-      "traffic": "10000+",
+      "name": "jefatura de gabinete de ministros",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "condenado",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "atlético mineiro - torque",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "sarmiento - river plate",
+      "traffic": "50000+",
+      "rank": 4
     },
     {
       "name": "erling haaland",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "kylian mbappé",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "represa de yacyretá frontera argentina-paraguay",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "porto",
-      "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "roger martínez",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "posiciones de champions league",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "borussia",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "borussia dortmund",
-      "traffic": "500+",
+      "name": "la roma",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "bodo glimt",
+      "name": "porto",
       "traffic": "200+",
       "rank": 10
     }
