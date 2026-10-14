@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-13T23:30:13Z",
+  "updated": "2026-10-14T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "boca juniors - vasco da gama",
+      "traffic": "20000+",
+      "rank": 1
+    },
+    {
+      "name": "cuántos años tiene el papa",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "anses",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "ruta provincial 39",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "estados unidos - españa",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "antonio de la rúa",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "árbol",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "bryan cranston rj mitte",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "max dowman",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "reino unido",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "netinho",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "tren patagónico",
-      "traffic": "200+",
       "rank": 10
     }
   ]
