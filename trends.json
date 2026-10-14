@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T01:00:16Z",
+  "updated": "2026-10-14T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colidio",
-      "traffic": "500+",
+      "name": "boca partido",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "espn",
-      "traffic": "200+",
+      "name": "como va boca",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "club de regatas vasco da gama",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "álvaro montero",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "colidio",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "boc",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "espn",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "alan lescano",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "aluvión",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "policía municipal",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "river id",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "boca juniors - vasco da gama",
-      "traffic": "200000+",
-      "rank": 8
-    },
-    {
-      "name": "cuántos años tiene el papa",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "anses",
-      "traffic": "10000+",
+      "name": "aluvión",
+      "traffic": "200+",
       "rank": 10
     }
   ]
