@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-15T21:00:14Z",
+  "updated": "2026-10-15T21:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juventus vs",
-      "traffic": "200+",
+      "name": "iván noble",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cantante",
-      "traffic": "1000+",
+      "name": "dinamo zagreb",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "club de regatas vasco da gama",
+      "name": "jeep renegade",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gustavo sáenz.",
-      "traffic": "100+",
+      "name": "juventus vs",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "fenómeno del niño 2026",
-      "traffic": "1000+",
+      "name": "cantante",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "club de regatas vasco da gama",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "marsella - olympiacos",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "gustavo sáenz.",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "fenómeno del niño 2026",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "tn",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "robertito funes ugarte",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "deuda",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "abel ferreira",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "juventus",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
