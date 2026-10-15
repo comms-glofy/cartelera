@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-15T00:30:14Z",
+  "updated": "2026-10-15T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami vs. nyc fc",
+      "name": "inter miami cf",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "palmeiras",
-      "traffic": "1000+",
+      "name": "abel ferreira",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "palmeiras",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "tabla de posiciones liga argentina",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "torneo argentino",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "adam bareiro",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "liga argentina",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "primera",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "di prospero",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "conmebol libertadores",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "fluminense - palmeiras",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "gonzalo montiel",
-      "traffic": "5000+",
+      "name": "conmebol libertadores",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
