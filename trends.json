@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T10:00:16Z",
+  "updated": "2026-10-15T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "nicolás otamendi",
-      "traffic": "2000+",
+      "name": "es mi sueño",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "marianne von gierke",
-      "traffic": "200+",
+      "name": "nicolás otamendi",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "marianne von gierke",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "altura de los rios",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "loto plus",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "sorteo quini 6",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "lluvia",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "atlético nacional - medellín",
-      "traffic": "200+",
+      "name": "lluvia",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "fallecio norberto diprospero",
+      "name": "atlético nacional - medellín",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "europa league",
-      "traffic": "200+",
+      "name": "fallecio norberto diprospero",
+      "traffic": "500+",
       "rank": 10
     }
   ]
