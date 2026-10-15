@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-15T16:00:16Z",
+  "updated": "2026-10-15T16:14:03Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "charlie sheen",
+      "name": "u2",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "autopista córdoba - rosario",
-      "traffic": "2000+",
+      "name": "union saint-gilloise - real sociedad",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "río",
+      "name": "charlie sheen",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "kylian mbappé",
+      "name": "autopista córdoba - rosario",
       "traffic": "2000+",
       "rank": 4
     },
     {
+      "name": "río",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "kylian mbappé",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
       "name": "movistar",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "crédito",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "leonardo simons",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "la voz",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "islas malvinas",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "lisandro martínez",
-      "traffic": "200+",
       "rank": 10
     }
   ]
