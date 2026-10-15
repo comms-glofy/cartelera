@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-15T13:30:19Z",
+  "updated": "2026-10-15T14:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lali espósito",
+      "name": "wanda nara martin fierro",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "carlos bilardo",
-      "traffic": "100+",
+      "name": "lali espósito",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gaspi",
+      "name": "carlos bilardo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "marco trungelliti",
+      "name": "gaspi",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "marco trungelliti",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "norberto di próspero",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "15 de octubre",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "weather",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "paul aron",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "evento de el niño de 2026-2027",
-      "traffic": "500+",
       "rank": 10
     }
   ]
