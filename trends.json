@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-15T02:00:18Z",
+  "updated": "2026-10-15T02:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "niño clima",
-      "traffic": "100+",
+      "name": "inter miami vs nyc fc",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "marcha universitaria",
-      "traffic": "1000+",
+      "name": "karina mazzocco",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "niño clima",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "chicago fire - philadelphia",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "marcha universitaria",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "premio",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "nashville sc - sporting kc",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "sebastián ortega",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "montréal - atlanta united",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "abel ferreira",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tabla anual 2026",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "inter miami vs. nyc fc",
+      "name": "abel ferreira",
       "traffic": "200+",
       "rank": 10
     }
