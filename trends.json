@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-15T15:00:18Z",
+  "updated": "2026-10-15T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "granizo",
-      "traffic": "2000+",
+      "name": "movistar",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "allanamiento",
-      "traffic": "500+",
+      "name": "crédito",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "poder judicial de san juan",
+      "name": "leonardo simons",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rafael camara",
+      "name": "islas malvinas",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "wanda nara martin fierro",
+      "name": "la voz",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "lali espósito",
+      "name": "lisandro martínez",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "carlos bilardo",
-      "traffic": "500+",
+      "name": "granizo",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "gaspi",
+      "name": "allanamiento",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "marco trungelliti",
+      "name": "poder judicial de san juan",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "norberto di próspero",
-      "traffic": "2000+",
+      "name": "rafael camara",
+      "traffic": "500+",
       "rank": 10
     }
   ]
