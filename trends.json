@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-15T02:30:13Z",
+  "updated": "2026-10-15T03:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami vs nyc fc",
-      "traffic": "500+",
+      "name": "marcelo figoli",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "luciana aymar",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "pablo giralt",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "posiciones de inter miami contra new york city football club",
+      "traffic": "20000+",
+      "rank": 4
     },
     {
       "name": "karina mazzocco",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "niño clima",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "chicago fire - philadelphia",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "marcha universitaria",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "premio",
+      "name": "niño clima",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "nashville sc - sporting kc",
+      "name": "chicago fire - philadelphia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sebastián ortega",
-      "traffic": "100+",
+      "name": "marcha universitaria",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "montréal - atlanta united",
+      "name": "premio",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "abel ferreira",
+      "name": "nashville sc - sporting kc",
       "traffic": "200+",
       "rank": 10
     }
