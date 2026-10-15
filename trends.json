@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-15T23:00:14Z",
+  "updated": "2026-10-15T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tenis",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "estudiantes de la plata",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "luck ra",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "ramon diaz",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "mercado cambiario",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "juicio",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "huracán - gimnasia",
-      "traffic": "5000+",
-      "rank": 5
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "peaje",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "covid-19",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "epic games",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "kristalina georgieva",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "canal 13",
-      "traffic": "200+",
+      "name": "estudiantes",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
