@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-15T17:00:15Z",
+  "updated": "2026-10-15T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "u2 en argentina",
-      "traffic": "500+",
+      "name": "conference league",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lech poznań - leverkusen",
+      "name": "lilia lemoine",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "u2",
-      "traffic": "500+",
+      "name": "milan",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "dnu 70/23",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "cska sofia - mónaco",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "lech poznań - leverkusen",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "u2",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "union saint-gilloise - real sociedad",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "autopista córdoba - rosario",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "charlie sheen",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "río",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "kylian mbappé",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "movistar",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "crédito",
+      "name": "río",
       "traffic": "500+",
       "rank": 10
     }
