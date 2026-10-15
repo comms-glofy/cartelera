@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-14T23:30:13Z",
+  "updated": "2026-10-15T00:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cerro porteño",
+      "name": "conmebol libertadores",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "francisco comesaña",
-      "traffic": "200+",
+      "name": "fluminense - palmeiras",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "libertadores",
-      "traffic": "500+",
+      "name": "junior",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "inter miami - nyc fc",
-      "traffic": "10000+",
+      "name": "cerro",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "cómo va river",
-      "traffic": "500+",
+      "name": "océano atlántico",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "roldán",
+      "name": "cerro porteño",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "reforma",
+      "name": "francisco comesaña",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "federico sturzenegger",
-      "traffic": "200+",
+      "name": "inter miami - nyc fc",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "sarmiento",
-      "traffic": "5000+",
+      "name": "roldán",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "mineiro",
-      "traffic": "2000+",
+      "name": "federico sturzenegger",
+      "traffic": "500+",
       "rank": 10
     }
   ]
