@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-15T20:00:17Z",
+  "updated": "2026-10-15T20:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fenómeno del niño 2026",
-      "traffic": "500+",
+      "name": "san juan",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "gustavo sáenz.",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "fenómeno del niño 2026",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "tn",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "robertito funes ugarte",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "deuda",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "abel ferreira",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "juventus",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "atalanta - pafos",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "lautaro martínez",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "benfica",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "celta de vigo",
-      "traffic": "200+",
+      "name": "lautaro martínez",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
