@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-15T12:00:16Z",
+  "updated": "2026-10-15T12:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "lali espósito",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "carlos bilardo",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "gaspi",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "norberto di próspero",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "15 de octubre",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "alexander zverev",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "weather",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "paul aron",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "evento de el niño de 2026-2027",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "hilary swank",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "es mi sueño",
+      "name": "evento de el niño de 2026-2027",
       "traffic": "500+",
       "rank": 10
     }
