@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-15T08:30:18Z",
+  "updated": "2026-10-15T09:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lluvia",
-      "traffic": "200+",
+      "name": "sorteo quini 6",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "lluvia",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "atlético nacional - medellín",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "fallecio norberto diprospero",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "europa league",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "marcelo figoli",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "luciana aymar",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pablo giralt",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "posiciones de inter miami contra new york city football club",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "karina mazzocco",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "niño clima",
-      "traffic": "200+",
       "rank": 10
     }
   ]
