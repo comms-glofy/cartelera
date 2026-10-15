@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-15T15:30:17Z",
+  "updated": "2026-10-15T16:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "movistar",
-      "traffic": "500+",
+      "name": "charlie sheen",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "crédito",
-      "traffic": "200+",
+      "name": "autopista córdoba - rosario",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "leonardo simons",
+      "name": "río",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "islas malvinas",
-      "traffic": "500+",
+      "name": "kylian mbappé",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "la voz",
-      "traffic": "500+",
+      "name": "movistar",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "lisandro martínez",
+      "name": "crédito",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "granizo",
-      "traffic": "5000+",
+      "name": "leonardo simons",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "allanamiento",
-      "traffic": "500+",
+      "name": "la voz",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "poder judicial de san juan",
-      "traffic": "200+",
+      "name": "islas malvinas",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "rafael camara",
-      "traffic": "500+",
+      "name": "lisandro martínez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
