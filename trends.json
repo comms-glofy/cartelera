@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-15T11:00:15Z",
+  "updated": "2026-10-15T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "15 de octubre",
-      "traffic": "100+",
+      "name": "marco trungelliti",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alexander zverev",
+      "name": "norberto di próspero",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "weather",
-      "traffic": "500+",
+      "name": "15 de octubre",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "paul aron",
-      "traffic": "200+",
+      "name": "alexander zverev",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "evento de el niño de 2026-2027",
+      "name": "weather",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "hilary swank",
-      "traffic": "100+",
+      "name": "paul aron",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "es mi sueño",
-      "traffic": "200+",
+      "name": "evento de el niño de 2026-2027",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "hilary swank",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "es mi sueño",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "nicolás otamendi",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "marianne von gierke",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "altura de los rios",
-      "traffic": "200+",
       "rank": 10
     }
   ]
