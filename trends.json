@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T23:00:15Z",
+  "updated": "2026-10-16T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "línea mitre",
-      "traffic": "200+",
+      "name": "lo dejamos aca",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mirassol - internacional",
-      "traffic": "500+",
+      "name": "entradas u2 argentina",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "auto tesla roadster",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "línea mitre",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "mirassol - internacional",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "instituto hoy",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "wanda",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "ferrocarril",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "maratón",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "deportivo recoleta - rubio ñu",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "superávit económico",
-      "traffic": "200+",
+      "name": "ferrocarril",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "niñera",
+      "name": "posiciones de deportivo la coruña contra levante ud",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "juan sebastián verón",
-      "traffic": "500+",
+      "name": "maratón",
+      "traffic": "100+",
       "rank": 10
     }
   ]
