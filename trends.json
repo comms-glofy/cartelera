@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T06:30:13Z",
+  "updated": "2026-10-16T07:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "gaston gaudio",
-      "traffic": "2000+",
+      "name": "gaudio",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "gaston gaudio",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "freitas",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tucu correa",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "juan sebastián verón",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "estambul",
+      "name": "juan sebastián verón",
       "traffic": "500+",
       "rank": 10
     }
