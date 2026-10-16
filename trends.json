@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T17:30:16Z",
+  "updated": "2026-10-16T18:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nasa",
+      "name": "jana maradona",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rodolfo sancho",
-      "traffic": "100+",
+      "name": "dalila",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gremio",
+      "name": "nasa",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lourdes sánchez",
-      "traffic": "200+",
+      "name": "rodolfo sancho",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "ian lucas",
-      "traffic": "500+",
+      "name": "gremio",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "lourdes sánchez",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "ian lucas",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "río paraná",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "cascada",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "flybondi",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "salario",
-      "traffic": "200+",
+      "name": "cascada",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "juan román riquelme",
-      "traffic": "200+",
+      "name": "flybondi",
+      "traffic": "500+",
       "rank": 10
     }
   ]
