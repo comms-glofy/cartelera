@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-16T06:05:25Z",
+  "updated": "2026-10-16T06:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dodgers - brewers",
+      "name": "character ai",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "dodgers - brewers",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "mlb",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "la masacre de flores",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "contrabando",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "gaudio",
-      "traffic": "500+",
       "rank": 5
     },
     {
       "name": "gaston gaudio",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 6
     },
     {
