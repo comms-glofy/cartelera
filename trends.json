@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T19:00:20Z",
+  "updated": "2026-10-16T19:30:04Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "katie zacharia",
+      "name": "frankfurt fc",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "eliana guercio",
-      "traffic": "200+",
+      "name": "maxi lópez",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "frosinone - sassuolo",
+      "name": "katie zacharia",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "deportivo - levante",
-      "traffic": "500+",
+      "name": "eliana guercio",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "grand theft auto vi",
+      "name": "frosinone - sassuolo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "jimena monteverde",
-      "traffic": "200+",
+      "name": "deportivo - levante",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "federico sturzenegger",
+      "name": "grand theft auto vi",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jana maradona",
-      "traffic": "500+",
+      "name": "jimena monteverde",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "dalila",
-      "traffic": "200+",
+      "name": "federico sturzenegger",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nasa",
-      "traffic": "200+",
+      "name": "jana maradona",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
