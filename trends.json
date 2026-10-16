@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T00:30:12Z",
+  "updated": "2026-10-16T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estudiantes - flamengo",
-      "traffic": "20000+",
+      "name": "guido carrillo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pakistán",
-      "traffic": "100+",
+      "name": "ramiro funes mori",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "matías rosso",
+      "name": "edlp",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "steven soderbergh",
+      "name": "loteria nacional nocturna",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tenis",
-      "traffic": "200+",
+      "name": "estudiantes - flamengo",
+      "traffic": "50000+",
       "rank": 5
     },
     {
-      "name": "luck ra",
-      "traffic": "2000+",
+      "name": "pakistán",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "ramon diaz",
-      "traffic": "1000+",
+      "name": "matías rosso",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "mercado cambiario",
-      "traffic": "1000+",
+      "name": "steven soderbergh",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juicio",
+      "name": "tenis",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "huracán - gimnasia",
-      "traffic": "20000+",
+      "name": "luck ra",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
