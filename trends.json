@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T15:00:18Z",
+  "updated": "2026-10-16T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "pedro alfonso",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "dólar hoy",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "marco trungelliti",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "isabel allende",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ezequiel pérez companc",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "di prospero norberto",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "dia del jefe",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "yate",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "santiago bausili",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "apagón eléctrico",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "daniil medvédev",
-      "traffic": "500+",
       "rank": 10
     }
   ]
