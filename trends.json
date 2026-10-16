@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T19:30:04Z",
+  "updated": "2026-10-16T20:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "frankfurt fc",
-      "traffic": "100+",
+      "name": "casciari",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "maxi lópez",
+      "name": "sassuolo",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "katie zacharia",
-      "traffic": "200+",
+      "name": "ariel lijo",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "eliana guercio",
+      "name": "maría fernanda callejón",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "frosinone - sassuolo",
+      "name": "club atlético rosario central",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "deportivo - levante",
-      "traffic": "500+",
+      "name": "frankfurt fc",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "grand theft auto vi",
+      "name": "maxi lópez",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jimena monteverde",
+      "name": "katie zacharia",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "federico sturzenegger",
+      "name": "frosinone - sassuolo",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "jana maradona",
-      "traffic": "1000+",
+      "name": "eliana guercio",
+      "traffic": "200+",
       "rank": 10
     }
   ]
