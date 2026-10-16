@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-16T14:00:18Z",
+  "updated": "2026-10-16T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "di prospero norberto",
-      "traffic": "500+",
+      "name": "ezequiel pérez companc",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "dia del jefe",
-      "traffic": "200+",
+      "name": "di prospero norberto",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "dia del jefe",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "yate",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "santiago bausili",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "apagón eléctrico",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "daniil medvédev",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "islas malvinas (falkland islands)",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fernando confessore",
       "traffic": "100000+",
-      "rank": 8
-    },
-    {
-      "name": "vozinha",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "club atlético güemes",
+      "name": "vozinha",
       "traffic": "500+",
       "rank": 10
     }
