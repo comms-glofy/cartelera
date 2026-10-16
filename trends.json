@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T04:00:18Z",
+  "updated": "2026-10-16T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "mlb",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "gaudio",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
       "name": "gaston gaudio",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "freitas",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "tucu correa",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "juan sebastián verón",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "estambul",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "hoy esta masterchef",
+      "traffic": "200+",
       "rank": 10
     }
   ]
