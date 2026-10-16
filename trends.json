@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T20:00:17Z",
+  "updated": "2026-10-16T20:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "casciari",
-      "traffic": "200+",
+      "name": "impuesto",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "casciari",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "sassuolo",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ariel lijo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "maría fernanda callejón",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "club atlético rosario central",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "frankfurt fc",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "maxi lópez",
+      "name": "frankfurt fc",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "katie zacharia",
+      "name": "maxi lópez",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "frosinone - sassuolo",
-      "traffic": "500+",
+      "name": "katie zacharia",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "eliana guercio",
-      "traffic": "200+",
+      "name": "frosinone - sassuolo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
