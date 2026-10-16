@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-16T15:30:17Z",
+  "updated": "2026-10-16T15:59:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "pedro alfonso",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "marco trungelliti",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "ezequiel pérez companc",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "dia del jefe",
+      "name": "obra social",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "yate",
-      "traffic": "200+",
+      "name": "dia del jefe",
+      "traffic": "500+",
       "rank": 8
+    },
+    {
+      "name": "yate",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "santiago bausili",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "apagón eléctrico",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
