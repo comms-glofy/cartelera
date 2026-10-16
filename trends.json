@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T09:30:15Z",
+  "updated": "2026-10-16T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "weather tomorrow",
-      "traffic": "100+",
+      "name": "aguinaldo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "character ai",
+      "name": "premio",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dodgers - brewers",
+      "name": "tiempo en cordoba",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "weather tomorrow",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "character ai",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "dodgers - brewers",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "mlb",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "la masacre de flores",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "contrabando",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "gaston gaudio",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "freitas",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tucu correa",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "juan sebastián verón",
-      "traffic": "500+",
       "rank": 10
     }
   ]
