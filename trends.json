@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T18:00:14Z",
+  "updated": "2026-10-16T18:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jana maradona",
-      "traffic": "100+",
+      "name": "jimena monteverde",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "dalila",
+      "name": "federico sturzenegger",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nasa",
+      "name": "jana maradona",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rodolfo sancho",
-      "traffic": "100+",
+      "name": "dalila",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gremio",
+      "name": "nasa",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "rodolfo sancho",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "gremio",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "lourdes sánchez",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ian lucas",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "río paraná",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "cascada",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "flybondi",
-      "traffic": "500+",
+      "name": "río paraná",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
