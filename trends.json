@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T03:00:16Z",
+  "updated": "2026-10-16T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "masacre de flores",
-      "traffic": "500+",
+      "name": "dodgers - brewers",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "contrabando",
+      "name": "mlb",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gaudio",
-      "traffic": "500+",
+      "name": "la masacre de flores",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "gaston gaudio",
-      "traffic": "1000+",
+      "name": "gastón gaudio",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "freitas",
+      "name": "contrabando",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "estudiante de la plata",
-      "traffic": "100+",
+      "name": "gaston gaudio",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "freitas",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "tucu correa",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "juan sebastián verón",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "estambul",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "hoy esta masterchef",
-      "traffic": "200+",
       "rank": 10
     }
   ]
