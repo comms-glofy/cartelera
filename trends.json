@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T12:00:15Z",
+  "updated": "2026-10-16T12:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "yate",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "santiago bausili",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "apagón eléctrico",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "daniil medvédev",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "islas malvinas (falkland islands)",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "fernando confessore",
-      "traffic": "50000+",
-      "rank": 4
+      "traffic": "100000+",
+      "rank": 6
     },
     {
       "name": "vozinha",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "club atlético güemes",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "altura de los rios",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "aguinaldo",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "premio",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "tiempo en cordoba",
-      "traffic": "100+",
       "rank": 10
     }
   ]
