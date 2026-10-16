@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T12:30:17Z",
+  "updated": "2026-10-16T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "apagón eléctrico",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "islas malvinas (falkland islands)",
+      "name": "fernando confessore esposa e hijos",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "islas malvinas (falkland islands)",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "fernando confessore",
       "traffic": "100000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "vozinha",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "club atlético güemes",
-      "traffic": "200+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "altura de los rios",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "aguinaldo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
