@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T11:00:16Z",
+  "updated": "2026-10-16T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "daniil medvédev",
+      "name": "apagón eléctrico",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "apagón eléctrico",
+      "name": "daniil medvédev",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tn en vivo ahora",
+      "name": "islas malvinas (falkland islands)",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "islas malvinas (falkland islands)",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "murió marcelo decall",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
       "name": "fernando confessore",
-      "traffic": "20000+",
-      "rank": 6
+      "traffic": "50000+",
+      "rank": 4
     },
     {
       "name": "club atlético güemes",
       "traffic": "200+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "vozinha",
       "traffic": "200+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "aguinaldo",
       "traffic": "200+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "premio",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "tiempo en cordoba",
+      "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "weather tomorrow",
+      "traffic": "100+",
       "rank": 10
     }
   ]
