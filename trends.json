@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T13:30:13Z",
+  "updated": "2026-10-17T14:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brentford - liverpool",
-      "traffic": "200+",
+      "name": "sequía",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "manchester city - ipswich",
-      "traffic": "2000+",
+      "name": "atletico madrid",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "dibu martinez",
+      "name": "villarreal - elche c. f.",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "napoli",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "brentford - liverpool",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "manchester city - ipswich",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "dibu martinez",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "prisión",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "economía",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "venezia - napoli",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "gençlerbirliği - galatasaray",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "jodar",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ana del reino unido",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "dia de la lealtad",
-      "traffic": "100+",
+      "name": "venezia - napoli",
+      "traffic": "500+",
       "rank": 10
     }
   ]
