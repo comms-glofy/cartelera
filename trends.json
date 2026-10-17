@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-17T00:30:15Z",
+  "updated": "2026-10-17T00:39:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "internacional",
+      "name": "loteria nacional",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "loteria nacional nocturna",
-      "traffic": "1000+",
+      "name": "sport recife - fortaleza",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "loteria nacional nocturna de hoy",
-      "traffic": "200+",
+      "name": "internacional",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "loteria nacional nocturna",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "tabla anual de la liga argentina",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "la cocina rebelde",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "atlético rafaela - quilmes",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "boca juniors - talleres",
-      "traffic": "50000+",
-      "rank": 7
+      "traffic": "100000+",
+      "rank": 8
     },
     {
       "name": "eugenia quevedo dr. psiquiatra - la pollera amarilla (en vivo)",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "quiniela de tucumán",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "lo dejamos aca",
+      "name": "quiniela de tucumán",
       "traffic": "500+",
       "rank": 10
     }
