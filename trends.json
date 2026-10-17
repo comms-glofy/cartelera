@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-17T23:17:30Z",
+  "updated": "2026-10-17T23:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "nelson piquet",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "nyc fc - lafc",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "culturismo",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "eminem",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "portillo",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "puente",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "posiciones de independiente rivadavia contra club atlético tigre",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "atlanta united - inter miami",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "accidente",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "bitcoin",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "olimpia",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "club atlético san martín",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "estados unidos",
+      "name": "bitcoin",
       "traffic": "200+",
       "rank": 10
     }
