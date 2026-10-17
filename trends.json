@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T14:00:14Z",
+  "updated": "2026-10-17T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sequía",
+      "name": "fulham - hull city",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "atletico madrid",
-      "traffic": "500+",
+      "name": "julián alvarez",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "villarreal - elche c. f.",
-      "traffic": "200+",
+      "name": "sv elversberg - augsburgo",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "napoli",
-      "traffic": "200+",
+      "name": "quiniela chaqueña",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "brentford - liverpool",
-      "traffic": "1000+",
+      "name": "rcd espanyol vs. atlético madrid",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "sequía",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "villarreal - elche c. f.",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "atletico madrid",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "brentford - liverpool",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "manchester city - ipswich",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "dibu martinez",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "prisión",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "economía",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "venezia - napoli",
-      "traffic": "500+",
       "rank": 10
     }
   ]
