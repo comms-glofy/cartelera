@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T17:00:15Z",
+  "updated": "2026-10-17T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter vs",
-      "traffic": "200+",
+      "name": "chacarita - deportivo maipú",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "repartidor",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "valeria mazza",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "inter vs",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "barcelona vs",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "enzo fernández",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "posiciones de brentford contra liverpool fc",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "inter milan",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "psv",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "fenómeno",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "psg vs",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "city",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "leonardo ponzio",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "city vs",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "real betis - barcelona",
-      "traffic": "20000+",
+      "name": "fenómeno",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
