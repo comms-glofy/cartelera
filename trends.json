@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-17T21:22:17Z",
+  "updated": "2026-10-17T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santi castro",
+      "name": "river vs belgrano",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "atlético mineiro - coritiba",
-      "traffic": "200+",
+      "name": "santi castro",
+      "traffic": "100+",
       "rank": 2
     },
     {
       "name": "luciana salazar",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "atlético mineiro - coritiba",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "jack doohan",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "juan carlos diez",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "valencia cf",
-      "traffic": "100+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "agostina páez",
-      "traffic": "200+",
+      "name": "valencia cf",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "lille vs",
-      "traffic": "100+",
+      "name": "agostina páez",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "colón - almirante brown",
-      "traffic": "2000+",
+      "name": "orsai",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
