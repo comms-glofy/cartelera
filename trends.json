@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T16:33:51Z",
+  "updated": "2026-10-17T17:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "psv",
-      "traffic": "100+",
+      "name": "inter vs",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fenómeno",
-      "traffic": "1000+",
+      "name": "valeria mazza",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "psg vs",
+      "name": "enzo fernández",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "aston villa",
-      "traffic": "200+",
+      "name": "psv",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "man city",
-      "traffic": "200+",
+      "name": "fenómeno",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "city",
+      "name": "psg vs",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "leonardo ponzio",
-      "traffic": "200+",
+      "name": "city",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "leonardo ponzio",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "city vs",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "real betis - barcelona",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "bayern - rb leipzig",
-      "traffic": "1000+",
+      "name": "real betis - barcelona",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
