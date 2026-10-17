@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T09:00:14Z",
+  "updated": "2026-10-17T09:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "australia - nueva zelanda",
-      "traffic": "500+",
+      "name": "alexander zverev",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nba",
-      "traffic": "200+",
+      "name": "weather tomorrow",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tamara paganini",
+      "name": "australia - nueva zelanda",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "atlante - pumas",
+      "name": "nba",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "tamara paganini",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "atlante - pumas",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "tijuana - puebla",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "17 de octubre dia de la lealtad",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "mujer",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "posiciones de gimnasia y tiro de salta contra club atlético atlanta",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "17 de octubre",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "dia de la lealtad peronista",
-      "traffic": "200+",
       "rank": 10
     }
   ]
