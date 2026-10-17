@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T11:00:14Z",
+  "updated": "2026-10-17T11:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "everton - chelsea",
-      "traffic": "500+",
+      "name": "rcd espanyol - atlético madrid",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "meteored",
-      "traffic": "200+",
+      "name": "atp shanghai",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "amalia granata",
-      "traffic": "200+",
+      "name": "everton - chelsea",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "alexander zverev",
-      "traffic": "1000+",
+      "name": "meteored",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "decreto",
+      "name": "camionero",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "amalia granata",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "alexander zverev",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "decreto",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "condena",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "dolar hoy binance",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "weather tomorrow",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "australia - nueva zelanda",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "nba",
-      "traffic": "200+",
       "rank": 10
     }
   ]
