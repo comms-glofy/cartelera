@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-16T23:30:14Z",
+  "updated": "2026-10-17T00:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lo dejamos aca",
-      "traffic": "100+",
+      "name": "atlético rafaela - quilmes",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "boca juniors - talleres",
+      "traffic": "20000+",
+      "rank": 2
+    },
+    {
+      "name": "quiniela de tucumán",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "eugenia quevedo dr. psiquiatra - la pollera amarilla (en vivo)",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "lo dejamos aca",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "entradas u2 argentina",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "auto tesla roadster",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "línea mitre",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "mirassol - internacional",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "instituto hoy",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "wanda",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "ferrocarril",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "posiciones de deportivo la coruña contra levante ud",
-      "traffic": "200+",
+      "name": "mirassol - internacional",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "maratón",
-      "traffic": "100+",
+      "name": "instituto hoy",
+      "traffic": "500+",
       "rank": 10
     }
   ]
