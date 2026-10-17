@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T17:30:14Z",
+  "updated": "2026-10-17T18:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chacarita - deportivo maipú",
-      "traffic": "500+",
+      "name": "ganado vacuno",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "repartidor",
+      "name": "barcelona vs betis",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "valeria mazza",
-      "traffic": "200+",
+      "name": "banfield - argentinos jrs.",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "inter vs",
-      "traffic": "200+",
+      "name": "chacarita - deportivo maipú",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "barcelona vs",
-      "traffic": "2000+",
+      "name": "repartidor",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "enzo fernández",
-      "traffic": "1000+",
+      "name": "real betis vs. barcelona",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "posiciones de brentford contra liverpool fc",
-      "traffic": "1000+",
+      "name": "inter vs",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "inter milan",
+      "name": "valeria mazza",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "psv",
-      "traffic": "100+",
+      "name": "barcelona vs",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "fenómeno",
-      "traffic": "2000+",
+      "name": "enzo fernández",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
