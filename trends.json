@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T22:00:13Z",
+  "updated": "2026-10-17T22:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aucas - ldu quito",
-      "traffic": "200+",
+      "name": "atlético tucumán - rosario central",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "posiciones de valencia c. f. contra athletic club",
+      "name": "vélez - gimnasia y esgrima",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "limoges",
+      "name": "hyron andrews",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "belgrano vs river",
+      "name": "racing independiente",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "colon hoy",
-      "traffic": "200+",
+      "name": "alud",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "juan carlos díez",
-      "traffic": "1000+",
+      "name": "secuestro",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "santo tomé",
+      "name": "leonardo simons",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "copa argentina",
-      "traffic": "500+",
+      "name": "quiniela hoy",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "posiciones de club atlético san miguel contra club ciudad de bolívar fútbol",
-      "traffic": "2000+",
+      "name": "neymar",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "luciana salazar",
-      "traffic": "500+",
+      "name": "francisco comesaña",
+      "traffic": "200+",
       "rank": 10
     }
   ]
