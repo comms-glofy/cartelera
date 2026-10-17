@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T16:30:14Z",
+  "updated": "2026-10-17T16:33:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fenómeno",
-      "traffic": "500+",
+      "name": "psv",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "psg vs",
-      "traffic": "200+",
+      "name": "fenómeno",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "psg vs",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "aston villa",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "man city",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "city",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "leonardo ponzio",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "city vs",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "real betis - barcelona",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "bayern - rb leipzig",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "newcastle - aston villa",
-      "traffic": "500+",
       "rank": 10
     }
   ]
