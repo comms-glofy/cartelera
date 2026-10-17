@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T19:30:13Z",
+  "updated": "2026-10-17T20:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tristán suárez - patronato",
-      "traffic": "200+",
+      "name": "club atlético tucumán",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "losc - stade brestois",
+      "name": "paris",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "real madrid - espanyol",
+      "name": "copa santa fe",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tomás aranda",
-      "traffic": "200+",
+      "name": "tristán suárez - patronato",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "álvaro montero",
+      "name": "roma",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "frío",
-      "traffic": "500+",
+      "name": "losc - stade brestois",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "roma fc",
-      "traffic": "1000+",
+      "name": "real madrid - espanyol",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "lille",
+      "name": "tomás aranda",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "excursionistas",
-      "traffic": "100+",
+      "name": "frío",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "red bull tv",
-      "traffic": "100+",
+      "name": "roma vs",
+      "traffic": "500+",
       "rank": 10
     }
   ]
