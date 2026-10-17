@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T15:30:14Z",
+  "updated": "2026-10-17T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bolonia - inter",
-      "traffic": "200+",
+      "name": "real betis - barcelona",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "bayern - rb leipzig",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "newcastle - aston villa",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "inundación",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "ligue 1",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "wrexham - preston",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "isabel allende",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "bolonia - inter",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "liverpool vs",
       "traffic": "200+",
-      "rank": 2
+      "rank": 9
     },
     {
       "name": "emiliano sordi",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "man city vs ipswich town",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "swansea - west ham",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "manchester city vs",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "napoli vs",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "fulham - hull city",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de rcd espanyol de barcelona contra atlético de madrid",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "sv elversberg - augsburgo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
