@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T10:30:12Z",
+  "updated": "2026-10-17T11:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "meteored",
-      "traffic": "200+",
+      "name": "everton - chelsea",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "amalia granata",
-      "traffic": "100+",
+      "name": "meteored",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "alexander zverev",
-      "traffic": "500+",
+      "name": "amalia granata",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "alexander zverev",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "decreto",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "condena",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "dolar hoy binance",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "weather tomorrow",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "australia - nueva zelanda",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "nba",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "tamara paganini",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
