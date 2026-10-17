@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T10:00:15Z",
+  "updated": "2026-10-17T10:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "amalia granata",
-      "traffic": "100+",
+      "name": "meteored",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alexander zverev",
-      "traffic": "200+",
+      "name": "amalia granata",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "alexander zverev",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "decreto",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "condena",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "dolar hoy binance",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "weather tomorrow",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "australia - nueva zelanda",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nba",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "tamara paganini",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "atlante - pumas",
-      "traffic": "200+",
+      "name": "tamara paganini",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
