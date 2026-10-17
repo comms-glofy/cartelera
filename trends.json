@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T04:00:14Z",
+  "updated": "2026-10-17T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlante - pumas",
-      "traffic": "100+",
+      "name": "tamara paganini",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "atlante - pumas",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "tijuana - puebla",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "17 de octubre dia de la lealtad",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mujer",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "dia de la lealtad peronista",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "17 de octubre",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tuenti",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "boca juniors vs talleres de cordoba standings",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "omar de felippe",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "promedios",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "tabla anual argentina",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
