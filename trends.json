@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T03:30:14Z",
+  "updated": "2026-10-17T04:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia de la lealtad peronista",
+      "name": "atlante - pumas",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "17 de octubre",
+      "name": "tijuana - puebla",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tuenti",
-      "traffic": "200+",
+      "name": "17 de octubre dia de la lealtad",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "como salio boca hoy",
+      "name": "mujer",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "kick",
-      "traffic": "1000+",
+      "name": "dia de la lealtad peronista",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "omar de felippe",
+      "name": "17 de octubre",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "tuenti",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "omar de felippe",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "promedios",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "tabla anual argentina",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "juan minujin",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "independiente rivadavia vs",
-      "traffic": "200+",
       "rank": 10
     }
   ]
