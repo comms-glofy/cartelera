@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T11:30:18Z",
+  "updated": "2026-10-17T12:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rcd espanyol - atlético madrid",
-      "traffic": "1000+",
+      "name": "oregon",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "atp shanghai",
+      "name": "juan grabois",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "everton - chelsea",
-      "traffic": "2000+",
+      "name": "rafael jódar",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "meteored",
-      "traffic": "500+",
+      "name": "rcd espanyol - atlético madrid",
+      "traffic": "2000+",
       "rank": 4
+    },
+    {
+      "name": "everton - chelsea",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "meteored",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "camionero",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "amalia granata",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "alexander zverev",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "decreto",
-      "traffic": "200+",
+      "name": "amalia granata",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "condena",
+      "name": "alexander zverev",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "dolar hoy binance",
-      "traffic": "100+",
+      "name": "decreto",
+      "traffic": "200+",
       "rank": 10
     }
   ]
