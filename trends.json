@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T12:00:14Z",
+  "updated": "2026-10-17T12:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "oregon",
+      "name": "iga świątek",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "juan grabois",
+      "name": "puerto iguazú",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rafael jódar",
-      "traffic": "100+",
+      "name": "chelsea vs",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rcd espanyol - atlético madrid",
-      "traffic": "2000+",
+      "name": "darío barassi",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "everton - chelsea",
-      "traffic": "2000+",
+      "name": "oregon",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "meteored",
-      "traffic": "1000+",
+      "name": "video de flores boca",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "camionero",
+      "name": "juan grabois",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "amalia granata",
-      "traffic": "500+",
+      "name": "rafael jódar",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "alexander zverev",
-      "traffic": "2000+",
+      "name": "rcd espanyol - atlético madrid",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "decreto",
-      "traffic": "200+",
+      "name": "everton - chelsea",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
