@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T20:00:13Z",
+  "updated": "2026-10-17T20:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tabla anual 2026",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "platense - lanús",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "independiente rivadavia - tigre",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "feyenoord",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "club atlético tucumán",
       "traffic": "500+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "paris",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "copa santa fe",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "tristán suárez - patronato",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "roma",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "losc - stade brestois",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "real madrid - espanyol",
-      "traffic": "100+",
+      "name": "copa santa fe",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tomás aranda",
-      "traffic": "200+",
+      "name": "tristán suárez - patronato",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "frío",
+      "name": "roma",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "roma vs",
-      "traffic": "500+",
+      "name": "losc - stade brestois",
+      "traffic": "200+",
       "rank": 10
     }
   ]
