@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T15:00:17Z",
+  "updated": "2026-10-17T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester city vs",
+      "name": "bolonia - inter",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "napoli vs",
+      "name": "liverpool vs",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fulham - hull city",
-      "traffic": "200+",
+      "name": "emiliano sordi",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "posiciones de rcd espanyol de barcelona contra atlético de madrid",
-      "traffic": "5000+",
+      "name": "man city vs ipswich town",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "julián alvarez",
-      "traffic": "1000+",
+      "name": "swansea - west ham",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sv elversberg - augsburgo",
+      "name": "manchester city vs",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "quiniela chaqueña",
-      "traffic": "100+",
+      "name": "napoli vs",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sequía",
-      "traffic": "200+",
+      "name": "fulham - hull city",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "villarreal - elche c. f.",
-      "traffic": "500+",
+      "name": "posiciones de rcd espanyol de barcelona contra atlético de madrid",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "brentford - liverpool",
-      "traffic": "5000+",
+      "name": "sv elversberg - augsburgo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
