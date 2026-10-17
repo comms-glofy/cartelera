@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-17T01:00:17Z",
+  "updated": "2026-10-17T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia y tiro de salta - atlanta",
-      "traffic": "200+",
+      "name": "pipino cuevas",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "miguel merentiel",
-      "traffic": "200+",
+      "name": "pelota",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "quiniela de hoy nocturna",
+      "name": "boc",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rodrigo battaglia",
-      "traffic": "200+",
+      "name": "gimnasia y tiro de salta - atlanta",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "loteria nacional",
+      "name": "quiniela de hoy nocturna",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "sport recife - fortaleza",
-      "traffic": "100+",
+      "name": "rodrigo battaglia",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "internacional",
+      "name": "sport recife - fortaleza",
       "traffic": "100+",
       "rank": 7
     },
     {
+      "name": "internacional",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "loteria nacional nocturna",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tabla anual de la liga argentina",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "la cocina rebelde",
-      "traffic": "500+",
       "rank": 10
     }
   ]
