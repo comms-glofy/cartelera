@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T09:30:16Z",
+  "updated": "2026-10-18T10:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "camionero",
-      "traffic": "1000+",
+      "name": "periodista",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rafael jódar",
-      "traffic": "500+",
+      "name": "alejandro davidovich fokina",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "twitch",
-      "traffic": "200+",
+      "name": "allanamiento",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "casa rosada",
+      "name": "camionero",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "día de la madre argentina",
-      "traffic": "2000+",
+      "name": "rafael jódar",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "cruz azul - juárez",
+      "name": "twitch",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "día de la madre",
-      "traffic": "20000+",
+      "name": "casa rosada",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "hora",
+      "name": "cruz azul - juárez",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "rafaela",
-      "traffic": "5000+",
+      "name": "día de la madre",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "torneo federal a",
-      "traffic": "100+",
+      "name": "hora",
+      "traffic": "200+",
       "rank": 10
     }
   ]
