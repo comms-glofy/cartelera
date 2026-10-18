@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-18T10:30:14Z",
+  "updated": "2026-10-18T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "periodista",
-      "traffic": "200+",
+      "name": "real sociedad - barcelona",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "allanamiento",
+      "name": "atp shanghai",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "camionero",
-      "traffic": "1000+",
+      "name": "la nación",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "caiman",
-      "traffic": "100+",
+      "name": "periodista",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "rafael jódar",
+      "name": "jodar",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "twitch",
-      "traffic": "200+",
+      "name": "alejandro davidovich fokina",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "casa rosada",
-      "traffic": "1000+",
+      "name": "allanamiento",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "cruz azul - juárez",
-      "traffic": "200+",
+      "name": "camionero",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "día de la madre",
-      "traffic": "20000+",
+      "name": "caiman",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "hora",
+      "name": "twitch",
       "traffic": "200+",
       "rank": 10
     }
