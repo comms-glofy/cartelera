@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T18:00:14Z",
+  "updated": "2026-10-18T18:14:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lua blanco",
-      "traffic": "100+",
+      "name": "juventus - lazio",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "berisso",
-      "traffic": "100+",
+      "name": "kranevitter",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "racing - independiente",
-      "traffic": "100000+",
+      "name": "nueva chicago - gimnasia jujuy",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sacerdote",
-      "traffic": "200+",
+      "name": "sporting cristal - comerciantes unidos",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "arsenal fc",
-      "traffic": "500+",
+      "name": "sebastian fundora",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "boca river",
-      "traffic": "200+",
+      "name": "boca vs river",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "monaco vs",
-      "traffic": "200+",
+      "name": "lua blanco",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "posiciones de celta de vigo contra alavés",
+      "name": "berisso",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "partidos hoy",
-      "traffic": "200+",
+      "name": "racing - independiente",
+      "traffic": "100000+",
       "rank": 9
     },
     {
-      "name": "milan vs",
-      "traffic": "100+",
+      "name": "sacerdote",
+      "traffic": "500+",
       "rank": 10
     }
   ]
