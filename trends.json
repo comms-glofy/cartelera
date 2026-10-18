@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T14:30:13Z",
+  "updated": "2026-10-18T15:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "serie a",
-      "traffic": "200+",
+      "name": "nottingham forest - arsenal",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "bayer leverkusen",
-      "traffic": "200+",
+      "name": "gran premio de los estados unidos",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "peaje",
+      "name": "leeds",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "fiorentina vs",
+      "name": "serie a",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "celta de vigo - alavés",
+      "name": "bayer leverkusen",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "peaje",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "fiorentina vs",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "celta de vigo - alavés",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "horóscopo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "liga italiana",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "epicentro",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "osasuna",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "manchester united",
-      "traffic": "500+",
       "rank": 10
     }
   ]
