@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-18T05:30:14Z",
+  "updated": "2026-10-18T06:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "avalancha chile",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "posiciones de club león contra club américa",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "casa rosada",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "día de la madre argentina",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "suspenso psicológico",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "cruz azul - juárez",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "cuando es el día de la madre",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "día de la madre",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "hora",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "mike malott",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "torneo federal a",
+      "name": "mike malott",
       "traffic": "100+",
       "rank": 10
     }
