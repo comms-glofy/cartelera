@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T00:30:13Z",
+  "updated": "2026-10-18T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela nocturna de mendoza",
-      "traffic": "200+",
+      "name": "puente dorrego",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "loteria nacional nocturna",
-      "traffic": "10000+",
+      "name": "vehículo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "quiniela de hoy nocturna",
-      "traffic": "500+",
+      "name": "lo dejamos aca pelicula",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "camioneta",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "resultado de la quiniela",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "primera división de paraguay",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "quiniela nocturna de mendoza",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "loteria nacional nocturna",
+      "traffic": "20000+",
+      "rank": 8
     },
     {
       "name": "apple tv",
       "traffic": "200+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "guadalajara - tigres",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "árbitro",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "são paulo - vasco da gama",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "orlando city - dc united",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "nelson piquet",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "nyc fc - lafc",
-      "traffic": "500+",
       "rank": 10
     }
   ]
