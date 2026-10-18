@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-18T11:00:16Z",
+  "updated": "2026-10-18T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "real sociedad - barcelona",
+      "name": "dia de la madre 2026",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "atp shanghai",
-      "traffic": "200+",
+      "name": "santiago bausili",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "real sociedad - barcelona",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "la nación",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "maxi lópez",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "periodista",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "jodar",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "alejandro davidovich fokina",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "allanamiento",
-      "traffic": "500+",
+      "name": "alejandro davidovich fokina",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "camionero",
+      "name": "allanamiento",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "caiman",
-      "traffic": "100+",
+      "name": "camionero",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "twitch",
+      "name": "caiman",
       "traffic": "200+",
       "rank": 10
     }
