@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T19:30:13Z",
+  "updated": "2026-10-18T20:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rush",
-      "traffic": "100+",
+      "name": "chaco for ever - central norte",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "maxi meza",
-      "traffic": "1000+",
+      "name": "juventus vs",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "necochea",
-      "traffic": "100+",
+      "name": "real madrid vs",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "olimpo",
-      "traffic": "1000+",
+      "name": "rush",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lpf",
-      "traffic": "1000+",
+      "name": "posiciones de málaga cf contra real sociedad",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "san martin de formosa",
+      "name": "necochea",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "olimpo",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "san martin de formosa",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "stella banderas",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "ferro - racing de córdoba",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "real madrid vs sevilla",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "lyon - niza",
-      "traffic": "200+",
       "rank": 10
     }
   ]
