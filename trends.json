@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T13:30:13Z",
+  "updated": "2026-10-18T14:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brighton",
-      "traffic": "100+",
+      "name": "manchester united",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "nayib bukele",
-      "traffic": "200+",
+      "name": "como",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "bournemouth - sunderland afc",
-      "traffic": "200+",
+      "name": "deuda",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "fiorentina",
+      "name": "el destape",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "inflación",
-      "traffic": "100+",
+      "name": "brighton",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "nayib bukele",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "bournemouth - sunderland afc",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "fiorentina",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "inflación",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "wuhan open",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "osasuna - racing de santander",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "maja chwalińska",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "fiorentina - como",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "brighton - crystal palace",
-      "traffic": "500+",
       "rank": 10
     }
   ]
