@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-18T13:00:15Z",
+  "updated": "2026-10-18T13:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bournemouth - sunderland afc",
-      "traffic": "200+",
+      "name": "brighton",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "inflación",
-      "traffic": "100+",
+      "name": "nayib bukele",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "wuhan open",
-      "traffic": "100+",
+      "name": "bournemouth - sunderland afc",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "osasuna - racing de santander",
-      "traffic": "200+",
+      "name": "inflación",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "fiorentina - como",
-      "traffic": "500+",
+      "name": "wuhan open",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "brighton - crystal palace",
+      "name": "osasuna - racing de santander",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "udinese - lecce",
+      "name": "maja chwalińska",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "leeds - manchester united",
-      "traffic": "2000+",
+      "name": "fiorentina - como",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "marley",
-      "traffic": "100+",
+      "name": "brighton - crystal palace",
+      "traffic": "500+",
       "rank": 10
     }
   ]
