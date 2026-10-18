@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T15:00:14Z",
+  "updated": "2026-10-18T15:18:53Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nottingham forest - arsenal",
-      "traffic": "500+",
+      "name": "premio princesa de asturias de los deportes",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gran premio de los estados unidos",
+      "name": "elecciones generales de brasil de 2026",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "leeds",
-      "traffic": "100+",
+      "name": "liga inglesa",
+      "traffic": "2000+",
       "rank": 3
+    },
+    {
+      "name": "nottingham forest - arsenal",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "gran premio de los estados unidos",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "serie a",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "bayer leverkusen",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "peaje",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "fiorentina vs",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "celta de vigo - alavés",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "horóscopo",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "liga italiana",
-      "traffic": "100+",
+      "name": "celta de vigo - alavés",
+      "traffic": "500+",
       "rank": 10
     }
   ]
