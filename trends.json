@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T23:00:14Z",
+  "updated": "2026-10-18T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "enzo perez",
-      "traffic": "200+",
+      "name": "barbara palvin",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "reforma",
+      "name": "hockey sobre patines",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "belgrano - river plate",
-      "traffic": "20000+",
+      "name": "club atlético san lorenzo de almagro",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "llaneros - santa fe",
-      "traffic": "500+",
+      "name": "amalia diaz guiñazu",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "reino unido",
-      "traffic": "1000+",
+      "name": "adriana lima",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "remo - bragantino",
-      "traffic": "500+",
+      "name": "enzo pérez",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "telekino 2450",
+      "name": "reforma",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sportivo luqueño - sportivo san lorenzo",
-      "traffic": "500+",
+      "name": "belgrano - river plate",
+      "traffic": "100000+",
       "rank": 8
     },
     {
-      "name": "valentina barbier",
-      "traffic": "200+",
+      "name": "llaneros - santa fe",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cincinnati - columbus crew",
-      "traffic": "100+",
+      "name": "encuestas elecciones brasil",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
