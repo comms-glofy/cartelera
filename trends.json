@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T00:00:13Z",
+  "updated": "2026-10-18T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "são paulo - vasco da gama",
-      "traffic": "1000+",
+      "name": "quiniela nocturna de mendoza",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "orlando city - dc united",
-      "traffic": "200+",
+      "name": "loteria nacional nocturna",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "nelson piquet",
-      "traffic": "200+",
+      "name": "quiniela de hoy nocturna",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "nyc fc - lafc",
+      "name": "apple tv",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "eminem",
+      "name": "guadalajara - tigres",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "culturismo",
-      "traffic": "100+",
+      "name": "árbitro",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "portillo",
-      "traffic": "1000+",
+      "name": "são paulo - vasco da gama",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "puente",
+      "name": "orlando city - dc united",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "atlanta united - inter miami",
-      "traffic": "10000+",
+      "name": "nelson piquet",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "posiciones de independiente rivadavia contra club atlético tigre",
-      "traffic": "10000+",
+      "name": "nyc fc - lafc",
+      "traffic": "500+",
       "rank": 10
     }
   ]
