@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-18T10:00:14Z",
+  "updated": "2026-10-18T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "periodista",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alejandro davidovich fokina",
-      "traffic": "100+",
-      "rank": 2
-    },
-    {
       "name": "allanamiento",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "camionero",
       "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "caiman",
+      "traffic": "100+",
       "rank": 4
     },
     {
