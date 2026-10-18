@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T01:00:16Z",
+  "updated": "2026-10-18T01:21:04Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "puente dorrego",
-      "traffic": "500+",
+      "name": "inter miami cf",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "vehículo",
-      "traffic": "200+",
+      "name": "club atlético river plate",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "lo dejamos aca pelicula",
-      "traffic": "100+",
+      "name": "puente dorrego",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "camioneta",
+      "name": "vehículo",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "resultado de la quiniela",
-      "traffic": "500+",
+      "name": "lo dejamos aca pelicula",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "camioneta",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "posiciones de aucas contra liga de quito",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "primera división de paraguay",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "quiniela nocturna de mendoza",
-      "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "loteria nacional nocturna",
       "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "apple tv",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "guadalajara - tigres",
-      "traffic": "100+",
+      "name": "apple tv",
+      "traffic": "500+",
       "rank": 10
     }
   ]
