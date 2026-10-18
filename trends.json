@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T17:30:14Z",
+  "updated": "2026-10-18T18:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing - independiente",
-      "traffic": "50000+",
+      "name": "lua blanco",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sacerdote",
+      "name": "berisso",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "monaco vs",
-      "traffic": "200+",
+      "name": "racing - independiente",
+      "traffic": "100000+",
       "rank": 3
     },
     {
-      "name": "partidos hoy",
+      "name": "sacerdote",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "boca river",
-      "traffic": "100+",
+      "name": "arsenal fc",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "boca river",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "monaco vs",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "posiciones de celta de vigo contra alavés",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "partidos hoy",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "milan vs",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "fútbol americano",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "málaga - real sociedad",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "milan",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "dragon ball super beerus capitulo 2",
-      "traffic": "200+",
       "rank": 10
     }
   ]
