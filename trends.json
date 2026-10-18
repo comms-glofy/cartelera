@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T17:00:14Z",
+  "updated": "2026-10-18T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "monaco vs",
-      "traffic": "100+",
+      "name": "racing - independiente",
+      "traffic": "50000+",
       "rank": 1
+    },
+    {
+      "name": "sacerdote",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "monaco vs",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "partidos hoy",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "boca river",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "milan vs",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "fútbol americano",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "málaga - real sociedad",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "milan",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "groningen - ajax",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "dragon ball super beerus capitulo 2",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "lorient - mónaco",
-      "traffic": "100+",
+      "name": "milan",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nottingham forest",
-      "traffic": "100+",
+      "name": "dragon ball super beerus capitulo 2",
+      "traffic": "200+",
       "rank": 10
     }
   ]
