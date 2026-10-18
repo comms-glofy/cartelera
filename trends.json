@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T21:30:12Z",
+  "updated": "2026-10-18T22:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gendarmería",
+      "name": "juana viale",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "villa mitre",
-      "traffic": "100+",
+      "name": "godoy cruz",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "san martín de tucumán - midland",
-      "traffic": "1000+",
+      "name": "ruta nacional 151",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "barcelona sc - u. católica",
+      "name": "soledad",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "presley gerber",
-      "traffic": "200+",
+      "name": "bucaramanga - américa",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "chiefs - chargers",
+      "name": "yan diomandé",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "argentino de rosario",
-      "traffic": "100+",
+      "name": "sacerdote murio",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "san martín - temperley",
-      "traffic": "2000+",
+      "name": "liverpool - peñarol",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "bahía - flamengo",
-      "traffic": "1000+",
+      "name": "belgrano femenino",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "estudiantes de río cuarto - aldosivi",
-      "traffic": "5000+",
+      "name": "gendarmería",
+      "traffic": "200+",
       "rank": 10
     }
   ]
