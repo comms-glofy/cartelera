@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T07:30:14Z",
+  "updated": "2026-10-18T08:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "día de la madre argentina",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
       "name": "suspenso psicológico",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "cruz azul - juárez",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "cuando es el dia de la madre",
-      "traffic": "2000+",
       "rank": 6
-    },
-    {
-      "name": "cuando es el día de la madre",
-      "traffic": "100+",
-      "rank": 7
     },
     {
       "name": "día de la madre",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "hora",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "rafaela",
       "traffic": "5000+",
+      "rank": 9
+    },
+    {
+      "name": "mike malott",
+      "traffic": "100+",
       "rank": 10
     }
   ]
