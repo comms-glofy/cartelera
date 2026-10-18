@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-18T04:00:12Z",
+  "updated": "2026-10-18T04:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "casa rosada",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -14,23 +14,23 @@
       "rank": 2
     },
     {
-      "name": "suspenso psicológico",
-      "traffic": "1000+",
-      "rank": 3
-    },
-    {
       "name": "cuando es el dia de la madre",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "día de la madre",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "hora",
       "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "mike malott",
+      "traffic": "100+",
       "rank": 6
     },
     {
