@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T15:30:14Z",
+  "updated": "2026-10-18T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "milan - atalanta",
+      "name": "monaco fc",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "arsenal",
-      "traffic": "200+",
+      "name": "san petersburgo",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "premier padel",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "alvarado",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "milan - atalanta",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "arsenal",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "arsenal vs",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "premio princesa de asturias de los deportes",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "elecciones generales de brasil de 2026",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "liga inglesa",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "nottingham forest - arsenal",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "gran premio de los estados unidos",
+      "name": "premio princesa de asturias de los deportes",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "como vs fiorentina",
-      "traffic": "2000+",
+      "name": "elecciones generales de brasil de 2026",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "bayer leverkusen",
-      "traffic": "500+",
+      "name": "peatón",
+      "traffic": "100+",
       "rank": 10
     }
   ]
