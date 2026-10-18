@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T21:00:16Z",
+  "updated": "2026-10-18T21:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bahía - flamengo",
+      "name": "gendarmería",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "diomande",
+      "name": "villa mitre",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "estudiantes de río cuarto - aldosivi",
-      "traffic": "2000+",
+      "name": "san martín de tucumán - midland",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "alianza atlético - universitario",
+      "name": "barcelona sc - u. católica",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "precipitación",
+      "name": "presley gerber",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "milton delgado",
-      "traffic": "200+",
+      "name": "chiefs - chargers",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "subasta",
-      "traffic": "200+",
+      "name": "argentino de rosario",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "estudiantes - san lorenzo",
+      "name": "san martín - temperley",
       "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "federico sturzenegger",
-      "traffic": "200+",
+      "name": "bahía - flamengo",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "justin bieber",
-      "traffic": "100+",
+      "name": "estudiantes de río cuarto - aldosivi",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
