@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-18T14:00:13Z",
+  "updated": "2026-10-18T14:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester united",
-      "traffic": "500+",
+      "name": "serie a",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "como",
-      "traffic": "500+",
+      "name": "bayer leverkusen",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "deuda",
+      "name": "peaje",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "el destape",
-      "traffic": "100+",
+      "name": "fiorentina vs",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "brighton",
+      "name": "celta de vigo - alavés",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "nayib bukele",
+      "name": "horóscopo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "bournemouth - sunderland afc",
-      "traffic": "500+",
+      "name": "liga italiana",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "fiorentina",
+      "name": "epicentro",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "inflación",
-      "traffic": "200+",
+      "name": "osasuna",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "wuhan open",
-      "traffic": "100+",
+      "name": "manchester united",
+      "traffic": "500+",
       "rank": 10
     }
   ]
