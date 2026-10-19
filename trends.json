@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T21:00:17Z",
+  "updated": "2026-10-19T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "economía informal",
-      "traffic": "200+",
+      "name": "infocielo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pensión no contributiva",
-      "traffic": "200+",
+      "name": "pedri",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "lotería",
-      "traffic": "200+",
+      "name": "braga vs",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "hunter schafer",
-      "traffic": "100+",
+      "name": "el polaco",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "agustín rossi",
-      "traffic": "1000+",
+      "name": "secta",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "precipitación",
-      "traffic": "1000+",
+      "name": "zeballos",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "sahara ray",
-      "traffic": "1000+",
+      "name": "posiciones de club atlético san telmo contra defensores de belgrano",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "claudia villafañe",
+      "name": "economía informal",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "clima comodoro rivadavia",
-      "traffic": "200+",
+      "name": "pensión no contributiva",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ruta nacional 151",
-      "traffic": "1000+",
+      "name": "lotería",
+      "traffic": "500+",
       "rank": 10
     }
   ]
