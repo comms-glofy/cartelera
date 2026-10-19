@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T14:30:17Z",
+  "updated": "2026-10-19T15:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colisión",
-      "traffic": "500+",
+      "name": "grêmio - cruzeiro",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "fluminense - santos",
-      "traffic": "5000+",
+      "name": "trainspotting",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juicio",
+      "name": "bull market",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "colisión",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "fluminense - santos",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "juicio",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "depósito a plazo fijo",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "sergio massa",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "transporte público",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "salta",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "rafael câmara",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "vehículo",
-      "traffic": "500+",
+      "name": "transporte público",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "gaël monfils",
-      "traffic": "200+",
+      "name": "salta",
+      "traffic": "500+",
       "rank": 10
     }
   ]
