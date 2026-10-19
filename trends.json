@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T18:00:15Z",
+  "updated": "2026-10-19T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "al hilal - al-hazm",
-      "traffic": "200+",
+      "name": "tottenham - coventry city",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "mar del plata",
-      "traffic": "2000+",
+      "name": "playstation plus",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "trabzonspor - beşiktaş",
-      "traffic": "200+",
+      "name": "servicio nocturno",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "dolly parton",
-      "traffic": "200+",
+      "name": "club atlético nueva chicago",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "psg vs barcelona",
-      "traffic": "100+",
+      "name": "al hilal - al-hazm",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ernestina pais",
+      "name": "besiktas",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "agustín ladstatter",
+      "name": "mar del plata",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "lomas de zamora",
+      "name": "monza",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "río de la plata",
-      "traffic": "500+",
+      "name": "dolly parton",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ruta nacional 40",
-      "traffic": "2000+",
+      "name": "psg vs barcelona",
+      "traffic": "100+",
       "rank": 10
     }
   ]
