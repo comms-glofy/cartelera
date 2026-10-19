@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T15:30:18Z",
+  "updated": "2026-10-19T16:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "policía",
-      "traffic": "200+",
+      "name": "balon de oro",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tuenti",
+      "name": "martín demichelis",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marley",
-      "traffic": "500+",
+      "name": "rifa",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "grêmio - cruzeiro",
-      "traffic": "2000+",
+      "name": "nicolás otamendi",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "trainspotting",
+      "name": "latam",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "bull market",
-      "traffic": "200+",
+      "name": "policía",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "colisión",
-      "traffic": "2000+",
+      "name": "tuenti",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "fluminense - santos",
-      "traffic": "5000+",
+      "name": "marley",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "juicio",
-      "traffic": "500+",
+      "name": "bull market",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "depósito a plazo fijo",
-      "traffic": "1000+",
+      "name": "grêmio - cruzeiro",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
