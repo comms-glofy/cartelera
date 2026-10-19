@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T13:00:16Z",
+  "updated": "2026-10-19T13:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san juan",
-      "traffic": "5000+",
+      "name": "salta",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "vehículo",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "rafael câmara",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "gaël monfils",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "dia mundial del cancer de mama",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "carlos presti",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "san juan",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "federico beligoy",
       "traffic": "100+",
-      "rank": 2
+      "rank": 8
     },
     {
       "name": "arba",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "china suárez",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "el dia",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "los 40 principales",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "el destape",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "diario uno",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "diario de cuyo",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "ambito financiero",
-      "traffic": "200+",
       "rank": 10
     }
   ]
