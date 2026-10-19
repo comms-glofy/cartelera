@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T10:00:16Z",
+  "updated": "2026-10-19T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a24 en vivo",
-      "traffic": "100+",
+      "name": "gobierno",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clima salta",
-      "traffic": "100+",
+      "name": "contexto",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "la 100 en vivo",
+      "name": "contexto tucuman",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tini miami",
-      "traffic": "1000+",
+      "name": "el once digital",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "character ai",
-      "traffic": "100+",
+      "name": "cadena 3",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "pacha espino",
-      "traffic": "500+",
+      "name": "diario chaco",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "marta fort",
-      "traffic": "500+",
+      "name": "pronostico bahia blanca",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "edith hermida",
-      "traffic": "200+",
+      "name": "infobae",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "diego peretti",
+      "name": "2026",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "julieta nair calvo",
-      "traffic": "200+",
+      "name": "clima neuquen",
+      "traffic": "100+",
       "rank": 10
     }
   ]
