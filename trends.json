@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T22:47:27Z",
+  "updated": "2026-10-19T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "copa sudamericana 2026",
+      "name": "nacional - deportivo maldonado",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "luiz inácio lula da silva",
-      "traffic": "1000+",
+      "name": "sarmiento",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "copa mundial de fútbol",
-      "traffic": "100+",
+      "name": "copa sudamericana 2026",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jugador de fútbol",
-      "traffic": "100+",
+      "name": "luiz inácio lula da silva",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "jugador de fútbol",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "bts en argentina",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "copa mundial de fútbol",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "corinthians - vitória",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "luz jiménez",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "sarmiento - barracas central",
-      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "horacio rodríguez larreta",
+      "name": "nob",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "luis brandoni",
-      "traffic": "1000+",
+      "name": "luz jiménez",
+      "traffic": "500+",
       "rank": 10
     }
   ]
