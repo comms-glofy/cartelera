@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T19:30:14Z",
+  "updated": "2026-10-19T20:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "claudia villafañe",
-      "traffic": "200+",
+      "name": "precipitación",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "clima comodoro rivadavia",
-      "traffic": "100+",
+      "name": "sahara ray",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "clima comodoro rivadavia",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "claudia villafañe",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "ruta nacional 151",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "parma - torino",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "damián betular",
-      "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "gobernador",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "damián betular",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "donald trump",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "san telmo - defensores de belgrano",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "getafe - rayo vallecano",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "lisandro martínez",
-      "traffic": "500+",
+      "name": "getafe - rayo vallecano",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
