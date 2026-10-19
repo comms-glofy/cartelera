@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T18:40:22Z",
+  "updated": "2026-10-19T19:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san telmo - defensores de belgrano",
+      "name": "parma - torino",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lisandro martínez",
+      "name": "damián betular",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "getafe - rayo vallecano",
+      "name": "gobernador",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "kim jong un",
+      "name": "donald trump",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tottenham - coventry city",
-      "traffic": "1000+",
+      "name": "san telmo - defensores de belgrano",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "playstation plus",
-      "traffic": "100+",
+      "name": "getafe - rayo vallecano",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "servicio nocturno",
+      "name": "lisandro martínez",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "club atlético nueva chicago",
-      "traffic": "5000+",
+      "name": "kim jong un",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "al hilal - al-hazm",
-      "traffic": "500+",
+      "name": "tottenham - coventry city",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "besiktas",
-      "traffic": "200+",
+      "name": "playstation plus",
+      "traffic": "100+",
       "rank": 10
     }
   ]
