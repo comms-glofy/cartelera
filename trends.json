@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T23:00:16Z",
+  "updated": "2026-10-19T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nacional - deportivo maldonado",
-      "traffic": "200+",
+      "name": "mecánico",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sarmiento",
+      "name": "venti",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "copa sudamericana 2026",
-      "traffic": "200+",
+      "name": "filipinas",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "luiz inácio lula da silva",
-      "traffic": "1000+",
+      "name": "nacional - deportivo maldonado",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "jugador de fútbol",
+      "name": "sarmiento",
       "traffic": "200+",
       "rank": 5
     },
     {
       "name": "bts en argentina",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "luiz inácio lula da silva",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "jugador de fútbol",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "copa mundial de fútbol",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "corinthians - vitória",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "nob",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "luz jiménez",
-      "traffic": "500+",
+      "name": "copa sudamericana 2026",
+      "traffic": "200+",
       "rank": 10
     }
   ]
