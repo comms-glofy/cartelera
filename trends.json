@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T02:00:15Z",
+  "updated": "2026-10-19T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sorteo quini 6",
-      "traffic": "500+",
+      "name": "tini",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "maru botana",
-      "traffic": "500+",
+      "name": "julieta nair calvo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fausto vera",
+      "name": "diego peretti",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tabla anual 2026",
+      "name": "sorteo quini 6",
       "traffic": "1000+",
       "rank": 4
     },
     {
+      "name": "maru botana",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "fausto vera",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "alerta roja",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "tabla anual",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "tabla anual liga argentina",
-      "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "monterrey - pachuca",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "deportivo cali - junior",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "kendall jenner",
-      "traffic": "200+",
+      "name": "river racing",
+      "traffic": "100+",
       "rank": 10
     }
   ]
