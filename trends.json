@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T18:30:17Z",
+  "updated": "2026-10-19T18:40:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tottenham - coventry city",
-      "traffic": "500+",
+      "name": "san telmo - defensores de belgrano",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "lisandro martínez",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "getafe - rayo vallecano",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "kim jong un",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "tottenham - coventry city",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "playstation plus",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "servicio nocturno",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "club atlético nueva chicago",
-      "traffic": "10000+",
-      "rank": 4
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "al hilal - al-hazm",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "besiktas",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "mar del plata",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "monza",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "dolly parton",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "psg vs barcelona",
-      "traffic": "100+",
       "rank": 10
     }
   ]
