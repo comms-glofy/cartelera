@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T10:30:15Z",
+  "updated": "2026-10-19T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gobierno",
-      "traffic": "500+",
+      "name": "mdz",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "contexto",
+      "name": "diario el sol",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "contexto tucuman",
-      "traffic": "100+",
+      "name": "la gaceta",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "el once digital",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "cadena 3",
-      "traffic": "2000+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "diario chaco",
-      "traffic": "100+",
+      "name": "que pasa salta",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pronostico bahia blanca",
+      "name": "el litoral",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "infobae",
-      "traffic": "2000+",
+      "name": "diario rio negro",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "2026",
-      "traffic": "500+",
+      "name": "contexto",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima neuquen",
-      "traffic": "100+",
+      "name": "gobierno",
+      "traffic": "500+",
       "rank": 10
     }
   ]
