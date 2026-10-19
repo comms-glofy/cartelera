@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T11:00:15Z",
+  "updated": "2026-10-19T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mdz",
+      "name": "los 40 principales",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "diario el sol",
-      "traffic": "200+",
+      "name": "el destape",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "la gaceta",
+      "name": "ambito financiero",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "mdz",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "la gaceta",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "tiempo de san juan",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "datachaco",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "que pasa salta",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "el litoral",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "diario rio negro",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "contexto",
-      "traffic": "200+",
+      "name": "19 de octubre que se celebra",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "gobierno",
-      "traffic": "500+",
+      "name": "el litoral",
+      "traffic": "200+",
       "rank": 10
     }
   ]
