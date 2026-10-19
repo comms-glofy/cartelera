@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T15:00:17Z",
+  "updated": "2026-10-19T15:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grêmio - cruzeiro",
-      "traffic": "2000+",
+      "name": "policía",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "trainspotting",
+      "name": "tuenti",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bull market",
-      "traffic": "200+",
+      "name": "marley",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "colisión",
-      "traffic": "1000+",
+      "name": "grêmio - cruzeiro",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "fluminense - santos",
-      "traffic": "5000+",
+      "name": "trainspotting",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "juicio",
+      "name": "bull market",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "depósito a plazo fijo",
-      "traffic": "500+",
+      "name": "colisión",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "sergio massa",
-      "traffic": "100+",
+      "name": "fluminense - santos",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "transporte público",
-      "traffic": "200+",
+      "name": "juicio",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "salta",
-      "traffic": "500+",
+      "name": "depósito a plazo fijo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
