@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T14:00:18Z",
+  "updated": "2026-10-19T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "depósito a plazo fijo",
-      "traffic": "200+",
+      "name": "colisión",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "fluminense - santos",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
+      "name": "juicio",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "depósito a plazo fijo",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "sergio massa",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "transporte público",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "salta",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "rafael câmara",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "vehículo",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "gaël monfils",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "dia mundial del cancer de mama",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "carlos presti",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "ejército",
-      "traffic": "100+",
       "rank": 10
     }
   ]
