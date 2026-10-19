@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-19T11:30:15Z",
+  "updated": "2026-10-19T12:00:06Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "los 40 principales",
-      "traffic": "100+",
+      "name": "arba",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "el destape",
-      "traffic": "100+",
+      "name": "china suárez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ambito financiero",
+      "name": "el dia",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mdz",
-      "traffic": "500+",
+      "name": "los 40 principales",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "el destape",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "diario uno",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "ambito financiero",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "la gaceta",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "datachaco",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "que pasa salta",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "19 de octubre que se celebra",
-      "traffic": "100+",
+      "name": "tiempo de san juan",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "el litoral",
+      "name": "19 de octubre que se celebra",
       "traffic": "200+",
       "rank": 10
     }
