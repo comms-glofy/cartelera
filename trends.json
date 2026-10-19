@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T22:00:12Z",
+  "updated": "2026-10-19T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sarmiento - barracas central",
-      "traffic": "2000+",
+      "name": "luz jiménez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "horacio rodríguez larreta",
-      "traffic": "200+",
+      "name": "sarmiento - barracas central",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "luis brandoni",
+      "name": "horacio rodríguez larreta",
       "traffic": "500+",
       "rank": 3
     },
     {
+      "name": "luis brandoni",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "posiciones de getafe cf contra rayo vallecano",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "braga - gil vicente",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "newell's - central córdoba",
-      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "infocielo",
-      "traffic": "100+",
+      "name": "newell's - central córdoba",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "pedri",
-      "traffic": "100+",
+      "name": "infocielo",
+      "traffic": "200+",
       "rank": 8
+    },
+    {
+      "name": "pedri",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "braga vs",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "el polaco",
-      "traffic": "200+",
       "rank": 10
     }
   ]
