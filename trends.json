@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-19T17:00:18Z",
+  "updated": "2026-10-19T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lomas de zamora",
-      "traffic": "200+",
+      "name": "dolly parton",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "psg vs barcelona",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "ernestina pais",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "agustín ladstatter",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "río paraná",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "ruta nacional 40",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "festividad",
+      "name": "lomas de zamora",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "nicolás vázquez",
-      "traffic": "100+",
+      "name": "río paraná",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "bono",
-      "traffic": "1000+",
+      "name": "ruta nacional 40",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "monza - cagliari",
-      "traffic": "500+",
+      "name": "festividad",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "balon de oro",
-      "traffic": "2000+",
+      "name": "nicolás vázquez",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "martín demichelis",
+      "name": "bono",
       "traffic": "1000+",
       "rank": 10
     }
