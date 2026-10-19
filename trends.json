@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-19T08:30:17Z",
+  "updated": "2026-10-19T09:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tini miami",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "character ai",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "pacha espino",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "tini stoessel",
-      "traffic": "1000+",
       "rank": 3
     },
     {
