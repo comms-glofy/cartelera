@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T13:30:15Z",
+  "updated": "2026-10-19T14:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "salta",
-      "traffic": "100+",
+      "name": "depósito a plazo fijo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "vehículo",
-      "traffic": "500+",
+      "name": "sergio massa",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "transporte público",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "salta",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "rafael câmara",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "vehículo",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "gaël monfils",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "dia mundial del cancer de mama",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "carlos presti",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "san juan",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "federico beligoy",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "arba",
-      "traffic": "5000+",
+      "name": "carlos presti",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "china suárez",
-      "traffic": "500+",
+      "name": "ejército",
+      "traffic": "100+",
       "rank": 10
     }
   ]
