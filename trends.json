@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-19T02:30:14Z",
+  "updated": "2026-10-19T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tini",
-      "traffic": "100+",
+      "name": "tini stoessel",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "julieta nair calvo",
-      "traffic": "200+",
+      "name": "tomas galvan",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "diego peretti",
+      "name": "espino racing",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sorteo quini 6",
-      "traffic": "1000+",
+      "name": "marta fort",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "maru botana",
-      "traffic": "500+",
+      "name": "edith hermida",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fausto vera",
+      "name": "julieta nair calvo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "alerta roja",
-      "traffic": "200+",
+      "name": "diego peretti",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "tabla anual",
-      "traffic": "5000+",
+      "name": "sorteo quini 6",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "monterrey - pachuca",
+      "name": "maru botana",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "river racing",
-      "traffic": "100+",
+      "name": "fausto vera",
+      "traffic": "200+",
       "rank": 10
     }
   ]
