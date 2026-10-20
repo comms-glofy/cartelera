@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T16:00:19Z",
+  "updated": "2026-10-20T16:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "utedyc",
-      "traffic": "100+",
+      "name": "oscar gonzalez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "primera división",
-      "traffic": "5000+",
+      "name": "conmebol libertadores",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "2024",
-      "traffic": "200+",
+      "name": "palais de glace",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "fausto vera",
+      "name": "nafta",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "boy olmi",
-      "traffic": "500+",
+      "name": "utedyc",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "lucas blondel",
-      "traffic": "100+",
+      "name": "primera división",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "barca vs psg",
+      "name": "2024",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "boat",
-      "traffic": "500+",
+      "name": "fausto vera",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "balon de oro",
+      "name": "boy olmi",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ballon d'or",
-      "traffic": "200+",
+      "name": "lucas blondel",
+      "traffic": "100+",
       "rank": 10
     }
   ]
