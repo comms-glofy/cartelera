@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T10:30:14Z",
+  "updated": "2026-10-20T11:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ypf",
-      "traffic": "2000+",
+      "name": "sebastián báez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pronostico mendoza",
+      "name": "el once digital",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "javier milei",
-      "traffic": "100+",
+      "name": "epicentro",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "eduardo costantini",
-      "traffic": "100+",
+      "name": "exequiel zeballos",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "la capital",
-      "traffic": "100+",
+      "name": "cafeína",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "vandalismo",
+      "name": "agostina paez",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "quien se fue de masterchef",
-      "traffic": "1000+",
+      "name": "ypf",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "ley de reparación histórica para jubilados y pensionados",
+      "name": "pronostico mendoza",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juan román riquelme",
+      "name": "javier milei",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "salario",
-      "traffic": "2000+",
+      "name": "eduardo costantini",
+      "traffic": "200+",
       "rank": 10
     }
   ]
