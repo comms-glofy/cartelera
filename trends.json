@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-20T12:00:14Z",
+  "updated": "2026-10-20T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "hotel",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
+      "name": "fal",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "lucas aveldaño",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "sebastián báez",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "el once digital",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "epicentro",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "exequiel zeballos",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "cafeína",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "agostina paez",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "ypf",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
