@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T13:30:14Z",
+  "updated": "2026-10-20T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "subte",
-      "traffic": "2000+",
+      "name": "corrientes",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "antonio grimau",
-      "traffic": "2000+",
+      "name": "india",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marco trungelliti",
-      "traffic": "200+",
+      "name": "subte",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "lider norcoreano kim jong",
-      "traffic": "200+",
+      "name": "antonio grimau",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "hotel",
-      "traffic": "200+",
+      "name": "marco trungelliti",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "júnior alonso",
-      "traffic": "100+",
+      "name": "geólogo",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "fal",
-      "traffic": "1000+",
+      "name": "hotel",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "lucas aveldaño",
+      "name": "júnior alonso",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sebastián báez",
-      "traffic": "200+",
+      "name": "fal",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "el once digital",
-      "traffic": "100+",
+      "name": "lucas aveldaño",
+      "traffic": "200+",
       "rank": 10
     }
   ]
