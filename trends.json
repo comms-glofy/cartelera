@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T20:30:16Z",
+  "updated": "2026-10-20T21:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "madrid",
-      "traffic": "200+",
+      "name": "vitinha",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "dani olmo",
-      "traffic": "100+",
+      "name": "fabian ruiz",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "kvaratskhelia",
+      "name": "familia kennedy",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "raphinha",
-      "traffic": "100+",
+      "name": "safonov",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "atletico madrid",
-      "traffic": "1000+",
+      "name": "vasco da gama vs boca juniors",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "aerolínea",
-      "traffic": "200+",
+      "name": "posiciones de al-nassr contra neom sports club",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "ámbito dólar",
-      "traffic": "1000+",
+      "name": "madrid",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "porto vs",
+      "name": "raphinha",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "marquinhos",
-      "traffic": "200+",
+      "name": "dani olmo",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "suteba bahía blanca",
-      "traffic": "200+",
+      "name": "atletico madrid",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
