@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T04:30:13Z",
+  "updated": "2026-10-20T05:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,47 +10,47 @@
     },
     {
       "name": "morena beltran",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
-    },
-    {
-      "name": "quien se fue de masterchef hoy",
-      "traffic": "200+",
-      "rank": 3
     },
     {
       "name": "nazareno casero",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "julieta nair calvo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "deportivo pasto",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "florencia raggi",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "periodista gaston leturia",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "edith hermida",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "multa",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "matías morla",
+      "traffic": "100+",
       "rank": 10
     }
   ]
