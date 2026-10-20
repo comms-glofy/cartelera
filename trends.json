@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-20T08:30:20Z",
+  "updated": "2026-10-20T09:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "salario",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "conciertos bts argentina",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "mariano werner",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "morena beltran",
-      "traffic": "200+",
       "rank": 3
     },
     {
       "name": "quien se fue de masterchef hoy",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "corea del norte",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "nazareno casero",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "julieta nair calvo",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "deportivo pasto",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "florencia raggi",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "periodista gaston leturia",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "edith hermida",
+      "name": "periodista gaston leturia",
       "traffic": "500+",
       "rank": 10
     }
