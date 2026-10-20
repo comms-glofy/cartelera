@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-20T17:44:46Z",
+  "updated": "2026-10-20T18:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "al-nassr - neom sports club",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
@@ -15,42 +15,42 @@
     },
     {
       "name": "méxico",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 3
-    },
-    {
-      "name": "champions",
-      "traffic": "2000+",
-      "rank": 4
     },
     {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "víctor stasyszyn",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "dani alves",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "borussia dortmund",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "sabah",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "feb",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "fenerbahçe",
+      "traffic": "500+",
       "rank": 10
     }
   ]
