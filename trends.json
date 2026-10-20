@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T07:30:16Z",
+  "updated": "2026-10-20T08:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
+      "name": "corea del norte",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "nazareno casero",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "julieta nair calvo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "deportivo pasto",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "florencia raggi",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "periodista gaston leturia",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "edith hermida",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "multa",
+      "name": "edith hermida",
       "traffic": "500+",
       "rank": 10
     }
