@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T18:30:17Z",
+  "updated": "2026-10-20T19:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester city - aek",
-      "traffic": "1000+",
+      "name": "psg",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "liverpool - villarreal",
-      "traffic": "500+",
+      "name": "pistons - celtics",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "roma - slovan bratislava",
+      "name": "barca",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "psg - barcelona",
-      "traffic": "10000+",
+      "name": "fenerbahçe vs. slavia praga",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "stuttgart - atlético madrid",
-      "traffic": "2000+",
+      "name": "napoli - bodø/glimt",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "milei",
-      "traffic": "200+",
+      "name": "manchester city - aek",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "jorge luis borges",
-      "traffic": "100+",
+      "name": "liverpool - villarreal",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "maipú",
-      "traffic": "200+",
+      "name": "roma - slovan bratislava",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "comercio",
-      "traffic": "100+",
+      "name": "psg - barcelona",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "selección de fútbol de egipto",
-      "traffic": "100+",
+      "name": "stuttgart - atlético madrid",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
