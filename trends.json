@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-20T23:00:13Z",
+  "updated": "2026-10-20T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cúcuta - atlético nacional",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "nba hoy",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "radar",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "natasha lyonne",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "knicks - 76ers",
-      "traffic": "500+",
       "rank": 4
     },
     {
       "name": "villa pueyrredón",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "a que hora juega boca",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "rank": 6
     },
     {
       "name": "ruta nacional 226",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 7
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "gaston pampa leturia",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
