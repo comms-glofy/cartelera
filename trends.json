@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T11:30:16Z",
+  "updated": "2026-10-20T12:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lucas aveldaño",
+      "name": "hotel",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sebastián báez",
-      "traffic": "200+",
+      "name": "júnior alonso",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el once digital",
+      "name": "lucas aveldaño",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "epicentro",
-      "traffic": "1000+",
+      "name": "sebastián báez",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "exequiel zeballos",
-      "traffic": "500+",
+      "name": "el once digital",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "cafeína",
-      "traffic": "200+",
+      "name": "epicentro",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "agostina paez",
-      "traffic": "100+",
+      "name": "exequiel zeballos",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "ypf",
-      "traffic": "2000+",
+      "name": "cafeína",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "pronostico mendoza",
+      "name": "agostina paez",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "javier milei",
-      "traffic": "100+",
+      "name": "ypf",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
