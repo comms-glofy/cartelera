@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T21:00:15Z",
+  "updated": "2026-10-20T21:11:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vitinha",
-      "traffic": "500+",
+      "name": "city",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "fabian ruiz",
-      "traffic": "200+",
+      "name": "miniserie",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "vitinha",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "fabian ruiz",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "familia kennedy",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "atletico",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "safonov",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "vasco da gama vs boca juniors",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "posiciones de al-nassr contra neom sports club",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "madrid",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "raphinha",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "dani olmo",
-      "traffic": "100+",
+      "name": "posiciones de al-nassr contra neom sports club",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "atletico madrid",
-      "traffic": "2000+",
+      "name": "kvaratskhelia",
+      "traffic": "500+",
       "rank": 10
     }
   ]
