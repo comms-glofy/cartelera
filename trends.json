@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T18:00:20Z",
+  "updated": "2026-10-20T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "al-nassr - neom sports club",
+      "name": "manchester city - aek",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "john f. kennedy jr.",
-      "traffic": "200+",
+      "name": "liverpool - villarreal",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "méxico",
-      "traffic": "5000+",
+      "name": "roma - slovan bratislava",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "el niño",
-      "traffic": "2000+",
+      "name": "psg - barcelona",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "víctor stasyszyn",
-      "traffic": "200+",
+      "name": "stuttgart - atlético madrid",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "dani alves",
-      "traffic": "100+",
+      "name": "milei",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "borussia dortmund",
-      "traffic": "1000+",
+      "name": "jorge luis borges",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "sabah",
+      "name": "maipú",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "feb",
-      "traffic": "200+",
+      "name": "comercio",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "fenerbahçe",
-      "traffic": "500+",
+      "name": "selección de fútbol de egipto",
+      "traffic": "100+",
       "rank": 10
     }
   ]
