@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-20T15:00:18Z",
+  "updated": "2026-10-20T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barca vs psg",
-      "traffic": "200+",
+      "name": "boy olmi",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "balon de oro",
-      "traffic": "500+",
+      "name": "lucas blondel",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "boat",
+      "name": "barca vs psg",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ballon d'or",
-      "traffic": "100+",
+      "name": "boat",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "balon de oro",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "riesgo pais argentina",
+      "traffic": "10000+",
+      "rank": 6
+    },
+    {
+      "name": "ballon d'or",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "noemi bocchi",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "corrientes",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "india",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "subte",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "antonio grimau",
-      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "marco trungelliti",
+      "name": "india",
       "traffic": "500+",
       "rank": 10
     }
