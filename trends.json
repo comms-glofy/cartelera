@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T01:00:15Z",
+  "updated": "2026-10-20T01:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "hernán casciari",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "fuego",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "goias",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "alerta meteorológica",
-      "traffic": "5000+",
-      "rank": 3
+      "traffic": "10000+",
+      "rank": 4
     },
     {
       "name": "paro de colectivos hoy",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lucero acosta",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "from",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "barracas",
+      "name": "from",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "feriados noviembre 2026",
-      "traffic": "200+",
+      "name": "guillermina valdés",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "deportivo riestra - unión",
-      "traffic": "10000+",
+      "name": "feriados noviembre 2026",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cotización dólar hoy",
-      "traffic": "2000+",
+      "name": "barracas",
+      "traffic": "200+",
       "rank": 10
     }
   ]
