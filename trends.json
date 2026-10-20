@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-20T08:00:14Z",
+  "updated": "2026-10-20T08:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "conciertos bts argentina",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
       "name": "mariano werner",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "morena beltran",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "quien se fue de masterchef hoy",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "corea del norte",
-      "traffic": "100+",
       "rank": 4
     },
     {
