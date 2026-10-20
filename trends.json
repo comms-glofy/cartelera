@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T17:00:14Z",
+  "updated": "2026-10-20T17:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "méxico",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "el niño",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "víctor stasyszyn",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "dani alves",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "borussia dortmund",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "sabah",
       "traffic": "100+",
-      "rank": 1
+      "rank": 6
     },
     {
       "name": "feb",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "fenerbahçe",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "oscar gonzalez",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "conmebol libertadores",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "nafta",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "palais de glace",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "utedyc",
+      "name": "fenerbahçe",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "primera división",
-      "traffic": "5000+",
+      "name": "oscar gonzalez",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "automovilismo",
-      "traffic": "500+",
+      "name": "conmebol libertadores",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
