@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T22:30:13Z",
+  "updated": "2026-10-20T23:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "villa pueyrredón",
+      "name": "nba hoy",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "a que hora juega boca",
-      "traffic": "5000+",
+      "name": "radar",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fabian gianola",
-      "traffic": "200+",
+      "name": "natasha lyonne",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "javonte green",
-      "traffic": "100+",
+      "name": "knicks - 76ers",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "villa pueyrredón",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "a que hora juega boca",
+      "traffic": "10000+",
+      "rank": 6
+    },
+    {
+      "name": "ruta nacional 226",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "fabian gianola",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "balon de oro de todos los tiempos",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "gaston pampa leturia",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "fiambala",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "alexis mac allister",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de vfb stuttgart contra atlético de madrid",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "el mollar",
-      "traffic": "200+",
       "rank": 10
     }
   ]
