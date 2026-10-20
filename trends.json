@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-20T12:50:24Z",
+  "updated": "2026-10-20T13:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lider norcoreano kim jong",
+      "name": "marco trungelliti",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "hotel",
+      "name": "lider norcoreano kim jong",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "hotel",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "júnior alonso",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "fal",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "lucas aveldaño",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sebastián báez",
+      "name": "lucas aveldaño",
       "traffic": "200+",
       "rank": 6
     },
     {
+      "name": "sebastián báez",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "el once digital",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "epicentro",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "exequiel zeballos",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "cafeína",
+      "name": "exequiel zeballos",
       "traffic": "1000+",
       "rank": 10
     }
