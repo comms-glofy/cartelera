@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T09:00:16Z",
+  "updated": "2026-10-20T09:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "salario",
-      "traffic": "500+",
+      "name": "cronica",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "conciertos bts argentina",
-      "traffic": "5000+",
+      "name": "ley de reparación histórica para jubilados y pensionados",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mariano werner",
-      "traffic": "100+",
+      "name": "quien se fue de masterchef",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "quien se fue de masterchef hoy",
+      "name": "salario",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "corea del norte",
-      "traffic": "100+",
+      "name": "conciertos bts argentina",
+      "traffic": "5000+",
       "rank": 5
+    },
+    {
+      "name": "mariano werner",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "nazareno casero",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "julieta nair calvo",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "deportivo pasto",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "florencia raggi",
       "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "periodista gaston leturia",
-      "traffic": "500+",
       "rank": 10
     }
   ]
