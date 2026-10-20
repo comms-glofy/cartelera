@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T16:30:14Z",
+  "updated": "2026-10-20T17:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "oscar gonzalez",
-      "traffic": "200+",
+      "name": "sabah",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "conmebol libertadores",
-      "traffic": "2000+",
+      "name": "feb",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "palais de glace",
+      "name": "fenerbahçe",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nafta",
-      "traffic": "100+",
+      "name": "oscar gonzalez",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "utedyc",
-      "traffic": "100+",
+      "name": "conmebol libertadores",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "primera división",
-      "traffic": "5000+",
+      "name": "nafta",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "2024",
-      "traffic": "200+",
+      "name": "palais de glace",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "fausto vera",
+      "name": "utedyc",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "boy olmi",
-      "traffic": "500+",
+      "name": "primera división",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "lucas blondel",
-      "traffic": "100+",
+      "name": "automovilismo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
