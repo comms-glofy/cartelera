@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T22:00:17Z",
+  "updated": "2026-10-20T22:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fiambala",
+      "name": "villa pueyrredón",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "alexis mac allister",
-      "traffic": "200+",
+      "name": "a que hora juega boca",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "posiciones de vfb stuttgart contra atlético de madrid",
-      "traffic": "5000+",
+      "name": "fabian gianola",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lamine yamal",
-      "traffic": "1000+",
+      "name": "javonte green",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "colo-colo - puerto montt",
-      "traffic": "200+",
+      "name": "balon de oro de todos los tiempos",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "liam lawson",
-      "traffic": "200+",
+      "name": "gaston pampa leturia",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "el mollar",
+      "name": "fiambala",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "psv",
+      "name": "alexis mac allister",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "manchester city vs",
-      "traffic": "200+",
+      "name": "posiciones de vfb stuttgart contra atlético de madrid",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "miniserie",
-      "traffic": "500+",
+      "name": "el mollar",
+      "traffic": "200+",
       "rank": 10
     }
   ]
