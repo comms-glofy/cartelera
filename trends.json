@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-20T14:30:15Z",
+  "updated": "2026-10-20T15:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boat",
+      "name": "barca vs psg",
       "traffic": "200+",
       "rank": 1
     },
@@ -14,8 +14,8 @@
       "rank": 2
     },
     {
-      "name": "noemi bocchi",
-      "traffic": "100+",
+      "name": "boat",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "corrientes",
-      "traffic": "500+",
+      "name": "noemi bocchi",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "india",
-      "traffic": "200+",
+      "name": "corrientes",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "subte",
-      "traffic": "10000+",
+      "name": "india",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "antonio grimau",
+      "name": "subte",
       "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "marco trungelliti",
-      "traffic": "500+",
+      "name": "antonio grimau",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "lider norcoreano kim jong",
-      "traffic": "200+",
+      "name": "marco trungelliti",
+      "traffic": "500+",
       "rank": 10
     }
   ]
