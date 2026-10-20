@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-20T10:00:17Z",
+  "updated": "2026-10-20T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "javier milei",
-      "traffic": "500+",
+      "name": "ypf",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "la capital",
+      "name": "pronostico mendoza",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "quien se fue de masterchef",
-      "traffic": "500+",
+      "name": "javier milei",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ley de reparación histórica para jubilados y pensionados",
-      "traffic": "200+",
+      "name": "eduardo costantini",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "juan román riquelme",
+      "name": "la capital",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "salario",
-      "traffic": "1000+",
+      "name": "vandalismo",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "conciertos bts argentina",
-      "traffic": "5000+",
+      "name": "quien se fue de masterchef",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "mariano werner",
+      "name": "ley de reparación histórica para jubilados y pensionados",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "nicolas repetto",
-      "traffic": "500+",
+      "name": "juan román riquelme",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "corea del norte",
-      "traffic": "100+",
+      "name": "salario",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
