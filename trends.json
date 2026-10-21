@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T19:00:15Z",
+  "updated": "2026-10-21T19:05:01Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ciclón",
+      "name": "albardón",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "united fc",
+      "name": "ciclón",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "lisandro martinez",
-      "traffic": "200+",
+      "name": "united fc",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "inter - shakhtar",
-      "traffic": "1000+",
+      "name": "lisandro martinez",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "aston villa - viking",
-      "traffic": "500+",
+      "name": "inter - shakhtar",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "aston villa - viking",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "real betis - feyenoord",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
-      "name": "uefa champions",
+      "name": "bayern vs arsenal",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "elina costantini",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "real madrid - rb leipzig",
       "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "bayern - arsenal",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
