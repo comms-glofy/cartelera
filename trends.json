@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T13:00:15Z",
+  "updated": "2026-10-21T13:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "maxi lópez",
-      "traffic": "200+",
+      "name": "culturismo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "php",
-      "traffic": "100+",
+      "name": "maxi lópez",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "u2",
+      "name": "php",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "u2",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "ley",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "calendario 2027",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "igor arzuaga",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "colectivos de buenos aires",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "entradas u2",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "antena",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "salud",
-      "traffic": "20000+",
       "rank": 10
     }
   ]
