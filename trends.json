@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-21T14:00:15Z",
+  "updated": "2026-10-21T14:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mateusz chmura",
+      "name": "accuweather",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "¡ahora caigo!",
-      "traffic": "200+",
+      "name": "mateusz chmura",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "culturismo",
-      "traffic": "500+",
+      "name": "¡ahora caigo!",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "culturismo",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "maxi lópez",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "php",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "u2",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ley",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "calendario 2027",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "igor arzuaga",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "colectivos de buenos aires",
+      "name": "igor arzuaga",
       "traffic": "500+",
       "rank": 10
     }
