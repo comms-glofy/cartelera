@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T16:00:17Z",
+  "updated": "2026-10-21T16:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aitana movistar arena",
+      "name": "como vs manchester united",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "río paraná",
-      "traffic": "2000+",
+      "name": "rayo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "river vs ferro",
-      "traffic": "500+",
+      "name": "como - manchester united",
+      "traffic": "5000+",
       "rank": 3
+    },
+    {
+      "name": "aitana movistar arena",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "río paraná",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "river vs ferro",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "luisana lopilato",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "pronostico la plata",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "accuweather",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "clima merlo",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "mateusz chmura",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "¡ahora caigo!",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "culturismo",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
