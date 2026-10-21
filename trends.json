@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T00:00:08Z",
+  "updated": "2026-10-21T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vasco da gama - boca juniors",
-      "traffic": "50000+",
+      "name": "mauro icardi",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cúcuta - atlético nacional",
-      "traffic": "500+",
+      "name": "final sudamericana 2026",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tandil",
-      "traffic": "500+",
+      "name": "club atlético central córdoba",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "nba hoy",
+      "name": "peter lamelas",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "radar",
-      "traffic": "200+",
+      "name": "elecciones consejo de la magistratura 2026",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "natasha lyonne",
-      "traffic": "100+",
+      "name": "vasco da gama - boca juniors",
+      "traffic": "100000+",
       "rank": 6
     },
     {
-      "name": "villa pueyrredón",
-      "traffic": "200+",
+      "name": "cúcuta - atlético nacional",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "ruta nacional 226",
+      "name": "tandil",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "fabian gianola",
-      "traffic": "1000+",
+      "name": "nba hoy",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "balon de oro de todos los tiempos",
-      "traffic": "1000+",
+      "name": "radar",
+      "traffic": "200+",
       "rank": 10
     }
   ]
