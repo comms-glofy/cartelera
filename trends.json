@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T07:00:15Z",
+  "updated": "2026-10-21T07:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "boca independiente",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
       "name": "boca vs independiente",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "libertadores",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "avianca",
+      "traffic": "200+",
       "rank": 10
     }
   ]
