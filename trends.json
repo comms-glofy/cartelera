@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T01:30:13Z",
+  "updated": "2026-10-21T02:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "álvaro montero",
-      "traffic": "200+",
+      "name": "hinestroza",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "tv argentina",
+      "name": "millonarios - once caldas",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "vasco arruabarrena",
-      "traffic": "500+",
+      "name": "philadelphia 76ers",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "boca river",
-      "traffic": "2000+",
+      "name": "anfernee simons",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "city torque",
+      "name": "atlético mineiro",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "partidos hoy en vivo",
-      "traffic": "200+",
+      "name": "bca",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "villa",
+      "name": "álvaro montero",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "boca vs sao paulo",
+      "name": "tv argentina",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "partidos",
-      "traffic": "200+",
+      "name": "miguel merentiel",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "mineiro",
-      "traffic": "1000+",
+      "name": "city torque",
+      "traffic": "500+",
       "rank": 10
     }
   ]
