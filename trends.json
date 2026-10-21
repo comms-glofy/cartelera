@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T07:30:15Z",
+  "updated": "2026-10-21T08:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corte de agua",
-      "traffic": "200+",
+      "name": "clima buenos aires",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "christina applegate",
-      "traffic": "100+",
+      "name": "betsson",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tigres - león",
+      "name": "corte de agua",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "boca vs banfield",
+      "name": "christina applegate",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "davo xeneize",
+      "name": "tigres - león",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "final libertadores",
+      "name": "boca vs banfield",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "maru botana",
-      "traffic": "1000+",
+      "name": "davo xeneize",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "boca vs independiente",
-      "traffic": "200+",
+      "name": "final libertadores",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "libertadores",
+      "name": "maru botana",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "avianca",
-      "traffic": "200+",
+      "name": "boca vs independiente",
+      "traffic": "500+",
       "rank": 10
     }
   ]
