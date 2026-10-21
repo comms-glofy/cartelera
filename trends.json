@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T21:30:19Z",
+  "updated": "2026-10-21T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "torque - atlético mineiro",
-      "traffic": "2000+",
+      "name": "kevin castaño",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "entradas independiente",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "rtve",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "torque - atlético mineiro",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "posiciones de champions league",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "club almirante brown",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "posiciones de real madrid contra rb leipzig",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "name": "posiciones de inter milan contra shakhtar",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "palmeiras vs fluminense",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "maipú",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "economía de argentina",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "rasenballsport leipzig",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "lockheed martin f-16 fighting falcon",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "lask linz",
-      "traffic": "200+",
       "rank": 10
     }
   ]
