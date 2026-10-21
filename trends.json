@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T20:30:15Z",
+  "updated": "2026-10-21T21:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "lockheed martin f-16 fighting falcon",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "sporting cp",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "jugador de fútbol",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "bayer vs",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
+    },
+    {
+      "name": "harry kane",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "real",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
+    },
+    {
+      "name": "alexis mac allister",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "aeropuerto internacional o'hare",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "alexis mac allister",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "pedro emanuel",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "inter",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "bernardo silva",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "josé maría muscari",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "colegio de arquitectos",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "serpiente",
-      "traffic": "100+",
+      "name": "inter",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
