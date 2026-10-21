@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T15:30:16Z",
+  "updated": "2026-10-21T16:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "río paraná",
-      "traffic": "500+",
+      "name": "aitana movistar arena",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "river vs ferro",
-      "traffic": "200+",
+      "name": "río paraná",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "river vs ferro",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "luisana lopilato",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pronostico la plata",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "accuweather",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "clima merlo",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "mateusz chmura",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "¡ahora caigo!",
-      "traffic": "500+",
+      "name": "mateusz chmura",
+      "traffic": "2000+",
       "rank": 8
+    },
+    {
+      "name": "¡ahora caigo!",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "culturismo",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "maxi lópez",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
