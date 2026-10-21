@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T14:49:34Z",
+  "updated": "2026-10-21T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "accuweather",
+      "name": "pronostico la plata",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mateusz chmura",
-      "traffic": "500+",
+      "name": "luisana lopilato",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "¡ahora caigo!",
-      "traffic": "500+",
+      "name": "accuweather",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "culturismo",
-      "traffic": "1000+",
+      "name": "clima merlo",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "maxi lópez",
+      "name": "mateusz chmura",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "php",
+      "name": "¡ahora caigo!",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "ley",
-      "traffic": "100+",
+      "name": "culturismo",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "calendario 2027",
-      "traffic": "200+",
+      "name": "maxi lópez",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "igor arzuaga",
+      "name": "php",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "colectivos de buenos aires",
-      "traffic": "500+",
+      "name": "ley",
+      "traffic": "100+",
       "rank": 10
     }
   ]
