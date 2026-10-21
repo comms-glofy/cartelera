@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T02:00:15Z",
+  "updated": "2026-10-21T02:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hinestroza",
-      "traffic": "1000+",
+      "name": "leandro paredes",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "millonarios - once caldas",
+      "name": "nazareno casero",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "philadelphia 76ers",
-      "traffic": "100+",
+      "name": "bo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "anfernee simons",
-      "traffic": "200+",
+      "name": "lebron james",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "atlético mineiro",
-      "traffic": "200+",
+      "name": "messi cup",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "bca",
-      "traffic": "100+",
+      "name": "jose luis rodriguez vasco da gama",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "álvaro montero",
-      "traffic": "500+",
+      "name": "nicolás occhiato",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tv argentina",
+      "name": "sabrina rojas",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "miguel merentiel",
-      "traffic": "2000+",
+      "name": "cavani",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "city torque",
-      "traffic": "500+",
+      "name": "montero",
+      "traffic": "200+",
       "rank": 10
     }
   ]
