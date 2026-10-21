@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-21T05:00:14Z",
+  "updated": "2026-10-21T05:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "christina applegate",
+      "name": "corte de agua",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tigres - león",
-      "traffic": "200+",
+      "name": "christina applegate",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "davo xeneize",
+      "name": "tigres - león",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "final libertadores",
-      "traffic": "100+",
+      "name": "davo xeneize",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "maru botana",
-      "traffic": "500+",
+      "name": "final libertadores",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "avianca",
-      "traffic": "200+",
+      "name": "maru botana",
+      "traffic": "1000+",
       "rank": 6
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "el nine",
+      "name": "avianca",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "quien gano",
+      "name": "el nine",
       "traffic": "200+",
       "rank": 10
     }
