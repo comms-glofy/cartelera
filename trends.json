@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T17:00:14Z",
+  "updated": "2026-10-21T17:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como",
-      "traffic": "5000+",
+      "name": "cambio climático",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lille",
+      "name": "galatasaray",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "venezuela",
-      "traffic": "200+",
+      "name": "club de fútbol",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "belgrano cargas",
-      "traffic": "100+",
+      "name": "lille",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "como vs manchester united",
+      "name": "belgrano cargas",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "otto fritzler",
+      "name": "venezuela",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "rayo",
-      "traffic": "200+",
+      "name": "como vs manchester united",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "como - manchester united",
-      "traffic": "10000+",
+      "name": "otto fritzler",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "aitana movistar arena",
-      "traffic": "100+",
+      "name": "rayo",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "limpieza",
-      "traffic": "5000+",
+      "name": "como - manchester united",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
