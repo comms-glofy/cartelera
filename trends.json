@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T01:00:16Z",
+  "updated": "2026-10-21T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rodrigo battaglia",
-      "traffic": "500+",
+      "name": "álvaro montero",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "thiago mendes",
+      "name": "tv argentina",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "quien juega hoy",
-      "traffic": "1000+",
+      "name": "vasco arruabarrena",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "boc",
-      "traffic": "500+",
+      "name": "boca river",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "facundo herrera",
+      "name": "city torque",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "club de regatas vasco da gama",
-      "traffic": "500+",
+      "name": "partidos hoy en vivo",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "futbol hoy",
+      "name": "villa",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "guadalajara - necaxa",
+      "name": "boca vs sao paulo",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "boca junior",
+      "name": "partidos",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "elina costantini",
-      "traffic": "200+",
+      "name": "mineiro",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
