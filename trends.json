@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T18:30:15Z",
+  "updated": "2026-10-21T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter - shakhtar",
-      "traffic": "500+",
+      "name": "ciclón",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "real betis - feyenoord",
-      "traffic": "200+",
+      "name": "united fc",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "aston villa - viking",
+      "name": "lisandro martinez",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "uefa champions",
-      "traffic": "10000+",
+      "name": "inter - shakhtar",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "elina costantini",
+      "name": "aston villa - viking",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "real madrid - rb leipzig",
-      "traffic": "2000+",
+      "name": "real betis - feyenoord",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "bayern - arsenal",
-      "traffic": "2000+",
+      "name": "uefa champions",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pedro sanchez",
+      "name": "elina costantini",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "united",
-      "traffic": "200+",
+      "name": "real madrid - rb leipzig",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "marco trungelliti",
-      "traffic": "200+",
+      "name": "bayern - arsenal",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
