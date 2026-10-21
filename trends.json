@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T15:00:16Z",
+  "updated": "2026-10-21T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico la plata",
-      "traffic": "200+",
+      "name": "río paraná",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "luisana lopilato",
-      "traffic": "100+",
+      "name": "river vs ferro",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "accuweather",
+      "name": "luisana lopilato",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima merlo",
-      "traffic": "500+",
+      "name": "pronostico la plata",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "mateusz chmura",
-      "traffic": "1000+",
+      "name": "accuweather",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "¡ahora caigo!",
+      "name": "clima merlo",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "culturismo",
+      "name": "mateusz chmura",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "maxi lópez",
-      "traffic": "1000+",
+      "name": "¡ahora caigo!",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "php",
-      "traffic": "500+",
+      "name": "culturismo",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "ley",
-      "traffic": "100+",
+      "name": "maxi lópez",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
