@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T04:30:16Z",
+  "updated": "2026-10-21T05:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "boca vs independiente",
+      "name": "avianca",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "avianca",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "boca independiente",
+      "name": "boca vs independiente",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "libertadores",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "el nine",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "quien gano",
       "traffic": "200+",
       "rank": 10
     }
