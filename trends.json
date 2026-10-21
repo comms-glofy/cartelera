@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T11:30:14Z",
+  "updated": "2026-10-21T12:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "entradas u2",
+      "name": "igor arzuaga",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "chaipa",
+      "name": "colectivos de buenos aires",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima la plata",
+      "name": "entradas u2",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ameba comecerebros",
-      "traffic": "1000+",
+      "name": "antena",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "boy olmi",
-      "traffic": "1000+",
+      "name": "chaipa",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "clima la plata",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "ameba comecerebros",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "boy olmi",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
+      "name": "pronóstico para hoy",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "clima corrientes",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "clima bahia blanca",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "tomás martín etcheverry",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima quilmes",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico caba",
-      "traffic": "200+",
       "rank": 10
     }
   ]
