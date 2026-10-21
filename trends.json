@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-21T03:30:13Z",
+  "updated": "2026-10-21T04:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "davo xeneize",
+      "name": "tigres - león",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "final libertadores",
-      "traffic": "100+",
+      "name": "davo xeneize",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "libertadores",
-      "traffic": "1000+",
+      "name": "final libertadores",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "boca independiente",
-      "traffic": "500+",
+      "name": "maru botana",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "maru botana",
-      "traffic": "200+",
+      "name": "boca independiente",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "libertadores",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "avianca",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "el nine",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "quien gano",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "promedios",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
