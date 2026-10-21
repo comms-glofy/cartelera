@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T19:05:01Z",
+  "updated": "2026-10-21T19:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "albardón",
-      "traffic": "100+",
+      "name": "luis zahera",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ciclón",
-      "traffic": "100+",
+      "name": "sporting lisboa - lask",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "united fc",
+      "name": "arsenal vs bayern",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lisandro martinez",
-      "traffic": "200+",
+      "name": "leipzig",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "inter - shakhtar",
-      "traffic": "2000+",
+      "name": "albardón",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "aston villa - viking",
-      "traffic": "1000+",
+      "name": "ciclón",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "real betis - feyenoord",
-      "traffic": "500+",
+      "name": "united fc",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "bayern vs arsenal",
+      "name": "lisandro martinez",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "elina costantini",
-      "traffic": "500+",
+      "name": "inter - shakhtar",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "real madrid - rb leipzig",
-      "traffic": "10000+",
+      "name": "aston villa - viking",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
