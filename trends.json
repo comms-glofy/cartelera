@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T22:00:15Z",
+  "updated": "2026-10-21T22:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kevin castaño",
-      "traffic": "100+",
+      "name": "rodrigo garro",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "entradas independiente",
-      "traffic": "200+",
+      "name": "detención",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rtve",
+      "name": "dinero",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "torque - atlético mineiro",
-      "traffic": "5000+",
+      "name": "kevin castaño",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "posiciones de champions league",
-      "traffic": "100+",
+      "name": "entradas independiente",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "rtve",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "torque - atlético mineiro",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "club almirante brown",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "posiciones de real madrid contra rb leipzig",
-      "traffic": "20000+",
-      "rank": 7
+      "traffic": "10000+",
+      "rank": 9
     },
     {
       "name": "posiciones de inter milan contra shakhtar",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "palmeiras vs fluminense",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "maipú",
-      "traffic": "100+",
       "rank": 10
     }
   ]
