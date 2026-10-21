@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T22:30:13Z",
+  "updated": "2026-10-21T22:34:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rodrigo garro",
-      "traffic": "200+",
+      "name": "suizo argentina",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "detención",
+      "name": "cuándo juega estudiantes",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dinero",
+      "name": "rodrigo garro",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "kevin castaño",
-      "traffic": "200+",
+      "name": "detención",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "entradas independiente",
+      "name": "dinero",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "kevin castaño",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "entradas independiente",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "rtve",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "torque - atlético mineiro",
       "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "club almirante brown",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de real madrid contra rb leipzig",
-      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "posiciones de inter milan contra shakhtar",
-      "traffic": "5000+",
+      "name": "posiciones de champions league",
+      "traffic": "100+",
       "rank": 10
     }
   ]
