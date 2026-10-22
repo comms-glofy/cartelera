@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T17:30:28Z",
+  "updated": "2026-10-22T18:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brighton",
+      "name": "incendio",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ea cierra bioware",
-      "traffic": "100+",
+      "name": "maxi iglesias",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "juventus",
-      "traffic": "500+",
+      "name": "importación",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sturm - marsella",
-      "traffic": "200+",
+      "name": "dinamo zagreb",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "candela arizaga",
+      "name": "juventus vs",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "harry styles",
-      "traffic": "200+",
+      "name": "uefa europa league",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "conference league",
+      "name": "inflación",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "europa league",
-      "traffic": "1000+",
+      "name": "brighton",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "soledad pastorutti",
-      "traffic": "200+",
+      "name": "ea cierra bioware",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "espert",
-      "traffic": "100+",
+      "name": "juventus",
+      "traffic": "500+",
       "rank": 10
     }
   ]
