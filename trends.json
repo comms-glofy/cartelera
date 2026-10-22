@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T01:10:13Z",
+  "updated": "2026-10-22T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santa fe - jaguares",
-      "traffic": "200+",
+      "name": "lakers - warriors",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "thiago silva",
+      "name": "atlas - américa",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "el preferido de palermo",
-      "traffic": "200+",
+      "name": "libertadores femenina",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "infobae en vivo",
+      "name": "belgrano femenino",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "rockets - mavericks",
-      "traffic": "200+",
+      "name": "santa fe - jaguares",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "empresa",
+      "name": "thiago silva",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "nba hoy",
-      "traffic": "100+",
+      "name": "el preferido de palermo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "hulk",
+      "name": "rockets - mavericks",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "fluminense",
-      "traffic": "1000+",
+      "name": "empresa",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "columbus crew - st. louis city sc",
-      "traffic": "200+",
+      "name": "nba hoy",
+      "traffic": "100+",
       "rank": 10
     }
   ]
