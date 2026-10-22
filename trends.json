@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T00:30:13Z",
+  "updated": "2026-10-22T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "columbus crew - st. louis city sc",
+      "name": "el preferido de palermo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "libertadores 2026",
+      "name": "infobae en vivo",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "conmebol libertadores",
-      "traffic": "1000+",
+      "name": "rockets - mavericks",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "empresa",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tiempo mañana",
-      "traffic": "20000+",
+      "name": "nba hoy",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "palmeiras - fluminense",
-      "traffic": "10000+",
+      "name": "hulk",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "weather tomorrow",
-      "traffic": "500+",
+      "name": "columbus crew - st. louis city sc",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "atletico mg",
-      "traffic": "500+",
+      "name": "libertadores 2026",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "llaneros - deportivo cali",
-      "traffic": "200+",
+      "name": "copa libertadores",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "enzo pérez",
-      "traffic": "100+",
+      "name": "tiempo de mañana",
+      "traffic": "500000+",
       "rank": 10
     }
   ]
