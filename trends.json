@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T11:00:14Z",
+  "updated": "2026-10-22T11:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico santa fe",
+      "name": "windy",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "jimena barón",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "pronostico santa fe",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "servicio meteorológico nacional",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
       "name": "posiciones de club de fútbol pachuca contra club de fútbol cruz azul",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "clima",
+      "traffic": "200000+",
+      "rank": 6
     },
     {
       "name": "weather",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "clima parana",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "clima formosa",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "tiempo en rosario",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "smn",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "tiempo en cordoba",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico cordoba",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "alpine f1 team",
-      "traffic": "1000+",
+      "name": "clima neuquen",
+      "traffic": "200+",
       "rank": 10
     }
   ]
