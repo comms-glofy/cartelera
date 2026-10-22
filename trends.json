@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-22T08:30:15Z",
+  "updated": "2026-10-22T09:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo en cordoba",
+      "name": "la nación",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima cordoba",
-      "traffic": "200+",
+      "name": "pronostico cordoba",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "clima cordoba",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "alpine f1 team",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "clima san luis",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "santos - pumas",
+      "name": "unión tranviarios automotor",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "walker kessler",
+      "name": "clima san luis",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ty jerome",
-      "traffic": "200+",
+      "name": "santos - pumas",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "clayface",
+      "name": "walker kessler",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "paulinho",
-      "traffic": "100+",
+      "name": "ty jerome",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "liga mx",
+      "name": "clayface",
       "traffic": "200+",
       "rank": 10
     }
