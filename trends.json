@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T03:30:14Z",
+  "updated": "2026-10-22T04:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paulinho",
+      "name": "walker kessler",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "davion mitchell",
+      "name": "ty jerome",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "paulinho",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "liga mx",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "davion mitchell",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "pachuca - cruz azul",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "ziaire williams",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "mercedes ninci",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "trail blazers - suns",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "fabio",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "felipe fort",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "marta fort",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "edith hermida",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "china ansa",
-      "traffic": "200+",
+      "name": "toluca",
+      "traffic": "500+",
       "rank": 10
     }
   ]
