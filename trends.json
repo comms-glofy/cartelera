@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T12:00:14Z",
+  "updated": "2026-10-22T12:13:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "entradas u2 argentina",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "elena rybakina",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "milei",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "accuweather",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "windy",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "jimena barón",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "veterano",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pronostico santa fe",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "posiciones de club de fútbol pachuca contra club de fútbol cruz azul",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 9
-    },
-    {
-      "name": "weather",
-      "traffic": "500+",
       "rank": 10
     }
   ]
