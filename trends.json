@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T16:30:17Z",
+  "updated": "2026-10-22T17:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lech poznań - sunderland afc",
-      "traffic": "200+",
+      "name": "europa league",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ofi - leverkusen",
-      "traffic": "500+",
+      "name": "espert",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cueva",
+      "name": "soledad pastorutti",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "getafe - lugano",
-      "traffic": "200+",
+      "name": "lech poznań - sunderland afc",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "celeste saulo",
-      "traffic": "2000+",
+      "name": "ofi - leverkusen",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "juventus - rennes",
-      "traffic": "500+",
+      "name": "cueva",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "jablonec - brighton",
+      "name": "getafe - lugano",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "francisco comesaña",
-      "traffic": "200+",
+      "name": "celeste saulo",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "premio princesa de asturias",
-      "traffic": "100+",
+      "name": "juventus - rennes",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "soledad",
-      "traffic": "2000+",
+      "name": "jablonec - brighton",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
