@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T20:00:18Z",
+  "updated": "2026-10-22T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "asociación del fútbol argentino",
-      "traffic": "500+",
+      "name": "tom skerritt",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nancy pazos",
+      "name": "río neuquén",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "crystal palace",
+      "name": "parque camba cua",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "pago",
-      "traffic": "200+",
+      "name": "olympiacos",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "celtic",
+      "name": "bolavip",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "combustible",
-      "traffic": "200+",
+      "name": "china",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "nicolás vázquez",
-      "traffic": "200+",
+      "name": "lluvia de meteoros",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "celtic f. c. - celta de vigo",
-      "traffic": "100+",
+      "name": "asociación del fútbol argentino",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "laguna del inca",
+      "name": "nancy pazos",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "posiciones de jablonec contra brighton & hove albion football club",
-      "traffic": "1000+",
+      "name": "crystal palace",
+      "traffic": "100+",
       "rank": 10
     }
   ]
