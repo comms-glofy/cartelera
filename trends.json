@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T01:00:16Z",
+  "updated": "2026-10-22T01:10:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el preferido de palermo",
+      "name": "santa fe - jaguares",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "infobae en vivo",
-      "traffic": "100+",
+      "name": "thiago silva",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rockets - mavericks",
+      "name": "el preferido de palermo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "empresa",
-      "traffic": "200+",
+      "name": "infobae en vivo",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "nba hoy",
-      "traffic": "100+",
+      "name": "rockets - mavericks",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "hulk",
+      "name": "empresa",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "columbus crew - st. louis city sc",
-      "traffic": "200+",
+      "name": "nba hoy",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "libertadores 2026",
+      "name": "hulk",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "copa libertadores",
-      "traffic": "2000+",
+      "name": "fluminense",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "500000+",
+      "name": "columbus crew - st. louis city sc",
+      "traffic": "200+",
       "rank": 10
     }
   ]
