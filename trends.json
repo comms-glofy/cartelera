@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-22T21:00:14Z",
+  "updated": "2026-10-22T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ajax",
-      "traffic": "200+",
+      "name": "paso de la patria",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "a qué hora juega estudiantes",
-      "traffic": "20000+",
+      "name": "ejecución",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dólar ámbito",
-      "traffic": "500+",
+      "name": "leonor de borbón",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "río neuquén",
+      "name": "ajax",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tom skerritt",
-      "traffic": "200+",
+      "name": "a qué hora juega estudiantes",
+      "traffic": "20000+",
       "rank": 5
     },
     {
-      "name": "olympiacos",
-      "traffic": "100+",
+      "name": "dólar ámbito",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "parque camba cua",
-      "traffic": "100+",
+      "name": "río neuquén",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "bolavip",
-      "traffic": "100+",
+      "name": "tom skerritt",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "china",
+      "name": "parque camba cua",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lluvia de meteoros",
+      "name": "bolavip",
       "traffic": "100+",
       "rank": 10
     }
