@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-22T02:30:13Z",
+  "updated": "2026-10-22T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "edith hermida",
-      "traffic": "200+",
+      "name": "trail blazers - suns",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "china ansa",
+      "name": "carlos miguel",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "umami",
-      "traffic": "200+",
+      "name": "fabio",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "felipe fort",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "marta fort",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "edith hermida",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "china ansa",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "lakers",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "diego ramos",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "germán cano",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "telefe",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "miami heat",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "claudia wells",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de fc cincinnati contra dc united",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "toluca - tijuana",
+      "name": "umami",
       "traffic": "200+",
       "rank": 10
     }
