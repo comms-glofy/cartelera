@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T00:00:15Z",
+  "updated": "2026-10-22T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "columbus crew - st. louis city sc",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "palmeiras - fluminense",
-      "traffic": "5000+",
+      "name": "libertadores 2026",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tiempo mañana",
-      "traffic": "10000+",
+      "name": "conmebol libertadores",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
+      "rank": 4
+    },
+    {
+      "name": "tiempo mañana",
+      "traffic": "20000+",
+      "rank": 5
+    },
+    {
+      "name": "palmeiras - fluminense",
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "weather tomorrow",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "name": "atletico mg",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "llaneros - deportivo cali",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "enzo pérez",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "alfredo casero",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "raptors - bulls",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "wizards - bucks",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "heat - timberwolves",
-      "traffic": "200+",
       "rank": 10
     }
   ]
