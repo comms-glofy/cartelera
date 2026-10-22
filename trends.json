@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T17:00:18Z",
+  "updated": "2026-10-22T17:27:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "europa league",
-      "traffic": "500+",
+      "name": "brighton",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "espert",
+      "name": "ea cierra bioware",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "soledad pastorutti",
-      "traffic": "100+",
+      "name": "juventus",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "lech poznań - sunderland afc",
-      "traffic": "500+",
+      "name": "sturm - marsella",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ofi - leverkusen",
-      "traffic": "500+",
+      "name": "candela arizaga",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cueva",
-      "traffic": "100+",
+      "name": "harry styles",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "getafe - lugano",
-      "traffic": "500+",
+      "name": "conference league",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "celeste saulo",
-      "traffic": "2000+",
+      "name": "europa league",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "juventus - rennes",
-      "traffic": "1000+",
+      "name": "soledad pastorutti",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "jablonec - brighton",
-      "traffic": "1000+",
+      "name": "espert",
+      "traffic": "100+",
       "rank": 10
     }
   ]
