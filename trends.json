@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T07:30:14Z",
+  "updated": "2026-10-22T08:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "liga mx",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "davion mitchell",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "ziaire williams",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "pachuca - cruz azul",
-      "traffic": "500+",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "mercedes ninci",
+      "traffic": "200+",
       "rank": 10
     }
   ]
