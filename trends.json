@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T21:30:15Z",
+  "updated": "2026-10-22T22:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paso de la patria",
-      "traffic": "500+",
+      "name": "concurso de acreedores",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ejecución",
+      "name": "julio coronel",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "dengue",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "paso de la patria",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "leonor de borbón",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "ejecución",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "ajax",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "a qué hora juega estudiantes",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "dólar ámbito",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "río neuquén",
-      "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "tom skerritt",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "parque camba cua",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "bolavip",
-      "traffic": "100+",
       "rank": 10
     }
   ]
