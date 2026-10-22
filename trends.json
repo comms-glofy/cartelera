@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-22T09:00:14Z",
+  "updated": "2026-10-22T09:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la nación",
-      "traffic": "100+",
+      "name": "smn",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "la nación",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "el tiempo en córdoba",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "pronostico cordoba",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "alpine f1 team",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "clima cordoba",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "alpine f1 team",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "unión tranviarios automotor",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "clima san luis",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "santos - pumas",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "walker kessler",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ty jerome",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clayface",
+      "name": "walker kessler",
       "traffic": "200+",
       "rank": 10
     }
