@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T07:00:16Z",
+  "updated": "2026-10-22T07:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "walker kessler",
-      "traffic": "200+",
+      "name": "santos - pumas",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ty jerome",
+      "name": "walker kessler",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clayface",
+      "name": "ty jerome",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "paulinho",
-      "traffic": "100+",
+      "name": "clayface",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "liga mx",
-      "traffic": "500+",
+      "name": "paulinho",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "liga mx",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "davion mitchell",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ziaire williams",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "pachuca - cruz azul",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "mercedes ninci",
-      "traffic": "200+",
       "rank": 10
     }
   ]
