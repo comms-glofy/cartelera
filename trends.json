@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T18:30:14Z",
+  "updated": "2026-10-22T19:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bournemouth - milan",
+      "name": "beşiktaş - crystal palace",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "riesgo país",
-      "traffic": "200+",
+      "name": "brighton vs",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tamara pettinato",
+      "name": "omonia - benfica",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "billie eilish",
-      "traffic": "100+",
+      "name": "estadio único diego armando maradona",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "incendio",
-      "traffic": "200+",
+      "name": "bournemouth - milan",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "maxi iglesias",
-      "traffic": "1000+",
+      "name": "riesgo país",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "importación",
+      "name": "tamara pettinato",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dinamo zagreb",
+      "name": "billie eilish",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "juventus vs",
-      "traffic": "200+",
+      "name": "incendio",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "inflación",
-      "traffic": "200+",
+      "name": "importación",
+      "traffic": "500+",
       "rank": 10
     }
   ]
