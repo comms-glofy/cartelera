@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T20:42:34Z",
+  "updated": "2026-10-22T21:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ajax",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "a qué hora juega estudiantes",
+      "traffic": "20000+",
+      "rank": 2
+    },
+    {
       "name": "dólar ámbito",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "río neuquén",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "tom skerritt",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "olympiacos",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "parque camba cua",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "bolavip",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "china",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "lluvia de meteoros",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "asociación del fútbol argentino",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "epec",
-      "traffic": "500+",
       "rank": 10
     }
   ]
