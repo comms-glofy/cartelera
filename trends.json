@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T12:30:18Z",
+  "updated": "2026-10-22T13:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "entradas u2",
-      "traffic": "500+",
+      "name": "ley de discapacidad",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ernestina pais",
+      "name": "albañil",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "elena rybakina",
-      "traffic": "200+",
+      "name": "entradas u2",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "milei",
-      "traffic": "2000+",
+      "name": "ernestina pais",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "milei",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "elena rybakina",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "accuweather",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "windy",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "jimena barón",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "veterano",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico santa fe",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "servicio meteorológico nacional",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
