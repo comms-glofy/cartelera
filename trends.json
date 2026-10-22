@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T22:30:14Z",
+  "updated": "2026-10-22T23:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ypf",
+      "name": "76ers - cavaliers",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ciberataque",
-      "traffic": "200+",
+      "name": "club atlético tigre",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "samuel gelblung",
-      "traffic": "100+",
+      "name": "ciberataque",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "samuel gelblung",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "ypf",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "chofer",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "concurso de acreedores",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "julio coronel",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "dengue",
+      "name": "concurso de acreedores",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "paso de la patria",
-      "traffic": "1000+",
+      "name": "julio coronel",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "ejecución",
+      "name": "dengue",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "leonor de borbón",
-      "traffic": "200+",
+      "name": "río",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
