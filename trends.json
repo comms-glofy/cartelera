@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-22T10:00:16Z",
+  "updated": "2026-10-22T10:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de club de fútbol pachuca contra club de fútbol cruz azul",
-      "traffic": "500+",
+      "name": "pronostico santa fe",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "servicio meteorológico nacional",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "weather",
-      "traffic": "200+",
+      "name": "posiciones de club de fútbol pachuca contra club de fútbol cruz azul",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "clima santa fe",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "200000+",
       "rank": 4
+    },
+    {
+      "name": "weather",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "clima parana",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "clima formosa",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima neuquen",
+      "name": "clima formosa",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "smn",
-      "traffic": "200+",
+      "name": "tiempo en rosario",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "loto",
-      "traffic": "100+",
+      "name": "smn",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "la nación",
+      "name": "tiempo en cordoba",
       "traffic": "200+",
       "rank": 10
     }
