@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T13:30:18Z",
+  "updated": "2026-10-22T14:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "virus",
+      "name": "crecimiento económico",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "daniil medvédev",
+      "name": "tenis",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "el hoyo",
+      "name": "mochila de emergencia",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sucesos",
-      "traffic": "200+",
+      "name": "virus",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "cumpleaños de milei",
-      "traffic": "100+",
+      "name": "daniil medvédev",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ley de discapacidad",
-      "traffic": "100+",
+      "name": "el hoyo",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "albañil",
+      "name": "sucesos",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "entradas u2",
-      "traffic": "2000+",
+      "name": "cumpleaños de milei",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "ernestina pais",
-      "traffic": "500+",
+      "name": "ley de discapacidad",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "boat balon de oro",
-      "traffic": "200+",
+      "name": "albañil",
+      "traffic": "500+",
       "rank": 10
     }
   ]
