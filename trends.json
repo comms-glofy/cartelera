@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-22T03:00:14Z",
+  "updated": "2026-10-22T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "trail blazers - suns",
+      "name": "paulinho",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "carlos miguel",
-      "traffic": "200+",
+      "name": "davion mitchell",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fabio",
-      "traffic": "100+",
+      "name": "pachuca - cruz azul",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "felipe fort",
+      "name": "mercedes ninci",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "trail blazers - suns",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "fabio",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "felipe fort",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "marta fort",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "edith hermida",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "china ansa",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "lakers",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "diego ramos",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "umami",
+      "name": "china ansa",
       "traffic": "200+",
       "rank": 10
     }
