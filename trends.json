@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T15:30:15Z",
+  "updated": "2026-10-22T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gianinna maradona",
-      "traffic": "100+",
+      "name": "francisco comesaña",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "empresario",
-      "traffic": "2000+",
+      "name": "premio princesa de asturias",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "robert de niro",
-      "traffic": "200+",
+      "name": "soledad",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "gianluca prestianni",
-      "traffic": "500+",
+      "name": "fenómeno meteorológico extremo",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "judi dench",
+      "name": "abel pintos",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "shamonda",
+      "name": "gianinna maradona",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mochila de emergencia",
-      "traffic": "500+",
+      "name": "empresario",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "tenis",
-      "traffic": "500+",
+      "name": "robert de niro",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "crecimiento económico",
-      "traffic": "200+",
+      "name": "gianluca prestianni",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "virus",
-      "traffic": "1000+",
+      "name": "judi dench",
+      "traffic": "500+",
       "rank": 10
     }
   ]
