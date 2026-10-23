@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-23T22:00:15Z",
+  "updated": "2026-10-23T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manuel moises alvez",
+      "name": "cristian castro",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "gelp",
-      "traffic": "100+",
+      "name": "lautaro rivero",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "virginia lago",
+      "name": "manuel moises alvez",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "pedri",
+      "name": "gelp",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "subte a",
+      "name": "pedri",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "balon de oro",
+      "name": "virginia lago",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gimnasia y esgrima - platense",
-      "traffic": "10000+",
+      "name": "subte a",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "lol esports",
-      "traffic": "100+",
+      "name": "balon de oro",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "gimnasia - sarmiento",
-      "traffic": "20000+",
+      "name": "gimnasia y esgrima - platense",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "omar sy",
+      "name": "lol esports",
       "traffic": "100+",
       "rank": 10
     }
