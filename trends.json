@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T08:30:14Z",
+  "updated": "2026-10-23T08:44:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,47 +9,47 @@
       "rank": 1
     },
     {
+      "name": "posiciones de atlético nacional contra deportivo pasto",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "estadio centenario uruguay",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "denver nuggets",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "el dia",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "diario ole",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ole",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "futbol hoy",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "estudiantes vs corinthians",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "partido hoy",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "partido",
+      "name": "partido hoy",
       "traffic": "200+",
       "rank": 10
     }
