@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T00:00:16Z",
+  "updated": "2026-10-23T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flamengo - estudiantes",
-      "traffic": "20000+",
+      "name": "charly garcia",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "nito artaza",
+      "name": "peter thiel",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juicio",
-      "traffic": "1000+",
+      "name": "abuelo",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "renault filante",
+      "name": "leonardo cohen arazi",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "76ers - cavaliers",
-      "traffic": "1000+",
+      "name": "flamengo - estudiantes",
+      "traffic": "50000+",
       "rank": 5
     },
     {
-      "name": "chamamé",
-      "traffic": "2000+",
+      "name": "nito artaza",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "club atlético tigre",
-      "traffic": "100+",
+      "name": "juicio",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "universidad nacional de la plata (unlp)",
+      "name": "renault filante",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ciberataque",
-      "traffic": "200+",
+      "name": "76ers - cavaliers",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "samuel gelblung",
-      "traffic": "200+",
+      "name": "chamamé",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
