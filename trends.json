@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T21:00:21Z",
+  "updated": "2026-10-23T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lol esports",
+      "name": "pedri",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "gimnasia - sarmiento",
-      "traffic": "5000+",
+      "name": "virginia lago",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "omar sy",
-      "traffic": "100+",
+      "name": "balon de oro",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "marcela coronel",
-      "traffic": "500+",
+      "name": "gimnasia y esgrima - platense",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "minería",
+      "name": "lol esports",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "gabigol",
-      "traffic": "100+",
+      "name": "gimnasia - sarmiento",
+      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "meghan markle",
+      "name": "omar sy",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "justicia",
-      "traffic": "2000+",
+      "name": "marcela coronel",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "independiente del valle - u. católica",
-      "traffic": "500+",
+      "name": "minería",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rubio ñu - guaraní",
-      "traffic": "500+",
+      "name": "gabigol",
+      "traffic": "200+",
       "rank": 10
     }
   ]
