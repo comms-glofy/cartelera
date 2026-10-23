@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T04:00:17Z",
+  "updated": "2026-10-23T04:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estadio centenario uruguay",
-      "traffic": "200+",
+      "name": "posiciones de atlético nacional contra deportivo pasto",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "diario ole",
+      "name": "estadio centenario uruguay",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "el dia",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "diario ole",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "palmeiras",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "estudiantes vs corinthians",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "partido hoy",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "martin ojeda",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "final copa libertadores 2026",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "buquebus",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "gabigol",
-      "traffic": "100+",
+      "name": "partido",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cetre",
-      "traffic": "1000+",
+      "name": "flamengo fc",
+      "traffic": "100+",
       "rank": 10
     }
   ]
