@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T16:00:15Z",
+  "updated": "2026-10-23T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "explotación laboral",
+      "name": "evasión fiscal",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ruta nacional 40",
-      "traffic": "500+",
+      "name": "liam lawson",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "al nassr",
-      "traffic": "500+",
+      "name": "primera división de arabia saudita",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "chubut",
-      "traffic": "500+",
+      "name": "avengers doomsday",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "michael gray",
+      "name": "taylor fritz",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "banco central de la república argentina",
-      "traffic": "500+",
+      "name": "explotación laboral",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "árbol",
-      "traffic": "5000+",
+      "name": "ruta nacional 40",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "alexis messidoro",
-      "traffic": "500+",
+      "name": "al nassr",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "feriados noviembre 2026",
-      "traffic": "500+",
+      "name": "empresa",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "alerta naranja tormentas",
-      "traffic": "200+",
+      "name": "chubut",
+      "traffic": "500+",
       "rank": 10
     }
   ]
