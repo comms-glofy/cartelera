@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T18:00:16Z",
+  "updated": "2026-10-23T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "entrenador",
+      "name": "vincent kompany",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "moreno",
-      "traffic": "100+",
+      "name": "torino - monza",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "china",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "denuncia",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "tennessee",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "alta montaña",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "dinero",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "leonor de borbón",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "juan román riquelme",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "worlds",
+      "name": "entrenador",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "lali espósito",
-      "traffic": "500+",
+      "name": "moreno",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "javier milei",
+      "name": "dinero",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "antonela roccuzzo",
-      "traffic": "2000+",
+      "name": "leonor de borbón",
+      "traffic": "100+",
       "rank": 10
     }
   ]
