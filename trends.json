@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T17:30:14Z",
+  "updated": "2026-10-23T18:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lali espósito",
-      "traffic": "200+",
+      "name": "entrenador",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "javier milei",
-      "traffic": "500+",
+      "name": "moreno",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "antonela roccuzzo",
-      "traffic": "1000+",
+      "name": "alta montaña",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "club atlético belgrano",
+      "name": "dinero",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "murakami",
+      "name": "leonor de borbón",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "gasoducto",
-      "traffic": "100+",
+      "name": "juan román riquelme",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "catamarca",
-      "traffic": "200+",
+      "name": "worlds",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "visionquest",
-      "traffic": "100+",
+      "name": "lali espósito",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "evasión fiscal",
-      "traffic": "200+",
+      "name": "javier milei",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "liam lawson",
-      "traffic": "200+",
+      "name": "antonela roccuzzo",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
