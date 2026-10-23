@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T04:30:14Z",
+  "updated": "2026-10-23T05:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de atlético nacional contra deportivo pasto",
-      "traffic": "1000+",
-      "rank": 1
-    },
-    {
       "name": "estadio centenario uruguay",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "el dia",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "diario ole",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "palmeiras",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "estudiantes vs corinthians",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "partido hoy",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "martin ojeda",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "partido",
-      "traffic": "200+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "flamengo fc",
       "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "buquebus",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "palmeiras libertadores",
+      "traffic": "200+",
       "rank": 10
     }
   ]
