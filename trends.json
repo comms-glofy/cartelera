@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-23T19:00:16Z",
+  "updated": "2026-10-23T19:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "stuttgart - mönchengladbach",
+      "name": "argentina",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ipswich - nottingham forest",
-      "traffic": "500+",
+      "name": "alaves",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "al ahli",
-      "traffic": "200+",
+      "name": "mundial sub 17 femenino",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "al hilal",
+      "name": "torino fc",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "vincent kompany",
-      "traffic": "100+",
+      "name": "lucas paquetá",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "torino - monza",
-      "traffic": "500+",
+      "name": "yemen",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "china",
-      "traffic": "2000+",
+      "name": "stuttgart - mönchengladbach",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "denuncia",
-      "traffic": "100+",
+      "name": "ipswich - nottingham forest",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "tennessee",
+      "name": "al ahli",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "entrenador",
+      "name": "al hilal",
       "traffic": "200+",
       "rank": 10
     }
