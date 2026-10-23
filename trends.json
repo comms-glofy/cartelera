@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-23T10:30:13Z",
+  "updated": "2026-10-23T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el once",
-      "traffic": "100+",
+      "name": "marco trungelliti",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pronostico mar del plata",
+      "name": "martín ojeda",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "el once",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "pronostico mar del plata",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "estancia",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "clima la plata",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "pronostico posadas",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "bet 365",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "posiciones de atlético nacional contra deportivo pasto",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "diario ole",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "estadio centenario uruguay",
+      "name": "el dia",
       "traffic": "200+",
       "rank": 10
     }
