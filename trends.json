@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T03:30:15Z",
+  "updated": "2026-10-23T04:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "estadio centenario uruguay",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "diario ole",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "palmeiras",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
       "name": "estudiantes vs corinthians",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "partido hoy",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "martin ojeda",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
-      "name": "donde se juega la final de la libertadores 2026",
+      "name": "final copa libertadores 2026",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "buquebus",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "donde es la final de la libertadores 2026",
-      "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "gabigol",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "cetre",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "cronología de flamengo contra estudiantes de la plata",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "giorgian de arrascaeta",
-      "traffic": "200+",
       "rank": 10
     }
   ]
