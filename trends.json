@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T20:00:16Z",
+  "updated": "2026-10-23T20:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "independiente del valle - u. católica",
-      "traffic": "200+",
+      "name": "marcela coronel",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "rubio ñu - guaraní",
-      "traffic": "200+",
+      "name": "minería",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bucks - bulls",
-      "traffic": "200+",
+      "name": "gabigol",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "meghan markle",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "justicia",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "independiente del valle - u. católica",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "rubio ñu - guaraní",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "bucks - bulls",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "franco colapinto",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "argentina",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "alaves",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "torino",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "mundial sub 17 femenino",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "lucas paquetá",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "torino fc",
-      "traffic": "200+",
       "rank": 10
     }
   ]
