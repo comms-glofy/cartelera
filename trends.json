@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T11:30:16Z",
+  "updated": "2026-10-23T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nancy dure",
-      "traffic": "100+",
+      "name": "indio solari",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "nancy dure",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "23 de octubre",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "barcelona vs real madrid",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "el esquiu",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "marco trungelliti",
-      "traffic": "200+",
       "rank": 5
     },
     {
       "name": "martín ojeda",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "marco trungelliti",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "el once",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pronostico mar del plata",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "estancia",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pronóstico del tiempo",
-      "traffic": "200+",
+      "name": "estancia",
+      "traffic": "500+",
       "rank": 10
     }
   ]
