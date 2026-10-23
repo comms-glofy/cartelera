@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T00:30:14Z",
+  "updated": "2026-10-23T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "charly garcia",
-      "traffic": "500+",
+      "name": "muslera",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "peter thiel",
+      "name": "edlp",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "abuelo",
-      "traffic": "100+",
+      "name": "agustín rossi",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "leonardo cohen arazi",
-      "traffic": "100+",
+      "name": "tíbet",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "flamengo - estudiantes",
-      "traffic": "50000+",
+      "name": "guido carrillo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "nito artaza",
+      "name": "pedro",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "juicio",
-      "traffic": "1000+",
+      "name": "mcdonald's",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "renault filante",
-      "traffic": "200+",
+      "name": "telefe",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "76ers - cavaliers",
-      "traffic": "1000+",
+      "name": "atlético nacional - pasto",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "chamamé",
-      "traffic": "2000+",
+      "name": "estudiantes x flamengo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
