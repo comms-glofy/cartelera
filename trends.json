@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T06:00:16Z",
+  "updated": "2026-10-23T06:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "denver nuggets",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
       "name": "el dia",
       "traffic": "200+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "diario ole",
       "traffic": "200+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "palmeiras",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "ole",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "futbol hoy",
-      "traffic": "200+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "estudiantes vs corinthians",
       "traffic": "100+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "partido hoy",
       "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "martin ojeda",
+      "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "flamengo fc",
+      "traffic": "100+",
       "rank": 10
     }
   ]
