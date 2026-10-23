@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T14:01:46Z",
+  "updated": "2026-10-23T14:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "árbol",
-      "traffic": "1000+",
+      "name": "banco central de la república argentina",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "feriados noviembre 2026",
-      "traffic": "200+",
+      "name": "árbol",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "feriados noviembre 2026",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "alerta naranja tormentas",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "islas malvinas (falkland islands)",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "elena rybakina",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "indio solari",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nancy dure",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "23 de octubre",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "barcelona vs real madrid",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "el esquiu",
-      "traffic": "100+",
       "rank": 10
     }
   ]
