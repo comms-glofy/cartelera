@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-23T19:30:18Z",
+  "updated": "2026-10-23T20:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentina",
-      "traffic": "500+",
+      "name": "independiente del valle - u. católica",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alaves",
-      "traffic": "100+",
+      "name": "rubio ñu - guaraní",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "mundial sub 17 femenino",
-      "traffic": "100+",
+      "name": "bucks - bulls",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "torino fc",
-      "traffic": "200+",
+      "name": "franco colapinto",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "lucas paquetá",
-      "traffic": "2000+",
+      "name": "argentina",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "yemen",
+      "name": "alaves",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "stuttgart - mönchengladbach",
-      "traffic": "500+",
+      "name": "torino",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ipswich - nottingham forest",
-      "traffic": "1000+",
+      "name": "mundial sub 17 femenino",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "al ahli",
-      "traffic": "200+",
+      "name": "lucas paquetá",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "al hilal",
+      "name": "torino fc",
       "traffic": "200+",
       "rank": 10
     }
