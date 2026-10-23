@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-23T09:00:16Z",
+  "updated": "2026-10-23T09:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bet 365",
+      "name": "estancia",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "posiciones de atlético nacional contra deportivo pasto",
-      "traffic": "1000+",
+      "name": "pronóstico del tiempo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "diario ole",
+      "name": "clima posadas",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "estadio centenario uruguay",
-      "traffic": "200+",
+      "name": "clima la plata",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "denver nuggets",
+      "name": "bet 365",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "el dia",
-      "traffic": "200+",
+      "name": "posiciones de atlético nacional contra deportivo pasto",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "ole",
-      "traffic": "2000+",
+      "name": "diario ole",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "futbol hoy",
+      "name": "estadio centenario uruguay",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "estudiantes vs corinthians",
+      "name": "denver nuggets",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "partido hoy",
+      "name": "el dia",
       "traffic": "200+",
       "rank": 10
     }
