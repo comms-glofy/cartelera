@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T21:30:13Z",
+  "updated": "2026-10-23T21:49:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pedri",
+      "name": "gelp",
       "traffic": "100+",
       "rank": 1
     },
     {
       "name": "virginia lago",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "balon de oro",
+      "name": "pedri",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gimnasia y esgrima - platense",
-      "traffic": "2000+",
+      "name": "subte a",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "balon de oro",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "gimnasia y esgrima - platense",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "lol esports",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "gimnasia - sarmiento",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "omar sy",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "marcela coronel",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "minería",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "gabigol",
-      "traffic": "200+",
       "rank": 10
     }
   ]
