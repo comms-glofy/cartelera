@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T15:30:14Z",
+  "updated": "2026-10-23T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ruta nacional 40",
-      "traffic": "500+",
+      "name": "explotación laboral",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "al nassr",
+      "name": "ruta nacional 40",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "chubut",
-      "traffic": "200+",
+      "name": "al nassr",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "chubut",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "michael gray",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "banco central de la república argentina",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "árbol",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "alexis messidoro",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "feriados noviembre 2026",
+      "name": "alexis messidoro",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "alerta naranja tormentas",
-      "traffic": "200+",
+      "name": "feriados noviembre 2026",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "islas malvinas (falkland islands)",
-      "traffic": "1000+",
+      "name": "alerta naranja tormentas",
+      "traffic": "200+",
       "rank": 10
     }
   ]
