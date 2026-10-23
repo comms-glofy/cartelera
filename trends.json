@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T06:30:12Z",
+  "updated": "2026-10-23T07:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
+      "name": "futbol hoy",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "estudiantes vs corinthians",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "partido hoy",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "martin ojeda",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "flamengo fc",
+      "name": "martin ojeda",
       "traffic": "100+",
       "rank": 10
     }
