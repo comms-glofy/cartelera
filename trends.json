@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T17:00:17Z",
+  "updated": "2026-10-23T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "antonela roccuzzo",
-      "traffic": "500+",
+      "name": "lali espósito",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "javier milei",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "antonela roccuzzo",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "club atlético belgrano",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "murakami",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "gasoducto",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "catamarca",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "visionquest",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "evasión fiscal",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "liam lawson",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "evasión fiscal",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "primera división de arabia saudita",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "avengers doomsday",
-      "traffic": "500+",
       "rank": 10
     }
   ]
