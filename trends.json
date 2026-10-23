@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T22:30:14Z",
+  "updated": "2026-10-23T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cristian castro",
+      "name": "juan alberto mateyko",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lautaro rivero",
-      "traffic": "200+",
+      "name": "juventud - peñarol",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "manuel moises alvez",
+      "name": "celtics - knicks",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gelp",
+      "name": "cristian castro",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "pedri",
+      "name": "lautaro rivero",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "virginia lago",
+      "name": "manuel moises alvez",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "subte a",
-      "traffic": "500+",
+      "name": "gelp",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "balon de oro",
-      "traffic": "500+",
+      "name": "pedri",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "gimnasia y esgrima - platense",
-      "traffic": "10000+",
+      "name": "virginia lago",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lol esports",
-      "traffic": "100+",
+      "name": "subte a",
+      "traffic": "500+",
       "rank": 10
     }
   ]
