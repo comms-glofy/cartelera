@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:30:16Z",
+  "updated": "2026-10-23T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "pronóstico del tiempo",
+      "name": "clima posadas",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima posadas",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "clima la plata",
       "traffic": "100+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "bet 365",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "posiciones de atlético nacional contra deportivo pasto",
-      "traffic": "1000+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "diario ole",
       "traffic": "200+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "estadio centenario uruguay",
       "traffic": "200+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "denver nuggets",
       "traffic": "100+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "el dia",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "futbol hoy",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "estudiantes vs corinthians",
+      "traffic": "100+",
       "rank": 10
     }
   ]
