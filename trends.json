@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T03:00:15Z",
+  "updated": "2026-10-23T03:12:59Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "partido hoy",
-      "traffic": "200+",
+      "name": "estudiantes vs corinthians",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "partido hoy",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "partido",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "martin ojeda",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "donde se juega la final de la libertadores 2026",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "final copa libertadores 2026",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "buquebus",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "palmeiras libertadores",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "gabigol",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "clube de regatas do flamengo",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "cronología de flamengo contra estudiantes de la plata",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "bruno henrique",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "giorgian de arrascaeta",
-      "traffic": "200+",
       "rank": 10
     }
   ]
