@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-22T23:51:35Z",
+  "updated": "2026-10-23T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "flamengo - estudiantes",
+      "traffic": "20000+",
+      "rank": 1
+    },
+    {
+      "name": "nito artaza",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "juicio",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "renault filante",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "76ers - cavaliers",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "chamamé",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "club atlético tigre",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "universidad nacional de la plata (unlp)",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "ciberataque",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "samuel gelblung",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ypf",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "chofer",
-      "traffic": "500+",
       "rank": 10
     }
   ]
