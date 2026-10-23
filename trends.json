@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T08:00:20Z",
+  "updated": "2026-10-23T08:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "palmeiras",
+      "name": "ole",
       "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "ole",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
       "name": "futbol hoy",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "estudiantes vs corinthians",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "partido hoy",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "partido",
       "traffic": "200+",
       "rank": 10
     }
