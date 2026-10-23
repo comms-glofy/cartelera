@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T07:00:16Z",
+  "updated": "2026-10-23T07:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "el dia",
-      "traffic": "200+",
+      "name": "denver nuggets",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "diario ole",
+      "name": "el dia",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "palmeiras",
-      "traffic": "2000+",
+      "name": "diario ole",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ole",
+      "name": "palmeiras",
       "traffic": "2000+",
       "rank": 6
     },
     {
+      "name": "ole",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
       "name": "futbol hoy",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "estudiantes vs corinthians",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "partido hoy",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "martin ojeda",
-      "traffic": "100+",
+      "name": "partido hoy",
+      "traffic": "200+",
       "rank": 10
     }
   ]
