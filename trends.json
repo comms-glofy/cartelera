@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T13:00:16Z",
+  "updated": "2026-10-24T13:27:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "24 de octubre",
-      "traffic": "100+",
+      "name": "arsenal - everton",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "como - sassuolo",
-      "traffic": "500+",
+      "name": "premier league",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "carrera f1 horarios",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "real madrid vs barcelona",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "licitación",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "vanuatu",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "24 de octubre",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "como - sassuolo",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "ángel di maría",
       "traffic": "200+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "nafta",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "changomâs",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "aston villa",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "rayo vallecano - elche c. f.",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "policía",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "aquarium mar del plata",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "china suárez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
