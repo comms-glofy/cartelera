@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-24T22:30:14Z",
+  "updated": "2026-10-24T23:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hornets - heat",
-      "traffic": "200+",
+      "name": "consumo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rbny vs inter miami",
-      "traffic": "100+",
+      "name": "supermercado",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "2 de mayo - deportivo recoleta",
-      "traffic": "500+",
+      "name": "actor",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "hornets - heat",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "2 de mayo - deportivo recoleta",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "frío",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "kimi antonelli",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "deportivo madryn - san telmo",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "soledad silveyra",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "club atlético boca juniors",
-      "traffic": "5000+",
+      "name": "deportivo madryn - san telmo",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "ldu quito - macará",
-      "traffic": "200+",
+      "name": "santiago lawn tennis club",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "apple tv",
+      "name": "soledad silveyra",
       "traffic": "200+",
       "rank": 10
     }
