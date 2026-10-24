@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T22:00:12Z",
+  "updated": "2026-10-24T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "hornets - heat",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "rbny vs inter miami",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "2 de mayo - deportivo recoleta",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "frío",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "kimi antonelli",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "deportivo madryn - san telmo",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "soledad silveyra",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "club atlético boca juniors",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 8
     },
     {
       "name": "ldu quito - macará",
       "traffic": "200+",
-      "rank": 2
+      "rank": 9
     },
     {
       "name": "apple tv",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "richard gere",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "san lorenzo - newell's",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "posiciones de atlético de madrid contra deportivo la coruña",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "julia roberts",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "palmeiras - bragantino",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "quilmes",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "new york rb - inter miami",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
