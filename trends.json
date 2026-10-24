@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T01:00:15Z",
+  "updated": "2026-10-24T01:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brewers - rays",
+      "name": "junior - águilas doradas",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "jubilación mínima",
-      "traffic": "200+",
+      "name": "globo ao vivo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "globoplay",
-      "traffic": "200+",
+      "name": "al pacino",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "accidente",
-      "traffic": "500+",
+      "name": "cruzeiro vs",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "subte de buenos aires",
-      "traffic": "500+",
+      "name": "plaga",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "club atlético san lorenzo de almagro",
-      "traffic": "100+",
+      "name": "quiniela chaqueña",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "debate lula bolsonaro",
+      "name": "spurs - rockets",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "heat - pistons",
+      "name": "brewers - rays",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "nito artaza",
-      "traffic": "100+",
+      "name": "jubilación mínima",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "team liquid",
-      "traffic": "100+",
+      "name": "globoplay",
+      "traffic": "200+",
       "rank": 10
     }
   ]
