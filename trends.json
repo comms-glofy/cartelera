@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T17:00:14Z",
+  "updated": "2026-10-24T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paramount",
-      "traffic": "200+",
+      "name": "banfield - lanús",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "festival bandera 2026",
-      "traffic": "100+",
+      "name": "paramount",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "napoli vs roma",
+      "name": "festival bandera 2026",
       "traffic": "100+",
       "rank": 3
     },
     {
       "name": "lionel messi - balón de oro",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "el niño",
-      "traffic": "2000+",
+      "name": "napoli vs roma",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ufc",
-      "traffic": "1000+",
+      "name": "el niño",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "banfield lanus",
-      "traffic": "200+",
+      "name": "ufc",
+      "traffic": "2000+",
       "rank": 7
+    },
+    {
+      "name": "excursionistas",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "river racing",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "excursionistas",
-      "traffic": "100+",
       "rank": 9
     },
     {
       "name": "la mona jiménez",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 10
     }
   ]
