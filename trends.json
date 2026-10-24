@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T15:00:16Z",
+  "updated": "2026-10-24T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arsenal",
-      "traffic": "500+",
+      "name": "napoli - roma",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "pastor",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "selección de fútbol de inglaterra",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "arsenal",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "arsenal vs",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "boca vs independiente",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "posiciones de rayo vallecano contra elche c. f.",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "rosario",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "leonel jaime",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "leipzig",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "west ham - southampton",
+      "name": "rosario",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jake bongiovi",
-      "traffic": "100+",
+      "name": "posiciones de rayo vallecano contra elche c. f.",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "river vs racing",
-      "traffic": "500+",
+      "name": "leonel jaime",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "como",
-      "traffic": "2000+",
+      "name": "leipzig",
+      "traffic": "100+",
       "rank": 10
     }
   ]
