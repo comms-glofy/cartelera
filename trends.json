@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-24T03:00:17Z",
+  "updated": "2026-10-24T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "f1 gp estados unidos",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "necaxa",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "pronostico cordoba",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "nadie quiere esto",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "necaxa - juárez",
-      "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "cotizacion dolar blue hoy",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "nba hoy",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "juventud antoniana",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "fuerza aérea de ucrania",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima parana",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "lakers - clippers",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "warriors - grizzlies",
+      "name": "lakers - clippers",
       "traffic": "1000+",
       "rank": 10
     }
