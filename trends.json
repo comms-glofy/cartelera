@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-23T23:30:14Z",
+  "updated": "2026-10-24T00:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "magic - timberwolves",
-      "traffic": "200+",
+      "name": "nito artaza",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "team liquid",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "tigre - atlético tucumán",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "ruta provincial 1",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "pacers - mavericks",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "sol",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "cruzeiro",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "juan alberto mateyko",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "juventud - peñarol",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "celtics - knicks",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "cristian castro",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "lautaro rivero",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "manuel moises alvez",
+      "name": "magic - timberwolves",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "gelp",
+      "name": "juan alberto mateyko",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pedri",
-      "traffic": "500+",
+      "name": "celtics - knicks",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
