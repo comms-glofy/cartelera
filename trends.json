@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T00:00:17Z",
+  "updated": "2026-10-24T00:13:42Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nito artaza",
-      "traffic": "100+",
+      "name": "heat - pistons",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "team liquid",
+      "name": "nito artaza",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "team liquid",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "tigre - atlético tucumán",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ruta provincial 1",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pacers - mavericks",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "sol",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "cruzeiro",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "magic - timberwolves",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "juan alberto mateyko",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "celtics - knicks",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
