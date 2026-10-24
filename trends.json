@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T14:00:18Z",
+  "updated": "2026-10-24T14:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como vs",
-      "traffic": "500+",
+      "name": "west ham - southampton",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "jake bongiovi",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "river vs racing",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "como",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "como fc",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "racing de santander - rcd espanyol",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "daniil medvédev",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "ufc 333",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "posiciones de aston villa contra manchester city",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "cagliari - bolonia",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "city",
+      "name": "como vs",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "erling haaland",
+      "name": "daniil medvédev",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "arsenal - everton",
-      "traffic": "2000+",
+      "name": "ufc 333",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "manchester city vs",
-      "traffic": "200+",
+      "name": "cagliari - bolonia",
+      "traffic": "100+",
       "rank": 10
     }
   ]
