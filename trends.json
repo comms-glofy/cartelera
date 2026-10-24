@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-24T00:30:14Z",
+  "updated": "2026-10-24T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético san lorenzo de almagro",
-      "traffic": "100+",
+      "name": "brewers - rays",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "subte de buenos aires",
-      "traffic": "100+",
+      "name": "jubilación mínima",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "debate lula bolsonaro",
-      "traffic": "100+",
+      "name": "globoplay",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "heat - pistons",
-      "traffic": "200+",
+      "name": "accidente",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "nito artaza",
-      "traffic": "100+",
+      "name": "subte de buenos aires",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "team liquid",
+      "name": "club atlético san lorenzo de almagro",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tigre - atlético tucumán",
-      "traffic": "5000+",
+      "name": "debate lula bolsonaro",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ruta provincial 1",
+      "name": "heat - pistons",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "pacers - mavericks",
-      "traffic": "200+",
+      "name": "nito artaza",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "sol",
+      "name": "team liquid",
       "traffic": "100+",
       "rank": 10
     }
