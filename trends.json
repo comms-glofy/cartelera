@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T10:00:13Z",
+  "updated": "2026-10-24T10:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mi anses",
-      "traffic": "1000+",
+      "name": "ciberataque",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "nancy pazos",
+      "name": "clima corrientes",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "puerto madero",
-      "traffic": "200+",
+      "name": "mi anses",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "nancy pazos",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "puerto madero",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "necaxa",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "pronostico cordoba",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "nadie quiere esto",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cotizacion dolar blue hoy",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "nba hoy",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "juventud antoniana",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "clima parana",
-      "traffic": "500+",
       "rank": 10
     }
   ]
