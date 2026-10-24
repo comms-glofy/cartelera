@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T02:30:16Z",
+  "updated": "2026-10-24T03:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nadie quiere esto",
-      "traffic": "100+",
+      "name": "pronostico cordoba",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "necaxa - juárez",
+      "name": "nadie quiere esto",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cotizacion dolar blue hoy",
+      "name": "necaxa - juárez",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nba hoy",
-      "traffic": "100+",
+      "name": "cotizacion dolar blue hoy",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "juventud antoniana",
-      "traffic": "200+",
+      "name": "nba hoy",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima parana",
+      "name": "juventud antoniana",
       "traffic": "500+",
       "rank": 6
     },
     {
       "name": "fuerza aérea de ucrania",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lakers - clippers",
+      "name": "clima parana",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "warriors - grizzlies",
-      "traffic": "500+",
+      "name": "lakers - clippers",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "lula da silva",
-      "traffic": "100+",
+      "name": "warriors - grizzlies",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
