@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-24T02:00:14Z",
+  "updated": "2026-10-24T02:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nba hoy",
+      "name": "nadie quiere esto",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima parana",
-      "traffic": "200+",
+      "name": "necaxa - juárez",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "lula",
-      "traffic": "200+",
+      "name": "cotizacion dolar blue hoy",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "nba hoy",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "juventud antoniana",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "clima parana",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "fuerza aérea de ucrania",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "lakers - clippers",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "warriors - grizzlies",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "posiciones de cruzeiro contra clube do remo",
-      "traffic": "1000+",
+      "name": "lakers - clippers",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "junior - águilas doradas",
-      "traffic": "200+",
+      "name": "warriors - grizzlies",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "al pacino",
+      "name": "lula da silva",
       "traffic": "100+",
       "rank": 10
     }
