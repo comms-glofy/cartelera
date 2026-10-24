@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T16:30:15Z",
+  "updated": "2026-10-24T16:49:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "napoli vs roma",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "lionel messi - balón de oro",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "lanus vs banfield",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "ufc",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "excursionistas",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "banfield lanus",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "river racing",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "bodo glimt",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "la mona jiménez",
+      "name": "excursionistas",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "valencia c. f. - villarreal",
-      "traffic": "500+",
+      "name": "boca independiente",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "cerundolo",
-      "traffic": "200+",
+      "name": "la mona jiménez",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "chelsea - tottenham",
-      "traffic": "2000+",
+      "name": "bodo glimt",
+      "traffic": "100+",
       "rank": 10
     }
   ]
