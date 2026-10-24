@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T00:13:42Z",
+  "updated": "2026-10-24T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "heat - pistons",
-      "traffic": "200+",
+      "name": "club atlético san lorenzo de almagro",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "nito artaza",
+      "name": "subte de buenos aires",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "team liquid",
+      "name": "debate lula bolsonaro",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tigre - atlético tucumán",
-      "traffic": "500+",
+      "name": "heat - pistons",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "nito artaza",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "team liquid",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "tigre - atlético tucumán",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "ruta provincial 1",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "pacers - mavericks",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "sol",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "cruzeiro",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "magic - timberwolves",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "juan alberto mateyko",
-      "traffic": "200+",
       "rank": 10
     }
   ]
