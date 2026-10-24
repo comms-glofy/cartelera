@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T21:00:14Z",
+  "updated": "2026-10-24T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vasco da gama - corinthians",
-      "traffic": "1000+",
+      "name": "posiciones de atlético de madrid contra deportivo la coruña",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "new york rb - inter miami",
-      "traffic": "500+",
+      "name": "julia roberts",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "palmeiras - bragantino",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "quilmes",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "new york rb - inter miami",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "vasco da gama - corinthians",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "porto",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "atletico",
-      "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "gil vicente - porto",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "columbus crew - toronto",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "atletico madrid",
-      "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "ruta nacional 12",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "clasificacion f1",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "actc",
-      "traffic": "200+",
       "rank": 10
     }
   ]
