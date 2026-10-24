@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T16:00:13Z",
+  "updated": "2026-10-24T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chelsea - tottenham",
-      "traffic": "1000+",
+      "name": "el niño",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "dortmund - frankfurt",
-      "traffic": "200+",
+      "name": "ufc",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "alex albon",
-      "traffic": "200+",
+      "name": "excursionistas",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "coventry city",
+      "name": "banfield lanus",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "napoli - roma",
-      "traffic": "2000+",
+      "name": "river racing",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "pastor",
+      "name": "bodo glimt",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "selección de fútbol de inglaterra",
-      "traffic": "200+",
+      "name": "la mona jiménez",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "serie a",
+      "name": "valencia c. f. - villarreal",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "arsenal",
-      "traffic": "2000+",
+      "name": "cerundolo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "arsenal vs",
-      "traffic": "500+",
+      "name": "chelsea - tottenham",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
