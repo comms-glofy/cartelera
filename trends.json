@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T11:30:13Z",
+  "updated": "2026-10-24T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "policía",
-      "traffic": "100+",
+      "name": "aston villa",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "china suárez",
-      "traffic": "100+",
+      "name": "rayo vallecano - elche c. f.",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marco trungelliti",
+      "name": "policía",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "antonela roccuzzo",
-      "traffic": "2000+",
+      "name": "aquarium mar del plata",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "aston villa - manchester city",
-      "traffic": "5000+",
+      "name": "china suárez",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "marcos rojo",
-      "traffic": "200+",
+      "name": "marco trungelliti",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "jorginho",
-      "traffic": "100+",
+      "name": "antonela roccuzzo",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "luis caputo",
-      "traffic": "1000+",
+      "name": "aston villa - manchester city",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "planta",
-      "traffic": "200+",
+      "name": "marcos rojo",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "elena rybakina",
-      "traffic": "200+",
+      "name": "turismo carretera",
+      "traffic": "100+",
       "rank": 10
     }
   ]
