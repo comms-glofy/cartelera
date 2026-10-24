@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-24T21:30:13Z",
+  "updated": "2026-10-24T21:43:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "san lorenzo - newell's",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "posiciones de atlético de madrid contra deportivo la coruña",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "julia roberts",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "palmeiras - bragantino",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "quilmes",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "new york rb - inter miami",
-      "traffic": "5000+",
-      "rank": 5
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "vasco da gama - corinthians",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "porto",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "gil vicente - porto",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "columbus crew - toronto",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ruta nacional 12",
+      "name": "columbus crew - toronto",
       "traffic": "100+",
       "rank": 10
     }
