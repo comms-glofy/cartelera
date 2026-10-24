@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T20:30:13Z",
+  "updated": "2026-10-24T21:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "columbus crew - toronto",
-      "traffic": "100+",
+      "name": "vasco da gama - corinthians",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "new york rb - inter miami",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "porto",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "atletico",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "gil vicente - porto",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "columbus crew - toronto",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "atletico madrid",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "ruta nacional 12",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "clasificacion f1",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "actc",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "lazio vs",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "petr yan",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "vitória - paranaense",
-      "traffic": "200+",
+      "name": "clasificacion f1",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "club de rugby los tilos",
-      "traffic": "100+",
+      "name": "actc",
+      "traffic": "200+",
       "rank": 10
     }
   ]
