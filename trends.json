@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T12:00:17Z",
+  "updated": "2026-10-24T12:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aston villa",
+      "name": "changomâs",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "rayo vallecano - elche c. f.",
+      "name": "aston villa",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "policía",
-      "traffic": "100+",
+      "name": "rayo vallecano - elche c. f.",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "aquarium mar del plata",
+      "name": "policía",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "china suárez",
+      "name": "aquarium mar del plata",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "marco trungelliti",
-      "traffic": "100+",
+      "name": "china suárez",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "marco trungelliti",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "antonela roccuzzo",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "aston villa - manchester city",
       "traffic": "10000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "marcos rojo",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "turismo carretera",
-      "traffic": "100+",
       "rank": 10
     }
   ]
