@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-24T15:30:15Z",
+  "updated": "2026-10-24T16:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "napoli - roma",
+      "name": "chelsea - tottenham",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "pastor",
-      "traffic": "100+",
+      "name": "dortmund - frankfurt",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "selección de fútbol de inglaterra",
-      "traffic": "100+",
+      "name": "alex albon",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "arsenal",
-      "traffic": "1000+",
+      "name": "coventry city",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "arsenal vs",
-      "traffic": "500+",
+      "name": "napoli - roma",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "boca vs independiente",
-      "traffic": "500+",
+      "name": "pastor",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "rosario",
+      "name": "selección de fútbol de inglaterra",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "posiciones de rayo vallecano contra elche c. f.",
-      "traffic": "200+",
+      "name": "serie a",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "leonel jaime",
+      "name": "arsenal",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "leipzig",
-      "traffic": "100+",
+      "name": "arsenal vs",
+      "traffic": "500+",
       "rank": 10
     }
   ]
