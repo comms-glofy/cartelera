@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T18:30:15Z",
+  "updated": "2026-10-25T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corriente del niño",
+      "name": "gimnasia jujuy - atlanta",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "twitch",
-      "traffic": "500+",
+      "name": "racing de córdoba - all boys",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "real sociedad",
+      "name": "patronato - agropecuario",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "fox sports",
-      "traffic": "100+",
+      "name": "temperley - chacarita",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "almirante brown - deportivo morón",
-      "traffic": "1000+",
+      "name": "lujan",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lpf",
+      "name": "twitch",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "belgrano hoy",
+      "name": "corriente del niño",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "berazategui vs lujan",
-      "traffic": "500+",
+      "name": "real sociedad",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cd moquegua - alianza lima",
+      "name": "fox sports",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "luisana lopilato",
-      "traffic": "200+",
+      "name": "almirante brown - deportivo morón",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
