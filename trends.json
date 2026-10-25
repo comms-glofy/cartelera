@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T13:00:14Z",
+  "updated": "2026-10-25T13:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sportivo ameliano - olimpia",
-      "traffic": "500+",
+      "name": "manchester united - bournemouth",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "aceite de oliva",
+      "name": "flavio mendoza",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "licitación",
-      "traffic": "500+",
+      "name": "boeing 747",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "boxeo",
+      "name": "liga italiana",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "athletic - getafe",
-      "traffic": "200+",
+      "name": "inter vs fiorentina",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "pronóstico del tiempo",
+      "name": "motochorro",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tc",
-      "traffic": "1000+",
+      "name": "inter vs",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "perfil",
-      "traffic": "200+",
+      "name": "agenda deportiva",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "marcela coronel",
-      "traffic": "200+",
+      "name": "halloween",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "mendoza",
-      "traffic": "1000+",
+      "name": "sportivo ameliano - olimpia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
