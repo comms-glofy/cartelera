@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T20:00:12Z",
+  "updated": "2026-10-25T20:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mario andretti",
+      "name": "futbol tv",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "directv",
+      "name": "ferro futbol",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "disney+",
+      "name": "f",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "santiago mele",
+      "name": "yan diomandé",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "riestra",
-      "traffic": "200+",
+      "name": "almorzando con juana",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "meningitis hospital privado mendoza",
+      "name": "apuração eleições 2026",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "lua blanco",
-      "traffic": "200+",
+      "name": "barca hoy",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "la plata",
-      "traffic": "500+",
+      "name": "futbol en vivo",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "independiente - boca juniors",
-      "traffic": "100000+",
+      "name": "espn",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "barcelona - real madrid",
-      "traffic": "50000+",
+      "name": "dazn",
+      "traffic": "200+",
       "rank": 10
     }
   ]
