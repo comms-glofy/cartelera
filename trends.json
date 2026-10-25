@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-25T14:00:18Z",
+  "updated": "2026-10-25T14:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liverpool - brighton",
-      "traffic": "1000+",
+      "name": "liverpool fc",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ruta nacional 12",
+      "name": "cipolletti",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fiorentina",
-      "traffic": "1000+",
+      "name": "atalanta - frosinone",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "manchester united - bournemouth",
-      "traffic": "2000+",
+      "name": "franco mastantuono",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "flavio mendoza",
+      "name": "mónaco - losc",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "boeing 747",
-      "traffic": "100+",
+      "name": "psv - feyenoord",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "liga italiana",
-      "traffic": "100+",
+      "name": "hull city - brentford",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "inter vs",
-      "traffic": "200+",
+      "name": "actc",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "motochorro",
+      "name": "crystal palace - newcastle",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "agenda deportiva",
+      "name": "messi cup",
       "traffic": "100+",
       "rank": 10
     }
