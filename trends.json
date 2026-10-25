@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-25T10:00:16Z",
+  "updated": "2026-10-25T10:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pumas - tigres",
+      "name": "ley de reparación histórica para jubilados y pensionados",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "pumas - tigres",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "navarrete vs foster",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "posiciones de rosario central contra club atlético huracán",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "posiciones de santos futebol clube contra esporte clube bahia",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "posiciones de club ciudad de bolívar fútbol contra colon de santa fe",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "neymar",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "fútbol sala",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "rodrigo lussich",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "universitario - juan pablo ii college",
+      "name": "rodrigo lussich",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "marcelo polino",
+      "name": "universitario - juan pablo ii college",
       "traffic": "500+",
       "rank": 10
     }
