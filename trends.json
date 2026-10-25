@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T19:30:16Z",
+  "updated": "2026-10-25T19:50:31Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la plata",
+      "name": "riestra",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "barcelona - real madrid",
-      "traffic": "20000+",
+      "name": "meningitis hospital privado mendoza",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "independiente - boca juniors",
-      "traffic": "20000+",
+      "name": "lua blanco",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "udinese - milan",
-      "traffic": "200+",
+      "name": "la plata",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "independiente - boca juniors",
+      "traffic": "50000+",
+      "rank": 5
+    },
+    {
+      "name": "barcelona - real madrid",
+      "traffic": "20000+",
+      "rank": 6
+    },
+    {
+      "name": "udinese - milan",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "turismo carretera",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "micaela lapegüe",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "posiciones de sc freiburg contra bayern",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "gimnasia jujuy - atlanta",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "racing de córdoba - all boys",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "patronato - agropecuario",
-      "traffic": "500+",
       "rank": 10
     }
   ]
