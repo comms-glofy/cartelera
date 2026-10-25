@@ -1,46 +1,46 @@
 {
-  "updated": "2026-10-25T03:30:16Z",
+  "updated": "2026-10-25T03:56:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "pumas - tigres",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "navarrete vs foster",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "posiciones de rosario central contra club atlético huracán",
+      "traffic": "10000+",
+      "rank": 3
     },
     {
       "name": "posiciones de santos futebol clube contra esporte clube bahia",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "posiciones de deportivo madryn contra club atlético san telmo",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "neymar",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "fútbol sala",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "posiciones de atlanta united contra chicago fire fc",
-      "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "rodrigo lussich",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "polino",
-      "traffic": "100+",
       "rank": 8
     },
     {
