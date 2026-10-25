@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T17:00:14Z",
+  "updated": "2026-10-25T17:22:43Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a que hora juega river",
-      "traffic": "1000+",
+      "name": "bayern munich",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gabriel bortoleto",
-      "traffic": "100+",
+      "name": "real sociedad - levante",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "canal 9",
-      "traffic": "100+",
+      "name": "boca river",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "canal 9 en vivo",
+      "name": "marsella - le havre",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "sparta rotterdam - ajax",
+      "name": "a qué hora juega belgrano",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "barca",
-      "traffic": "500+",
+      "name": "comerciantes unidos - cienciano",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "dragon ball super beerus capitulo 3",
+      "name": "tauro",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "lecce - juventus",
-      "traffic": "500+",
+      "name": "gabriel bortoleto",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "recoleta",
+      "name": "canal 9",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ian reutemann",
-      "traffic": "200+",
+      "name": "canal 9 en vivo",
+      "traffic": "100+",
       "rank": 10
     }
   ]
