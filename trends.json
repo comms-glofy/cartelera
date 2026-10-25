@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T00:30:13Z",
+  "updated": "2026-10-25T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos",
-      "traffic": "200+",
+      "name": "karina mazzocco",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "león - toluca",
-      "traffic": "100+",
+      "name": "elina costantini",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "luisana lopilato",
+      "name": "bulls - wizards",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "posiciones de new york red bulls contra inter miami",
-      "traffic": "5000+",
+      "name": "cavaliers - nets",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "rosario central - huracán",
-      "traffic": "5000+",
+      "name": "posiciones de liga de quito contra macará",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "alfarería",
-      "traffic": "200+",
+      "name": "rocío marengo",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "américa - cúcuta",
+      "name": "santos",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "santos - bahía",
-      "traffic": "1000+",
+      "name": "luisana lopilato",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "mavericks - spurs",
-      "traffic": "500+",
+      "name": "león - toluca",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "jeremy clarkson",
-      "traffic": "200+",
+      "name": "rosario central - huracán",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
