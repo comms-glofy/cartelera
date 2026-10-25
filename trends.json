@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T18:00:14Z",
+  "updated": "2026-10-25T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aldosivi - belgrano",
-      "traffic": "10000+",
+      "name": "corriente del niño",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "posiciones de celta de vigo contra betis",
+      "name": "twitch",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "tc hoy",
+      "name": "real sociedad",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "real sociedad - levante",
-      "traffic": "200+",
+      "name": "fox sports",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "boca river",
-      "traffic": "500+",
+      "name": "almirante brown - deportivo morón",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "bayern munich",
-      "traffic": "200+",
+      "name": "lpf",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "marsella - le havre",
-      "traffic": "100+",
+      "name": "belgrano hoy",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "comerciantes unidos - cienciano",
-      "traffic": "100+",
+      "name": "berazategui vs lujan",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "tauro",
-      "traffic": "100+",
+      "name": "cd moquegua - alianza lima",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "gabriel bortoleto",
-      "traffic": "1000+",
+      "name": "luisana lopilato",
+      "traffic": "200+",
       "rank": 10
     }
   ]
