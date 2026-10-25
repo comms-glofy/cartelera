@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T12:00:15Z",
+  "updated": "2026-10-25T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcela coronel",
+      "name": "perfil",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mendoza",
+      "name": "marcela coronel",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "maxi lópez",
+      "name": "mendoza",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "maxi lópez",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "vicente lópez",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "a que hora corre colapinto",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "inter - fiorentina",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "parrilla de salida",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "daniil medvédev",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "fecha de cobro noviembre 2026",
+      "name": "parrilla de salida",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "pablo otero",
-      "traffic": "500+",
+      "name": "daniil medvédev",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "elena rybakina",
-      "traffic": "200+",
+      "name": "pablo otero",
+      "traffic": "500+",
       "rank": 10
     }
   ]
