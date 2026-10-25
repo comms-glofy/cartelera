@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T19:50:31Z",
+  "updated": "2026-10-25T20:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "riestra",
+      "name": "mario andretti",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "meningitis hospital privado mendoza",
-      "traffic": "100+",
+      "name": "directv",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lua blanco",
+      "name": "disney+",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "la plata",
-      "traffic": "500+",
+      "name": "santiago mele",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "independiente - boca juniors",
-      "traffic": "50000+",
+      "name": "riestra",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "barcelona - real madrid",
-      "traffic": "20000+",
+      "name": "meningitis hospital privado mendoza",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "udinese - milan",
-      "traffic": "500+",
+      "name": "lua blanco",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "turismo carretera",
-      "traffic": "2000+",
+      "name": "la plata",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "micaela lapegüe",
-      "traffic": "100+",
+      "name": "independiente - boca juniors",
+      "traffic": "100000+",
       "rank": 9
     },
     {
-      "name": "posiciones de sc freiburg contra bayern",
-      "traffic": "2000+",
+      "name": "barcelona - real madrid",
+      "traffic": "50000+",
       "rank": 10
     }
   ]
