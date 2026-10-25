@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-25T13:37:50Z",
+  "updated": "2026-10-25T14:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fiorentina",
+      "name": "liverpool - brighton",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "manchester united - bournemouth",
-      "traffic": "1000+",
+      "name": "ruta nacional 12",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "flavio mendoza",
-      "traffic": "100+",
+      "name": "fiorentina",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "manchester united - bournemouth",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "flavio mendoza",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "boeing 747",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "liga italiana",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "inter milan",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "motochorro",
-      "traffic": "200+",
       "rank": 7
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "agenda deportiva",
-      "traffic": "100+",
+      "name": "motochorro",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "halloween",
+      "name": "agenda deportiva",
       "traffic": "100+",
       "rank": 10
     }
