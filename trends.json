@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T23:00:15Z",
+  "updated": "2026-10-25T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como va river",
-      "traffic": "500+",
+      "name": "la nacion",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "lautaro rivero",
-      "traffic": "200+",
+      "name": "inter de miami",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "pagina 12",
-      "traffic": "1000+",
+      "name": "atlético nacional - medellín",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "murio carlos riganti",
+      "name": "knicks - magic",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "anibal moreno",
-      "traffic": "500+",
+      "name": "angel correa",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "argentinos juniors",
-      "traffic": "2000+",
+      "name": "explosión",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "riber",
-      "traffic": "500+",
+      "name": "brazil",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "nacional - liverpool",
+      "name": "francisco ortega",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "telekino 2451",
+      "name": "el destape",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tyc",
-      "traffic": "200+",
+      "name": "santiago beltrán",
+      "traffic": "100+",
       "rank": 10
     }
   ]
