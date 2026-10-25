@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T20:30:12Z",
+  "updated": "2026-10-25T21:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "futbol tv",
-      "traffic": "200+",
+      "name": "godoy cruz",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "ferro futbol",
-      "traffic": "200+",
+      "name": "kylian mbappé",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "f",
+      "name": "jazz - lakers",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "yan diomandé",
-      "traffic": "100+",
+      "name": "palestino - colo-colo",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "almorzando con juana",
-      "traffic": "100+",
+      "name": "aucas - barcelona sc",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "apuração eleições 2026",
-      "traffic": "100+",
+      "name": "marcone",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "barca hoy",
+      "name": "antonelli",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "futbol en vivo",
-      "traffic": "1000+",
+      "name": "boca unidos",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "espn",
-      "traffic": "500+",
+      "name": "arda güler",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "dazn",
-      "traffic": "200+",
+      "name": "deportes",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
