@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T19:00:15Z",
+  "updated": "2026-10-25T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia jujuy - atlanta",
-      "traffic": "500+",
+      "name": "la plata",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "racing de córdoba - all boys",
-      "traffic": "200+",
+      "name": "barcelona - real madrid",
+      "traffic": "20000+",
       "rank": 2
     },
     {
-      "name": "patronato - agropecuario",
-      "traffic": "200+",
+      "name": "independiente - boca juniors",
+      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "temperley - chacarita",
-      "traffic": "500+",
+      "name": "udinese - milan",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "lujan",
-      "traffic": "200+",
+      "name": "turismo carretera",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "twitch",
-      "traffic": "1000+",
+      "name": "micaela lapegüe",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "corriente del niño",
-      "traffic": "500+",
+      "name": "posiciones de sc freiburg contra bayern",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "real sociedad",
-      "traffic": "200+",
+      "name": "gimnasia jujuy - atlanta",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "fox sports",
-      "traffic": "200+",
+      "name": "racing de córdoba - all boys",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "almirante brown - deportivo morón",
-      "traffic": "5000+",
+      "name": "patronato - agropecuario",
+      "traffic": "500+",
       "rank": 10
     }
   ]
