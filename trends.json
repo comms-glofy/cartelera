@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T10:30:16Z",
+  "updated": "2026-10-25T11:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "parrilla de salida",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "daniil medvédev",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "fecha de cobro noviembre 2026",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "pablo otero",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "ley de reparación histórica para jubilados y pensionados",
       "traffic": "200+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "pumas - tigres",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "navarrete vs foster",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "posiciones de rosario central contra club atlético huracán",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "posiciones de santos futebol clube contra esporte clube bahia",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "posiciones de club ciudad de bolívar fútbol contra colon de santa fe",
       "traffic": "20000+",
-      "rank": 6
-    },
-    {
-      "name": "neymar",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "fútbol sala",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "rodrigo lussich",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "universitario - juan pablo ii college",
-      "traffic": "500+",
       "rank": 10
     }
   ]
