@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T13:30:14Z",
+  "updated": "2026-10-25T13:37:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester united - bournemouth",
+      "name": "fiorentina",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "flavio mendoza",
-      "traffic": "100+",
+      "name": "manchester united - bournemouth",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "boeing 747",
+      "name": "flavio mendoza",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "liga italiana",
+      "name": "boeing 747",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "inter vs fiorentina",
-      "traffic": "2000+",
+      "name": "liga italiana",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "inter milan",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "motochorro",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "inter vs",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "agenda deportiva",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "halloween",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "sportivo ameliano - olimpia",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
