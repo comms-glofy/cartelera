@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T01:30:13Z",
+  "updated": "2026-10-25T02:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "monterrey - guadalajara",
+      "name": "universitario - juan pablo ii college",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "moto gp",
+      "name": "playstation",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "masacre de flores",
-      "traffic": "200+",
+      "name": "marcelo polino",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "eduardo costantini",
-      "traffic": "10000+",
+      "name": "suns - warriors",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "nuggets - pelicans",
-      "traffic": "200+",
+      "name": "moto gp",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "colon hoy",
+      "name": "monterrey - guadalajara",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "karina mazzocco",
-      "traffic": "1000+",
+      "name": "masacre de flores",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bulls - wizards",
-      "traffic": "100+",
+      "name": "santos vs",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cavaliers - nets",
-      "traffic": "100+",
+      "name": "eduardo costantini",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "rocío marengo",
-      "traffic": "100+",
+      "name": "nuggets - pelicans",
+      "traffic": "200+",
       "rank": 10
     }
   ]
