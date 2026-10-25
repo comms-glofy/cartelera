@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T16:00:14Z",
+  "updated": "2026-10-25T16:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "friburgo - bayern",
+      "name": "lecce - juventus",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "sunderland afc - leeds",
+      "name": "a qué hora juega river hoy",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bundesliga",
-      "traffic": "200+",
+      "name": "ian reutemann",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "united fc",
+      "name": "recoleta",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "barca vs",
-      "traffic": "100+",
+      "name": "cataratas del iguazú",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "evento de el niño de 2026-2027",
-      "traffic": "1000+",
+      "name": "leverkusen",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "antonio mohamed",
-      "traffic": "500+",
+      "name": "club platense porvenir",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "psv",
-      "traffic": "100+",
+      "name": "friburgo - bayern",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "barcelona",
-      "traffic": "5000+",
+      "name": "sunderland afc - leeds",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "liverpool vs",
-      "traffic": "500+",
+      "name": "bundesliga",
+      "traffic": "200+",
       "rank": 10
     }
   ]
