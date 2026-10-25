@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T15:30:15Z",
+  "updated": "2026-10-25T16:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barcelona",
-      "traffic": "2000+",
+      "name": "friburgo - bayern",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "taylor fritz",
-      "traffic": "100+",
+      "name": "sunderland afc - leeds",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "hoffenheim - leverkusen",
+      "name": "bundesliga",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "genoa - venezia",
+      "name": "united fc",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "celta de vigo - real betis",
-      "traffic": "500+",
+      "name": "barca vs",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "atalanta",
-      "traffic": "200+",
+      "name": "evento de el niño de 2026-2027",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "club deportivo morón",
-      "traffic": "200+",
+      "name": "antonio mohamed",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "liverpool fc",
-      "traffic": "500+",
+      "name": "psv",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "cipolletti",
-      "traffic": "200+",
+      "name": "barcelona",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "sol mihanovich",
-      "traffic": "200+",
+      "name": "liverpool vs",
+      "traffic": "500+",
       "rank": 10
     }
   ]
