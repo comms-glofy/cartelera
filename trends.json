@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T02:00:14Z",
+  "updated": "2026-10-25T02:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "universitario - juan pablo ii college",
-      "traffic": "200+",
+      "name": "fútbol sala",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "playstation",
-      "traffic": "200+",
+      "name": "santos fc",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "marcelo polino",
-      "traffic": "100+",
+      "name": "posiciones de atlanta united contra chicago fire fc",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "suns - warriors",
-      "traffic": "200+",
+      "name": "rodrigo lussich",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "moto gp",
-      "traffic": "500+",
+      "name": "club atlético colón",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "monterrey - guadalajara",
+      "name": "universitario - juan pablo ii college",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "masacre de flores",
+      "name": "marcelo polino",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "santos vs",
+      "name": "playstation",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "eduardo costantini",
-      "traffic": "20000+",
+      "name": "suns - warriors",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nuggets - pelicans",
-      "traffic": "200+",
+      "name": "posiciones de colegiales contra atlético rafaela",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
