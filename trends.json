@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-25T03:00:17Z",
+  "updated": "2026-10-25T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de santos futebol clube contra esporte clube bahia",
-      "traffic": "1000+",
+      "name": "navarrete vs foster",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "posiciones de santos futebol clube contra esporte clube bahia",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "posiciones de deportivo madryn contra club atlético san telmo",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "neymar",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "fútbol sala",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "posiciones de atlanta united contra chicago fire fc",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "rodrigo lussich",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "polino",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "club atlético colón",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "universitario - juan pablo ii college",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "marcelo polino",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "playstation",
-      "traffic": "200+",
+      "name": "universitario - juan pablo ii college",
+      "traffic": "500+",
       "rank": 10
     }
   ]
