@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T10:00:16Z",
+  "updated": "2026-10-26T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a24 en vivo",
-      "traffic": "100+",
+      "name": "contexto",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima posadas",
+      "name": "feriados noviembre 2026",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "river tabla anual",
-      "traffic": "5000+",
+      "name": "la gaceta",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "josé de san martín",
-      "traffic": "200+",
+      "name": "diario chaco",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "komanche",
-      "traffic": "10000+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "eric bauza",
-      "traffic": "500+",
+      "name": "a24 en vivo",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tijuana - santos",
+      "name": "el once digital",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "susana roccasalvo",
-      "traffic": "200+",
+      "name": "clima posadas",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "quini 6 sorteo 3420",
-      "traffic": "1000+",
+      "name": "josé de san martín",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "desinflación",
-      "traffic": "200+",
+      "name": "komanche",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
