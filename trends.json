@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T16:13:18Z",
+  "updated": "2026-10-26T16:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chicago",
+      "name": "besiktas",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "black friday",
+      "name": "ballon d'or",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "accidente de tránsito",
+      "name": "pedro troglio",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nueva chicago - san martín",
-      "traffic": "2000+",
+      "name": "andrea ghidone",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "chicago",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "black friday",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "accidente de tránsito",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "nueva chicago - san martín",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "álex de miñaur",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "noviembre",
-      "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "juan manuel cerúndolo",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "carmen barbieri",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "dazn",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "nu stock",
-      "traffic": "100+",
       "rank": 10
     }
   ]
