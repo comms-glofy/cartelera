@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T16:30:20Z",
+  "updated": "2026-10-26T17:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "besiktas",
-      "traffic": "200+",
+      "name": "cuando viene el papa a la argentina",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "ballon d'or",
-      "traffic": "100+",
+      "name": "pablo otero",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "pedro troglio",
-      "traffic": "100+",
+      "name": "trabzonspor",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "andrea ghidone",
-      "traffic": "200+",
+      "name": "súper balón de oro",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "chicago",
+      "name": "superclásico del fútbol argentino",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "black friday",
-      "traffic": "100+",
+      "name": "impuesto",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "accidente de tránsito",
+      "name": "al-ahli saudi - al gharafa",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "nueva chicago - san martín",
-      "traffic": "5000+",
+      "name": "besiktas",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "álex de miñaur",
-      "traffic": "100+",
+      "name": "ballon d'or",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "500+",
+      "name": "pensión",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
