@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T22:00:15Z",
+  "updated": "2026-10-26T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "premio socrates",
-      "traffic": "500+",
+      "name": "sophie turner",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bukayo saka",
-      "traffic": "200+",
+      "name": "flamengo - atlético mineiro",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "lamine yamal",
+      "name": "trabajador doméstico",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "saka",
+      "name": "boat",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "unai simón",
-      "traffic": "1000+",
+      "name": "actor marcelo trepat",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "cata coll",
-      "traffic": "200+",
+      "name": "bebé",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "marca",
-      "traffic": "100+",
+      "name": "coritiba - grêmio",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "luis de la fuente",
-      "traffic": "200+",
+      "name": "premio socrates",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "u. de chile - everton",
+      "name": "bukayo saka",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "carla bruni",
-      "traffic": "100+",
+      "name": "saka",
+      "traffic": "200+",
       "rank": 10
     }
   ]
