@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T13:00:16Z",
+  "updated": "2026-10-26T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arba",
-      "traffic": "1000+",
+      "name": "paolo romeo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "luna llena en tauro",
-      "traffic": "100+",
+      "name": "nancy pazos",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cyanide lol",
+      "name": "ferran adrià",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "justicia cordoba",
+      "name": "ricardo iorio",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bullying catamarca",
-      "traffic": "100+",
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "sabrina rojas",
-      "traffic": "100+",
+      "name": "mariano navone",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mercado libre",
-      "traffic": "5000+",
+      "name": "superávit económico",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "riesgo país",
-      "traffic": "1000+",
+      "name": "conmebol",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "real hoy",
-      "traffic": "50000+",
+      "name": "ignacio online",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "investing",
-      "traffic": "200+",
+      "name": "arba",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
