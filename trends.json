@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T13:30:16Z",
+  "updated": "2026-10-26T14:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paolo romeo",
-      "traffic": "100+",
+      "name": "dolar banco nacion",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nancy pazos",
+      "name": "bull market",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ferran adrià",
-      "traffic": "100+",
+      "name": "dolar real",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ricardo iorio",
+      "name": "yahoo finance",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
+      "name": "paolo romeo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "mariano navone",
+      "name": "nancy pazos",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "superávit económico",
-      "traffic": "200+",
+      "name": "ferran adrià",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "conmebol",
-      "traffic": "100+",
+      "name": "ricardo iorio",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ignacio online",
-      "traffic": "100+",
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "arba",
-      "traffic": "1000+",
+      "name": "mariano navone",
+      "traffic": "500+",
       "rank": 10
     }
   ]
