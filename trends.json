@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T20:30:14Z",
+  "updated": "2026-10-26T21:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sacachispas",
-      "traffic": "100+",
+      "name": "kick",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "ligue 1",
+      "name": "quilmes",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "sistema de todos contra todos",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "espn",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "robert de niro",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "sacachispas",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "ligue 1",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "galatasaray vs",
       "traffic": "100+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "stellantis",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "cascini",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "verónica llinás",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "sevilla - osasuna",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "benfica vs",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "instituto geofísico del perú",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "agustín canapino",
-      "traffic": "500+",
+      "name": "cascini",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
