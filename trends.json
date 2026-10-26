@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-26T14:30:16Z",
+  "updated": "2026-10-26T15:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nu stock",
-      "traffic": "1000+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "tradingview",
-      "traffic": "200+",
+      "name": "carmen barbieri",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "dazn",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "dolar hoy",
+      "traffic": "10000+",
+      "rank": 4
     },
     {
       "name": "calendario noviembre 2026",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "tradingview",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "nu stock",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "fk neftchi fergana - al ittihad",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "merval",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "nicki minaj",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "real",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "bolsa de brasil",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "mette-marit de noruega",
-      "traffic": "100+",
+      "name": "merval",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "meli stock",
+      "name": "nicki minaj",
       "traffic": "100+",
       "rank": 10
     }
