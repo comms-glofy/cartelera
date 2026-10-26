@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T12:30:14Z",
+  "updated": "2026-10-26T13:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "justicia cordoba",
-      "traffic": "200+",
+      "name": "arba",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "sabrina rojas",
+      "name": "luna llena en tauro",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bullying catamarca",
+      "name": "cyanide lol",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mercado libre",
-      "traffic": "5000+",
+      "name": "justicia cordoba",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "riesgo país",
-      "traffic": "500+",
+      "name": "bullying catamarca",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "real hoy",
+      "name": "sabrina rojas",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "investing",
-      "traffic": "100+",
+      "name": "mercado libre",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "los 40 principales",
-      "traffic": "200+",
+      "name": "riesgo país",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "prefectura naval argentina",
-      "traffic": "200+",
+      "name": "real hoy",
+      "traffic": "50000+",
       "rank": 9
     },
     {
-      "name": "la mañana de neuquen",
-      "traffic": "100+",
+      "name": "investing",
+      "traffic": "200+",
       "rank": 10
     }
   ]
