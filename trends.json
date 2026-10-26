@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-26T03:00:15Z",
+  "updated": "2026-10-26T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quini 6 sorteo 3420",
-      "traffic": "100+",
+      "name": "desinflación",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "desinflación",
+      "name": "quini 6 sorteo 3420",
       "traffic": "100+",
       "rank": 2
     },
@@ -20,7 +20,7 @@
     },
     {
       "name": "kings - grizzlies",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -30,27 +30,27 @@
     },
     {
       "name": "servicio meteorológico nacional",
-      "traffic": "5000+",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "nazareno casero",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "pierre gasly",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "querétaro - cruz azul",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "américa - pachuca",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "bora",
-      "traffic": "200+",
+      "name": "américa - pachuca",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
