@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T21:30:15Z",
+  "updated": "2026-10-26T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "unión - estudiantes",
-      "traffic": "200+",
+      "name": "premio socrates",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "vicky lopez",
-      "traffic": "500+",
+      "name": "bukayo saka",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pere romeu",
+      "name": "lamine yamal",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "mbappe",
-      "traffic": "100+",
+      "name": "saka",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "walter koenig",
-      "traffic": "200+",
+      "name": "unai simón",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "paris saint germain",
-      "traffic": "100+",
+      "name": "cata coll",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "casper ruud",
+      "name": "marca",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "claudio echeverri",
-      "traffic": "100+",
+      "name": "luis de la fuente",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "kick",
-      "traffic": "1000+",
+      "name": "u. de chile - everton",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "quilmes",
-      "traffic": "200+",
+      "name": "carla bruni",
+      "traffic": "100+",
       "rank": 10
     }
   ]
