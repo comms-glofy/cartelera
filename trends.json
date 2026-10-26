@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T21:00:13Z",
+  "updated": "2026-10-26T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kick",
-      "traffic": "1000+",
+      "name": "unión - estudiantes",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "quilmes",
-      "traffic": "200+",
+      "name": "vicky lopez",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "sistema de todos contra todos",
-      "traffic": "200+",
+      "name": "pere romeu",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "espn",
-      "traffic": "200+",
+      "name": "mbappe",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "robert de niro",
+      "name": "walter koenig",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "sacachispas",
+      "name": "paris saint germain",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "ligue 1",
-      "traffic": "200+",
+      "name": "casper ruud",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "galatasaray vs",
+      "name": "claudio echeverri",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "stellantis",
-      "traffic": "100+",
+      "name": "kick",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "cascini",
-      "traffic": "20000+",
+      "name": "quilmes",
+      "traffic": "200+",
       "rank": 10
     }
   ]
