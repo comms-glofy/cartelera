@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T01:30:15Z",
+  "updated": "2026-10-26T02:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "servicio meteorológico nacional",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "pierre gasly",
+      "traffic": "20000+",
+      "rank": 2
+    },
+    {
+      "name": "querétaro - cruz azul",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "américa - pachuca",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "bora",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "atlas - puebla",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "margarita bavosi luminosa",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "el pais",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "milei",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "dilma rousseff",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "cómo salió river racing",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "infobae",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "ahogamiento",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "trump",
-      "traffic": "500+",
       "rank": 10
     }
   ]
