@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-26T09:30:16Z",
+  "updated": "2026-10-26T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "¿cómo está river en la tabla anual?",
-      "traffic": "5000+",
+      "name": "a24 en vivo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "komanche",
-      "traffic": "5000+",
+      "name": "clima posadas",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sports",
-      "traffic": "100+",
+      "name": "river tabla anual",
+      "traffic": "5000+",
       "rank": 3
+    },
+    {
+      "name": "josé de san martín",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "komanche",
+      "traffic": "10000+",
+      "rank": 5
     },
     {
       "name": "eric bauza",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "tijuana - santos",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "susana roccasalvo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "quini 6 sorteo 3420",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "desinflación",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "jalen williams",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "kings - grizzlies",
+      "name": "desinflación",
       "traffic": "200+",
       "rank": 10
     }
