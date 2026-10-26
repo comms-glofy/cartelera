@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T01:00:13Z",
+  "updated": "2026-10-26T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dilma rousseff",
-      "traffic": "100+",
+      "name": "américa - pachuca",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tabla anual liga argentina",
-      "traffic": "5000+",
+      "name": "bora",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "infobae",
-      "traffic": "5000+",
+      "name": "atlas - puebla",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cómo salió river racing",
-      "traffic": "1000+",
+      "name": "margarita bavosi luminosa",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "ahogamiento",
-      "traffic": "1000+",
+      "name": "el pais",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "trump",
+      "name": "dilma rousseff",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "presidentes de brasil",
-      "traffic": "200+",
+      "name": "cómo salió river racing",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "como salio river hoy",
-      "traffic": "1000+",
+      "name": "infobae",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "posiciones de river plate",
-      "traffic": "200+",
+      "name": "ahogamiento",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "balon de oro 2026",
-      "traffic": "200+",
+      "name": "trump",
+      "traffic": "500+",
       "rank": 10
     }
   ]
