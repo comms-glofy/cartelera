@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-26T12:00:18Z",
+  "updated": "2026-10-26T12:11:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mercado libre",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
       "name": "riesgo país",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "real hoy",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "investing",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "los 40 principales",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "prefectura naval argentina",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "la mañana de neuquen",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "daniela villalba",
       "traffic": "10000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "neumático",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "la cien en vivo",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "el ancasti",
+      "name": "la cien en vivo",
       "traffic": "100+",
       "rank": 10
     }
