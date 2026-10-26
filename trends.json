@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T20:00:15Z",
+  "updated": "2026-10-26T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "verónica llinás",
-      "traffic": "200+",
+      "name": "sacachispas",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sevilla - osasuna",
-      "traffic": "500+",
+      "name": "ligue 1",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "benfica vs",
-      "traffic": "200+",
+      "name": "galatasaray vs",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "instituto geofísico del perú",
+      "name": "stellantis",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "agustín canapino",
-      "traffic": "200+",
+      "name": "cascini",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "defensores de belgrano",
+      "name": "verónica llinás",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "psg - lyon",
-      "traffic": "10000+",
+      "name": "sevilla - osasuna",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "benfica",
-      "traffic": "1000+",
+      "name": "benfica vs",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "universidad nacional de la plata (unlp)",
-      "traffic": "500+",
+      "name": "instituto geofísico del perú",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "guillermo barros schelotto",
-      "traffic": "10000+",
+      "name": "agustín canapino",
+      "traffic": "500+",
       "rank": 10
     }
   ]
