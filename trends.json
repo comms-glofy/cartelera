@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T10:30:15Z",
+  "updated": "2026-10-26T11:00:37Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "contexto",
-      "traffic": "200+",
+      "name": "noticias",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "feriados noviembre 2026",
-      "traffic": "100+",
+      "name": "contexto tucuman",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "la gaceta",
-      "traffic": "100+",
+      "name": "diario rio negro",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "diario chaco",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "datachaco",
-      "traffic": "100+",
+      "name": "feriados noviembre 2026",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "a24 en vivo",
+      "name": "contexto",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "el once digital",
-      "traffic": "100+",
+      "name": "cadena 3",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "clima posadas",
+      "name": "diario chaco",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "josé de san martín",
-      "traffic": "500+",
+      "name": "diario norte",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "komanche",
-      "traffic": "10000+",
+      "name": "datachaco",
+      "traffic": "100+",
       "rank": 10
     }
   ]
