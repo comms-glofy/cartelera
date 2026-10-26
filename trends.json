@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T18:46:50Z",
+  "updated": "2026-10-26T19:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "psg - lyon",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "universidad nacional de la plata (unlp)",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "guillermo barros schelotto",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "juan martín del potro",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "comercio",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "choque frontal",
       "traffic": "500+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "galatasaray",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "defensores de belgrano - san miguel",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "santa clara - benfica",
       "traffic": "500+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "hugo passalacqua",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "patronato",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "galatasaray - fenerbahçe",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "lionel scaloni",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "al-nassr - al wasl",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
