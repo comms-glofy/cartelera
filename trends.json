@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T17:00:16Z",
+  "updated": "2026-10-26T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuando viene el papa a la argentina",
-      "traffic": "5000+",
+      "name": "volkswagen",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pablo otero",
-      "traffic": "1000+",
+      "name": "estado de emergencia",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "trabzonspor",
+      "name": "alberto ii de mónaco",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "súper balón de oro",
-      "traffic": "100+",
+      "name": "cuando viene el papa a la argentina",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "superclásico del fútbol argentino",
+      "name": "trabzonspor",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "súper balón de oro",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "superclásico del fútbol argentino",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "impuesto",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "al-ahli saudi - al gharafa",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "besiktas",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "ballon d'or",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pensión",
-      "traffic": "2000+",
+      "name": "besiktas",
+      "traffic": "500+",
       "rank": 10
     }
   ]
