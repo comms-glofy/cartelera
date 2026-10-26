@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T15:00:18Z",
+  "updated": "2026-10-26T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,7 +10,7 @@
     },
     {
       "name": "carmen barbieri",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "tradingview",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 6
     },
     {
@@ -39,7 +39,7 @@
       "rank": 7
     },
     {
-      "name": "fk neftchi fergana - al ittihad",
+      "name": "nicki minaj",
       "traffic": "200+",
       "rank": 8
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "nicki minaj",
-      "traffic": "100+",
+      "name": "fk neftchi fergana - al ittihad",
+      "traffic": "200+",
       "rank": 10
     }
   ]
