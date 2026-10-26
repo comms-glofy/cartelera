@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T04:00:15Z",
+  "updated": "2026-10-26T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "susana roccasalvo",
+      "name": "eric bauza",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "desinflación",
-      "traffic": "200+",
+      "name": "tijuana - santos",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "quini 6 sorteo 3420",
+      "name": "susana roccasalvo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jalen williams",
-      "traffic": "500+",
+      "name": "desinflación",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "kings - grizzlies",
+      "name": "quini 6 sorteo 3420",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "jalen williams",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "kings - grizzlies",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "geraldo alckmin",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "servicio meteorológico nacional",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "nazareno casero",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "pierre gasly",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "querétaro - cruz azul",
-      "traffic": "200+",
       "rank": 10
     }
   ]
