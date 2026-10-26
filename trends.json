@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T02:30:12Z",
+  "updated": "2026-10-26T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kings - grizzlies",
+      "name": "quini 6 sorteo 3420",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "geraldo alckmin",
+      "name": "desinflación",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "posiciones de atlético nacional contra deportivo independiente medellín",
-      "traffic": "2000+",
+      "name": "jalen williams",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ronaldo martínez",
-      "traffic": "200+",
+      "name": "kings - grizzlies",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "servicio meteorológico nacional",
-      "traffic": "500+",
+      "name": "geraldo alckmin",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "servicio meteorológico nacional",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "pierre gasly",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "querétaro - cruz azul",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "américa - pachuca",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "bora",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "atlas - puebla",
-      "traffic": "100+",
       "rank": 10
     }
   ]
