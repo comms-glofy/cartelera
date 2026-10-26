@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-26T09:00:15Z",
+  "updated": "2026-10-26T09:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "komanche",
+      "name": "¿cómo está river en la tabla anual?",
       "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "eric bauza",
-      "traffic": "500+",
+      "name": "komanche",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "tijuana - santos",
+      "name": "sports",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "susana roccasalvo",
-      "traffic": "200+",
+      "name": "eric bauza",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "quini 6 sorteo 3420",
-      "traffic": "200+",
+      "name": "tijuana - santos",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "desinflación",
+      "name": "susana roccasalvo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "jalen williams",
+      "name": "quini 6 sorteo 3420",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "kings - grizzlies",
+      "name": "desinflación",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "geraldo alckmin",
-      "traffic": "100+",
+      "name": "jalen williams",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "servicio meteorológico nacional",
-      "traffic": "1000+",
+      "name": "kings - grizzlies",
+      "traffic": "200+",
       "rank": 10
     }
   ]
