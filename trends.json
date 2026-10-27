@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T10:30:19Z",
+  "updated": "2026-10-27T11:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "virginia aparicio",
-      "traffic": "200+",
+      "name": "elecciones israel",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "agustín marchesín",
+      "name": "mdz",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima salta",
-      "traffic": "200+",
+      "name": "exilio",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima tucuman",
+      "name": "diario uno",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima san juan",
-      "traffic": "100+",
+      "name": "virginia aparicio",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "clima mendoza",
-      "traffic": "500+",
+      "name": "agustín marchesín",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "discord",
-      "traffic": "100+",
+      "name": "clima salta",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "iván de pineda",
-      "traffic": "500+",
+      "name": "clima tucuman",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "bet 365",
+      "name": "clima san juan",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "posiciones de independiente santa fe contra atlético bucaramanga",
-      "traffic": "2000+",
+      "name": "clima mendoza",
+      "traffic": "500+",
       "rank": 10
     }
   ]
