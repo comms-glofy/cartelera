@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T14:46:39Z",
+  "updated": "2026-10-27T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos alcaraz",
-      "traffic": "500+",
+      "name": "bolsonaro flavio",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "swift",
-      "traffic": "200+",
+      "name": "carlos alcaraz",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "mbappe china",
+      "name": "devaluación",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "swift",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "mbappe china",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "virginia aparicio inta",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "frente frío",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "calzado",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "lourdes sanchez",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "real brasileño",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "boda",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "ruta nacional 7",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "noah wyle",
-      "traffic": "500+",
       "rank": 10
     }
   ]
