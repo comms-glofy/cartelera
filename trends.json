@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T22:30:16Z",
+  "updated": "2026-10-27T23:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentinos",
+      "name": "córdoba",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "fuego",
+      "name": "messi cup resultados",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "copa mundial de fútbol",
-      "traffic": "200+",
+      "name": "día del bancario",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "posiciones de torino fc contra como 1907",
-      "traffic": "2000+",
+      "name": "siameses",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "serie a",
-      "traffic": "2000+",
+      "name": "copa mundial femenina de fútbol sub-17",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ricardo darín",
-      "traffic": "500+",
+      "name": "argentinos",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "como vs",
+      "name": "fuego",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "méxico",
-      "traffic": "10000+",
+      "name": "copa mundial de fútbol",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "argentinos jrs. - independiente rivadavia",
-      "traffic": "20000+",
+      "name": "posiciones de torino fc contra como 1907",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "cuti romero",
-      "traffic": "1000+",
+      "name": "serie a",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
