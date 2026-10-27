@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-27T02:00:16Z",
+  "updated": "2026-10-27T02:15:51Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "miami heat",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "marta fort",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "jazz - grizzlies",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "nuggets - warriors",
       "traffic": "500+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "gran hermano",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "posiciones de flamengo contra atlético mineiro",
       "traffic": "5000+",
-      "rank": 3
-    },
-    {
-      "name": "valeria mazza",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "santa fe - bucaramanga",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "rays - brewers",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "barco",
-      "traffic": "2000+",
+      "name": "valeria mazza",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "bolivar",
-      "traffic": "200+",
+      "name": "crucero",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "milito",
-      "traffic": "500+",
+      "name": "santa fe - bucaramanga",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "thunder - suns",
+      "name": "rays - brewers",
       "traffic": "200+",
       "rank": 10
     }
