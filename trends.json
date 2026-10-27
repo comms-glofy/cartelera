@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T20:30:16Z",
+  "updated": "2026-10-27T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como fc",
-      "traffic": "200+",
+      "name": "roma vs cagliari",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "andrea kimi antonelli",
-      "traffic": "200+",
+      "name": "torino fc",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ignacio online",
+      "name": "argentinos vs independiente rivadavia",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gobierno de la provincia de córdoba",
-      "traffic": "100+",
+      "name": "roma fc",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "deshielo",
-      "traffic": "100+",
+      "name": "condena",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "wayne rooney",
+      "name": "como fc",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "oliver bearman",
+      "name": "andrea kimi antonelli",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "copa del rey",
-      "traffic": "100+",
+      "name": "ignacio online",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "roma - cagliari",
-      "traffic": "2000+",
+      "name": "deshielo",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "boca vs flamengo messi cup",
-      "traffic": "200+",
+      "name": "gobierno de la provincia de córdoba",
+      "traffic": "100+",
       "rank": 10
     }
   ]
