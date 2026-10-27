@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T22:00:14Z",
+  "updated": "2026-10-27T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como vs",
+      "name": "argentinos",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "ricardo darín",
-      "traffic": "200+",
+      "name": "fuego",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "méxico",
-      "traffic": "5000+",
+      "name": "copa mundial de fútbol",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "como",
-      "traffic": "10000+",
+      "name": "posiciones de torino fc contra como 1907",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "argentinos jrs. - independiente rivadavia",
-      "traffic": "5000+",
+      "name": "serie a",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "cuti romero",
+      "name": "ricardo darín",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "grand theft auto vi",
-      "traffic": "200+",
+      "name": "como vs",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "martín varsavsky",
-      "traffic": "500+",
+      "name": "méxico",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "river messi cup",
-      "traffic": "200+",
+      "name": "argentinos jrs. - independiente rivadavia",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "fuerza aérea de chile",
-      "traffic": "100+",
+      "name": "cuti romero",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
