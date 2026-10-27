@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T10:00:16Z",
+  "updated": "2026-10-27T10:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima salta",
+      "name": "virginia aparicio",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima tucuman",
+      "name": "agustín marchesín",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tiempo en mendoza",
-      "traffic": "100+",
+      "name": "clima salta",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clima mendoza",
+      "name": "clima tucuman",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "discord",
+      "name": "clima san juan",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "iván de pineda",
-      "traffic": "200+",
+      "name": "clima mendoza",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "bet 365",
+      "name": "discord",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "yaxel lendeborg",
+      "name": "iván de pineda",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "posiciones de independiente santa fe contra atlético bucaramanga",
-      "traffic": "2000+",
+      "name": "bet 365",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "27 de octubre",
-      "traffic": "100+",
+      "name": "posiciones de independiente santa fe contra atlético bucaramanga",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
