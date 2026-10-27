@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T11:00:19Z",
+  "updated": "2026-10-27T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elecciones israel",
+      "name": "eric bauza bugs bunny",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mdz",
+      "name": "mendoza post",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "exilio",
+      "name": "nestor kirchner",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "diario uno",
-      "traffic": "200+",
+      "name": "elecciones israel",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "misionesonline",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "mdz",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "exilio",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "diario uno",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "virginia aparicio",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "agustín marchesín",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "clima salta",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "clima tucuman",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima san juan",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima mendoza",
-      "traffic": "500+",
+      "name": "agustín marchesín",
+      "traffic": "200+",
       "rank": 10
     }
   ]
