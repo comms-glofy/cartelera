@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T01:30:12Z",
+  "updated": "2026-10-27T02:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de flamengo contra atlético mineiro",
-      "traffic": "2000+",
+      "name": "nuggets - warriors",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "valeria mazza",
+      "name": "gran hermano",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "crucero",
-      "traffic": "100+",
+      "name": "posiciones de flamengo contra atlético mineiro",
+      "traffic": "5000+",
       "rank": 3
+    },
+    {
+      "name": "valeria mazza",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "santa fe - bucaramanga",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "rays - brewers",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "barco",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "bolivar",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "diego milito",
-      "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "milito",
-      "traffic": "200+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "thunder - suns",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "virginia a. aparicio",
-      "traffic": "100+",
       "rank": 10
     }
   ]
