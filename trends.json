@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T21:30:14Z",
+  "updated": "2026-10-27T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuti romero",
-      "traffic": "200+",
+      "name": "como vs",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "grand theft auto vi",
+      "name": "ricardo darín",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "martín varsavsky",
-      "traffic": "200+",
+      "name": "méxico",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "river messi cup",
-      "traffic": "100+",
+      "name": "como",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "fuerza aérea de chile",
-      "traffic": "100+",
+      "name": "argentinos jrs. - independiente rivadavia",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "arsenal",
-      "traffic": "1000+",
+      "name": "cuti romero",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "roma vs cagliari",
-      "traffic": "100+",
+      "name": "grand theft auto vi",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "torino fc",
-      "traffic": "100+",
+      "name": "martín varsavsky",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "argentinos vs independiente rivadavia",
+      "name": "river messi cup",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "condena",
-      "traffic": "500+",
+      "name": "fuerza aérea de chile",
+      "traffic": "100+",
       "rank": 10
     }
   ]
