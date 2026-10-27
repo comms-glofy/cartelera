@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T07:00:16Z",
+  "updated": "2026-10-27T07:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "posiciones de independiente santa fe contra atlético bucaramanga",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "27 de octubre que se celebra",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "27 de octubre",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tornado",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "rockets - hawks",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "bucks - pacers",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "tabla anual de la liga argentina",
-      "traffic": "200+",
       "rank": 10
     }
   ]
