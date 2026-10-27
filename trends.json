@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T16:00:16Z",
+  "updated": "2026-10-27T16:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético newell's old boys",
-      "traffic": "100+",
+      "name": "rot-weiss essen - rb leipzig",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mcdonalds",
-      "traffic": "200+",
+      "name": "ruta nacional 237",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rey carlos iii",
+      "name": "stellantis",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "wanda nara",
+      "name": "u2",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "chad lowe",
-      "traffic": "100+",
+      "name": "luis zahera",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pokémon unite",
+      "name": "alejandro garnacho",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "bolsonaro flavio",
-      "traffic": "1000+",
+      "name": "arvid lindblad",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "aerolineas argentinas",
-      "traffic": "2000+",
+      "name": "club atlético newell's old boys",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "2000+",
+      "name": "mcdonalds",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "swift",
-      "traffic": "500+",
+      "name": "mc donalds",
+      "traffic": "100+",
       "rank": 10
     }
   ]
