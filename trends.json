@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T21:00:17Z",
+  "updated": "2026-10-27T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "roma vs cagliari",
-      "traffic": "100+",
+      "name": "cuti romero",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "torino fc",
-      "traffic": "100+",
+      "name": "grand theft auto vi",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "argentinos vs independiente rivadavia",
+      "name": "martín varsavsky",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "roma fc",
-      "traffic": "500+",
+      "name": "river messi cup",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "fuerza aérea de chile",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "arsenal",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "roma vs cagliari",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "torino fc",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "argentinos vs independiente rivadavia",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "condena",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "como fc",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "andrea kimi antonelli",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "ignacio online",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "deshielo",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "gobierno de la provincia de córdoba",
-      "traffic": "100+",
       "rank": 10
     }
   ]
