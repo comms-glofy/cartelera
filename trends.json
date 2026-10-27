@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T16:30:18Z",
+  "updated": "2026-10-27T17:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rot-weiss essen - rb leipzig",
-      "traffic": "200+",
+      "name": "efl cup",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "villa el chocón",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "rot-weiss essen - rb leipzig",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "ruta nacional 237",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "stellantis",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "u2",
-      "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "luis zahera",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "u2",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "alejandro garnacho",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "arvid lindblad",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "club atlético newell's old boys",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "mcdonalds",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "mc donalds",
-      "traffic": "100+",
       "rank": 10
     }
   ]
