@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T14:30:19Z",
+  "updated": "2026-10-27T14:46:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "virginia aparicio inta",
-      "traffic": "1000+",
+      "name": "carlos alcaraz",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "frente frío",
+      "name": "swift",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "calzado",
+      "name": "mbappe china",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lourdes sanchez",
-      "traffic": "500+",
+      "name": "virginia aparicio inta",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "frente frío",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "calzado",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "real brasileño",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "atp viena",
-      "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "boda",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ruta nacional 7",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "noah wyle",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "sofia vergara",
-      "traffic": "200+",
       "rank": 10
     }
   ]
