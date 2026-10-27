@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T23:00:14Z",
+  "updated": "2026-10-27T23:26:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "córdoba",
-      "traffic": "500+",
+      "name": "tormenta",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "messi cup resultados",
-      "traffic": "500+",
+      "name": "celtics - nets",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "día del bancario",
+      "name": "nicolas ramirez",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "córdoba",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "messi cup resultados",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "día del bancario",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "siameses",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "copa mundial femenina de fútbol sub-17",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "argentinos",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "fuego",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "copa mundial de fútbol",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "posiciones de torino fc contra como 1907",
-      "traffic": "5000+",
+      "name": "argentinos",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "serie a",
-      "traffic": "2000+",
+      "name": "fuego",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
