@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T10:30:16Z",
+  "updated": "2026-10-28T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nasa",
+      "name": "google deepmind",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "españa",
-      "traffic": "100+",
+      "name": "toledo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima bahia blanca",
+      "name": "el pais",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "chino darín",
-      "traffic": "5000+",
+      "name": "nasa",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fuerzas armadas",
+      "name": "clima salta",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "lautaro pereyra",
-      "traffic": "100+",
+      "name": "chino darín",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "meteorología",
-      "traffic": "1000+",
+      "name": "lautaro pereyra",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "milei",
+      "name": "fuerzas armadas",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mlb",
-      "traffic": "500+",
+      "name": "meteorología",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "pronostico santa fe",
-      "traffic": "100+",
+      "name": "mlb",
+      "traffic": "500+",
       "rank": 10
     }
   ]
