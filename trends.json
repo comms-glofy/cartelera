@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-28T17:30:13Z",
+  "updated": "2026-10-28T18:00:35Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rick grimes",
+      "name": "club atlético aldosivi",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "edificio",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "parma - udinese",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "rick grimes",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "nanci",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
       "name": "venezia - inter",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "pitbull",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "mundial sub 17 femenino",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "milan - bolonia",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "conmebol",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "jennifer lawrence",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "nancy godoy",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "cadáver",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "djokovic",
+      "name": "conmebol",
       "traffic": "200+",
       "rank": 10
     }
