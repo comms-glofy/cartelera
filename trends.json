@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:30:14Z",
+  "updated": "2026-10-28T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,17 +10,17 @@
     },
     {
       "name": "google deepmind",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
       "name": "toledo",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
       "name": "el pais",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -39,12 +39,12 @@
       "rank": 7
     },
     {
-      "name": "lautaro pereyra",
+      "name": "fuerzas armadas",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "fuerzas armadas",
+      "name": "lautaro pereyra",
       "traffic": "200+",
       "rank": 9
     },
