@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T02:00:16Z",
+  "updated": "2026-10-28T02:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "junior",
-      "traffic": "100+",
+      "name": "lakers - trail blazers",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "laura bozzo",
-      "traffic": "200+",
+      "name": "boston celtics",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "matthew perry",
+      "name": "junior",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "laura bozzo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "matthew perry",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "dia de los muertos",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "nadia podoroska",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "boyacá chicó - junior",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "pozo",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "susan saint james",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "peñarol",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "liga argentina",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
