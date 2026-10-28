@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-28T17:00:15Z",
+  "updated": "2026-10-28T17:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "milan - bolonia",
-      "traffic": "200+",
+      "name": "rick grimes",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "conmebol",
-      "traffic": "200+",
+      "name": "venezia - inter",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "jennifer lawrence",
+      "name": "pitbull",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nancy godoy",
-      "traffic": "2000+",
+      "name": "mundial sub 17 femenino",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "cadáver",
-      "traffic": "100+",
+      "name": "milan - bolonia",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "djokovic",
+      "name": "conmebol",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "asml",
-      "traffic": "200+",
+      "name": "jennifer lawrence",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "superclásico del fútbol argentino",
-      "traffic": "100+",
+      "name": "nancy godoy",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "día del bancario",
-      "traffic": "500+",
+      "name": "cadáver",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "agustín marchesín",
+      "name": "djokovic",
       "traffic": "200+",
       "rank": 10
     }
