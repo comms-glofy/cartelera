@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T12:30:16Z",
+  "updated": "2026-10-28T13:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "scaloni",
-      "traffic": "200+",
+      "name": "marley y mirko",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "bunge",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "scaloni",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "feriados de noviembre 2026 en argentina",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "maría o'donnell",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "el pais españa",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "google deepmind",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "el pais",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "nasa",
-      "traffic": "200+",
+      "name": "google deepmind",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "clima salta",
-      "traffic": "100+",
+      "name": "toledo",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "chino darín",
-      "traffic": "5000+",
+      "name": "el pais",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "lautaro pereyra",
-      "traffic": "200+",
+      "name": "nasa",
+      "traffic": "500+",
       "rank": 10
     }
   ]
