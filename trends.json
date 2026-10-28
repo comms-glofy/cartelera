@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T23:00:15Z",
+  "updated": "2026-10-28T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami - cincinnati",
-      "traffic": "2000+",
+      "name": "pacers - 76ers",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tomás belmonte",
+      "name": "suteba",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "océano",
+      "name": "paro nacional",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "devaluación",
-      "traffic": "200+",
+      "name": "bragantino",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "alineaciones de liverpool fc contra chelsea",
+      "name": "nyc fc - atlanta united",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fluminense - internacional",
-      "traffic": "1000+",
+      "name": "alerta roja",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "liverpool",
-      "traffic": "2000+",
+      "name": "brasileirão serie a",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "club estudiantes de la plata",
-      "traffic": "500+",
+      "name": "club de gimnasia y esgrima la plata",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "jenna ortega",
-      "traffic": "100+",
+      "name": "inter miami - cincinnati",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "santos - palmeiras",
-      "traffic": "5000+",
+      "name": "tomás belmonte",
+      "traffic": "200+",
       "rank": 10
     }
   ]
