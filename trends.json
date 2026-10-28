@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T09:30:14Z",
+  "updated": "2026-10-28T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima tucuman",
-      "traffic": "100+",
+      "name": "chino darín",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "meteorología",
-      "traffic": "500+",
+      "name": "fuerzas armadas",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fecha de cobro auh noviembre 2026",
-      "traffic": "500+",
+      "name": "meteorología",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "mlb",
+      "name": "milei",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "fecha de cobro auh noviembre 2026",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "mlb",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "pronostico santa fe",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "quien se fue de masterchef",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "clima santa fe",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "quien se fue de masterchef hoy",
-      "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "2 de noviembre",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "rocio marengo",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "lakers - trail blazers",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
