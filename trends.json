@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-28T15:00:18Z",
+  "updated": "2026-10-28T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "evangelina anderson",
-      "traffic": "200+",
+      "name": "clima necochea",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "bono",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
+      "name": "river messi cup",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "tom hanks",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "feriados por la visita del papa",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "evangelina anderson",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "superclasico",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "daniil medvédev",
       "traffic": "200+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "gobierno",
       "traffic": "10000+",
-      "rank": 4
-    },
-    {
-      "name": "valle salvaje",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "marley y mirko",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "scaloni",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "feriados de noviembre 2026 en argentina",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "maría o'donnell",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "golpearon a milei",
+      "name": "valle salvaje",
       "traffic": "100+",
       "rank": 10
     }
