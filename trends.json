@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T22:30:14Z",
+  "updated": "2026-10-28T23:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "inter miami - cincinnati",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "tomás belmonte",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "océano",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "devaluación",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "alineaciones de liverpool fc contra chelsea",
       "traffic": "200+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "fluminense - internacional",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 6
     },
     {
-      "name": "chelsea",
-      "traffic": "1000+",
-      "rank": 3
+      "name": "liverpool",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "club estudiantes de la plata",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "jenna ortega",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "santos - palmeiras",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "damián betular",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "basura",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "celtic",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "recesión",
-      "traffic": "500+",
+      "name": "santos - palmeiras",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
