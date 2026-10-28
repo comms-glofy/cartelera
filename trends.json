@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T20:00:18Z",
+  "updated": "2026-10-28T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dólar estadounidense",
-      "traffic": "200+",
+      "name": "julián santero",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima olavarria",
-      "traffic": "100+",
+      "name": "balon de oro de todos los tiempos",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fraude",
+      "name": "sedán",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "valentina pergolini",
-      "traffic": "200+",
+      "name": "dólar estadounidense",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "sunderland afc - brentford",
-      "traffic": "200+",
+      "name": "clima olavarria",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "fulham - crystal palace",
+      "name": "fraude",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "carabao cup",
+      "name": "valentina pergolini",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "inter milan",
-      "traffic": "500+",
+      "name": "sunderland afc - brentford",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "500+",
+      "name": "carabao cup",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "monza - napoli",
-      "traffic": "500+",
+      "name": "fulham - crystal palace",
+      "traffic": "200+",
       "rank": 10
     }
   ]
