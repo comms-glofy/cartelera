@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-28T21:13:07Z",
+  "updated": "2026-10-28T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "copa argentina",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "guadalupe martínez uría",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "city vs",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "city",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "porto - académico de viseu futebol clube",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "leverkusen",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "aníbal moreno",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "ecocarnes",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "dfb pokal",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "julián santero",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "balon de oro de todos los tiempos",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "sedán",
+      "name": "julián santero",
       "traffic": "200+",
       "rank": 10
     }
