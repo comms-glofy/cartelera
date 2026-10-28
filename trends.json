@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-27T23:30:13Z",
+  "updated": "2026-10-28T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tormenta",
-      "traffic": "2000+",
+      "name": "resultados messi cup",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "celtics - nets",
+      "name": "knicks - pistons",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nicolas ramirez",
-      "traffic": "100+",
+      "name": "spurs - kings",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "córdoba",
-      "traffic": "500+",
+      "name": "tormenta",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "messi cup resultados",
-      "traffic": "500+",
+      "name": "celtics - nets",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "día del bancario",
+      "name": "nicolas ramirez",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "siameses",
-      "traffic": "200+",
+      "name": "córdoba",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "copa mundial femenina de fútbol sub-17",
+      "name": "día del bancario",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "argentinos",
-      "traffic": "2000+",
+      "name": "siameses",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fuego",
-      "traffic": "1000+",
+      "name": "copa mundial femenina de fútbol sub-17",
+      "traffic": "200+",
       "rank": 10
     }
   ]
