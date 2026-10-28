@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T10:00:18Z",
+  "updated": "2026-10-28T10:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chino darín",
-      "traffic": "2000+",
+      "name": "nasa",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fuerzas armadas",
+      "name": "españa",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "clima bahia blanca",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "chino darín",
+      "traffic": "5000+",
+      "rank": 4
+    },
+    {
+      "name": "fuerzas armadas",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "lautaro pereyra",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "meteorología",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "milei",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "fecha de cobro auh noviembre 2026",
-      "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "mlb",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "pronostico santa fe",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "quien se fue de masterchef",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "clima santa fe",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "2 de noviembre",
-      "traffic": "200+",
       "rank": 10
     }
   ]
