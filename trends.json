@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T01:00:13Z",
+  "updated": "2026-10-28T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "susan saint james",
-      "traffic": "100+",
+      "name": "boyacá chicó - junior",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "pozo",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "susan saint james",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "peñarol",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "liga argentina",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "tabla anual 2026",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "china ansa",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "autobús",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "china ansa",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "tabla anual futbol argentino",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "knicks - pistons",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "resultados messi cup",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "spurs - kings",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "acuerdo comercio octubre 2026",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
