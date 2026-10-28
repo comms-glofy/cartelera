@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T03:30:14Z",
+  "updated": "2026-10-28T04:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima santa fe",
+      "name": "mlb",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "quien se fue de masterchef hoy",
-      "traffic": "500+",
+      "name": "pronostico santa fe",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rocio marengo",
+      "name": "clima santa fe",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "2 de noviembre",
-      "traffic": "100+",
+      "name": "quien se fue de masterchef hoy",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "lakers - trail blazers",
-      "traffic": "1000+",
+      "name": "2 de noviembre",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "boston celtics",
+      "name": "rocio marengo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "junior",
-      "traffic": "200+",
+      "name": "lakers - trail blazers",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "laura bozzo",
-      "traffic": "500+",
+      "name": "boston celtics",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "matthew perry",
+      "name": "junior",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dia de los muertos",
-      "traffic": "100+",
+      "name": "laura bozzo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
