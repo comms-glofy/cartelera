@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-28T19:30:19Z",
+  "updated": "2026-10-28T20:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "monza - napoli",
+      "name": "dólar estadounidense",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "boat",
+      "name": "clima olavarria",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ac milan",
-      "traffic": "100+",
+      "name": "fraude",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "venezia vs. inter",
-      "traffic": "100+",
+      "name": "valentina pergolini",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "milan vs bologna",
-      "traffic": "100+",
+      "name": "sunderland afc - brentford",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "liverpool - chelsea",
-      "traffic": "2000+",
+      "name": "fulham - crystal palace",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "genoa - juventus",
-      "traffic": "500+",
+      "name": "carabao cup",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "valentina cervantes",
-      "traffic": "100+",
+      "name": "inter milan",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "milan vs. bolonia",
-      "traffic": "100+",
+      "name": "clima mar del plata",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "bayern - 1. fc magdeburg",
-      "traffic": "2000+",
+      "name": "monza - napoli",
+      "traffic": "500+",
       "rank": 10
     }
   ]
