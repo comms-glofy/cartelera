@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T22:30:15Z",
+  "updated": "2026-10-29T23:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "vasco da gama - flamengo",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
+      "name": "biturbo",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "pronostico santa fe",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "pronostico parana",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "lucas trejo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "club de gimnasia y esgrima la plata",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "atlético mineiro - cruzeiro",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "franco mastantuono",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "clima parana",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "fórmula 1",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "ben shelton",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lista de pensiones no contributivas suspendidas",
-      "traffic": "500+",
+      "name": "fórmula 1",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
