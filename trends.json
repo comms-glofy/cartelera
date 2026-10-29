@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T18:00:16Z",
+  "updated": "2026-10-29T18:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la plata",
+      "name": "predicción",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "exequiel zeballos",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "premios ídolo",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "dante sica",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "la plata",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "diego milito",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "frosinone - lecce",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "al-nassr - al-kholood club",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "niebla",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "clima rosario",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "pronostico rosario",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "frosinone",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "chile",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "poder judicial",
-      "traffic": "200+",
+      "name": "gobierno",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
