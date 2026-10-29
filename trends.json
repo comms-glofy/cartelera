@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:00:16Z",
+  "updated": "2026-10-29T11:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -25,7 +25,7 @@
     },
     {
       "name": "robo",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
     },
     {
@@ -35,22 +35,22 @@
     },
     {
       "name": "gilberto mora",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lakers",
+      "name": "el clima",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "quini",
-      "traffic": "2000+",
+      "name": "lakers",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "américa - tijuana",
-      "traffic": "500+",
+      "name": "quini",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
