@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T20:01:41Z",
+  "updated": "2026-10-29T20:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "patrick stewart",
-      "traffic": "500+",
+      "name": "sporting cristal - alianza lima",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "club atlético rosario central",
+      "name": "atalanta",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cristiano ronaldo",
-      "traffic": "5000+",
+      "name": "profesor x",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "primera división de arabia saudita",
-      "traffic": "100+",
+      "name": "ypf",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "banca privada",
+      "name": "everton vs",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "el nueve",
+      "name": "fiorentina vs atalanta",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "uocra",
-      "traffic": "200+",
+      "name": "braga fc",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "atleta",
-      "traffic": "100+",
+      "name": "patrick stewart",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "fiorentina - atalanta",
-      "traffic": "2000+",
+      "name": "club atlético rosario central",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "china ansa",
-      "traffic": "200+",
+      "name": "cristiano ronaldo",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
