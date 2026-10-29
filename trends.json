@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T17:30:15Z",
+  "updated": "2026-10-29T18:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gobierno",
-      "traffic": "500+",
+      "name": "la plata",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima rosario",
-      "traffic": "500+",
+      "name": "diego milito",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "pronostico rosario",
-      "traffic": "500+",
+      "name": "frosinone - lecce",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "frosinone",
-      "traffic": "100+",
+      "name": "al-nassr - al-kholood club",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "chile",
-      "traffic": "1000+",
+      "name": "niebla",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "poder judicial",
-      "traffic": "200+",
+      "name": "clima rosario",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "clima rio cuarto",
-      "traffic": "200+",
+      "name": "pronostico rosario",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "vivienda",
+      "name": "frosinone",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juan fernando quintero",
-      "traffic": "100+",
+      "name": "chile",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "ander herrera",
-      "traffic": "2000+",
+      "name": "poder judicial",
+      "traffic": "200+",
       "rank": 10
     }
   ]
