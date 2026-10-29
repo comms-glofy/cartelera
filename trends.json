@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T13:30:17Z",
+  "updated": "2026-10-29T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos tevez",
-      "traffic": "10000+",
+      "name": "estadio alberto j. armando la bombonera",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "embargo",
-      "traffic": "200+",
+      "name": "gobernador de corrientes",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "carlos tevez",
+      "traffic": "10000+",
+      "rank": 3
+    },
+    {
+      "name": "universo",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "embargo",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "black friday",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
-      "name": "escala comercio octubre 2026",
-      "traffic": "500+",
-      "rank": 4
+      "name": "faecys",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "helicóptero",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "crucero",
       "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "rodrigo rey",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "thiago cardozo",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "aire de santa fe",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "robo",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "patricio giménez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
