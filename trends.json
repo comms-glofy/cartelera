@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T09:00:15Z",
+  "updated": "2026-10-29T09:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lakers",
+      "name": "mohammed ben sulayem",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "quini",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
       "name": "américa - tijuana",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "gimena accardi",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "bucks - rockets",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "julieta nair calvo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "karina mazzocco",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clippers - lakers",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "la gaceta",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "falcioni",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "beca",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "planeta enano",
-      "traffic": "200+",
       "rank": 10
     }
   ]
