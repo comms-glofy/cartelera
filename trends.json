@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T14:33:35Z",
+  "updated": "2026-10-29T15:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pauny",
-      "traffic": "100+",
+      "name": "pago",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "lotería",
-      "traffic": "2000+",
+      "name": "superávit económico",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "estadio alberto j. armando la bombonera",
+      "name": "pauny",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gobernador de corrientes",
-      "traffic": "100+",
+      "name": "lotería",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "carlos tevez",
-      "traffic": "10000+",
+      "name": "productor televisivo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "universo",
+      "name": "estadio alberto j. armando la bombonera",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "embargo",
-      "traffic": "500+",
+      "name": "gobernador de corrientes",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "black friday",
-      "traffic": "100+",
+      "name": "carlos tevez",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "faecys",
-      "traffic": "1000+",
+      "name": "universo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "helicóptero",
-      "traffic": "200+",
+      "name": "embargo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
