@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T02:30:16Z",
+  "updated": "2026-10-29T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "karina mazzocco",
-      "traffic": "500+",
+      "name": "bucks - rockets",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "posiciones de new york city football club contra atlanta united",
+      "name": "julieta nair calvo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clippers - lakers",
-      "traffic": "200+",
+      "name": "karina mazzocco",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "posiciones de new york city football club contra atlanta united",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "clippers - lakers",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "la gaceta",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "falcioni",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "telefe",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "beca",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "posiciones de inter miami contra fc cincinnati",
-      "traffic": "10000+",
-      "rank": 7
-    },
-    {
-      "name": "lionel messi",
-      "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "mavericks - thunder",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mls",
-      "traffic": "1000+",
+      "name": "posiciones de inter miami contra fc cincinnati",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
