@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T19:30:14Z",
+  "updated": "2026-10-29T20:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fiorentina - atalanta",
+      "name": "patrick stewart",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "china ansa",
+      "name": "club atlético rosario central",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima tucuman",
-      "traffic": "500+",
+      "name": "cristiano ronaldo",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "everton - newcastle",
-      "traffic": "1000+",
+      "name": "primera división de arabia saudita",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "elke sommer",
-      "traffic": "200+",
+      "name": "banca privada",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "djokovic",
+      "name": "el nueve",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "novak djokovic",
-      "traffic": "1000+",
+      "name": "uocra",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "carnicería",
-      "traffic": "200+",
+      "name": "atleta",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "al nassr",
-      "traffic": "500+",
+      "name": "fiorentina - atalanta",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "exequiel zeballos",
-      "traffic": "1000+",
+      "name": "china ansa",
+      "traffic": "200+",
       "rank": 10
     }
   ]
