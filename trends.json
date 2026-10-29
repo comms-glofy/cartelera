@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T06:30:15Z",
+  "updated": "2026-10-29T07:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
+      "name": "golden state warriors",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "karina mazzocco",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "clippers - lakers",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "falcioni",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "beca",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "masterchef hoy",
-      "traffic": "100+",
       "rank": 10
     }
   ]
