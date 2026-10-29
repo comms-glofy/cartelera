@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-29T13:00:17Z",
+  "updated": "2026-10-29T13:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "carlos tevez",
+      "traffic": "10000+",
+      "rank": 1
+    },
+    {
       "name": "embargo",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "black friday",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
-      "name": "faecys",
+      "name": "escala comercio octubre 2026",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "crucero",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "rodrigo rey",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "thiago cardozo",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "actor jorge de juan",
-      "traffic": "10000+",
       "rank": 7
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "mohammed ben sulayem",
-      "traffic": "1000+",
+      "name": "patricio giménez",
+      "traffic": "500+",
       "rank": 10
     }
   ]
