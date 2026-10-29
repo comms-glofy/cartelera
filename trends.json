@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T01:00:15Z",
+  "updated": "2026-10-29T01:07:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jazz - spurs",
+      "name": "chicago fire - orlando city",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "fiesta de la confluencia 2027",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "jazz - spurs",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "nba hoy",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "primera división",
       "traffic": "5000+",
-      "rank": 3
-    },
-    {
-      "name": "mañana hay paro nacional?",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pelicans - nuggets",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "paro universitario",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "hawks - heat",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "sandra pettovello",
-      "traffic": "1000+",
-      "rank": 8
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "delfín - independiente del valle",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "bulls - knicks",
-      "traffic": "200+",
       "rank": 10
     }
   ]
