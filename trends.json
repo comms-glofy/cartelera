@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T05:00:17Z",
+  "updated": "2026-10-29T05:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lakers",
+      "name": "américa - tijuana",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "américa - tijuana",
-      "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "spurs",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "gimena accardi",
       "traffic": "100+",
-      "rank": 4
+      "rank": 2
     },
     {
       "name": "bucks - rockets",
       "traffic": "100+",
-      "rank": 5
+      "rank": 3
     },
     {
       "name": "julieta nair calvo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "karina mazzocco",
       "traffic": "500+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "clippers - lakers",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "falcioni",
       "traffic": "100+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "beca",
       "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "telefe",
+      "traffic": "2000+",
+      "rank": 9
+    },
+    {
+      "name": "posiciones de inter miami contra fc cincinnati",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
