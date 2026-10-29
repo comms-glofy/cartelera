@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-29T14:00:17Z",
+  "updated": "2026-10-29T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estadio alberto j. armando la bombonera",
+      "name": "pauny",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "gobernador de corrientes",
-      "traffic": "100+",
+      "name": "lotería",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "carlos tevez",
-      "traffic": "10000+",
+      "name": "estadio alberto j. armando la bombonera",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "universo",
+      "name": "gobernador de corrientes",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "carlos tevez",
+      "traffic": "10000+",
+      "rank": 5
+    },
+    {
+      "name": "universo",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "embargo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "black friday",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "faecys",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "helicóptero",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "crucero",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "rodrigo rey",
+      "name": "helicóptero",
       "traffic": "200+",
       "rank": 10
     }
