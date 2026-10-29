@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T16:00:16Z",
+  "updated": "2026-10-29T16:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos alcaraz",
-      "traffic": "500+",
+      "name": "federación argentina de empleados de comercio y servicios",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "feriados por la visita del papa",
+      "name": "causa por presuntas coimas en la andis",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "poder judicial mendoza",
-      "traffic": "200+",
+      "name": "carlos alcaraz",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "pago",
-      "traffic": "2000+",
+      "name": "feriados por la visita del papa",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "superávit económico",
+      "name": "poder judicial mendoza",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pauny",
-      "traffic": "200+",
+      "name": "pago",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "superávit económico",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "pauny",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "lotería",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "productor televisivo",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "estadio alberto j. armando la bombonera",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "gobernador de corrientes",
-      "traffic": "100+",
+      "name": "productor televisivo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
