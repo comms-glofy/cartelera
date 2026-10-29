@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T03:30:14Z",
+  "updated": "2026-10-29T04:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
-      "name": "golden state warriors",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
       "name": "julieta nair calvo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "karina mazzocco",
       "traffic": "500+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "clippers - lakers",
-      "traffic": "500+",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "falcioni",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "la gaceta",
-      "traffic": "1000+",
+      "name": "beca",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "posiciones de new york city football club contra atlanta united",
+      "name": "telefe",
       "traffic": "2000+",
       "rank": 10
     }
