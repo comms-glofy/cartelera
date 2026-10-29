@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T15:30:16Z",
+  "updated": "2026-10-29T16:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pago",
-      "traffic": "1000+",
+      "name": "carlos alcaraz",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "superávit económico",
-      "traffic": "200+",
+      "name": "feriados por la visita del papa",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pauny",
+      "name": "poder judicial mendoza",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lotería",
+      "name": "pago",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "productor televisivo",
+      "name": "superávit económico",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "estadio alberto j. armando la bombonera",
+      "name": "pauny",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gobernador de corrientes",
-      "traffic": "100+",
+      "name": "lotería",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "carlos tevez",
-      "traffic": "10000+",
+      "name": "productor televisivo",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "universo",
-      "traffic": "200+",
+      "name": "estadio alberto j. armando la bombonera",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "embargo",
-      "traffic": "1000+",
+      "name": "gobernador de corrientes",
+      "traffic": "100+",
       "rank": 10
     }
   ]
