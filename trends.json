@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T12:30:14Z",
+  "updated": "2026-10-29T13:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "faecys",
+      "name": "embargo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "crucero",
+      "name": "black friday",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rodrigo rey",
-      "traffic": "100+",
+      "name": "faecys",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "crucero",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "rodrigo rey",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "thiago cardozo",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "actor jorge de juan",
+      "traffic": "10000+",
+      "rank": 7
     },
     {
       "name": "aire de santa fe",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "robo",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "mohammed ben sulayem",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "gilberto mora",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "volkswagen lamando l",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "america",
-      "traffic": "100+",
       "rank": 10
     }
   ]
