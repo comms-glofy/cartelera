@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-30T17:30:13Z",
+  "updated": "2026-10-30T18:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "le havre - psg",
-      "traffic": "200+",
+      "name": "f1 mexico",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "solana sierra",
+      "name": "beca",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "superclásico del fútbol argentino",
-      "traffic": "200+",
+      "name": "le havre - psg",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "christa pike",
+      "name": "solana sierra",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "superclásico del fútbol argentino",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "christa pike",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "pagos anses",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "clima la rioja",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "juan sebastián verón",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "calor",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "xuxa",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "atraso cambiario",
+      "name": "xuxa",
       "traffic": "100+",
       "rank": 10
     }
