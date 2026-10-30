@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T01:00:14Z",
+  "updated": "2026-10-30T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "radar",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "melgar",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "atlético nacional - santa fe",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "marte",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "gremio vs",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "evento de el niño de 2026 2027",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "hawks - cavaliers",
       "traffic": "200+",
-      "rank": 1
+      "rank": 7
     },
     {
       "name": "maradona",
       "traffic": "200+",
-      "rank": 2
+      "rank": 8
     },
     {
       "name": "vasco da gama vs. flamengo",
       "traffic": "200+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "grêmio - paranaense",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "u. católica - ldu quito",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "btc",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "weather tomorrow",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "américa - fortaleza",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "brasileirão serie a",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "btc usd",
-      "traffic": "200+",
       "rank": 10
     }
   ]
