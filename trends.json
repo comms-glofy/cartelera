@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T10:30:13Z",
+  "updated": "2026-10-30T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima venado tuerto",
+      "name": "urda",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sanción",
+      "name": "clima venado tuerto",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "weather",
-      "traffic": "500+",
+      "name": "sanción",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "weather",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "windy",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima para hoy",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "smn",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pronóstico para hoy",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "temperatura",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "clima hoy",
       "traffic": "50000+",
-      "rank": 9
-    },
-    {
-      "name": "clima de hoy",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
