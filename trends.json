@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T09:30:13Z",
+  "updated": "2026-10-30T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo de hoy",
+      "name": "weather",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pronostico buenos aires",
-      "traffic": "500+",
+      "name": "windy",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "tiempo de hoy",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "smn",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "temperatura",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "clima hoy",
       "traffic": "50000+",
-      "rank": 3
-    },
-    {
-      "name": "clima de hoy",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "clima la plata",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "pronostico",
-      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "tiempo hoy",
-      "traffic": "1000+",
+      "name": "clima la plata",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "el tiempo",
+      "name": "clima de hoy",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "clima san luis",
-      "traffic": "500+",
+      "name": "el clima",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pensiones",
-      "traffic": "1000+",
+      "name": "pronostico",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
