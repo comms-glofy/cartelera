@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T11:30:15Z",
+  "updated": "2026-10-30T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "feriados de noviembre 2026 en argentina",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "fernando alonso",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "marisa manchado",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "la popu",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
+    },
+    {
+      "name": "teams",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "clima junin",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "mauro icardi",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "urda",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "clima venado tuerto",
       "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "sanción",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "weather",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "windy",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "clima para hoy",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "smn",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
