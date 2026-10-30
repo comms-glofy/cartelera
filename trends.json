@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T00:30:12Z",
+  "updated": "2026-10-30T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vasco da gama vs. flamengo",
+      "name": "hawks - cavaliers",
       "traffic": "200+",
       "rank": 1
     },
     {
       "name": "maradona",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "grêmio - paranaense",
-      "traffic": "500+",
+      "name": "vasco da gama vs. flamengo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "u. católica - ldu quito",
-      "traffic": "200+",
+      "name": "grêmio - paranaense",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "u. católica - ldu quito",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "btc",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "weather tomorrow",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "américa - fortaleza",
-      "traffic": "200+",
+      "name": "weather tomorrow",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "brasileirão serie a",
+      "name": "américa - fortaleza",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "btc usd",
-      "traffic": "200+",
+      "name": "brasileirão serie a",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "clima rafaela",
-      "traffic": "100+",
+      "name": "btc usd",
+      "traffic": "200+",
       "rank": 10
     }
   ]
