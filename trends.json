@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-30T08:30:17Z",
+  "updated": "2026-10-30T09:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima hoy",
-      "traffic": "50000+",
+      "name": "smn",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima de hoy",
-      "traffic": "200+",
+      "name": "clima hoy",
+      "traffic": "50000+",
       "rank": 2
     },
     {
@@ -20,36 +20,36 @@
     },
     {
       "name": "pronostico",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 4
+    },
+    {
+      "name": "pronóstico",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "el tiempo",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "clima merlo",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima san luis",
+      "name": "clima merlo",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "pensiones",
-      "traffic": "1000+",
+      "name": "clima san luis",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "posiciones de atlético nacional contra independiente santa fe",
-      "traffic": "2000+",
+      "name": "pensiones",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "manu ginobili",
+      "name": "posiciones de atlético nacional contra independiente santa fe",
       "traffic": "2000+",
       "rank": 10
     }
