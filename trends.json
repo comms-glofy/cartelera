@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-30T01:30:13Z",
+  "updated": "2026-10-30T02:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "radar",
-      "traffic": "100+",
+      "name": "telefe",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "melgar",
+      "name": "pago anses",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "atlético nacional - santa fe",
+      "name": "puma rodriguez",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "marte",
+      "name": "enrique piñeyro",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gremio vs",
+      "name": "pelicans - kings",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "evento de el niño de 2026 2027",
+      "name": "clima san rafael",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "hawks - cavaliers",
-      "traffic": "200+",
+      "name": "vix index",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "maradona",
+      "name": "radar",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "vasco da gama vs. flamengo",
-      "traffic": "200+",
+      "name": "melgar",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "grêmio - paranaense",
+      "name": "atlético nacional - santa fe",
       "traffic": "1000+",
       "rank": 10
     }
