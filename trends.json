@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T08:00:20Z",
+  "updated": "2026-10-30T08:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima san luis",
-      "traffic": "200+",
+      "name": "clima hoy",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "pensiones",
-      "traffic": "1000+",
+      "name": "clima de hoy",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "diego maradona",
-      "traffic": "500+",
+      "name": "clima la plata",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "manu ginobili",
+      "name": "pronostico",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "trail blazers - grizzlies",
+      "name": "el tiempo",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "pablo migliore",
+      "name": "clima merlo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "andrea kimi antonelli",
-      "traffic": "200+",
+      "name": "clima san luis",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "pago anses",
-      "traffic": "200+",
+      "name": "pensiones",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "telefe",
-      "traffic": "1000+",
+      "name": "posiciones de atlético nacional contra independiente santa fe",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "enrique piñeyro",
-      "traffic": "500+",
+      "name": "manu ginobili",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
