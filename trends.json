@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T18:00:19Z",
+  "updated": "2026-10-30T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1 mexico",
-      "traffic": "2000+",
+      "name": "jimena barón",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "beca",
+      "name": "dia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "le havre - psg",
-      "traffic": "2000+",
+      "name": "f1 mexico",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "solana sierra",
+      "name": "beca",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "superclásico del fútbol argentino",
-      "traffic": "200+",
+      "name": "le havre - psg",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "christa pike",
+      "name": "superclásico del fútbol argentino",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pagos anses",
-      "traffic": "1000+",
+      "name": "solana sierra",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima la rioja",
+      "name": "dia de los muertos",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "juan sebastián verón",
-      "traffic": "100+",
+      "name": "christa pike",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "xuxa",
-      "traffic": "100+",
+      "name": "pagos anses",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
