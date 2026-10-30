@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T19:30:14Z",
+  "updated": "2026-10-30T20:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "villarreal - rcd espanyol",
-      "traffic": "200+",
+      "name": "carlos melconian",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "playstation plus",
+      "name": "ejecución",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bbc news mundo",
-      "traffic": "100+",
+      "name": "villarreal - rcd espanyol",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "clima concordia",
-      "traffic": "100+",
+      "name": "playstation plus",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "estadio monumental",
+      "name": "bbc news mundo",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "clima concordia",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "estadio monumental",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "aceite",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "cotización del dólar blue hoy",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "al-shabab - al-ahli saudi",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "ligue 1",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "niza - rennes",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "jimena barón",
-      "traffic": "500+",
       "rank": 10
     }
   ]
