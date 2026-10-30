@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-29T23:30:16Z",
+  "updated": "2026-10-30T00:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brasileirão serie a",
-      "traffic": "200+",
+      "name": "weather tomorrow",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clima rafaela",
-      "traffic": "100+",
+      "name": "américa - fortaleza",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "brasileirão serie a",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "btc usd",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "moria casán",
-      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "hackeo binance",
+      "name": "clima rafaela",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "vasco da gama - flamengo",
-      "traffic": "10000+",
+      "name": "moria casán",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "posiciones de hb køge (femenino) contra fútbol club barcelona femenino",
-      "traffic": "1000+",
+      "name": "hackeo binance",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "biturbo",
-      "traffic": "100+",
+      "name": "tiempo en santa fe",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "pronostico santa fe",
-      "traffic": "500+",
+      "name": "punilla",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "posiciones de fiorentina contra atalanta",
-      "traffic": "2000+",
+      "name": "clima santa fe",
+      "traffic": "500+",
       "rank": 10
     }
   ]
