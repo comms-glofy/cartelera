@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-30T15:00:17Z",
+  "updated": "2026-10-30T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "assassin's creed",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "carlos alcaraz",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "glaciar",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "huerta",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "al ittihad",
-      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "intel",
-      "traffic": "200+",
+      "name": "al ittihad",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "abha - al ittihad",
+      "name": "intel",
       "traffic": "200+",
       "rank": 6
     },
     {
       "name": "edificio",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 7
     },
     {
