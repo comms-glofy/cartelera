@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T17:00:18Z",
+  "updated": "2026-10-30T17:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "calor",
-      "traffic": "100+",
+      "name": "le havre - psg",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "atraso cambiario",
-      "traffic": "100+",
+      "name": "solana sierra",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "xuxa",
-      "traffic": "100+",
+      "name": "superclásico del fútbol argentino",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "konyaspor - galatasaray",
+      "name": "christa pike",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "santiago núñez",
-      "traffic": "200+",
+      "name": "pagos anses",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "armada de chile",
+      "name": "clima la rioja",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "superclasico",
-      "traffic": "200+",
+      "name": "juan sebastián verón",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "taylor fritz",
+      "name": "calor",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "tommy paul",
-      "traffic": "200+",
+      "name": "xuxa",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "accidente de tránsito",
-      "traffic": "200+",
+      "name": "atraso cambiario",
+      "traffic": "100+",
       "rank": 10
     }
   ]
