@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-30T05:00:13Z",
+  "updated": "2026-10-30T05:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "pensiones",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "posiciones de atlético nacional contra independiente santa fe",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "precio dolar blue",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
-      "name": "trail blazers - grizzlies",
-      "traffic": "500+",
-      "rank": 3
+      "name": "diego maradona",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "manu ginobili",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "trail blazers - grizzlies",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "pablo migliore",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "andrea kimi antonelli",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "pago anses",
-      "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "telefe",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "enrique piñeyro",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "puma rodriguez",
+      "name": "enrique piñeyro",
       "traffic": "500+",
       "rank": 10
     }
