@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T16:30:15Z",
+  "updated": "2026-10-30T17:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "taylor fritz",
+      "name": "calor",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "atp viena",
-      "traffic": "200+",
+      "name": "atraso cambiario",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tommy paul",
+      "name": "xuxa",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "accidente de tránsito",
+      "name": "konyaspor - galatasaray",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "assassin's creed",
-      "traffic": "100+",
+      "name": "santiago núñez",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "2000+",
+      "name": "armada de chile",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "glaciar",
+      "name": "superclasico",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "huerta",
-      "traffic": "500+",
+      "name": "taylor fritz",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "intel",
+      "name": "tommy paul",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "abha - al ittihad",
-      "traffic": "500+",
+      "name": "accidente de tránsito",
+      "traffic": "200+",
       "rank": 10
     }
   ]
