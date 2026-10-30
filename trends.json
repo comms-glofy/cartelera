@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T14:30:14Z",
+  "updated": "2026-10-30T15:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "huerta",
-      "traffic": "200+",
+      "name": "carlos alcaraz",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "al ittihad",
+      "name": "glaciar",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "intel",
-      "traffic": "100+",
+      "name": "huerta",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "edificio",
-      "traffic": "500+",
+      "name": "al ittihad",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "horarios f1 mexico",
+      "name": "intel",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "norman briski",
+      "name": "abha - al ittihad",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "30 de octubre",
-      "traffic": "1000+",
+      "name": "edificio",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "feriados de noviembre 2026 en argentina",
-      "traffic": "500+",
+      "name": "horarios f1 mexico",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mercado pago banco",
-      "traffic": "2000+",
+      "name": "norman briski",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "fernando alonso",
-      "traffic": "2000+",
+      "name": "30 de octubre",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
