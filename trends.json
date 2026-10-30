@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-30T02:30:16Z",
+  "updated": "2026-10-30T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "manu ginobili",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "pablo migliore",
+      "name": "trail blazers - grizzlies",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "trail blazers - grizzlies",
+      "name": "pablo migliore",
       "traffic": "200+",
       "rank": 3
     },
@@ -24,23 +24,23 @@
       "rank": 4
     },
     {
-      "name": "telefe",
-      "traffic": "1000+",
+      "name": "pago anses",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pago anses",
-      "traffic": "100+",
+      "name": "telefe",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "enrique piñeyro",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "puma rodriguez",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "enrique piñeyro",
-      "traffic": "100+",
       "rank": 8
     },
     {
