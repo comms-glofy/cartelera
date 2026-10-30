@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T04:00:17Z",
+  "updated": "2026-10-30T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manu ginobili",
-      "traffic": "2000+",
+      "name": "precio dolar blue",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "trail blazers - grizzlies",
+      "name": "diego maradona",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "pablo migliore",
-      "traffic": "200+",
+      "name": "trail blazers - grizzlies",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "andrea kimi antonelli",
-      "traffic": "200+",
+      "name": "manu ginobili",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "pago anses",
+      "name": "pablo migliore",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "telefe",
-      "traffic": "1000+",
+      "name": "andrea kimi antonelli",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "enrique piñeyro",
+      "name": "pago anses",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "puma rodriguez",
-      "traffic": "500+",
+      "name": "telefe",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "pelicans - kings",
-      "traffic": "100+",
+      "name": "enrique piñeyro",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima san rafael",
-      "traffic": "200+",
+      "name": "puma rodriguez",
+      "traffic": "500+",
       "rank": 10
     }
   ]
