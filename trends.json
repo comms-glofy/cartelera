@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T22:30:14Z",
+  "updated": "2026-10-30T22:45:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corinthians - mirassol",
-      "traffic": "200+",
+      "name": "pablo migliore",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "nayib bukele",
+      "name": "luciano pereyra",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "alumni newman",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "corinthians - mirassol",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "posiciones de villarreal club de fútbol contra rcd espanyol de barcelona",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "cotizacion dolar hoy",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "nayib bukele",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "it",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "gabriele minì",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "colo-colo - univ. concepción",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "juan otero",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "jason",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "santiago arzamendia",
-      "traffic": "100+",
+      "name": "gabriele minì",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "huracán - tigre",
-      "traffic": "5000+",
+      "name": "colo-colo - univ. concepción",
+      "traffic": "500+",
       "rank": 10
     }
   ]
