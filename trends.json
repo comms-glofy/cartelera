@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T00:03:22Z",
+  "updated": "2026-10-30T00:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "weather tomorrow",
-      "traffic": "500+",
+      "name": "vasco da gama vs. flamengo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "américa - fortaleza",
-      "traffic": "200+",
+      "name": "maradona",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "brasileirão serie a",
-      "traffic": "200+",
+      "name": "grêmio - paranaense",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "btc usd",
-      "traffic": "100+",
+      "name": "u. católica - ldu quito",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima rafaela",
+      "name": "btc",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "moria casán",
-      "traffic": "1000+",
+      "name": "weather tomorrow",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "hackeo binance",
+      "name": "américa - fortaleza",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tiempo en santa fe",
-      "traffic": "200+",
+      "name": "brasileirão serie a",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "punilla",
-      "traffic": "1000+",
+      "name": "btc usd",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima santa fe",
-      "traffic": "500+",
+      "name": "clima rafaela",
+      "traffic": "100+",
       "rank": 10
     }
   ]
