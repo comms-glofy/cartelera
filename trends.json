@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T14:00:15Z",
+  "updated": "2026-10-30T14:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "edificio",
+      "name": "huerta",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "horarios f1 mexico",
+      "name": "al ittihad",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "halloween 2026",
-      "traffic": "200+",
+      "name": "intel",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "edificio",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "horarios f1 mexico",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "norman briski",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "30 de octubre",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "feriados de noviembre 2026 en argentina",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "mercado pago banco",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "fernando alonso",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "marisa manchado",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "teams",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "mauro icardi",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima junin",
-      "traffic": "100+",
       "rank": 10
     }
   ]
