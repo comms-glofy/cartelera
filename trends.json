@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T18:42:00Z",
+  "updated": "2026-10-30T19:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jimena barón",
-      "traffic": "200+",
+      "name": "al-shabab - al-ahli saudi",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "dia",
-      "traffic": "200+",
+      "name": "cotización del dólar blue hoy",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "f1 mexico",
-      "traffic": "2000+",
+      "name": "ligue 1",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "beca",
-      "traffic": "200+",
+      "name": "niza - rennes",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "le havre - psg",
-      "traffic": "10000+",
+      "name": "jimena barón",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "superclásico del fútbol argentino",
-      "traffic": "200+",
+      "name": "dia",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "solana sierra",
+      "name": "f1 mexico",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "dia de los muertos",
-      "traffic": "100+",
+      "name": "beca",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "christa pike",
-      "traffic": "500+",
+      "name": "le havre - psg",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "pagos anses",
-      "traffic": "1000+",
+      "name": "superclásico del fútbol argentino",
+      "traffic": "500+",
       "rank": 10
     }
   ]
