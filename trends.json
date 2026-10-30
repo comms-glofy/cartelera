@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T16:00:17Z",
+  "updated": "2026-10-30T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "accidente de tránsito",
-      "traffic": "200+",
+      "name": "taylor fritz",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "assassin's creed",
-      "traffic": "100+",
+      "name": "atp viena",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "1000+",
+      "name": "tommy paul",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "glaciar",
+      "name": "accidente de tránsito",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "huerta",
-      "traffic": "500+",
+      "name": "assassin's creed",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "al ittihad",
-      "traffic": "200+",
+      "name": "carlos alcaraz",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "intel",
+      "name": "glaciar",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "abha - al ittihad",
-      "traffic": "200+",
+      "name": "huerta",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "edificio",
-      "traffic": "1000+",
+      "name": "intel",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "horarios f1 mexico",
-      "traffic": "200+",
+      "name": "abha - al ittihad",
+      "traffic": "500+",
       "rank": 10
     }
   ]
