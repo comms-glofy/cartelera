@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-30T22:45:09Z",
+  "updated": "2026-10-30T23:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pablo migliore",
-      "traffic": "500+",
+      "name": "avenida brasil",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "luciano pereyra",
-      "traffic": "200+",
+      "name": "adrián suar",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alumni newman",
-      "traffic": "100+",
+      "name": "sportivo trinidense - rubio ñu",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "corinthians - mirassol",
+      "name": "pablo migliore",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "luciano pereyra",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "alumni newman",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "corinthians - mirassol",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "posiciones de villarreal club de fútbol contra rcd espanyol de barcelona",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "cotizacion dolar hoy",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "nayib bukele",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "it",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "gabriele minì",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "colo-colo - univ. concepción",
-      "traffic": "500+",
       "rank": 10
     }
   ]
