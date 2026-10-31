@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T12:30:23Z",
+  "updated": "2026-10-31T13:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "levante - atlético madrid",
-      "traffic": "2000+",
+      "name": "chelsea vs manchester united",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "murió patrick stewart",
-      "traffic": "200+",
+      "name": "nicolás otamendi",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "chelsea - manchester united",
+      "name": "levante - atlético madrid",
       "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "challenger de guayaquil",
-      "traffic": "100+",
+      "name": "murió patrick stewart",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "500+",
+      "name": "chelsea - manchester united",
+      "traffic": "10000+",
       "rank": 5
     },
     {
-      "name": "arresto",
+      "name": "challenger de guayaquil",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "guillermo coppola",
+      "name": "thiago agustín tirante",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "jubilaciones",
+      "name": "arresto",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "breaking bad",
+      "name": "guillermo coppola",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima puerto madryn",
-      "traffic": "100+",
+      "name": "jubilaciones",
+      "traffic": "500+",
       "rank": 10
     }
   ]
