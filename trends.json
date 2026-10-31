@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-31T05:00:14Z",
+  "updated": "2026-10-31T05:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "warriors",
-      "traffic": "200+",
+      "name": "nba",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "puebla - pumas",
+      "name": "stephen curry",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "noche de brujas",
-      "traffic": "10000+",
+      "name": "warriors",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "isack hadjar",
+      "name": "puebla - pumas",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima neuquen",
-      "traffic": "500+",
+      "name": "noche de brujas",
+      "traffic": "20000+",
       "rank": 5
     },
     {
-      "name": "matias ale",
+      "name": "isack hadjar",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "colision netflix",
-      "traffic": "200+",
+      "name": "clima neuquen",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "tabla anual 2026",
-      "traffic": "500+",
+      "name": "matias ale",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "suns - nuggets",
-      "traffic": "500+",
+      "name": "colision netflix",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tabla anual futbol argentino",
+      "name": "tabla anual 2026",
       "traffic": "500+",
       "rank": 10
     }
