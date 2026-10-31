@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T00:30:13Z",
+  "updated": "2026-10-31T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "exportación",
+      "name": "mavericks - rockets",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "coppola",
+      "name": "heat - pacers",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gelp",
+      "name": "dalma maradona",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "wizards - hornets",
+      "name": "clima santiago del estero",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "haití",
-      "traffic": "200+",
+      "name": "timberwolves - clippers",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "racing - aldosivi",
-      "traffic": "20000+",
+      "name": "central vs",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "sarmiento - rosario central",
-      "traffic": "10000+",
+      "name": "exportación",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "dolli irigoyen",
-      "traffic": "200+",
+      "name": "coppola",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "team liquid",
+      "name": "alumni",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "76ers - knicks",
-      "traffic": "500+",
+      "name": "gelp",
+      "traffic": "200+",
       "rank": 10
     }
   ]
