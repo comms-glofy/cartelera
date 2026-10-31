@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T22:30:13Z",
+  "updated": "2026-10-31T22:39:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "hamilton",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "posiciones de ac milan contra inter milan",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "lamine yamal",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "melissa gilbert",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "hornets - 76ers",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "owen wilson",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "infiernorojo",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "posiciones de peñarol contra montevideo wanderers fútbol club",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "o'higgins - ñublense",
+      "traffic": "100+",
       "rank": 10
     }
   ]
