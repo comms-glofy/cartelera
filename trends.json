@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T15:00:17Z",
+  "updated": "2026-10-31T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brentford - nottingham forest",
-      "traffic": "200+",
+      "name": "river vs boca",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "monza fc",
-      "traffic": "200+",
+      "name": "bournemouth",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "manchester city - brighton",
-      "traffic": "5000+",
+      "name": "jinete",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "coventry city - sunderland afc",
-      "traffic": "200+",
+      "name": "posiciones de levante ud contra atlético de madrid",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "sebastián báez",
-      "traffic": "1000+",
+      "name": "rayo vallecano - celta de vigo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lisandro martínez",
+      "name": "bayer leverkusen",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "500+",
+      "name": "claudio tapia",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "bournemouth - leeds",
+      "name": "taylor fritz",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "leverkusen - stuttgart",
+      "name": "hull city - ipswich",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "bologna fc",
-      "traffic": "200+",
+      "name": "posiciones de chelsea contra manchester united",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
