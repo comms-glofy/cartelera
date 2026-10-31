@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T11:00:14Z",
+  "updated": "2026-10-31T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "arresto",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "breaking bad",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -29,27 +29,27 @@
       "rank": 5
     },
     {
-      "name": "nba",
-      "traffic": "500+",
+      "name": "stephen curry",
+      "traffic": "100+",
       "rank": 6
-    },
-    {
-      "name": "warriors",
-      "traffic": "500+",
-      "rank": 7
     },
     {
       "name": "puebla - pumas",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "noche de brujas",
       "traffic": "20000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "isack hadjar",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "clima neuquen",
       "traffic": "500+",
       "rank": 10
     }
