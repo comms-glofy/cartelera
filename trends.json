@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T18:30:13Z",
+  "updated": "2026-10-31T19:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bayern munich",
+      "name": "deportivo morón - club ciudad de bolívar",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cincinnati - philadelphia",
-      "traffic": "200+",
+      "name": "nacional b",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "tomba",
-      "traffic": "200+",
+      "name": "temperley",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "bayern",
-      "traffic": "1000+",
+      "name": "columbus crew - dc united",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "agropecuario - almagro",
-      "traffic": "200+",
+      "name": "casamiento lali y pedro",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "jobe bellingham",
+      "name": "marcela tinayre",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "betis",
-      "traffic": "500+",
+      "name": "inteligencia artificial",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sam altman",
-      "traffic": "100+",
+      "name": "ian gillan",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tristán suárez - deportivo maipú",
-      "traffic": "1000+",
+      "name": "lpf",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "guillermina valdés",
-      "traffic": "1000+",
+      "name": "tomba",
+      "traffic": "200+",
       "rank": 10
     }
   ]
