@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T20:00:13Z",
+  "updated": "2026-10-31T20:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de bayern contra borussia dortmund",
+      "name": "clima cordoba",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "chaco for ever - racing de córdoba",
-      "traffic": "500+",
+      "name": "colón - defensores de belgrano",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "zombie",
-      "traffic": "100+",
+      "name": "inter vs",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ejército de chile",
-      "traffic": "100+",
+      "name": "radar",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "f1 qualy",
-      "traffic": "100+",
+      "name": "brian fariñas pérez",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "terremoto",
-      "traffic": "500+",
+      "name": "clima san juan",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "clasificacion f1",
-      "traffic": "1000+",
+      "name": "milan",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "peñarol - wanderers",
-      "traffic": "200+",
+      "name": "posiciones de betis contra málaga cf",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "argentino de rosario",
+      "name": "qualy f1",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima rio cuarto",
-      "traffic": "200+",
+      "name": "posiciones de bayern contra borussia dortmund",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
