@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T10:00:14Z",
+  "updated": "2026-10-31T10:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "breaking bad",
-      "traffic": "100+",
+      "name": "guillermo coppola",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "breaking bad",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "clima puerto madryn",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "sports",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "warriors",
-      "traffic": "500+",
+      "name": "sports",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "nba",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "puebla - pumas",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "noche de brujas",
       "traffic": "20000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "isack hadjar",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "clima neuquen",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "matias ale",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de racing club contra aldosivi",
-      "traffic": "100000+",
       "rank": 10
     }
   ]
