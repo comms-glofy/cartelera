@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T14:38:36Z",
+  "updated": "2026-10-31T15:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos alcaraz",
+      "name": "brentford - nottingham forest",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bournemouth - leeds",
+      "name": "monza fc",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "atletico",
-      "traffic": "500+",
+      "name": "manchester city - brighton",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "leverkusen - stuttgart",
+      "name": "coventry city - sunderland afc",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bologna fc",
-      "traffic": "200+",
+      "name": "sebastián báez",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "superclasico",
-      "traffic": "2000+",
+      "name": "lisandro martínez",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "chelsea vs",
+      "name": "carlos alcaraz",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "canal 26",
+      "name": "bournemouth - leeds",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "el cuento del tío",
-      "traffic": "500+",
+      "name": "leverkusen - stuttgart",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "horarios f1 mexico",
-      "traffic": "100+",
+      "name": "bologna fc",
+      "traffic": "200+",
       "rank": 10
     }
   ]
