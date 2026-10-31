@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T23:00:15Z",
+  "updated": "2026-10-31T23:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "san lorenzo hoy",
-      "traffic": "500+",
+      "name": "sebastian",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "infopico",
+      "name": "club atlético vélez sarsfield",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "infopico",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "olimpo",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "maría fernanda callejón",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "f1 clasificación hoy",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "dinero",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "hamilton",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "canelo vs mbilli en vivo",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "posiciones de ac milan contra inter milan",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "melissa gilbert",
-      "traffic": "500+",
+      "name": "posiciones de ac milan contra inter milan",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "hornets - 76ers",
-      "traffic": "200+",
+      "name": "melissa gilbert",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
