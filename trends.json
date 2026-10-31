@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T11:30:15Z",
+  "updated": "2026-10-31T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arresto",
-      "traffic": "200+",
+      "name": "chelsea - manchester united",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "guillermo coppola",
-      "traffic": "200+",
+      "name": "challenger de guayaquil",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "arresto",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "guillermo coppola",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "jubilaciones",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "breaking bad",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "clima puerto madryn",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "sports",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "stephen curry",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "puebla - pumas",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "noche de brujas",
-      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "isack hadjar",
-      "traffic": "1000+",
+      "name": "nba",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima neuquen",
-      "traffic": "500+",
+      "name": "warriors vs lakers",
+      "traffic": "200+",
       "rank": 10
     }
   ]
