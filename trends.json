@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T14:30:14Z",
+  "updated": "2026-10-31T14:38:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atletico",
-      "traffic": "500+",
+      "name": "carlos alcaraz",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "leverkusen - stuttgart",
+      "name": "bournemouth - leeds",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "atletico",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "leverkusen - stuttgart",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "bologna fc",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "superclasico",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "chelsea",
-      "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "chelsea vs",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "canal 26",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "el cuento del tío",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "horarios f1 mexico",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "ámbito financiero",
-      "traffic": "200+",
       "rank": 10
     }
   ]
