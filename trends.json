@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T04:30:14Z",
+  "updated": "2026-10-31T05:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "puebla - pumas",
+      "name": "warriors",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "puebla - pumas",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "noche de brujas",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "isack hadjar",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima neuquen",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "matias ale",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "colision netflix",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "tabla anual 2026",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "suns - nuggets",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "tabla anual futbol argentino",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "san luis - atlas",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "viernes 13",
-      "traffic": "200+",
+      "name": "tabla anual futbol argentino",
+      "traffic": "500+",
       "rank": 10
     }
   ]
