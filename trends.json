@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T01:30:16Z",
+  "updated": "2026-10-31T01:57:54Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "warriors - lakers",
-      "traffic": "200+",
+      "name": "viernes 13",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "river messi cup",
-      "traffic": "100+",
+      "name": "pipino cuevas",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "futbol argentino hoy",
+      "name": "canelo",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sebastián ortega",
-      "traffic": "500+",
+      "name": "bucaramanga - pasto",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "inpres",
-      "traffic": "200+",
+      "name": "warriors - lakers",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "guillermina valdés",
-      "traffic": "500+",
+      "name": "river messi cup",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mavericks - rockets",
+      "name": "futbol argentino hoy",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "heat - pacers",
-      "traffic": "100+",
+      "name": "temblor en catamarca",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima santiago del estero",
+      "name": "inpres",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dalma maradona",
-      "traffic": "200+",
+      "name": "sebastián ortega",
+      "traffic": "500+",
       "rank": 10
     }
   ]
