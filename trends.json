@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T02:30:13Z",
+  "updated": "2026-10-31T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tabla anual futbol argentino",
-      "traffic": "500+",
+      "name": "matias ale",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gaston avila",
+      "name": "colision netflix",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "suns - nuggets",
-      "traffic": "100+",
+      "name": "tabla anual futbol argentino",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "suns - nuggets",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "san luis - atlas",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "viernes 13",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "canelo",
-      "traffic": "100+",
+      "name": "viernes 13",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pipino cuevas",
+      "name": "canelo",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bucaramanga - pasto",
+      "name": "pipino cuevas",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "warriors - lakers",
-      "traffic": "1000+",
+      "name": "bucaramanga - pasto",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "futbol argentino hoy",
-      "traffic": "200+",
+      "name": "warriors - lakers",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
