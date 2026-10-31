@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T20:30:13Z",
+  "updated": "2026-10-31T21:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima cordoba",
-      "traffic": "1000+",
+      "name": "clima san rafael",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "colón - defensores de belgrano",
-      "traffic": "200+",
+      "name": "velez san lorenzo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "inter vs",
-      "traffic": "200+",
+      "name": "ac milan",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "radar",
+      "name": "pronostico cordoba",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "brian fariñas pérez",
-      "traffic": "200+",
+      "name": "clima cordoba",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "clima san juan",
-      "traffic": "100+",
+      "name": "aston villa",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "milan",
-      "traffic": "2000+",
+      "name": "colón - defensores de belgrano",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "posiciones de betis contra málaga cf",
-      "traffic": "1000+",
+      "name": "radar",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "qualy f1",
+      "name": "messi cup resultados",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "posiciones de bayern contra borussia dortmund",
-      "traffic": "2000+",
+      "name": "brian fariñas pérez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
