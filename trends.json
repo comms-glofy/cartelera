@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T21:30:12Z",
+  "updated": "2026-10-31T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fondo monetario internacional",
-      "traffic": "200+",
+      "name": "serie a",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "villa mitre",
+      "name": "o'higgins - ñublense",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gordon ramsay",
-      "traffic": "200+",
+      "name": "clima santiago del estero",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "diego moreira",
-      "traffic": "200+",
+      "name": "vélez - san lorenzo",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "porto - estoril",
-      "traffic": "100+",
+      "name": "macará - barcelona sc",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "hirakawa",
+      "name": "fondo monetario internacional",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "raphinha",
+      "name": "villa mitre",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "casi",
-      "traffic": "100+",
+      "name": "gordon ramsay",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "posiciones de club atlético los andes contra club atlético mitre",
-      "traffic": "500+",
+      "name": "porto - estoril",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "velez san lorenzo",
-      "traffic": "200+",
+      "name": "raphinha",
+      "traffic": "100+",
       "rank": 10
     }
   ]
