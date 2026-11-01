@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-01T02:30:13Z",
+  "updated": "2026-11-01T03:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wnba",
-      "traffic": "500+",
+      "name": "misoginia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "marido de la china ansa",
-      "traffic": "500+",
+      "name": "grizzlies - kings",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "edelp",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "wnba",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "alerta roja",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "marido de la china ansa",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "colorado - chicago fire",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "squash",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "monterrey - tijuana",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "noelia marzol",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "santi maratea",
-      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "rockets - thunder",
-      "traffic": "200+",
+      "name": "squash",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "dinero en efectivo",
+      "name": "noelia marzol",
       "traffic": "200+",
       "rank": 10
     }
