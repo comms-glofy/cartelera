@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-01T11:00:16Z",
+  "updated": "2026-11-01T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "como - venezia",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "thiago agustín tirante",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "clima",
+      "traffic": "100000+",
+      "rank": 3
     },
     {
       "name": "weather",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "posiciones de club américa contra deportivo toluca",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "fuego",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "xbox cloud gaming",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "colisión película netflix",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "mi argentina",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "loto plus hoy",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de colorado rapids contra chicago fire fc",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "inpres",
+      "name": "loto plus hoy",
       "traffic": "200+",
       "rank": 10
     }
