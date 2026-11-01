@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T10:00:13Z",
+  "updated": "2026-11-01T10:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de club américa contra deportivo toluca",
-      "traffic": "1000+",
+      "name": "clima",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "fuego",
+      "name": "weather",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "posiciones de club américa contra deportivo toluca",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "fuego",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "xbox cloud gaming",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "colisión película netflix",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "mi argentina",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "loto plus hoy",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "posiciones de colorado rapids contra chicago fire fc",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "inpres",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "gilberto mora",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "jack nicholson",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "1 de noviembre que se celebra",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "tom nolan",
-      "traffic": "100+",
       "rank": 10
     }
   ]
