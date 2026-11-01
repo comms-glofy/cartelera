@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T21:00:16Z",
+  "updated": "2026-11-01T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grêmio - atlético mineiro",
+      "name": "servicio meteorológico nacional",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "belgrano - barracas central",
-      "traffic": "500+",
+      "name": "nob",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "kimi antonelli",
+      "name": "día bancario",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "napoli",
+      "name": "hirakawa",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "diario ole",
-      "traffic": "2000+",
+      "name": "leclerc",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "posiciones de independiente del valle contra liga de quito",
-      "traffic": "200+",
+      "name": "san martín de tucumán - colegiales",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "argentinos vs",
-      "traffic": "200+",
+      "name": "netflix",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "serie de televisión",
-      "traffic": "100+",
+      "name": "bottas",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "presidente de river",
-      "traffic": "100+",
+      "name": "valtteri bottas",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "newells hoy",
-      "traffic": "200+",
+      "name": "juventus vs napoli",
+      "traffic": "100+",
       "rank": 10
     }
   ]
