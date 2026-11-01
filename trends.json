@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T22:00:15Z",
+  "updated": "2026-11-01T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "formula 1",
-      "traffic": "5000+",
+      "name": "f1 vote",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "nashville sc - new york rb",
+      "name": "driver of the day",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "colapinto hoy",
+      "name": "formula 1",
       "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "clima posadas",
-      "traffic": "200+",
+      "name": "gimnasia y tiro de salta - quilmes",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "learjet 60",
-      "traffic": "100+",
+      "name": "gremio",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "feriado noviembre 2026",
+      "name": "nashville sc - new york rb",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "2 de noviembre es feriado en argentina",
-      "traffic": "100+",
+      "name": "colapinto hoy",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "f1 hoy",
-      "traffic": "5000+",
+      "name": "clima posadas",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "sinhogarismo",
-      "traffic": "200+",
+      "name": "learjet 60",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "robo",
-      "traffic": "500+",
+      "name": "feriado noviembre 2026",
+      "traffic": "200+",
       "rank": 10
     }
   ]
