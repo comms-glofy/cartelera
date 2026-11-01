@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T23:00:15Z",
+  "updated": "2026-11-01T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hamilton f1",
-      "traffic": "500+",
+      "name": "new england - inter miami",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pacers - nets",
-      "traffic": "100+",
+      "name": "sergio lapegüe",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "messi cup",
-      "traffic": "10000+",
+      "name": "enero",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "verano",
-      "traffic": "200+",
+      "name": "quilmes ac",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "aapl",
-      "traffic": "200+",
+      "name": "lanús - gimnasia y esgrima",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "piastri",
-      "traffic": "200+",
+      "name": "posiciones de atlético grau contra universitario",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "superclásico del fútbol argentino",
+      "name": "fia",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "f1",
-      "traffic": "20000+",
+      "name": "lockheed martin f-16 fighting falcon",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "leonardo ponzio",
-      "traffic": "1000+",
+      "name": "telekino de hoy domingo",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "toto wolff",
-      "traffic": "200+",
+      "name": "armada de chile",
+      "traffic": "100+",
       "rank": 10
     }
   ]
