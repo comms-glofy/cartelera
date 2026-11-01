@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T20:06:35Z",
+  "updated": "2026-11-01T20:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chiqui tapia",
-      "traffic": "200+",
+      "name": "elecciones eeuu",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "john cena",
-      "traffic": "100+",
+      "name": "boca tabla anual",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "jugadores de boca juniors",
-      "traffic": "100+",
+      "name": "f1 en vivo",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "carrera f1 hoy",
-      "traffic": "2000+",
+      "name": "boca vs defensa y justicia",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "fernando burlando",
+      "name": "boca defensa y justicia",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "driussi",
+      "name": "posiciones de boca juniors",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "licencia",
-      "traffic": "100+",
+      "name": "gonzalo montiel",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "radar",
-      "traffic": "200+",
+      "name": "chiqui tapia",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "cerro - olimpia",
-      "traffic": "2000+",
+      "name": "nicolas ramirez",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lautaro blanco",
-      "traffic": "1000+",
+      "name": "john cena",
+      "traffic": "100+",
       "rank": 10
     }
   ]
