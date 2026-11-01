@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T12:30:11Z",
+  "updated": "2026-11-01T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guillermo barros schelotto",
+      "name": "como fc",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "levante badalona - barcelona",
+      "name": "gran hermano",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "joan manuel serrat",
-      "traffic": "100+",
+      "name": "sebastián báez",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "1000+",
+      "name": "getafe - sevilla",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "play-off",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "guillermo barros schelotto",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "levante badalona - barcelona",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "joan manuel serrat",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "1 de noviembre",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "como - venezia",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "thiago agustín tirante",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "clima",
-      "traffic": "1000000+",
-      "rank": 7
-    },
-    {
-      "name": "weather",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de club américa contra deportivo toluca",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "fuego",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
