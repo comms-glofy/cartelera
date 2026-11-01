@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T06:00:14Z",
+  "updated": "2026-11-01T06:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "colisión película netflix",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "loto plus hoy",
-      "traffic": "100+",
+      "name": "mi argentina",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "loto plus hoy",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "posiciones de colorado rapids contra chicago fire fc",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "inpres",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gilberto mora",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "jack nicholson",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "américa - toluca",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "1 de noviembre que se celebra",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tom nolan",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "heidi klum",
-      "traffic": "500+",
       "rank": 10
     }
   ]
