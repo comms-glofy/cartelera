@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T19:00:15Z",
+  "updated": "2026-11-01T19:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "facundo herrera",
-      "traffic": "1000+",
+      "name": "danubio - nacional",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "argentine primera división",
-      "traffic": "500+",
+      "name": "milton delgado",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "arbitro boca river",
-      "traffic": "200+",
+      "name": "turismo nacional",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "andrada river",
-      "traffic": "200+",
+      "name": "juventus - napoli",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "acuña",
-      "traffic": "1000+",
+      "name": "las elecciones en estados unidos",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "arquero de river",
-      "traffic": "10000+",
+      "name": "la pagina millonaria",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sebastián villa",
+      "name": "guillermo montenegro",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "martínez",
-      "traffic": "200+",
+      "name": "lautaro martínez",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "argentina tv",
-      "traffic": "200+",
+      "name": "marcos acuña",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "sport",
-      "traffic": "200+",
+      "name": "facundo herrera",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
