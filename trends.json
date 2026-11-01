@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-31T23:30:22Z",
+  "updated": "2026-11-01T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sebastian",
-      "traffic": "200+",
+      "name": "tiempo de mañana",
+      "traffic": "500000+",
       "rank": 1
     },
     {
-      "name": "club atlético vélez sarsfield",
-      "traffic": "100+",
+      "name": "estudiantes - instituto",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "infopico",
-      "traffic": "100+",
+      "name": "weather tomorrow",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "olimpo",
-      "traffic": "200+",
+      "name": "clima para amanhã",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "maría fernanda callejón",
-      "traffic": "100+",
+      "name": "rosario",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "f1 clasificación hoy",
-      "traffic": "1000+",
+      "name": "ronaldo martínez",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "dinero",
-      "traffic": "1000+",
+      "name": "spurs - timberwolves",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "hamilton",
+      "name": "pachuca - tigres",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "posiciones de ac milan contra inter milan",
-      "traffic": "5000+",
+      "name": "juventud antoniana",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "melissa gilbert",
-      "traffic": "1000+",
+      "name": "la voz del interior",
+      "traffic": "200+",
       "rank": 10
     }
   ]
