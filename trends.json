@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-01T14:00:13Z",
+  "updated": "2026-11-01T14:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "automóvil",
-      "traffic": "100+",
+      "name": "frosinone - torino",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "lazio - cagliari",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "elecciones estados unidos",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "alcaraz",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "clasico",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "álex de miñaur",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "super clasico",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "heidi klum halloween",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "terremoto sismo temblor hoy epicentro",
+      "name": "automóvil",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "como fc",
-      "traffic": "200+",
+      "name": "super clasico",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "gran hermano",
-      "traffic": "500+",
+      "name": "heidi klum halloween",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "getafe - sevilla",
-      "traffic": "1000+",
+      "name": "terremoto sismo temblor hoy epicentro",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "play-off",
+      "name": "como fc",
       "traffic": "200+",
       "rank": 10
     }
