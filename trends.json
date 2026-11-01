@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T11:30:14Z",
+  "updated": "2026-11-01T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como - venezia",
-      "traffic": "500+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "thiago agustín tirante",
+      "name": "1 de noviembre",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "como - venezia",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "weather",
+      "name": "thiago agustín tirante",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "posiciones de club américa contra deportivo toluca",
-      "traffic": "1000+",
+      "name": "clima",
+      "traffic": "200000+",
       "rank": 5
     },
     {
-      "name": "fuego",
+      "name": "weather",
       "traffic": "500+",
       "rank": 6
     },
     {
+      "name": "posiciones de club américa contra deportivo toluca",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "fuego",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
       "name": "xbox cloud gaming",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "colisión película netflix",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "mi argentina",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "loto plus hoy",
-      "traffic": "200+",
       "rank": 10
     }
   ]
