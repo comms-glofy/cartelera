@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T04:00:13Z",
+  "updated": "2026-11-01T04:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jack nicholson",
+      "name": "inpres",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "américa - toluca",
-      "traffic": "500+",
+      "name": "gilberto mora",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "1 de noviembre que se celebra",
-      "traffic": "100+",
+      "name": "jack nicholson",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tom nolan",
-      "traffic": "100+",
+      "name": "américa - toluca",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "heidi klum",
+      "name": "1 de noviembre que se celebra",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "misoginia",
-      "traffic": "200+",
+      "name": "tom nolan",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "grizzlies - kings",
-      "traffic": "100+",
+      "name": "heidi klum",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "edelp",
-      "traffic": "100+",
+      "name": "obsession",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "alerta roja",
+      "name": "misoginia",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "colorado - chicago fire",
-      "traffic": "500+",
+      "name": "grizzlies - kings",
+      "traffic": "100+",
       "rank": 10
     }
   ]
