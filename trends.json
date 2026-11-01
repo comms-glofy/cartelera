@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T08:38:44Z",
+  "updated": "2026-11-01T09:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colisión película netflix",
-      "traffic": "200+",
+      "name": "fuego",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "colisión película netflix",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "mi argentina",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "loto plus hoy",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "inpres",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gilberto mora",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "jack nicholson",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "américa - toluca",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "1 de noviembre que se celebra",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tom nolan",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "heidi klum",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
