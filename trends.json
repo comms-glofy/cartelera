@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T16:00:17Z",
+  "updated": "2026-11-01T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lyon - angers",
-      "traffic": "200+",
+      "name": "ciara mageean",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "liverpool - arsenal",
-      "traffic": "2000+",
+      "name": "alvarado",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "lyon - angers",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "liverpool - arsenal",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "dgo",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "evento de el niño de 2026-2027",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "u. católica - u. de chile",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gladys, la bomba tucumana",
+      "name": "posiciones de getafe cf contra sevilla fc",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "edinson cavani",
+      "name": "boston river - torque",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "lazio vs",
+      "name": "evento de el niño de 2026-2027",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "frosinone - torino",
+      "name": "u. católica - u. de chile",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "lazio - cagliari",
-      "traffic": "1000+",
+      "name": "gladys, la bomba tucumana",
+      "traffic": "500+",
       "rank": 10
     }
   ]
