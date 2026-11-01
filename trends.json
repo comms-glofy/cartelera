@@ -1,45 +1,45 @@
 {
-  "updated": "2026-11-01T15:42:45Z",
+  "updated": "2026-11-01T16:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "evento de el niño de 2026-2027",
-      "traffic": "500+",
+      "name": "lyon - angers",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "racing santander vs real madrid",
-      "traffic": "500+",
+      "name": "liverpool - arsenal",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "dgo",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "evento de el niño de 2026-2027",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "u. católica - u. de chile",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "liverpool vs arsenal",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gladys, la bomba tucumana",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "edinson cavani",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "lazio vs",
-      "traffic": "200+",
+      "name": "edinson cavani",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "posiciones de levante badalona contra fútbol club barcelona femenino",
+      "name": "lazio vs",
       "traffic": "500+",
       "rank": 8
     },
@@ -50,7 +50,7 @@
     },
     {
       "name": "lazio - cagliari",
-      "traffic": "2000+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
