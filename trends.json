@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T05:00:15Z",
+  "updated": "2026-11-01T05:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inpres",
-      "traffic": "200+",
+      "name": "colisión película netflix",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "gilberto mora",
+      "name": "inpres",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "jack nicholson",
+      "name": "gilberto mora",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "américa - toluca",
-      "traffic": "500+",
+      "name": "jack nicholson",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "américa - toluca",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "1 de noviembre que se celebra",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tom nolan",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "heidi klum",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "obsession",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "misoginia",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "grizzlies - kings",
-      "traffic": "100+",
       "rank": 10
     }
   ]
