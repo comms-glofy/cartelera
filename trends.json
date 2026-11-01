@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T00:00:15Z",
+  "updated": "2026-11-01T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo de mañana",
-      "traffic": "500000+",
+      "name": "clima viedma",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "estudiantes - instituto",
-      "traffic": "200+",
+      "name": "llaneros - junior",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
+      "rank": 3
+    },
+    {
+      "name": "estudiantes - instituto",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "weather tomorrow",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "clima para amanhã",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "rosario",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "ahorro",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "ronaldo martínez",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "spurs - timberwolves",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "pachuca - tigres",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "juventud antoniana",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "la voz del interior",
-      "traffic": "200+",
+      "name": "posiciones de colon de santa fe contra defensores de belgrano",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
