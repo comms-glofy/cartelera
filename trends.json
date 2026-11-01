@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T13:00:15Z",
+  "updated": "2026-11-01T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "como fc",
-      "traffic": "100+",
+      "name": "como",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "terremoto sismo temblor hoy epicentro",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "como fc",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "gran hermano",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "sebastián báez",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "getafe - sevilla",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "play-off",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "donde voto bariloche",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "guillermo barros schelotto",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "levante badalona - barcelona",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "joan manuel serrat",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "1 de noviembre",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "como - venezia",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
