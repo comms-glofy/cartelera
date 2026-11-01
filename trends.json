@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T12:00:15Z",
+  "updated": "2026-11-01T12:30:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "1000+",
+      "name": "guillermo barros schelotto",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "1 de noviembre",
-      "traffic": "100+",
+      "name": "levante badalona - barcelona",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "como - venezia",
-      "traffic": "1000+",
+      "name": "joan manuel serrat",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "juan manuel cerúndolo",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "como - venezia",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "thiago agustín tirante",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "clima",
-      "traffic": "200000+",
-      "rank": 5
+      "traffic": "1000000+",
+      "rank": 7
     },
     {
       "name": "weather",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "posiciones de club américa contra deportivo toluca",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "fuego",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "xbox cloud gaming",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "colisión película netflix",
-      "traffic": "100+",
+      "name": "fuego",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
