@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T04:30:14Z",
+  "updated": "2026-11-02T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "yaxel lendeborg",
+      "name": "avión",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "avión",
+      "name": "megatone",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "megatone",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
       "name": "latam",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "cyber",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "samsung",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "lunes",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "clima junin",
+      "traffic": "100+",
       "rank": 10
     }
   ]
