@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T15:00:25Z",
+  "updated": "2026-11-02T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gobierno de la ciudad de buenos aires",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "padron electoral",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "zelda",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ipc",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "lenny kravitz",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "washington post",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "aguinaldo",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "mundial de padel 2026",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cae",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "atp paris",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "mariano navone",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cyber monday",
-      "traffic": "20000+",
+      "name": "ocarina of time",
+      "traffic": "500+",
       "rank": 10
     }
   ]
