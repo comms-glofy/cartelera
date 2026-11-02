@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T09:00:17Z",
+  "updated": "2026-11-02T09:30:38Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico",
-      "traffic": "5000+",
+      "name": "clima la plata",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "el clima",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "avion palm beach",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "pronostico del tiempo",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "el tiempo",
       "traffic": "20000+",
-      "rank": 3
-    },
-    {
-      "name": "bebé",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "tiempo hoy",
-      "traffic": "200000+",
       "rank": 5
     },
     {
-      "name": "clima rosario",
-      "traffic": "500+",
+      "name": "clima hoy",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "pronostico rosario",
+      "name": "test",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "quini",
-      "traffic": "2000+",
+      "name": "bebé",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "microsoft",
-      "traffic": "100+",
+      "name": "tiempo hoy",
+      "traffic": "200000+",
       "rank": 9
     },
     {
-      "name": "santa fe - once caldas",
-      "traffic": "200+",
+      "name": "clima rosario",
+      "traffic": "500+",
       "rank": 10
     }
   ]
