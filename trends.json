@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T00:00:14Z",
+  "updated": "2026-11-02T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "medellín - alianza",
-      "traffic": "100+",
+      "name": "silvio trucco",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alex barrena",
-      "traffic": "100+",
+      "name": "rodrigo lussich",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "new england - inter miami",
-      "traffic": "5000+",
+      "name": "resultados elecciones eeuu",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sergio lapegüe",
+      "name": "roberto mouras",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "quilmes ac",
-      "traffic": "100+",
+      "name": "apple tv",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lanús - gimnasia y esgrima",
-      "traffic": "5000+",
+      "name": "posiciones de atlanta united contra toronto fc",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "lockheed martin f-16 fighting falcon",
-      "traffic": "500+",
+      "name": "medellín - alianza",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "fia",
-      "traffic": "200+",
+      "name": "alex barrena",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "telekino de hoy domingo",
-      "traffic": "1000+",
+      "name": "new england - inter miami",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "posiciones de atlético grau contra universitario",
-      "traffic": "1000+",
+      "name": "sergio lapegüe",
+      "traffic": "500+",
       "rank": 10
     }
   ]
