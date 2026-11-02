@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T22:30:14Z",
+  "updated": "2026-11-02T23:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bragantino - santos",
-      "traffic": "200+",
+      "name": "juan cruz meza",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "banco de la nación argentina",
-      "traffic": "100+",
+      "name": "salta",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "bragantino - santos",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "banco de la nación argentina",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "deuda",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "nicolás ramírez",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "ala delta",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "platense - central córdoba",
-      "traffic": "5000+",
+      "name": "posiciones de atalanta contra parma fc",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "adam robinson",
+      "name": "nicolás ramírez",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "club ferro carril oeste",
-      "traffic": "200+",
+      "name": "ala delta",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "defensa y justicia - independiente",
-      "traffic": "20000+",
+      "name": "platense - central córdoba",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "estafa",
-      "traffic": "2000+",
+      "name": "adam robinson",
+      "traffic": "500+",
       "rank": 10
     }
   ]
