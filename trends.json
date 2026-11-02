@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T03:00:18Z",
+  "updated": "2026-11-02T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lunes",
-      "traffic": "1000+",
+      "name": "cyber",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "los angeles fc",
+      "name": "samsung",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima junin",
-      "traffic": "100+",
+      "name": "lunes",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "posiciones de new england revolution contra inter miami",
-      "traffic": "20000+",
+      "name": "clima junin",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "sporting",
+      "name": "los angeles fc",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "clima buenos aires",
-      "traffic": "500+",
+      "name": "posiciones de new england revolution contra inter miami",
+      "traffic": "20000+",
       "rank": 6
+    },
+    {
+      "name": "sporting",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "clima buenos aires",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "california",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "rocio robles",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "pronostico caba",
-      "traffic": "200000+",
-      "rank": 9
-    },
-    {
-      "name": "campeonato mundial de constructores de fórmula 1",
-      "traffic": "200+",
       "rank": 10
     }
   ]
