@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T11:00:19Z",
+  "updated": "2026-11-02T11:30:50Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aterrizaje",
-      "traffic": "100+",
+      "name": "calendario noviembre 2026",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "misionesonline",
+      "name": "corte suprema",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "torneo federal a",
+      "name": "aterrizaje",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima corrientes",
-      "traffic": "200+",
+      "name": "misionesonline",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "torneo federal a",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "clima corrientes",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "aire de santa fe",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "2 de noviembre",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "feriados noviembre 2026",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "morena beltrán",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "juan sebastián verón",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima la plata",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "avion palm beach",
-      "traffic": "500+",
       "rank": 10
     }
   ]
