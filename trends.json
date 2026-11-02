@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-01T23:43:56Z",
+  "updated": "2026-11-02T00:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "new england - inter miami",
-      "traffic": "2000+",
+      "name": "medellín - alianza",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "alex barrena",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "new england - inter miami",
+      "traffic": "5000+",
+      "rank": 3
     },
     {
       "name": "sergio lapegüe",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "quilmes ac",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "lanús - gimnasia y esgrima",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "lockheed martin f-16 fighting falcon",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "fia",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "telekino de hoy domingo",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "posiciones de atlético grau contra universitario",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "telekino de hoy domingo",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "armada de chile",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "pacers - nets",
-      "traffic": "100+",
       "rank": 10
     }
   ]
