@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T12:00:16Z",
+  "updated": "2026-11-02T12:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cyber monday",
-      "traffic": "2000+",
+      "name": "atp paris",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "calendario noviembre 2026",
+      "name": "mariano navone",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "corte suprema",
-      "traffic": "100+",
+      "name": "cyber monday",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "aterrizaje",
-      "traffic": "200+",
+      "name": "calendario noviembre 2026",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "misionesonline",
+      "name": "corte suprema",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "torneo federal a",
-      "traffic": "1000+",
+      "name": "aterrizaje",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "aire de santa fe",
-      "traffic": "200+",
+      "name": "misionesonline",
+      "traffic": "100+",
       "rank": 7
+    },
+    {
+      "name": "torneo federal a",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "clima corrientes",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "2 de noviembre",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "feriados noviembre 2026",
-      "traffic": "5000+",
+      "name": "aire de santa fe",
+      "traffic": "200+",
       "rank": 10
     }
   ]
