@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T15:30:16Z",
+  "updated": "2026-11-02T16:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gobierno de la ciudad de buenos aires",
-      "traffic": "100+",
+      "name": "all boys - estudiantes",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "padron electoral",
+      "name": "frío",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "zelda",
+      "name": "liga de campeones de la afc",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ipc",
-      "traffic": "200+",
+      "name": "gobierno de la ciudad de buenos aires",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "lenny kravitz",
-      "traffic": "200+",
+      "name": "padron electoral",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "washington post",
+      "name": "zelda",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "aguinaldo",
-      "traffic": "1000+",
+      "name": "ipc",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "mundial de padel 2026",
+      "name": "lenny kravitz",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cae",
+      "name": "washington post",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ocarina of time",
-      "traffic": "500+",
+      "name": "aguinaldo",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
