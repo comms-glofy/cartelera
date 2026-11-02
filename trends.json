@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T14:00:17Z",
+  "updated": "2026-11-02T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ipc",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "washington post",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "name": "aguinaldo",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "mundial de padel 2026",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "cae",
-      "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "atp paris",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "mariano navone",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "cyber monday",
       "traffic": "10000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "calendario noviembre 2026",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "corte suprema",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "aterrizaje",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima corrientes",
-      "traffic": "500+",
       "rank": 10
     }
   ]
