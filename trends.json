@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T07:00:16Z",
+  "updated": "2026-11-02T07:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "quini",
-      "traffic": "1000+",
+      "name": "pronostico rosario",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "quini",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "microsoft",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "santa fe - once caldas",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "montagne",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "avión",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "megatone",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "latam",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "cyber",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "samsung",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
