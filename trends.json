@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-02T11:30:50Z",
+  "updated": "2026-11-02T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cyber monday",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "calendario noviembre 2026",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "corte suprema",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "aterrizaje",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "misionesonline",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "torneo federal a",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "clima corrientes",
-      "traffic": "500+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "2 de noviembre",
-      "traffic": "5000+",
+      "name": "clima corrientes",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "feriados noviembre 2026",
-      "traffic": "2000+",
+      "name": "2 de noviembre",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "morena beltrán",
-      "traffic": "1000+",
+      "name": "feriados noviembre 2026",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
