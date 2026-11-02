@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T04:00:16Z",
+  "updated": "2026-11-02T04:11:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,12 +9,12 @@
       "rank": 1
     },
     {
-      "name": "avión",
+      "name": "yaxel lendeborg",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "yaxel lendeborg",
+      "name": "avión",
       "traffic": "200+",
       "rank": 3
     },
@@ -40,17 +40,17 @@
     },
     {
       "name": "los angeles fc",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 8
-    },
-    {
-      "name": "lafc - minnesota",
-      "traffic": "100+",
-      "rank": 9
     },
     {
       "name": "posiciones de new england revolution contra inter miami",
       "traffic": "20000+",
+      "rank": 9
+    },
+    {
+      "name": "sporting",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
