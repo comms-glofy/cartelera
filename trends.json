@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T10:30:18Z",
+  "updated": "2026-11-02T11:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "torneo federal a",
+      "name": "aterrizaje",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima corrientes",
+      "name": "misionesonline",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "aire de santa fe",
+      "name": "torneo federal a",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "2 de noviembre",
-      "traffic": "100+",
+      "name": "clima corrientes",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "aire de santa fe",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "feriados noviembre 2026",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "morena beltrán",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "juan sebastián verón",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima la plata",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "avion palm beach",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "el clima",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "clima hoy",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
