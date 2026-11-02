@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T10:00:24Z",
+  "updated": "2026-11-02T10:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "2 de noviembre",
+      "name": "torneo federal a",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "morena beltrán",
-      "traffic": "1000+",
+      "name": "clima corrientes",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "juan sebastián verón",
+      "name": "aire de santa fe",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima plata",
-      "traffic": "5000+",
+      "name": "2 de noviembre",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "morena beltrán",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "juan sebastián verón",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "clima la plata",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "avion palm beach",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "el clima",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "clima hoy",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "test",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "bebé",
-      "traffic": "500+",
       "rank": 10
     }
   ]
