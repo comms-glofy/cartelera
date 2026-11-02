@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T17:00:22Z",
+  "updated": "2026-11-02T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "al-sadd - al-ahli saudi",
-      "traffic": "100+",
+      "name": "sassuolo - fiorentina",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "la toretto",
-      "traffic": "200+",
+      "name": "al-sadd - al-ahli saudi",
+      "traffic": "100+",
       "rank": 2
     },
     {
       "name": "murio juan atkins",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "la toretto",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "pity alvarez",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "posiciones de pakhtakor contra al-nassr",
-      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "chicago vs chacarita",
-      "traffic": "500+",
+      "name": "posiciones de pakhtakor contra al-nassr",
+      "traffic": "5000+",
       "rank": 6
+    },
+    {
+      "name": "chicago vs chacarita",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "all boys - estudiantes",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fecha de cobro jubilados noviembre 2026",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "frío",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "liga de campeones de la afc",
-      "traffic": "200+",
       "rank": 10
     }
   ]
