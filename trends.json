@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T13:30:15Z",
+  "updated": "2026-11-02T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mundial de padel 2026",
+      "name": "washington post",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cae",
+      "name": "mundial de padel 2026",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "cae",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "atp paris",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mariano navone",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "cyber monday",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "calendario noviembre 2026",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "corte suprema",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "aterrizaje",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "misionesonline",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "torneo federal a",
-      "traffic": "1000+",
+      "name": "clima corrientes",
+      "traffic": "500+",
       "rank": 10
     }
   ]
