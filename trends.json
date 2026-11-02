@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T23:00:17Z",
+  "updated": "2026-11-02T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juan cruz meza",
-      "traffic": "100+",
+      "name": "posiciones de benfica contra fc alverca",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "salta",
+      "name": "claudio tapia",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bragantino - santos",
-      "traffic": "1000+",
+      "name": "brad pitt",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "club social y deportivo defensa y justicia",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "todo noticias",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "juan cruz meza",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "posiciones de deportivo la coruña contra osasuna",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "salta",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "bragantino - santos",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "banco de la nación argentina",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "deuda",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "posiciones de atalanta contra parma fc",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "nicolás ramírez",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "ala delta",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "platense - central córdoba",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "adam robinson",
-      "traffic": "500+",
       "rank": 10
     }
   ]
