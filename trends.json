@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-02T09:30:38Z",
+  "updated": "2026-11-02T10:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima la plata",
+      "name": "2 de noviembre",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "el clima",
-      "traffic": "100+",
+      "name": "morena beltrán",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "avion palm beach",
-      "traffic": "200+",
+      "name": "juan sebastián verón",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "pronostico del tiempo",
+      "name": "clima plata",
       "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "el tiempo",
-      "traffic": "20000+",
+      "name": "clima la plata",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "clima hoy",
-      "traffic": "1000+",
+      "name": "avion palm beach",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "el clima",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "test",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "bebé",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "tiempo hoy",
-      "traffic": "200000+",
       "rank": 9
     },
     {
-      "name": "clima rosario",
+      "name": "bebé",
       "traffic": "500+",
       "rank": 10
     }
