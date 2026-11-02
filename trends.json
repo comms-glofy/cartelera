@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-02T18:00:14Z",
+  "updated": "2026-11-02T18:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético rafaela - patronato",
-      "traffic": "200+",
+      "name": "b nacional",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "lpf",
-      "traffic": "500+",
+      "name": "tv libre arg",
+      "traffic": "20000+",
       "rank": 2
+    },
+    {
+      "name": "cuando son las elecciones en estados unidos",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "atlético rafaela - patronato",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "lpf",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "noah wyle",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "chacarita - nueva chicago",
-      "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "conmebol libertadores entradas final",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "sassuolo - fiorentina",
-      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "al-sadd - al-ahli saudi",
-      "traffic": "100+",
+      "name": "chacarita - nueva chicago",
+      "traffic": "20000+",
       "rank": 7
     },
     {
-      "name": "murio juan atkins",
-      "traffic": "500+",
+      "name": "conmebol libertadores entradas final",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "la toretto",
-      "traffic": "500+",
+      "name": "sassuolo - fiorentina",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "pity alvarez",
+      "name": "al-sadd - al-ahli saudi",
       "traffic": "100+",
       "rank": 10
     }
