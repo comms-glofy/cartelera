@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-02T01:30:14Z",
+  "updated": "2026-11-02T02:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cruz azul",
-      "traffic": "100+",
+      "name": "nazareno casero",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "independiente medellín",
-      "traffic": "100+",
+      "name": "marta fort",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "warriors - clippers",
-      "traffic": "500+",
+      "name": "adrian suar",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "caracol",
+      "name": "lakers - raptors",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "inter miami hoy",
-      "traffic": "100+",
+      "name": "cruz azul - león",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "bunge",
-      "traffic": "200+",
+      "name": "independiente medellín",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "popstars",
-      "traffic": "100+",
+      "name": "ruta provincial 51",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "inter miami",
-      "traffic": "2000+",
+      "name": "warriors - clippers",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "ivan de pineda",
+      "name": "caracol",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "hernan lacunza",
+      "name": "inter miami hoy",
       "traffic": "200+",
       "rank": 10
     }
