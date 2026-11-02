@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-02T22:05:31Z",
+  "updated": "2026-11-02T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nicolás ramírez",
-      "traffic": "100+",
+      "name": "bragantino - santos",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ala delta",
+      "name": "banco de la nación argentina",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "platense - central córdoba",
-      "traffic": "2000+",
+      "name": "deuda",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "nicolás ramírez",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "ala delta",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "platense - central córdoba",
+      "traffic": "5000+",
+      "rank": 6
     },
     {
       "name": "adam robinson",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "club ferro carril oeste",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "defensa y justicia - independiente",
       "traffic": "20000+",
-      "rank": 6
-    },
-    {
-      "name": "estafa",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "cotizacion dolar hoy",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "benfica vs",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "reducido b nacional",
-      "traffic": "1000+",
+      "name": "estafa",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
