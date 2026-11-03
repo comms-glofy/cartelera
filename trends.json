@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:30:14Z",
+  "updated": "2026-11-03T14:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "feriados bancarios noviembre 2026",
-      "traffic": "100+",
-      "rank": 2
-    },
-    {
       "name": "predicción",
       "traffic": "200+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "elecciones eeuu",
       "traffic": "500+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "3 de noviembre",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "terremoto sismo temblor hoy epicentro",
       "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "feriado bancario noviembre 2026",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "atp paris",
+      "name": "master 1000 paris",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "ueno bank",
+      "name": "atp paris",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "lenacapavir",
-      "traffic": "100+",
+      "name": "ueno bank",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "marcelo bonelli",
-      "traffic": "1000+",
+      "name": "lenacapavir",
+      "traffic": "100+",
       "rank": 10
     }
   ]
