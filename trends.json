@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T17:30:33Z",
+  "updated": "2026-11-03T18:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "galatasaray",
+      "name": "al hilal - shabab al-ahli",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "galatasaray - stuttgart",
-      "traffic": "500+",
+      "name": "atraso cambiario",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "familia real",
+      "name": "taylor fritz",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "galatasaray - stuttgart",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "familia real",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "itinerario del papa en argentina",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "mariano troilo",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "suprema corte de justicia de la provincia de buenos aires",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "airbag",
-      "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nicolás otamendi",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "un terremoto",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "playstation 5",
-      "traffic": "200+",
+      "name": "airbag",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
