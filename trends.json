@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T18:00:26Z",
+  "updated": "2026-11-03T18:30:34Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "al hilal - shabab al-ahli",
-      "traffic": "200+",
+      "name": "trans",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "atraso cambiario",
-      "traffic": "100+",
+      "name": "cronicazo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "taylor fritz",
+      "name": "sporting lisboa",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "galatasaray - stuttgart",
-      "traffic": "1000+",
+      "name": "galatasaray vs",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "familia real",
+      "name": "al hilal - shabab al-ahli",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "itinerario del papa en argentina",
+      "name": "atraso cambiario",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mariano troilo",
-      "traffic": "2000+",
+      "name": "taylor fritz",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "suprema corte de justicia de la provincia de buenos aires",
-      "traffic": "100+",
+      "name": "shakhtar - sporting lisboa",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "nicolás otamendi",
-      "traffic": "1000+",
+      "name": "galatasaray - stuttgart",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "airbag",
-      "traffic": "1000+",
+      "name": "familia real",
+      "traffic": "500+",
       "rank": 10
     }
   ]
