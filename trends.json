@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-03T12:30:14Z",
+  "updated": "2026-11-03T13:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ueno bank",
-      "traffic": "100+",
+      "name": "terremoto sismo temblor hoy epicentro",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lenacapavir",
+      "name": "atp paris",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "cerundolo",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "ueno bank",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "lenacapavir",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "river vs aldosivi",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
       "name": "marcelo bonelli",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "tomás martín etcheverry",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "flores",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "aldosivi river",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "canal 13",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "james gunn",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "francisco cerúndolo",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "masterchef",
+      "name": "canal 13",
       "traffic": "500+",
       "rank": 10
     }
