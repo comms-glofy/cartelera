@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T02:30:14Z",
+  "updated": "2026-11-03T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nuggets - trail blazers",
+      "name": "lakers - heat",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "renault niágara",
+      "name": "vix index",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "juana viale",
+      "name": "warriors - suns",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rockets - celtics",
-      "traffic": "100+",
+      "name": "promedio industrial dow jones",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "falleció marcela giorgi locutora",
+      "name": "nuggets - trail blazers",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "brian fernández",
-      "traffic": "200+",
+      "name": "renault niágara",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "rockets - celtics",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "juana viale",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "falleció marcela giorgi locutora",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "dante ortega",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "timberwolves - bucks",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "spurs - jazz",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "superliga",
-      "traffic": "500+",
       "rank": 10
     }
   ]
