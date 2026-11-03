@@ -1,45 +1,45 @@
 {
-  "updated": "2026-11-03T03:33:25Z",
+  "updated": "2026-11-03T04:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nano villarnovo",
+      "name": "karl bushby",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "josé luis gioia",
+      "name": "nano villarnovo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "paro nacional de transporte",
+      "name": "josé luis gioia",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lakers - heat",
+      "name": "paro nacional de transporte",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "vix index",
-      "traffic": "100+",
+      "name": "lakers - heat",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "warriors - suns",
+      "name": "vix index",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "promedio industrial dow jones",
-      "traffic": "200+",
+      "name": "warriors - suns",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "nuggets - trail blazers",
+      "name": "promedio industrial dow jones",
       "traffic": "200+",
       "rank": 8
     },
@@ -49,7 +49,7 @@
       "rank": 9
     },
     {
-      "name": "rockets - celtics",
+      "name": "nuggets - trail blazers",
       "traffic": "200+",
       "rank": 10
     }
