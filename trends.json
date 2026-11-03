@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T19:00:36Z",
+  "updated": "2026-11-03T19:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ben shelton",
-      "traffic": "200+",
+      "name": "manchester united - roma",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "trump",
-      "traffic": "200+",
+      "name": "feyenoord - inter",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "guam",
-      "traffic": "100+",
+      "name": "madre",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "trans",
-      "traffic": "100+",
+      "name": "barcelona - aston villa",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "cronicazo",
-      "traffic": "500+",
+      "name": "atlético madrid - bayern",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "sporting lisboa",
-      "traffic": "200+",
+      "name": "villarreal - psg",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "galatasaray vs",
-      "traffic": "200+",
+      "name": "grand theft auto vi",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "al hilal - shabab al-ahli",
-      "traffic": "500+",
+      "name": "barcelona vs aston villa",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "atraso cambiario",
-      "traffic": "200+",
+      "name": "galatasaray vs. stuttgart",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "taylor fritz",
-      "traffic": "200+",
+      "name": "cnn",
+      "traffic": "100+",
       "rank": 10
     }
   ]
