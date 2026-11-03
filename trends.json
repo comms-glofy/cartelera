@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-03T10:00:13Z",
+  "updated": "2026-11-03T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "omar pérez",
+      "name": "joaquín levinton",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mendoza",
-      "traffic": "200+",
+      "name": "jennifer aniston",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "weather",
-      "traffic": "200+",
+      "name": "clima en rosario",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "gendarmería",
-      "traffic": "100+",
+      "name": "weather",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "clima rio cuarto",
+      "name": "omar pérez",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima",
-      "traffic": "100000+",
+      "name": "gendarmería",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "conducción",
-      "traffic": "200+",
+      "name": "clima rio cuarto",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "clima rosario",
-      "traffic": "500+",
+      "name": "mendoza",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tiempo en rosario",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "200000+",
       "rank": 9
     },
     {
-      "name": "clima parana",
+      "name": "conducción",
       "traffic": "200+",
       "rank": 10
     }
