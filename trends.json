@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T01:00:17Z",
+  "updated": "2026-11-03T01:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bucaramanga - atlético nacional",
+      "name": "spurs - jazz",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "josé maría muscari",
-      "traffic": "100+",
+      "name": "campeonato argentino",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "argentinos",
-      "traffic": "1000+",
+      "name": "superliga",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "76ers - bulls",
-      "traffic": "200+",
+      "name": "cotización dólar blue",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "knicks - nets",
+      "name": "cronicazo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "clima neuquen",
-      "traffic": "200+",
+      "name": "clima cipolletti",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "casa carlos san telmo",
-      "traffic": "200+",
+      "name": "paro",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "clima para amanhã",
+      "name": "bucaramanga - atlético nacional",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "javier castrilli",
+      "name": "josé maría muscari",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "santos vs",
-      "traffic": "100+",
+      "name": "argentinos",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
