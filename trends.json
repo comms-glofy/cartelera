@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-03T12:00:17Z",
+  "updated": "2026-11-03T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lenacapavir",
+      "name": "ueno bank",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "lenacapavir",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "marcelo bonelli",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "flores",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "aldosivi river",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "canal 13",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "james gunn",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "francisco cerúndolo",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "masterchef",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "lockheed martin f-16 fighting falcon",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "joaquín levinton",
-      "traffic": "200+",
+      "name": "francisco cerúndolo",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "jennifer aniston",
+      "name": "masterchef",
       "traffic": "500+",
       "rank": 10
     }
