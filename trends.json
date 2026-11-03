@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T15:00:17Z",
+  "updated": "2026-11-03T15:30:40Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "novak djokovic",
-      "traffic": "1000+",
+      "name": "quiniela de tucumán",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "josé luis gioia sufrió un acv",
-      "traffic": "2000+",
+      "name": "pauny",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "lollapalooza 2027",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "novak djokovic",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "juan minujin",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "osfa",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "paro nacional",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "predicción",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "elecciones eeuu",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "3 de noviembre",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "terremoto sismo temblor hoy epicentro",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "feriado bancario noviembre 2026",
-      "traffic": "100+",
+      "name": "3 de noviembre",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
