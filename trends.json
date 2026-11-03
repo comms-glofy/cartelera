@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T20:00:27Z",
+  "updated": "2026-11-03T20:30:45Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marley",
-      "traffic": "200+",
+      "name": "roma",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "valtteri bottas",
-      "traffic": "100+",
+      "name": "posiciones de galatasaray contra vfb stuttgart",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "roque maisterra",
+      "name": "brian fariñas pérez",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "bodø/glimt - losc",
-      "traffic": "200+",
+      "name": "clima neuquen",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "peaje",
-      "traffic": "100+",
+      "name": "valtteri bottas",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "palermo",
+      "name": "roque maisterra",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "manchester united - roma",
-      "traffic": "2000+",
+      "name": "marley",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "feyenoord - inter",
-      "traffic": "1000+",
+      "name": "bodø/glimt - losc",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "sporting vs",
-      "traffic": "100+",
+      "name": "peaje",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "madre",
-      "traffic": "200+",
+      "name": "palermo",
+      "traffic": "100+",
       "rank": 10
     }
   ]
