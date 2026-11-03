@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T00:00:15Z",
+  "updated": "2026-11-03T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "weather tomorrow",
-      "traffic": "500+",
+      "name": "argentinos juniors",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "cavaliers - thunder",
+      "name": "javier castrilli",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "atlético tucumán - argentinos jrs.",
-      "traffic": "500+",
+      "name": "santos vs",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "independiente rivadavia - banfield",
-      "traffic": "200+",
+      "name": "weather tomorrow",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "base naval puerto belgrano",
+      "name": "cavaliers - thunder",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fede bal",
-      "traffic": "200+",
+      "name": "atlético tucumán - argentinos jrs.",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "posiciones de sporting cristal contra fc cajamarca",
-      "traffic": "200+",
+      "name": "independiente rivadavia - banfield",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "quilmes rock 2027",
-      "traffic": "100+",
+      "name": "base naval puerto belgrano",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "posiciones de benfica contra fc alverca",
+      "name": "fede bal",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "claudio tapia",
-      "traffic": "200+",
+      "name": "quilmes rock 2027",
+      "traffic": "100+",
       "rank": 10
     }
   ]
