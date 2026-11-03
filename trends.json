@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T09:00:17Z",
+  "updated": "2026-11-03T09:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético river plate",
-      "traffic": "1000+",
+      "name": "clima parana",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "bebé",
+      "name": "alexis mac allister",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "robo",
+      "name": "pronostico santa fe",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "avión",
-      "traffic": "2000+",
+      "name": "morena beltrán",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "iran",
-      "traffic": "100+",
+      "name": "club atlético river plate",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "sports",
+      "name": "clima santa fe",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "javier milei",
+      "name": "bebé",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "grizzlies - pelicans",
-      "traffic": "100+",
+      "name": "robo",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "karl bushby",
-      "traffic": "100+",
+      "name": "avión",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "nano villarnovo",
-      "traffic": "1000+",
+      "name": "subte b",
+      "traffic": "100+",
       "rank": 10
     }
   ]
