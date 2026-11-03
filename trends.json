@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T07:30:12Z",
+  "updated": "2026-11-03T08:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "javier milei",
+      "name": "sports",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "grizzlies - pelicans",
-      "traffic": "100+",
+      "name": "javier milei",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "karl bushby",
+      "name": "grizzlies - pelicans",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "nano villarnovo",
-      "traffic": "1000+",
+      "name": "karl bushby",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "josé luis gioia",
+      "name": "nano villarnovo",
       "traffic": "1000+",
       "rank": 6
     },
     {
+      "name": "josé luis gioia",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "paro nacional de transporte",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lakers - heat",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "vix index",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de atlético tucumán contra argentinos juniors",
-      "traffic": "50000+",
       "rank": 10
     }
   ]
