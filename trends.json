@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T16:30:30Z",
+  "updated": "2026-11-03T17:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "precio dólar blue hoy",
-      "traffic": "1000+",
+      "name": "mariano troilo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "vacherot",
+      "name": "suprema corte de justicia de la provincia de buenos aires",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dinosaurio",
+      "name": "nicolás otamendi",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "alerta clima",
-      "traffic": "500+",
+      "name": "un terremoto",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "la gitana del cronicazo",
+      "name": "airbag river",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "quiniela de tucumán",
-      "traffic": "1000+",
+      "name": "playstation 5",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pauny",
-      "traffic": "200+",
+      "name": "precio dólar blue hoy",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "lollapalooza 2027",
-      "traffic": "2000+",
+      "name": "dinosaurio",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "novak djokovic",
-      "traffic": "2000+",
+      "name": "la gitana del cronicazo",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "juan minujin",
-      "traffic": "200+",
+      "name": "alerta clima",
+      "traffic": "500+",
       "rank": 10
     }
   ]
