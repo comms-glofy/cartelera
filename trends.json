@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T23:00:17Z",
+  "updated": "2026-11-03T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cronicazo de hoy",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "edificio",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "airbnb",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "ramón díaz",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "play-off",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "posiciones de fc barcelona contra aston villa",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "elon musk",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "chapecoense - mirassol",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "buque de guerra",
-      "traffic": "500+",
+      "name": "us elections",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "rodrigo battaglia",
+      "name": "posiciones de feyenoord contra inter milan",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "united fc",
-      "traffic": "200+",
+      "name": "posiciones de atlético de madrid contra bayern",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "moratoria",
-      "traffic": "1000+",
+      "name": "posiciones de fc barcelona contra aston villa",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "winona ryder",
-      "traffic": "200+",
+      "name": "elon musk",
+      "traffic": "500+",
       "rank": 10
     }
   ]
