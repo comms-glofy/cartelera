@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T17:00:26Z",
+  "updated": "2026-11-03T17:30:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mariano troilo",
+      "name": "galatasaray",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "suprema corte de justicia de la provincia de buenos aires",
-      "traffic": "100+",
+      "name": "galatasaray - stuttgart",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "nicolás otamendi",
+      "name": "familia real",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "un terremoto",
-      "traffic": "100+",
+      "name": "itinerario del papa en argentina",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "airbag river",
-      "traffic": "200+",
+      "name": "mariano troilo",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "suprema corte de justicia de la provincia de buenos aires",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "airbag",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "nicolás otamendi",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "un terremoto",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "playstation 5",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "precio dólar blue hoy",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "dinosaurio",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "la gitana del cronicazo",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "alerta clima",
-      "traffic": "500+",
       "rank": 10
     }
   ]
