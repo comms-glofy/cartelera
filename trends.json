@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-03T22:30:19Z",
+  "updated": "2026-11-03T23:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de atlético de madrid contra bayern",
-      "traffic": "5000+",
+      "name": "ramón díaz",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "play-off",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "posiciones de fc barcelona contra aston villa",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "elon musk",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "lennart karl",
-      "traffic": "100+",
       "rank": 4
     },
     {
       "name": "chapecoense - mirassol",
-      "traffic": "200+",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "associazione sportiva roma",
-      "traffic": "100+",
+      "name": "buque de guerra",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "united vs",
-      "traffic": "1000+",
+      "name": "rodrigo battaglia",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "buque de guerra",
+      "name": "united fc",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "rodrigo battaglia",
-      "traffic": "200+",
+      "name": "moratoria",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "moratoria",
+      "name": "winona ryder",
       "traffic": "200+",
       "rank": 10
     }
