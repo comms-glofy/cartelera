@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T04:30:14Z",
+  "updated": "2026-11-03T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "posiciones de atlético bucaramanga contra atlético nacional",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "javier milei",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "grizzlies - pelicans",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "karl bushby",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "nano villarnovo",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "josé luis gioia",
+      "name": "nano villarnovo",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "josé luis gioia",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "paro nacional de transporte",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lakers - heat",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "vix index",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "warriors - suns",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "promedio industrial dow jones",
-      "traffic": "200+",
+      "name": "warriors - suns",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
