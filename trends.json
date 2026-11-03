@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-03T16:00:21Z",
+  "updated": "2026-11-03T16:30:30Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dinosaurio",
-      "traffic": "100+",
+      "name": "precio dólar blue hoy",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "alerta clima",
-      "traffic": "500+",
+      "name": "vacherot",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "la gitana del cronicazo",
+      "name": "dinosaurio",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "quiniela de tucumán",
-      "traffic": "1000+",
+      "name": "alerta clima",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "pauny",
+      "name": "la gitana del cronicazo",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "quiniela de tucumán",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "pauny",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "lollapalooza 2027",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "novak djokovic",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "juan minujin",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "osfa",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "paro nacional",
+      "name": "juan minujin",
       "traffic": "200+",
       "rank": 10
     }
