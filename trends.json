@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T09:30:17Z",
+  "updated": "2026-11-03T10:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima parana",
+      "name": "omar pérez",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "alexis mac allister",
+      "name": "mendoza",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pronostico santa fe",
-      "traffic": "100+",
+      "name": "weather",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "morena beltrán",
+      "name": "gendarmería",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "club atlético river plate",
-      "traffic": "1000+",
+      "name": "clima rio cuarto",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima santa fe",
-      "traffic": "200+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 6
     },
     {
-      "name": "bebé",
+      "name": "conducción",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "robo",
-      "traffic": "200+",
+      "name": "clima rosario",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "avión",
-      "traffic": "5000+",
+      "name": "tiempo en rosario",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "subte b",
-      "traffic": "100+",
+      "name": "clima parana",
+      "traffic": "200+",
       "rank": 10
     }
   ]
