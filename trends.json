@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T21:00:33Z",
+  "updated": "2026-11-03T21:30:39Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "roma vs",
-      "traffic": "500+",
+      "name": "gabriele minì",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bayern vs",
-      "traffic": "200+",
+      "name": "bayern vs atletico de madrid",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bayer",
+      "name": "cantante",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "cedears",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "radar",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "clima bariloche",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "roma vs",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "bayer",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "sáenz peña",
       "traffic": "100+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "psg",
       "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "bayern",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "roma fc",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "villarreal vs psg",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "bayern munich",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "rachel apa",
-      "traffic": "100+",
       "rank": 10
     }
   ]
