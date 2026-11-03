@@ -1,51 +1,51 @@
 {
-  "updated": "2026-11-03T11:00:14Z",
+  "updated": "2026-11-03T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aldosivi river",
-      "traffic": "200+",
+      "name": "marcelo bonelli",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "canal 13",
-      "traffic": "100+",
+      "name": "aldosivi river",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "canal 13",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "james gunn",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "francisco cerúndolo",
-      "traffic": "1000+",
-      "rank": 4
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "masterchef",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "lockheed martin f-16 fighting falcon",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "joaquín levinton",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "jennifer aniston",
+      "name": "joaquín levinton",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima en rosario",
-      "traffic": "100+",
+      "name": "jennifer aniston",
+      "traffic": "200+",
       "rank": 9
     },
     {
