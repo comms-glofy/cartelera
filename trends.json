@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-03T11:30:14Z",
+  "updated": "2026-11-03T11:34:41Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "lenacapavir",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "marcelo bonelli",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "aldosivi river",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "canal 13",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "james gunn",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "francisco cerúndolo",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "masterchef",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "lockheed martin f-16 fighting falcon",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "joaquín levinton",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "jennifer aniston",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "omar pérez",
-      "traffic": "200+",
+      "name": "jennifer aniston",
+      "traffic": "500+",
       "rank": 10
     }
   ]
