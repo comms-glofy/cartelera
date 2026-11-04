@@ -1,20 +1,20 @@
 {
-  "updated": "2026-11-04T06:00:14Z",
+  "updated": "2026-11-04T06:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fin de semana",
-      "traffic": "200+",
+      "name": "67",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "f1 franco colapinto",
-      "traffic": "200+",
+      "name": "fin de semana",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "texas",
+      "name": "f1 franco colapinto",
       "traffic": "200+",
       "rank": 3
     },
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "washington post",
+      "name": "fox news",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "dan osborn",
-      "traffic": "500+",
+      "name": "abdul el-sayed",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
