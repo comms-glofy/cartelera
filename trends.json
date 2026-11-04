@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T20:30:13Z",
+  "updated": "2026-11-04T21:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "porto",
+      "name": "como fc",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "borussia dortmund",
+      "name": "napoli",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "viking fk",
-      "traffic": "100+",
+      "name": "serie de televisión",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "psv",
+      "name": "psv - club brujas",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "posiciones de champions league",
-      "traffic": "500+",
+      "name": "liga amateur platense de fútbol",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "telepase",
-      "traffic": "500+",
+      "name": "cardiff - west ham",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "desalojo",
-      "traffic": "100+",
+      "name": "cotización dólar blue",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "real madrid vs aek",
-      "traffic": "100+",
+      "name": "barbie simons",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "slavia praga - arsenal",
-      "traffic": "2000+",
+      "name": "partidos de champions league",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "dortmund - real betis",
-      "traffic": "1000+",
+      "name": "borussia dortmund",
+      "traffic": "500+",
       "rank": 10
     }
   ]
