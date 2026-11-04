@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T10:00:17Z",
+  "updated": "2026-11-04T10:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,47 +10,47 @@
     },
     {
       "name": "clima mendoza",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima formosa",
+      "name": "dinosaurio",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lali espósito",
-      "traffic": "200+",
+      "name": "clima formosa",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima posadas",
-      "traffic": "200+",
+      "name": "franco colapinto",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "árbitro",
-      "traffic": "100+",
+      "name": "lali espósito",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "clima corrientes",
+      "name": "clima posadas",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "meteorología",
-      "traffic": "1000+",
+      "name": "árbitro",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "67",
-      "traffic": "100+",
+      "name": "clima corrientes",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fin de semana",
-      "traffic": "2000+",
+      "name": "meteorología",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
