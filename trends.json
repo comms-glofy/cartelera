@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T10:30:19Z",
+  "updated": "2026-11-04T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "amaia montero",
+      "name": "recibo de sueldo",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima mendoza",
-      "traffic": "200+",
+      "name": "club atlético aldosivi",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dinosaurio",
-      "traffic": "100+",
+      "name": "carlos albert llorente",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "clima formosa",
+      "name": "club atlético nueva chicago",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "franco colapinto",
-      "traffic": "1000+",
+      "name": "amaia montero",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "lali espósito",
-      "traffic": "500+",
+      "name": "clima mendoza",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima posadas",
-      "traffic": "500+",
+      "name": "dinosaurio",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "árbitro",
+      "name": "clima formosa",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima corrientes",
-      "traffic": "500+",
+      "name": "franco colapinto",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "meteorología",
-      "traffic": "1000+",
+      "name": "lali espósito",
+      "traffic": "500+",
       "rank": 10
     }
   ]
