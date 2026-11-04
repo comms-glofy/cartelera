@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T19:30:17Z",
+  "updated": "2026-11-04T20:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lens - como",
+      "name": "posiciones de champions league",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "slavia praga - arsenal",
+      "name": "telepase",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "dortmund - real betis",
+      "name": "madrid vs",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rb leipzig - manchester city",
-      "traffic": "2000+",
+      "name": "real madrid vs aek",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "500+",
+      "name": "desalojo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "bob dylan",
-      "traffic": "200+",
+      "name": "slavia praga - arsenal",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "fenerbahçe vs. liverpool",
-      "traffic": "200+",
+      "name": "lens - como",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "500+",
+      "name": "dortmund - real betis",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "real madrid",
-      "traffic": "10000+",
+      "name": "rb leipzig - manchester city",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "relapse",
-      "traffic": "100+",
+      "name": "carlos alcaraz",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
