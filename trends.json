@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-04T16:30:15Z",
+  "updated": "2026-11-04T17:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santiago del moro",
-      "traffic": "100+",
+      "name": "camión cisterna",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "superclásico del fútbol argentino",
-      "traffic": "200+",
+      "name": "santiago del moro",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pensión",
-      "traffic": "2000+",
+      "name": "superclásico del fútbol argentino",
+      "traffic": "500+",
       "rank": 3
+    },
+    {
+      "name": "pensión",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "novak djokovic",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "rennes - olympiacos",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "álex de miñaur",
-      "traffic": "100+",
       "rank": 6
     },
     {
