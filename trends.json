@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T01:00:14Z",
+  "updated": "2026-11-04T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "janones",
+      "name": "explosión",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "el territorio",
-      "traffic": "100+",
+      "name": "james talarico",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "alianza lima - cienciano",
-      "traffic": "500+",
+      "name": "popstars",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "internacional",
-      "traffic": "200+",
+      "name": "deportivo pasto",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "pablo migliore",
-      "traffic": "200+",
+      "name": "janones",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "convocados selección argentina",
-      "traffic": "500+",
+      "name": "el territorio",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "internacional - coritiba",
+      "name": "alianza lima - cienciano",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "trump es republicano o demócrata",
-      "traffic": "100+",
+      "name": "internacional",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "donald trump",
+      "name": "pablo migliore",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "new york times",
-      "traffic": "200+",
+      "name": "convocados selección argentina",
+      "traffic": "500+",
       "rank": 10
     }
   ]
