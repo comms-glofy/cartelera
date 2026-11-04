@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-04T20:00:18Z",
+  "updated": "2026-11-04T20:14:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de champions league",
-      "traffic": "500+",
+      "name": "psv",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "telepase",
+      "name": "posiciones de champions league",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "madrid vs",
-      "traffic": "200+",
+      "name": "telepase",
+      "traffic": "500+",
       "rank": 3
-    },
-    {
-      "name": "real madrid vs aek",
-      "traffic": "100+",
-      "rank": 4
     },
     {
       "name": "desalojo",
       "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "real madrid vs aek",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "slavia praga - arsenal",
-      "traffic": "1000+",
+      "name": "lens - como",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "lens - como",
-      "traffic": "1000+",
+      "name": "slavia praga - arsenal",
+      "traffic": "2000+",
       "rank": 7
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "carlos alcaraz",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
