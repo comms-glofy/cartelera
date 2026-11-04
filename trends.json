@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T11:30:16Z",
+  "updated": "2026-11-04T12:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "recibo de sueldo",
+      "name": "irán",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "abdul el sayed",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "michael douglas",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "recibo de sueldo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "club atlético aldosivi",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "carlos albert llorente",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "club atlético nueva chicago",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "amaia montero",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "clima mendoza",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "dinosaurio",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "clima formosa",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "franco colapinto",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "lali espósito",
-      "traffic": "500+",
       "rank": 10
     }
   ]
