@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-04T08:30:14Z",
+  "updated": "2026-11-04T09:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "67",
-      "traffic": "100+",
+      "name": "meteorología",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fin de semana",
-      "traffic": "500+",
+      "name": "67",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "fin de semana",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "f1 franco colapinto",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "texas",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gina hinojosa",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ricardo la volpe",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "internacional vs. coritiba",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "diego ramos",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "byron donalds",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "washington post",
+      "name": "byron donalds",
       "traffic": "200+",
       "rank": 10
     }
