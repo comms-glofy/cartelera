@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T03:30:15Z",
+  "updated": "2026-11-04T04:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quien se fue de masterchef",
-      "traffic": "200+",
+      "name": "f1 franco colapinto",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "quien se fue de masterchef hoy",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "texas",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "gina hinojosa",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "ricardo la volpe",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "talarico",
-      "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "internacional vs. coritiba",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "diego ramos",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "byron donalds",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "dan osborn",
-      "traffic": "500+",
+      "name": "byron donalds",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "abdul el-sayed",
+      "name": "washington post",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "nora carpena",
-      "traffic": "2000+",
+      "name": "dan osborn",
+      "traffic": "500+",
       "rank": 10
     }
   ]
