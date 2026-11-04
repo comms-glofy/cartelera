@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T19:00:17Z",
+  "updated": "2026-11-04T19:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "thiago agustín tirante",
+      "name": "lens - como",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "relapse",
-      "traffic": "100+",
+      "name": "slavia praga - arsenal",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "liverpool",
-      "traffic": "2000+",
+      "name": "dortmund - real betis",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "fenerbahçe",
-      "traffic": "200+",
+      "name": "rb leipzig - manchester city",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "taylor fritz",
-      "traffic": "100+",
+      "name": "carlos alcaraz",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "quiniela cronicazo",
+      "name": "bob dylan",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "marcela tinayre",
+      "name": "fenerbahçe vs. liverpool",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "aek - real madrid",
-      "traffic": "50000+",
+      "name": "thiago agustín tirante",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "fenerbahçe - liverpool",
+      "name": "real madrid",
       "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "camión cisterna",
-      "traffic": "1000+",
+      "name": "relapse",
+      "traffic": "100+",
       "rank": 10
     }
   ]
