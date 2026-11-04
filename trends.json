@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T18:00:17Z",
+  "updated": "2026-11-04T18:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quiniela cronicazo",
-      "traffic": "200+",
+      "name": "real madrid",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "aek vs real madrid",
+      "name": "liverpool fc",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "marcela tinayre",
-      "traffic": "200+",
+      "name": "relapse",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "aek - real madrid",
-      "traffic": "10000+",
+      "name": "liverpool",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "fenerbahçe - liverpool",
-      "traffic": "2000+",
+      "name": "liverpool vs",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "camión cisterna",
-      "traffic": "1000+",
+      "name": "fenerbahçe",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "djokovic",
-      "traffic": "2000+",
+      "name": "taylor fritz",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "santiago del moro",
+      "name": "quiniela cronicazo",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "superclásico del fútbol argentino",
-      "traffic": "500+",
+      "name": "marcela tinayre",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pensión",
-      "traffic": "5000+",
+      "name": "aek - real madrid",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
