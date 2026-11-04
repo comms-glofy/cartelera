@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T06:30:15Z",
+  "updated": "2026-11-04T07:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "texas",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "gina hinojosa",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ricardo la volpe",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "internacional vs. coritiba",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "diego ramos",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "byron donalds",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "fox news",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "abdul el-sayed",
-      "traffic": "1000+",
+      "name": "dan osborn",
+      "traffic": "500+",
       "rank": 10
     }
   ]
