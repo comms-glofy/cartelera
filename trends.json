@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T15:00:17Z",
+  "updated": "2026-11-04T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cotizacion dolar hoy",
-      "traffic": "1000+",
+      "name": "novak djokovic",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "zverev",
+      "name": "rennes - olympiacos",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "atp paris",
-      "traffic": "200+",
+      "name": "álex de miñaur",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nelson castro",
-      "traffic": "1000+",
+      "name": "master 1000 paris",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "cotizacion dolar hoy",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "zverev",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "atp paris",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "nelson castro",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "riesgo pais argentina",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "alexander zverev",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "dia del bancario",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "dia del bancario 2026",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "daniel bifulco",
-      "traffic": "10000+",
+      "name": "tomás martín etcheverry",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
