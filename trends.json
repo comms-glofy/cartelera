@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T22:30:17Z",
+  "updated": "2026-11-04T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juan sebastián verón",
+      "name": "brasileirao",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "enzo fernández",
-      "traffic": "500+",
+      "name": "desierto florido",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cómo",
-      "traffic": "20000+",
+      "name": "posiciones de fc porto contra ssc napoli",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "racing club de lens",
+      "name": "juan sebastián verón",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "flamengo - grêmio",
-      "traffic": "2000+",
+      "name": "enzo fernández",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "city vs",
+      "name": "racing club de lens",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "manchester city vs",
-      "traffic": "500+",
+      "name": "paranaense - vasco da gama",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "lens",
-      "traffic": "500+",
+      "name": "flamengo - grêmio",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "anastasios douvikas",
+      "name": "city vs",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "como",
-      "traffic": "10000+",
+      "name": "lens",
+      "traffic": "500+",
       "rank": 10
     }
   ]
