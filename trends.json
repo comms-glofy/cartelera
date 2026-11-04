@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T09:00:15Z",
+  "updated": "2026-11-04T09:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "meteorología",
-      "traffic": "200+",
+      "name": "franco colapinto",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "67",
-      "traffic": "100+",
+      "name": "lali espósito",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fin de semana",
-      "traffic": "1000+",
+      "name": "pronostico posadas",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "f1 franco colapinto",
-      "traffic": "200+",
+      "name": "árbitro",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "texas",
+      "name": "clima corrientes",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gina hinojosa",
+      "name": "meteorología",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "ricardo la volpe",
-      "traffic": "200+",
+      "name": "67",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "internacional vs. coritiba",
-      "traffic": "200+",
+      "name": "fin de semana",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "diego ramos",
-      "traffic": "2000+",
+      "name": "texas",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "byron donalds",
-      "traffic": "200+",
+      "name": "gina hinojosa",
+      "traffic": "500+",
       "rank": 10
     }
   ]
