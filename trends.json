@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T00:30:12Z",
+  "updated": "2026-11-04T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nytimes",
-      "traffic": "200+",
+      "name": "janones",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "internacional - coritiba",
-      "traffic": "500+",
+      "name": "el territorio",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "trump es republicano o demócrata",
-      "traffic": "100+",
+      "name": "alianza lima - cienciano",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "us elections 2026",
-      "traffic": "100+",
+      "name": "internacional",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "donald trump",
+      "name": "pablo migliore",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "democratic party",
-      "traffic": "100+",
+      "name": "convocados selección argentina",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "sangre dinosaurio",
+      "name": "internacional - coritiba",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "callum turner",
+      "name": "trump es republicano o demócrata",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "finanzas",
+      "name": "donald trump",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cronicazo de hoy",
-      "traffic": "500+",
+      "name": "new york times",
+      "traffic": "200+",
       "rank": 10
     }
   ]
