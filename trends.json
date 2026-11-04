@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T12:00:19Z",
+  "updated": "2026-11-04T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "irán",
+      "name": "frances tiafoe",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "abdul el sayed",
-      "traffic": "1000+",
+      "name": "irán",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "michael douglas",
-      "traffic": "100+",
+      "name": "abdul el sayed",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "recibo de sueldo",
+      "name": "michael douglas",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "recibo de sueldo",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "club atlético aldosivi",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "carlos albert llorente",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "club atlético nueva chicago",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "amaia montero",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima mendoza",
-      "traffic": "200+",
+      "name": "pagina 12",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "dinosaurio",
-      "traffic": "2000+",
+      "name": "amaia montero",
+      "traffic": "500+",
       "rank": 10
     }
   ]
