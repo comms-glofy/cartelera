@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T22:00:16Z",
+  "updated": "2026-11-04T22:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester city",
-      "traffic": "2000+",
+      "name": "juan sebastián verón",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "flamengo - grêmio",
-      "traffic": "1000+",
+      "name": "enzo fernández",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "city vs",
-      "traffic": "200+",
+      "name": "cómo",
+      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "napoli vs",
+      "name": "racing club de lens",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "manchester city vs",
-      "traffic": "500+",
+      "name": "flamengo - grêmio",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "anastasios douvikas",
+      "name": "city vs",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "como",
-      "traffic": "20000+",
+      "name": "manchester city vs",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "como vs",
-      "traffic": "2000+",
+      "name": "lens",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "rodrigo de paul",
+      "name": "anastasios douvikas",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "the walking dead",
-      "traffic": "100+",
+      "name": "como",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
