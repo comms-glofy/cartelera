@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-04T15:30:14Z",
+  "updated": "2026-11-04T16:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "novak djokovic",
-      "traffic": "500+",
+      "name": "superclásico del fútbol argentino",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "pensión",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "novak djokovic",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "rennes - olympiacos",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "álex de miñaur",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "master 1000 paris",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "cotizacion dolar hoy",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "zverev",
-      "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "atp paris",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nelson castro",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "riesgo pais argentina",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tomás martín etcheverry",
+      "name": "riesgo pais argentina",
       "traffic": "1000+",
       "rank": 10
     }
