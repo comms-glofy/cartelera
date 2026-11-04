@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T17:00:24Z",
+  "updated": "2026-11-04T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "camión cisterna",
-      "traffic": "500+",
+      "name": "aek - real madrid",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "santiago del moro",
-      "traffic": "100+",
+      "name": "fenerbahçe - liverpool",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "superclásico del fútbol argentino",
+      "name": "camión cisterna",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "pensión",
-      "traffic": "5000+",
+      "name": "djokovic",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "novak djokovic",
+      "name": "santiago del moro",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "rennes - olympiacos",
+      "name": "superclásico del fútbol argentino",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "master 1000 paris",
-      "traffic": "200+",
+      "name": "pensión",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "cotizacion dolar hoy",
-      "traffic": "200+",
+      "name": "novak djokovic",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "atp paris",
+      "name": "rennes - olympiacos",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nelson castro",
-      "traffic": "5000+",
+      "name": "álex de miñaur",
+      "traffic": "100+",
       "rank": 10
     }
   ]
