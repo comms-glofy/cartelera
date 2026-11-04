@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-04T00:00:26Z",
+  "updated": "2026-11-04T00:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "donald trump",
-      "traffic": "100+",
+      "name": "nytimes",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "democratic party",
-      "traffic": "100+",
+      "name": "internacional - coritiba",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "new york times",
+      "name": "trump es republicano o demócrata",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "us elections 2026",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "donald trump",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "democratic party",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "sangre dinosaurio",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "callum turner",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "finanzas",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "cronicazo de hoy",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "edificio",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "airbnb",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "ramón díaz",
+      "name": "cronicazo de hoy",
       "traffic": "500+",
       "rank": 10
     }
