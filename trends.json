@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T20:14:19Z",
+  "updated": "2026-11-04T20:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "psv",
+      "name": "porto",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "borussia dortmund",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "viking fk",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "psv",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "posiciones de champions league",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "telepase",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "desalojo",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "real madrid vs aek",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "lens - como",
-      "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "slavia praga - arsenal",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "dortmund - real betis",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "rb leipzig - manchester city",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "carlos alcaraz",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
