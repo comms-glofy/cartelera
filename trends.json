@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-05T08:30:15Z",
+  "updated": "2026-11-05T09:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "resultados quini 6",
-      "traffic": "500+",
+      "name": "hora",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pensión no contributiva",
+      "name": "loto plus",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "primera división de argentina",
-      "traffic": "100+",
+      "name": "resultados quini 6",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "lluvia",
-      "traffic": "500+",
+      "name": "pensión no contributiva",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "primera división de argentina",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "lluvia",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "el niño",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "lautaro pereyra",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "justicia",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "clippers - heat",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "pequeño j",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "microsoft",
+      "name": "clippers - heat",
       "traffic": "100+",
       "rank": 10
     }
