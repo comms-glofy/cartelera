@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-05T12:00:17Z",
+  "updated": "2026-11-05T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "feriados por la visita del papa",
-      "traffic": "200+",
+      "name": "ronaldo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "dia del bancario",
-      "traffic": "200+",
+      "name": "cr7",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cristiano ronaldo",
+      "name": "feriados por la visita del papa",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "dafne keen",
-      "traffic": "100+",
+      "name": "nicolás otamendi",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "nicolás otamendi",
-      "traffic": "500+",
+      "name": "dafne keen",
+      "traffic": "100+",
       "rank": 5
     },
     {
       "name": "autovía",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
     },
     {
@@ -45,12 +45,12 @@
     },
     {
       "name": "alan jones",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 9
     },
     {
       "name": "nicolás ramírez",
-      "traffic": "1000+",
+      "traffic": "200+",
       "rank": 10
     }
   ]
