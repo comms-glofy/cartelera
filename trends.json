@@ -1,35 +1,35 @@
 {
-  "updated": "2026-11-05T20:00:18Z",
+  "updated": "2026-11-05T20:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lucas beltran",
-      "traffic": "200+",
+      "name": "tabla de posiciones liga argentina",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "lucas beltrán",
-      "traffic": "500+",
+      "name": "leverkusen - marsella",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "resultado de river",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "az alkmaar",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "promedios",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "primera",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "the pitt",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "atalanta",
+      "name": "the pitt",
       "traffic": "200+",
       "rank": 6
     },
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "milan vs. ferencváros",
-      "traffic": "100+",
+      "name": "az - juventus",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "az - juventus",
-      "traffic": "500+",
+      "name": "riber",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
