@@ -1,46 +1,46 @@
 {
-  "updated": "2026-11-05T02:30:19Z",
+  "updated": "2026-11-05T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marta fort",
+      "name": "kings - lakers",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "spurs - mavericks",
-      "traffic": "200+",
+      "name": "posiciones de botafogo contra atlético mineiro",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "nuggets - raptors",
+      "name": "spurs - mavericks",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "marta fort",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "nuggets - raptors",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "mckenna grace",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "wanda nara",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "nazareno casero",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "desierto de atacama",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "chapecó",
-      "traffic": "200+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "rockets - timberwolves",
-      "traffic": "100+",
+      "name": "desierto de atacama",
+      "traffic": "200+",
       "rank": 10
     }
   ]
