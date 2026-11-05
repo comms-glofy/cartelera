@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-05T22:09:24Z",
+  "updated": "2026-11-05T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "corte suprema",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
+      "name": "juventus vs",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "gimnasia vs",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "brighton",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "celtic fc",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "unión tranviarios automotor",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "pilar smith",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "rubio ñu - sportivo luqueño",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "fiesta",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "wall street",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "sunderland",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "bayer leverkusen",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "mónaco - nordsjælland",
+      "name": "wall street",
       "traffic": "200+",
       "rank": 10
     }
