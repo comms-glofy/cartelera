@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T15:00:17Z",
+  "updated": "2026-11-05T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "enzo pérez",
-      "traffic": "100+",
+      "name": "russell brand",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "1000+",
+      "name": "patricia walsh",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "aterrizaje",
+      "name": "industria láctea",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "dia del bancario 2026",
-      "traffic": "500+",
+      "name": "periodista",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "osfa",
-      "traffic": "500+",
+      "name": "enzo pérez",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ben shelton",
+      "name": "tomás martín etcheverry",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "ronaldo",
-      "traffic": "500+",
+      "name": "aterrizaje",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cr7",
-      "traffic": "200+",
+      "name": "cuando llega el papa a la argentina",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "dia del bancario",
-      "traffic": "2000+",
+      "name": "dia del bancario 2026",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "dafne keen",
-      "traffic": "200+",
+      "name": "osfa",
+      "traffic": "500+",
       "rank": 10
     }
   ]
