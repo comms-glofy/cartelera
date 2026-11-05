@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T23:00:15Z",
+  "updated": "2026-11-05T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lucas janson",
+      "name": "josé luis gioia",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gimnasia",
-      "traffic": "5000+",
+      "name": "telescopio swift nasa",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "u. de chile - antofagasta",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "barassi",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "profesor",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "gimnasia",
+      "traffic": "10000+",
+      "rank": 6
     },
     {
       "name": "avión",
       "traffic": "500+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "gelp",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "corte suprema",
       "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "juventus vs",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "brighton",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "celtic fc",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "pilar smith",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "unión tranviarios automotor",
-      "traffic": "200+",
+      "name": "juventus vs",
+      "traffic": "100+",
       "rank": 10
     }
   ]
