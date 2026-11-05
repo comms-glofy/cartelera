@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T11:00:16Z",
+  "updated": "2026-11-05T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de millonarios fc contra américa de cali",
-      "traffic": "1000+",
+      "name": "nicolás otamendi",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "telescopio swift",
+      "name": "dafne keen",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alan jones",
-      "traffic": "200+",
+      "name": "autovía",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "tommy paul",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "posiciones de millonarios fc contra américa de cali",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "telescopio swift",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "alan jones",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "nicolás ramírez",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "lockheed martin kc-130 hercules",
       "traffic": "200+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "obra social",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "escuela",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "finanzas",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "club atlético unión",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "todo noticias",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "club atlético river plate",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
