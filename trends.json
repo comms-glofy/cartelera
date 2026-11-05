@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T17:00:16Z",
+  "updated": "2026-11-05T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "taurian fontenette",
-      "traffic": "100+",
+      "name": "crystal palace - hoffenheim",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cronograma",
-      "traffic": "200+",
+      "name": "página 12",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "barco fantasma",
-      "traffic": "100+",
+      "name": "milan - ferencváros",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "atp paris",
-      "traffic": "200+",
+      "name": "ueno",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "petróleo",
+      "name": "taurian fontenette",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "l-gante",
-      "traffic": "200+",
+      "name": "cronograma",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "one piece 1198",
+      "name": "barco fantasma",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "ignacio buse",
+      "name": "petróleo",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "master 1000 paris",
-      "traffic": "2000+",
+      "name": "atp paris",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "motorola signature 27",
-      "traffic": "100+",
+      "name": "l-gante",
+      "traffic": "200+",
       "rank": 10
     }
   ]
