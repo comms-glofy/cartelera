@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-04T23:30:14Z",
+  "updated": "2026-11-05T00:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cúcuta - santa fe",
-      "traffic": "200+",
+      "name": "são paulo - corinthians",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "primera división de paraguay",
-      "traffic": "100+",
+      "name": "pistons - 76ers",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "brasileirao",
+      "name": "river vs aldosivi",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "desierto florido",
+      "name": "paranaense",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "juan sebastián verón",
-      "traffic": "500+",
+      "name": "cúcuta - santa fe",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "posiciones de fc porto contra ssc napoli",
-      "traffic": "1000+",
+      "name": "primera división de paraguay",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "enzo fernández",
-      "traffic": "2000+",
+      "name": "brasileirao",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "racing club de lens",
+      "name": "desierto florido",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "paranaense - vasco da gama",
-      "traffic": "5000+",
+      "name": "juan sebastián verón",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "manchester city",
-      "traffic": "2000+",
+      "name": "posiciones de fc porto contra ssc napoli",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
