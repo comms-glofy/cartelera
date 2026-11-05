@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T08:00:16Z",
+  "updated": "2026-11-05T08:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lluvia",
-      "traffic": "200+",
+      "name": "resultados quini 6",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "el niño",
-      "traffic": "500+",
+      "name": "pensión no contributiva",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "justicia",
+      "name": "primera división de argentina",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "lluvia",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "el niño",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "lautaro pereyra",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "justicia",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "clippers - heat",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "pequeño j",
       "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "microsoft",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "kings - lakers",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "posiciones de sao paulo fc contra corinthians",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "longevidad",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de botafogo contra atlético mineiro",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
