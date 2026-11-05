@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T00:30:12Z",
+  "updated": "2026-11-05T00:57:46Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "botafogo - atlético mineiro",
-      "traffic": "1000+",
+      "name": "liga de quito",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "são paulo - corinthians",
-      "traffic": "1000+",
+      "name": "celtics - bucks",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pistons - 76ers",
+      "name": "knicks - bulls",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "river vs aldosivi",
-      "traffic": "200+",
+      "name": "botafogo - atlético mineiro",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "marianela mirra",
+      "name": "river aldosivi",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cúcuta - santa fe",
-      "traffic": "500+",
+      "name": "olimpia - deportivo recoleta",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "primera división de paraguay",
-      "traffic": "200+",
+      "name": "são paulo - corinthians",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "desierto florido",
-      "traffic": "200+",
+      "name": "pistons - 76ers",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "juan sebastián verón",
-      "traffic": "2000+",
+      "name": "marianela mirra",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "posiciones de fc porto contra ssc napoli",
-      "traffic": "1000+",
+      "name": "cúcuta - santa fe",
+      "traffic": "500+",
       "rank": 10
     }
   ]
