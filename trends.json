@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T14:00:14Z",
+  "updated": "2026-11-05T14:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "presidente de paraguay",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "aterrizaje",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "dia del bancario 2026",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "osfa",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "ben shelton",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "ronaldo",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "cr7",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "dia del bancario",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "feriados por la visita del papa",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "dafne keen",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "nicolás otamendi",
-      "traffic": "500+",
       "rank": 10
     }
   ]
