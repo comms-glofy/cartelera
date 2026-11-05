@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T03:00:14Z",
+  "updated": "2026-11-05T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kings - lakers",
-      "traffic": "200+",
+      "name": "posiciones de sao paulo fc contra corinthians",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "posiciones de botafogo contra atlético mineiro",
-      "traffic": "500+",
+      "name": "kings - lakers",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "spurs - mavericks",
-      "traffic": "200+",
+      "name": "posiciones de botafogo contra atlético mineiro",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "posiciones de club olimpia contra recoleta fc",
+      "traffic": "10000+",
+      "rank": 4
+    },
+    {
+      "name": "spurs - mavericks",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "marta fort",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "nuggets - raptors",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "mckenna grace",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "wanda nara",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "nazareno casero",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "lotería de santa fe",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "desierto de atacama",
-      "traffic": "200+",
       "rank": 10
     }
   ]
