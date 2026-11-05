@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T02:00:16Z",
+  "updated": "2026-11-05T02:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "multa",
-      "traffic": "100+",
+      "name": "marta fort",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "universitario - sport boys",
+      "name": "spurs - mavericks",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "millonarios - américa",
+      "name": "nuggets - raptors",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "otro dia perdido",
+      "name": "mckenna grace",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "thunder - cavaliers",
-      "traffic": "200+",
+      "name": "wanda nara",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "rodrigo garro",
-      "traffic": "200+",
+      "name": "nazareno casero",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "cae",
-      "traffic": "100+",
+      "name": "desierto de atacama",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "darío barassi",
+      "name": "chapecó",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "lebron james",
-      "traffic": "100+",
+      "name": "lotería de santa fe",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "celtics - bucks",
-      "traffic": "500+",
+      "name": "rockets - timberwolves",
+      "traffic": "100+",
       "rank": 10
     }
   ]
