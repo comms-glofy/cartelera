@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T21:00:15Z",
+  "updated": "2026-11-05T21:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bayer leverkusen",
+      "name": "wall street",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "sunderland",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "bayer leverkusen",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "monaco fc",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "celta de vigo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "leverkusen - marsella",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "tabla de posiciones liga argentina 2026",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "az alkmaar",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "promedios",
-      "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "the pitt",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "aldosivi descendió",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "gaitan",
-      "traffic": "100+",
+      "name": "promedios",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
