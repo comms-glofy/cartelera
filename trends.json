@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T19:00:16Z",
+  "updated": "2026-11-05T19:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "torneo argentino",
+      "name": "az - juventus",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bournemouth",
-      "traffic": "200+",
+      "name": "riber",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "como va river",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "lucas castro",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "liga argentina",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "administración nacional de la seguridad social",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "superliga",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "banco de la nación argentina",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "cotización dólar blue hoy",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "river",
-      "traffic": "50000+",
-      "rank": 6
-    },
-    {
-      "name": "milan",
-      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "mayorista",
+      "name": "bournemouth",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "grupo de narváez",
-      "traffic": "500+",
+      "name": "cotización dólar blue hoy",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "riesgo pais paraguay",
-      "traffic": "200+",
+      "name": "banco de la nación argentina",
+      "traffic": "100+",
       "rank": 10
     }
   ]
