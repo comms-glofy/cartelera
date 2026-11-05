@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-05T10:30:13Z",
+  "updated": "2026-11-05T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alan jones",
-      "traffic": "100+",
+      "name": "posiciones de millonarios fc contra américa de cali",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "lockheed martin kc-130 hercules",
+      "name": "telescopio swift",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "obra social",
-      "traffic": "100+",
+      "name": "alan jones",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "lockheed martin kc-130 hercules",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "obra social",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "escuela",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "finanzas",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "todo noticias",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "club atlético unión",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "club atlético river plate",
-      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "la nación",
-      "traffic": "500+",
+      "name": "todo noticias",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pierre gasly",
+      "name": "club atlético river plate",
       "traffic": "1000+",
       "rank": 10
     }
