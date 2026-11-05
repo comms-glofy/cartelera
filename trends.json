@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-05T22:00:16Z",
+  "updated": "2026-11-05T22:09:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "unión tranviarios automotor",
-      "traffic": "100+",
+      "name": "brighton",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pilar smith",
+      "name": "celtic fc",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rubio ñu - sportivo luqueño",
-      "traffic": "500+",
+      "name": "unión tranviarios automotor",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "fiesta",
+      "name": "pilar smith",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "rubio ñu - sportivo luqueño",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "fiesta",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "wall street",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "sunderland",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "bayer leverkusen",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "posiciones de crystal palace contra hoffenheim",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "monaco fc",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "celta de vigo",
+      "name": "mónaco - nordsjælland",
       "traffic": "200+",
       "rank": 10
     }
