@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T10:00:14Z",
+  "updated": "2026-11-05T10:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lockheed martin kc-130 hercules",
+      "name": "alan jones",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "obra social",
+      "name": "lockheed martin kc-130 hercules",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "escuela",
-      "traffic": "200+",
+      "name": "obra social",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "escuela",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "finanzas",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "todo noticias",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "club atlético river plate",
-      "traffic": "500+",
+      "name": "todo noticias",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "la nación",
-      "traffic": "200+",
+      "name": "club atlético unión",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "pierre gasly",
-      "traffic": "500+",
+      "name": "club atlético river plate",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "quini",
-      "traffic": "2000+",
+      "name": "la nación",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "loto plus",
-      "traffic": "500+",
+      "name": "pierre gasly",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
