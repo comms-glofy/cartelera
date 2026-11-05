@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T05:00:17Z",
+  "updated": "2026-11-05T05:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "longevidad",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "posiciones de botafogo contra atlético mineiro",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "posiciones de club olimpia contra recoleta fc",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "spurs - mavericks",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "nuggets - raptors",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "marta fort",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mckenna grace",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "wanda nara",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
