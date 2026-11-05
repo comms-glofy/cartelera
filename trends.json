@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-05T11:30:16Z",
+  "updated": "2026-11-05T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nicolás otamendi",
+      "name": "feriados por la visita del papa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "dafne keen",
-      "traffic": "100+",
+      "name": "dia del bancario",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "autovía",
-      "traffic": "100+",
+      "name": "cristiano ronaldo",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "tommy paul",
+      "name": "dafne keen",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "posiciones de millonarios fc contra américa de cali",
-      "traffic": "1000+",
+      "name": "nicolás otamendi",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "telescopio swift",
+      "name": "autovía",
       "traffic": "100+",
       "rank": 6
     },
     {
+      "name": "tommy paul",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "telescopio swift",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "alan jones",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "nicolás ramírez",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "lockheed martin kc-130 hercules",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "obra social",
-      "traffic": "200+",
       "rank": 10
     }
   ]
