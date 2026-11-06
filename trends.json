@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-06T07:00:19Z",
+  "updated": "2026-11-06T07:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "cotización",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "pronostico mar del plata",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "clima mar del plata",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "periodista silvia mercado",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima bahia blanca",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "yanina latorre",
-      "traffic": "100+",
       "rank": 5
     },
     {
       "name": "gonzalo moratorio",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
     },
     {
