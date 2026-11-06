@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-06T14:00:17Z",
+  "updated": "2026-11-06T14:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ben shelton",
+      "name": "la gaceta",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "video pequeño j",
-      "traffic": "1000+",
+      "name": "ben shelton",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "bom",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "eleventickets libertadores",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 6
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "papelera del sur",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 10
     }
   ]
