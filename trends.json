@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-06T16:00:17Z",
+  "updated": "2026-11-06T16:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "papa leon",
-      "traffic": "2000+",
+      "name": "ross lynch",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "kimmarie johnson",
+      "name": "rinky hijikata",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "kimmarie johnson",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "luca van assche",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mundial de padel 2026",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "adorni",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "meteored",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "marcha del orgullo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "la gaceta",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "ben shelton",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "horarios f1 brasil 2026",
+      "name": "ben shelton",
       "traffic": "500+",
       "rank": 10
     }
