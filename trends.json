@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T22:30:13Z",
+  "updated": "2026-11-06T22:40:06Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elecciones unlp",
+      "name": "posiciones de sevilla fc contra alavés",
       "traffic": "200+",
       "rank": 1
     },
     {
       "name": "vitória - fluminense",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "charles f porter",
+      "name": "elecciones unlp",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "casper ruud",
-      "traffic": "100+",
+      "name": "charles f porter",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "seguro",
+      "name": "casper ruud",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "indonesia",
-      "traffic": "200+",
+      "name": "seguro",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "independiente - deportivo riestra",
-      "traffic": "10000+",
+      "name": "indonesia",
+      "traffic": "200+",
       "rank": 7
+    },
+    {
+      "name": "independiente - deportivo riestra",
+      "traffic": "20000+",
+      "rank": 8
     },
     {
       "name": "san lorenzo - platense",
       "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "unión - vélez",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "quiebra",
-      "traffic": "500+",
+      "name": "unión - vélez",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
