@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-06T21:00:14Z",
+  "updated": "2026-11-06T21:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "día del bancario",
-      "traffic": "2000+",
+      "name": "quiebra",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "fp2",
-      "traffic": "100+",
+      "name": "federico coria",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "papa francisco",
-      "traffic": "500+",
+      "name": "sebastián lelio",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "córdoba",
-      "traffic": "1000+",
+      "name": "día del bancario",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "taylor fritz",
-      "traffic": "200+",
+      "name": "posiciones de barracas central contra racing club",
+      "traffic": "100000+",
       "rank": 5
     },
     {
-      "name": "administración nacional de medicamentos, alimentos y tecnología médica",
-      "traffic": "200+",
+      "name": "fórmula 1",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "carlos alcaraz",
+      "name": "córdoba",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "venezia - udinese",
-      "traffic": "500+",
+      "name": "taylor fritz",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sevilla - alavés",
-      "traffic": "2000+",
+      "name": "administración nacional de medicamentos, alimentos y tecnología médica",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "everton - coventry city",
+      "name": "carlos alcaraz",
       "traffic": "2000+",
       "rank": 10
     }
