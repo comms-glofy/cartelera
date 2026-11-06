@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T20:30:14Z",
+  "updated": "2026-11-06T21:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "córdoba",
-      "traffic": "500+",
+      "name": "día del bancario",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "taylor fritz",
+      "name": "fp2",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "administración nacional de medicamentos, alimentos y tecnología médica",
-      "traffic": "100+",
+      "name": "papa francisco",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "carlos alcaraz",
+      "name": "córdoba",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "venezia - udinese",
-      "traffic": "500+",
+      "name": "taylor fritz",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "sevilla - alavés",
-      "traffic": "1000+",
+      "name": "administración nacional de medicamentos, alimentos y tecnología médica",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "everton - coventry city",
-      "traffic": "1000+",
+      "name": "carlos alcaraz",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "barracas",
+      "name": "venezia - udinese",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "sebastian lelio",
-      "traffic": "500+",
+      "name": "sevilla - alavés",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "pelota libre en argentina",
-      "traffic": "1000+",
+      "name": "everton - coventry city",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
