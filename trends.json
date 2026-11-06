@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T11:00:16Z",
+  "updated": "2026-11-06T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos futebol clube",
-      "traffic": "100+",
+      "name": "la popu",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima necochea",
+      "name": "papelera del sur",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "playstation plus",
-      "traffic": "200+",
+      "name": "santos futebol clube",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "unicenter shopping",
+      "name": "los pumas",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "rosario",
-      "traffic": "200+",
+      "name": "clima necochea",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "unicenter shopping",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "playstation plus",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "rosario",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "diario de cuyo",
       "traffic": "500+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "evento de el niño de 2026 2027",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "clima san juan",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "papa",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "tormenta",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
