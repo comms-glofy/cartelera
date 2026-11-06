@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T17:30:14Z",
+  "updated": "2026-11-06T17:37:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "morgan fairchild",
-      "traffic": "200+",
+      "name": "bali",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "registro del automotor",
+      "name": "morgan fairchild",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "registro del automotor",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "barracas central - racing",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "página 12",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "rj mitte",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "poder judicial",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "stranger things",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "poder judicial mendoza",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tasa",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "ross lynch",
-      "traffic": "100+",
       "rank": 10
     }
   ]
