@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T19:30:13Z",
+  "updated": "2026-11-06T20:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sevilla - alavés",
-      "traffic": "200+",
+      "name": "córdoba",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "barracas",
-      "traffic": "200+",
+      "name": "taylor fritz",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sebastian lelio",
-      "traffic": "500+",
+      "name": "administración nacional de medicamentos, alimentos y tecnología médica",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "pelota libre en argentina",
-      "traffic": "5000+",
+      "name": "carlos alcaraz",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "meghan markle",
+      "name": "venezia - udinese",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "mario pergolini",
-      "traffic": "200+",
+      "name": "sevilla - alavés",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "bali",
-      "traffic": "200+",
+      "name": "everton - coventry city",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "morgan fairchild",
+      "name": "barracas",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "registro del automotor",
-      "traffic": "200+",
+      "name": "sebastian lelio",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "barracas central - racing",
-      "traffic": "50000+",
+      "name": "pelota libre en argentina",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
