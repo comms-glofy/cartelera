@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T06:30:14Z",
+  "updated": "2026-11-06T07:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
+      "name": "periodista silvia mercado",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
       "name": "clima bahia blanca",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "yanina latorre",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gonzalo moratorio",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "marcelo tinelli",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "inundación",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "warriors - heat",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "edith hermida",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "sanción",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
