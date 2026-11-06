@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T18:00:16Z",
+  "updated": "2026-11-06T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bali",
+      "name": "sebastian lelio",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "morgan fairchild",
-      "traffic": "200+",
+      "name": "pelota libre en argentina",
+      "traffic": "50000+",
       "rank": 2
     },
     {
-      "name": "registro del automotor",
-      "traffic": "200+",
+      "name": "meghan markle",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "barracas central - racing",
-      "traffic": "10000+",
+      "name": "mario pergolini",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "página 12",
-      "traffic": "200+",
+      "name": "bali",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "rj mitte",
+      "name": "morgan fairchild",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "poder judicial",
+      "name": "registro del automotor",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "stranger things",
-      "traffic": "100+",
+      "name": "barracas central - racing",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "poder judicial mendoza",
-      "traffic": "1000+",
+      "name": "página 12",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tasa",
-      "traffic": "1000+",
+      "name": "rj mitte",
+      "traffic": "500+",
       "rank": 10
     }
   ]
