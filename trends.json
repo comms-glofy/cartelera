@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-06T09:30:16Z",
+  "updated": "2026-11-06T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "papa",
-      "traffic": "500+",
+      "name": "diario de cuyo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tormenta",
-      "traffic": "1000+",
+      "name": "evento de el niño de 2026 2027",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "clima san juan",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "papa",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "tormenta",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "abc",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "selección de fútbol de argentina",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "recesión",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "cotización",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "pronostico mar del plata",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "clima mar del plata",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "clima bahia blanca",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "yanina latorre",
+      "name": "pronostico mar del plata",
       "traffic": "100+",
       "rank": 10
     }
