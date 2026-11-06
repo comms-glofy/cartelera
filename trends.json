@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T01:00:17Z",
+  "updated": "2026-11-06T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "loteria chaqueña",
+      "name": "67",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cruzeiro vs",
+      "name": "gabriel corrado",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "maia reficco",
+      "name": "flor vigna",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "devaluación",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "quiniela chaqueña",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "loteria chaqueña",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "cruzeiro vs",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "maia reficco",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "empleado público",
       "traffic": "100+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "andy kusnetzoff",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "cruzeiro - bahía",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "keanu reeves",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "tiempo mañana",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "independiente del valle - delfín",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "fraude",
-      "traffic": "500+",
       "rank": 10
     }
   ]
