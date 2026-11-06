@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T22:00:15Z",
+  "updated": "2026-11-06T22:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "indonesia",
+      "name": "elecciones unlp",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "independiente - deportivo riestra",
-      "traffic": "1000+",
+      "name": "vitória - fluminense",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "san lorenzo - platense",
-      "traffic": "500+",
+      "name": "charles f porter",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "unión - vélez",
-      "traffic": "500+",
+      "name": "casper ruud",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "quiebra",
-      "traffic": "500+",
+      "name": "seguro",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "federico coria",
+      "name": "indonesia",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "día del bancario",
-      "traffic": "2000+",
+      "name": "independiente - deportivo riestra",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "sebastián lelio",
-      "traffic": "500+",
+      "name": "san lorenzo - platense",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "fórmula 1",
-      "traffic": "10000+",
+      "name": "unión - vélez",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "córdoba",
-      "traffic": "2000+",
+      "name": "quiebra",
+      "traffic": "500+",
       "rank": 10
     }
   ]
