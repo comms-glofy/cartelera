@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-06T21:30:13Z",
+  "updated": "2026-11-06T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "indonesia",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "independiente - deportivo riestra",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "san lorenzo - platense",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "unión - vélez",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "quiebra",
       "traffic": "500+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "federico coria",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "sebastián lelio",
-      "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "día del bancario",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "posiciones de barracas central contra racing club",
-      "traffic": "100000+",
-      "rank": 5
-    },
-    {
-      "name": "fórmula 1",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "córdoba",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "taylor fritz",
-      "traffic": "200+",
+      "name": "sebastián lelio",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "administración nacional de medicamentos, alimentos y tecnología médica",
-      "traffic": "200+",
+      "name": "fórmula 1",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "carlos alcaraz",
+      "name": "córdoba",
       "traffic": "2000+",
       "rank": 10
     }
