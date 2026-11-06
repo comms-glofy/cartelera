@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T14:30:14Z",
+  "updated": "2026-11-06T15:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la gaceta",
-      "traffic": "200+",
+      "name": "meteored",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "ben shelton",
+      "name": "marcha del orgullo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "horarios f1 brasil 2026",
-      "traffic": "200+",
+      "name": "la gaceta",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "bom",
-      "traffic": "200+",
+      "name": "ben shelton",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "conmebol",
+      "name": "horarios f1 brasil 2026",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "bom",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "conmebol",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "eleventickets libertadores",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "viento",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "fadea",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "dia del bancario en argentina",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "papelera del sur",
-      "traffic": "500+",
       "rank": 10
     }
   ]
