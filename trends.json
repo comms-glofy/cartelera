@@ -1,51 +1,51 @@
 {
-  "updated": "2026-11-06T18:30:14Z",
+  "updated": "2026-11-06T19:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sebastian lelio",
-      "traffic": "100+",
+      "name": "barracas",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pelota libre en argentina",
-      "traffic": "50000+",
+      "name": "sebastian lelio",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "pelota libre en argentina",
+      "traffic": "20000+",
+      "rank": 3
     },
     {
       "name": "meghan markle",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mario pergolini",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "bali",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "morgan fairchild",
+      "name": "bali",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "registro del automotor",
+      "name": "morgan fairchild",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "barracas central - racing",
-      "traffic": "20000+",
+      "name": "registro del automotor",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "página 12",
-      "traffic": "500+",
+      "name": "barracas central - racing",
+      "traffic": "50000+",
       "rank": 9
     },
     {
