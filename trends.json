@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-06T13:30:12Z",
+  "updated": "2026-11-06T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "video pequeño j",
-      "traffic": "500+",
+      "name": "ben shelton",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "horarios f1 brasil 2026",
-      "traffic": "100+",
+      "name": "video pequeño j",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "horarios f1 brasil 2026",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "bom",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "conmebol",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "eleventickets libertadores",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "viento",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "fadea",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "dia del bancario en argentina",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "papelera del sur",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cadena 3",
-      "traffic": "2000+",
+      "name": "dia del bancario en argentina",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "los pumas",
+      "name": "papelera del sur",
       "traffic": "200+",
       "rank": 10
     }
