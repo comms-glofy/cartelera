@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T00:00:16Z",
+  "updated": "2026-11-06T00:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "josé luis gioia",
-      "traffic": "200+",
+      "name": "andy kusnetzoff",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "telescopio swift nasa",
-      "traffic": "200+",
+      "name": "cruzeiro - bahía",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "u. de chile - antofagasta",
+      "name": "keanu reeves",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "barassi",
-      "traffic": "100+",
+      "name": "tiempo mañana",
+      "traffic": "20000+",
       "rank": 4
     },
     {
-      "name": "belgrano",
-      "traffic": "20000+",
+      "name": "independiente del valle - delfín",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "profesor",
-      "traffic": "500+",
+      "name": "fraude",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "avión",
-      "traffic": "1000+",
+      "name": "weather tomorrow",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "gelp",
-      "traffic": "200+",
+      "name": "josé luis gioia",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "corte suprema",
-      "traffic": "5000+",
+      "name": "telescopio swift nasa",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "juventus vs",
-      "traffic": "100+",
+      "name": "u. de chile - antofagasta",
+      "traffic": "200+",
       "rank": 10
     }
   ]
