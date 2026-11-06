@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T15:00:18Z",
+  "updated": "2026-11-06T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "meteored",
-      "traffic": "1000+",
+      "name": "mundial de padel 2026",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "marcha del orgullo",
+      "name": "adorni",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "meteored",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "marcha del orgullo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "la gaceta",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "ben shelton",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "horarios f1 brasil 2026",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "bom",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "conmebol",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "eleventickets libertadores",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "viento",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "fadea",
-      "traffic": "100+",
       "rank": 10
     }
   ]
