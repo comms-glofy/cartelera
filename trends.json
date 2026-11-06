@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T23:00:16Z",
+  "updated": "2026-11-06T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tabla de posiciones liga argentina 2026",
-      "traffic": "200+",
+      "name": "quiniela de tucumán",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "larissa riquelme",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "valtteri bottas",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "posiciones de venezia football club contra udinese",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "tabla de posiciones liga argentina 2026",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "nuno borges",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "major league soccer 2026",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
+    },
+    {
+      "name": "pedro alliana",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "posiciones de sevilla fc contra alavés",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "caballo",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "vitória - fluminense",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "elecciones unlp",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "charles f porter",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "casper ruud",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "seguro",
-      "traffic": "500+",
       "rank": 10
     }
   ]
