@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T17:00:15Z",
+  "updated": "2026-11-06T17:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "poder judicial mendoza",
-      "traffic": "500+",
+      "name": "morgan fairchild",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "registro del automotor",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "barracas central - racing",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "página 12",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "rj mitte",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "poder judicial",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "stranger things",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "poder judicial mendoza",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "tasa",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 9
     },
     {
       "name": "ross lynch",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "rinky hijikata",
-      "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "kimmarie johnson",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "papa leon",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "luca van assche",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "mundial de padel 2026",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "adorni",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "meteored",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
