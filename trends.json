@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-06T03:30:13Z",
+  "updated": "2026-11-06T04:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gonzalo moratorio",
-      "traffic": "100+",
+      "name": "clima bahia blanca",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "marcelo tinelli",
+      "name": "yanina latorre",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "inundación",
-      "traffic": "200+",
+      "name": "gonzalo moratorio",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "warriors - heat",
-      "traffic": "500+",
+      "name": "marcelo tinelli",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "inundación",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "warriors - heat",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "edith hermida",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "sanción",
-      "traffic": "5000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "suns - magic",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "maru botana",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "adrian suar",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "rusher",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
