@@ -1,51 +1,51 @@
 {
-  "updated": "2026-11-07T03:00:16Z",
+  "updated": "2026-11-07T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "miguel merentiel",
+      "name": "sarmiento",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "grizzlies - thunder",
-      "traffic": "100+",
+      "name": "kings - spurs",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juan rodríguez",
+      "name": "miguel merentiel",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "grizzlies - thunder",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "necaxa - tijuana",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "maru botana",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "japon",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "pelicans - timberwolves",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "argentina vs brasil futsal",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "futsal",
-      "traffic": "500+",
       "rank": 9
     },
     {
