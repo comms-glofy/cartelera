@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T00:30:14Z",
+  "updated": "2026-11-07T01:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "banfield - atlético tucumán",
-      "traffic": "200+",
+      "name": "john wick",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "hornets - celtics",
-      "traffic": "200+",
+      "name": "tigre - sarmiento",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "2024",
+      "name": "cavaliers - 76ers",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mauro szeta",
-      "traffic": "2000+",
+      "name": "campeonato argentino",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "banfield - atlético tucumán",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "hornets - celtics",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "2024",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "wanda",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "club de gimnasia y esgrima la plata",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "larissa riquelme",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "valtteri bottas",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "sebastian lelio muerte",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de venezia football club contra udinese",
-      "traffic": "100+",
       "rank": 10
     }
   ]
