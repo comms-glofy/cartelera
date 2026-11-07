@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T17:30:13Z",
+  "updated": "2026-11-07T18:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "talleres - estudiantes",
-      "traffic": "1000+",
+      "name": "desastre",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "florencia peña",
-      "traffic": "200+",
+      "name": "a que hora juega boca",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "carlos alcaraz",
+      "name": "talleres - estudiantes",
       "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "osasuna - athletic",
+      "name": "florencia peña",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "parma - bolonia",
+      "name": "osasuna - athletic",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "blackburn rovers - west ham",
-      "traffic": "100+",
+      "name": "carlos alcaraz",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "posiciones de mainz 05 contra bayern",
-      "traffic": "1000+",
+      "name": "parma - bolonia",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "nottingham forest - manchester city",
-      "traffic": "5000+",
+      "name": "blackburn rovers - west ham",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "ke personajes",
-      "traffic": "1000+",
+      "name": "posiciones de mainz 05 contra bayern",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "gimnasia de mendoza",
-      "traffic": "200+",
+      "name": "nottingham forest - manchester city",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
