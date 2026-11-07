@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-07T12:00:18Z",
+  "updated": "2026-11-07T12:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "leeds - tottenham",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 1
     },
     {
       "name": "mundial de padel 2026",
-      "traffic": "100+",
+      "traffic": "1000+",
       "rank": 2
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "greenacres",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "diario la nacion",
+      "name": "needoh",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "marley",
-      "traffic": "200+",
+      "name": "diario la nacion",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "matt damon",
-      "traffic": "100+",
+      "name": "paysandu",
+      "traffic": "10000+",
       "rank": 8
     },
     {
-      "name": "guillermo barros schelotto",
+      "name": "marley",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rugby",
-      "traffic": "200+",
+      "name": "matt damon",
+      "traffic": "100+",
       "rank": 10
     }
   ]
