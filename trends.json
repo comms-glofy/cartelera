@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T00:00:15Z",
+  "updated": "2026-11-07T00:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mauro szeta",
-      "traffic": "1000+",
+      "name": "banfield - atlético tucumán",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "hornets - celtics",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "2024",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "mauro szeta",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "club de gimnasia y esgrima la plata",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "quiniela de tucuman",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "larissa riquelme",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "valtteri bottas",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "sebastian lelio muerte",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "posiciones de venezia football club contra udinese",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "tabla de posiciones liga argentina 2026",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "major league soccer 2026",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "mateo pérez curci",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "nuno borges",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "pedro alliana",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
