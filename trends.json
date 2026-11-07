@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-07T01:00:13Z",
+  "updated": "2026-11-07T01:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "john wick",
-      "traffic": "100+",
+      "name": "argentina vs brasil futsal",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tigre - sarmiento",
-      "traffic": "2000+",
+      "name": "futsal",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cavaliers - 76ers",
+      "name": "fortaleza - medellín",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "campeonato argentino",
-      "traffic": "200+",
+      "name": "john wick",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "banfield - atlético tucumán",
+      "name": "tigre - sarmiento",
       "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "hornets - celtics",
+      "name": "cavaliers - 76ers",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "2024",
-      "traffic": "200+",
+      "name": "banfield - atlético tucumán",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "wanda",
-      "traffic": "2000+",
+      "name": "hornets - celtics",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "club de gimnasia y esgrima la plata",
+      "name": "2024",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "quiniela de tucuman",
+      "name": "wanda nara",
       "traffic": "2000+",
       "rank": 10
     }
