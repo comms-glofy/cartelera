@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T02:30:48Z",
+  "updated": "2026-11-07T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grizzlies - thunder",
-      "traffic": "100+",
+      "name": "miguel merentiel",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "necaxa - tijuana",
+      "name": "grizzlies - thunder",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "maru botana",
+      "name": "juan rodríguez",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "japon",
+      "name": "necaxa - tijuana",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "pelicans - timberwolves",
-      "traffic": "100+",
+      "name": "maru botana",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "argentina vs brasil futsal",
-      "traffic": "1000+",
+      "name": "japon",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "futsal",
+      "name": "pelicans - timberwolves",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "fortaleza - medellín",
-      "traffic": "200+",
+      "name": "argentina vs brasil futsal",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "john wick",
-      "traffic": "100+",
+      "name": "futsal",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tigre - sarmiento",
-      "traffic": "10000+",
+      "name": "fortaleza - medellín",
+      "traffic": "200+",
       "rank": 10
     }
   ]
