@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T12:30:13Z",
+  "updated": "2026-11-07T13:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "leeds - tottenham",
-      "traffic": "1000+",
+      "name": "paysandu uruguay",
+      "traffic": "10000+",
       "rank": 1
     },
     {
-      "name": "mundial de padel 2026",
-      "traffic": "1000+",
+      "name": "mon laferte",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "club atlético nueva chicago",
-      "traffic": "100+",
+      "name": "leeds - tottenham",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "greenacres",
+      "name": "mundial de padel 2026",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ariel vallejo",
+      "name": "club atlético nueva chicago",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "needoh",
-      "traffic": "100+",
+      "name": "greenacres",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "diario la nacion",
+      "name": "needoh",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "paysandu",
-      "traffic": "10000+",
+      "name": "ariel vallejo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "marley",
-      "traffic": "200+",
+      "name": "diario la nacion",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "matt damon",
-      "traffic": "100+",
+      "name": "paysandu",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
