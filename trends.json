@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T11:00:15Z",
+  "updated": "2026-11-07T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marley",
+      "name": "greenacres",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rugby",
+      "name": "marley",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "guillermo barros schelotto",
+      "name": "rugby",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "el dia",
+      "name": "guillermo barros schelotto",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "luis caputo",
+      "name": "el dia",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "club atlético talleres",
-      "traffic": "100+",
+      "name": "luis caputo",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "club atlético talleres",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "avión",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "guido kaczka",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "jubilación",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "estancia",
-      "traffic": "200+",
+      "name": "jubilación",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
