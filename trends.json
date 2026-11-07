@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T14:00:15Z",
+  "updated": "2026-11-07T14:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mainz 05 - bayern",
+      "name": "arsenal - hull city",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "cagliari - frosinone",
+      "name": "ben shelton",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "málaga - racing de santander",
-      "traffic": "200+",
+      "name": "dortmund - sv elversberg",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "wrexham - wolves",
-      "traffic": "100+",
+      "name": "mainz 05 - bayern",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "cuando llega el papa a la argentina",
+      "name": "cagliari - frosinone",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "juicio",
+      "name": "7 de noviembre",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "dia del periodista deportivo",
+      "name": "málaga - racing de santander",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "volkswagen golf gti",
-      "traffic": "500+",
+      "name": "wrexham - wolves",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "mon laferte",
-      "traffic": "100+",
+      "name": "cuando llega el papa a la argentina",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "leeds - tottenham",
-      "traffic": "2000+",
+      "name": "juicio",
+      "traffic": "200+",
       "rank": 10
     }
   ]
