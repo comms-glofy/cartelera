@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-07T08:00:16Z",
+  "updated": "2026-11-07T08:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima posadas",
+      "name": "aguinaldo",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "lakers",
-      "traffic": "500+",
+      "name": "clima posadas",
+      "traffic": "100+",
       "rank": 2
     },
     {
@@ -35,22 +35,22 @@
     },
     {
       "name": "lakers - trail blazers",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 7
-    },
-    {
-      "name": "posiciones de banfield contra atlético tucumán",
-      "traffic": "50000+",
-      "rank": 8
     },
     {
       "name": "posiciones de club atlético tigre contra sarmiento de junin",
       "traffic": "20000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "kings - spurs",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "miguel merentiel",
+      "traffic": "200+",
       "rank": 10
     }
   ]
