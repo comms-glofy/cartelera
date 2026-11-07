@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T07:30:15Z",
+  "updated": "2026-11-07T08:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "lakers",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "xbox",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima tucuman",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "campus drivers serie",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "papa león xiv uruguay",
       "traffic": "10000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "lakers - trail blazers",
-      "traffic": "2000+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "posiciones de banfield contra atlético tucumán",
+      "traffic": "50000+",
+      "rank": 8
     },
     {
       "name": "posiciones de club atlético tigre contra sarmiento de junin",
       "traffic": "20000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "kings - spurs",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "miguel merentiel",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "pollo vignolo",
-      "traffic": "500+",
       "rank": 10
     }
   ]
