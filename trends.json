@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T03:30:13Z",
+  "updated": "2026-11-07T04:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sarmiento",
-      "traffic": "200+",
+      "name": "lakers - trail blazers",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "kings - spurs",
+      "name": "sarmiento",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "miguel merentiel",
-      "traffic": "200+",
+      "name": "kings - spurs",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "grizzlies - thunder",
+      "name": "miguel merentiel",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "necaxa - tijuana",
-      "traffic": "100+",
+      "name": "grizzlies - thunder",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "maru botana",
-      "traffic": "200+",
+      "name": "necaxa - tijuana",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "japon",
-      "traffic": "100+",
+      "name": "maru botana",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "pelicans - timberwolves",
+      "name": "japon",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "argentina vs brasil futsal",
-      "traffic": "2000+",
+      "name": "pelicans - timberwolves",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "fortaleza - medellín",
-      "traffic": "200+",
+      "name": "argentina vs brasil futsal",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
