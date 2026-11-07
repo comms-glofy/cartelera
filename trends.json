@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-07T08:30:14Z",
+  "updated": "2026-11-07T09:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "aguinaldo",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "papa león xiv uruguay",
-      "traffic": "10000+",
-      "rank": 6
-    },
-    {
       "name": "lakers - trail blazers",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "posiciones de club atlético tigre contra sarmiento de junin",
       "traffic": "20000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "kings - spurs",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "miguel merentiel",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "pollo vignolo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
