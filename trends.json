@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T10:30:15Z",
+  "updated": "2026-11-07T11:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético talleres",
+      "name": "marley",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "avión",
-      "traffic": "5000+",
+      "name": "rugby",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "jubilación",
-      "traffic": "2000+",
+      "name": "guillermo barros schelotto",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "estancia",
-      "traffic": "200+",
+      "name": "el dia",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "aguinaldo",
-      "traffic": "500+",
+      "name": "luis caputo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima posadas",
+      "name": "club atlético talleres",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "xbox",
-      "traffic": "100+",
+      "name": "avión",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "clima tucuman",
-      "traffic": "500+",
+      "name": "guido kaczka",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "campus drivers serie",
-      "traffic": "100+",
+      "name": "jubilación",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "lakers - trail blazers",
-      "traffic": "2000+",
+      "name": "estancia",
+      "traffic": "200+",
       "rank": 10
     }
   ]
