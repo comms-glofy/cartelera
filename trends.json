@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T20:30:13Z",
+  "updated": "2026-11-07T21:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter miami - charlotte fc",
-      "traffic": "1000+",
+      "name": "espn",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "valencia vs real madrid",
-      "traffic": "200+",
+      "name": "con quien juega boca hoy",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tv libre argentina en vivo",
-      "traffic": "100+",
+      "name": "rosario central",
+      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "uruguay papa león xiv",
+      "name": "tabla anual liga argentina",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "argentinos jrs. - huracán",
-      "traffic": "2000+",
+      "name": "tabla anual de posiciones liga argentina",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "posiciones de osasuna contra athletic club",
+      "name": "espn premium en vivo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "lepra",
-      "traffic": "100+",
+      "name": "radio",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lepra mendocina",
-      "traffic": "100+",
+      "name": "señorita maestra",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "rosario central - estudiantes de río cuarto",
-      "traffic": "2000+",
+      "name": "tarjeta roja boca",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "boca juniors - defensa y justicia",
-      "traffic": "100000+",
+      "name": "luis díaz",
+      "traffic": "200+",
       "rank": 10
     }
   ]
