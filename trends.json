@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T05:00:14Z",
+  "updated": "2026-11-07T05:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima tucuman",
-      "traffic": "200+",
+      "name": "clima posadas",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "papa león xiv uruguay",
-      "traffic": "10000+",
+      "name": "xbox",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "clima tucuman",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "lakers - trail blazers",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "kings - spurs",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "miguel merentiel",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pollo vignolo",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "grizzlies - thunder",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "colton herta",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "necaxa - tijuana",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "maru botana",
-      "traffic": "500+",
       "rank": 10
     }
   ]
