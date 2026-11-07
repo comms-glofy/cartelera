@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T21:30:15Z",
+  "updated": "2026-11-07T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "primera división",
-      "traffic": "5000+",
+      "name": "santiago peña presidente paraguay",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "promedios",
-      "traffic": "1000+",
+      "name": "argentino junior",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "lpf",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "pecco bagnaia",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "primera división",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "promedios",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "resultado de boca",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "argentino vs",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "cómo va boca juniors",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "di maria",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "boc",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "david martinez",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "partidos",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "elena rybakina",
-      "traffic": "200+",
       "rank": 10
     }
   ]
