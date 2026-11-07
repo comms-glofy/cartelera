@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T10:00:15Z",
+  "updated": "2026-11-07T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jubilación",
-      "traffic": "1000+",
+      "name": "club atlético talleres",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "avión",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
+      "name": "jubilación",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "estancia",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "aguinaldo",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "clima posadas",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "xbox",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "clima tucuman",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "campus drivers serie",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "lakers - trail blazers",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "posiciones de club atlético tigre contra sarmiento de junin",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "kings - spurs",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "miguel merentiel",
-      "traffic": "200+",
       "rank": 10
     }
   ]
