@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T20:00:15Z",
+  "updated": "2026-11-07T20:23:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rosario central - estudiantes de río cuarto",
-      "traffic": "200+",
+      "name": "uruguay papa león xiv",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "boca juniors - defensa y justicia",
-      "traffic": "20000+",
+      "name": "argentinos jrs. - huracán",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "guaraní - olimpia",
-      "traffic": "1000+",
+      "name": "posiciones de osasuna contra athletic club",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "libre futbol argentina",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "lepra",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "lepra mendocina",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "rosario central - estudiantes de río cuarto",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "boca juniors - defensa y justicia",
+      "traffic": "50000+",
+      "rank": 8
+    },
+    {
+      "name": "guaraní - olimpia",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "valencia c. f. - real madrid",
       "traffic": "10000+",
-      "rank": 4
-    },
-    {
-      "name": "psg - troyes",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "roma - sassuolo",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "economía",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "adt - sporting cristal",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "boca final",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "a q hora juega boca hoy",
-      "traffic": "100+",
       "rank": 10
     }
   ]
