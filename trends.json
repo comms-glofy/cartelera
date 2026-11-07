@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T13:00:18Z",
+  "updated": "2026-11-07T13:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paysandu uruguay",
-      "traffic": "10000+",
+      "name": "cuando llega el papa a la argentina",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "mon laferte",
+      "name": "juicio",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "leeds - tottenham",
-      "traffic": "2000+",
+      "name": "dia del periodista deportivo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mundial de padel 2026",
+      "name": "volkswagen golf gti",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "club atlético nueva chicago",
+      "name": "mon laferte",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "greenacres",
-      "traffic": "200+",
+      "name": "leeds - tottenham",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "needoh",
-      "traffic": "100+",
+      "name": "mundial de padel 2026",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "ariel vallejo",
-      "traffic": "100+",
+      "name": "club atlético nueva chicago",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "diario la nacion",
-      "traffic": "100+",
+      "name": "needoh",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "paysandu",
-      "traffic": "1000+",
+      "name": "greenacres",
+      "traffic": "200+",
       "rank": 10
     }
   ]
