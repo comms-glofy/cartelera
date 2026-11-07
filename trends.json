@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T15:30:14Z",
+  "updated": "2026-11-07T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentina",
-      "traffic": "500+",
+      "name": "arsenal",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "hoy juega boca",
-      "traffic": "2000+",
+      "name": "a qué hora juega boca hoy",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "rcd espanyol - deportivo",
+      "name": "arsenal vs",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "bayern",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "galatasaray - amed sk",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "argentina",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "rcd espanyol - deportivo",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "bayern munich",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "newman vs hindu",
       "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "carta astral",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "rb leipzig - augsburgo",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "fulham - newcastle",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "torino - lecce",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "arsenal - hull city",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
