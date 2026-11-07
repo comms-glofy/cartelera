@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-07T19:30:13Z",
+  "updated": "2026-11-07T20:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "valencia c. f. - real madrid",
-      "traffic": "2000+",
+      "name": "rosario central - estudiantes de río cuarto",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "psg - troyes",
-      "traffic": "1000+",
+      "name": "boca juniors - defensa y justicia",
+      "traffic": "20000+",
       "rank": 2
     },
     {
-      "name": "roma - sassuolo",
-      "traffic": "200+",
+      "name": "guaraní - olimpia",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "valencia c. f. - real madrid",
+      "traffic": "10000+",
+      "rank": 4
+    },
+    {
+      "name": "psg - troyes",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "roma - sassuolo",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "economía",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "adt - sporting cristal",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "boca final",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "ayrton senna",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "meteorito",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "luna llena",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "learjet",
-      "traffic": "200+",
+      "name": "a q hora juega boca hoy",
+      "traffic": "100+",
       "rank": 10
     }
   ]
