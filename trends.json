@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-08T09:30:14Z",
+  "updated": "2026-11-08T10:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "asignación universal por hijo",
-      "traffic": "500+",
+      "name": "la nación",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "herencia",
-      "traffic": "100+",
+      "name": "asignación universal por hijo",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "herencia",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "el niño",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "richard lloyd",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "microsoft",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "waldo cortés-acosta",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "liga mx",
+      "name": "waldo cortés-acosta",
       "traffic": "100+",
       "rank": 7
     },
