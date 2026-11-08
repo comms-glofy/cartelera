@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T20:00:13Z",
+  "updated": "2026-11-08T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "edad del papa leon xiv",
-      "traffic": "100+",
+      "name": "bulls - 76ers",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "llego el papa",
-      "traffic": "200+",
+      "name": "robert prevost",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "atletico",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "estrela amadora - benfica",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "juventud antoniana",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "posiciones de villarreal club de fútbol contra getafe cf",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "donde nacio el papa leon xiv",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "dólar blue hoy",
       "traffic": "100+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "tn",
       "traffic": "500+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "c5n en vivo",
       "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "posiciones de inter milan contra como 1907",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "vasco da gama - palmeiras",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "atlético madrid - barcelona",
-      "traffic": "20000+",
-      "rank": 8
-    },
-    {
-      "name": "fiorentina - juventus",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "aucas - independiente del valle",
-      "traffic": "200+",
       "rank": 10
     }
   ]
