@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T16:00:13Z",
+  "updated": "2026-11-08T16:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester united - aston villa",
-      "traffic": "2000+",
+      "name": "stade brestois - lyon",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "u. católica - deportes limache",
-      "traffic": "200+",
+      "name": "adrián gonzález charvay",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ajax",
-      "traffic": "200+",
+      "name": "inter - como",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "moto gp",
+      "name": "max verstappen",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "barcelona - madrid",
-      "traffic": "2000+",
+      "name": "inter vs como",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "real sociedad - rayo vallecano",
+      "name": "atp paris",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "2000+",
+      "name": "manchester united - aston villa",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "rennes - losc",
+      "name": "u. católica - deportes limache",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "chelsea",
-      "traffic": "2000+",
+      "name": "ajax",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ben shelton",
-      "traffic": "1000+",
+      "name": "moto gp",
+      "traffic": "500+",
       "rank": 10
     }
   ]
