@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T22:30:13Z",
+  "updated": "2026-11-08T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de fiorentina contra juventus fc",
-      "traffic": "1000+",
+      "name": "monja",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "julián alvarez",
-      "traffic": "200+",
+      "name": "pistons - lakers",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "ejército de chile",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "posiciones de fiorentina contra juventus fc",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "julián alvarez",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "lamine yamal",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "luca regiardo",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "tucumán",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "flavio briatore",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "central córdoba - lanús",
-      "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "benfica vs",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "wta finals",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de independiente santa fe contra deportivo pasto",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "nunciatura",
-      "traffic": "500+",
+      "name": "central córdoba - lanús",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
