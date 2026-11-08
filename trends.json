@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T18:00:16Z",
+  "updated": "2026-11-08T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "friburgo vs",
-      "traffic": "100+",
+      "name": "posiciones de u. católica contra deportes limache",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "inter",
-      "traffic": "500+",
+      "name": "thiago agustín tirante",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "formula 1",
-      "traffic": "20000+",
+      "name": "ñublense - colo-colo",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "verstappen",
+      "name": "leon goretzka",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "fox sports",
+      "name": "manchester united vs",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "le mans football club - mónaco",
+      "name": "friburgo vs",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "f1",
-      "traffic": "5000+",
+      "name": "inter",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "como fc",
-      "traffic": "5000+",
+      "name": "formula 1",
+      "traffic": "20000+",
       "rank": 8
     },
     {
-      "name": "humedad",
-      "traffic": "200+",
+      "name": "verstappen",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "united fc",
-      "traffic": "200+",
+      "name": "le mans football club - mónaco",
+      "traffic": "100+",
       "rank": 10
     }
   ]
