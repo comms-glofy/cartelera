@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T19:00:16Z",
+  "updated": "2026-11-08T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hadjar",
-      "traffic": "200+",
+      "name": "posiciones de inter milan contra como 1907",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "vasco da gama - palmeiras",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "atlético madrid - barcelona",
+      "traffic": "10000+",
+      "rank": 3
+    },
+    {
+      "name": "colapinto",
+      "traffic": "20000+",
+      "rank": 4
+    },
+    {
+      "name": "fiorentina - juventus",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "aucas - independiente del valle",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "toto wolff",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "monaco fc",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "kick",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "santa fe - pasto",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "celta de vigo",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "presidente de uruguay",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "guimarães - porto",
+      "name": "hadjar",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "u. de chile - cobresal",
+      "name": "monaco fc",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "hulkenberg",
-      "traffic": "100+",
+      "name": "santa fe - pasto",
+      "traffic": "500+",
       "rank": 10
     }
   ]
