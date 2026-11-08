@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T21:00:15Z",
+  "updated": "2026-11-08T21:16:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lee kang-in",
-      "traffic": "200+",
+      "name": "bono",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "andrea kimi antonelli",
+      "name": "jorge macri",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "juez",
-      "traffic": "100+",
+      "name": "benfica",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "papa movil",
-      "traffic": "100+",
+      "name": "barcelona sc - ldu quito",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "mauro icardi",
-      "traffic": "5000+",
+      "name": "posiciones de atlético de madrid contra fc barcelona",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fiorentina vs juventus",
-      "traffic": "200+",
+      "name": "posiciones de chankas cyc contra alianza lima",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "bulls - 76ers",
+      "name": "andrea kimi antonelli",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "robert prevost",
+      "name": "juez",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "atletico",
-      "traffic": "2000+",
+      "name": "papa movil",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "estrela amadora - benfica",
-      "traffic": "200+",
+      "name": "fiorentina vs juventus",
+      "traffic": "500+",
       "rank": 10
     }
   ]
