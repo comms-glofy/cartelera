@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-08T11:00:15Z",
+  "updated": "2026-11-08T11:25:34Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "napoli - lazio",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "carlos sainz jr.",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "club atlético independiente",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "cristian jaime",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "papa león xiv",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 5
     },
     {
-      "name": "gobierno",
-      "traffic": "200+",
-      "rank": 3
+      "name": "gastón ávila",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "bill gates",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "la nación",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "hernán drago",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "justicia",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "asignación universal por hijo",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "herencia",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "el niño",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "richard lloyd",
+      "name": "justicia",
       "traffic": "1000+",
       "rank": 10
     }
