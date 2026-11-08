@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T03:00:15Z",
+  "updated": "2026-11-08T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "trail blazers - spurs",
+      "name": "pumas - américa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "suns - rockets",
+      "name": "tatiana suarez",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "película",
-      "traffic": "100+",
+      "name": "trail blazers - spurs",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "julieta ortega",
+      "name": "suns - rockets",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "marcha orgullo",
-      "traffic": "2000+",
+      "name": "película",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "loto plus",
-      "traffic": "1000+",
+      "name": "julieta ortega",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "marcha orgullo",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "cienciano - sport huancayo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "loto",
+      "traffic": "1000+",
+      "rank": 9
     },
     {
       "name": "américa - deportivo cali",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "lucas sugo",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "thunder - wizards",
-      "traffic": "100+",
       "rank": 10
     }
   ]
