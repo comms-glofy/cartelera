@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T12:30:13Z",
+  "updated": "2026-11-08T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "heerenveen - feyenoord",
-      "traffic": "100+",
+      "name": "elche c. f. - real betis",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "aterrizaje de emergencia",
+      "name": "heerenveen - feyenoord",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ley",
+      "name": "aterrizaje de emergencia",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "maquinaria agrícola",
+      "name": "ley",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "caiman",
+      "name": "maquinaria agrícola",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "miniserie",
+      "name": "caiman",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "la nueva provincia",
+      "name": "miniserie",
       "traffic": "200+",
       "rank": 7
     },
     {
+      "name": "la nueva provincia",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "napoli - lazio",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "copa libertadores 2027",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "carlos sainz jr.",
-      "traffic": "200+",
       "rank": 10
     }
   ]
