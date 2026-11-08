@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T11:30:13Z",
+  "updated": "2026-11-08T12:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "napoli - lazio",
-      "traffic": "200+",
+      "name": "caiman",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "carlos sainz jr.",
+      "name": "miniserie",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "club atlético independiente",
+      "name": "la nueva provincia",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cristian jaime",
-      "traffic": "100+",
+      "name": "napoli - lazio",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "papa león xiv",
-      "traffic": "10000+",
+      "name": "copa libertadores 2027",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gastón ávila",
+      "name": "carlos sainz jr.",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "bill gates",
-      "traffic": "100+",
+      "name": "club atlético independiente",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "la nación",
-      "traffic": "2000+",
+      "name": "cristian jaime",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "hernán drago",
-      "traffic": "2000+",
+      "name": "decreto",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "justicia",
-      "traffic": "1000+",
+      "name": "sergio pérez",
+      "traffic": "100+",
       "rank": 10
     }
   ]
