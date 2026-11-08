@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-08T08:30:16Z",
+  "updated": "2026-11-08T09:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el niño",
-      "traffic": "500+",
+      "name": "herencia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "richard lloyd",
-      "traffic": "200+",
+      "name": "el niño",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "richard lloyd",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "microsoft",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "waldo cortés-acosta",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "liga mx",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "sorteo loto plus",
-      "traffic": "2000+",
       "rank": 6
     },
     {
