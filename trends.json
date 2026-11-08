@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T17:30:14Z",
+  "updated": "2026-11-08T18:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1",
-      "traffic": "20000+",
+      "name": "friburgo vs",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "humedad",
-      "traffic": "200+",
+      "name": "inter",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "como fc",
-      "traffic": "200+",
+      "name": "formula 1",
+      "traffic": "20000+",
       "rank": 3
     },
     {
-      "name": "hamilton",
+      "name": "verstappen",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "united fc",
+      "name": "fox sports",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sorteo loto plus hoy",
-      "traffic": "5000+",
+      "name": "le mans football club - mónaco",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "disney",
-      "traffic": "1000+",
+      "name": "f1",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "villarreal - getafe",
-      "traffic": "200+",
+      "name": "como fc",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "disney plus",
-      "traffic": "2000+",
+      "name": "humedad",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rafael camara",
-      "traffic": "500+",
+      "name": "united fc",
+      "traffic": "200+",
       "rank": 10
     }
   ]
