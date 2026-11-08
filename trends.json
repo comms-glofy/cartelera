@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T15:00:14Z",
+  "updated": "2026-11-08T15:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos alcaraz",
+      "name": "barcelona - madrid",
       "traffic": "2000+",
       "rank": 1
     },
     {
+      "name": "real sociedad - rayo vallecano",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "carlos alcaraz",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
       "name": "rennes - losc",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "twente - ajax",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "chelsea",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "ben shelton",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "elena rybakina",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "the legend of zelda ocarina of time remake",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "posiciones de ssc napoli contra lazio",
+      "name": "chelsea vs",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ipswich - bournemouth",
-      "traffic": "500+",
+      "name": "elena rybakina",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "genoa - milan",
-      "traffic": "500+",
+      "name": "brighton",
+      "traffic": "200+",
       "rank": 10
     }
   ]
