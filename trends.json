@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-08T07:00:17Z",
+  "updated": "2026-11-08T07:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "richard lloyd",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "sorteo loto plus",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "johnny walker",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pumas - américa",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tatiana suarez",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "trail blazers - spurs",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "suns - rockets",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "película",
-      "traffic": "500+",
       "rank": 10
     }
   ]
