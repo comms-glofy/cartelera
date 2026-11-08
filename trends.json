@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T06:00:15Z",
+  "updated": "2026-11-08T06:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "microsoft",
+      "name": "richard lloyd",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "waldo cortés-acosta",
+      "name": "microsoft",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "liga mx",
+      "name": "waldo cortés-acosta",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "liga mx",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "johnny walker",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pumas - américa",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tatiana suarez",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "trail blazers - spurs",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "suns - rockets",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "película",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "julieta ortega",
-      "traffic": "100+",
       "rank": 10
     }
   ]
