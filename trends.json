@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-08T17:00:14Z",
+  "updated": "2026-11-08T17:10:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "manchester united",
+      "name": "disney plus",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "luna nueva",
-      "traffic": "100+",
+      "name": "rafael camara",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "stade brestois - lyon",
+      "name": "maría becerra",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "adrián gonzález charvay",
-      "traffic": "100+",
+      "name": "premier",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "inter - como",
-      "traffic": "5000+",
+      "name": "moto gp hoy",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "carrera f1",
-      "traffic": "500+",
+      "name": "luna nueva",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "motogp",
+      "name": "stade brestois - lyon",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "real sociedad",
-      "traffic": "200+",
+      "name": "adrián gonzález charvay",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "max verstappen",
-      "traffic": "200+",
+      "name": "inter - como",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "atp paris",
+      "name": "motogp",
       "traffic": "200+",
       "rank": 10
     }
