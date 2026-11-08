@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T15:30:13Z",
+  "updated": "2026-11-08T16:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barcelona - madrid",
+      "name": "manchester united - aston villa",
       "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "real sociedad - rayo vallecano",
+      "name": "u. católica - deportes limache",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "carlos alcaraz",
-      "traffic": "2000+",
+      "name": "ajax",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "rennes - losc",
-      "traffic": "100+",
+      "name": "moto gp",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "twente - ajax",
-      "traffic": "100+",
+      "name": "barcelona - madrid",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "chelsea",
-      "traffic": "1000+",
+      "name": "real sociedad - rayo vallecano",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ben shelton",
-      "traffic": "500+",
+      "name": "carlos alcaraz",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "chelsea vs",
+      "name": "rennes - losc",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "elena rybakina",
-      "traffic": "200+",
+      "name": "chelsea",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "brighton",
-      "traffic": "200+",
+      "name": "ben shelton",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
