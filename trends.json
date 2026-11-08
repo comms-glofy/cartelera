@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T16:30:12Z",
+  "updated": "2026-11-08T17:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "stade brestois - lyon",
-      "traffic": "200+",
+      "name": "manchester united",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "adrián gonzález charvay",
+      "name": "luna nueva",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "inter - como",
-      "traffic": "2000+",
+      "name": "stade brestois - lyon",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "max verstappen",
-      "traffic": "200+",
+      "name": "adrián gonzález charvay",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "inter vs como",
-      "traffic": "100+",
+      "name": "inter - como",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "atp paris",
-      "traffic": "200+",
+      "name": "carrera f1",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "manchester united - aston villa",
-      "traffic": "5000+",
+      "name": "motogp",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "u. católica - deportes limache",
+      "name": "real sociedad",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ajax",
+      "name": "max verstappen",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "moto gp",
-      "traffic": "500+",
+      "name": "atp paris",
+      "traffic": "200+",
       "rank": 10
     }
   ]
