@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T04:30:16Z",
+  "updated": "2026-11-08T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "waldo cortés-acosta",
+      "name": "microsoft",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "microsoft",
+      "name": "waldo cortés-acosta",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "loto plus resultados",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
       "name": "johnny walker",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "pumas - américa",
       "traffic": "500+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "tatiana suarez",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "trail blazers - spurs",
-      "traffic": "500+",
-      "rank": 7
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "suns - rockets",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "película",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "julieta ortega",
       "traffic": "100+",
+      "rank": 9
+    },
+    {
+      "name": "cienciano - sport huancayo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
