@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T09:00:15Z",
+  "updated": "2026-11-08T09:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "herencia",
-      "traffic": "100+",
+      "name": "asignación universal por hijo",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "el niño",
-      "traffic": "1000+",
+      "name": "herencia",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "el niño",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "richard lloyd",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "microsoft",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "waldo cortés-acosta",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "liga mx",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "johnny walker",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pumas - américa",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "tatiana suarez",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "trail blazers - spurs",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
