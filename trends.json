@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T05:00:16Z",
+  "updated": "2026-11-08T05:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "johnny walker",
-      "traffic": "200+",
+      "name": "sorteo loto plus",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "pumas - américa",
-      "traffic": "500+",
+      "name": "johnny walker",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "pumas - américa",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "tatiana suarez",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "trail blazers - spurs",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "suns - rockets",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "película",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "julieta ortega",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "cienciano - sport huancayo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
