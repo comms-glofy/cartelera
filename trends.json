@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T13:00:15Z",
+  "updated": "2026-11-08T13:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elche c. f. - real betis",
+      "name": "sunderland afc - chelsea",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "heerenveen - feyenoord",
-      "traffic": "100+",
+      "name": "crystal palace - liverpool",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "aterrizaje de emergencia",
-      "traffic": "100+",
+      "name": "pan am",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ley",
+      "name": "dia del empleado municipal",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "maquinaria agrícola",
-      "traffic": "100+",
+      "name": "elche c. f. - real betis",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "caiman",
+      "name": "heerenveen - feyenoord",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "miniserie",
-      "traffic": "200+",
+      "name": "gp de brasil 2026",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "la nueva provincia",
+      "name": "aterrizaje de emergencia",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "napoli - lazio",
-      "traffic": "1000+",
+      "name": "ley",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "copa libertadores 2027",
-      "traffic": "500+",
+      "name": "maquinaria agrícola",
+      "traffic": "100+",
       "rank": 10
     }
   ]
