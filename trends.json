@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T04:13:34Z",
+  "updated": "2026-11-08T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liga mx",
-      "traffic": "500+",
+      "name": "waldo cortés-acosta",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "johnny walker",
+      "name": "microsoft",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pumas - américa",
-      "traffic": "500+",
+      "name": "loto plus resultados",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "tatiana suarez",
+      "name": "johnny walker",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "trail blazers - spurs",
+      "name": "pumas - américa",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "suns - rockets",
+      "name": "tatiana suarez",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "película",
+      "name": "trail blazers - spurs",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "julieta ortega",
-      "traffic": "100+",
+      "name": "suns - rockets",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cienciano - sport huancayo",
-      "traffic": "200+",
+      "name": "película",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "thunder - wizards",
-      "traffic": "200+",
+      "name": "julieta ortega",
+      "traffic": "100+",
       "rank": 10
     }
   ]
