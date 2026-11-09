@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-09T18:30:20Z",
+  "updated": "2026-11-09T18:59:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bruce willis",
+      "name": "tasa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "james gunn",
-      "traffic": "500+",
+      "name": "piloto de motocross",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "entradas boca vs banfield",
+      "name": "bruce willis",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "oscar piastri",
-      "traffic": "200+",
+      "name": "james gunn",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "oscar piastri",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "tomás martín etcheverry",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "cuando sale gta 6",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "reese witherspoon",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "martes 10 de noviembre es feriado",
-      "traffic": "1000+",
-      "rank": 8
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "dakar",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "diego santilli",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
