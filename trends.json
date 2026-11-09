@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T03:00:14Z",
+  "updated": "2026-11-09T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,12 +9,12 @@
       "rank": 1
     },
     {
-      "name": "posiciones de deportes tolima contra millonarios fc",
+      "name": "marta fort",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "marta fort",
+      "name": "shakira",
       "traffic": "500+",
       "rank": 3
     },
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
-      "name": "shakira",
-      "traffic": "200+",
+      "name": "simeone",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "simeone",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
       "name": "universitario",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "zendaya",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "worlds",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "charles leclerc",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "t1",
       "traffic": "500+",
       "rank": 10
     }
