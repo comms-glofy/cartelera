@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-09T18:00:17Z",
+  "updated": "2026-11-09T18:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "james gunn",
+      "name": "bruce willis",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "oscar piastri",
-      "traffic": "200+",
+      "name": "james gunn",
+      "traffic": "500+",
       "rank": 2
     },
     {
       "name": "entradas boca vs banfield",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tomás martín etcheverry",
-      "traffic": "500+",
+      "name": "oscar piastri",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "tomás martín etcheverry",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "cuando sale gta 6",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "reese witherspoon",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "dakar",
-      "traffic": "200+",
       "rank": 7
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "lujan",
-      "traffic": "2000+",
+      "name": "dakar",
+      "traffic": "200+",
       "rank": 9
     },
     {
       "name": "diego santilli",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
