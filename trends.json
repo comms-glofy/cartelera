@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-09T15:00:15Z",
+  "updated": "2026-11-09T15:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "soledad pastorutti",
+      "name": "russell brand",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "miguel merentiel",
-      "traffic": "200+",
+      "name": "evangelio de hoy",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "san miguel de tucumán",
-      "traffic": "200+",
+      "name": "fernando bravo",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "a que hora es la misa del papa en lujan",
+      "name": "soledad pastorutti",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "entrenador",
-      "traffic": "500+",
+      "name": "miguel merentiel",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ascensor",
+      "name": "san miguel de tucumán",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "13 de noviembre",
+      "name": "a que hora es la misa del papa en lujan",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "papa movil",
+      "name": "entrenador",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "hoy es feriado en argentina",
-      "traffic": "1000+",
+      "name": "ascensor",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tectónica",
-      "traffic": "100+",
+      "name": "13 de noviembre",
+      "traffic": "200+",
       "rank": 10
     }
   ]
