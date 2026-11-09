@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-09T21:30:14Z",
+  "updated": "2026-11-09T22:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diego milito",
+      "name": "veterano",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fifpro",
+      "name": "diego milito",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "fifpro",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "adam bareiro",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "hospitalización",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "palacio san martin buenos aires",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "sabalenka",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "aryna sabalenka",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "enrique shaw",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "papa leon xiv don orione",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "glucemia",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "las palmas",
-      "traffic": "200+",
+      "name": "papa leon xiv don orione",
+      "traffic": "500+",
       "rank": 10
     }
   ]
