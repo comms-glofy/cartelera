@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-09T12:00:16Z",
+  "updated": "2026-11-09T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "ascensor",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "hoy es feriado?",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "papa movil",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "música",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "guillermo barros schelotto",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "colectivos de buenos aires",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "periodista",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "san juan",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "asteroide",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "riesgo país",
+      "name": "san juan",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "river vs lanús",
-      "traffic": "2000+",
+      "name": "asteroide",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "la gaceta",
-      "traffic": "100+",
+      "name": "riesgo país",
+      "traffic": "200+",
       "rank": 10
     }
   ]
