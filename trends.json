@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-09T20:30:14Z",
+  "updated": "2026-11-09T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "enrique shaw",
-      "traffic": "200+",
+      "name": "hospitalización",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "glucemia",
+      "name": "sabalenka",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "las palmas",
-      "traffic": "100+",
+      "name": "aryna sabalenka",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "max dahlin",
-      "traffic": "100+",
+      "name": "enrique shaw",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "10 de noviembre",
-      "traffic": "2000+",
+      "name": "glucemia",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "las palmas",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "max dahlin",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "10 de noviembre",
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "tasa",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "12 de noviembre",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "piloto de motocross",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "mark webber",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "bruce willis",
+      "name": "12 de noviembre",
       "traffic": "500+",
       "rank": 10
     }
