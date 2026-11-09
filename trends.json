@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-09T14:00:15Z",
+  "updated": "2026-11-09T14:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "soledad pastorutti",
+      "name": "abel pintos le canta al papa",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "miguel merentiel",
+      "name": "soledad pastorutti",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "miguel merentiel",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "atp estocolmo",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "entrenador",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ascensor",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "13 de noviembre",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "hoy es feriado?",
-      "traffic": "1000+",
       "rank": 7
     },
     {
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "la nacion en vivo",
-      "traffic": "200+",
+      "name": "hoy es feriado en argentina",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "9 de noviembre",
+      "name": "la nacion en vivo",
       "traffic": "200+",
       "rank": 10
     }
