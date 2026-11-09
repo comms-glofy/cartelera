@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-09T09:00:15Z",
+  "updated": "2026-11-09T09:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canillita",
-      "traffic": "100+",
+      "name": "monumento de los españoles",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "epic games",
+      "name": "cristiano ronaldo",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clippers - pelicans",
+      "name": "todo noticias",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "gta 6",
-      "traffic": "200+",
+      "name": "canillita",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "lotería de santa fe",
-      "traffic": "1000+",
+      "name": "epic games",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "clippers - pelicans",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "gta 6",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "lotería de santa fe",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "marta fort",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "kings - heat",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "shakira",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "simeone",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "león - guadalajara",
+      "name": "kings - heat",
       "traffic": "500+",
       "rank": 10
     }
