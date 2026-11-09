@@ -1,46 +1,46 @@
 {
-  "updated": "2026-11-09T00:00:16Z",
+  "updated": "2026-11-09T00:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "michael landon",
-      "traffic": "200+",
+      "name": "jessica pegula",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "juan cortese",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "michael landon",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "stuart barlow",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "tolima - millonarios",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "godzilla minus zero",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "bombero",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "carmen barbieri",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "don orione",
-      "traffic": "200+",
+      "name": "bombero",
+      "traffic": "5000+",
       "rank": 7
     },
     {
-      "name": "nvidia",
-      "traffic": "500+",
+      "name": "carmen barbieri",
+      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,7 +49,7 @@
       "rank": 9
     },
     {
-      "name": "monja",
+      "name": "nvidia",
       "traffic": "500+",
       "rank": 10
     }
