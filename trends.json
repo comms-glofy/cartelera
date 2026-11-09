@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-09T10:00:15Z",
+  "updated": "2026-11-09T10:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "river vs lanús",
-      "traffic": "100+",
+      "name": "cotización dólar blue",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "todo noticias",
+      "name": "river vs lanús",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cristiano ronaldo",
-      "traffic": "200+",
+      "name": "actor",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "canillita",
+      "name": "cristiano ronaldo",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "epic games",
-      "traffic": "100+",
+      "name": "construcción",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "clippers - pelicans",
-      "traffic": "100+",
+      "name": "quini",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "gta 6",
+      "name": "canillita",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lotería de santa fe",
-      "traffic": "2000+",
+      "name": "epic games",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "marta fort",
-      "traffic": "500+",
+      "name": "clippers - pelicans",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "kings - heat",
-      "traffic": "500+",
+      "name": "gta 6",
+      "traffic": "200+",
       "rank": 10
     }
   ]
