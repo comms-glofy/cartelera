@@ -1,20 +1,20 @@
 {
-  "updated": "2026-11-09T11:00:16Z",
+  "updated": "2026-11-09T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "colectivos de buenos aires",
-      "traffic": "100+",
+      "name": "feriado",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "porque es feriado el 9 de noviembre",
+      "name": "guillermo barros schelotto",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "periodista",
+      "name": "colectivos de buenos aires",
       "traffic": "100+",
       "rank": 3
     },
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "asteroide",
+      "name": "periodista",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "riesgo país",
+      "name": "asteroide",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "cotización dólar blue",
-      "traffic": "200+",
+      "name": "riesgo país",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "river vs lanús",
+      "name": "cotización dólar blue",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "la gaceta",
-      "traffic": "100+",
+      "name": "river vs lanús",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "actor",
-      "traffic": "200+",
+      "name": "la gaceta",
+      "traffic": "100+",
       "rank": 10
     }
   ]
