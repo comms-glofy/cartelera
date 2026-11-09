@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-09T15:30:14Z",
+  "updated": "2026-11-09T16:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "russell brand",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "de dónde es el papa",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "evangelio de hoy",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "fernando bravo",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "abel pintos le canta al papa",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "soledad pastorutti",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "miguel merentiel",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "san miguel de tucumán",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "a que hora es la misa del papa en lujan",
+      "name": "miguel merentiel",
       "traffic": "200+",
       "rank": 7
     },
