@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-08T23:30:16Z",
+  "updated": "2026-11-09T00:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tolima - millonarios",
+      "name": "michael landon",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "stuart barlow",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "tolima - millonarios",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "godzilla minus zero",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "bombero",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "carmen barbieri",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "coco gauff",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "nvidia",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "monja",
+      "name": "don orione",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pistons - lakers",
+      "name": "nvidia",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "ejército de chile",
-      "traffic": "500+",
+      "name": "coco gauff",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "vasco da gama vs. palmeiras",
-      "traffic": "200+",
+      "name": "monja",
+      "traffic": "500+",
       "rank": 10
     }
   ]
