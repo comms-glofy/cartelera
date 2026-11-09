@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-09T23:00:15Z",
+  "updated": "2026-11-09T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "argentina vs",
+      "name": "emanuel ortega",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "leonor de borbón",
-      "traffic": "100+",
+      "name": "ambulancia",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "s&p 500",
+      "name": "argentina vs",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "seleccion argentina",
-      "traffic": "2000+",
+      "name": "leonor de borbón",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "s&p 500",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "estadio monumental",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "veterano",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "diego milito",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "fifpro",
-      "traffic": "200+",
+      "name": "diego milito",
+      "traffic": "500+",
       "rank": 8
+    },
+    {
+      "name": "fifpro",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "adam bareiro",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "hospitalización",
-      "traffic": "500+",
       "rank": 10
     }
   ]
