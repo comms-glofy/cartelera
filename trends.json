@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-09T01:30:15Z",
+  "updated": "2026-11-09T02:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pozo",
-      "traffic": "200+",
+      "name": "zendaya",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "mavericks - nets",
+      "name": "worlds",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "t1 vs blg",
-      "traffic": "100+",
+      "name": "t1",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "trabajo",
+      "name": "charles leclerc",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bucks - celtics",
+      "name": "pozo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "river vs lanus",
-      "traffic": "200+",
+      "name": "mavericks - nets",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "trabajo",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "bucks - celtics",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "salta",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "telekino 2453",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "timberwolves - jazz",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "jessica pegula",
-      "traffic": "100+",
+      "name": "telekino 2453",
+      "traffic": "200+",
       "rank": 10
     }
   ]
