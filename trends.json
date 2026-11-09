@@ -1,31 +1,31 @@
 {
-  "updated": "2026-11-09T14:30:20Z",
+  "updated": "2026-11-09T15:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "abel pintos le canta al papa",
+      "name": "soledad pastorutti",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "soledad pastorutti",
+      "name": "miguel merentiel",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "miguel merentiel",
+      "name": "san miguel de tucumán",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "atp estocolmo",
-      "traffic": "1000+",
+      "name": "a que hora es la misa del papa en lujan",
+      "traffic": "200+",
       "rank": 4
     },
     {
       "name": "entrenador",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 5
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "la nacion en vivo",
-      "traffic": "200+",
+      "name": "tectónica",
+      "traffic": "100+",
       "rank": 10
     }
   ]
