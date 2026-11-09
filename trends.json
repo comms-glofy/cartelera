@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-09T03:30:15Z",
+  "updated": "2026-11-09T04:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kings - heat",
-      "traffic": "100+",
+      "name": "lotería de santa fe",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "kings - heat",
+      "traffic": "200+",
+      "rank": 2
     },
     {
       "name": "marta fort",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "shakira",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "león - guadalajara",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "simeone",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "universitario",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "zendaya",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "worlds",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "charles leclerc",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "t1",
+      "name": "charles leclerc",
       "traffic": "500+",
       "rank": 10
     }
