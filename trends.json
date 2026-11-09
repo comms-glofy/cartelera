@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-09T21:00:17Z",
+  "updated": "2026-11-09T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hospitalización",
+      "name": "diego milito",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "sabalenka",
+      "name": "fifpro",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "aryna sabalenka",
-      "traffic": "500+",
+      "name": "adam bareiro",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "hospitalización",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "sabalenka",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "aryna sabalenka",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "enrique shaw",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "name": "papa leon xiv don orione",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "glucemia",
       "traffic": "200+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "las palmas",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "max dahlin",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "10 de noviembre",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "tasa",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "12 de noviembre",
-      "traffic": "500+",
       "rank": 10
     }
   ]
