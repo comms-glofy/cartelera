@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-09T17:30:14Z",
+  "updated": "2026-11-09T18:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tomás martín etcheverry",
+      "name": "james gunn",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cuando sale gta 6",
-      "traffic": "100+",
+      "name": "oscar piastri",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "reese witherspoon",
+      "name": "entradas boca vs banfield",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "tomás martín etcheverry",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "cuando sale gta 6",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "reese witherspoon",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "dakar",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "martes 10 de noviembre es feriado",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "palacio san martin",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "diego santilli",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "catamarca",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "russell brand",
+      "name": "lujan",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "evangelio de hoy",
-      "traffic": "100+",
+      "name": "diego santilli",
+      "traffic": "500+",
       "rank": 10
     }
   ]
