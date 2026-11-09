@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-09T12:30:15Z",
+  "updated": "2026-11-09T13:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ascensor",
-      "traffic": "100+",
+      "name": "entrenador",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "hoy es feriado?",
-      "traffic": "500+",
+      "name": "ascensor",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "hoy es feriado?",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "papa movil",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "la nacion en vivo",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "9 de noviembre",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "tectónica",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "música",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "guillermo barros schelotto",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "colectivos de buenos aires",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "periodista",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "san juan",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "asteroide",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "riesgo país",
+      "name": "colectivos de buenos aires",
       "traffic": "200+",
       "rank": 10
     }
