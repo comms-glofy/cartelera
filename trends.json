@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-09T06:00:14Z",
+  "updated": "2026-11-09T06:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "epic games",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "clippers - pelicans",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "gta 6",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "lotería de santa fe",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "kings - heat",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "marta fort",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "shakira",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "simeone",
-      "traffic": "1000+",
       "rank": 7
     },
     {
