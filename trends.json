@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-09T20:00:18Z",
+  "updated": "2026-11-09T20:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "glucemia",
-      "traffic": "100+",
+      "name": "enrique shaw",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "max dahlin",
+      "name": "glucemia",
       "traffic": "100+",
       "rank": 2
     },
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
+      "name": "max dahlin",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "10 de noviembre",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "tasa",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "12 de noviembre",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "piloto de motocross",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "mark webber",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "bruce willis",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "james gunn",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
