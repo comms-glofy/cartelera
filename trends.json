@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-09T19:00:17Z",
+  "updated": "2026-11-09T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tasa",
-      "traffic": "200+",
+      "name": "10 de noviembre",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "piloto de motocross",
-      "traffic": "100+",
+      "name": "tasa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bruce willis",
+      "name": "12 de noviembre",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "james gunn",
-      "traffic": "500+",
+      "name": "piloto de motocross",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "oscar piastri",
+      "name": "bruce willis",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "tomás martín etcheverry",
+      "name": "james gunn",
       "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "cuando sale gta 6",
-      "traffic": "100+",
+      "name": "oscar piastri",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "reese witherspoon",
-      "traffic": "100+",
+      "name": "tomás martín etcheverry",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "martes 10 de noviembre es feriado",
-      "traffic": "2000+",
+      "name": "cuando sale gta 6",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "dakar",
+      "name": "reese witherspoon",
       "traffic": "200+",
       "rank": 10
     }
