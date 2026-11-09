@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-09T22:00:17Z",
+  "updated": "2026-11-09T22:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "veterano",
+      "name": "s&p 500",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "diego milito",
-      "traffic": "100+",
+      "name": "seleccion argentina",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "fifpro",
-      "traffic": "200+",
+      "name": "estadio monumental",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "adam bareiro",
+      "name": "veterano",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "hospitalización",
+      "name": "diego milito",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "palacio san martin buenos aires",
-      "traffic": "500+",
+      "name": "fifpro",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sabalenka",
-      "traffic": "1000+",
+      "name": "adam bareiro",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "aryna sabalenka",
-      "traffic": "1000+",
+      "name": "hospitalización",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "enrique shaw",
-      "traffic": "500+",
+      "name": "palacio san martin buenos aires",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "papa leon xiv don orione",
+      "name": "sabalenka",
       "traffic": "500+",
       "rank": 10
     }
