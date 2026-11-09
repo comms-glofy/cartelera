@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T13:00:14Z",
+  "updated": "2026-11-09T13:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,46 +10,46 @@
     },
     {
       "name": "ascensor",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "13 de noviembre",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "hoy es feriado?",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "qué es el cottolengo don orione",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "papa movil",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "la nacion en vivo",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "9 de noviembre",
-      "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "tectónica",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "música",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "guillermo barros schelotto",
+      "name": "música",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "colectivos de buenos aires",
+      "name": "guillermo barros schelotto",
       "traffic": "200+",
       "rank": 10
     }
