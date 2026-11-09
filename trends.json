@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-09T01:05:11Z",
+  "updated": "2026-11-09T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "t1 vs blg",
-      "traffic": "100+",
+      "name": "pozo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bucks - celtics",
-      "traffic": "200+",
+      "name": "mavericks - nets",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "t1 vs blg",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "trabajo",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "bucks - celtics",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "river vs lanus",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "salta",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "telekino 2453",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "timberwolves - jazz",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "jessica pegula",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "juan cortese",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de barcelona sc contra liga de quito",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
