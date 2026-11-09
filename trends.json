@@ -1,45 +1,45 @@
 {
-  "updated": "2026-11-09T11:30:16Z",
+  "updated": "2026-11-09T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "feriado",
-      "traffic": "200+",
+      "name": "hoy es feriado?",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "guillermo barros schelotto",
-      "traffic": "100+",
+      "name": "papa movil",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "colectivos de buenos aires",
-      "traffic": "100+",
+      "name": "guillermo barros schelotto",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "san juan",
-      "traffic": "100+",
+      "name": "colectivos de buenos aires",
+      "traffic": "200+",
       "rank": 4
     },
     {
       "name": "periodista",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "asteroide",
+      "name": "san juan",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "riesgo país",
-      "traffic": "100+",
+      "name": "asteroide",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cotización dólar blue",
+      "name": "riesgo país",
       "traffic": "200+",
       "rank": 8
     },
