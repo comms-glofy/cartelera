@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T09:00:18Z",
+  "updated": "2026-11-10T09:21:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sandra pettovello",
-      "traffic": "200+",
+      "name": "perro",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ramón díaz",
-      "traffic": "100+",
+      "name": "club atlético boca juniors",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "empresario",
-      "traffic": "1000+",
+      "name": "sandra pettovello",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "aguinaldo",
-      "traffic": "500+",
+      "name": "ramón díaz",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "juanita tinelli",
+      "name": "empresario",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "aguinaldo",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "juanita tinelli",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "vórtice polar",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "gta vi",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "getafe club de fútbol",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "warriors - pelicans",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "verano",
-      "traffic": "500+",
+      "name": "getafe club de fútbol",
+      "traffic": "200+",
       "rank": 10
     }
   ]
