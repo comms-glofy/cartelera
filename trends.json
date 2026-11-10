@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T03:00:16Z",
+  "updated": "2026-11-10T03:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "warriors - pelicans",
-      "traffic": "200+",
+      "name": "getafe club de fútbol",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "warriors - pelicans",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "karina mazzocco",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "rocio robles",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "gaston gaudio",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "suns - spurs",
-      "traffic": "500+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "mavericks - pacers",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "florencia torrente",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "rockets - nuggets",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "ciudad",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "pistons - wizards",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "nunciatura apostólica de buenos aires",
-      "traffic": "500+",
       "rank": 10
     }
   ]
