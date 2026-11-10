@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T11:30:14Z",
+  "updated": "2026-11-10T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mendoza",
-      "traffic": "1000+",
+      "name": "noticiasnet",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima san rafael",
+      "name": "feriado bancario",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "club atlético san lorenzo de almagro",
-      "traffic": "100+",
+      "name": "clima mendoza",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "que pasa salta",
+      "name": "clima san rafael",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "puerto madero",
-      "traffic": "200+",
+      "name": "club atlético san lorenzo de almagro",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "tn noticias",
+      "name": "que pasa salta",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
+      "name": "puerto madero",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "punilla",
-      "traffic": "200+",
+      "name": "tiempo de san juan",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "premios martín fierro",
+      "name": "tn noticias",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "el once digital",
-      "traffic": "100+",
+      "name": "punilla",
+      "traffic": "500+",
       "rank": 10
     }
   ]
