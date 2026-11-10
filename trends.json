@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-10T10:30:15Z",
+  "updated": "2026-11-10T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el dia",
+      "name": "premios martín fierro",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "el once",
-      "traffic": "100+",
+      "name": "punilla",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "radio sudamericana",
+      "name": "el once digital",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "quini6",
-      "traffic": "500+",
+      "name": "familia",
+      "traffic": "20000+",
       "rank": 4
     },
     {
-      "name": "clima san luis",
+      "name": "el once",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "clima bahia blanca",
+      "name": "radio sudamericana",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "perro",
-      "traffic": "200+",
+      "name": "el dia",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cronicazo",
+      "name": "joaquín correa",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "club atlético boca juniors",
-      "traffic": "2000+",
+      "name": "quini6",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "enrique angelelli",
+      "name": "clima san luis",
       "traffic": "200+",
       "rank": 10
     }
