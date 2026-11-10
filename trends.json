@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T04:00:15Z",
+  "updated": "2026-11-10T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "karina mazzocco",
+      "name": "verano",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "karina mazzocco",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "rocio robles",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "gaston gaudio",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "suns - spurs",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "mavericks - pacers",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "florencia torrente",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "rockets - nuggets",
-      "traffic": "500+",
       "rank": 10
     }
   ]
