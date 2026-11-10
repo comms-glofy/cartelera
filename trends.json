@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T22:00:15Z",
+  "updated": "2026-11-10T22:27:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "coco gauff",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "murio hector aguer",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
       "name": "murio apolo kidd",
       "traffic": "500+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "valencia cf",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "la capital",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "la brujula 24",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "nunciatura apostólica",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "corriente del niño",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "vigilia de jovenes",
-      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "el litoral",
-      "traffic": "200+",
+      "name": "corriente del niño",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "subasta",
-      "traffic": "200+",
+      "name": "vigilia de jovenes",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "justicia",
-      "traffic": "5000+",
+      "name": "el litoral",
+      "traffic": "500+",
       "rank": 10
     }
   ]
