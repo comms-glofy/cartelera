@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T01:30:14Z",
+  "updated": "2026-11-10T01:56:44Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pistons - wizards",
-      "traffic": "100+",
+      "name": "suns - spurs",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nunciatura apostólica de buenos aires",
-      "traffic": "500+",
+      "name": "mavericks - pacers",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rodrigo de paul",
+      "name": "florencia torrente",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "junior",
+      "name": "rockets - nuggets",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "guillermo simone camiones",
-      "traffic": "1000+",
+      "name": "ciudad",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "marcelo gallardo",
-      "traffic": "500+",
+      "name": "pistons - wizards",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "hornets - cavaliers",
-      "traffic": "200+",
+      "name": "nunciatura apostólica de buenos aires",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "junior - cúcuta",
+      "name": "rodrigo de paul",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "paul mccartney",
-      "traffic": "100+",
+      "name": "junior",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "jensen huang nvidia",
-      "traffic": "1000+",
+      "name": "guillermo simone camiones",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
