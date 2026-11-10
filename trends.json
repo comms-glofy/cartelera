@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T05:00:14Z",
+  "updated": "2026-11-10T05:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "gta vi",
+      "name": "vórtice polar",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "gta vi",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "getafe club de fútbol",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "warriors - pelicans",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "verano",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "karina mazzocco",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "rocio robles",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "gaston gaudio",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "suns - spurs",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "mavericks - pacers",
-      "traffic": "200+",
       "rank": 10
     }
   ]
