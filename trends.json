@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T22:30:14Z",
+  "updated": "2026-11-10T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "coco gauff",
-      "traffic": "100+",
+      "name": "día de la soberanía nacional",
+      "traffic": "1000+",
       "rank": 1
+    },
+    {
+      "name": "portugal",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "coco gauff",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "murio hector aguer",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "murio apolo kidd",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "valencia cf",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "la capital",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "la brujula 24",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "nunciatura apostólica",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "corriente del niño",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "vigilia de jovenes",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "el litoral",
-      "traffic": "500+",
       "rank": 10
     }
   ]
