@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-10T14:00:15Z",
+  "updated": "2026-11-10T14:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tradingview",
-      "traffic": "200+",
+      "name": "valentín fuster",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "tradingview",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "precio",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "atp estocolmo",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "argentina vs uruguay",
-      "traffic": "100+",
       "rank": 4
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "canal 12",
-      "traffic": "200+",
+      "name": "tn",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
