@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T14:30:15Z",
+  "updated": "2026-11-10T15:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "valentín fuster",
-      "traffic": "100+",
+      "name": "ángel correa",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tradingview",
-      "traffic": "500+",
+      "name": "si san juan",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "precio",
-      "traffic": "100+",
+      "name": "valentín fuster",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "atp estocolmo",
+      "name": "precio",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "primera división",
-      "traffic": "5000+",
+      "name": "tradingview",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "juan manuel cerúndolo",
-      "traffic": "500+",
+      "name": "atp estocolmo",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "álex baena",
+      "name": "argentina vs uruguay",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "phil collins",
-      "traffic": "200+",
+      "name": "primera división",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "toukie smith",
-      "traffic": "1000+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "tn",
-      "traffic": "1000+",
+      "name": "álex baena",
+      "traffic": "100+",
       "rank": 10
     }
   ]
