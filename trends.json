@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-10T15:00:18Z",
+  "updated": "2026-11-10T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ángel correa",
+      "name": "dólar hoy",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "si san juan",
+      "name": "ángel correa",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "valentín fuster",
+      "name": "si san juan",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "precio",
+      "name": "valentín fuster",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "precio",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "tradingview",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "atp estocolmo",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "argentina vs uruguay",
-      "traffic": "100+",
       "rank": 7
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "juan manuel cerúndolo",
-      "traffic": "2000+",
+      "traffic": "500+",
       "rank": 9
     },
     {
