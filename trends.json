@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T00:30:17Z",
+  "updated": "2026-11-10T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marcelo gallardo",
-      "traffic": "200+",
+      "name": "nunciatura apostólica de buenos aires",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "hornets - cavaliers",
+      "name": "rodrigo de paul",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "junior - cúcuta",
-      "traffic": "200+",
+      "name": "junior",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "jensen huang nvidia",
-      "traffic": "1000+",
+      "name": "marcelo gallardo",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "hornets - cavaliers",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "junior - cúcuta",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "kevin castaño",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "jensen huang nvidia",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "paul mccartney",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "promedios 2027",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "la voz del interior",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "hawks - lakers",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "emanuel ortega",
-      "traffic": "2000+",
+      "name": "promedios 2027",
+      "traffic": "500+",
       "rank": 10
     }
   ]
