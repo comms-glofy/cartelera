@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T20:00:16Z",
+  "updated": "2026-11-10T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inter de miami",
-      "traffic": "500+",
+      "name": "clima rosario",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "chelsea femenino",
+      "name": "clima parana",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "islas malvinas",
-      "traffic": "200+",
+      "name": "clima santa fe",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "champions femenina",
-      "traffic": "200+",
+      "name": "gustavo alfaro",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "avión cisterna",
-      "traffic": "100+",
+      "name": "inter de miami",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "aumento jubilados",
-      "traffic": "100+",
+      "name": "chelsea femenino",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "karina mazzocco",
+      "name": "islas malvinas",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "natalia pastorutti",
-      "traffic": "100+",
+      "name": "champions femenina",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "monseñor aguer",
-      "traffic": "1000+",
+      "name": "avión cisterna",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "stranger things",
-      "traffic": "500+",
+      "name": "aumento jubilados",
+      "traffic": "100+",
       "rank": 10
     }
   ]
