@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T11:00:16Z",
+  "updated": "2026-11-10T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "premios martín fierro",
-      "traffic": "100+",
+      "name": "clima mendoza",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "punilla",
-      "traffic": "200+",
+      "name": "clima san rafael",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el once digital",
+      "name": "club atlético san lorenzo de almagro",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "familia",
-      "traffic": "20000+",
+      "name": "que pasa salta",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "el once",
+      "name": "puerto madero",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "radio sudamericana",
+      "name": "tn noticias",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "el dia",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "joaquín correa",
-      "traffic": "100+",
+      "name": "punilla",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "quini6",
-      "traffic": "500+",
+      "name": "premios martín fierro",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima san luis",
-      "traffic": "200+",
+      "name": "el once digital",
+      "traffic": "100+",
       "rank": 10
     }
   ]
