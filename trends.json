@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T23:00:16Z",
+  "updated": "2026-11-10T23:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "día de la soberanía nacional",
-      "traffic": "1000+",
+      "name": "enner valencia boca juniors",
+      "traffic": "5000+",
       "rank": 1
+    },
+    {
+      "name": "wall street",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "selección de fútbol sub-20 de argentina",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "liga de naciones",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "día de la soberanía nacional",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "portugal",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "coco gauff",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "murio hector aguer",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "murio apolo kidd",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "valencia cf",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "la capital",
+      "name": "coco gauff",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "la brujula 24",
-      "traffic": "200+",
+      "name": "murio apolo kidd",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "nunciatura apostólica",
-      "traffic": "200+",
+      "name": "valencia cf",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "corriente del niño",
-      "traffic": "1000+",
+      "name": "la capital",
+      "traffic": "500+",
       "rank": 10
     }
   ]
