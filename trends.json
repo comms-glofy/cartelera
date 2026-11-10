@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T10:00:15Z",
+  "updated": "2026-11-10T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "quini6",
-      "traffic": "500+",
+      "name": "el dia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima san luis",
+      "name": "el once",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima bahia blanca",
+      "name": "radio sudamericana",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "perro",
-      "traffic": "200+",
+      "name": "quini6",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "club atlético boca juniors",
-      "traffic": "1000+",
+      "name": "clima san luis",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "misa",
-      "traffic": "20000+",
+      "name": "clima bahia blanca",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "enrique angelelli",
-      "traffic": "100+",
+      "name": "perro",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sandra pettovello",
-      "traffic": "500+",
+      "name": "cronicazo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "ramón díaz",
-      "traffic": "200+",
+      "name": "club atlético boca juniors",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "empresario",
-      "traffic": "1000+",
+      "name": "enrique angelelli",
+      "traffic": "200+",
       "rank": 10
     }
   ]
