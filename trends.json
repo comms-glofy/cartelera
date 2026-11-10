@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-10T02:30:14Z",
+  "updated": "2026-11-10T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "karina mazzocco",
+      "name": "warriors - pelicans",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gaston gaudio",
+      "name": "karina mazzocco",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "gaston gaudio",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "suns - spurs",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "mavericks - pacers",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "florencia torrente",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "rockets - nuggets",
-      "traffic": "200+",
+      "name": "florencia torrente",
+      "traffic": "500+",
       "rank": 6
+    },
+    {
+      "name": "rockets - nuggets",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "ciudad",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "pistons - wizards",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "nunciatura apostólica de buenos aires",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "rodrigo de paul",
+      "name": "nunciatura apostólica de buenos aires",
       "traffic": "500+",
       "rank": 10
     }
