@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T06:30:12Z",
+  "updated": "2026-11-10T07:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juanita tinelli",
+      "name": "aguinaldo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "vórtice polar",
+      "name": "gta",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gta vi",
+      "name": "juanita tinelli",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "vórtice polar",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "getafe club de fútbol",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "warriors - pelicans",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "verano",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "karina mazzocco",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "rocio robles",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "gaston gaudio",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "suns - spurs",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
