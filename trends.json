@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T00:00:15Z",
+  "updated": "2026-11-10T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "promedios 2027",
+      "name": "marcelo gallardo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "la voz del interior",
+      "name": "hornets - cavaliers",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "hawks - lakers",
+      "name": "junior - cúcuta",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "emanuel ortega",
+      "name": "jensen huang nvidia",
       "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "ambulancia",
-      "traffic": "500+",
+      "name": "kevin castaño",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "argentina vs",
-      "traffic": "500+",
+      "name": "paul mccartney",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "leonor de borbón",
+      "name": "promedios 2027",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "s&p 500",
+      "name": "la voz del interior",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "estadio monumental",
-      "traffic": "200+",
+      "name": "hawks - lakers",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "veterano",
-      "traffic": "200+",
+      "name": "emanuel ortega",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
