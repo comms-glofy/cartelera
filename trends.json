@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T19:00:14Z",
+  "updated": "2026-11-10T19:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "islas malvinas",
-      "traffic": "200+",
+      "name": "chelsea femenino",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "champions femenina",
-      "traffic": "100+",
+      "name": "real madrid femenino",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "islas malvinas",
+      "traffic": "200+",
+      "rank": 3
     },
     {
       "name": "avión cisterna",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "aumento jubilados",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "karina mazzocco",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "natalia pastorutti",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "monseñor aguer",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "stranger things",
-      "traffic": "200+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "lujan",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "vigilia de los jovenes con el papa",
-      "traffic": "200+",
       "rank": 10
     }
   ]
