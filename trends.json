@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T09:30:16Z",
+  "updated": "2026-11-10T10:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "perro",
-      "traffic": "100+",
+      "name": "quini6",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "club atlético boca juniors",
-      "traffic": "500+",
+      "name": "clima san luis",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sandra pettovello",
-      "traffic": "200+",
+      "name": "clima bahia blanca",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ramón díaz",
+      "name": "perro",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "empresario",
+      "name": "club atlético boca juniors",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "aguinaldo",
-      "traffic": "1000+",
+      "name": "misa",
+      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "juanita tinelli",
-      "traffic": "500+",
+      "name": "enrique angelelli",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "vórtice polar",
-      "traffic": "200+",
+      "name": "sandra pettovello",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "gta vi",
+      "name": "ramón díaz",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "getafe club de fútbol",
-      "traffic": "200+",
+      "name": "empresario",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
