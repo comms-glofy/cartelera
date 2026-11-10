@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T18:00:15Z",
+  "updated": "2026-11-10T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "karina mazzocco",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "natalia pastorutti",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "monseñor aguer",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "stranger things",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "lujan",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "vigilia de los jovenes con el papa",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "sindicato",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "dólar blue",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "sofia gonet",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "ángel correa",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "si san juan",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "valentín fuster",
-      "traffic": "500+",
       "rank": 10
     }
   ]
