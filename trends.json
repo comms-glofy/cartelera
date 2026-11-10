@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T12:00:15Z",
+  "updated": "2026-11-10T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "noticiasnet",
+      "name": "phil collins",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "feriado bancario",
-      "traffic": "100+",
+      "name": "toukie smith",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima mendoza",
-      "traffic": "1000+",
+      "name": "canal 12",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima san rafael",
-      "traffic": "100+",
+      "name": "mdz",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "club atlético san lorenzo de almagro",
+      "name": "noticiasnet",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "que pasa salta",
-      "traffic": "100+",
+      "name": "feriado bancario",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "puerto madero",
-      "traffic": "500+",
+      "name": "clima mendoza",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
+      "name": "clima san rafael",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tn noticias",
+      "name": "club atlético san lorenzo de almagro",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "punilla",
-      "traffic": "500+",
+      "name": "que pasa salta",
+      "traffic": "100+",
       "rank": 10
     }
   ]
