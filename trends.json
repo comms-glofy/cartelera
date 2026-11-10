@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-10T17:00:17Z",
+  "updated": "2026-11-10T17:11:29Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "monseñor aguer",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "stranger things",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "lujan",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "vigilia de los jovenes con el papa",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "sindicato",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "dólar blue",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "sofia gonet",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "ángel correa",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "si san juan",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "valentín fuster",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "misa del papa",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "precio",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "tradingview",
+      "name": "valentín fuster",
       "traffic": "500+",
       "rank": 10
     }
