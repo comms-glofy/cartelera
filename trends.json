@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T18:30:14Z",
+  "updated": "2026-11-10T19:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "karina mazzocco",
+      "name": "islas malvinas",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "natalia pastorutti",
+      "name": "champions femenina",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "avión cisterna",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "aumento jubilados",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "karina mazzocco",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "natalia pastorutti",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "monseñor aguer",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "stranger things",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "lujan",
       "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "vigilia de los jovenes con el papa",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "sindicato",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "dólar blue",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "sofia gonet",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "ángel correa",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
