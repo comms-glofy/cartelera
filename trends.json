@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T20:30:16Z",
+  "updated": "2026-11-10T21:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima rosario",
+      "name": "los palmeras",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "clima parana",
-      "traffic": "200+",
+      "name": "justicia",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "clima santa fe",
-      "traffic": "500+",
+      "name": "monseñor hector aguer",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "gustavo alfaro",
-      "traffic": "100+",
+      "name": "aire de santa fe",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "inter de miami",
-      "traffic": "500+",
+      "name": "jubilación anticipada",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "chelsea femenino",
+      "name": "clima parana",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "islas malvinas",
-      "traffic": "500+",
+      "name": "clima rosario",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "champions femenina",
+      "name": "clima santa fe",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "avión cisterna",
+      "name": "gustavo alfaro",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "aumento jubilados",
-      "traffic": "100+",
+      "name": "inter de miami",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
