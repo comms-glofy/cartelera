@@ -1,46 +1,46 @@
 {
-  "updated": "2026-11-10T01:00:15Z",
+  "updated": "2026-11-10T01:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "pistons - wizards",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "nunciatura apostólica de buenos aires",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "rodrigo de paul",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "junior",
-      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "marcelo gallardo",
+      "name": "junior",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "hornets - cavaliers",
-      "traffic": "200+",
+      "name": "guillermo simone camiones",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "junior - cúcuta",
-      "traffic": "200+",
+      "name": "marcelo gallardo",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "kevin castaño",
-      "traffic": "100+",
+      "name": "hornets - cavaliers",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jensen huang nvidia",
-      "traffic": "1000+",
+      "name": "junior - cúcuta",
+      "traffic": "500+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "promedios 2027",
-      "traffic": "500+",
+      "name": "jensen huang nvidia",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
