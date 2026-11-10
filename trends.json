@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-10T16:30:14Z",
+  "updated": "2026-11-10T17:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sofia gonet",
+      "name": "lujan",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ángel correa",
-      "traffic": "500+",
+      "name": "vigilia de los jovenes con el papa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "si san juan",
+      "name": "sindicato",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "sofia gonet",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "ángel correa",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "si san juan",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "valentín fuster",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "name": "misa del papa",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "precio",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "tradingview",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "primera división",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "juan manuel cerúndolo",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "álex baena",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "phil collins",
+      "name": "tradingview",
       "traffic": "500+",
       "rank": 10
     }
