@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-10T19:30:13Z",
+  "updated": "2026-11-10T20:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chelsea femenino",
-      "traffic": "100+",
+      "name": "inter de miami",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "real madrid femenino",
+      "name": "chelsea femenino",
       "traffic": "200+",
       "rank": 2
     },
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "avión cisterna",
-      "traffic": "100+",
+      "name": "champions femenina",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "aumento jubilados",
+      "name": "avión cisterna",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "karina mazzocco",
-      "traffic": "200+",
+      "name": "aumento jubilados",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "karina mazzocco",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "natalia pastorutti",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "monseñor aguer",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "stranger things",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "lujan",
-      "traffic": "100+",
       "rank": 10
     }
   ]
