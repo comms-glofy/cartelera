@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-10T07:30:17Z",
+  "updated": "2026-11-10T08:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aguinaldo",
-      "traffic": "200+",
+      "name": "empresario",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "gta",
+      "name": "aguinaldo",
       "traffic": "200+",
       "rank": 2
     },
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "gta vi",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "getafe club de fútbol",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "warriors - pelicans",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "verano",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "karina mazzocco",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "rocio robles",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "gaston gaudio",
-      "traffic": "200+",
       "rank": 10
     }
   ]
