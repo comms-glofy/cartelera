@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-10T12:30:14Z",
+  "updated": "2026-11-10T13:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "phil collins",
-      "traffic": "100+",
+      "name": "primera división",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "toukie smith",
-      "traffic": "200+",
+      "name": "juan manuel cerúndolo",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "canal 12",
+      "name": "álex baena",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mdz",
-      "traffic": "200+",
+      "name": "phil collins",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "noticiasnet",
-      "traffic": "100+",
+      "name": "toukie smith",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "feriado bancario",
+      "name": "canal 12",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima mendoza",
-      "traffic": "2000+",
+      "name": "cadena 3 en vivo",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "clima san rafael",
+      "name": "mdz",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "club atlético san lorenzo de almagro",
+      "name": "noticiasnet",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "que pasa salta",
-      "traffic": "100+",
+      "name": "feriado bancario",
+      "traffic": "200+",
       "rank": 10
     }
   ]
