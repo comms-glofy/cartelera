@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T01:00:12Z",
+  "updated": "2026-11-11T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "76ers - celtics",
-      "traffic": "200+",
+      "name": "robert prevost",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "nahuel",
-      "traffic": "200+",
+      "name": "manila",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "knicks - bucks",
+      "name": "glucemia",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "oscar piastri",
-      "traffic": "1000+",
+      "name": "rob run",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "a que hora es la misa del papa en lujan",
+      "name": "76ers - celtics",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "clima concordia",
+      "name": "mar del plata",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "edad del papa leon",
+      "name": "nahuel",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "américa de cali",
-      "traffic": "200+",
+      "name": "knicks - bucks",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "julián santero",
-      "traffic": "200+",
+      "name": "oscar piastri",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "garcia cuerva",
-      "traffic": "500+",
+      "name": "a que hora es la misa del papa en lujan",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
