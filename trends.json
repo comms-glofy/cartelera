@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T15:30:15Z",
+  "updated": "2026-11-11T16:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dólar",
-      "traffic": "5000+",
+      "name": "inpres san juan",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "taylor fritz",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "dólar",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "edenor",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "11 de noviembre que se celebra",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "leclerc",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "carlos babington",
-      "traffic": "5000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "¡ahora caigo!",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "lautaro martínez",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "epstein",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "canal 13 en vivo",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "galicia",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
