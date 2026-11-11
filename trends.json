@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T16:30:17Z",
+  "updated": "2026-11-11T17:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peru",
+      "name": "reino unido",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "inpres san juan",
-      "traffic": "200+",
+      "name": "chiclayo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "taylor fritz",
+      "name": "peru",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "dólar",
-      "traffic": "1000+",
+      "name": "inpres san juan",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "edenor",
+      "name": "taylor fritz",
       "traffic": "500+",
       "rank": 5
     },
     {
+      "name": "dólar",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "edenor",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
       "name": "11 de noviembre que se celebra",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "leclerc",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "carlos babington",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "¡ahora caigo!",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "lautaro martínez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
