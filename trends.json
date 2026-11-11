@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T19:30:12Z",
+  "updated": "2026-11-11T20:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "camión",
-      "traffic": "200+",
+      "name": "conmebol",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "abuelo",
+      "name": "homeless",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nvidia ceo jensen huang",
+      "name": "gaudio",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "usman nurmagomedov",
+      "name": "camión",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "casper ruud",
+      "name": "abuelo",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "carlos ischia",
-      "traffic": "500+",
+      "name": "nvidia ceo jensen huang",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "a que hora llega el papa a peru",
-      "traffic": "20000+",
+      "name": "usman nurmagomedov",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "ricardo la volpe",
+      "name": "casper ruud",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "página 12",
-      "traffic": "5000+",
+      "name": "carlos ischia",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "reino unido",
-      "traffic": "1000+",
+      "name": "a que hora llega el papa a peru",
+      "traffic": "500+",
       "rank": 10
     }
   ]
