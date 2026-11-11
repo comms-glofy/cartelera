@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T20:00:16Z",
+  "updated": "2026-11-11T21:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "conmebol",
-      "traffic": "500+",
+      "name": "viruela símica",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "homeless",
+      "name": "fábrica",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gaudio",
-      "traffic": "100+",
+      "name": "vacaciones",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "camión",
+      "name": "noticia",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "abuelo",
-      "traffic": "200+",
+      "name": "conmebol",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "nvidia ceo jensen huang",
+      "name": "gaudio",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "usman nurmagomedov",
-      "traffic": "500+",
+      "name": "homeless",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "casper ruud",
-      "traffic": "200+",
+      "name": "camión",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "carlos ischia",
+      "name": "abuelo",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "a que hora llega el papa a peru",
-      "traffic": "500+",
+      "name": "nvidia ceo jensen huang",
+      "traffic": "200+",
       "rank": 10
     }
   ]
