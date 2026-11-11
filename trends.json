@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T02:30:14Z",
+  "updated": "2026-11-11T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jazz - heat",
-      "traffic": "200+",
+      "name": "suns - clippers",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "once caldas",
-      "traffic": "200+",
+      "name": "paul george",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "santiago abascal",
+      "name": "humedad",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "supercopa argentina",
-      "traffic": "100+",
+      "name": "gol",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "rocio robles",
+      "name": "atlético nacional",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "betular",
+      "name": "jazz - heat",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "copa colombia",
+      "name": "santiago abascal",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "felipe fort",
+      "name": "supercopa argentina",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "sabrina rojas",
-      "traffic": "100+",
+      "name": "internacional de bogotá - américa",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "arresto domiciliario",
-      "traffic": "100+",
+      "name": "rocio robles",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
