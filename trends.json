@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T14:00:17Z",
+  "updated": "2026-11-11T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "carlos babington",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "¡ahora caigo!",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "lautaro martínez",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "epstein",
       "traffic": "100+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "canal 13 en vivo",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "leonardo bertulazzi",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "galicia",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "c5n",
       "traffic": "500+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "a24",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "irán",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "la nacion mas en vivo",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "stacy keach",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "documento nacional de identidad",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "11 de noviembre",
-      "traffic": "1000+",
+      "name": "irán",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
