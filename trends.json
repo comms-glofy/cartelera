@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-11T12:00:14Z",
+  "updated": "2026-11-11T12:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "irán",
-      "traffic": "100+",
+      "name": "c5n",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "la nacion mas en vivo",
-      "traffic": "2000+",
+      "name": "irán",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
-      "name": "contexto",
-      "traffic": "200+",
+      "name": "lmneuquen",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "tiempo de san juan",
-      "traffic": "100+",
+      "name": "tn",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "lmneuquen",
-      "traffic": "100+",
+      "name": "valeria mazza",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tn",
+      "name": "hoy hay bancos",
       "traffic": "1000+",
       "rank": 10
     }
