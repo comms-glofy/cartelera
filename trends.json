@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-11T17:39:43Z",
+  "updated": "2026-11-11T18:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "vaticano",
+      "name": "carlos ischia",
       "traffic": "200+",
       "rank": 1
     },
     {
       "name": "a que hora llega el papa a peru",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "carlos ischia",
-      "traffic": "100+",
+      "name": "vaticano",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
-      "name": "peru",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
       "name": "inpres san juan",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "pasaporte",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "taylor fritz",
+      "traffic": "500+",
       "rank": 10
     }
   ]
