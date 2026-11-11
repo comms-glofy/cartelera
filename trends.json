@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T16:00:17Z",
+  "updated": "2026-11-11T16:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inpres san juan",
+      "name": "peru",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "taylor fritz",
+      "name": "inpres san juan",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "taylor fritz",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "dólar",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "edenor",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "11 de noviembre que se celebra",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "leclerc",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "carlos babington",
-      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "¡ahora caigo!",
-      "traffic": "500+",
+      "name": "carlos babington",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "lautaro martínez",
-      "traffic": "200+",
+      "name": "¡ahora caigo!",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "epstein",
-      "traffic": "100+",
+      "name": "lautaro martínez",
+      "traffic": "500+",
       "rank": 10
     }
   ]
