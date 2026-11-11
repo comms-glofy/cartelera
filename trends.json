@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T04:00:16Z",
+  "updated": "2026-11-11T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "kings - magic",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "once caldas - atlético nacional",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "vision quest",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "frente frío",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "suns - clippers",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "julieta nair calvo",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "gol",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "humedad",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "jazz - heat",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "santiago abascal",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "supercopa argentina",
-      "traffic": "100+",
+      "name": "santiago abascal",
+      "traffic": "500+",
       "rank": 10
     }
   ]
