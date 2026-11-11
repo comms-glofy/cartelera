@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T13:30:15Z",
+  "updated": "2026-11-11T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canal 13 en vivo",
+      "name": "epstein",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "leonardo bertulazzi",
-      "traffic": "500+",
+      "name": "canal 13 en vivo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "c5n",
+      "name": "leonardo bertulazzi",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "a24",
-      "traffic": "200+",
+      "name": "c5n",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "irán",
-      "traffic": "500+",
+      "name": "a24",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "irán",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "la nacion mas en vivo",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "stacy keach",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "documento nacional de identidad",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "noticiasnet",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "c5n en vivo",
-      "traffic": "2000+",
+      "name": "11 de noviembre",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
