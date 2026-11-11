@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T03:00:16Z",
+  "updated": "2026-11-11T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "suns - clippers",
-      "traffic": "100+",
+      "name": "frente frío",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "paul george",
+      "name": "suns - clippers",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "humedad",
-      "traffic": "200+",
+      "name": "julieta nair calvo",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "gol",
+      "name": "humedad",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "gol",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "atlético nacional",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "jazz - heat",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "santiago abascal",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "supercopa argentina",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "internacional de bogotá - américa",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "rocio robles",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
