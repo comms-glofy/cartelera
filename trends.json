@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T09:41:51Z",
+  "updated": "2026-11-11T10:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "clima salta",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "hoy es feriado",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "evento de el niño de 2026 2027",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima posadas",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "brad pitt",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "club de regatas vasco da gama",
+      "name": "nico hülkenberg",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "pensión",
-      "traffic": "1000+",
+      "name": "vagón",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "eduardo rafael teddy garcía mansilla",
+      "name": "club de regatas vasco da gama",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "trail blazers - thunder",
-      "traffic": "500+",
+      "name": "brad pitt",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "kings - magic",
-      "traffic": "200+",
+      "name": "pensión",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "once caldas - atlético nacional",
-      "traffic": "1000+",
+      "name": "eduardo rafael teddy garcía mansilla",
+      "traffic": "200+",
       "rank": 10
     }
   ]
