@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-11T02:05:22Z",
+  "updated": "2026-11-11T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "abascal",
-      "traffic": "100+",
+      "name": "jazz - heat",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "rocio robles",
-      "traffic": "500+",
+      "name": "once caldas",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "betular",
+      "name": "santiago abascal",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "supercopa argentina",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "rocio robles",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "betular",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "copa colombia",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "felipe fort",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "arresto domiciliario",
-      "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "sabrina rojas",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "vision quest capitulo 8",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "hija",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ximena de tezanos pinto",
+      "name": "arresto domiciliario",
       "traffic": "100+",
       "rank": 10
     }
