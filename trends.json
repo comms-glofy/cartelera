@@ -1,51 +1,51 @@
 {
-  "updated": "2026-11-11T15:00:19Z",
+  "updated": "2026-11-11T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "dólar",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
+      "name": "edenor",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "11 de noviembre que se celebra",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "leclerc",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "carlos babington",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "¡ahora caigo!",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "lautaro martínez",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "epstein",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "canal 13 en vivo",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "leonardo bertulazzi",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "a que hora se va el papa de argentina",
-      "traffic": "2000+",
       "rank": 9
     },
     {
