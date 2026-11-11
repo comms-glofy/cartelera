@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T11:30:13Z",
+  "updated": "2026-11-11T12:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "stacy keach",
+      "name": "irán",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "la nacion mas en vivo",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "stacy keach",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "noticiasnet",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "c5n en vivo",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "cadena 3",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "contexto",
       "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "tiempo de san juan",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "lmneuquen",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "tn",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "valeria mazza",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "hoy hay bancos",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "carcel de devoto",
-      "traffic": "200+",
+      "name": "tn",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
