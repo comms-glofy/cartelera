@@ -1,45 +1,45 @@
 {
-  "updated": "2026-11-11T00:30:13Z",
+  "updated": "2026-11-11T01:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "knicks - bucks",
+      "name": "76ers - celtics",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "oscar piastri",
-      "traffic": "500+",
+      "name": "nahuel",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "knicks - bucks",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "oscar piastri",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "a que hora es la misa del papa en lujan",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "clima concordia",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "américa de cali",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "cuantos años tiene el papa leon xiv",
-      "traffic": "500+",
       "rank": 6
     },
     {
       "name": "edad del papa leon",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "garcia cuerva",
+      "name": "américa de cali",
       "traffic": "200+",
       "rank": 8
     },
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "selección de fútbol sub-20 de argentina",
-      "traffic": "200+",
+      "name": "garcia cuerva",
+      "traffic": "500+",
       "rank": 10
     }
   ]
