@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T18:30:15Z",
+  "updated": "2026-11-11T19:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "casper ruud",
-      "traffic": "200+",
+      "name": "abuelo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "carlos ischia",
-      "traffic": "200+",
+      "name": "nvidia ceo jensen huang",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "a que hora llega el papa a peru",
+      "name": "usman nurmagomedov",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "vaticano",
+      "name": "casper ruud",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "carlos ischia",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "a que hora llega el papa a peru",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "vaticano",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "ricardo la volpe",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "página 12",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "reino unido",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "chiclayo",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "jubilación",
-      "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "pasaporte",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "taylor fritz",
-      "traffic": "500+",
       "rank": 10
     }
   ]
