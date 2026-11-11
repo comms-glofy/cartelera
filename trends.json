@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T09:00:18Z",
+  "updated": "2026-11-11T09:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pensión",
-      "traffic": "500+",
+      "name": "hoy es feriado",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "evento de el niño de 2026 2027",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "clima posadas",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "brad pitt",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "club de regatas vasco da gama",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "pensión",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "eduardo rafael teddy garcía mansilla",
       "traffic": "200+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "trail blazers - thunder",
       "traffic": "500+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "kings - magic",
       "traffic": "200+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "once caldas - atlético nacional",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "vision quest",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "frente frío",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "suns - clippers",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "gol",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "humedad",
-      "traffic": "200+",
       "rank": 10
     }
   ]
