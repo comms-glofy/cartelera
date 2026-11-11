@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T22:00:14Z",
+  "updated": "2026-11-11T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wta finals",
+      "name": "allanamiento",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "carlos tevez",
-      "traffic": "500+",
+      "name": "wta finals",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nati jota",
-      "traffic": "100+",
+      "name": "carlos tevez",
+      "traffic": "500+",
       "rank": 3
     },
     {
       "name": "keiko fujimori",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "nati jota",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "viruela símica",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "fábrica",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "vacaciones",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "noticia",
+      "name": "vacaciones",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "aruba",
-      "traffic": "200+",
+      "name": "noticia",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "conmebol",
-      "traffic": "1000+",
+      "name": "aruba",
+      "traffic": "200+",
       "rank": 10
     }
   ]
