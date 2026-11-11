@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T22:30:16Z",
+  "updated": "2026-11-11T23:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "allanamiento",
-      "traffic": "500+",
+      "name": "fiat argo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "wta finals",
-      "traffic": "200+",
+      "name": "argentina uruguay",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "mercado de divisas",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "allanamiento",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "wta finals",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "carlos tevez",
       "traffic": "500+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "keiko fujimori",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "nati jota",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "viruela símica",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "fábrica",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "vacaciones",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "noticia",
+      "name": "viruela símica",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "aruba",
-      "traffic": "200+",
+      "name": "fábrica",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
