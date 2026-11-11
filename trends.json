@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-11T21:30:16Z",
+  "updated": "2026-11-11T22:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos tevez",
-      "traffic": "200+",
+      "name": "wta finals",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "keiko fujimori",
-      "traffic": "100+",
+      "name": "carlos tevez",
+      "traffic": "500+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "viruela símica",
-      "traffic": "200+",
+      "name": "keiko fujimori",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fábrica",
+      "name": "viruela símica",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "fábrica",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "vacaciones",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "noticia",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "aruba",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "conmebol",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "homeless",
-      "traffic": "200+",
       "rank": 10
     }
   ]
