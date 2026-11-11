@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T11:00:17Z",
+  "updated": "2026-11-11T11:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tn",
-      "traffic": "500+",
+      "name": "stacy keach",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "valeria mazza",
+      "name": "noticiasnet",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "condenado",
-      "traffic": "100+",
+      "name": "c5n en vivo",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "horóscopo",
-      "traffic": "100+",
+      "name": "contexto",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "victoria xipolitakis",
+      "name": "tiempo de san juan",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima salta",
+      "name": "lmneuquen",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "iliana calabró",
-      "traffic": "200+",
+      "name": "tn",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "hoy es feriado",
-      "traffic": "2000+",
+      "name": "valeria mazza",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "evento de el niño de 2026 2027",
-      "traffic": "200+",
+      "name": "hoy hay bancos",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "play-off",
-      "traffic": "100+",
+      "name": "carcel de devoto",
+      "traffic": "200+",
       "rank": 10
     }
   ]
