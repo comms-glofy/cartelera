@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T03:30:15Z",
+  "updated": "2026-11-11T04:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "frente frío",
+      "name": "once caldas - atlético nacional",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "suns - clippers",
-      "traffic": "100+",
+      "name": "vision quest",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "julieta nair calvo",
+      "name": "frente frío",
       "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "humedad",
+      "name": "suns - clippers",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "gol",
-      "traffic": "200+",
+      "name": "julieta nair calvo",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "atlético nacional",
+      "name": "gol",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "jazz - heat",
+      "name": "humedad",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "santiago abascal",
+      "name": "jazz - heat",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "supercopa argentina",
-      "traffic": "100+",
+      "name": "santiago abascal",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "internacional de bogotá - américa",
-      "traffic": "500+",
+      "name": "supercopa argentina",
+      "traffic": "100+",
       "rank": 10
     }
   ]
