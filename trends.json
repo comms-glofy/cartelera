@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-11T23:30:14Z",
+  "updated": "2026-11-11T23:59:33Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "raptors - celtics",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
+      "name": "patrimonio geológico",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "argentina",
+      "traffic": "10000+",
+      "rank": 3
+    },
+    {
+      "name": "selección de fútbol de uruguay",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "kimberly powell",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "aryna sabalenka",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 6
     },
     {
-      "name": "fiat argo",
-      "traffic": "100+",
-      "rank": 3
+      "name": "robert prevost",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "mercado de divisas",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 8
     },
     {
-      "name": "argentina uruguay",
-      "traffic": "100+",
-      "rank": 5
+      "name": "fiat argo",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "allanamiento",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "wta finals",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "carlos tevez",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "keiko fujimori",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "nati jota",
-      "traffic": "100+",
       "rank": 10
     }
   ]
