@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-11T21:00:15Z",
+  "updated": "2026-11-11T21:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "viruela símica",
-      "traffic": "100+",
+      "name": "carlos tevez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fábrica",
-      "traffic": "200+",
+      "name": "keiko fujimori",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "vacaciones",
-      "traffic": "200+",
+      "name": "nati jota",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "noticia",
+      "name": "viruela símica",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "conmebol",
-      "traffic": "1000+",
+      "name": "fábrica",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gaudio",
+      "name": "vacaciones",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "homeless",
-      "traffic": "200+",
+      "name": "noticia",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "camión",
-      "traffic": "500+",
+      "name": "aruba",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "abuelo",
-      "traffic": "500+",
+      "name": "conmebol",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "nvidia ceo jensen huang",
+      "name": "homeless",
       "traffic": "200+",
       "rank": 10
     }
