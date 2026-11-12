@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T17:30:17Z",
+  "updated": "2026-11-12T18:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "decreto",
+      "name": "españa vs",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "de paul",
-      "traffic": "100+",
+      "name": "atp estocolmo",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "barcelona - arsenal",
-      "traffic": "200+",
+      "name": "decreto",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "de paul",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "barcelona - arsenal",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "dakar",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "francia vs",
-      "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "liga de naciones",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "premio",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "11 de septiembre",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "turquía - bélgica",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "erick pulgar",
-      "traffic": "200+",
+      "name": "turquía - bélgica",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
