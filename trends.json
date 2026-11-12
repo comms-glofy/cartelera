@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T04:00:17Z",
+  "updated": "2026-11-12T04:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "es mi sueño",
-      "traffic": "200+",
+      "name": "sandro mamukelashvili",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "paolo el rockero",
+      "name": "es mi sueño",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "trail blazers - thunder",
-      "traffic": "1000+",
+      "name": "golden state warriors",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "paolo el rockero",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "trail blazers - thunder",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "juegos ps plus extra noviembre 2026",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "rockets - warriors",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "grizzlies - nuggets",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ricardo rodríguez dt",
+      "name": "rockets - warriors",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "paro de subtes",
-      "traffic": "1000+",
+      "name": "grizzlies - nuggets",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "gimena accardi",
-      "traffic": "200+",
+      "name": "ricardo rodríguez dt",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "jimena barón",
-      "traffic": "500+",
+      "name": "paro de subtes",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
