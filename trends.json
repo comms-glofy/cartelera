@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T09:00:15Z",
+  "updated": "2026-11-12T09:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "2026",
-      "traffic": "200+",
+      "name": "ahora caigo",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "agustín marchesín",
-      "traffic": "100+",
+      "name": "2026",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sorteo quini 6",
-      "traffic": "100+",
+      "name": "agustín marchesín",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "multa",
-      "traffic": "200+",
+      "name": "sorteo quini 6",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "multa",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "dolar hoy binance",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "canal 13",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sandro mamukelashvili",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "es mi sueño",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "recompensa",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "paolo el rockero",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
