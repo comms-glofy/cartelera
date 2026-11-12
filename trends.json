@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T10:00:16Z",
+  "updated": "2026-11-12T10:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "combustible",
-      "traffic": "100+",
+      "name": "eduardo taiano",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "minuto uno",
+      "name": "gianluca prestianni",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "california",
+      "name": "evangelio de hoy",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nikola tsolov",
+      "name": "combustible",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "mi anses",
-      "traffic": "5000+",
+      "name": "minuto uno",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "nikola tsolov",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "california",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "ahora caigo",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "finanzas",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "2026",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "olé",
-      "traffic": "100+",
+      "name": "finanzas",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "agustín marchesín",
-      "traffic": "500+",
+      "name": "2026",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
