@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T00:00:14Z",
+  "updated": "2026-11-12T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "raptors - celtics",
-      "traffic": "500+",
+      "name": "river id",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "knicks - cavaliers",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "raptors - celtics",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "patrimonio geológico",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "argentina",
       "traffic": "10000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "selección de fútbol de uruguay",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "kimberly powell",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "aryna sabalenka",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "robert prevost",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "mercado de divisas",
-      "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "fiat argo",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "allanamiento",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
