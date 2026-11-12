@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-12T03:00:15Z",
+  "updated": "2026-11-12T03:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "boston celtics",
+      "name": "paolo el rockero",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "juegos ps plus extra noviembre 2026",
-      "traffic": "100+",
+      "name": "trail blazers - thunder",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "rockets - warriors",
-      "traffic": "500+",
+      "name": "juegos ps plus extra noviembre 2026",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "grizzlies - nuggets",
-      "traffic": "100+",
+      "name": "rockets - warriors",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "ricardo rodríguez dt",
-      "traffic": "1000+",
+      "name": "grizzlies - nuggets",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "ricardo rodríguez dt",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "paro de subtes",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "gimena accardi",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "jimena barón",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "bulls - spurs",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "bucks - lakers",
+      "name": "bulls - spurs",
       "traffic": "1000+",
       "rank": 10
     }
