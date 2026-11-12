@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T23:00:14Z",
+  "updated": "2026-11-12T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "posiciones de selección de fútbol de senegal contra selección de fútbol de sudán",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "jessica pegula",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "instituto de obra social de las fuerzas armadas",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "attaque 77",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "pasto - junior",
       "traffic": "200+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "tren de aterrizaje",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "carlos pagni",
-      "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "phil collins",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "estudiantes - independiente rivadavia",
-      "traffic": "10000+",
-      "rank": 5
-    },
-    {
-      "name": "frank darío kudelka",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "wta finals",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cotización del dólar blue",
-      "traffic": "100+",
+      "name": "carlos pagni",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "posiciones de selección de fútbol de inglaterra contra selección de fútbol de croacia",
-      "traffic": "10000+",
+      "name": "estudiantes - independiente rivadavia",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "montenegro vs",
-      "traffic": "100+",
+      "name": "papa",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
