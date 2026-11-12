@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-12T15:50:43Z",
+  "updated": "2026-11-12T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "rd congo - sierra leona",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "regina torné",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "jugador",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "nations league",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "thiago agustín tirante",
-      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "tradingview",
-      "traffic": "500+",
+      "name": "thiago agustín tirante",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "colette kress",
-      "traffic": "5000+",
+      "name": "ghana - somalia",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "ghana - somalia",
+      "name": "colette kress",
       "traffic": "1000+",
       "rank": 7
     },
