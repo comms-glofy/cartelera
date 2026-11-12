@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-12T02:00:16Z",
+  "updated": "2026-11-12T02:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grizzlies - nuggets",
+      "name": "juegos ps plus extra noviembre 2026",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ricardo rodríguez dt",
+      "name": "rockets - warriors",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "paro de subtes",
-      "traffic": "500+",
+      "name": "grizzlies - nuggets",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "ricardo rodríguez dt",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "paro de subtes",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "gimena accardi",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "jimena barón",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "bucks - lakers",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "bulls - spurs",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "pacers - wizards",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "alpine f1 team",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "copa mundial de fútbol sub-17",
+      "name": "amistosos",
       "traffic": "500+",
       "rank": 10
     }
