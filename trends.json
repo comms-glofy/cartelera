@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T12:00:15Z",
+  "updated": "2026-11-12T12:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "licitación",
+      "name": "sloviansk",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "guardia de honor",
-      "traffic": "500+",
+      "name": "patricia bullrich",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ariel holan",
-      "traffic": "500+",
+      "name": "licitación",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "guardia de honor",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "ariel holan",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "pedro troglio",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "eduardo taiano",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "gianluca prestianni",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "evangelio de hoy",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "combustible",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "minuto uno",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "california",
-      "traffic": "500+",
       "rank": 10
     }
   ]
