@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T10:30:16Z",
+  "updated": "2026-11-12T11:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "eduardo taiano",
+      "name": "guardia de honor",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "gianluca prestianni",
+      "name": "ariel holan",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "evangelio de hoy",
+      "name": "pedro troglio",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "combustible",
-      "traffic": "100+",
+      "name": "eduardo taiano",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "minuto uno",
+      "name": "gianluca prestianni",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "nikola tsolov",
-      "traffic": "200+",
+      "name": "evangelio de hoy",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "california",
-      "traffic": "100+",
+      "name": "combustible",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ahora caigo",
-      "traffic": "2000+",
+      "name": "minuto uno",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "finanzas",
-      "traffic": "500+",
+      "name": "nikola tsolov",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "2026",
-      "traffic": "1000+",
+      "name": "california",
+      "traffic": "200+",
       "rank": 10
     }
   ]
