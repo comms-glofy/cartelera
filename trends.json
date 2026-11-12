@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T06:00:16Z",
+  "updated": "2026-11-12T06:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "canal 13",
-      "traffic": "100+",
+      "name": "dolar hoy binance",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sandro mamukelashvili",
+      "name": "canal 13",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "es mi sueño",
-      "traffic": "1000+",
+      "name": "sandro mamukelashvili",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "recompensa",
+      "name": "es mi sueño",
       "traffic": "1000+",
       "rank": 4
     },
     {
+      "name": "recompensa",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "paolo el rockero",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "trail blazers - thunder",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "juegos ps plus extra noviembre 2026",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "rockets - warriors",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "grizzlies - nuggets",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "ricardo rodríguez dt",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
