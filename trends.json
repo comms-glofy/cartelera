@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T01:00:16Z",
+  "updated": "2026-11-12T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bucks - lakers",
-      "traffic": "200+",
+      "name": "paro de subtes",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "bulls - spurs",
-      "traffic": "200+",
+      "name": "gimena accardi",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "jimena barón",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "bucks - lakers",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "bulls - spurs",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "pacers - wizards",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "alpine f1 team",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "copa mundial de fútbol sub-17",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "cuándo juega argentina",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "andrés chávez",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "aeroparque internacional jorge newbery",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "river id",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "knicks - cavaliers",
-      "traffic": "200+",
       "rank": 10
     }
   ]
