@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T19:30:15Z",
+  "updated": "2026-11-12T20:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "san marino - bielorrusia",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "francisco comesaña",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "migueles",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "asociación trabajadores del estado",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "clasificación para la copa africana de naciones",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "italia",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "posiciones de selección de fútbol de turquía contra selección de fútbol de bélgica",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
       "name": "equipo de fórmula uno",
       "traffic": "100+",
-      "rank": 1
+      "rank": 8
     },
     {
       "name": "chequia - españa",
       "traffic": "10000+",
-      "rank": 2
-    },
-    {
-      "name": "italia - francia",
-      "traffic": "5000+",
-      "rank": 3
-    },
-    {
-      "name": "inglaterra - croacia",
-      "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "indec",
-      "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "senegal - sudán",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "francisco pérez mackenna",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "selva alemán",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "pickup",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "se cayo outlook",
-      "traffic": "2000+",
+      "name": "italia - francia",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
