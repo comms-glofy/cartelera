@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T14:30:17Z",
+  "updated": "2026-11-12T15:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nvidia acciones",
-      "traffic": "200+",
+      "name": "thiago agustín tirante",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "red bull racing",
-      "traffic": "200+",
+      "name": "tradingview",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "ghana - somalia",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "nvidia acciones",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "red bull racing",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "gladys, la bomba tucumana",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "australia",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "sloviansk",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "patricia bullrich",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "licitación",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "guardia de honor",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "ariel holan",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "pedro troglio",
-      "traffic": "200+",
       "rank": 10
     }
   ]
