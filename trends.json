@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T05:30:14Z",
+  "updated": "2026-11-12T06:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,8 +9,8 @@
       "rank": 1
     },
     {
-      "name": "stephen curry",
-      "traffic": "200+",
+      "name": "sandro mamukelashvili",
+      "traffic": "100+",
       "rank": 2
     },
     {
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "golden state warriors",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
       "name": "recompensa",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "paolo el rockero",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "trail blazers - thunder",
-      "traffic": "200+",
-      "rank": 7
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "juegos ps plus extra noviembre 2026",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "rockets - warriors",
       "traffic": "2000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "grizzlies - nuggets",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "ricardo rodríguez dt",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
