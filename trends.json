@@ -1,46 +1,46 @@
 {
-  "updated": "2026-11-12T02:30:15Z",
+  "updated": "2026-11-12T03:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juegos ps plus extra noviembre 2026",
-      "traffic": "100+",
+      "name": "boston celtics",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "rockets - warriors",
-      "traffic": "200+",
+      "name": "juegos ps plus extra noviembre 2026",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "rockets - warriors",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "grizzlies - nuggets",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ricardo rodríguez dt",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "paro de subtes",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "gimena accardi",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "jimena barón",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "bucks - lakers",
-      "traffic": "1000+",
       "rank": 8
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "amistosos",
-      "traffic": "500+",
+      "name": "bucks - lakers",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
