@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T20:30:16Z",
+  "updated": "2026-11-12T21:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "eduardo moliné o'connor",
+      "name": "marcos galperin",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sebastián graviotto",
-      "traffic": "200+",
+      "name": "estudiantes vs independiente rivadavia",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "england vs croatia",
-      "traffic": "100+",
+      "name": "consejo de la magistratura",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "italy vs france",
+      "name": "lucas da cunha",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "servicio meteorológico",
+      "name": "eduardo moliné o'connor",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "migueles",
+      "name": "sebastián graviotto",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "san marino - bielorrusia",
-      "traffic": "200+",
+      "name": "italy vs france",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "asociación trabajadores del estado",
+      "name": "england vs croatia",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "francisco comesaña",
-      "traffic": "200+",
+      "name": "servicio meteorológico",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "italia",
-      "traffic": "100+",
+      "name": "migueles",
+      "traffic": "500+",
       "rank": 10
     }
   ]
