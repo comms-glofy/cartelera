@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-12T09:30:14Z",
+  "updated": "2026-11-12T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ahora caigo",
-      "traffic": "2000+",
+      "name": "combustible",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "2026",
-      "traffic": "200+",
+      "name": "minuto uno",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "agustín marchesín",
-      "traffic": "200+",
+      "name": "california",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sorteo quini 6",
-      "traffic": "500+",
+      "name": "nikola tsolov",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "multa",
-      "traffic": "500+",
+      "name": "mi anses",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "dolar hoy binance",
-      "traffic": "200+",
+      "name": "ahora caigo",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "canal 13",
+      "name": "finanzas",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sandro mamukelashvili",
-      "traffic": "100+",
+      "name": "2026",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "es mi sueño",
-      "traffic": "2000+",
+      "name": "olé",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "recompensa",
-      "traffic": "1000+",
+      "name": "agustín marchesín",
+      "traffic": "500+",
       "rank": 10
     }
   ]
