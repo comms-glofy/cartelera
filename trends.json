@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-13T02:45:17Z",
+  "updated": "2026-11-13T03:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rocio robles",
-      "traffic": "1000+",
-      "rank": 1
-    },
-    {
       "name": "karina mazzocco",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "suns - hornets",
       "traffic": "100+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "marta fort",
       "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "adrian suar",
+      "traffic": "1000+",
       "rank": 4
     },
     {
