@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-13T17:30:15Z",
+  "updated": "2026-11-13T17:58:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "valentin carboni",
-      "traffic": "100+",
+      "name": "river inter miami",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "river inter miami",
-      "traffic": "200+",
+      "name": "valentin carboni",
+      "traffic": "100+",
       "rank": 2
     },
     {
       "name": "clima rosario",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "juan martín del potro",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
