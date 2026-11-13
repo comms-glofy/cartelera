@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-13T11:00:16Z",
+  "updated": "2026-11-13T11:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "13 de noviembre",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "la cámpora",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "marcelo gallardo",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "leandro gonzález pírez",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "túnel submarino",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "weather",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "inundación",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "página/12",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "1998 ky26",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "cáncer de próstata",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "anibal gordon",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "suns - hornets",
+      "name": "cáncer de próstata",
       "traffic": "200+",
       "rank": 10
     }
