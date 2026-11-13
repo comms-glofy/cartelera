@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T19:00:24Z",
+  "updated": "2026-11-13T19:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "méxico",
-      "traffic": "5000+",
+      "name": "williams racing",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima san luis",
+      "name": "arajet",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "egipto - malaui",
-      "traffic": "500+",
+      "name": "serbia - alemania",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "cáncer",
+      "name": "eslovenia - suiza",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "posiciones de selección de fútbol de cabo verde contra selección de fútbol de liberia",
-      "traffic": "1000+",
+      "name": "méxico",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "muerte",
-      "traffic": "1000+",
+      "name": "clima san luis",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "avril lavigne embarazada",
-      "traffic": "100+",
+      "name": "cáncer",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "valentin carboni",
-      "traffic": "100+",
+      "name": "egipto - malaui",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "clima rosario",
-      "traffic": "2000+",
+      "name": "posiciones de selección de fútbol de cabo verde contra selección de fútbol de liberia",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "iván hurtado",
-      "traffic": "200+",
+      "name": "muerte",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
