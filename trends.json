@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-13T16:00:15Z",
+  "updated": "2026-11-13T16:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "windy",
+      "name": "avril lavigne",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "copa argentina 2026",
-      "traffic": "100+",
+      "name": "pronostico santa fe",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "500+",
+      "name": "banco central del paraguay",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "explosion en remedios de escalada",
-      "traffic": "5000+",
+      "name": "corea del sur vs",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tirante",
+      "name": "copa argentina 2026",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "senda hachada",
-      "traffic": "500+",
+      "name": "windy",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "kirchnerismo",
-      "traffic": "100+",
+      "name": "thiago agustín tirante",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "noche de los museos",
-      "traffic": "1000+",
+      "name": "explosion en remedios de escalada",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "claude status",
-      "traffic": "100+",
+      "name": "tirante",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ph, podemos hablar",
+      "name": "senda hachada",
       "traffic": "1000+",
       "rank": 10
     }
