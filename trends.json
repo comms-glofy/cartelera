@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T03:30:15Z",
+  "updated": "2026-11-13T04:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "anibal gordon",
+      "name": "cáncer de próstata",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "karina mazzocco",
-      "traffic": "200+",
+      "name": "detroit pistons",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "suns - hornets",
+      "name": "anibal gordon",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "suns - hornets",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "karina mazzocco",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "marta fort",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "adrian suar",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "apagon mundial noviembre 2026",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "gran premio de las vegas",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "unión tranviarios automotor",
+      "name": "daddy yankee",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "eduardo eurnekian",
+      "name": "apagon mundial noviembre 2026",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "timberwolves - mavericks",
-      "traffic": "500+",
+      "name": "gran premio de las vegas",
+      "traffic": "200+",
       "rank": 10
     }
   ]
