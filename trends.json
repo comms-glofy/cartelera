@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T00:00:14Z",
+  "updated": "2026-11-13T00:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mercado pago",
-      "traffic": "1000+",
+      "name": "árbitro",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "weather tomorrow",
+      "name": "curazao - panamá",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "robert enke",
-      "traffic": "100+",
+      "name": "76ers - raptors",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "posiciones de selección de fútbol de senegal contra selección de fútbol de sudán",
-      "traffic": "100+",
+      "name": "mercado pago",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "instituto de obra social de las fuerzas armadas",
-      "traffic": "100+",
+      "name": "weather tomorrow",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "attaque 77",
+      "name": "robert enke",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "pasto - junior",
-      "traffic": "200+",
+      "name": "posiciones de selección de fútbol de senegal contra selección de fútbol de sudán",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "eduardo moliné o connor",
-      "traffic": "5000+",
+      "name": "instituto de obra social de las fuerzas armadas",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tren de aterrizaje",
-      "traffic": "500+",
+      "name": "attaque 77",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "phil collins",
-      "traffic": "500+",
+      "name": "pasto - junior",
+      "traffic": "200+",
       "rank": 10
     }
   ]
