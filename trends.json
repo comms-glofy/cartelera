@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-13T15:30:18Z",
+  "updated": "2026-11-13T16:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "explosion en remedios de escalada",
-      "traffic": "2000+",
+      "name": "windy",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tirante",
-      "traffic": "200+",
+      "name": "copa argentina 2026",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "senda hachada",
+      "name": "thiago agustín tirante",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "kirchnerismo",
-      "traffic": "100+",
+      "name": "explosion en remedios de escalada",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "noche de los museos",
-      "traffic": "500+",
+      "name": "tirante",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "senda hachada",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "kirchnerismo",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "noche de los museos",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "claude status",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "ph, podemos hablar",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "viernes 13 que significa",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "pochettino",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "punta arenas",
+      "name": "ph, podemos hablar",
       "traffic": "1000+",
       "rank": 10
     }
