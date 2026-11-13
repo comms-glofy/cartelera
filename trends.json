@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T12:00:14Z",
+  "updated": "2026-11-13T12:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hantavirus",
-      "traffic": "100+",
+      "name": "paraguay vs",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nominación",
+      "name": "premio martín fierro de cable al mejor programa deportivo",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "argentina hoy",
-      "traffic": "500+",
+      "name": "hantavirus",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "river id",
-      "traffic": "200+",
+      "name": "argentina hoy",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "river id",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "chiclayo",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "13 de noviembre",
-      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "la cámpora",
-      "traffic": "100+",
+      "name": "13 de noviembre",
+      "traffic": "1000+",
       "rank": 7
+    },
+    {
+      "name": "la cámpora",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "marcelo gallardo",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "leandro gonzález pírez",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "túnel submarino",
-      "traffic": "200+",
       "rank": 10
     }
   ]
