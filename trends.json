@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-13T15:00:16Z",
+  "updated": "2026-11-13T15:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "explosion en remedios de escalada",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "senda hachada",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "punta arenas",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
