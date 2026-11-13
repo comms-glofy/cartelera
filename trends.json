@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T03:00:14Z",
+  "updated": "2026-11-13T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "anibal gordon",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "karina mazzocco",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "suns - hornets",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "marta fort",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "adrian suar",
       "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "apagon mundial noviembre 2026",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "gran premio de las vegas",
-      "traffic": "100+",
+      "name": "apagon mundial noviembre 2026",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "unión tranviarios automotor",
+      "name": "gran premio de las vegas",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "eduardo eurnekian",
+      "name": "unión tranviarios automotor",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "timberwolves - mavericks",
-      "traffic": "500+",
+      "name": "eduardo eurnekian",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "final libertadores",
-      "traffic": "200+",
+      "name": "timberwolves - mavericks",
+      "traffic": "500+",
       "rank": 10
     }
   ]
