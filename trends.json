@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T12:30:21Z",
+  "updated": "2026-11-13T13:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paraguay vs",
-      "traffic": "200+",
+      "name": "punta arenas",
+      "traffic": "2000+",
       "rank": 1
+    },
+    {
+      "name": "la noche de los museos 2026",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "paraguay vs",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "premio martín fierro de cable al mejor programa deportivo",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "argentina hoy",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "hantavirus",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
-      "name": "argentina hoy",
-      "traffic": "1000+",
-      "rank": 4
+      "name": "nominación",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "river id",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "chiclayo",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "13 de noviembre",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "la cámpora",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "marcelo gallardo",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "leandro gonzález pírez",
-      "traffic": "500+",
       "rank": 10
     }
   ]
