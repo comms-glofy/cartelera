@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-13T08:30:14Z",
+  "updated": "2026-11-13T09:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "página/12",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "1998 ky26",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "cáncer de próstata",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "viernes 13",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "anibal gordon",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "suns - hornets",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "karina mazzocco",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "marta fort",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "adrian suar",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "apagon mundial noviembre 2026",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "gran premio de las vegas",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "daddy yankee",
+      "name": "apagon mundial noviembre 2026",
       "traffic": "500+",
       "rank": 10
     }
