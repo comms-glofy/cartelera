@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T22:30:16Z",
+  "updated": "2026-11-13T23:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima cordoba",
-      "traffic": "1000+",
+      "name": "tosquita",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "vivienda",
+      "name": "rubén darío insúa",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "argentina - uruguay",
-      "traffic": "20000+",
+      "name": "la joaqui",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "colo colo vs racing",
-      "traffic": "500+",
+      "name": "asteroide 1998 ky26",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "adrian suar",
-      "traffic": "500+",
+      "name": "mi telefe",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "crisis sanitaria",
-      "traffic": "100+",
+      "name": "posiciones de selección de fútbol de marruecos contra selección de fútbol de níger",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "aryna sabalenka",
+      "name": "racing vs colo colo",
       "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "estados unidos",
+      "name": "clima cordoba",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "faa",
-      "traffic": "2000+",
+      "name": "vivienda",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "falleció brian tracy",
-      "traffic": "200+",
+      "name": "argentina - uruguay",
+      "traffic": "100000+",
       "rank": 10
     }
   ]
