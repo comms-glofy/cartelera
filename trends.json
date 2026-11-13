@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T09:30:13Z",
+  "updated": "2026-11-13T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "página/12",
-      "traffic": "1000+",
+      "name": "marcelo gallardo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "1998 ky26",
-      "traffic": "100+",
+      "name": "weather",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cáncer de próstata",
-      "traffic": "200+",
+      "name": "leandro gonzález pírez",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "viernes 13",
-      "traffic": "500+",
+      "name": "inundación",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "anibal gordon",
-      "traffic": "100+",
+      "name": "página/12",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "suns - hornets",
+      "name": "1998 ky26",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "karina mazzocco",
+      "name": "cáncer de próstata",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "marta fort",
+      "name": "viernes 13",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "adrian suar",
-      "traffic": "1000+",
+      "name": "anibal gordon",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "apagon mundial noviembre 2026",
-      "traffic": "500+",
+      "name": "suns - hornets",
+      "traffic": "200+",
       "rank": 10
     }
   ]
