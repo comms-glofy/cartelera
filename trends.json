@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T18:30:15Z",
+  "updated": "2026-11-13T19:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "posiciones de selección de fútbol de cabo verde contra selección de fútbol de liberia",
-      "traffic": "200+",
+      "name": "méxico",
+      "traffic": "5000+",
       "rank": 1
+    },
+    {
+      "name": "clima san luis",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "egipto - malaui",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "cáncer",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "posiciones de selección de fútbol de cabo verde contra selección de fútbol de liberia",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "muerte",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "avril lavigne embarazada",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "river inter miami",
-      "traffic": "200+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "valentin carboni",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "clima rosario",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "villa cañas",
-      "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "iván hurtado",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima parana",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "nigeria - tanzania",
-      "traffic": "100+",
       "rank": 10
     }
   ]
