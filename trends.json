@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T18:00:21Z",
+  "updated": "2026-11-13T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "river inter miami",
+      "name": "posiciones de selección de fútbol de cabo verde contra selección de fútbol de liberia",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "valentin carboni",
-      "traffic": "100+",
+      "name": "muerte",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "clima rosario",
-      "traffic": "2000+",
+      "name": "avril lavigne embarazada",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "villa cañas",
+      "name": "river inter miami",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "iván hurtado",
-      "traffic": "200+",
+      "name": "valentin carboni",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "armada argentina",
-      "traffic": "200+",
+      "name": "clima rosario",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "villa cañas",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "iván hurtado",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "clima parana",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "nigeria - tanzania",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "selección de fútbol de cabo verde",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "juan martín del potro",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
