@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T01:00:11Z",
+  "updated": "2026-11-13T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "martin fierro de cable 2026",
+      "name": "selección de fútbol de panamá",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "moline",
-      "traffic": "100+",
+      "name": "timberwolves - mavericks",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "wizards - pistons",
+      "name": "final libertadores",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "árbitro",
+      "name": "martin fierro de cable 2026",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "curazao - panamá",
-      "traffic": "500+",
+      "name": "wizards - pistons",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "76ers - raptors",
-      "traffic": "200+",
+      "name": "moline",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "weather tomorrow",
-      "traffic": "1000+",
+      "name": "árbitro",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "mercado pago",
+      "name": "curazao - panamá",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "robert enke",
-      "traffic": "200+",
+      "name": "76ers - raptors",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "posiciones de selección de fútbol de senegal contra selección de fútbol de sudán",
-      "traffic": "100+",
+      "name": "weather tomorrow",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
