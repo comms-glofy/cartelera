@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T23:00:17Z",
+  "updated": "2026-11-14T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia jujuy - almirante brown",
-      "traffic": "500+",
+      "name": "posiciones de atlético nacional contra once caldas",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "nacional - albion",
+      "name": "querétaro - monterrey",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "millie bobby brown",
+      "name": "curupayti vs san cirano",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "claudio tapia",
+      "name": "malcom braida",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "álvaro montero",
+      "name": "boc",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "arresto",
-      "traffic": "200+",
+      "name": "gimnasia jujuy - almirante brown",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "final sudamericana",
+      "name": "nacional - albion",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "ruso rodriguez",
-      "traffic": "1000+",
+      "name": "millie bobby brown",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "comunicaciones",
-      "traffic": "5000+",
+      "name": "claudio tapia",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tyc sport",
-      "traffic": "20000+",
+      "name": "arresto",
+      "traffic": "200+",
       "rank": 10
     }
   ]
