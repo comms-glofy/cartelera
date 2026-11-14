@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T10:46:09Z",
+  "updated": "2026-11-14T11:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "miniserie",
+      "name": "brasil",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "miniserie",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "japón - brasil",
       "traffic": "5000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "juez",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "14 de noviembre",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "evento de el niño de 2026-2027",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "dolar hoy binance",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "luis caputo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "nuevo diario",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "el tiempo en san miguel de tucumán",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "clima corrientes",
-      "traffic": "200+",
       "rank": 10
     }
   ]
