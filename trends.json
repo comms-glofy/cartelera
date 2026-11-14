@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T21:03:22Z",
+  "updated": "2026-11-14T21:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "carlos forbs",
-      "traffic": "100+",
+      "name": "banfield - boca juniors",
+      "traffic": "20000+",
       "rank": 1
     },
     {
-      "name": "atlético nacional - once caldas",
-      "traffic": "200+",
+      "name": "millonarios - alianza",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "villa dalmine",
-      "traffic": "100+",
+      "name": "haití - estados unidos",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "colón - midland",
-      "traffic": "1000+",
+      "name": "mirassol - atlético mineiro",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "club de rugby los tilos",
-      "traffic": "100+",
+      "name": "leonardo ponzio",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "ianina zanazzi",
+      "name": "deportivo pereira - américa",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "reducido b nacional",
-      "traffic": "200+",
+      "name": "deportivo cali - tolima",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "camión",
-      "traffic": "500+",
+      "name": "carlos forbs",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "nvidia jensen huang",
-      "traffic": "200+",
+      "name": "atlético nacional - once caldas",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "godoy cruz vs tristan suarez",
-      "traffic": "200+",
+      "name": "villa dalmine",
+      "traffic": "100+",
       "rank": 10
     }
   ]
