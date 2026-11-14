@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T16:00:13Z",
+  "updated": "2026-11-14T16:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kosovo",
-      "traffic": "100+",
+      "name": "noruega - gales",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "hugo moyano",
+      "name": "devolución",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "maria becerra",
+      "name": "kosovo - israel",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "granizo",
-      "traffic": "5000+",
+      "name": "hugo moyano",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "kosovo vs",
+      "name": "maria becerra",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "viento",
-      "traffic": "200+",
+      "name": "granizo",
+      "traffic": "5000+",
       "rank": 6
+    },
+    {
+      "name": "kosovo vs",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "viento",
+      "traffic": "500+",
+      "rank": 8
+    },
+    {
+      "name": "estocolmo open",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "chelsea - man city",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "gales - nueva zelanda",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "nations championship",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "thiago tirante",
-      "traffic": "200+",
       "rank": 10
     }
   ]
