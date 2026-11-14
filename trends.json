@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T20:00:14Z",
+  "updated": "2026-11-14T20:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "erling haaland",
+      "name": "colón - midland",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "godoy cruz vs tristan suarez",
+      "name": "club de rugby los tilos",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "rumania - polonia",
-      "traffic": "200+",
+      "name": "ianina zanazzi",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "luis zahera",
+      "name": "reducido b nacional",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "temperley",
-      "traffic": "1000+",
+      "name": "camión",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "paso cardenal samoré",
+      "name": "nvidia jensen huang",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "uefa nations league",
+      "name": "tormentas fuertes",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "austria - irlanda",
-      "traffic": "1000+",
+      "name": "godoy cruz vs tristan suarez",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "la plata",
-      "traffic": "500+",
+      "name": "erling haaland",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "venezuela vs",
-      "traffic": "100+",
+      "name": "rumania - polonia",
+      "traffic": "200+",
       "rank": 10
     }
   ]
