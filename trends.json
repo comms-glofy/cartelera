@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T03:00:18Z",
+  "updated": "2026-11-14T03:26:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "peru",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "desakta2",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "precio dolar blue",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "spurs - warriors",
-      "traffic": "1000+",
-      "rank": 3
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "club atlético de madrid",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "mercado cambiario",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "lilia lemoine",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "cuánto salió argentina",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "bulls - hawks",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "guatemala - canadá",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "christian cousins",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "crucero nueva orleans",
-      "traffic": "200+",
       "rank": 10
     }
   ]
