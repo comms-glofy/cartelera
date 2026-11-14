@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T04:30:13Z",
+  "updated": "2026-11-14T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "rodrigo de paul",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "precio dolar blue",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "spurs - warriors",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "mercado cambiario",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "club atlético de madrid",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lilia lemoine",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "cuánto salió argentina",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "bulls - hawks",
-      "traffic": "200+",
       "rank": 10
     }
   ]
