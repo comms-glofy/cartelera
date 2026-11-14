@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-13T23:30:16Z",
+  "updated": "2026-11-14T00:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nico paz",
-      "traffic": "500+",
+      "name": "temporada 2026 de fórmula 1",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "colombia - chile",
+      "name": "enzo fernández",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "cristopher fiermarin",
-      "traffic": "500+",
+      "name": "bentancur",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "forlan",
+      "name": "argentina x uruguai",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "mariano troilo",
+      "name": "tyc",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "red tulum",
-      "traffic": "200+",
+      "name": "colombia - chile",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "el crimen de pazos",
-      "traffic": "200+",
+      "name": "nico paz",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "florencia kirchner",
-      "traffic": "100+",
+      "name": "cristopher fiermarin",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "argentina mundial",
-      "traffic": "100+",
+      "name": "forlan",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "boca banfield",
-      "traffic": "200+",
+      "name": "mariano troilo",
+      "traffic": "500+",
       "rank": 10
     }
   ]
