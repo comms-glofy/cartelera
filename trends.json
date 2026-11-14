@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-14T12:30:15Z",
+  "updated": "2026-11-14T13:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "policía",
+      "name": "japan vs brazil",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "james vowles",
+      "name": "taylor fritz",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "teams",
-      "traffic": "5000+",
+      "name": "thiago agustín tirante",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "rocío robles",
-      "traffic": "100+",
+      "name": "atp estocolmo",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "suquia",
-      "traffic": "2000+",
+      "name": "copa potrero",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima jujuy",
+      "name": "policía",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "los pumas",
-      "traffic": "2000+",
+      "name": "james vowles",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima salta",
-      "traffic": "2000+",
+      "name": "rocío robles",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "cristina fernández de kirchner",
-      "traffic": "200+",
+      "name": "suquia",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "santiago del moro",
+      "name": "clima jujuy",
       "traffic": "200+",
       "rank": 10
     }
