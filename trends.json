@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T07:30:13Z",
+  "updated": "2026-11-14T08:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima tucuman",
+      "name": "pronostico corrientes",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "a",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "clima tucuman",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "ganamos",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "clima catamarca",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "lj cryer",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "clima santiago del estero",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "clippers - thunder",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "kings - trail blazers",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "rodrigo de paul",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "desakta2",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "precio dolar blue",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "spurs - warriors",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
