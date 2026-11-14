@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T16:30:14Z",
+  "updated": "2026-11-14T16:49:42Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "noruega - gales",
-      "traffic": "1000+",
+      "name": "página/12",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "devolución",
-      "traffic": "200+",
+      "name": "portugal vs",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "kosovo - israel",
+      "name": "creamfields",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "hugo moyano",
-      "traffic": "200+",
+      "name": "noruega - gales",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "maria becerra",
-      "traffic": "100+",
+      "name": "devolución",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "granizo",
-      "traffic": "5000+",
+      "name": "kosovo - israel",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "kosovo vs",
+      "name": "hugo moyano",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "viento",
-      "traffic": "500+",
+      "name": "maria becerra",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "estocolmo open",
-      "traffic": "100+",
+      "name": "granizo",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "chelsea - man city",
-      "traffic": "100+",
+      "name": "kosovo vs",
+      "traffic": "200+",
       "rank": 10
     }
   ]
