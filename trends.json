@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-14T01:30:18Z",
+  "updated": "2026-11-14T02:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "heat - cavaliers",
+      "name": "bulls - hawks",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "karina milei",
-      "traffic": "100+",
+      "name": "guatemala - canadá",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "internacional de bogotá - santa fe",
-      "traffic": "500+",
+      "name": "christian cousins",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "crucero nueva orleans",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "heat - cavaliers",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "karina milei",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "cuánto va argentina contra uruguay",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "internacional de bogotá - santa fe",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "soule matias",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "mac allister",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "zaira nara",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "julián alvarez",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "alberto fernández",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "federico valverde",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "magic - bucks",
+      "name": "mac allister",
       "traffic": "100+",
       "rank": 10
     }
