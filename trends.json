@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-14T10:30:15Z",
+  "updated": "2026-11-14T10:46:09Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima",
-      "traffic": "50000+",
+      "name": "miniserie",
+      "traffic": "100+",
       "rank": 1
     },
     {
       "name": "japón - brasil",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "rank": 2
     },
     {
       "name": "juez",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
     },
     {
       "name": "14 de noviembre",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "clima corrientes",
-      "traffic": "200+",
+      "name": "el tiempo en san miguel de tucumán",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima tucuman",
-      "traffic": "500+",
+      "name": "clima corrientes",
+      "traffic": "200+",
       "rank": 10
     }
   ]
