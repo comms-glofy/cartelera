@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T00:30:12Z",
+  "updated": "2026-11-14T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ronald araújo",
-      "traffic": "2000+",
+      "name": "alberto fernández",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "perú - bolivia",
-      "traffic": "200+",
+      "name": "magic - bucks",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "prestianni",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "valverde",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "araujo",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "ronald araújo",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "perú - bolivia",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "pacers - knicks",
       "traffic": "200+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "soule",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "dt de uruguay",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "josé coronado",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "quien tiene la 10 en argentina",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "kuru",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "julian alvarez",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "temporada 2026 de fórmula 1",
-      "traffic": "500+",
       "rank": 10
     }
   ]
