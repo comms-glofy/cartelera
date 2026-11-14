@@ -1,31 +1,31 @@
 {
-  "updated": "2026-11-14T06:00:16Z",
+  "updated": "2026-11-14T06:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lj cryer",
+      "name": "clima catamarca",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima santiago del estero",
+      "name": "lj cryer",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "posiciones de internacional de bogotá contra independiente santa fe",
-      "traffic": "2000+",
+      "name": "clima santiago del estero",
+      "traffic": "100+",
       "rank": 3
     },
     {
       "name": "clippers - thunder",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 4
     },
     {
       "name": "kings - trail blazers",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
     },
     {
@@ -49,8 +49,8 @@
       "rank": 9
     },
     {
-      "name": "mercado cambiario",
-      "traffic": "1000+",
+      "name": "club atlético de madrid",
+      "traffic": "500+",
       "rank": 10
     }
   ]
