@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T17:00:16Z",
+  "updated": "2026-11-14T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "página/12",
-      "traffic": "200+",
+      "name": "ronaldinho",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "portugal vs",
+      "name": "concurso",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "creamfields",
-      "traffic": "100+",
+      "name": "página/12",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "noruega - gales",
-      "traffic": "2000+",
+      "name": "portugal vs",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "devolución",
-      "traffic": "200+",
+      "name": "creamfields",
+      "traffic": "100+",
       "rank": 5
+    },
+    {
+      "name": "noruega - gales",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "devolución",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "kosovo - israel",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "hugo moyano",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "maria becerra",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "granizo",
-      "traffic": "10000+",
-      "rank": 9
-    },
-    {
-      "name": "kosovo vs",
-      "traffic": "200+",
       "rank": 10
     }
   ]
