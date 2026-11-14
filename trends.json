@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T11:30:14Z",
+  "updated": "2026-11-14T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cristina fernández de kirchner",
-      "traffic": "100+",
+      "name": "rocío robles",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "weather",
-      "traffic": "200+",
+      "name": "suquia",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "santiago del moro",
+      "name": "clima jujuy",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima salta",
-      "traffic": "100+",
+      "name": "los pumas",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "cristina fernández de kirchner",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "santiago del moro",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "clima salta",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "weather",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "inteligencia artificial",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "cotizacion dolar blue hoy",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "pumas vs italia",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "brasil",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "japón - brasil",
-      "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "juez",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "14 de noviembre",
-      "traffic": "200+",
       "rank": 10
     }
   ]
