@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T22:00:13Z",
+  "updated": "2026-11-14T22:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deportivo madryn - deportivo maipú",
+      "name": "ruso rodriguez",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "comunicaciones",
+      "traffic": "10000+",
+      "rank": 2
+    },
+    {
+      "name": "tyc sport",
+      "traffic": "50000+",
+      "rank": 3
+    },
+    {
+      "name": "alberto cormillot",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "deportivo madryn - deportivo maipú",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
       "name": "josé maría muscari",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "jessica pegula",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "irán",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "spacex",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "banfield - boca juniors",
-      "traffic": "50000+",
-      "rank": 6
-    },
-    {
-      "name": "portugal vs denmark",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "millonarios - alianza",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "haití - estados unidos",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "mirassol - atlético mineiro",
-      "traffic": "1000+",
+      "name": "banfield - boca juniors",
+      "traffic": "200000+",
       "rank": 10
     }
   ]
