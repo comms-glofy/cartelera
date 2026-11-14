@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T15:30:14Z",
+  "updated": "2026-11-14T16:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kosovo vs",
+      "name": "kosovo",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "viento",
+      "name": "hugo moyano",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "chelsea - man city",
+      "name": "maria becerra",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "gales - nueva zelanda",
-      "traffic": "1000+",
+      "name": "granizo",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "nations championship",
-      "traffic": "500+",
+      "name": "kosovo vs",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "thiago tirante",
+      "name": "viento",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "estados unidos suspende vuelos",
-      "traffic": "20000+",
+      "name": "chelsea - man city",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "japan vs brazil",
-      "traffic": "100+",
+      "name": "gales - nueva zelanda",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "copa potrero",
-      "traffic": "2000+",
+      "name": "nations championship",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "tirante",
-      "traffic": "2000+",
+      "name": "thiago tirante",
+      "traffic": "200+",
       "rank": 10
     }
   ]
