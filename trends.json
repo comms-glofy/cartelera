@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T18:00:15Z",
+  "updated": "2026-11-14T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlanta - estudiantes",
-      "traffic": "200+",
+      "name": "niki lauda",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ronaldinho",
+      "name": "los palmeras marcos camino",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "concurso",
-      "traffic": "200+",
+      "name": "nicole neumann",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "página/12",
-      "traffic": "500+",
+      "name": "billetera digital",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "atlanta - estudiantes",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "ronaldinho",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "concurso",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "portugal vs",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "página/12",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "creamfields",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "noruega - gales",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "devolución",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "kosovo",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "hugo moyano",
-      "traffic": "500+",
       "rank": 10
     }
   ]
