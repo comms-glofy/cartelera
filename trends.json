@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-14T13:30:13Z",
+  "updated": "2026-11-14T14:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "japan vs brazil",
+      "name": "raphinha",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "thiago agustín tirante",
-      "traffic": "1000+",
+      "name": "japan vs brazil",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tirante",
-      "traffic": "1000+",
+      "name": "thiago agustín tirante",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "copa potrero 2026",
-      "traffic": "200+",
+      "name": "copa potrero",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "atlético fútbol club",
+      "name": "atp estocolmo",
       "traffic": "1000+",
       "rank": 5
     },
     {
+      "name": "atlético fútbol club",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
       "name": "policía",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "james vowles",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "rocío robles",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "suquia",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima jujuy",
+      "name": "suquia",
       "traffic": "200+",
       "rank": 10
     }
