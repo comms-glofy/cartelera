@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T01:00:14Z",
+  "updated": "2026-11-14T01:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alberto fernández",
-      "traffic": "200+",
+      "name": "heat - cavaliers",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "magic - bucks",
+      "name": "karina milei",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "prestianni",
-      "traffic": "2000+",
+      "name": "internacional de bogotá - santa fe",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "valverde",
+      "name": "soule matias",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "araujo",
+      "name": "mac allister",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ronald araújo",
-      "traffic": "2000+",
+      "name": "zaira nara",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "perú - bolivia",
-      "traffic": "1000+",
+      "name": "julián alvarez",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "pacers - knicks",
-      "traffic": "200+",
+      "name": "alberto fernández",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "soule",
-      "traffic": "2000+",
+      "name": "federico valverde",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "josé coronado",
-      "traffic": "200+",
+      "name": "magic - bucks",
+      "traffic": "100+",
       "rank": 10
     }
   ]
