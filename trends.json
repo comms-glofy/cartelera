@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-14T03:30:12Z",
+  "updated": "2026-11-14T04:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "peru",
-      "traffic": "2000+",
+      "name": "rodrigo de paul",
+      "traffic": "500+",
       "rank": 1
     },
     {
       "name": "desakta2",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,13 +19,13 @@
       "rank": 3
     },
     {
-      "name": "spurs - warriors",
-      "traffic": "2000+",
+      "name": "fuerza aérea de los estados unidos",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "club atlético de madrid",
-      "traffic": "200+",
+      "name": "spurs - warriors",
+      "traffic": "2000+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "lilia lemoine",
-      "traffic": "100+",
+      "name": "club atlético de madrid",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "cuánto salió argentina",
+      "name": "lilia lemoine",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "bulls - hawks",
-      "traffic": "200+",
+      "name": "cuánto salió argentina",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "guatemala - canadá",
-      "traffic": "2000+",
+      "name": "bulls - hawks",
+      "traffic": "200+",
       "rank": 10
     }
   ]
