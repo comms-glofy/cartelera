@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-14T21:30:14Z",
+  "updated": "2026-11-14T22:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "banfield - boca juniors",
-      "traffic": "20000+",
+      "name": "deportivo madryn - deportivo maipú",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "millonarios - alianza",
-      "traffic": "100+",
+      "name": "josé maría muscari",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "haití - estados unidos",
-      "traffic": "1000+",
+      "name": "jessica pegula",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mirassol - atlético mineiro",
-      "traffic": "500+",
+      "name": "irán",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "leonardo ponzio",
+      "name": "spacex",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "deportivo pereira - américa",
-      "traffic": "200+",
+      "name": "banfield - boca juniors",
+      "traffic": "50000+",
       "rank": 6
     },
     {
-      "name": "deportivo cali - tolima",
-      "traffic": "100+",
+      "name": "portugal vs denmark",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "carlos forbs",
+      "name": "millonarios - alianza",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "atlético nacional - once caldas",
-      "traffic": "500+",
+      "name": "haití - estados unidos",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "villa dalmine",
-      "traffic": "100+",
+      "name": "mirassol - atlético mineiro",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
