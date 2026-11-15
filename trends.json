@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T18:30:14Z",
+  "updated": "2026-11-15T19:00:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "juventud antoniana",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "supermercado",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "ted lasso",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "albania vs",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "deportivo morón - colegiales",
-      "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "76ers - pacers",
-      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "apagon 17 de noviembre",
-      "traffic": "200+",
+      "name": "deportivo morón - colegiales",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "ravenna vs forli",
+      "name": "76ers - pacers",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "deportivo - barcelona",
-      "traffic": "1000+",
+      "name": "apagon 17 de noviembre",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "tc",
-      "traffic": "500+",
+      "name": "ronaldinho vuelve a jugar",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ravenna",
+      "name": "deportivo - barcelona",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "godoy cruz",
-      "traffic": "5000+",
+      "name": "ravenna",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
