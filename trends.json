@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T00:30:15Z",
+  "updated": "2026-11-15T01:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "blg",
-      "traffic": "100+",
+      "name": "jim miller",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ufc hoy",
-      "traffic": "200+",
+      "name": "cavaliers - mavericks",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pelicans - nuggets",
+      "name": "adrian suar",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tinoco",
-      "traffic": "200+",
+      "name": "ufc",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "partidos de boca",
-      "traffic": "100+",
+      "name": "batalla campal",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "ufc 334",
+      "name": "petróleo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "santo toribio de mogrovejo",
-      "traffic": "200+",
+      "name": "juan josé campanella",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cuando es la final de la copa argentina",
-      "traffic": "1000+",
+      "name": "jamaica - méxico",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "atletico mineiro",
-      "traffic": "1000+",
+      "name": "blg",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "san cirano",
-      "traffic": "200+",
+      "name": "ufc hoy",
+      "traffic": "500+",
       "rank": 10
     }
   ]
