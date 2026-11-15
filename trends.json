@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T20:46:07Z",
+  "updated": "2026-11-15T21:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "epicentro",
-      "traffic": "200+",
+      "name": "wta finals",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "mirra andreeva",
+      "name": "epicentro",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "suns - lakers",
+      "name": "mirra andreeva",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "suns - lakers",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
       "name": "italia",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "ramón díaz",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "estadio julio césar villagra",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lpf play",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lpf",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "ricardo gareca",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tarjeta roja mundial",
-      "traffic": "200+",
+      "name": "ricardo gareca",
+      "traffic": "500+",
       "rank": 10
     }
   ]
