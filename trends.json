@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T11:30:15Z",
+  "updated": "2026-11-15T12:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "perro",
-      "traffic": "100+",
+      "name": "15 de noviembre",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "franco colapinto",
-      "traffic": "500+",
+      "name": "perro",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "franco colapinto",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "gran premio de las vegas",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "santiago del estero",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gladys la bomba tucumana",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "tormenta",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "río paraná",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "neuquén",
-      "traffic": "200+",
-      "rank": 8
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "24 de noviembre",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "inpres san juan",
-      "traffic": "500+",
       "rank": 10
     }
   ]
