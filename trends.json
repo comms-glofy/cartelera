@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-15T13:00:19Z",
+  "updated": "2026-11-15T13:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "aeropuerto internacional de miami",
-      "traffic": "200+",
+      "name": "cusco",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ph, podemos hablar",
-      "traffic": "2000+",
+      "name": "aeropuerto internacional de miami",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
-      "name": "15 de noviembre",
-      "traffic": "500+",
+      "name": "la nación",
+      "traffic": "1000+",
       "rank": 5
+    },
+    {
+      "name": "15 de noviembre",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "atp finals",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "perro",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "franco colapinto",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "gran premio de las vegas",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "santiago del estero",
+      "name": "gran premio de las vegas",
       "traffic": "500+",
       "rank": 10
     }
