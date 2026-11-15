@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T16:30:14Z",
+  "updated": "2026-11-15T17:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "apagón eléctrico",
+      "name": "ravenna",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "noticia",
-      "traffic": "500+",
+      "name": "finlandia - san marino",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "atp finals 2026",
+      "name": "apagón eléctrico",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "escocia - australia",
+      "name": "noticia",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "escocia - australia",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "clima neuquen",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "letonia - armenia",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "copa sudamericana 2026",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "tc hoy",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "league of legends new dawn",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "eduardo domínguez",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
