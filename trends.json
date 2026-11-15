@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T20:00:17Z",
+  "updated": "2026-11-15T20:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "liga de naciones",
+      "name": "ramón díaz",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "danubio - liverpool",
-      "traffic": "100+",
+      "name": "estadio julio césar villagra",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "spain vs england",
-      "traffic": "200+",
+      "name": "lpf play",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "españa - inglaterra",
-      "traffic": "20000+",
+      "name": "lpf",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "francia - turquía",
-      "traffic": "5000+",
+      "name": "ricardo gareca",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "croacia - chequia",
-      "traffic": "2000+",
+      "name": "hungría",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "bélgica - italia",
-      "traffic": "2000+",
+      "name": "tarjeta roja mundial",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "fútbol",
-      "traffic": "500+",
+      "name": "basura",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "juventud antoniana",
-      "traffic": "500+",
+      "name": "liga de naciones",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "supermercado",
-      "traffic": "500+",
+      "name": "danubio - liverpool",
+      "traffic": "200+",
       "rank": 10
     }
   ]
