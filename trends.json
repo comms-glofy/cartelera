@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T09:30:14Z",
+  "updated": "2026-11-15T10:00:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "24 de noviembre",
+      "name": "gladys la bomba tucumana",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "inpres san juan",
+      "name": "tormenta",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "caio borralho",
-      "traffic": "500+",
+      "name": "neuquén",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "kevin holland",
+      "name": "24 de noviembre",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "ciryl gane",
+      "name": "inpres san juan",
       "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "carlos melconian",
-      "traffic": "200+",
+      "name": "caio borralho",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "dwayne johnson",
+      "name": "kevin holland",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bilal hasan",
-      "traffic": "500+",
+      "name": "carlos melconian",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "club deportivo maipú",
-      "traffic": "5000+",
+      "name": "dwayne johnson",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "nacho giron",
-      "traffic": "200+",
+      "name": "bilal hasan",
+      "traffic": "500+",
       "rank": 10
     }
   ]
