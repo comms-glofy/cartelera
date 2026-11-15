@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-15T20:30:13Z",
+  "updated": "2026-11-15T20:46:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ramón díaz",
-      "traffic": "500+",
+      "name": "epicentro",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "estadio julio césar villagra",
+      "name": "mirra andreeva",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lpf play",
-      "traffic": "5000+",
+      "name": "suns - lakers",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lpf",
-      "traffic": "1000+",
+      "name": "italia",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "ramón díaz",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "estadio julio césar villagra",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "lpf play",
+      "traffic": "5000+",
+      "rank": 7
+    },
+    {
+      "name": "lpf",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "ricardo gareca",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "hungría",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "tarjeta roja mundial",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "basura",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "liga de naciones",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "danubio - liverpool",
+      "name": "tarjeta roja mundial",
       "traffic": "200+",
       "rank": 10
     }
