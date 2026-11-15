@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T12:00:16Z",
+  "updated": "2026-11-15T12:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "15 de noviembre",
-      "traffic": "200+",
+      "name": "grand theft auto vi",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "perro",
+      "name": "federico beligoy",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "franco colapinto",
-      "traffic": "1000+",
+      "name": "la nación",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "gran premio de las vegas",
+      "name": "15 de noviembre",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "santiago del estero",
-      "traffic": "500+",
+      "name": "atp finals",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "gladys la bomba tucumana",
-      "traffic": "1000+",
+      "name": "perro",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "tormenta",
-      "traffic": "500+",
+      "name": "franco colapinto",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "río paraná",
+      "name": "gran premio de las vegas",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "neuquén",
-      "traffic": "500+",
+      "name": "santiago del estero",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "24 de noviembre",
-      "traffic": "200+",
+      "name": "gladys la bomba tucumana",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
