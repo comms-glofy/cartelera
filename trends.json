@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T22:30:14Z",
+  "updated": "2026-11-15T23:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "inflación",
+      "name": "turismo carretera",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "river vs lanus",
-      "traffic": "200+",
+      "name": "maría vázquez",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "river lanus",
+      "name": "cerro porteño",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "reducido b nacional",
-      "traffic": "2000+",
+      "name": "defensor sporting - peñarol",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "sacha fenestraz",
+      "name": "juliana santillán",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "copa paraguay",
-      "traffic": "100+",
+      "name": "inflación",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "jazz - spurs",
-      "traffic": "500+",
+      "name": "river vs lanus",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "lamine yamal",
+      "name": "river lanus",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "nation league",
-      "traffic": "100+",
+      "name": "sacha fenestraz",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "douglas haig",
-      "traffic": "200+",
+      "name": "reducido b nacional",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
