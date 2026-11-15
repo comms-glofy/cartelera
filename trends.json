@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T10:00:12Z",
+  "updated": "2026-11-15T10:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "franco colapinto",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
       "name": "gladys la bomba tucumana",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "tormenta",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "río paraná",
+      "traffic": "100+",
+      "rank": 4
     },
     {
       "name": "neuquén",
-      "traffic": "100+",
-      "rank": 3
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "24 de noviembre",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "inpres san juan",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "caio borralho",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "kevin holland",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "carlos melconian",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "dwayne johnson",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "bilal hasan",
-      "traffic": "500+",
       "rank": 10
     }
   ]
