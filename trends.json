@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T17:30:14Z",
+  "updated": "2026-11-15T18:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ravenna vs forli",
-      "traffic": "200+",
+      "name": "deportivo morón - colegiales",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "deportivo - barcelona",
+      "name": "76ers - pacers",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ravenna",
-      "traffic": "500+",
+      "name": "apagon 17 de noviembre",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "finlandia - san marino",
-      "traffic": "200+",
+      "name": "ravenna vs forli",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "apagón eléctrico",
-      "traffic": "100+",
+      "name": "deportivo - barcelona",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "tc",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "ravenna",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "finlandia - san marino",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "noticia",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "escocia - australia",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "clima neuquen",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "letonia - armenia",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "copa sudamericana 2026",
-      "traffic": "500+",
       "rank": 10
     }
   ]
