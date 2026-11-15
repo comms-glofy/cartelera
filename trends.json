@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T02:00:15Z",
+  "updated": "2026-11-15T02:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jeremiah fears",
+      "name": "nacho giron",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "denise dumas",
-      "traffic": "200+",
+      "name": "league of legends",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "playstation",
-      "traffic": "100+",
+      "name": "lluvia",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "heat - pistons",
+      "name": "stephen thompson",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "timberwolves - bulls",
+      "name": "jeremiah fears",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "rocio robles",
-      "traffic": "5000+",
+      "name": "denise dumas",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "mala fama",
-      "traffic": "1000+",
+      "name": "playstation",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "mexico vs",
-      "traffic": "500+",
+      "name": "timberwolves - bulls",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "paramount",
+      "name": "heat - pistons",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "el final de la calle oak",
-      "traffic": "200+",
+      "name": "rocio robles",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
