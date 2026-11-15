@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T09:00:15Z",
+  "updated": "2026-11-15T09:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "carlos melconian",
-      "traffic": "200+",
+      "name": "ciryl gane",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "dwayne johnson",
+      "name": "carlos melconian",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "bilal hasan",
-      "traffic": "500+",
+      "name": "dwayne johnson",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "club deportivo maipú",
-      "traffic": "10000+",
+      "name": "bilal hasan",
+      "traffic": "500+",
       "rank": 8
+    },
+    {
+      "name": "club deportivo maipú",
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "nacho giron",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "league of legends",
-      "traffic": "100+",
       "rank": 10
     }
   ]
