@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T04:00:16Z",
+  "updated": "2026-11-15T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "caio borralho",
+      "name": "temblor en san juan",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "kevin holland",
-      "traffic": "200+",
+      "name": "caio borralho",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "carlos melconian",
-      "traffic": "100+",
+      "name": "kevin holland",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "dwayne johnson",
+      "name": "carlos melconian",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "dwayne johnson",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "bilal hasan",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "jamaica vs",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nacho giron",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "league of legends",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mexico",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "lluvia",
-      "traffic": "10000+",
       "rank": 10
     }
   ]
