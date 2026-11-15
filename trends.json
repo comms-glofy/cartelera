@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-15T15:00:15Z",
+  "updated": "2026-11-15T15:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "letonia - armenia",
-      "traffic": "100+",
+      "name": "noticia",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "copa sudamericana 2026",
-      "traffic": "1000+",
+      "name": "atp finals 2026",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "league of legends new dawn",
+      "name": "escocia - australia",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "clima neuquen",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "letonia - armenia",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "copa sudamericana 2026",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "league of legends new dawn",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "tc hoy",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "eduardo domínguez",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "mariano werner",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "clima bariloche",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "zverev",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "subsidio",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "copa potrero 2026",
+      "name": "mariano werner",
       "traffic": "100+",
       "rank": 10
     }
