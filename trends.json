@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T18:00:14Z",
+  "updated": "2026-11-15T18:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deportivo morón - colegiales",
-      "traffic": "500+",
+      "name": "ted lasso",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "albania vs",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "deportivo morón - colegiales",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "76ers - pacers",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "apagon 17 de noviembre",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "ravenna vs forli",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "deportivo - barcelona",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "tc",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "ravenna",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "finlandia - san marino",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "noticia",
+      "name": "ravenna",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "escocia - australia",
-      "traffic": "1000+",
+      "name": "godoy cruz",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
