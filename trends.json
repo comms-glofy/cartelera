@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T23:00:14Z",
+  "updated": "2026-11-15T23:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "turismo carretera",
-      "traffic": "500+",
+      "name": "raptors - knicks",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "maría vázquez",
+      "name": "sporting cristal",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cerro porteño",
-      "traffic": "200+",
+      "name": "ferro - gimnasia y tiro de salta",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "defensor sporting - peñarol",
-      "traffic": "500+",
+      "name": "celtics - mavericks",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "juliana santillán",
+      "name": "valentín fuster",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "inflación",
-      "traffic": "500+",
+      "name": "musiala",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "river vs lanus",
-      "traffic": "200+",
+      "name": "turismo carretera",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "river lanus",
-      "traffic": "200+",
+      "name": "maría vázquez",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "sacha fenestraz",
-      "traffic": "200+",
+      "name": "cerro porteño",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "reducido b nacional",
-      "traffic": "2000+",
+      "name": "defensor sporting - peñarol",
+      "traffic": "500+",
       "rank": 10
     }
   ]
