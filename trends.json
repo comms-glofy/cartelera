@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-15T19:30:13Z",
+  "updated": "2026-11-15T20:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "españa - inglaterra",
-      "traffic": "10000+",
+      "name": "liga de naciones",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "francia - turquía",
-      "traffic": "2000+",
+      "name": "danubio - liverpool",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "croacia - chequia",
-      "traffic": "1000+",
+      "name": "spain vs england",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bélgica - italia",
-      "traffic": "1000+",
+      "name": "españa - inglaterra",
+      "traffic": "20000+",
       "rank": 4
+    },
+    {
+      "name": "francia - turquía",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "croacia - chequia",
+      "traffic": "2000+",
+      "rank": 6
+    },
+    {
+      "name": "bélgica - italia",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "fútbol",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "juventud antoniana",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "supermercado",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "ted lasso",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "albania vs",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "deportivo morón - colegiales",
-      "traffic": "5000+",
+      "name": "supermercado",
+      "traffic": "500+",
       "rank": 10
     }
   ]
