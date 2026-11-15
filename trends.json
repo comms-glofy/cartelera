@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T08:30:15Z",
+  "updated": "2026-11-15T09:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -10,47 +10,47 @@
     },
     {
       "name": "inpres san juan",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 2
-    },
-    {
-      "name": "temblor en san juan",
-      "traffic": "200+",
-      "rank": 3
     },
     {
       "name": "caio borralho",
       "traffic": "500+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "kevin holland",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "ciryl gane",
-      "traffic": "1000+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "carlos melconian",
       "traffic": "200+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "dwayne johnson",
       "traffic": "200+",
-      "rank": 8
+      "rank": 6
     },
     {
       "name": "bilal hasan",
       "traffic": "500+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "club deportivo maipú",
-      "traffic": "5000+",
+      "traffic": "10000+",
+      "rank": 8
+    },
+    {
+      "name": "nacho giron",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "league of legends",
+      "traffic": "100+",
       "rank": 10
     }
   ]
