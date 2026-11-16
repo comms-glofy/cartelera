@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T21:30:15Z",
+  "updated": "2026-11-16T22:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "medvedev",
-      "traffic": "100+",
+      "name": "chase",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "manuel adorni",
-      "traffic": "200+",
+      "name": "malta vs",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "josé luis manzano",
-      "traffic": "100+",
+      "name": "serie de televisión",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "frédéric vasseur",
-      "traffic": "200+",
+      "name": "trotta racing team",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gruda",
+      "name": "medvedev",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "alejandra monteoliva",
-      "traffic": "100+",
+      "name": "josé luis manzano",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sofia jujuy",
+      "name": "manuel adorni",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "club social y deportivo madryn",
-      "traffic": "2000+",
+      "name": "alejandra monteoliva",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "superávit económico",
-      "traffic": "200+",
+      "name": "sofia jujuy",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "playstation",
-      "traffic": "200+",
+      "name": "club social y deportivo madryn",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
