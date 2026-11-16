@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T16:00:17Z",
+  "updated": "2026-11-16T16:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "camionero",
-      "traffic": "100+",
+      "name": "alerta meteorológica",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "guillermo barros schelotto",
+      "name": "normas de tránsito",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dino sani",
-      "traffic": "200+",
+      "name": "16 de noviembre",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "kazajistán - eslovaquia",
-      "traffic": "200+",
+      "name": "islas feroe - moldavia",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "argentina vs costa rica",
-      "traffic": "200+",
+      "name": "camionero",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "robert pattinson",
-      "traffic": "1000+",
+      "name": "guillermo barros schelotto",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "somalia - ghana",
+      "name": "dino sani",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "kevin zenón",
+      "name": "kazajistán - eslovaquia",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "sec",
-      "traffic": "100+",
+      "name": "argentina vs costa rica",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "senegal vs",
-      "traffic": "200+",
+      "name": "robert pattinson",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
