@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T15:00:17Z",
+  "updated": "2026-11-16T15:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fuga de gas",
-      "traffic": "5000+",
+      "name": "robert pattinson",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "senegal vs",
-      "traffic": "100+",
+      "name": "somalia - ghana",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "kevin zenón",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "sec",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "senegal vs",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "ppi",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "fuga de gas",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "calendario 2027",
       "traffic": "200+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "carlos alcaraz",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "cohete",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "sudán - senegal",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "barby franco",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "gobierno",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "club atlético huracán",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fusiones y adquisiciones",
-      "traffic": "500+",
+      "name": "cohete",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
