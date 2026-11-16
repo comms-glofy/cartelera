@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T23:00:15Z",
+  "updated": "2026-11-16T23:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lali espósito",
+      "name": "apagon mundial",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "juez",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "tina simmons",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "joaquín freitas",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "lali espósito",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
       "name": "nvda",
       "traffic": "500+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "maxi lópez",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "telemundo",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "banco san juan",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "gta vi",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "chase",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "malta vs",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "serie de televisión",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "trotta racing team",
-      "traffic": "100+",
+      "name": "gta vi",
+      "traffic": "500+",
       "rank": 10
     }
   ]
