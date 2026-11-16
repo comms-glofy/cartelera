@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T12:00:15Z",
+  "updated": "2026-11-16T12:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lunes 23 de noviembre es feriado",
-      "traffic": "2000+",
+      "name": "gobierno",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "marcelo veliz",
-      "traffic": "200+",
+      "name": "fusiones y adquisiciones",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "club atlético huracán",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "marcelo veliz",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "dia del empleado judicial",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "viruela del mono",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "weather",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "pronostico mar del plata",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "vulcan",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "escuela",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "club atlético colón",
-      "traffic": "200+",
       "rank": 10
     }
   ]
