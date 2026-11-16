@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T13:30:18Z",
+  "updated": "2026-11-16T14:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sudán - senegal",
-      "traffic": "500+",
+      "name": "carlos alcaraz",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "barby franco",
+      "name": "cohete",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gobierno",
-      "traffic": "2000+",
+      "name": "sudán - senegal",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "fusiones y adquisiciones",
-      "traffic": "200+",
+      "name": "barby franco",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "gobierno",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "club atlético huracán",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "fusiones y adquisiciones",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "lunes 23 de noviembre es feriado",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "marcelo veliz",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "dia del empleado judicial",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "viruela del mono",
-      "traffic": "100+",
+      "name": "marcelo veliz",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "weather",
-      "traffic": "500+",
+      "name": "dia del empleado judicial",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
