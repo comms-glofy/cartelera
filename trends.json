@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T12:30:16Z",
+  "updated": "2026-11-16T13:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gobierno",
-      "traffic": "500+",
+      "name": "sudán - senegal",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fusiones y adquisiciones",
-      "traffic": "100+",
+      "name": "barby franco",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "gobierno",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "fusiones y adquisiciones",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "club atlético huracán",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "marcelo veliz",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "dia del empleado judicial",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "viruela del mono",
-      "traffic": "100+",
+      "name": "marcelo veliz",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "weather",
+      "name": "dia del empleado judicial",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "pronostico mar del plata",
+      "name": "viruela del mono",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "clima",
-      "traffic": "200000+",
+      "name": "weather",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "vulcan",
-      "traffic": "1000+",
+      "name": "pronostico mar del plata",
+      "traffic": "100+",
       "rank": 10
     }
   ]
