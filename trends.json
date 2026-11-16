@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-16T20:00:16Z",
+  "updated": "2026-11-16T20:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "u2",
+      "name": "noche de las heladerias",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "jeremías ledesma",
+      "name": "u2",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "grecia - serbia",
-      "traffic": "500+",
+      "name": "jeremías ledesma",
+      "traffic": "100+",
       "rank": 3
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "mariano werner",
-      "traffic": "200+",
+      "name": "grecia vs",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "alemania - países bajos",
-      "traffic": "5000+",
+      "name": "mariano werner",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "suiza - escocia",
-      "traffic": "1000+",
+      "name": "alemania - países bajos",
+      "traffic": "10000+",
       "rank": 9
     },
     {
-      "name": "gerard depardieu",
-      "traffic": "100+",
+      "name": "suiza - escocia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
