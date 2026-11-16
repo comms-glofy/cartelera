@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T02:00:17Z",
+  "updated": "2026-11-16T02:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bucks - hawks",
-      "traffic": "100+",
+      "name": "anses",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "clima cipolletti",
-      "traffic": "100+",
+      "name": "kings - thunder",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gustavo sáenz.",
-      "traffic": "100+",
+      "name": "chiqui tapia",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "tomas rebord",
+      "name": "german martitegui",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "escudería",
-      "traffic": "200+",
+      "name": "bucks - hawks",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "fernando confessore",
-      "traffic": "500+",
+      "name": "clima cipolletti",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "eva bargiela",
-      "traffic": "200+",
+      "name": "gustavo sáenz.",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "contrabando",
+      "name": "tomas rebord",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "wizards - rockets",
-      "traffic": "200+",
+      "name": "posiciones de defensor sporting contra peñarol",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ryan gosling",
-      "traffic": "100+",
+      "name": "escudería",
+      "traffic": "500+",
       "rank": 10
     }
   ]
