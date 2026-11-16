@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T09:30:15Z",
+  "updated": "2026-11-16T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sorteo quini 6",
-      "traffic": "5000+",
+      "name": "clima",
+      "traffic": "100000+",
       "rank": 1
     },
     {
-      "name": "deportivo madryn - deportivo maipú",
-      "traffic": "1000+",
+      "name": "vulcan",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "1998 ky26",
+      "name": "escuela",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "club atlético colón",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "sorteo quini 6",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "deportivo madryn - deportivo maipú",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "1998 ky26",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "aguinaldo",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "the body netflix",
       "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "the chosen temporada 6",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "kings - thunder",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "chiqui tapia",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "german martitegui",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "bucks - hawks",
-      "traffic": "200+",
       "rank": 10
     }
   ]
