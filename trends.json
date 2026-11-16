@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T10:50:14Z",
+  "updated": "2026-11-16T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "viruela del mono",
+      "name": "dia del empleado judicial",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "viruela del mono",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "weather",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "pronostico mar del plata",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "vulcan",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "escuela",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "club atlético colón",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "sorteo quini 6",
       "traffic": "5000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "deportivo madryn - deportivo maipú",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "1998 ky26",
-      "traffic": "200+",
       "rank": 10
     }
   ]
