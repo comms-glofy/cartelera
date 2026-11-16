@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T11:00:16Z",
+  "updated": "2026-11-16T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "lunes 23 de noviembre es feriado",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
+      "name": "marcelo veliz",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "dia del empleado judicial",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "viruela del mono",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "weather",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "pronostico mar del plata",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "clima",
       "traffic": "200000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "vulcan",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "escuela",
-      "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "club atlético colón",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "sorteo quini 6",
-      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "deportivo madryn - deportivo maipú",
-      "traffic": "2000+",
+      "name": "escuela",
+      "traffic": "200+",
       "rank": 10
     }
   ]
