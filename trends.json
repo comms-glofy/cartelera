@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T17:30:15Z",
+  "updated": "2026-11-16T17:52:04Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estatua",
+      "name": "apagon mundial 17 de noviembre",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "islandia vs",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
+      "name": "estatua",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "posiciones de selección de fútbol de sudán contra selección de fútbol de senegal",
       "traffic": "500+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "ciclón",
       "traffic": "500000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "alerta meteorológica",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "agata lescano",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "normas de tránsito",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "islas feroe - moldavia",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "camionero",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "dino sani",
+      "name": "16 de noviembre",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "guillermo barros schelotto",
-      "traffic": "500+",
+      "name": "islas feroe - moldavia",
+      "traffic": "100+",
       "rank": 10
     }
   ]
