@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T18:30:17Z",
+  "updated": "2026-11-16T19:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cotización dólar blue",
-      "traffic": "1000+",
+      "name": "alemania vs",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "dólar",
+      "traffic": "1000+",
+      "rank": 2
     },
     {
       "name": "benin vs",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "apagon mundial 17 de noviembre",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "islandia vs",
       "traffic": "5000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "estatua",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "santo toribio de mogrovejo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "posiciones de selección de fútbol de sudán contra selección de fútbol de senegal",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "ciclón",
       "traffic": "500000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "callum turner",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "alerta meteorológica",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
