@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-16T13:00:19Z",
+  "updated": "2026-11-16T13:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "sudán - senegal",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 1
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "gobierno",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 3
     },
     {
@@ -25,32 +25,32 @@
     },
     {
       "name": "club atlético huracán",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "lunes 23 de noviembre es feriado",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "marcelo veliz",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "dia del empleado judicial",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "viruela del mono",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "weather",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "pronostico mar del plata",
-      "traffic": "100+",
       "rank": 10
     }
   ]
