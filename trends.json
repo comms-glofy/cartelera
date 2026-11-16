@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T00:00:15Z",
+  "updated": "2026-11-16T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cotización dólar oficial dólar blue hoy",
+      "name": "mo bamba",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pablo quirno",
-      "traffic": "200+",
+      "name": "tiempo de mañana",
+      "traffic": "200000+",
       "rank": 2
     },
     {
-      "name": "neymar",
+      "name": "elecciones velez",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mauricio islas",
+      "name": "lunes 16 de noviembre es feriado",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "islas malvinas",
-      "traffic": "200+",
+      "name": "cotización dólar oficial dólar blue hoy",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ferrocarril",
-      "traffic": "100+",
+      "name": "pablo quirno",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "raptors - knicks",
-      "traffic": "200+",
+      "name": "mauricio islas",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "sporting cristal",
+      "name": "neymar",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "ferro - gimnasia y tiro de salta",
-      "traffic": "5000+",
+      "name": "islas malvinas",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "celtics - mavericks",
-      "traffic": "500+",
+      "name": "ferrocarril",
+      "traffic": "100+",
       "rank": 10
     }
   ]
