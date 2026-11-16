@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-16T01:00:19Z",
+  "updated": "2026-11-16T01:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wizards - rockets",
+      "name": "escudería",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "dia de la soberania nacional",
-      "traffic": "100+",
+      "name": "fernando confessore",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ryan gosling",
-      "traffic": "100+",
+      "name": "eva bargiela",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "maria becerra",
-      "traffic": "200+",
+      "name": "contrabando",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "jubilados",
+      "name": "wizards - rockets",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "cowboys - 49ers",
+      "name": "ryan gosling",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "volkswagen",
-      "traffic": "200+",
+      "name": "dia de la soberania nacional",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "mo bamba",
-      "traffic": "100+",
+      "name": "maria becerra",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tiempo de mañana",
-      "traffic": "200000+",
+      "name": "jubilados",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "elecciones velez",
+      "name": "cowboys - 49ers",
       "traffic": "100+",
       "rank": 10
     }
