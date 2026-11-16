@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-16T22:00:26Z",
+  "updated": "2026-11-16T22:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chase",
-      "traffic": "200+",
+      "name": "banco san juan",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "malta vs",
+      "name": "telemundo",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "serie de televisión",
+      "name": "gta vi",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "trotta racing team",
-      "traffic": "100+",
+      "name": "chase",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "medvedev",
+      "name": "malta vs",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "josé luis manzano",
+      "name": "serie de televisión",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "manuel adorni",
-      "traffic": "200+",
+      "name": "trotta racing team",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "alejandra monteoliva",
+      "name": "medvedev",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "sofia jujuy",
+      "name": "josé luis manzano",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "club social y deportivo madryn",
-      "traffic": "2000+",
+      "name": "manuel adorni",
+      "traffic": "200+",
       "rank": 10
     }
   ]
