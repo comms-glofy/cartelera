@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-17T12:00:16Z",
+  "updated": "2026-11-17T12:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "singapore vs brazil",
+      "name": "17 de noviembre que se celebra",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "marta fort",
-      "traffic": "500+",
+      "name": "dia de la militancia peronista",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "juliana awada lolo longinotti",
+      "name": "singapore vs brazil",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "que dijo nelson castro en peru",
+      "name": "juliana awada lolo longinotti",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "marta fort",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "banco de la pampa",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "que dijo nelson castro en peru",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "calingasta",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "polvo",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "clima necochea",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "apagón mundial",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "plus ultra",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "brasil",
-      "traffic": "500+",
       "rank": 10
     }
   ]
