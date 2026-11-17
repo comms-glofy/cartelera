@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-17T02:00:14Z",
+  "updated": "2026-11-17T02:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guillermo michel",
-      "traffic": "100+",
+      "name": "tiempo en rosario",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "timberwolves - trail blazers",
+      "name": "nuggets - suns",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "nico occhiato",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "daniel ricciardo",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "los juegos del hambre",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "guillermo michel",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "timberwolves - trail blazers",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "josé santiso",
       "traffic": "100+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "moria casán",
       "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "zonda",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "otro dia perdido",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "canada vs",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "clima parana",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "vix index",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "uepc",
+      "name": "zonda",
       "traffic": "100+",
       "rank": 10
     }
