@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-17T04:00:16Z",
+  "updated": "2026-11-17T04:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "el papa león xiv",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "clima santiago del estero",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
       "name": "17 de noviembre",
       "traffic": "100+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "supuesto apagón mundial",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "racing de santander",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "rosario3",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "nicolás tagliafico",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "clima rosario",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "nuggets - suns",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "nico occhiato",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "nuggets - suns",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "karina mazzocco",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "los juegos del hambre",
-      "traffic": "500+",
       "rank": 10
     }
   ]
