@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-17T03:30:12Z",
+  "updated": "2026-11-17T04:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing de santander",
-      "traffic": "200+",
+      "name": "17 de noviembre",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rosario3",
-      "traffic": "500+",
+      "name": "supuesto apagón mundial",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "nicolás tagliafico",
+      "name": "racing de santander",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "nicolas occhiato",
-      "traffic": "200+",
+      "name": "rosario3",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "nicolás tagliafico",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "clima rosario",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nico occhiato",
-      "traffic": "500+",
-      "rank": 6
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "nuggets - suns",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
-      "name": "tiempo en rosario",
+      "name": "karina mazzocco",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "los juegos del hambre",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "daniel ricciardo",
-      "traffic": "200+",
       "rank": 10
     }
   ]
