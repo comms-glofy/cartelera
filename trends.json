@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-17T09:00:16Z",
+  "updated": "2026-11-17T09:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima tucuman",
-      "traffic": "100+",
+      "name": "clima posadas",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "2000+",
+      "rank": 2
+    },
+    {
+      "name": "club social y deportivo san jorge",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "clima tucuman",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "copa sudamericana",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "granizo",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "tiempo hoy",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "quinta presidencial de olivos",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pronostico",
-      "traffic": "2000+",
+      "name": "granizo",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "the economist 2027",
+      "name": "luisana lopilato",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cuando sale gta 6",
-      "traffic": "200+",
+      "name": "quinta presidencial de olivos",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "gta 6",
-      "traffic": "200+",
+      "name": "pronostico",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "clima santiago del estero",
+      "name": "the economist 2027",
       "traffic": "100+",
       "rank": 10
     }
