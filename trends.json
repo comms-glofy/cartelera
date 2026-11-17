@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:30:14Z",
+  "updated": "2026-11-17T07:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -29,28 +29,28 @@
       "rank": 5
     },
     {
-      "name": "clima santiago del estero",
-      "traffic": "100+",
+      "name": "el papa león xiv",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "17 de noviembre",
+      "name": "clima santiago del estero",
       "traffic": "100+",
       "rank": 7
     },
     {
+      "name": "17 de noviembre",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "supuesto apagón mundial",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "racing de santander",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "rosario3",
-      "traffic": "500+",
       "rank": 10
     }
   ]
