@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-17T16:30:16Z",
+  "updated": "2026-11-17T17:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "milton delgado",
+      "name": "conmebol",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ulises bueno te quedaste sola",
+      "name": "barranquilla",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "red link",
-      "traffic": "200+",
+      "name": "clasificación para la copa africana de naciones",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "gambia - costa de marfil",
-      "traffic": "200+",
+      "name": "miranda de la serna",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "ciberataque",
+      "name": "milton delgado",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "kenia - sudáfrica",
-      "traffic": "200+",
+      "name": "ulises bueno te quedaste sola",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "desastre",
+      "name": "red link",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "venezuela",
+      "name": "gambia - costa de marfil",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima plata",
-      "traffic": "100+",
+      "name": "desastre",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "posiciones de selección de fútbol de malaui contra selección de fútbol de egipto",
-      "traffic": "500+",
+      "name": "ciberataque",
+      "traffic": "200+",
       "rank": 10
     }
   ]
