@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-17T04:30:13Z",
+  "updated": "2026-11-17T05:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gta 6",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "cuando sale gta 6",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "el papa león xiv",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "clima santiago del estero",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "17 de noviembre",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "supuesto apagón mundial",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "racing de santander",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "rosario3",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "nicolás tagliafico",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "clima rosario",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "nuggets - suns",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nico occhiato",
+      "name": "clima rosario",
       "traffic": "1000+",
       "rank": 10
     }
