@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-17T21:00:16Z",
+  "updated": "2026-11-17T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fórmula",
+      "name": "marruecos vs",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "fifa",
+      "name": "plus ultra líneas aéreas",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "portugal",
-      "traffic": "200+",
+      "name": "a que hora juega argentina",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "granadero baigorria",
+      "name": "fórmula",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "diario los andes",
-      "traffic": "1000+",
+      "name": "fifa",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sindicato",
+      "name": "portugal",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "portugal fc",
-      "traffic": "200+",
+      "name": "granadero baigorria",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "selección de fútbol de paraguay",
-      "traffic": "5000+",
+      "name": "diario los andes",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "cabo verde vs",
-      "traffic": "100+",
+      "name": "sindicato",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "línea mitre",
-      "traffic": "100+",
+      "name": "portugal fc",
+      "traffic": "500+",
       "rank": 10
     }
   ]
