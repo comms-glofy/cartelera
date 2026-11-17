@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-17T01:00:14Z",
+  "updated": "2026-11-17T01:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "heat - rockets",
-      "traffic": "200+",
+      "name": "clima parana",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "mpox",
+      "name": "vix index",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "canadá - guatemala",
-      "traffic": "500+",
+      "name": "canada vs",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "estadio",
+      "name": "pronostico santa fe",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "apagon",
-      "traffic": "500+",
+      "name": "uepc",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "united airlines",
-      "traffic": "100+",
+      "name": "clima santa fe",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "planetario universidad nacional de la plata",
-      "traffic": "500+",
+      "name": "nets - 76ers",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pelicans - warriors",
-      "traffic": "200+",
+      "name": "casa militar",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "bancos en estados unidos",
-      "traffic": "100+",
+      "name": "heat - rockets",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "unión tranviarios automotor",
-      "traffic": "500+",
+      "name": "mpox",
+      "traffic": "200+",
       "rank": 10
     }
   ]
