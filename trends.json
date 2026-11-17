@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-17T09:30:16Z",
+  "updated": "2026-11-17T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima posadas",
-      "traffic": "200+",
+      "name": "clima mar del plata",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "clima hoy",
-      "traffic": "2000+",
+      "name": "clima tandil",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "clima posadas",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "clima hoy",
+      "traffic": "5000+",
+      "rank": 4
     },
     {
       "name": "club social y deportivo san jorge",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "árbol",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "clima tucuman",
-      "traffic": "200+",
-      "rank": 4
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "copa sudamericana",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "granizo",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "luisana lopilato",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "quinta presidencial de olivos",
-      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "pronostico",
-      "traffic": "5000+",
+      "name": "granizo",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "the economist 2027",
-      "traffic": "100+",
+      "name": "luisana lopilato",
+      "traffic": "200+",
       "rank": 10
     }
   ]
