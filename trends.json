@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-17T06:00:23Z",
+  "updated": "2026-11-17T06:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima corrientes",
-      "traffic": "500+",
+      "name": "pronostico",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "pronostico",
-      "traffic": "2000+",
+      "name": "pronóstico",
+      "traffic": "500+",
       "rank": 2
+    },
+    {
+      "name": "the economist 2027",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "cuando sale gta 6",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "gta 6",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima santiago del estero",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "17 de noviembre",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "supuesto apagón mundial",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "racing de santander",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "rosario3",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "nicolás tagliafico",
+      "name": "rosario3",
       "traffic": "500+",
       "rank": 10
     }
