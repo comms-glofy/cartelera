@@ -1,31 +1,31 @@
 {
-  "updated": "2026-11-17T17:00:16Z",
+  "updated": "2026-11-17T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "conmebol",
-      "traffic": "200+",
+      "name": "lourdes bandana",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "conmebol",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "barranquilla",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clasificación para la copa africana de naciones",
       "traffic": "500+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "miranda de la serna",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "milton delgado",
-      "traffic": "200+",
       "rank": 5
     },
     {
@@ -35,22 +35,22 @@
     },
     {
       "name": "red link",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 7
-    },
-    {
-      "name": "gambia - costa de marfil",
-      "traffic": "200+",
-      "rank": 8
     },
     {
       "name": "desastre",
       "traffic": "500+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "ciberataque",
-      "traffic": "200+",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "gambia - costa de marfil",
+      "traffic": "500+",
       "rank": 10
     }
   ]
