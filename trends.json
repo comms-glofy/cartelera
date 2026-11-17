@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-17T19:30:13Z",
+  "updated": "2026-11-17T20:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bosnia y herzegovina - rumania",
+      "name": "comercio",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "acuerdo",
+      "name": "ciclón extratropical",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gales - portugal",
-      "traffic": "2000+",
+      "name": "asociación de trabajadores del estado",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "polonia - suecia",
-      "traffic": "200+",
+      "name": "cuando sale gta 6",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "israel - austria",
+      "name": "cadáver",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "dinamarca - noruega",
-      "traffic": "1000+",
+      "name": "bosnia y herzegovina - rumania",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "federico sturzenegger",
-      "traffic": "200+",
+      "name": "acuerdo",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "messi",
-      "traffic": "200+",
+      "name": "gales - portugal",
+      "traffic": "5000+",
       "rank": 8
     },
     {
-      "name": "gendarmería",
-      "traffic": "100+",
+      "name": "polonia - suecia",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "fecha de cobro anses",
-      "traffic": "100+",
+      "name": "israel - austria",
+      "traffic": "500+",
       "rank": 10
     }
   ]
