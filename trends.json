@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-17T14:00:15Z",
+  "updated": "2026-11-17T14:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paraguay vs",
-      "traffic": "1000+",
+      "name": "mercado de divisas",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "alerta tormentas",
+      "name": "médico",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "ileon",
+      "name": "egipto vs",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "diario el eco de tandil",
-      "traffic": "500+",
+      "name": "rafael jódar",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "17 de noviembre que se celebra",
-      "traffic": "200+",
+      "name": "paraguay vs",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "dia de la militancia peronista",
-      "traffic": "200+",
+      "name": "alerta tormentas",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "singapore vs brazil",
+      "name": "ileon",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "marta fort",
+      "name": "diario el eco de tandil",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "juliana awada lolo longinotti",
-      "traffic": "100+",
+      "name": "17 de noviembre que se celebra",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "banco de la pampa",
-      "traffic": "100+",
+      "name": "dia de la militancia peronista",
+      "traffic": "200+",
       "rank": 10
     }
   ]
