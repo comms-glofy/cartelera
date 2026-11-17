@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-17T05:30:14Z",
+  "updated": "2026-11-17T06:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico",
-      "traffic": "2000+",
+      "name": "clima corrientes",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "pronóstico",
-      "traffic": "500+",
+      "name": "pronostico",
+      "traffic": "2000+",
       "rank": 2
     },
     {
@@ -24,32 +24,32 @@
       "rank": 4
     },
     {
-      "name": "el papa león xiv",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
       "name": "clima santiago del estero",
       "traffic": "100+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "17 de noviembre",
       "traffic": "100+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "supuesto apagón mundial",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "racing de santander",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "rosario3",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "nicolás tagliafico",
       "traffic": "500+",
       "rank": 10
     }
