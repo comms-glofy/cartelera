@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-17T18:00:16Z",
+  "updated": "2026-11-17T18:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jordania - australia",
+      "name": "icloud",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nsa",
-      "traffic": "100+",
+      "name": "lee reeves",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "the game awards",
-      "traffic": "500+",
+      "name": "documento nacional de identidad",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "lourdes bandana",
-      "traffic": "100+",
+      "name": "jordania - australia",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "eleventickets libertadores",
-      "traffic": "200+",
+      "name": "nsa",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "conmebol",
+      "name": "game awards",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "barranquilla",
-      "traffic": "200+",
+      "name": "lourdes bandana",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "miranda de la serna",
+      "name": "eleventickets libertadores",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ulises bueno te quedaste sola",
+      "name": "barranquilla",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "red link",
-      "traffic": "500+",
+      "name": "miranda de la serna",
+      "traffic": "200+",
       "rank": 10
     }
   ]
