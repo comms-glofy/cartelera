@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-17T19:00:14Z",
+  "updated": "2026-11-17T19:15:36Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "federico sturzenegger",
-      "traffic": "100+",
+      "name": "gales - portugal",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "messi",
+      "name": "polonia - suecia",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "israel - austria",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "dinamarca - noruega",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
+      "name": "federico sturzenegger",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "messi",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "gendarmería",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "fecha de cobro anses",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "paraguay vs japon amistoso",
-      "traffic": "5000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "lluvias",
       "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "icloud",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "lee reeves",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "documento nacional de identidad",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "jordania - australia",
+      "name": "icloud",
       "traffic": "200+",
       "rank": 10
     }
