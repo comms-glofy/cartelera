@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-18T14:00:25Z",
+  "updated": "2026-11-18T14:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "línea sarmiento",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "carlos alcaraz",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "java4shell",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "shakira mebarak",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "facundo conte",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "copa intercontinental",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "deutsche bank",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "antonela roccuzzo",
-      "traffic": "500+",
+      "name": "deutsche bank",
+      "traffic": "2000+",
       "rank": 7
+    },
+    {
+      "name": "antonela roccuzzo",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "18 de noviembre",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "clima parana",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "play 5",
+      "name": "clima parana",
       "traffic": "500+",
       "rank": 10
     }
