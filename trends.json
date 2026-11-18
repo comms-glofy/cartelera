@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T08:00:17Z",
+  "updated": "2026-11-18T08:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
+      "name": "quentin grimes",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "gala de eliminación",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clippers - jazz",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "casa rosada",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lakers - hornets",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "flor peña",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "mexico fc",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "name": "mexico",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "ana del reino unido",
       "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "lali espósito",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "gordon",
-      "traffic": "500+",
       "rank": 10
     }
   ]
