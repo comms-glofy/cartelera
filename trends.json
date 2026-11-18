@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-18T09:40:53Z",
+  "updated": "2026-11-18T10:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tiempo en cordoba",
-      "traffic": "2000+",
+      "name": "cerro san bernardo",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "página 12",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "humedad",
-      "traffic": "200+",
+      "name": "tiempo en cordoba",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "club atlético independiente",
+      "name": "santiago bausili",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "tiempo en rosario",
-      "traffic": "200+",
+      "name": "clima rosario",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "clima corrientes",
+      "name": "humedad",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "gala de eliminación",
-      "traffic": "2000+",
+      "name": "club atlético independiente",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "clippers - jazz",
-      "traffic": "100+",
+      "name": "tiempo en rosario",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "casa rosada",
-      "traffic": "100+",
+      "name": "clima corrientes",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "lakers - hornets",
+      "name": "gala de eliminación",
       "traffic": "2000+",
       "rank": 10
     }
