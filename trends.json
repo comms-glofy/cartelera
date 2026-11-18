@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T09:00:17Z",
+  "updated": "2026-11-18T09:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club atlético independiente",
-      "traffic": "100+",
+      "name": "tiempo en cordoba",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "clima corrientes",
+      "name": "clima rosario",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gala de eliminación",
-      "traffic": "2000+",
+      "name": "humedad",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "clippers - jazz",
+      "name": "club atlético independiente",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "casa rosada",
+      "name": "tiempo en rosario",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "lakers - hornets",
-      "traffic": "2000+",
+      "name": "clima corrientes",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "flor peña",
+      "name": "gala de eliminación",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "mexico fc",
-      "traffic": "200+",
+      "name": "clippers - jazz",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "mexico",
-      "traffic": "500+",
+      "name": "casa rosada",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ana del reino unido",
-      "traffic": "5000+",
+      "name": "lakers - hornets",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
