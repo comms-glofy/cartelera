@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T03:00:16Z",
+  "updated": "2026-11-18T03:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "de la serna",
-      "traffic": "1000+",
+      "name": "mexico",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "lali espósito",
-      "traffic": "500+",
+      "name": "quien se fue de masterchef",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "gordon",
+      "name": "ana del reino unido",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gordon netflix",
-      "traffic": "200+",
+      "name": "mexico jamaica",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "francisco comesaña",
-      "traffic": "200+",
+      "name": "lali espósito",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "pablo migliore",
-      "traffic": "1000+",
+      "name": "gordon",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "leandro paredes y la china suarez",
+      "name": "gordon netflix",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "anne hathaway",
-      "traffic": "100+",
+      "name": "francisco comesaña",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "quien se va de masterchef hoy",
-      "traffic": "200+",
+      "name": "pablo migliore",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "sentencia",
-      "traffic": "2000+",
+      "name": "leandro paredes y la china suarez",
+      "traffic": "200+",
       "rank": 10
     }
   ]
