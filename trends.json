@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T11:00:16Z",
+  "updated": "2026-11-18T11:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima villa maria",
+      "name": "metacritic",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "twitch",
-      "traffic": "500+",
+      "name": "armada argentina",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "clima villa maria",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "twitch",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "clima cordoba",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "pronostico posadas",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "cerro san bernardo",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "página 12",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "santiago bausili",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "tiempo en cordoba",
-      "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "clima rosario",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "humedad",
-      "traffic": "500+",
       "rank": 10
     }
   ]
