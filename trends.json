@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T19:30:13Z",
+  "updated": "2026-11-18T20:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dolar",
-      "traffic": "1000+",
+      "name": "abstención",
+      "traffic": "50000+",
       "rank": 1
     },
     {
-      "name": "pedro troglio",
+      "name": "rodrigo villagra",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "lesbicidio",
+      "name": "pedro troglio",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "pago",
-      "traffic": "500+",
+      "name": "dolar",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "corolla deck",
-      "traffic": "100+",
+      "name": "lesbicidio",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "fenómeno",
+      "name": "pago",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "ludovica squirru",
-      "traffic": "500+",
+      "name": "corolla deck",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "martín llaryora",
+      "name": "fenómeno",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "ueno bank",
-      "traffic": "1000+",
+      "name": "ludovica squirru",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "selección de fútbol sub-17 de australia",
-      "traffic": "500+",
+      "name": "martín llaryora",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
