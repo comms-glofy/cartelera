@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T18:36:32Z",
+  "updated": "2026-11-18T19:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ludovica squirru",
+      "name": "fenómeno",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "martín llaryora",
-      "traffic": "100+",
+      "name": "ludovica squirru",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "ueno bank",
+      "name": "martín llaryora",
       "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "selección de fútbol sub-17 de australia",
+      "name": "ueno bank",
       "traffic": "500+",
       "rank": 4
     },
     {
+      "name": "selección de fútbol sub-17 de australia",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "real madrid - inter de milán",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "pronostico la plata",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "camiseta",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "turf",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "depósito a plazo fijo",
-      "traffic": "200+",
+      "name": "psn",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "smn",
-      "traffic": "1000+",
+      "name": "temperatura buenos aires",
+      "traffic": "200+",
       "rank": 10
     }
   ]
