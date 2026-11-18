@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T21:30:20Z",
+  "updated": "2026-11-18T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "kevin castaño",
-      "traffic": "200+",
+      "name": "soberanía",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "tiafoe",
+      "name": "megaproyecto",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "veredicto",
-      "traffic": "500+",
+      "name": "kevin castaño",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "tiafoe",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "veredicto",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "contrabando",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "mallorca fc",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "alianza atlético - melgar",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "fuerte apache",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "flavio cobolli",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "rubén darío insúa",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "dolar blue hoy",
-      "traffic": "5000+",
+      "name": "toyota corolla deck",
+      "traffic": "500+",
       "rank": 10
     }
   ]
