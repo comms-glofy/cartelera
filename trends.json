@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T22:30:15Z",
+  "updated": "2026-11-18T23:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "coritiba - santos",
-      "traffic": "500+",
+      "name": "chiqui tapia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "policía",
-      "traffic": "200+",
+      "name": "mano de obra",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "escuela",
-      "traffic": "1000+",
+      "name": "juicio",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "soberanía",
+      "name": "santos vs",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "megaproyecto",
-      "traffic": "100+",
+      "name": "promedio industrial dow jones",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "kevin castaño",
-      "traffic": "500+",
+      "name": "coritiba - santos",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "tiafoe",
-      "traffic": "100+",
+      "name": "policía",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "veredicto",
-      "traffic": "1000+",
+      "name": "escritor",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "contrabando",
-      "traffic": "500+",
+      "name": "escuela",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "mallorca fc",
-      "traffic": "200+",
+      "name": "soberanía",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
