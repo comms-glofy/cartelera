@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T06:30:20Z",
+  "updated": "2026-11-18T07:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,42 +14,42 @@
       "rank": 2
     },
     {
-      "name": "lakers",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
       "name": "casa rosada",
       "traffic": "100+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "lakers - hornets",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "flor peña",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "mexico fc",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "ana del reino unido",
       "traffic": "500+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "lali espósito",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "gordon",
+      "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "gordon netflix",
       "traffic": "500+",
       "rank": 10
     }
