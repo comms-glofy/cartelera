@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T02:30:19Z",
+  "updated": "2026-11-18T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pablo migliore",
+      "name": "de la serna",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "leandro paredes y la china suarez",
-      "traffic": "200+",
+      "name": "lali espósito",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "anne hathaway",
-      "traffic": "100+",
+      "name": "gordon",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "quien se va de masterchef hoy",
+      "name": "gordon netflix",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "sentencia",
-      "traffic": "1000+",
+      "name": "francisco comesaña",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "atlético nacional - once caldas",
-      "traffic": "500+",
+      "name": "pablo migliore",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "german martitegui",
+      "name": "leandro paredes y la china suarez",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "méxico - jamaica",
-      "traffic": "1000+",
+      "name": "anne hathaway",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "mariano chihade",
-      "traffic": "500+",
+      "name": "quien se va de masterchef hoy",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clima neuquen",
-      "traffic": "200+",
+      "name": "sentencia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
