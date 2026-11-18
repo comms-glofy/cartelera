@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T18:00:16Z",
+  "updated": "2026-11-18T18:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "real madrid - inter de milán",
-      "traffic": "200+",
+      "name": "martín llaryora",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pronostico la plata",
-      "traffic": "1000+",
+      "name": "ueno bank",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "camiseta",
-      "traffic": "200+",
+      "name": "selección de fútbol sub-17 de australia",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "depósito a plazo fijo",
+      "name": "real madrid - inter de milán",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "turf",
-      "traffic": "200+",
+      "name": "pronostico la plata",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "smn",
-      "traffic": "2000+",
+      "name": "camiseta",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima quilmes",
-      "traffic": "500+",
+      "name": "depósito a plazo fijo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "windy",
+      "name": "turf",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima capital federal",
-      "traffic": "200+",
+      "name": "smn",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "accuweather",
-      "traffic": "200+",
+      "name": "clima quilmes",
+      "traffic": "500+",
       "rank": 10
     }
   ]
