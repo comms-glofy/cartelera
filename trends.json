@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T22:00:15Z",
+  "updated": "2026-11-18T22:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "soberanía",
-      "traffic": "2000+",
+      "name": "coritiba - santos",
+      "traffic": "500+",
       "rank": 1
+    },
+    {
+      "name": "policía",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "escuela",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "soberanía",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "megaproyecto",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "kevin castaño",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "tiafoe",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "veredicto",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "contrabando",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "mallorca fc",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "alianza atlético - melgar",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "fuerte apache",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "toyota corolla deck",
-      "traffic": "500+",
       "rank": 10
     }
   ]
