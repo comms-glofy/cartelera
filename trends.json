@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T04:00:16Z",
+  "updated": "2026-11-18T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "flor peña",
-      "traffic": "200+",
+      "name": "masterchef celebrity",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "mexico",
+      "name": "flor peña",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "masterchef",
+      "name": "mexico",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "quien se fue de masterchef",
-      "traffic": "1000+",
+      "name": "masterchef",
+      "traffic": "200+",
       "rank": 5
+    },
+    {
+      "name": "quien se fue de masterchef",
+      "traffic": "2000+",
+      "rank": 6
     },
     {
       "name": "ana del reino unido",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "gordon serie",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "lali espósito",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "gordon",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "gordon netflix",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "francisco comesaña",
-      "traffic": "200+",
+      "name": "gordon",
+      "traffic": "500+",
       "rank": 10
     }
   ]
