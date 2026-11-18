@@ -1,31 +1,31 @@
 {
-  "updated": "2026-11-18T05:30:15Z",
+  "updated": "2026-11-18T06:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gala de eliminación",
+      "traffic": "2000+",
+      "rank": 1
+    },
+    {
       "name": "clippers - jazz",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "lakers",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "casa rosada",
-      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lakers - hornets",
-      "traffic": "500+",
+      "name": "casa rosada",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "masterchef celebrity",
-      "traffic": "2000+",
+      "name": "lakers - hornets",
+      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -34,22 +34,22 @@
       "rank": 6
     },
     {
+      "name": "mexico fc",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "ana del reino unido",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "lali espósito",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "gordon",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "gordon netflix",
+      "name": "gordon",
       "traffic": "500+",
       "rank": 10
     }
