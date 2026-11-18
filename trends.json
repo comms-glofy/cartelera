@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T12:00:14Z",
+  "updated": "2026-11-18T12:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "play 5",
-      "traffic": "100+",
+      "name": "antonela roccuzzo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "metacritic",
-      "traffic": "500+",
+      "name": "18 de noviembre",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "deutsche bank",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "clima parana",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "play 5",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "metacritic gta 6",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "armada argentina",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "clima villa maria",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "twitch",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "clima cordoba",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "pronostico rosario",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "pronostico posadas",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "cerro san bernardo",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "página 12",
-      "traffic": "500+",
       "rank": 10
     }
   ]
