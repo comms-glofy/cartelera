@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T15:30:23Z",
+  "updated": "2026-11-18T16:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "autopsia",
+      "name": "clima moreno",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "playstation store",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "selección de fútbol sub-17 de argentina",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "autopsia",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "pensión no contributiva",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "patrick vieira",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "línea sarmiento",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "carlos alcaraz",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "java4shell",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "facundo conte",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "shakira mebarak",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "copa intercontinental",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "deutsche bank",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
