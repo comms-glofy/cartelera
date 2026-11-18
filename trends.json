@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T20:00:24Z",
+  "updated": "2026-11-18T20:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "abstención",
-      "traffic": "50000+",
+      "name": "flavio cobolli",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "rubén darío insúa",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "dolar blue hoy",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "ambulancia",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "rodrigo villagra",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "pedro troglio",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "dolar",
-      "traffic": "1000+",
-      "rank": 4
-    },
-    {
-      "name": "lesbicidio",
-      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "pago",
+      "name": "pedro troglio",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "corolla deck",
-      "traffic": "100+",
+      "name": "lesbicidio",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "fenómeno",
+      "name": "pago",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "ludovica squirru",
-      "traffic": "500+",
+      "name": "corolla deck",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "martín llaryora",
-      "traffic": "2000+",
+      "name": "fenómeno",
+      "traffic": "500+",
       "rank": 10
     }
   ]
