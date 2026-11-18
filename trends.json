@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T19:00:14Z",
+  "updated": "2026-11-18T19:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fenómeno",
-      "traffic": "500+",
+      "name": "dolar",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "ludovica squirru",
-      "traffic": "500+",
+      "name": "pedro troglio",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "martín llaryora",
-      "traffic": "500+",
+      "name": "lesbicidio",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ueno bank",
+      "name": "pago",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "selección de fútbol sub-17 de australia",
-      "traffic": "500+",
+      "name": "corolla deck",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "real madrid - inter de milán",
-      "traffic": "200+",
+      "name": "fenómeno",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "pronostico la plata",
-      "traffic": "1000+",
+      "name": "ludovica squirru",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "camiseta",
-      "traffic": "200+",
+      "name": "martín llaryora",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "psn",
-      "traffic": "100+",
+      "name": "ueno bank",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "temperatura buenos aires",
-      "traffic": "200+",
+      "name": "selección de fútbol sub-17 de australia",
+      "traffic": "500+",
       "rank": 10
     }
   ]
