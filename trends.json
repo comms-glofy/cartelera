@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T11:30:14Z",
+  "updated": "2026-11-18T12:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "metacritic",
+      "name": "play 5",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "metacritic",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
       "name": "armada argentina",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima villa maria",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "twitch",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "clima cordoba",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "name": "pronostico rosario",
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "pronostico posadas",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "cerro san bernardo",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "página 12",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "santiago bausili",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clima rosario",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
