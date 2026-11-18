@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T00:00:16Z",
+  "updated": "2026-11-18T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "keylor navas",
-      "traffic": "200+",
+      "name": "tagliafico",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "club social y deportivo madryn",
-      "traffic": "100+",
+      "name": "flaco lopez",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ecuador",
+      "name": "autódromo",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ecuador vs",
-      "traffic": "500+",
+      "name": "mastantuono",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "condena",
+      "name": "enzo fernández",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "amistosos internacionales",
-      "traffic": "2000+",
+      "name": "uruguay",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "prestianni",
-      "traffic": "2000+",
+      "name": "copa america",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "estados unidos - haití",
-      "traffic": "1000+",
+      "name": "clima santa rosa",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "nvda",
-      "traffic": "500+",
+      "name": "luis suárez díaz",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "agustín giay",
-      "traffic": "500+",
+      "name": "club social y deportivo madryn",
+      "traffic": "200+",
       "rank": 10
     }
   ]
