@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-18T23:30:20Z",
+  "updated": "2026-11-19T00:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "alex scott",
-      "traffic": "100+",
+      "name": "corrientes",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "festividad",
-      "traffic": "200+",
+      "name": "juan román riquelme",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "flamengo - paranaense",
-      "traffic": "2000+",
+      "name": "alex scott",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "festividad",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "flamengo - paranaense",
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "cruzeiro - palmeiras",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "remo - chapecoense",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "chiqui tapia",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "mano de obra",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "juicio",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "santos vs",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "promedio industrial dow jones",
-      "traffic": "200+",
+      "name": "juicio",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
