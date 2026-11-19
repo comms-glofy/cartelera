@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T10:00:26Z",
+  "updated": "2026-11-19T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lotería de santa fe",
+      "name": "clima san luis",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "quiniela",
-      "traffic": "500+",
+      "name": "19 de noviembre",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "insecto",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "tiempo en cordoba",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 4
     },
     {
-      "name": "quini 6: controlar",
+      "name": "lotería de santa fe",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "quiniela",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "19 de noviembre que se celebra",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "desinflación",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "trucos gta 6",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "puerto",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "thunder - hawks",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "gta san andreas",
+      "name": "clima formosa",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "lakers - jazz",
-      "traffic": "1000+",
+      "name": "trucos gta 6",
+      "traffic": "200+",
       "rank": 10
     }
   ]
