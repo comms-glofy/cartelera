@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T06:00:16Z",
+  "updated": "2026-11-19T06:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "thunder - hawks",
-      "traffic": "100+",
+      "name": "puerto",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "gta san andreas",
+      "name": "thunder - hawks",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "gta san andreas",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "lakers - jazz",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "cavaliers - grizzlies",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "nuggets - celtics",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "brian fernández",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "congreso",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "gremio vs",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "los juegos del hambre",
-      "traffic": "500+",
       "rank": 10
     }
   ]
