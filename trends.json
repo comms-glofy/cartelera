@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-19T10:30:15Z",
+  "updated": "2026-11-19T11:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "clima san luis",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "19 de noviembre",
-      "traffic": "100+",
+      "traffic": "5000+",
       "rank": 2
     },
     {
       "name": "insecto",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "lotería de santa fe",
-      "traffic": "1000+",
+      "name": "quiniela",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "quiniela",
-      "traffic": "500+",
+      "name": "19 de noviembre que se celebra",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "19 de noviembre que se celebra",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
       "name": "desinflación",
-      "traffic": "100+",
-      "rank": 8
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "clima formosa",
       "traffic": "100+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "trucos gta 6",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "puerto",
+      "traffic": "500+",
       "rank": 10
     }
   ]
