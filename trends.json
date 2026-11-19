@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T01:00:15Z",
+  "updated": "2026-11-19T01:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mavericks - warriors",
+      "name": "facundo herrera",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "quiniela nacional",
-      "traffic": "200+",
+      "name": "provincia de buenos aires",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gran premio de las vegas",
-      "traffic": "500+",
+      "name": "nets - bulls",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "fuerzas armadas",
-      "traffic": "200+",
+      "name": "los juegos del hambre amanecer en la cosecha",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "heat - bucks",
+      "name": "norte",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "zanja",
-      "traffic": "100+",
+      "name": "neymar",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "grêmio - bahía",
-      "traffic": "1000+",
+      "name": "cuestión de peso",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "santiago caputo",
-      "traffic": "2000+",
+      "name": "casa rosada",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "palmeiras vs",
-      "traffic": "100+",
+      "name": "mavericks - warriors",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "magic - 76ers",
-      "traffic": "200+",
+      "name": "quiniela nacional",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
