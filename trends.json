@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T00:00:18Z",
+  "updated": "2026-11-19T00:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corrientes",
-      "traffic": "1000+",
+      "name": "grêmio - bahía",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "juan román riquelme",
+      "name": "palmeiras vs",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "alex scott",
+      "name": "magic - 76ers",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "festividad",
-      "traffic": "500+",
+      "name": "selección de fútbol de portugal",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "flamengo - paranaense",
-      "traffic": "5000+",
+      "name": "corinthians - botafogo",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "cruzeiro - palmeiras",
-      "traffic": "2000+",
+      "name": "corrientes",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "remo - chapecoense",
+      "name": "juan román riquelme",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "chiqui tapia",
+      "name": "alex scott",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mano de obra",
-      "traffic": "100+",
+      "name": "festividad",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "juicio",
-      "traffic": "1000+",
+      "name": "flamengo - paranaense",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
