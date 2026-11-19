@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T12:00:17Z",
+  "updated": "2026-11-19T12:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "anthropic",
-      "traffic": "100+",
+      "name": "alexander haskin",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "david bisbal",
-      "traffic": "100+",
+      "name": "mario pergolini",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "dia de la soberania nacional",
-      "traffic": "200+",
+      "name": "presupuesto",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "apagón eléctrico",
+      "name": "crédito",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "roberto cachanosky",
+      "name": "dia de que es hoy",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "mundial sub 17",
-      "traffic": "500+",
+      "name": "anthropic",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "19 de noviembre",
-      "traffic": "200+",
+      "name": "david bisbal",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "clima san luis",
-      "traffic": "500+",
+      "name": "dia de la soberania nacional",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "insecto",
+      "name": "apagón eléctrico",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tiempo en cordoba",
-      "traffic": "1000+",
+      "name": "roberto cachanosky",
+      "traffic": "200+",
       "rank": 10
     }
   ]
