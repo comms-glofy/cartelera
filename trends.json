@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T02:00:19Z",
+  "updated": "2026-11-19T02:30:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "nuggets - celtics",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "brian fernández",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "congreso",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "miami heat",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "gremio vs",
       "traffic": "100+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "los juegos del hambre",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "provincia de buenos aires",
-      "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "facundo herrera",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "los juegos del hambre amanecer en la cosecha",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "norte",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "nets - bulls",
-      "traffic": "100+",
+      "name": "provincia de buenos aires",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "resultados quiniela",
-      "traffic": "200+",
+      "name": "facundo herrera",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "neymar",
+      "name": "corinthians",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "casa rosada",
-      "traffic": "100+",
+      "name": "los juegos del hambre amanecer en la cosecha",
+      "traffic": "200+",
       "rank": 10
     }
   ]
