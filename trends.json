@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T09:00:21Z",
+  "updated": "2026-11-19T09:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "lotería de santa fe",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "quiniela",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "tiempo en cordoba",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
+      "name": "quini 6: controlar",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "trucos gta 6",
       "traffic": "200+",
-      "rank": 1
+      "rank": 5
     },
     {
       "name": "puerto",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "thunder - hawks",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "gta san andreas",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "lakers - jazz",
       "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "cavaliers - grizzlies",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "olé",
-      "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "nuggets - celtics",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "brian fernández",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "congreso",
-      "traffic": "100+",
       "rank": 10
     }
   ]
