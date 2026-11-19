@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T01:30:14Z",
+  "updated": "2026-11-19T02:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "facundo herrera",
-      "traffic": "200+",
+      "name": "gremio vs",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "provincia de buenos aires",
-      "traffic": "100+",
+      "name": "los juegos del hambre",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "nets - bulls",
-      "traffic": "100+",
+      "name": "provincia de buenos aires",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "los juegos del hambre amanecer en la cosecha",
-      "traffic": "100+",
+      "name": "facundo herrera",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "los juegos del hambre amanecer en la cosecha",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "norte",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "neymar",
-      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cuestión de peso",
+      "name": "nets - bulls",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "casa rosada",
-      "traffic": "100+",
+      "name": "resultados quiniela",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mavericks - warriors",
-      "traffic": "500+",
+      "name": "neymar",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "quiniela nacional",
-      "traffic": "2000+",
+      "name": "casa rosada",
+      "traffic": "100+",
       "rank": 10
     }
   ]
