@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T23:00:14Z",
+  "updated": "2026-11-19T23:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cotización dolar hoy",
-      "traffic": "2000+",
+      "name": "ley de discapacidad",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "fátima flórez",
-      "traffic": "500+",
+      "name": "superávit económico",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "carburando",
+      "name": "causa por presuntas coimas en la andis",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "aguinaldo estatales",
-      "traffic": "100+",
+      "name": "obra pública",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "vitória - bragantino",
-      "traffic": "500+",
+      "name": "cotización dolar hoy",
+      "traffic": "2000+",
       "rank": 5
+    },
+    {
+      "name": "fátima flórez",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "carburando",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "aguinaldo estatales",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "vitória - bragantino",
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "vasco da gama - internacional",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "iphone duo",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "riesgo país",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "leonel flores",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "imax",
-      "traffic": "100+",
       "rank": 10
     }
   ]
