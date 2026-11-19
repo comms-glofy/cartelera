@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T16:00:15Z",
+  "updated": "2026-11-19T16:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "anthropic acciones",
+      "name": "depósito",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "argentina sub-17 - australia sub-17",
-      "traffic": "2000+",
+      "name": "estoico",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "prófugo",
+      "name": "que se festeja hoy",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ashton kutcher",
+      "name": "anthropic acciones",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "argentina sub-17 - australia sub-17",
+      "traffic": "5000+",
+      "rank": 5
+    },
+    {
+      "name": "prófugo",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "ashton kutcher",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "oliver bearman",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "mar del plata",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "dia de la mujer",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "black friday",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "rafael jódar",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "cronista",
-      "traffic": "100+",
       "rank": 10
     }
   ]
