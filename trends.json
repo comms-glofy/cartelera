@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T17:00:15Z",
+  "updated": "2026-11-19T17:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dolar",
-      "traffic": "2000+",
+      "name": "20 de noviembre",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "depósito",
+      "name": "congreso",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "estoico",
+      "name": "amalia granata",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "que se festeja hoy",
+      "name": "julio iglesias",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "anthropic acciones",
-      "traffic": "100+",
+      "name": "tapir americano",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "argentina sub-17 - australia sub-17",
-      "traffic": "5000+",
+      "name": "dolar",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "prófugo",
+      "name": "depósito",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "ashton kutcher",
+      "name": "estoico",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "oliver bearman",
-      "traffic": "500+",
+      "name": "que se festeja hoy",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "mar del plata",
-      "traffic": "2000+",
+      "name": "anthropic acciones",
+      "traffic": "100+",
       "rank": 10
     }
   ]
