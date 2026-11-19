@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T02:30:23Z",
+  "updated": "2026-11-19T03:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nuggets - celtics",
+      "name": "lakers - jazz",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "brian fernández",
+      "name": "cavaliers - grizzlies",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "congreso",
-      "traffic": "100+",
+      "name": "nuggets - celtics",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "miami heat",
+      "name": "brian fernández",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gremio vs",
+      "name": "congreso",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "los juegos del hambre",
-      "traffic": "200+",
+      "name": "miami heat",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "provincia de buenos aires",
-      "traffic": "500+",
+      "name": "gremio vs",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "facundo herrera",
+      "name": "los juegos del hambre",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "corinthians",
-      "traffic": "200+",
+      "name": "provincia de buenos aires",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "los juegos del hambre amanecer en la cosecha",
-      "traffic": "200+",
+      "name": "facundo herrera",
+      "traffic": "500+",
       "rank": 10
     }
   ]
