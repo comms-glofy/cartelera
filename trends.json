@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T21:30:15Z",
+  "updated": "2026-11-19T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grand theft auto",
-      "traffic": "10000+",
+      "name": "vasco da gama - internacional",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "arsenal - ol lyonnes",
+      "name": "iphone duo",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ariel lijo",
-      "traffic": "100+",
+      "name": "riesgo país",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "brasil",
+      "name": "leonel flores",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "max verstappen",
-      "traffic": "200+",
+      "name": "imax",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "bill gates",
-      "traffic": "200+",
+      "name": "grand theft auto",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "cristian pavón",
-      "traffic": "1000+",
+      "name": "arsenal - ol lyonnes",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "anthropic bolsa",
-      "traffic": "200+",
+      "name": "ariel lijo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "alberto ii de mónaco",
-      "traffic": "100+",
+      "name": "brasil",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "champions femenina",
-      "traffic": "100+",
+      "name": "bill gates",
+      "traffic": "500+",
       "rank": 10
     }
   ]
