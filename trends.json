@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-19T11:30:14Z",
+  "updated": "2026-11-19T12:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dia de la soberania nacional",
-      "traffic": "200+",
+      "name": "anthropic",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "roberto cachanosky",
+      "name": "david bisbal",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "apagón eléctrico",
-      "traffic": "100+",
+      "name": "dia de la soberania nacional",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "apagón eléctrico",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "roberto cachanosky",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "mundial sub 17",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "clima san luis",
-      "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "19 de noviembre",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "name": "clima san luis",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "insecto",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "tiempo en cordoba",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "quiniela",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "19 de noviembre que se celebra",
-      "traffic": "200+",
       "rank": 10
     }
   ]
