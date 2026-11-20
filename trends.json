@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T17:30:15Z",
+  "updated": "2026-11-20T18:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "julio iglesias",
-      "traffic": "100+",
+      "name": "leonardo ponzio",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "al-ahli saudi - al-nassr",
-      "traffic": "1000+",
+      "name": "julio iglesias",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dolar hoy",
-      "traffic": "5000+",
+      "name": "al-ahli saudi - al-nassr",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "riemann hypothesis",
-      "traffic": "100+",
+      "name": "dolar hoy",
+      "traffic": "10000+",
       "rank": 4
     },
     {
-      "name": "independiente del valle - macará",
-      "traffic": "500+",
+      "name": "riemann hypothesis",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "kevin vallejos",
-      "traffic": "100+",
+      "name": "independiente del valle - macará",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "cronista",
-      "traffic": "100+",
+      "name": "enelsubte",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "enelsubte",
-      "traffic": "100+",
+      "name": "cronista",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "serpiente",
+      "name": "kevin vallejos",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "benavidez",
-      "traffic": "100+",
+      "name": "boca mañana",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
