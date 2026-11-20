@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T17:00:15Z",
+  "updated": "2026-11-20T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "riemann hypothesis",
+      "name": "julio iglesias",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "independiente del valle - macará",
-      "traffic": "200+",
+      "name": "al-ahli saudi - al-nassr",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "cronista",
-      "traffic": "100+",
+      "name": "dolar hoy",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "kevin vallejos",
+      "name": "riemann hypothesis",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "serpiente",
-      "traffic": "100+",
+      "name": "independiente del valle - macará",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "benavidez",
+      "name": "kevin vallejos",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "luis juez",
-      "traffic": "1000+",
+      "name": "cronista",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "bitcoin",
-      "traffic": "200+",
+      "name": "enelsubte",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "pronostico bahia blanca",
-      "traffic": "100+",
+      "name": "serpiente",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "denuncia",
-      "traffic": "1000+",
+      "name": "benavidez",
+      "traffic": "100+",
       "rank": 10
     }
   ]
