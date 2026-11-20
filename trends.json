@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T04:00:15Z",
+  "updated": "2026-11-20T04:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "humedad",
+      "name": "fin de semana",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tesla argentina",
+      "name": "jesica cirio",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "spurs",
-      "traffic": "100+",
+      "name": "cotización dólar oficial dólar blue hoy",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "loan",
-      "traffic": "100+",
+      "name": "humedad",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "tesla argentina",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "loan",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "villa maria ya",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "temblor en san juan",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "temblor",
-      "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "matías martin",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "domingo cavallo",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "fiona",
-      "traffic": "200+",
       "rank": 10
     }
   ]
