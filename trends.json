@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T18:30:20Z",
+  "updated": "2026-11-20T19:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "festival",
-      "traffic": "100+",
+      "name": "bayern - colonia",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "500+",
+      "name": "río neuquén",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "leonardo ponzio",
+      "name": "loan peña laudelina",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "julio iglesias",
+      "name": "festival",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "clima bahia blanca",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "leonardo ponzio",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "al nassr",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "julio iglesias",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "al-ahli saudi - al-nassr",
       "traffic": "5000+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "dolar hoy",
       "traffic": "10000+",
-      "rank": 6
-    },
-    {
-      "name": "riemann hypothesis",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "independiente del valle - macará",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "enelsubte",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "kevin vallejos",
-      "traffic": "200+",
       "rank": 10
     }
   ]
