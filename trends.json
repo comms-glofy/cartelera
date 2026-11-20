@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T20:30:16Z",
+  "updated": "2026-11-20T21:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mar del plata",
-      "traffic": "1000+",
+      "name": "porto - usc paredes",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pronostico mar del plata",
-      "traffic": "200+",
+      "name": "wall street",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "medvedev",
+      "name": "ricky martin",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ruta nacional 40",
+      "name": "bundesliga",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "daniil medvédev",
+      "name": "club atlético newell's old boys",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "joaquín cottani",
-      "traffic": "100+",
+      "name": "frances tiafoe",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "posiciones de al-ahli saudi contra al-nassr",
-      "traffic": "2000+",
+      "name": "clima mar del plata",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "bayern",
+      "name": "pronostico mar del plata",
       "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "propiedad",
-      "traffic": "500+",
+      "name": "medvedev",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "cyberleek gta 6",
-      "traffic": "200+",
+      "name": "ruta nacional 40",
+      "traffic": "500+",
       "rank": 10
     }
   ]
