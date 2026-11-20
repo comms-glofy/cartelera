@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T11:30:22Z",
+  "updated": "2026-11-20T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pronostico corrientes",
-      "traffic": "100+",
+      "name": "entierro",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "saturnino",
+      "name": "tesla",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima tandil",
-      "traffic": "200+",
+      "name": "pronostico corrientes",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "rafaela noticias",
+      "name": "saturnino",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "gran premio de las vegas",
-      "traffic": "2000+",
+      "name": "rafaela noticias",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "dia de la soberania nacional",
-      "traffic": "500+",
+      "name": "clima tandil",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "patrick stewart",
-      "traffic": "500+",
+      "name": "gran premio de las vegas",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "tito speranza",
+      "name": "dia de la soberania nacional",
       "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "mastercard",
-      "traffic": "200+",
+      "name": "patrick stewart",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "allanamiento",
-      "traffic": "1000+",
+      "name": "tito speranza",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
