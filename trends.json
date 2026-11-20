@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T21:30:15Z",
+  "updated": "2026-11-20T22:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pena de muerte",
+      "name": "legislador",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "medellín - santa fe",
+      "name": "juan fernando quintero",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "boca mineiro",
-      "traffic": "2000+",
+      "name": "columbus crew",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "frío",
-      "traffic": "200+",
+      "name": "estafa",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "máximo kirchner",
+      "name": "velez hoy",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "inversión",
-      "traffic": "200+",
+      "name": "medellín - santa fe",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "portaviones",
-      "traffic": "100+",
+      "name": "pena de muerte",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "porto - usc paredes",
-      "traffic": "200+",
+      "name": "frío",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "bayern vs",
-      "traffic": "100+",
+      "name": "máximo kirchner",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "ricky martin",
-      "traffic": "100+",
+      "name": "inversión",
+      "traffic": "200+",
       "rank": 10
     }
   ]
