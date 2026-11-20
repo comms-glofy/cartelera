@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T08:30:16Z",
+  "updated": "2026-11-20T09:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima santa fe",
+      "name": "pronostico posadas",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pronostico",
+      "name": "masterchef",
       "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "clima parana",
-      "traffic": "200+",
+      "name": "club deportivo maipú",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima plata",
-      "traffic": "200+",
+      "name": "discapacidad",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "el tiempo",
+      "name": "clima santa fe",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fin de semana",
-      "traffic": "500+",
+      "name": "clima parana",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "jesica cirio",
-      "traffic": "200+",
+      "name": "pronóstico",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "cotización dólar oficial dólar blue hoy",
-      "traffic": "2000+",
+      "name": "islas malvinas",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "humedad",
-      "traffic": "500+",
+      "name": "clima rafaela",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "tesla argentina",
-      "traffic": "100+",
+      "name": "tiempo hoy",
+      "traffic": "200+",
       "rank": 10
     }
   ]
