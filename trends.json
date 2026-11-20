@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-20T10:00:18Z",
+  "updated": "2026-11-20T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gran premio de las vegas",
+      "traffic": "1000+",
+      "rank": 1
+    },
+    {
+      "name": "dia de la soberania nacional",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "patrick stewart",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "tito speranza",
       "traffic": "200+",
-      "rank": 1
+      "rank": 4
     },
     {
       "name": "allanamiento",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "mastercard",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "masterchef",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "jose luis choque",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "tiempo de hoy",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "clima posadas",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "tiempo en santa fe",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "club deportivo maipú",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "islas malvinas",
-      "traffic": "200+",
+      "name": "clima formosa",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clima parana",
+      "name": "tiempo de hoy",
       "traffic": "200+",
       "rank": 10
     }
