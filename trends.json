@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-20T01:00:14Z",
+  "updated": "2026-11-20T01:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "spurs - clippers",
+      "name": "timberwolves - knicks",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bambino veira",
+      "name": "fuego",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "impuesto inmobiliario",
-      "traffic": "2000+",
+      "name": "felipe fort",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "benjamín vicuña",
+      "name": "nadia marquez",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "paul aron",
-      "traffic": "500+",
+      "name": "spurs - clippers",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "grizzlies - warriors",
+      "name": "bambino veira",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "f1 las vegas",
+      "name": "impuesto inmobiliario",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "joaquín freitas",
-      "traffic": "200+",
+      "name": "benjamín vicuña",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "mercado negro de divisas",
+      "name": "paul aron",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "robo",
+      "name": "grizzlies - warriors",
       "traffic": "500+",
       "rank": 10
     }
