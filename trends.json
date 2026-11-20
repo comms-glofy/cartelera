@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T07:00:27Z",
+  "updated": "2026-11-20T07:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,8 +14,8 @@
       "rank": 2
     },
     {
-      "name": "cotización dólar oficial dólar blue hoy",
-      "traffic": "2000+",
+      "name": "humedad",
+      "traffic": "500+",
       "rank": 3
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "inpres san juan",
-      "traffic": "1000+",
-      "rank": 7
-    },
-    {
       "name": "temblor en san juan",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "2000+",
+      "rank": 7
     },
     {
       "name": "temblor",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "matías martin",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "domingo cavallo",
+      "traffic": "100+",
       "rank": 10
     }
   ]
