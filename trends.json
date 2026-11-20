@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-20T09:00:14Z",
+  "updated": "2026-11-20T09:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "pronostico posadas",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -15,12 +15,12 @@
     },
     {
       "name": "club deportivo maipú",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
     },
     {
       "name": "discapacidad",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -29,18 +29,18 @@
       "rank": 5
     },
     {
-      "name": "clima parana",
-      "traffic": "200+",
+      "name": "pronóstico",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "pronóstico",
-      "traffic": "1000+",
+      "name": "islas malvinas",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "islas malvinas",
-      "traffic": "100+",
+      "name": "clima parana",
+      "traffic": "200+",
       "rank": 8
     },
     {
@@ -49,7 +49,7 @@
       "rank": 9
     },
     {
-      "name": "tiempo hoy",
+      "name": "el tiempo",
       "traffic": "200+",
       "rank": 10
     }
