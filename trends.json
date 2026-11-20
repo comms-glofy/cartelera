@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T21:00:18Z",
+  "updated": "2026-11-20T21:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "porto - usc paredes",
+      "name": "pena de muerte",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "wall street",
-      "traffic": "100+",
+      "name": "medellín - santa fe",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ricky martin",
-      "traffic": "100+",
+      "name": "boca mineiro",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "bundesliga",
+      "name": "frío",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "club atlético newell's old boys",
+      "name": "máximo kirchner",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "frances tiafoe",
+      "name": "inversión",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "1000+",
+      "name": "portaviones",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "pronostico mar del plata",
-      "traffic": "500+",
+      "name": "porto - usc paredes",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "medvedev",
-      "traffic": "200+",
+      "name": "bayern vs",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "ruta nacional 40",
-      "traffic": "500+",
+      "name": "ricky martin",
+      "traffic": "100+",
       "rank": 10
     }
   ]
