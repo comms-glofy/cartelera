@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T11:00:19Z",
+  "updated": "2026-11-20T11:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima tandil",
-      "traffic": "200+",
+      "name": "pronostico corrientes",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "rafaela noticias",
+      "name": "saturnino",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gran premio de las vegas",
-      "traffic": "1000+",
+      "name": "clima tandil",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "dia de la soberania nacional",
-      "traffic": "200+",
+      "name": "rafaela noticias",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "patrick stewart",
-      "traffic": "200+",
+      "name": "gran premio de las vegas",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "tito speranza",
-      "traffic": "1000+",
+      "name": "dia de la soberania nacional",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "allanamiento",
+      "name": "patrick stewart",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "mastercard",
-      "traffic": "200+",
+      "name": "tito speranza",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "masterchef",
-      "traffic": "500+",
+      "name": "mastercard",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "jose luis choque",
-      "traffic": "200+",
+      "name": "allanamiento",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
