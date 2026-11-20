@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T16:39:34Z",
+  "updated": "2026-11-20T17:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "serpiente",
+      "name": "riemann hypothesis",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "benavidez",
-      "traffic": "100+",
+      "name": "independiente del valle - macará",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "luis juez",
-      "traffic": "2000+",
+      "name": "cronista",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "bitcoin",
-      "traffic": "200+",
+      "name": "kevin vallejos",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "pronostico bahia blanca",
+      "name": "serpiente",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "denuncia",
-      "traffic": "500+",
+      "name": "benavidez",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "calchín oeste",
-      "traffic": "500+",
+      "name": "luis juez",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "dolar blue",
-      "traffic": "2000+",
+      "name": "bitcoin",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "fabián vargas",
-      "traffic": "200+",
+      "name": "pronostico bahia blanca",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "año escolar",
-      "traffic": "200+",
+      "name": "denuncia",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
