@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-20T00:14:42Z",
+  "updated": "2026-11-20T00:30:12Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "robo",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "orlando city - cincinnati",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "são paulo - fluminense",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "cuerpo técnico",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "racing talleres",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "tiempo de mañana",
       "traffic": "200000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "lotería",
       "traffic": "500+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "clima para amanhã",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "cuando juega boca la final de la sudamericana",
-      "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "dólar estadounidense",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "ley de discapacidad",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "superávit económico",
+      "name": "ley de discapacidad",
       "traffic": "500+",
       "rank": 10
     }
