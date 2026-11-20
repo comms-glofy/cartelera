@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T15:00:23Z",
+  "updated": "2026-11-20T15:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "año escolar",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
+      "name": "copa sudamericana",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
       "name": "riesgo pais",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "pablo alabarces",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "basura",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "rodrigo atencio",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "carlos alcaraz",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "lance broadway",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "bo derek",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "sequía",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "pity alvarez",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "clube atlético mineiro",
-      "traffic": "200+",
       "rank": 10
     }
   ]
