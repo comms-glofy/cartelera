@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-20T13:00:21Z",
+  "updated": "2026-11-20T13:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sequía",
+      "name": "bo derek",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pity alvarez",
+      "name": "sequía",
       "traffic": "100+",
       "rank": 2
     },
@@ -19,38 +19,38 @@
       "rank": 3
     },
     {
-      "name": "entierro",
-      "traffic": "200+",
+      "name": "pity alvarez",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "actor de you",
+      "name": "entierro",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pronostico corrientes",
-      "traffic": "100+",
+      "name": "actor de you",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "saturnino",
+      "name": "pronostico corrientes",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "rafaela noticias",
+      "name": "23 de noviembre",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima tandil",
-      "traffic": "200+",
+      "name": "saturnino",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "gran premio de las vegas",
-      "traffic": "2000+",
+      "name": "rafaela noticias",
+      "traffic": "200+",
       "rank": 10
     }
   ]
