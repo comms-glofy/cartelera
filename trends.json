@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T04:30:17Z",
+  "updated": "2026-11-20T05:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -20,7 +20,7 @@
     },
     {
       "name": "humedad",
-      "traffic": "200+",
+      "traffic": "500+",
       "rank": 4
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "matías martin",
+      "name": "temblor",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "domingo cavallo",
-      "traffic": "100+",
+      "name": "matías martin",
+      "traffic": "200+",
       "rank": 10
     }
   ]
