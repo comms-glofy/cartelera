@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-20T12:30:22Z",
+  "updated": "2026-11-20T13:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "entierro",
-      "traffic": "200+",
+      "name": "sequía",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "actor de you",
-      "traffic": "200+",
+      "name": "pity alvarez",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "pronostico corrientes",
+      "name": "clube atlético mineiro",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "saturnino",
-      "traffic": "100+",
+      "name": "entierro",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "rafaela noticias",
+      "name": "actor de you",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "clima tandil",
-      "traffic": "200+",
+      "name": "pronostico corrientes",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gran premio de las vegas",
-      "traffic": "2000+",
+      "name": "saturnino",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "dia de la soberania nacional",
-      "traffic": "1000+",
+      "name": "rafaela noticias",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "patrick stewart",
-      "traffic": "1000+",
+      "name": "clima tandil",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tito speranza",
+      "name": "gran premio de las vegas",
       "traffic": "2000+",
       "rank": 10
     }
