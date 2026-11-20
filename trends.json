@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-20T03:00:26Z",
+  "updated": "2026-11-20T03:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "matías martin",
-      "traffic": "100+",
+      "name": "sismo en san juan",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "domingo cavallo",
+      "name": "loan",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fiona",
-      "traffic": "100+",
+      "name": "villa maria ya",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "las vegas f1 horarios",
-      "traffic": "100+",
+      "name": "temblor en san juan",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "karina mazzocco",
-      "traffic": "1000+",
+      "name": "temblor",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "josé mansur",
-      "traffic": "200+",
+      "name": "matías martin",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "niko bellic gta 6",
+      "name": "domingo cavallo",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "musiala",
+      "name": "fiona",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "aníbal gordon",
+      "name": "las vegas f1 horarios",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "bucks - trail blazers",
-      "traffic": "100+",
+      "name": "karina mazzocco",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
