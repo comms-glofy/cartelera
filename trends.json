@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:30:17Z",
+  "updated": "2026-11-20T16:39:34Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
+      "name": "luis juez",
+      "traffic": "2000+",
+      "rank": 3
+    },
+    {
       "name": "bitcoin",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "pronostico bahia blanca",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "denuncia",
       "traffic": "500+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "calchín oeste",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "dolar blue",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fabián vargas",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "año escolar",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "copa sudamericana",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
