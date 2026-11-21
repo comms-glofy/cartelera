@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T10:00:15Z",
+  "updated": "2026-11-21T10:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "club deportivo maipú",
+      "traffic": "200+",
+      "rank": 1
+    },
+    {
       "name": "mario pergolini",
       "traffic": "100+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "francisco moura",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "tormenta",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "allanamiento",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "gabriel felix influencer",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "estrella gigante",
-      "traffic": "100+",
+      "name": "gabriel felix influencer",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "f1",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "estrella gigante",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "disney",
       "traffic": "500+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "juárez - atlas",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "mckenna grace",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "nuggets - rockets",
-      "traffic": "500+",
       "rank": 10
     }
   ]
