@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T19:00:20Z",
+  "updated": "2026-11-21T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "feyenoord",
+      "name": "real madrid - celta de vigo",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "asu almabayev",
-      "traffic": "200+",
+      "name": "barracas",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "musiala",
+      "name": "diego placente",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nations championship",
-      "traffic": "200+",
+      "name": "doue",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "arsenal de sarandi",
+      "name": "juan román riquelme",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "palmeiras - flamengo",
-      "traffic": "1000+",
+      "name": "napoli - torino",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "brian ortega",
-      "traffic": "100+",
+      "name": "claudio úbeda",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "arsenal vs",
-      "traffic": "200+",
+      "name": "arsenal fc",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "arsenal",
-      "traffic": "1000+",
+      "name": "accidente panamericana",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "76ers - bucks",
-      "traffic": "500+",
+      "name": "ikram aliskerov",
+      "traffic": "100+",
       "rank": 10
     }
   ]
