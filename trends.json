@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T15:00:21Z",
+  "updated": "2026-11-21T15:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a que hora juega boca",
-      "traffic": "5000+",
+      "name": "pumas vs francia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "club atlético river plate",
-      "traffic": "1000+",
+      "name": "coventry city - crystal palace",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "tottenham - ipswich",
+      "name": "clima santa fe",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "leverkusen - paderborn",
+      "name": "remedios de escalada",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "george russell",
-      "traffic": "500+",
+      "name": "fc union berlin - rb leipzig",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "bournemouth - nottingham forest",
-      "traffic": "200+",
+      "name": "shelton",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "enzo fernández",
+      "name": "rayo vallecano - valencia c. f.",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "raúl alfonsín",
-      "traffic": "100+",
+      "name": "carlos sainz",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "como",
-      "traffic": "500+",
+      "name": "nitto atp finals",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "alcaraz",
-      "traffic": "200+",
+      "name": "club atlético river plate",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
