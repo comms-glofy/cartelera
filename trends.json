@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T22:30:16Z",
+  "updated": "2026-11-21T23:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "chicho serna",
-      "traffic": "200+",
+      "name": "ascacibar",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "inter miami - columbus crew",
-      "traffic": "200+",
+      "name": "futbol en vivo",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "golfo pérsico",
-      "traffic": "200+",
+      "name": "boca partidos",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "copa libertadores",
+      "name": "villa",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima barranquilla",
+      "name": "final libertadores 2026",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "tomás cuello",
-      "traffic": "500+",
+      "name": "radio",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "kevin castaño",
-      "traffic": "500+",
+      "name": "bo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "fred",
+      "name": "cisse",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "santiago mele",
-      "traffic": "100+",
+      "name": "tv publica",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "bernard",
-      "traffic": "500+",
+      "name": "merentiel",
+      "traffic": "200+",
       "rank": 10
     }
   ]
