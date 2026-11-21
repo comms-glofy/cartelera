@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T07:00:26Z",
+  "updated": "2026-11-21T07:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "gabriel felix influencer",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "disney",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "juárez - atlas",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "mckenna grace",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "nuggets - rockets",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "jazz - suns",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "terremoto sismo temblor hoy epicentro",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "lakers - kings",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "selección de rugby de francia",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "gordon anibal",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "clasificacion f1",
-      "traffic": "20000+",
+      "name": "a que hora es la clasificacion de f1",
+      "traffic": "200+",
       "rank": 10
     }
   ]
