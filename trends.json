@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T18:30:16Z",
+  "updated": "2026-11-21T19:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "arsenal vs",
+      "name": "feyenoord",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "feyenoord - excelsior",
-      "traffic": "100+",
+      "name": "asu almabayev",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "76ers - bucks",
-      "traffic": "200+",
+      "name": "musiala",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "tallison teixeira",
+      "name": "nations championship",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "independiente",
-      "traffic": "1000+",
+      "name": "arsenal de sarandi",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "cartelera ufc",
-      "traffic": "100+",
+      "name": "palmeiras - flamengo",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "kocaelispor - fenerbahçe",
+      "name": "brian ortega",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "defensa y justicia - barracas central",
-      "traffic": "10000+",
+      "name": "arsenal vs",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "josé coronado",
-      "traffic": "500+",
+      "name": "arsenal",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "flavio briatore",
-      "traffic": "2000+",
+      "name": "76ers - bucks",
+      "traffic": "500+",
       "rank": 10
     }
   ]
