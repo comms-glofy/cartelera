@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T03:00:22Z",
+  "updated": "2026-11-21T03:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lakers - kings",
+      "name": "nuggets - rockets",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "selección de rugby de francia",
+      "name": "jazz - suns",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "gordon anibal",
-      "traffic": "100+",
+      "name": "terremoto sismo temblor hoy epicentro",
+      "traffic": "500+",
       "rank": 3
     },
     {
-      "name": "calor",
-      "traffic": "100+",
+      "name": "lakers - kings",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "victoria villarruel",
+      "name": "selección de rugby de francia",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "pistons - raptors",
+      "name": "gordon anibal",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "deportivo cali - millonarios",
-      "traffic": "200+",
+      "name": "fp3 las vegas",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "thunder - pelicans",
+      "name": "calor",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "play off liga argentina",
+      "name": "pistons - raptors",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "choque frontal",
-      "traffic": "2000+",
+      "name": "victoria villarruel",
+      "traffic": "200+",
       "rank": 10
     }
   ]
