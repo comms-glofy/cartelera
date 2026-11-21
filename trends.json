@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T22:00:22Z",
+  "updated": "2026-11-21T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "espn",
+      "name": "chicho serna",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "play off liga argentina",
-      "traffic": "500+",
+      "name": "inter miami - columbus crew",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "paolo bulgari",
-      "traffic": "100+",
+      "name": "golfo pérsico",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "monaco vs",
-      "traffic": "100+",
+      "name": "copa libertadores",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "u. católica - barcelona sc",
-      "traffic": "200+",
+      "name": "clima barranquilla",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "clima tandil",
-      "traffic": "200+",
+      "name": "tomás cuello",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "napoli vs",
-      "traffic": "100+",
+      "name": "kevin castaño",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "o'higgins - u. de chile",
+      "name": "fred",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "clima olavarria",
+      "name": "santiago mele",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "atlanta",
-      "traffic": "1000+",
+      "name": "bernard",
+      "traffic": "500+",
       "rank": 10
     }
   ]
