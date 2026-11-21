@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T15:30:20Z",
+  "updated": "2026-11-21T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pumas vs francia",
-      "traffic": "100+",
+      "name": "niza - psg",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "coventry city - crystal palace",
+      "name": "posiciones de alavés contra deportivo la coruña",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "clima santa fe",
-      "traffic": "200+",
+      "name": "aleksandre topuria",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "remedios de escalada",
-      "traffic": "200+",
+      "name": "pumas vs francia",
+      "traffic": "100+",
       "rank": 4
+    },
+    {
+      "name": "coventry city - crystal palace",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
+      "name": "clima santa fe",
+      "traffic": "500+",
+      "rank": 6
     },
     {
       "name": "fc union berlin - rb leipzig",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "shelton",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "rayo vallecano - valencia c. f.",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "carlos sainz",
+      "name": "remedios de escalada",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "nitto atp finals",
-      "traffic": "100+",
+      "name": "rayo vallecano - valencia c. f.",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "club atlético river plate",
-      "traffic": "2000+",
+      "name": "carlos sainz",
+      "traffic": "200+",
       "rank": 10
     }
   ]
