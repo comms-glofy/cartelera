@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T13:00:25Z",
+  "updated": "2026-11-21T13:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "world rugby nations championship",
-      "traffic": "100+",
+      "name": "max verstappen",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "galatasaray - samsunspor",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "grilla de partida f1",
+      "traffic": "5000+",
+      "rank": 3
+    },
+    {
+      "name": "world rugby nations championship",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "teams",
       "traffic": "100+",
-      "rank": 2
-    },
-    {
-      "name": "21 de noviembre que se celebra",
-      "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "manchester city - fulham",
-      "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "coronavirus",
-      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "21 de noviembre",
+      "name": "21 de noviembre que se celebra",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "grand theft auto vi",
-      "traffic": "200+",
+      "name": "manchester city - fulham",
+      "traffic": "10000+",
       "rank": 7
     },
     {
-      "name": "takata",
-      "traffic": "200+",
+      "name": "coronavirus",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "clima neuquen",
+      "name": "21 de noviembre",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "club deportivo maipú",
-      "traffic": "1000+",
+      "name": "grand theft auto vi",
+      "traffic": "200+",
       "rank": 10
     }
   ]
