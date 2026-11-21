@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T19:37:11Z",
+  "updated": "2026-11-21T20:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "new england - philadelphia",
-      "traffic": "100+",
+      "name": "colón - deportivo morón",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "francia - argentina",
-      "traffic": "2000+",
+      "name": "losc - lyon",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "real madrid - celta de vigo",
-      "traffic": "1000+",
+      "name": "donyell malen",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "new england - philadelphia",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "argentinos jrs. - independiente",
+      "traffic": "10000+",
+      "rank": 5
+    },
+    {
+      "name": "real madrid - celta de vigo",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "francia - argentina",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "barracas",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "diego placente",
       "traffic": "100+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "doue",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "juan román riquelme",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "napoli - torino",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "claudio úbeda",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "accidente panamericana",
-      "traffic": "200+",
       "rank": 10
     }
   ]
