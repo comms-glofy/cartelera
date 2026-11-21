@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T16:30:17Z",
+  "updated": "2026-11-21T17:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "parma - roma",
-      "traffic": "200+",
+      "name": "newcastle - arsenal",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "bono",
-      "traffic": "1000+",
+      "name": "sevilla - real betis",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "rosario",
+      "name": "posiciones de borussia mönchengladbach contra borussia dortmund",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "borussia dortmund",
-      "traffic": "200+",
+      "name": "psg",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "ufc",
-      "traffic": "1000+",
+      "name": "sylvester stallone",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "carlos sainz jr.",
-      "traffic": "500+",
+      "name": "zverev",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "200+",
+      "name": "parma - roma",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "tiempo en cordoba",
-      "traffic": "200+",
+      "name": "bono",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "niza - psg",
-      "traffic": "2000+",
+      "name": "rosario",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "posiciones de alavés contra deportivo la coruña",
-      "traffic": "200+",
+      "name": "ufc",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
