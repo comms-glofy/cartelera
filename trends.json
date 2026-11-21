@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T19:30:16Z",
+  "updated": "2026-11-21T19:37:11Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "real madrid - celta de vigo",
-      "traffic": "200+",
+      "name": "new england - philadelphia",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "barracas",
-      "traffic": "100+",
+      "name": "francia - argentina",
+      "traffic": "2000+",
       "rank": 2
+    },
+    {
+      "name": "real madrid - celta de vigo",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
+      "name": "barracas",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "diego placente",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "doue",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "juan román riquelme",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "napoli - torino",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "claudio úbeda",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "arsenal fc",
-      "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "accidente panamericana",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "ikram aliskerov",
-      "traffic": "100+",
       "rank": 10
     }
   ]
