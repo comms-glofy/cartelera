@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T11:00:19Z",
+  "updated": "2026-11-21T11:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "club deportivo maipú",
-      "traffic": "200+",
+      "name": "takata",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "clima neuquen",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "club deportivo maipú",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "mario pergolini",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "epicentro",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "francisco moura",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "tormenta",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "allanamiento",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "gabriel felix influencer",
-      "traffic": "1000+",
-      "rank": 7
+      "traffic": "2000+",
+      "rank": 9
     },
     {
       "name": "estrella gigante",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "disney",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "juárez - atlas",
-      "traffic": "100+",
       "rank": 10
     }
   ]
