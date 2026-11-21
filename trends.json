@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-21T04:00:14Z",
+  "updated": "2026-11-21T04:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nuggets - rockets",
-      "traffic": "200+",
+      "name": "disney",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "jazz - suns",
+      "name": "juárez - atlas",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "terremoto sismo temblor hoy epicentro",
-      "traffic": "500+",
+      "name": "mckenna grace",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "lakers - kings",
-      "traffic": "500+",
+      "name": "nuggets - rockets",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "jazz - suns",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "terremoto sismo temblor hoy epicentro",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "lakers - kings",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "selección de rugby de francia",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "gordon anibal",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "calor",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "pistons - raptors",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "victoria villarruel",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "deportivo cali - millonarios",
+      "name": "pistons - raptors",
       "traffic": "200+",
       "rank": 10
     }
