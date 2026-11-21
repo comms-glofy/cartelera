@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T21:30:14Z",
+  "updated": "2026-11-21T22:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "u. católica - barcelona sc",
+      "name": "espn",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima tandil",
-      "traffic": "200+",
+      "name": "play off liga argentina",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "napoli vs",
+      "name": "paolo bulgari",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "o'higgins - u. de chile",
-      "traffic": "200+",
+      "name": "monaco vs",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "clima olavarria",
-      "traffic": "100+",
+      "name": "u. católica - barcelona sc",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "atlanta",
-      "traffic": "500+",
+      "name": "clima tandil",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "estudiantes vs palmeiras",
+      "name": "napoli vs",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "alianza lima - fc cajamarca",
+      "name": "o'higgins - u. de chile",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "bahía - coritiba",
-      "traffic": "200+",
+      "name": "clima olavarria",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "monaco fc",
-      "traffic": "200+",
+      "name": "atlanta",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
