@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T20:30:16Z",
+  "updated": "2026-11-21T21:00:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brasileirão serie a",
+      "name": "atlanta",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "france vs argentina",
-      "traffic": "200+",
+      "name": "estudiantes vs palmeiras",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "jesus de miguel",
+      "name": "alianza lima - fc cajamarca",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "alexander zverev",
-      "traffic": "500+",
+      "name": "bahía - coritiba",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "posiciones de sevilla fc contra betis",
-      "traffic": "200+",
+      "name": "monaco fc",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "talleres de escalada",
-      "traffic": "200+",
+      "name": "racing de estrasburgo - stade brestois",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "colón - deportivo morón",
-      "traffic": "2000+",
+      "name": "medvedev",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "losc - lyon",
-      "traffic": "200+",
+      "name": "france vs argentina",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "palmeiras vs flamengo",
-      "traffic": "200+",
+      "name": "libertadores",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "donyell malen",
-      "traffic": "100+",
+      "name": "jesus de miguel",
+      "traffic": "200+",
       "rank": 10
     }
   ]
