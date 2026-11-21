@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T09:00:17Z",
+  "updated": "2026-11-21T09:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "allanamiento",
-      "traffic": "200+",
+      "name": "francisco moura",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "gabriel felix influencer",
+      "name": "tormenta",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "disney",
-      "traffic": "500+",
+      "name": "allanamiento",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "juárez - atlas",
-      "traffic": "100+",
+      "name": "gabriel felix influencer",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "mckenna grace",
+      "name": "estrella gigante",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "nuggets - rockets",
+      "name": "disney",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "jazz - suns",
-      "traffic": "200+",
+      "name": "juárez - atlas",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "perú",
-      "traffic": "1000+",
+      "name": "mckenna grace",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "lakers - kings",
-      "traffic": "1000+",
+      "name": "nuggets - rockets",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "selección de rugby de francia",
-      "traffic": "100+",
+      "name": "jazz - suns",
+      "traffic": "200+",
       "rank": 10
     }
   ]
