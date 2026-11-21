@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T03:30:17Z",
+  "updated": "2026-11-21T03:46:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -30,26 +30,26 @@
     },
     {
       "name": "gordon anibal",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 6
-    },
-    {
-      "name": "fp3 las vegas",
-      "traffic": "100+",
-      "rank": 7
     },
     {
       "name": "calor",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "pistons - raptors",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "victoria villarruel",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "deportivo cali - millonarios",
       "traffic": "200+",
       "rank": 10
     }
