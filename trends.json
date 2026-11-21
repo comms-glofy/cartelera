@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T01:30:18Z",
+  "updated": "2026-11-21T02:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bulls - wizards",
+      "name": "marchiori",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cavaliers - pacers",
+      "name": "la joaqui",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "los juegos del hambre",
-      "traffic": "500+",
+      "name": "thunder - pelicans",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "inmueble",
-      "traffic": "1000+",
+      "name": "play off liga argentina",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bloomberg línea",
-      "traffic": "200+",
+      "name": "choque frontal",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "metacritic gta 6",
+      "name": "bulls - wizards",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ronaldo martínez",
-      "traffic": "500+",
+      "name": "cavaliers - pacers",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "lavado de dinero",
-      "traffic": "200+",
+      "name": "los juegos del hambre",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "pilar smith",
-      "traffic": "100+",
+      "name": "inmueble",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "hawks - hornets",
-      "traffic": "200+",
+      "name": "bloomberg línea",
+      "traffic": "100+",
       "rank": 10
     }
   ]
