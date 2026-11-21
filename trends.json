@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-21T02:30:14Z",
+  "updated": "2026-11-21T03:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "calor",
-      "traffic": "100+",
+      "name": "lakers - kings",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "pistons - raptors",
+      "name": "selección de rugby de francia",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "victoria villarruel",
+      "name": "gordon anibal",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "deportivo cali - millonarios",
-      "traffic": "200+",
+      "name": "calor",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "la joaqui",
+      "name": "victoria villarruel",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "play off liga argentina",
-      "traffic": "200+",
+      "name": "pistons - raptors",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "thunder - pelicans",
+      "name": "deportivo cali - millonarios",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "choque frontal",
-      "traffic": "1000+",
+      "name": "thunder - pelicans",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "joaquín levinton",
-      "traffic": "500+",
+      "name": "play off liga argentina",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "crisis financiera",
-      "traffic": "10000+",
+      "name": "choque frontal",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
