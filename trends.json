@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T14:00:19Z",
+  "updated": "2026-11-22T14:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "miley cyrus",
+      "name": "temporal",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "juventus vs",
-      "traffic": "100+",
+      "name": "motogp",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "hull city - brighton",
-      "traffic": "500+",
+      "name": "marc márquez",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "posiciones de juventus contra venezia football club",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "hull city - brighton",
+      "traffic": "1000+",
+      "rank": 5
     },
     {
       "name": "barcelona - villarreal",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "atp finals 2026",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "fraude",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "agustín aristarán",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "resultado f1 hoy",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "ministro",
+      "name": "agustín aristarán",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "finanzas",
-      "traffic": "200+",
+      "name": "copa libertadores 2027",
+      "traffic": "10000+",
       "rank": 10
     }
   ]
