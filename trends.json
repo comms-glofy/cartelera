@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T08:00:18Z",
+  "updated": "2026-11-22T08:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,23 +9,23 @@
       "rank": 1
     },
     {
-      "name": "bandera de las islas malvinas",
-      "traffic": "1000+",
+      "name": "campeonato de constructores f1 2026",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "piastri",
-      "traffic": "200+",
+      "name": "bandera de las islas malvinas",
+      "traffic": "1000+",
       "rank": 3
+    },
+    {
+      "name": "f1 posiciones",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "keanu reeves",
       "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "posiciones f1",
-      "traffic": "1000+",
       "rank": 5
     },
     {
@@ -44,13 +44,13 @@
       "rank": 8
     },
     {
-      "name": "f1 hoy",
-      "traffic": "2000+",
+      "name": "wanda nara",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "wanda nara",
-      "traffic": "200+",
+      "name": "formula 1",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
