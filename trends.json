@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T17:00:19Z",
+  "updated": "2026-11-22T17:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "isack hadjar",
-      "traffic": "100+",
+      "name": "milan",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "real sociedad",
-      "traffic": "100+",
+      "name": "united fc",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "milan - frosinone",
-      "traffic": "500+",
+      "name": "pronostico mar del plata",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "gianni infantino",
+      "name": "universidad nacional de la plata (unlp)",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "noviembre",
-      "traffic": "200+",
+      "name": "manchester united",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "boda",
-      "traffic": "200+",
+      "name": "isack hadjar",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "deyverson",
-      "traffic": "500+",
+      "name": "real sociedad",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "nicolás diez",
-      "traffic": "500+",
+      "name": "milan - frosinone",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "liverpool - manchester united",
-      "traffic": "10000+",
+      "name": "noviembre",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "hull city",
-      "traffic": "200+",
+      "name": "gianni infantino",
+      "traffic": "100+",
       "rank": 10
     }
   ]
