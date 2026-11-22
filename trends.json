@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T23:00:14Z",
+  "updated": "2026-11-22T23:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guillermo francella",
-      "traffic": "100+",
+      "name": "heat - thunder",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "delta",
+      "name": "cipolletti club",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "luna llena noviembre 2026",
+      "name": "diego milito",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "posiciones de getafe cf contra atlético de madrid",
-      "traffic": "5000+",
+      "name": "fluminense vs. mirassol",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "scott bessent",
+      "name": "guillermo francella",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "caputo",
-      "traffic": "100+",
+      "name": "daiana pereyra",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "santiago espindola",
+      "name": "ramiro carrera",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "mirtha legrand",
-      "traffic": "200+",
+      "name": "delta",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "marte",
+      "name": "luna llena noviembre 2026",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "gta6",
-      "traffic": "200+",
+      "name": "posiciones de getafe cf contra atlético de madrid",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
