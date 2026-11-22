@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T13:00:18Z",
+  "updated": "2026-11-22T13:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barcelona - villarreal",
-      "traffic": "5000+",
+      "name": "hull city - brighton",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "barcelona - villarreal",
+      "traffic": "10000+",
+      "rank": 2
     },
     {
       "name": "atp finals 2026",
       "traffic": "5000+",
-      "rank": 2
-    },
-    {
-      "name": "fraude",
-      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "agustín aristarán",
-      "traffic": "100+",
+      "name": "fraude",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "ministro",
+      "name": "agustín aristarán",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "finanzas",
+      "name": "ministro",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "posiciones f1 hoy",
-      "traffic": "100+",
+      "name": "finanzas",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "perfil",
+      "name": "posiciones f1 hoy",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juventus - venezia",
-      "traffic": "1000+",
+      "name": "perfil",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "película",
-      "traffic": "200+",
+      "name": "juventus - venezia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
