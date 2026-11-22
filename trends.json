@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-22T05:00:20Z",
+  "updated": "2026-11-22T05:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "mckenna grace",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "f1 hoy",
+      "traffic": "5000+",
+      "rank": 2
+    },
+    {
       "name": "wanda nara",
       "traffic": "200+",
-      "rank": 1
+      "rank": 3
     },
     {
       "name": "formula 1",
       "traffic": "10000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "maxx morando",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "f1",
-      "traffic": "5000+",
-      "rank": 4
-    },
-    {
-      "name": "kim kardashian",
-      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "islas malvinas",
-      "traffic": "200+",
+      "name": "f1",
+      "traffic": "10000+",
       "rank": 6
     },
     {
-      "name": "tigres - américa",
-      "traffic": "500+",
+      "name": "joseph zada",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "raphael",
+      "name": "kim kardashian",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "mavericks - clippers",
+      "name": "islas malvinas",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "kings - celtics",
+      "name": "tigres - américa",
       "traffic": "500+",
       "rank": 10
     }
