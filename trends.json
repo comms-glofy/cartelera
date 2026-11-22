@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T03:30:20Z",
+  "updated": "2026-11-22T04:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tigres - américa",
+      "name": "islas malvinas",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "raphael",
-      "traffic": "100+",
+      "name": "tigres - américa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "kings - celtics",
-      "traffic": "200+",
+      "name": "raphael",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "carrera f1",
-      "traffic": "1000+",
+      "name": "mavericks - clippers",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "desierto",
+      "name": "kings - celtics",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "pilar smith",
-      "traffic": "200+",
+      "name": "carrera f1",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "policía del chaco",
-      "traffic": "200+",
+      "name": "desierto",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "timberwolves - grizzlies",
+      "name": "pilar smith",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "laurita fernández",
-      "traffic": "100+",
+      "name": "policía del chaco",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "gordon anibal",
-      "traffic": "500+",
+      "name": "timberwolves - grizzlies",
+      "traffic": "200+",
       "rank": 10
     }
   ]
