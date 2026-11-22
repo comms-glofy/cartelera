@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T04:00:17Z",
+  "updated": "2026-11-22T04:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "islas malvinas",
-      "traffic": "200+",
+      "name": "maxx morando",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "tigres - américa",
-      "traffic": "200+",
+      "name": "f1",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "raphael",
+      "name": "kim kardashian",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mavericks - clippers",
-      "traffic": "100+",
+      "name": "islas malvinas",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "tigres - américa",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "raphael",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "mavericks - clippers",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "kings - celtics",
       "traffic": "500+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "carrera f1",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "desierto",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "pilar smith",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "policía del chaco",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "timberwolves - grizzlies",
-      "traffic": "200+",
       "rank": 10
     }
   ]
