@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T11:00:16Z",
+  "updated": "2026-11-22T11:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "2026",
-      "traffic": "500+",
+      "name": "juventus - venezia",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "2026",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "sensacine",
+      "traffic": "100+",
+      "rank": 3
     },
     {
       "name": "página/12",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "recesión",
       "traffic": "200+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "diario ole",
       "traffic": "10000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "rafael grossi",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "clima cordoba",
       "traffic": "500+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "campeonato de constructores f1 2026",
       "traffic": "5000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "bandera de las islas malvinas",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "keanu reeves",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "chris pratt",
-      "traffic": "200+",
       "rank": 10
     }
   ]
