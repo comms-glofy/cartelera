@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T07:13:10Z",
+  "updated": "2026-11-22T07:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bandera de las islas malvinas",
-      "traffic": "1000+",
+      "name": "clima cordoba",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "keanu reeves",
-      "traffic": "500+",
+      "name": "bandera de las islas malvinas",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "chris pratt",
+      "name": "piastri",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "mckenna grace",
-      "traffic": "100+",
+      "name": "keanu reeves",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "f1 hoy",
-      "traffic": "2000+",
+      "name": "posiciones f1",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "wanda nara",
+      "name": "chris pratt",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "formula 1",
-      "traffic": "20000+",
+      "name": "f1 vote",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "maxx morando",
+      "name": "mckenna grace",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "f1",
-      "traffic": "20000+",
+      "name": "f1 hoy",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "joseph zada",
-      "traffic": "100+",
+      "name": "wanda nara",
+      "traffic": "200+",
       "rank": 10
     }
   ]
