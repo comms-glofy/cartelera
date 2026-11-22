@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T02:00:18Z",
+  "updated": "2026-11-22T02:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima mar del plata",
-      "traffic": "500+",
+      "name": "policía del chaco",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "alberto ades",
+      "name": "timberwolves - grizzlies",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "cruzeiro",
+      "name": "gordon anibal",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "parque lezama",
+      "name": "alberto ades",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "boca proximos partidos",
-      "traffic": "100+",
+      "name": "clima mar del plata",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "cruzeiro",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "parque lezama",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "miss universo 2026",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "river",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "desierto de atacama",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "pumas - monterrey",
+      "name": "boca proximos partidos",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "scuderia ferrari",
-      "traffic": "100+",
+      "name": "desierto de atacama",
+      "traffic": "200+",
       "rank": 10
     }
   ]
