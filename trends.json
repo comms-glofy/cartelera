@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T12:00:24Z",
+  "updated": "2026-11-22T12:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ministro",
-      "traffic": "100+",
+      "name": "barcelona - villarreal",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "juventus - venezia",
-      "traffic": "500+",
+      "name": "atp finals 2026",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "película",
-      "traffic": "100+",
+      "name": "fraude",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "2026",
-      "traffic": "1000+",
+      "name": "agustín aristarán",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "sensacine",
+      "name": "ministro",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "página/12",
-      "traffic": "200+",
+      "name": "finanzas",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "recesión",
-      "traffic": "500+",
+      "name": "juventus - venezia",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "river hoy",
-      "traffic": "20000+",
+      "name": "película",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "rafael grossi",
-      "traffic": "200+",
+      "name": "2026",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "clima cordoba",
-      "traffic": "500+",
+      "name": "página/12",
+      "traffic": "200+",
       "rank": 10
     }
   ]
