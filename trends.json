@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-22T03:00:17Z",
+  "updated": "2026-11-22T03:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "a que hora es la carrera de f1",
-      "traffic": "1000+",
+      "name": "tigres - américa",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "raphael",
+      "traffic": "100+",
+      "rank": 2
     },
     {
       "name": "kings - celtics",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
-      "name": "las vegas f1",
-      "traffic": "100+",
-      "rank": 3
+      "name": "carrera f1",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "desierto",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "pilar smith",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "policía del chaco",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "timberwolves - grizzlies",
-      "traffic": "100+",
-      "rank": 7
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "laurita fernández",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "gordon anibal",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "alberto ades",
+      "name": "gordon anibal",
       "traffic": "500+",
       "rank": 10
     }
