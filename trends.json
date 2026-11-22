@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T06:00:18Z",
+  "updated": "2026-11-22T06:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "keanu reeves",
-      "traffic": "200+",
+      "name": "bandera de las islas malvinas",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "chris pratt",
+      "name": "keanu reeves",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "f1 vote",
-      "traffic": "200+",
+      "name": "posiciones f1",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "verstappen",
-      "traffic": "2000+",
+      "name": "max verstappen",
+      "traffic": "500+",
       "rank": 4
+    },
+    {
+      "name": "chris pratt",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "f1 vote",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "verstappen",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "mckenna grace",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "f1 hoy",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "wanda nara",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "formula 1",
-      "traffic": "10000+",
-      "rank": 8
-    },
-    {
-      "name": "gp de las vegas 2026",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "maxx morando",
-      "traffic": "100+",
       "rank": 10
     }
   ]
