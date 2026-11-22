@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-22T09:30:15Z",
+  "updated": "2026-11-22T10:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "recesión",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "clima cordoba",
       "traffic": "500+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "campeonato de constructores f1 2026",
       "traffic": "1000+",
-      "rank": 2
-    },
-    {
-      "name": "bandera de las islas malvinas",
-      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "piastri",
-      "traffic": "200+",
+      "name": "bandera de las islas malvinas",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -29,12 +29,12 @@
       "rank": 5
     },
     {
-      "name": "chris pratt",
-      "traffic": "200+",
+      "name": "max verstappen",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "f1 vote",
+      "name": "chris pratt",
       "traffic": "200+",
       "rank": 7
     },
