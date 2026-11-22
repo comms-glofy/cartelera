@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T00:03:25Z",
+  "updated": "2026-11-22T00:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "paredes",
+      "name": "enner valencia",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "sporting",
-      "traffic": "200+",
+      "name": "milton delgado",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "alexis cuello",
-      "traffic": "100+",
+      "name": "flores boca",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "jair bolsonaro",
-      "traffic": "100+",
+      "name": "leonel flores",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "julio bocca",
+      "name": "ultimo titulo internacional de boca",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "andrés matonte",
-      "traffic": "100+",
+      "name": "rodrigo battaglia",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "lozano boca",
-      "traffic": "200+",
+      "name": "la ley de las bestias",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "lozano",
-      "traffic": "200+",
+      "name": "boca platense",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "cuello san lorenzo",
-      "traffic": "200+",
+      "name": "final de libertadores",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "herrera boca",
-      "traffic": "1000+",
+      "name": "montero",
+      "traffic": "500+",
       "rank": 10
     }
   ]
