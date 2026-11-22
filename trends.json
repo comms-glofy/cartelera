@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-22T01:00:17Z",
+  "updated": "2026-11-22T01:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "flavio mendoza",
-      "traffic": "100+",
+      "name": "river",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "final copa argentina",
-      "traffic": "500+",
+      "name": "pumas - monterrey",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "riquelme",
-      "traffic": "500+",
+      "name": "scuderia ferrari",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "titulos internacionales de boca",
-      "traffic": "200+",
+      "name": "sandra borghi",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "river vs",
-      "traffic": "1000+",
+      "name": "obelisco",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "palmeiras vs estudiantes",
-      "traffic": "100+",
+      "name": "recopa",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "knicks - trail blazers",
-      "traffic": "200+",
+      "name": "orlando gill",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "boca vs independiente rivadavia",
+      "name": "spurs - pelicans",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "boa",
-      "traffic": "100+",
+      "name": "once caldas - atlético nacional",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "gimnasia jujuy - deportivo madryn",
-      "traffic": "2000+",
+      "name": "cuando juega estudiantes la final de la libertadores",
+      "traffic": "100+",
       "rank": 10
     }
   ]
