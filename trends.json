@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T22:00:17Z",
+  "updated": "2026-11-23T22:08:42Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "recesion",
+      "name": "internacional - vitória",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "recesion",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
       "name": "edwuin cetré",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "comercio",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "reino unido",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "final libertadores",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ámbito financiero",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "oliver bearman",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "libertadores",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "inundación",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "riesgo país",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
