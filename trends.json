@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T20:00:18Z",
+  "updated": "2026-11-23T20:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "brentford - everton",
-      "traffic": "200+",
+      "name": "riesgo país",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "fiorentina",
-      "traffic": "200+",
+      "name": "recesion economica",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "clima concordia",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "brentford - everton",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "fiorentina",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "lavado de dinero",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "levante - elche c. f.",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "gimnasia - newell's",
-      "traffic": "10000+",
-      "rank": 5
-    },
-    {
-      "name": "monza - fiorentina",
-      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "tallulah willis",
-      "traffic": "2000+",
+      "name": "fiorentina vs",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "corte de luz bahia blanca",
+      "name": "gelp",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "guido kaczka",
-      "traffic": "200+",
+      "name": "levante - elche c. f.",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "2000+",
+      "name": "gimnasia - newell's",
+      "traffic": "20000+",
       "rank": 10
     }
   ]
