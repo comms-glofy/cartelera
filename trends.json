@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T18:30:16Z",
+  "updated": "2026-11-23T19:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guido kaczka",
-      "traffic": "100+",
+      "name": "tallulah willis",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "1000+",
+      "name": "guido kaczka",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "clima mar del plata",
+      "traffic": "2000+",
+      "rank": 3
     },
     {
       "name": "boxeo",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "fluminense - mirassol",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "jamie lee curtis",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "atraso cambiario",
-      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "elecciones españa",
+      "name": "atraso cambiario",
       "traffic": "200+",
       "rank": 7
     },
     {
+      "name": "elecciones españa",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "copa potrero",
       "traffic": "2000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "toyota",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "gimnasia",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
