@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-23T13:30:16Z",
+  "updated": "2026-11-23T14:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "embargo",
+      "name": "quinielas de hoy",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "quiniela en vivo",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "cyberleek",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "embargo",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "final copa potrero 2026",
       "traffic": "500+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "ezpeleta",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "name": "kun agüero",
+      "traffic": "100+",
+      "rank": 7
     },
     {
       "name": "tormenta",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "pampita",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "devaluación",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "masterchef celebrity argentina",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "fuego",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "balcón",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "posiciones de chicago fire fc contra charlotte fc",
+      "name": "devaluación",
       "traffic": "200+",
       "rank": 10
     }
