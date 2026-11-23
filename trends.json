@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T21:30:18Z",
+  "updated": "2026-11-23T22:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "reino unido",
+      "name": "recesion",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "edwuin cetré",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "comercio",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "reino unido",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "final libertadores",
       "traffic": "200+",
-      "rank": 2
+      "rank": 5
     },
     {
       "name": "ámbito financiero",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "oliver bearman",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "libertadores",
-      "traffic": "500+",
-      "rank": 5
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "inundación",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "riesgo país",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "everton fc",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "recesion economica",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "clima concordia",
-      "traffic": "100+",
       "rank": 10
     }
   ]
