@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T17:30:22Z",
+  "updated": "2026-11-23T18:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elecciones españa",
-      "traffic": "100+",
+      "name": "jamie lee curtis",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "nob",
+      "name": "atraso cambiario",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "elecciones españa",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "nob",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
       "name": "copa potrero",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "hernan lopez",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "gimnasia",
       "traffic": "2000+",
-      "rank": 5
-    },
-    {
-      "name": "copa potrero final",
-      "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "al-shamal - al-ahli saudi",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "hernan lopez muñoz",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "infoeme",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "clase turista",
-      "traffic": "1000+",
+      "name": "cascada de las escaleras",
+      "traffic": "200+",
       "rank": 10
     }
   ]
