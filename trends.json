@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T09:00:17Z",
+  "updated": "2026-11-23T09:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "cuartos de final liga argentina",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
       "name": "nazareno casero",
       "traffic": "500+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "china ansa",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "ricardo fort",
-      "traffic": "500+",
       "rank": 10
     }
   ]
