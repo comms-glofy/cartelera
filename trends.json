@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T02:30:15Z",
+  "updated": "2026-11-23T03:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cuartos de final liga argentina",
-      "traffic": "2000+",
+      "name": "valentina salezzi",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "nazareno casero",
-      "traffic": "500+",
+      "name": "casa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "china ansa",
+      "name": "mario massaccesi",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ricardo fort",
-      "traffic": "500+",
+      "name": "niebla",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "detención",
-      "traffic": "100+",
+      "name": "nazareno casero",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "juan bautista mahiques",
+      "name": "china ansa",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "chicago fire fc",
-      "traffic": "100+",
+      "name": "ricardo fort",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "knicks - pacers",
-      "traffic": "200+",
+      "name": "detención",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "sofia jujuy",
-      "traffic": "200+",
+      "name": "juan bautista mahiques",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "warriors - celtics",
-      "traffic": "1000+",
+      "name": "chicago fire fc",
+      "traffic": "100+",
       "rank": 10
     }
   ]
