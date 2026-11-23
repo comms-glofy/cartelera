@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T13:00:21Z",
+  "updated": "2026-11-23T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tormenta",
-      "traffic": "1000+",
+      "name": "embargo",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "final copa potrero 2026",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "ezpeleta",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "tormenta",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "pampita",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "devaluación",
       "traffic": "200+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "masterchef celebrity argentina",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "fuego",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "balcón",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "posiciones de chicago fire fc contra charlotte fc",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "irán",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "mendoza",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "canal 13",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "casa rosada",
-      "traffic": "1000+",
+      "name": "posiciones de chicago fire fc contra charlotte fc",
+      "traffic": "200+",
       "rank": 10
     }
   ]
