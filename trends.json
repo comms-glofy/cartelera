@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T23:00:21Z",
+  "updated": "2026-11-23T23:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "foz do iguaçu",
-      "traffic": "200+",
+      "name": "club atlético san lorenzo de almagro",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "botafogo - são paulo",
-      "traffic": "500+",
+      "name": "foz do iguaçu",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "internacional",
+      "name": "posiciones de levante ud contra elche c. f.",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "s&p 500",
-      "traffic": "200+",
+      "name": "botafogo - são paulo",
+      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "barco",
-      "traffic": "500+",
+      "name": "internacional",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "todo noticias",
-      "traffic": "500+",
+      "name": "s&p 500",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sancor",
-      "traffic": "100+",
+      "name": "barco",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "gran hermano",
+      "name": "sancor",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "internacional - vitória",
-      "traffic": "1000+",
+      "name": "gran hermano",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "recesion",
-      "traffic": "200+",
+      "name": "internacional - vitória",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
