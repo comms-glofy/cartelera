@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-23T16:30:21Z",
+  "updated": "2026-11-23T17:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia",
-      "traffic": "1000+",
+      "name": "hernan lopez",
+      "traffic": "200+",
       "rank": 1
     },
     {
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "clase turista",
-      "traffic": "500+",
+      "name": "newells",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "tini stoessel",
+      "name": "infoeme",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "leonida",
-      "traffic": "100+",
+      "name": "clase turista",
+      "traffic": "500+",
       "rank": 7
+    },
+    {
+      "name": "tini stoessel",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
+      "name": "leonida",
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "adolescencia",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "anthropic",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "línea sarmiento",
-      "traffic": "500+",
       "rank": 10
     }
   ]
