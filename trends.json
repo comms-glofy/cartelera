@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T15:00:18Z",
+  "updated": "2026-11-23T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tradingview",
+      "name": "anthropic",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "avengers doomsday",
-      "traffic": "100+",
+      "name": "línea sarmiento",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "telekino 2455 resultados",
-      "traffic": "2000+",
+      "name": "investing",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nvidia acciones",
+      "name": "avengers doomsday",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "corbeta",
-      "traffic": "100+",
+      "name": "tradingview",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "nicolás otamendi",
-      "traffic": "100+",
+      "name": "telekino 2455 resultados",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "guillermo, príncipe de gales",
+      "name": "nvidia acciones",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "jensen huang",
-      "traffic": "2000+",
+      "name": "nicolás otamendi",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "pago",
-      "traffic": "1000+",
+      "name": "corbeta",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "quiniela chaqueña",
-      "traffic": "200+",
+      "name": "guillermo, príncipe de gales",
+      "traffic": "500+",
       "rank": 10
     }
   ]
