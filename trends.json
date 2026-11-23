@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T01:00:18Z",
+  "updated": "2026-11-23T01:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jornada laboral",
-      "traffic": "200+",
+      "name": "knicks - pacers",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "demanda colectiva",
-      "traffic": "100+",
+      "name": "alex luna",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "instituto - huracán",
-      "traffic": "10000+",
+      "name": "sofia jujuy",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bulls - nuggets",
-      "traffic": "200+",
+      "name": "warriors - celtics",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "racing club",
-      "traffic": "500+",
+      "name": "telekino",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "sorteo telekino",
+      "name": "jazz - mavericks",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "pro",
-      "traffic": "100+",
+      "name": "jornada laboral",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "posiciones de liga de quito contra aucas",
-      "traffic": "200+",
+      "name": "demanda colectiva",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "primera",
-      "traffic": "500+",
+      "name": "instituto - huracán",
+      "traffic": "20000+",
       "rank": 9
     },
     {
-      "name": "cruces liga argentina",
-      "traffic": "500+",
+      "name": "bulls - nuggets",
+      "traffic": "200+",
       "rank": 10
     }
   ]
