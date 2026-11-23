@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T19:00:18Z",
+  "updated": "2026-11-23T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tallulah willis",
+      "name": "monza - fiorentina",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "guido kaczka",
-      "traffic": "100+",
+      "name": "tallulah willis",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "corte de luz bahia blanca",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "guido kaczka",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "clima mar del plata",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "boxeo",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "fluminense - mirassol",
       "traffic": "2000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "jamie lee curtis",
-      "traffic": "200+",
-      "rank": 6
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "atraso cambiario",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "elecciones españa",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "copa potrero",
-      "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "toyota",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
