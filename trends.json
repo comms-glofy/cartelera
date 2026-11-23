@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T01:30:15Z",
+  "updated": "2026-11-23T01:55:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "knicks - pacers",
+      "name": "ricardo fort",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "alex luna",
-      "traffic": "200+",
+      "name": "detención",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sofia jujuy",
+      "name": "juan bautista mahiques",
       "traffic": "200+",
       "rank": 3
     },
     {
+      "name": "chicago fire fc",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "knicks - pacers",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "sofia jujuy",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "warriors - celtics",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "telekino",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "ángel di maría",
+      "traffic": "100+",
+      "rank": 9
     },
     {
       "name": "jazz - mavericks",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "jornada laboral",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "demanda colectiva",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "instituto - huracán",
-      "traffic": "20000+",
-      "rank": 9
-    },
-    {
-      "name": "bulls - nuggets",
-      "traffic": "200+",
       "rank": 10
     }
   ]
