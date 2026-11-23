@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T00:00:24Z",
+  "updated": "2026-11-23T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "gimnasia y tiro de salta - tristán suárez",
-      "traffic": "1000+",
+      "name": "racing club",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "andrada river",
+      "name": "bulls - nuggets",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sarmiento de la banda",
+      "name": "sorteo telekino",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chicago fire - charlotte fc",
+      "name": "pro",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "vasco da gama",
+      "name": "posiciones de liga de quito contra aucas",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tiver",
-      "traffic": "100+",
+      "name": "instituto",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "guadalajara - cruz azul",
-      "traffic": "200+",
+      "name": "cruces liga argentina",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "bruce willis",
-      "traffic": "200+",
+      "name": "play off",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "black friday",
-      "traffic": "200+",
+      "name": "gimnasia y tiro de salta - tristán suárez",
+      "traffic": "5000+",
       "rank": 9
     },
     {
-      "name": "liga de quito",
-      "traffic": "100+",
+      "name": "clausura 2026",
+      "traffic": "200+",
       "rank": 10
     }
   ]
