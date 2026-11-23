@@ -1,46 +1,46 @@
 {
-  "updated": "2026-11-23T12:00:20Z",
+  "updated": "2026-11-23T12:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fuego",
+      "name": "devaluación",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "balcón",
-      "traffic": "100+",
+      "name": "masterchef celebrity argentina",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "posiciones de chicago fire fc contra charlotte fc",
-      "traffic": "500+",
+      "name": "fuego",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "irán",
+      "name": "balcón",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "mendoza",
-      "traffic": "100+",
+      "name": "posiciones de chicago fire fc contra charlotte fc",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "23 de noviembre",
+      "name": "irán",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "canal 13",
+      "name": "mendoza",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "mala fama",
-      "traffic": "200+",
+      "name": "canal 13",
+      "traffic": "100+",
       "rank": 8
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "chris rock",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 10
     }
   ]
