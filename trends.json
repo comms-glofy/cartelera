@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T20:30:18Z",
+  "updated": "2026-11-23T21:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "oliver bearman",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "libertadores",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "inundación",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "riesgo país",
       "traffic": "1000+",
-      "rank": 1
+      "rank": 4
+    },
+    {
+      "name": "everton fc",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "recesion economica",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "clima concordia",
       "traffic": "100+",
-      "rank": 3
-    },
-    {
-      "name": "brentford - everton",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "fiorentina",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "lavado de dinero",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "fiorentina vs",
-      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "gelp",
-      "traffic": "200+",
+      "name": "brentford - everton",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "levante - elche c. f.",
-      "traffic": "500+",
+      "name": "fiorentina",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "gimnasia - newell's",
-      "traffic": "20000+",
+      "name": "lavado de dinero",
+      "traffic": "500+",
       "rank": 10
     }
   ]
