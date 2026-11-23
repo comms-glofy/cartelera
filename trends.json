@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T00:30:16Z",
+  "updated": "2026-11-23T01:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "racing club",
-      "traffic": "500+",
+      "name": "jornada laboral",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "demanda colectiva",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "instituto - huracán",
+      "traffic": "10000+",
+      "rank": 3
     },
     {
       "name": "bulls - nuggets",
       "traffic": "200+",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "racing club",
+      "traffic": "500+",
+      "rank": 5
     },
     {
       "name": "sorteo telekino",
-      "traffic": "200+",
-      "rank": 3
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "pro",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "posiciones de liga de quito contra aucas",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
-      "name": "instituto",
-      "traffic": "5000+",
-      "rank": 6
+      "name": "primera",
+      "traffic": "500+",
+      "rank": 9
     },
     {
       "name": "cruces liga argentina",
       "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "play off",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "gimnasia y tiro de salta - tristán suárez",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "clausura 2026",
-      "traffic": "200+",
       "rank": 10
     }
   ]
