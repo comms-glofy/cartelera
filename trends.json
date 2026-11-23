@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T08:00:18Z",
+  "updated": "2026-11-23T08:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "giuliano cerato",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "sorteo quini 6",
       "traffic": "2000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "fiesta nacional del sol",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "valentina salezzi",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "casa",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "mario massaccesi",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "niebla",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nazareno casero",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "china ansa",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "ricardo fort",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "detención",
-      "traffic": "100+",
       "rank": 10
     }
   ]
