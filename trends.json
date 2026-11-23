@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T02:00:19Z",
+  "updated": "2026-11-23T02:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ricardo fort",
-      "traffic": "100+",
+      "name": "cuartos de final liga argentina",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "detención",
-      "traffic": "100+",
+      "name": "nazareno casero",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "juan bautista mahiques",
+      "name": "china ansa",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chicago fire fc",
-      "traffic": "100+",
+      "name": "ricardo fort",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "knicks - pacers",
-      "traffic": "200+",
+      "name": "detención",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sofia jujuy",
+      "name": "juan bautista mahiques",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "warriors - celtics",
-      "traffic": "500+",
+      "name": "chicago fire fc",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "telekino",
-      "traffic": "1000+",
+      "name": "knicks - pacers",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ángel di maría",
-      "traffic": "100+",
+      "name": "sofia jujuy",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "jazz - mavericks",
-      "traffic": "100+",
+      "name": "warriors - celtics",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
