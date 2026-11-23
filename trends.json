@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T21:00:17Z",
+  "updated": "2026-11-23T21:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "oliver bearman",
-      "traffic": "100+",
+      "name": "reino unido",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "libertadores",
+      "name": "final libertadores",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "inundación",
-      "traffic": "200+",
+      "name": "ámbito financiero",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "riesgo país",
-      "traffic": "1000+",
+      "name": "oliver bearman",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "everton fc",
-      "traffic": "100+",
+      "name": "libertadores",
+      "traffic": "500+",
       "rank": 5
+    },
+    {
+      "name": "inundación",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "riesgo país",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "everton fc",
+      "traffic": "200+",
+      "rank": 8
     },
     {
       "name": "recesion economica",
       "traffic": "100+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "clima concordia",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "brentford - everton",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "fiorentina",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "lavado de dinero",
-      "traffic": "500+",
       "rank": 10
     }
   ]
