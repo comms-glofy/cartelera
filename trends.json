@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T18:00:19Z",
+  "updated": "2026-11-23T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "jamie lee curtis",
-      "traffic": "200+",
+      "name": "guido kaczka",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "atraso cambiario",
-      "traffic": "100+",
+      "name": "clima mar del plata",
+      "traffic": "1000+",
       "rank": 2
     },
     {
-      "name": "elecciones españa",
+      "name": "boxeo",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nob",
-      "traffic": "200+",
+      "name": "fluminense - mirassol",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "copa potrero",
-      "traffic": "1000+",
+      "name": "jamie lee curtis",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "hernan lopez",
-      "traffic": "500+",
+      "name": "atraso cambiario",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "gimnasia",
-      "traffic": "2000+",
+      "name": "elecciones españa",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "al-shamal - al-ahli saudi",
-      "traffic": "200+",
+      "name": "copa potrero",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "hernan lopez muñoz",
+      "name": "toyota",
       "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "cascada de las escaleras",
-      "traffic": "200+",
+      "name": "gimnasia",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
