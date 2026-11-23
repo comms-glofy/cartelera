@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T22:30:18Z",
+  "updated": "2026-11-23T23:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barco",
-      "traffic": "500+",
+      "name": "foz do iguaçu",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "todo noticias",
+      "name": "botafogo - são paulo",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "sancor",
-      "traffic": "100+",
+      "name": "internacional",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "gran hermano",
+      "name": "s&p 500",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "internacional - vitória",
+      "name": "barco",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "recesion",
-      "traffic": "200+",
+      "name": "todo noticias",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "edwuin cetré",
+      "name": "sancor",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "comercio",
+      "name": "gran hermano",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "reino unido",
-      "traffic": "500+",
+      "name": "internacional - vitória",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "final libertadores",
-      "traffic": "500+",
+      "name": "recesion",
+      "traffic": "200+",
       "rank": 10
     }
   ]
