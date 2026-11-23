@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-23T19:30:16Z",
+  "updated": "2026-11-23T20:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "monza - fiorentina",
-      "traffic": "1000+",
+      "name": "brentford - everton",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "tallulah willis",
-      "traffic": "1000+",
+      "name": "fiorentina",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "corte de luz bahia blanca",
+      "name": "lavado de dinero",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "guido kaczka",
+      "name": "levante - elche c. f.",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima mar del plata",
-      "traffic": "2000+",
+      "name": "gimnasia - newell's",
+      "traffic": "10000+",
       "rank": 5
     },
     {
-      "name": "boxeo",
-      "traffic": "100+",
+      "name": "monza - fiorentina",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "fluminense - mirassol",
+      "name": "tallulah willis",
       "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "jamie lee curtis",
-      "traffic": "500+",
+      "name": "corte de luz bahia blanca",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "atraso cambiario",
+      "name": "guido kaczka",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "elecciones españa",
-      "traffic": "200+",
+      "name": "clima mar del plata",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
