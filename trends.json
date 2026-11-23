@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-23T10:00:21Z",
+  "updated": "2026-11-23T10:15:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "longevidad",
-      "traffic": "100+",
+      "name": "diego simeone",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "leonardo ponzio",
+      "name": "longevidad",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "giuliano cerato",
+      "name": "leonardo ponzio",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "tiempo en cordoba",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "giuliano cerato",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "sorteo quini 6",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "fiesta nacional del sol",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "valentina salezzi",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "casa",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "mario massaccesi",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "niebla",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "cuartos de final liga argentina",
+      "name": "mario massaccesi",
       "traffic": "2000+",
       "rank": 10
     }
