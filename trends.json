@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-24T07:30:17Z",
+  "updated": "2026-11-24T08:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "la joaqui",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
       "name": "emiliano kaczka",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "clima corrientes",
       "traffic": "500+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "clima formosa",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "alerta amarilla",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "hija",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "lakers - jazz",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "kings - spurs",
+      "name": "lakers - jazz",
       "traffic": "1000+",
       "rank": 7
     },
@@ -44,12 +44,12 @@
       "rank": 8
     },
     {
-      "name": "agustina albertario",
-      "traffic": "200+",
+      "name": "kings - spurs",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "china",
+      "name": "agustina albertario",
       "traffic": "200+",
       "rank": 10
     }
