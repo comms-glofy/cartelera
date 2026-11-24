@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T09:30:16Z",
+  "updated": "2026-11-24T10:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hielo",
-      "traffic": "1000+",
+      "name": "industria del calzado",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "árbol",
+      "name": "flávio bolsonaro",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "primera división de argentina",
-      "traffic": "100+",
+      "name": "final copa argentina",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "club atlético independiente",
+      "name": "24 de noviembre",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "club atlético boca juniors",
-      "traffic": "500+",
+      "name": "hielo",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "mercado cambiario",
-      "traffic": "200+",
+      "name": "árbol",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "colombia",
-      "traffic": "100+",
+      "name": "primera división de argentina",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "sebastián vignolo",
-      "traffic": "5000+",
+      "name": "club atlético independiente",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "copa sudamericana",
-      "traffic": "1000+",
+      "name": "mercado cambiario",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "masterchef",
-      "traffic": "200+",
+      "name": "champions",
+      "traffic": "100+",
       "rank": 10
     }
   ]
