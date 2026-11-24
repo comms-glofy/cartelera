@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T16:00:18Z",
+  "updated": "2026-11-24T16:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "galatasaray",
+      "traffic": "100+",
+      "rank": 1
+    },
+    {
+      "name": "islas malvinas (falkland islands)",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "anses fecha de cobro diciembre 2026",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "shabab al-ahli - al qadisiya",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "copa américa 2028",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "champions league",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
       "name": "papa francisco diablo",
       "traffic": "500+",
-      "rank": 1
+      "rank": 7
     },
     {
       "name": "iol",
       "traffic": "500+",
-      "rank": 2
+      "rank": 8
     },
     {
       "name": "calendario 2027",
       "traffic": "200+",
-      "rank": 3
+      "rank": 9
     },
     {
       "name": "dolar",
       "traffic": "10000+",
-      "rank": 4
-    },
-    {
-      "name": "dolar hoy",
-      "traffic": "20000+",
-      "rank": 5
-    },
-    {
-      "name": "edith hermida",
-      "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "cuando es el black friday en argentina 2026",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "bna",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "janos",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "calendario diciembre 2026",
-      "traffic": "200+",
       "rank": 10
     }
   ]
