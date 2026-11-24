@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T08:30:21Z",
+  "updated": "2026-11-24T09:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "copa sudamericana",
-      "traffic": "1000+",
+      "name": "club atlético boca juniors",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "pronostico posadas",
+      "name": "mercado cambiario",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "la joaqui",
-      "traffic": "200+",
+      "name": "colombia",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "emiliano kaczka",
-      "traffic": "200+",
+      "name": "sebastián vignolo",
+      "traffic": "5000+",
       "rank": 4
     },
     {
-      "name": "the walking dead",
-      "traffic": "100+",
+      "name": "copa sudamericana",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "clima corrientes",
-      "traffic": "500+",
+      "name": "nicolás ramírez",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "clima formosa",
+      "name": "masterchef",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "alerta amarilla",
-      "traffic": "200+",
+      "name": "pablo dóvalo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "hija",
+      "name": "covid argentina",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "lakers - jazz",
-      "traffic": "1000+",
+      "name": "pronostico posadas",
+      "traffic": "200+",
       "rank": 10
     }
   ]
