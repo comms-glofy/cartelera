@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T10:30:22Z",
+  "updated": "2026-11-24T11:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "datachaco",
+      "name": "base naval ushuaia",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "declaración jurada",
+      "name": "evelyn botto",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "industria del calzado",
+      "name": "datachaco",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "flávio bolsonaro",
-      "traffic": "200+",
+      "name": "declaración jurada",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "final copa argentina",
+      "name": "industria del calzado",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pronostico formosa",
-      "traffic": "200+",
+      "name": "sergio urribarri",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "24 de noviembre",
+      "name": "flávio bolsonaro",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "hielo",
-      "traffic": "2000+",
+      "name": "24 de noviembre",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "árbol",
-      "traffic": "100+",
+      "name": "final copa argentina",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "primera división de argentina",
-      "traffic": "200+",
+      "name": "hielo",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
