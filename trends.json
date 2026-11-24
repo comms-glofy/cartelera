@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T03:00:17Z",
+  "updated": "2026-11-24T03:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "lakers - jazz",
-      "traffic": "200+",
+      "name": "hija",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "lakers - jazz",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "kings - spurs",
       "traffic": "200+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "dólar estadounidense",
-      "traffic": "500+",
-      "rank": 3
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "china",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "agustina albertario",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "automovilismo",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "timberwolves - nets",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "neymar",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "rockets - clippers",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "timberwolves - nets",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "guillermo andino",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
