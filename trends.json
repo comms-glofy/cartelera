@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T16:30:16Z",
+  "updated": "2026-11-24T17:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "galatasaray",
+      "name": "superluna",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "islas malvinas (falkland islands)",
-      "traffic": "100+",
+      "name": "8 de diciembre",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "anses fecha de cobro diciembre 2026",
-      "traffic": "500+",
+      "name": "dia del vino",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "shabab al-ahli - al qadisiya",
-      "traffic": "200+",
+      "name": "cyberpunk 2",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "copa américa 2028",
+      "name": "galatasaray",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "champions league",
-      "traffic": "200+",
+      "name": "islas malvinas (falkland islands)",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "papa francisco diablo",
+      "name": "anses fecha de cobro diciembre 2026",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "iol",
-      "traffic": "500+",
+      "name": "shabab al-ahli - al qadisiya",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "calendario 2027",
-      "traffic": "200+",
+      "name": "copa américa 2028",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "dolar",
-      "traffic": "10000+",
+      "name": "champions league",
+      "traffic": "200+",
       "rank": 10
     }
   ]
