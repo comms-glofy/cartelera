@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-24T04:00:14Z",
+  "updated": "2026-11-24T04:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hija",
-      "traffic": "100+",
+      "name": "alerta amarilla",
+      "traffic": "200+",
       "rank": 1
     },
     {
       "name": "lakers - jazz",
-      "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "dólar estadounidense",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "kings - spurs",
       "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "dólar estadounidense",
+      "traffic": "1000+",
       "rank": 4
     },
     {
@@ -35,16 +35,16 @@
     },
     {
       "name": "automovilismo",
-      "traffic": "500+",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "timberwolves - nets",
+      "name": "neymar",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "neymar",
+      "name": "timberwolves - nets",
       "traffic": "200+",
       "rank": 9
     },
