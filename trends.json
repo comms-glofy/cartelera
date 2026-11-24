@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T23:00:26Z",
+  "updated": "2026-11-24T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rodrigo battaglia",
-      "traffic": "200+",
+      "name": "maru botana",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "balón de oro",
+      "name": "paso",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "paulo dybala",
-      "traffic": "200+",
+      "name": "claudio vidal",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "papa francisco",
-      "traffic": "2000+",
+      "name": "millonarios - bucaramanga",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "quien era santucho",
+      "name": "cecilia insinga",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "fraude",
-      "traffic": "500+",
+      "name": "rodrigo battaglia",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "club atlético san lorenzo de almagro",
-      "traffic": "200+",
+      "name": "balón de oro",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "empleado",
-      "traffic": "100+",
+      "name": "paulo dybala",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "fuerza aérea argentina",
-      "traffic": "200+",
+      "name": "papa francisco",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "posiciones de real madrid contra psv",
-      "traffic": "20000+",
+      "name": "quien era santucho",
+      "traffic": "100+",
       "rank": 10
     }
   ]
