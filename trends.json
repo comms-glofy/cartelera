@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T13:30:25Z",
+  "updated": "2026-11-24T14:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dolar hoy",
-      "traffic": "5000+",
+      "name": "calendario 2027",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cuando es el black friday en argentina 2026",
+      "name": "feriado diciembre 2026",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bna",
-      "traffic": "1000+",
+      "name": "dolar hoy",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "janos",
+      "name": "edith hermida",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "calendario diciembre 2026",
-      "traffic": "200+",
+      "name": "cuando es el black friday en argentina 2026",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ambito financiero",
-      "traffic": "1000+",
+      "name": "bna",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "janos",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "ambito financiero",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "bodega",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "la voz del interior",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "reconquista hoy",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "feriados diciembre 2026",
-      "traffic": "500+",
       "rank": 10
     }
   ]
