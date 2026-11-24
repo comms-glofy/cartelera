@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T00:00:18Z",
+  "updated": "2026-11-24T00:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "santos - grêmio",
-      "traffic": "1000+",
+      "name": "debate",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "máxima de los países bajos",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "76ers - trail blazers",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "lisandro martínez",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "santos - grêmio",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "luna llena noviembre 2026",
       "traffic": "200+",
-      "rank": 2
-    },
-    {
-      "name": "palmeiras vs estudiantes",
-      "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "salario",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "el litoral",
-      "traffic": "200+",
-      "rank": 5
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "dólar oficial hoy",
       "traffic": "200+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "encuesta",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "club atlético san lorenzo de almagro",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "foz do iguaçu",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de levante ud contra elche c. f.",
-      "traffic": "200+",
       "rank": 10
     }
   ]
