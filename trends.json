@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T10:00:18Z",
+  "updated": "2026-11-24T10:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "industria del calzado",
+      "name": "datachaco",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "flávio bolsonaro",
+      "name": "declaración jurada",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "final copa argentina",
-      "traffic": "200+",
+      "name": "industria del calzado",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "24 de noviembre",
-      "traffic": "100+",
+      "name": "flávio bolsonaro",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "hielo",
-      "traffic": "2000+",
+      "name": "final copa argentina",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "árbol",
-      "traffic": "100+",
+      "name": "pronostico formosa",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "primera división de argentina",
+      "name": "24 de noviembre",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "club atlético independiente",
-      "traffic": "200+",
+      "name": "hielo",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "mercado cambiario",
-      "traffic": "500+",
+      "name": "árbol",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "champions",
-      "traffic": "100+",
+      "name": "primera división de argentina",
+      "traffic": "200+",
       "rank": 10
     }
   ]
