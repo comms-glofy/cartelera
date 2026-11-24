@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T18:30:15Z",
+  "updated": "2026-11-24T19:00:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "luis miguel",
-      "traffic": "100+",
+      "name": "quinielas de hoy",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cartagena de indias",
-      "traffic": "1000+",
+      "name": "desalojo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "aston villa",
-      "traffic": "500+",
+      "name": "solana sierra",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "bodø/glimt - lask",
+      "name": "embajador",
       "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "chaco",
+      "name": "luis miguel",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "al-nassr - al-sadd",
-      "traffic": "2000+",
+      "name": "cartagena de indias",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "depósito a plazo fijo",
-      "traffic": "500+",
+      "name": "aston villa",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "conmebol libertadores",
-      "traffic": "500+",
+      "name": "bodø/glimt - lask",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "galatasaray - aston villa",
-      "traffic": "5000+",
+      "name": "chaco",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "liga de campeones de la uefa",
-      "traffic": "2000+",
+      "name": "al-nassr - al-sadd",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
