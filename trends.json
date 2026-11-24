@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T20:00:18Z",
+  "updated": "2026-11-24T20:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "feyenoord - porto",
+      "name": "cristina fernández de kirchner",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "superluna castor",
-      "traffic": "500+",
+      "name": "real madrid",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "slovan bratislava - real betis",
-      "traffic": "200+",
+      "name": "championship",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "manchester city - napoli",
-      "traffic": "5000+",
+      "name": "posiciones de galatasaray contra aston villa",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "como - aek",
-      "traffic": "2000+",
+      "name": "rb leipzig - lens",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "jeanine grasmeijer",
+      "name": "como fc",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "cebra phone",
-      "traffic": "100+",
+      "name": "chimy ávila",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "real madrid - psv",
-      "traffic": "20000+",
+      "name": "psv",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "arsenal - dortmund",
-      "traffic": "2000+",
+      "name": "feyenoord - porto",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "liga de campeones de la afc",
-      "traffic": "100+",
+      "name": "superluna castor",
+      "traffic": "500+",
       "rank": 10
     }
   ]
