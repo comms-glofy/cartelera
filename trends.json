@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T02:00:18Z",
+  "updated": "2026-11-24T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "rubén darío insúa",
+      "name": "automovilismo",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "movistar arena",
-      "traffic": "500+",
+      "name": "neymar",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bulls - cavaliers",
-      "traffic": "200+",
+      "name": "rockets - clippers",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sportivo desamparados",
+      "name": "timberwolves - nets",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "lara magalí rapallo",
-      "traffic": "200+",
+      "name": "guillermo andino",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "pacers - thunder",
+      "name": "pablo migliore",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "santos vs",
-      "traffic": "200+",
+      "name": "parastoo ahmadi",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "marcos galperin",
-      "traffic": "1000+",
+      "name": "rivales en la nieve",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "hornets - grizzlies",
+      "name": "rubén darío insúa",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "máxima de los países bajos",
-      "traffic": "200+",
+      "name": "movistar arena",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
