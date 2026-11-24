@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T13:00:23Z",
+  "updated": "2026-11-24T13:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "dolar hoy",
+      "traffic": "5000+",
+      "rank": 1
+    },
+    {
       "name": "cuando es el black friday en argentina 2026",
       "traffic": "200+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "bna",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "janos",
       "traffic": "200+",
-      "rank": 3
-    },
-    {
-      "name": "ambito financiero",
-      "traffic": "1000+",
       "rank": 4
     },
     {
-      "name": "bodega",
+      "name": "calendario diciembre 2026",
       "traffic": "200+",
       "rank": 5
     },
     {
+      "name": "ambito financiero",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
+      "name": "bodega",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "la voz del interior",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "reconquista hoy",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "feriados diciembre 2026",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "diario de cuyo",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "base naval ushuaia",
-      "traffic": "200+",
       "rank": 10
     }
   ]
