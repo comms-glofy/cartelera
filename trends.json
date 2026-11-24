@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T21:00:15Z",
+  "updated": "2026-11-24T21:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "man city vs napoli",
+      "name": "allan",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "eduardo feinmann",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "moreno",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "posiciones de al-nassr contra al-sadd",
+      "traffic": "1000+",
+      "rank": 4
+    },
+    {
       "name": "betis",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "man city vs napoli",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "selección de fútbol de senegal",
       "traffic": "100+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "portsmouth - west ham",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "chapecoense - palmeiras",
-      "traffic": "1000+",
-      "rank": 5
-    },
-    {
-      "name": "porto",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "cristina fernández de kirchner",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "championship",
-      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "posiciones de galatasaray contra aston villa",
+      "name": "chapecoense - palmeiras",
       "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "rb leipzig - lens",
-      "traffic": "500+",
+      "name": "porto",
+      "traffic": "200+",
       "rank": 10
     }
   ]
