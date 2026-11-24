@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-24T15:00:18Z",
+  "updated": "2026-11-24T15:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "papa francisco diablo",
-      "traffic": "200+",
+      "name": "riesgo pais",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "dolar ambito",
+      "name": "papa francisco diablo",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "iol",
-      "traffic": "200+",
+      "name": "reina maxima",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "calendario 2027",
+      "name": "dolar mep",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "dolar hoy",
-      "traffic": "20000+",
+      "name": "iol",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "edith hermida",
-      "traffic": "2000+",
+      "name": "calendario 2027",
+      "traffic": "200+",
       "rank": 6
+    },
+    {
+      "name": "dolar hoy",
+      "traffic": "20000+",
+      "rank": 7
+    },
+    {
+      "name": "edith hermida",
+      "traffic": "1000+",
+      "rank": 8
     },
     {
       "name": "cuando es el black friday en argentina 2026",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "bna",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "dolar banco nacion",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "janos",
-      "traffic": "500+",
+      "name": "bna",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
