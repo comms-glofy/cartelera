@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T09:00:22Z",
+  "updated": "2026-11-25T09:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "antonela roccuzzo",
+      "name": "álex arce",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "masterchef celebrity argentina",
-      "traffic": "200+",
+      "name": "luis caputo",
+      "traffic": "5000+",
       "rank": 2
     },
     {
-      "name": "2026",
-      "traffic": "200+",
+      "name": "avión",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "fenómeno",
-      "traffic": "200+",
+      "name": "clima san luis",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "marte",
+      "name": "antonela roccuzzo",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ley",
+      "name": "masterchef celebrity argentina",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "hltv",
+      "name": "fuerzas armadas",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "cocinero",
-      "traffic": "200+",
+      "name": "2026",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "whatsapp stickers con audio",
-      "traffic": "2000+",
+      "name": "fenómeno",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "maradona",
-      "traffic": "500+",
+      "name": "marte",
+      "traffic": "100+",
       "rank": 10
     }
   ]
