@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T18:00:17Z",
+  "updated": "2026-11-25T18:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wall street",
-      "traffic": "100+",
+      "name": "barcelona",
+      "traffic": "5000+",
       "rank": 1
     },
     {
-      "name": "sabah",
+      "name": "alaska",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sabah vs barcelona",
-      "traffic": "500+",
+      "name": "wall street",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "sabah",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "ricardo fort",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "cecilia insinga",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "slavia praga - villarreal",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "clemente cancela",
+      "traffic": "500+",
+      "rank": 8
     },
     {
       "name": "grand theft auto",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "chris evans",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "evento de el niño de 2026-2027",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "banco de la nación argentina",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
