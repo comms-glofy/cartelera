@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T13:00:19Z",
+  "updated": "2026-11-25T13:30:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "25n",
+      "name": "santiago maratea",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "25 de noviembre dia de la no violencia contra la mujer",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "25n",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
       "name": "7 de diciembre",
       "traffic": "2000+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "luna 24 de noviembre 2026",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "bajista",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "agencia central de inteligencia",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "miguel ángel rodríguez",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "mariah carey",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "la nueva",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "ashleigh barty",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "medicamento",
-      "traffic": "1000+",
       "rank": 10
     }
   ]
