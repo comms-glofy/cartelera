@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T01:30:15Z",
+  "updated": "2026-11-25T02:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "telemundo en vivo",
-      "traffic": "1000+",
+      "name": "escándalo",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "américa - deportivo cali",
-      "traffic": "200+",
+      "name": "miss universo argentina",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "eclipse solar",
+      "name": "camionero",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "coys",
+      "name": "patricia bullrich",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "wizards - celtics",
-      "traffic": "200+",
+      "name": "boca mañana",
+      "traffic": "2000+",
       "rank": 5
     },
     {
-      "name": "cuestión de peso",
-      "traffic": "200+",
+      "name": "telemundo en vivo",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "sergio massa",
-      "traffic": "200+",
+      "name": "américa - deportivo cali",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "maite peñoñori",
-      "traffic": "200+",
+      "name": "eclipse solar",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "division palermo",
+      "name": "coys",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "la página millonaria",
-      "traffic": "200+",
+      "name": "wizards - celtics",
+      "traffic": "500+",
       "rank": 10
     }
   ]
