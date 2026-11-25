@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T12:03:19Z",
+  "updated": "2026-11-25T12:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "agencia central de inteligencia",
-      "traffic": "100+",
+      "name": "7 de diciembre",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "mariah carey",
+      "name": "agencia central de inteligencia",
       "traffic": "100+",
       "rank": 2
     },
     {
       "name": "miguel ángel rodríguez",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "la nueva",
+      "name": "mariah carey",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "ashleigh barty",
+      "name": "la nueva",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "medicamento",
-      "traffic": "500+",
+      "name": "ashleigh barty",
+      "traffic": "100+",
       "rank": 6
+    },
+    {
+      "name": "medicamento",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "miércoles",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "juan manuel sara",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "¿quien se fue de masterchef?",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "voyager 1",
-      "traffic": "100+",
       "rank": 10
     }
   ]
