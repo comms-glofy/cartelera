@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T21:53:16Z",
+  "updated": "2026-11-25T22:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bayer vs",
-      "traffic": "100+",
+      "name": "canal 13",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "bayern munich",
-      "traffic": "500+",
+      "name": "ford",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bayern de múnich",
+      "name": "manchester united vs",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "martha firestone ford",
+      "name": "bayer vs",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "a que hora juega boca hoy",
-      "traffic": "1000+",
+      "name": "bayern munich",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "bayern",
-      "traffic": "1000+",
+      "name": "atlético madrid",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "el zorro",
+      "name": "bayern de múnich",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "clima cordoba",
-      "traffic": "1000+",
+      "name": "a que hora juega boca hoy",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "pronostico cordoba",
-      "traffic": "200+",
+      "name": "bayern",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "jimena barón",
-      "traffic": "200+",
+      "name": "clima cordoba",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
