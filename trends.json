@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-25T00:00:17Z",
+  "updated": "2026-11-25T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sedán",
-      "traffic": "200+",
+      "name": "concurso",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "chevrolet onix",
-      "traffic": "100+",
+      "name": "magic - pistons",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "sedán",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "chevrolet onix",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "coquimbo unido",
       "traffic": "100+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "fuerza aérea",
-      "traffic": "100+",
-      "rank": 4
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "misil",
       "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "maru botana",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "paso",
-      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "claudio vidal",
-      "traffic": "100+",
+      "name": "maru botana",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "millonarios - bucaramanga",
-      "traffic": "500+",
+      "name": "claudio vidal",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "a que hora es el miss universo 2026",
+      "name": "paso",
       "traffic": "100+",
       "rank": 10
     }
