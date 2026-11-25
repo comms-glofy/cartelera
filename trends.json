@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T02:00:16Z",
+  "updated": "2026-11-25T02:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "escándalo",
+      "name": "helicóptero",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "miss universo argentina",
+      "name": "quiniela tucuman",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "camionero",
-      "traffic": "100+",
+      "name": "nadia márquez",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "patricia bullrich",
+      "name": "samsung galaxy s26",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "boca mañana",
-      "traffic": "2000+",
+      "name": "escándalo",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "telemundo en vivo",
-      "traffic": "2000+",
+      "name": "miss universo argentina",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "américa - deportivo cali",
-      "traffic": "500+",
+      "name": "camionero",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "eclipse solar",
+      "name": "patricia bullrich",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "coys",
-      "traffic": "100+",
+      "name": "boca mañana",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "wizards - celtics",
-      "traffic": "500+",
+      "name": "universal+",
+      "traffic": "200+",
       "rank": 10
     }
   ]
