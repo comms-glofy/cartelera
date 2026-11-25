@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T00:30:16Z",
+  "updated": "2026-11-25T01:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "concurso",
-      "traffic": "100+",
+      "name": "wizards - celtics",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "magic - pistons",
+      "name": "cuestión de peso",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "sedán",
+      "name": "maite peñoñori",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chevrolet onix",
-      "traffic": "200+",
+      "name": "sergio massa",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "coquimbo unido",
+      "name": "division palermo",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "fuerza aérea",
-      "traffic": "200+",
+      "name": "la página millonaria",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "misil",
-      "traffic": "100+",
+      "name": "miss universo",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "maru botana",
-      "traffic": "200+",
+      "name": "stickers con audio",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "claudio vidal",
-      "traffic": "200+",
+      "name": "concurso",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "paso",
-      "traffic": "100+",
+      "name": "magic - pistons",
+      "traffic": "200+",
       "rank": 10
     }
   ]
