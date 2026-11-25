@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T23:00:17Z",
+  "updated": "2026-11-25T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "solana sierra",
-      "traffic": "200+",
+      "name": "el niño",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "stray kids suiatsu",
-      "traffic": "100+",
+      "name": "boca juniors - independiente rivadavia",
+      "traffic": "10000+",
       "rank": 2
     },
     {
-      "name": "estudiantes vs flamengo",
-      "traffic": "100+",
+      "name": "mauro coronel",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "santa fe - once caldas",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "solana sierra",
+      "traffic": "200+",
+      "rank": 5
     },
     {
       "name": "alejandro garnacho",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "estudiantes vs flamengo",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "stray kids suiatsu",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "atlético mineiro - corinthians",
-      "traffic": "2000+",
-      "rank": 5
+      "traffic": "5000+",
+      "rank": 9
     },
     {
       "name": "posiciones de sporting lisboa contra manchester united",
       "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "posiciones de atlético de madrid contra viking stavanger fk",
-      "traffic": "5000+",
-      "rank": 7
-    },
-    {
-      "name": "posiciones de inter milan contra vfb stuttgart",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "andy taylor",
-      "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "76ers - heat",
-      "traffic": "500+",
       "rank": 10
     }
   ]
