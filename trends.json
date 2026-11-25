@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T15:30:19Z",
+  "updated": "2026-11-25T16:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "dolar",
-      "traffic": "2000+",
+      "name": "empleado público",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "cronista",
-      "traffic": "1000+",
+      "name": "boca vs platense",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "ambito",
-      "traffic": "500+",
+      "name": "camioneta",
+      "traffic": "5000+",
       "rank": 3
     },
     {
-      "name": "selección de fútbol sub-17 de dinamarca - argentina sub-17",
+      "name": "dolar",
       "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "adios apache",
+      "name": "cronista",
       "traffic": "1000+",
       "rank": 5
     },
     {
+      "name": "ambito",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
+      "name": "selección de fútbol sub-17 de dinamarca - argentina sub-17",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "adios apache",
+      "traffic": "2000+",
+      "rank": 8
+    },
+    {
       "name": "glaciar perito moreno",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "selección de rugby de australia",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "santiago maratea",
-      "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "25 de noviembre dia de la no violencia contra la mujer",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "25n",
-      "traffic": "200+",
       "rank": 10
     }
   ]
