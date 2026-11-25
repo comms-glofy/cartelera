@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-25T08:00:18Z",
+  "updated": "2026-11-25T08:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "hltv",
+      "name": "ley",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "cocinero",
+      "name": "hltv",
       "traffic": "100+",
       "rank": 2
     },
     {
+      "name": "cocinero",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "whatsapp stickers con audio",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "maradona",
       "traffic": "500+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "25 de noviembre",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "luciana geuna",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nuggets - mavericks",
       "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "policía",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "tribunal de casación",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "rumble",
+      "name": "tribunal de casación",
       "traffic": "200+",
       "rank": 10
     }
