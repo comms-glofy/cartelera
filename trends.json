@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T14:30:16Z",
+  "updated": "2026-11-25T15:00:26Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "glaciar perito moreno",
+      "name": "selección de fútbol sub-17 de dinamarca - argentina sub-17",
       "traffic": "1000+",
       "rank": 1
     },
     {
+      "name": "adios apache",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "glaciar perito moreno",
+      "traffic": "1000+",
+      "rank": 3
+    },
+    {
       "name": "selección de rugby de australia",
       "traffic": "100+",
-      "rank": 2
+      "rank": 4
     },
     {
       "name": "santiago maratea",
       "traffic": "500+",
-      "rank": 3
+      "rank": 5
     },
     {
       "name": "25 de noviembre dia de la no violencia contra la mujer",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "25n",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "7 de diciembre",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "luna 24 de noviembre 2026",
-      "traffic": "5000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "bajista",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "agencia central de inteligencia",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "jennifer barreto",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
