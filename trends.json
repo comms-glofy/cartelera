@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T10:30:17Z",
+  "updated": "2026-11-25T11:00:28Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "miércoles",
+      "name": "la nueva",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "medicamento",
+      "name": "ashleigh barty",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "juan manuel sara",
-      "traffic": "100+",
+      "name": "miércoles",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "¿quien se fue de masterchef?",
-      "traffic": "500+",
+      "name": "medicamento",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "club deportivo morón",
+      "name": "juan manuel sara",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "álex arce",
-      "traffic": "200+",
+      "name": "¿quien se fue de masterchef?",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "avión",
-      "traffic": "500+",
+      "name": "club deportivo morón",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "clima san luis",
+      "name": "álex arce",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "iowa",
-      "traffic": "100+",
+      "name": "avión",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "antonela roccuzzo",
-      "traffic": "200+",
+      "name": "clima san luis",
+      "traffic": "500+",
       "rank": 10
     }
   ]
