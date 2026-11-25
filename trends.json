@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T17:00:16Z",
+  "updated": "2026-11-25T17:30:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "grand theft auto",
+      "name": "sabah vs barcelona",
       "traffic": "200+",
       "rank": 1
     },
     {
+      "name": "mundial sub17",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "ricardo fort",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "cecilia insinga",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "slavia praga - villarreal",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "grand theft auto",
+      "traffic": "500+",
+      "rank": 6
+    },
+    {
       "name": "chris evans",
       "traffic": "100+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "evento de el niño de 2026-2027",
       "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "empleado público",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
-      "name": "boca vs platense",
-      "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "camioneta",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "dolar",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "cronista",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ambito",
-      "traffic": "500+",
+      "name": "ambito dolar",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "selección de fútbol sub-17 de dinamarca - argentina sub-17",
-      "traffic": "10000+",
+      "name": "empleado público",
+      "traffic": "200+",
       "rank": 10
     }
   ]
