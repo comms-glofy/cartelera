@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T16:00:18Z",
+  "updated": "2026-11-25T16:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "empleado público",
-      "traffic": "200+",
+      "name": "evento de el niño de 2026-2027",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "boca vs platense",
+      "name": "empleado público",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "boca vs platense",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
       "name": "camioneta",
       "traffic": "5000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "dolar",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "cronista",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "ambito",
       "traffic": "500+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "selección de fútbol sub-17 de dinamarca - argentina sub-17",
-      "traffic": "2000+",
-      "rank": 7
+      "traffic": "5000+",
+      "rank": 8
     },
     {
       "name": "adios apache",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "glaciar perito moreno",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "selección de rugby de australia",
-      "traffic": "100+",
+      "name": "glaciar perito moreno",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
