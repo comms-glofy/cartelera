@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T11:00:28Z",
+  "updated": "2026-11-25T11:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "la nueva",
+      "name": "agencia central de inteligencia",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "ashleigh barty",
+      "name": "mariah carey",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "miércoles",
-      "traffic": "200+",
+      "name": "miguel ángel rodríguez",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "medicamento",
-      "traffic": "200+",
+      "name": "la nueva",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "juan manuel sara",
-      "traffic": "200+",
+      "name": "ashleigh barty",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "¿quien se fue de masterchef?",
-      "traffic": "1000+",
+      "name": "medicamento",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "club deportivo morón",
+      "name": "miércoles",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "álex arce",
+      "name": "juan manuel sara",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "avión",
-      "traffic": "500+",
+      "name": "¿quien se fue de masterchef?",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "clima san luis",
-      "traffic": "500+",
+      "name": "voyager 1",
+      "traffic": "100+",
       "rank": 10
     }
   ]
