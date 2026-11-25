@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T22:30:23Z",
+  "updated": "2026-11-25T23:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "atlético mineiro - corinthians",
-      "traffic": "1000+",
+      "name": "solana sierra",
+      "traffic": "200+",
       "rank": 1
+    },
+    {
+      "name": "stray kids suiatsu",
+      "traffic": "100+",
+      "rank": 2
+    },
+    {
+      "name": "estudiantes vs flamengo",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "alejandro garnacho",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "atlético mineiro - corinthians",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
+      "name": "posiciones de sporting lisboa contra manchester united",
+      "traffic": "5000+",
+      "rank": 6
+    },
+    {
+      "name": "posiciones de atlético de madrid contra viking stavanger fk",
+      "traffic": "5000+",
+      "rank": 7
     },
     {
       "name": "posiciones de inter milan contra vfb stuttgart",
       "traffic": "500+",
-      "rank": 2
-    },
-    {
-      "name": "andy taylor",
-      "traffic": "500+",
-      "rank": 3
-    },
-    {
-      "name": "76ers - heat",
-      "traffic": "200+",
-      "rank": 4
-    },
-    {
-      "name": "bayer",
-      "traffic": "100+",
-      "rank": 5
-    },
-    {
-      "name": "harlen castillo",
-      "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "canal 13",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "sporting lisboa vs. manchester united",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "manchester united vs",
-      "traffic": "100+",
+      "name": "andy taylor",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "bayer vs",
-      "traffic": "100+",
+      "name": "76ers - heat",
+      "traffic": "500+",
       "rank": 10
     }
   ]
