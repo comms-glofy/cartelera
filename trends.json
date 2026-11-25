@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T10:00:20Z",
+  "updated": "2026-11-25T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "¿quien se fue de masterchef?",
-      "traffic": "500+",
+      "name": "miércoles",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "álex arce",
+      "name": "medicamento",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "avión",
-      "traffic": "200+",
+      "name": "juan manuel sara",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "clima san luis",
-      "traffic": "200+",
+      "name": "¿quien se fue de masterchef?",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "antonela roccuzzo",
+      "name": "club deportivo morón",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "2026",
-      "traffic": "1000+",
+      "name": "álex arce",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "fenómeno",
+      "name": "avión",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "marte",
+      "name": "clima san luis",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ley",
-      "traffic": "500+",
+      "name": "iowa",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "hltv",
-      "traffic": "100+",
+      "name": "antonela roccuzzo",
+      "traffic": "200+",
       "rank": 10
     }
   ]
