@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-26T09:30:17Z",
+  "updated": "2026-11-26T10:00:27Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "loto",
-      "traffic": "200+",
+      "name": "ola de frío",
+      "traffic": "100+",
       "rank": 1
     },
     {
@@ -14,18 +14,18 @@
       "rank": 2
     },
     {
-      "name": "página 12",
-      "traffic": "200+",
+      "name": "dario amodei",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "meteored",
+      "name": "página 12",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "meteored",
+      "traffic": "500+",
       "rank": 5
     },
     {
@@ -34,23 +34,23 @@
       "rank": 6
     },
     {
-      "name": "barco",
+      "name": "clima rosario",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "economía real",
-      "traffic": "100+",
+      "name": "barco",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "daniel rafecas",
+      "name": "economía real",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "moon",
-      "traffic": "100+",
+      "name": "daniel rafecas",
+      "traffic": "200+",
       "rank": 10
     }
   ]
