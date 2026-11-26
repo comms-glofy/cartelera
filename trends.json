@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T11:30:16Z",
+  "updated": "2026-11-26T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "climatización",
+      "name": "fifa",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "26 de noviembre",
-      "traffic": "100+",
+      "name": "avión",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "multas provincia",
-      "traffic": "100+",
+      "name": "climatización",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "el once",
+      "name": "26 de noviembre",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bianchi en boca",
+      "name": "multas provincia",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "el once",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "bianchi en boca",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
       "name": "vuelo",
       "traffic": "100+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "el once digital",
       "traffic": "100+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "tren mitre",
       "traffic": "1000+",
-      "rank": 8
-    },
-    {
-      "name": "nicolás occhiato",
-      "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "dimorphos",
-      "traffic": "200+",
       "rank": 10
     }
   ]
