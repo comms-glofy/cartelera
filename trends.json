@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-25T23:30:15Z",
+  "updated": "2026-11-26T00:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "el niño",
-      "traffic": "2000+",
+      "name": "barcelona sc - independiente del valle",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "boca juniors - independiente rivadavia",
-      "traffic": "10000+",
+      "name": "desaparición de loan peña",
+      "traffic": "200+",
       "rank": 2
+    },
+    {
+      "name": "a que hora sale la luna hoy",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "el niño",
+      "traffic": "2000+",
+      "rank": 4
+    },
+    {
+      "name": "boca juniors - independiente rivadavia",
+      "traffic": "50000+",
+      "rank": 5
     },
     {
       "name": "mauro coronel",
       "traffic": "200+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "santa fe - once caldas",
       "traffic": "500+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "solana sierra",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "alejandro garnacho",
-      "traffic": "100+",
-      "rank": 6
+      "traffic": "200+",
+      "rank": 9
     },
     {
       "name": "estudiantes vs flamengo",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "stray kids suiatsu",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "atlético mineiro - corinthians",
-      "traffic": "5000+",
-      "rank": 9
-    },
-    {
-      "name": "posiciones de sporting lisboa contra manchester united",
-      "traffic": "5000+",
       "rank": 10
     }
   ]
