@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:30:24Z",
+  "updated": "2026-11-26T13:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,7 +9,7 @@
       "rank": 1
     },
     {
-      "name": "thanksgiving 2026",
+      "name": "thanksgiving",
       "traffic": "200+",
       "rank": 2
     },
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
-      "name": "avión",
-      "traffic": "500+",
+      "name": "26 de noviembre",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "26 de noviembre",
+      "name": "climatización",
       "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "climatización",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
       "name": "multas provincia",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "el once",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "bianchi en boca",
       "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "vuelo",
+      "traffic": "100+",
       "rank": 10
     }
   ]
