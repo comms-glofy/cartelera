@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T09:00:18Z",
+  "updated": "2026-11-26T09:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "página 12",
-      "traffic": "100+",
+      "name": "loto",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "clima rosario",
-      "traffic": "200+",
+      "name": "humo",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "meteored",
-      "traffic": "100+",
+      "name": "página 12",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "asociación del fútbol argentino",
+      "name": "meteored",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "moon",
-      "traffic": "100+",
+      "name": "clima rosario",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "fan",
-      "traffic": "100+",
+      "name": "asociación del fútbol argentino",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "box",
+      "name": "barco",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "radio",
+      "name": "economía real",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "apple",
-      "traffic": "200+",
+      "name": "daniel rafecas",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "mauro icardi",
-      "traffic": "200+",
+      "name": "moon",
+      "traffic": "100+",
       "rank": 10
     }
   ]
