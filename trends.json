@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T08:00:16Z",
+  "updated": "2026-11-26T08:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -15,31 +15,31 @@
     },
     {
       "name": "box",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 3
-    },
-    {
-      "name": "office",
-      "traffic": "100+",
-      "rank": 4
     },
     {
       "name": "radio",
       "traffic": "100+",
-      "rank": 5
+      "rank": 4
     },
     {
       "name": "apple",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "mauro icardi",
       "traffic": "200+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "posiciones de atlético nacional contra deportivo independiente medellín",
+      "traffic": "2000+",
+      "rank": 7
+    },
+    {
+      "name": "gianinna maradona",
       "traffic": "2000+",
       "rank": 8
     },
