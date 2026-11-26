@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T15:30:21Z",
+  "updated": "2026-11-26T16:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "juliana awada",
+      "name": "diciembre",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "copa davis",
+      "name": "entradas despedida tevez",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "playa",
+      "name": "juliana awada",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "peter lamelas",
-      "traffic": "200+",
+      "name": "copa davis",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "oliver bearman",
-      "traffic": "1000+",
+      "name": "progresar",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "elizabeth holmes",
-      "traffic": "100+",
+      "name": "playa",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "aduana",
+      "name": "peter lamelas",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "calendario 2027",
-      "traffic": "500+",
+      "name": "oliver bearman",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "veruschka",
-      "traffic": "500+",
+      "name": "elizabeth holmes",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "gorillaz en cordoba",
-      "traffic": "100+",
+      "name": "aduana",
+      "traffic": "200+",
       "rank": 10
     }
   ]
