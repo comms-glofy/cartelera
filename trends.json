@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T03:30:23Z",
+  "updated": "2026-11-26T03:54:57Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "viento",
-      "traffic": "100+",
+      "name": "liga mx",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "monterrey - américa",
-      "traffic": "200+",
+      "name": "clima san juan",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "trail blazers - spurs",
-      "traffic": "200+",
+      "name": "viento",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "division palermo",
-      "traffic": "100+",
+      "name": "monterrey - américa",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "warriors - kings",
+      "name": "trail blazers - spurs",
       "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "rockets - suns",
+      "name": "division palermo",
       "traffic": "100+",
       "rank": 6
     },
     {
+      "name": "warriors - kings",
+      "traffic": "500+",
+      "rank": 7
+    },
+    {
+      "name": "rockets - suns",
+      "traffic": "100+",
+      "rank": 8
+    },
+    {
       "name": "bancor",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "ola de calor",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "carlos melconian",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "sorteo quini 6",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
