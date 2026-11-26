@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-26T22:00:19Z",
+  "updated": "2026-11-26T22:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "corte de agua mendoza",
+      "name": "george russell",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "dique luján",
+      "name": "la página millonaria",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "kirchnerismo",
-      "traffic": "200+",
+      "name": "celtic",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "ingvar jónsson",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "corte de agua mendoza",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "dique luján",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "kirchnerismo",
+      "traffic": "500+",
+      "rank": 7
     },
     {
       "name": "funes",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "economía",
       "traffic": "5000+",
-      "rank": 5
-    },
-    {
-      "name": "sorteo quini seis",
-      "traffic": "5000+",
-      "rank": 6
-    },
-    {
-      "name": "whatsapp stickers",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "chile",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "lyon fc",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ciclogénesis",
+      "name": "sorteo quini seis",
       "traffic": "5000+",
       "rank": 10
     }
