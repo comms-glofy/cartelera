@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T05:00:15Z",
+  "updated": "2026-11-26T05:30:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "posiciones de atlético nacional contra deportivo independiente medellín",
-      "traffic": "200+",
-      "rank": 2
-    },
-    {
       "name": "gianinna maradona",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 2
     },
     {
       "name": "posiciones de barcelona sc contra independiente del valle",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 3
     },
     {
       "name": "clima san juan",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "liga mx",
-      "traffic": "100+",
-      "rank": 6
+      "rank": 4
     },
     {
       "name": "viento",
       "traffic": "200+",
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "trail blazers - spurs",
-      "traffic": "500+",
-      "rank": 8
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "monterrey - américa",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 7
     },
     {
       "name": "division palermo",
       "traffic": "100+",
+      "rank": 8
+    },
+    {
+      "name": "warriors - kings",
+      "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "rockets - suns",
+      "traffic": "200+",
       "rank": 10
     }
   ]
