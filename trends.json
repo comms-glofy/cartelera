@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T06:00:18Z",
+  "updated": "2026-11-26T06:30:20Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "europa league",
-      "traffic": "100+",
-      "rank": 1
-    },
-    {
       "name": "mauro icardi",
       "traffic": "200+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "gianinna maradona",
       "traffic": "2000+",
-      "rank": 3
-    },
-    {
-      "name": "posiciones de barcelona sc contra independiente del valle",
-      "traffic": "2000+",
-      "rank": 4
+      "rank": 2
     },
     {
       "name": "clima san juan",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "liga mx",
-      "traffic": "100+",
-      "rank": 6
+      "rank": 3
     },
     {
       "name": "viento",
       "traffic": "200+",
-      "rank": 7
+      "rank": 4
     },
     {
       "name": "trail blazers - spurs",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 5
     },
     {
       "name": "monterrey - américa",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 6
     },
     {
       "name": "division palermo",
       "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "warriors - kings",
+      "traffic": "1000+",
+      "rank": 8
+    },
+    {
+      "name": "rockets - suns",
+      "traffic": "200+",
+      "rank": 9
+    },
+    {
+      "name": "bancor",
+      "traffic": "200+",
       "rank": 10
     }
   ]
