@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T21:30:15Z",
+  "updated": "2026-11-26T22:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "economía",
-      "traffic": "2000+",
+      "name": "corte de agua mendoza",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "sorteo quini seis",
-      "traffic": "5000+",
+      "name": "dique luján",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "whatsapp stickers",
+      "name": "kirchnerismo",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "chile",
-      "traffic": "200+",
+      "name": "funes",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "lyon fc",
-      "traffic": "100+",
+      "name": "economía",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "ciclogénesis",
-      "traffic": "2000+",
+      "name": "sorteo quini seis",
+      "traffic": "5000+",
       "rank": 6
     },
     {
-      "name": "apuestas en línea",
+      "name": "whatsapp stickers",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "augusto carinelli",
-      "traffic": "100+",
+      "name": "chile",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "aysam",
-      "traffic": "100+",
+      "name": "lyon fc",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "felipe fort",
-      "traffic": "500+",
+      "name": "ciclogénesis",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
