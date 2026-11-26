@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T23:00:16Z",
+  "updated": "2026-11-26T23:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nadia podoroska",
+      "name": "fábrica",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "javier milei",
+      "name": "opus dei",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "chechu bonelli",
-      "traffic": "200+",
+      "name": "fernando batista",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "cowboys - eagles",
+      "name": "sao paulo fc",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "george russell",
-      "traffic": "200+",
+      "name": "cuba",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "bahía blanca",
-      "traffic": "100+",
+      "name": "nadia podoroska",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "la página millonaria",
-      "traffic": "100+",
+      "name": "javier milei",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "celtic",
-      "traffic": "100+",
+      "name": "chechu bonelli",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "ingvar jónsson",
-      "traffic": "1000+",
+      "name": "cowboys - eagles",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "corte de agua mendoza",
-      "traffic": "200+",
+      "name": "george russell",
+      "traffic": "500+",
       "rank": 10
     }
   ]
