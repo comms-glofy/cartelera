@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T16:00:19Z",
+  "updated": "2026-11-26T16:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diciembre",
-      "traffic": "100+",
+      "name": "calor",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "entradas despedida tevez",
-      "traffic": "100+",
+      "name": "milton delgado",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "juliana awada",
+      "name": "ludopatia",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "copa davis",
+      "name": "hayden panettiere",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "progresar",
-      "traffic": "500+",
+      "name": "facundo arana",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "playa",
-      "traffic": "200+",
+      "name": "alexis cuello",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "peter lamelas",
-      "traffic": "200+",
+      "name": "diciembre",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "oliver bearman",
-      "traffic": "1000+",
+      "name": "entradas despedida tevez",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "elizabeth holmes",
-      "traffic": "100+",
+      "name": "juliana awada",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "aduana",
-      "traffic": "200+",
+      "name": "copa davis",
+      "traffic": "100+",
       "rank": 10
     }
   ]
