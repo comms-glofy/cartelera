@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T01:00:26Z",
+  "updated": "2026-11-26T01:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "espn",
-      "traffic": "200+",
+      "name": "williams alarcón",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "boca jr",
+      "name": "toluca - atlas",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "boc",
-      "traffic": "200+",
+      "name": "luna hoy",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "kiki ramos",
-      "traffic": "100+",
+      "name": "thunder - timberwolves",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "alfredo berti",
+      "name": "knicks - cavaliers",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "hornets - bulls",
-      "traffic": "200+",
+      "name": "bandera",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "primera división",
-      "traffic": "5000+",
+      "name": "sanción",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "ola gigante",
-      "traffic": "500+",
+      "name": "espn",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "tv argentina",
-      "traffic": "200+",
+      "name": "boca jr",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pelota tv",
-      "traffic": "500+",
+      "name": "boc",
+      "traffic": "200+",
       "rank": 10
     }
   ]
