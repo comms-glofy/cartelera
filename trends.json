@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T07:30:17Z",
+  "updated": "2026-11-26T08:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -9,48 +9,48 @@
       "rank": 1
     },
     {
-      "name": "box",
-      "traffic": "200+",
+      "name": "fan",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "radio",
+      "name": "box",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "office",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "radio",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "apple",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "mauro icardi",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "name": "posiciones de atlético nacional contra deportivo independiente medellín",
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "posiciones de barcelona sc contra independiente del valle",
       "traffic": "2000+",
-      "rank": 6
-    },
-    {
-      "name": "liga mx",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "viento",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "trail blazers - spurs",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "monterrey - américa",
-      "traffic": "1000+",
+      "name": "clima san juan",
+      "traffic": "200+",
       "rank": 10
     }
   ]
