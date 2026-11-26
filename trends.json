@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T12:00:18Z",
+  "updated": "2026-11-26T12:30:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fifa",
+      "name": "diario el eco de tandil",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "avión",
-      "traffic": "500+",
+      "name": "thanksgiving 2026",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "climatización",
-      "traffic": "200+",
+      "name": "feriados 2027 argentina",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "26 de noviembre",
+      "name": "fifa",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "multas provincia",
-      "traffic": "100+",
+      "name": "avión",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "el once",
-      "traffic": "200+",
+      "name": "26 de noviembre",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "bianchi en boca",
+      "name": "climatización",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "vuelo",
+      "name": "multas provincia",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "el once digital",
-      "traffic": "100+",
+      "name": "el once",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "tren mitre",
-      "traffic": "1000+",
+      "name": "bianchi en boca",
+      "traffic": "200+",
       "rank": 10
     }
   ]
