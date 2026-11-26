@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T22:31:30Z",
+  "updated": "2026-11-26T23:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "george russell",
+      "name": "nadia podoroska",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "la página millonaria",
-      "traffic": "100+",
+      "name": "javier milei",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "celtic",
-      "traffic": "100+",
+      "name": "chechu bonelli",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "ingvar jónsson",
-      "traffic": "500+",
+      "name": "cowboys - eagles",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "corte de agua mendoza",
+      "name": "george russell",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "dique luján",
+      "name": "bahía blanca",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "kirchnerismo",
-      "traffic": "500+",
+      "name": "la página millonaria",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "funes",
+      "name": "celtic",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "economía",
-      "traffic": "5000+",
+      "name": "ingvar jónsson",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "sorteo quini seis",
-      "traffic": "5000+",
+      "name": "corte de agua mendoza",
+      "traffic": "200+",
       "rank": 10
     }
   ]
