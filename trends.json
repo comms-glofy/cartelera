@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T16:30:16Z",
+  "updated": "2026-11-26T17:00:21Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "calor",
-      "traffic": "2000+",
+      "name": "primavera sound",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "milton delgado",
-      "traffic": "2000+",
+      "name": "dia de accion de gracias",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ludopatia",
-      "traffic": "200+",
+      "name": "beneficiario",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "hayden panettiere",
-      "traffic": "100+",
+      "name": "calor",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "facundo arana",
-      "traffic": "200+",
+      "name": "milton delgado",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "alexis cuello",
+      "name": "ludopatia",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "diciembre",
+      "name": "hayden panettiere",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "entradas despedida tevez",
+      "name": "facundo arana",
       "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "juliana awada",
-      "traffic": "200+",
+      "name": "alexis cuello",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "copa davis",
-      "traffic": "100+",
+      "name": "diciembre",
+      "traffic": "200+",
       "rank": 10
     }
   ]
