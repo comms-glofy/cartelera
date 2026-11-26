@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-26T08:30:17Z",
+  "updated": "2026-11-26T09:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "moon",
+      "name": "página 12",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "clima rosario",
+      "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "meteored",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "asociación del fútbol argentino",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "moon",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
       "name": "fan",
       "traffic": "100+",
-      "rank": 2
+      "rank": 6
     },
     {
       "name": "box",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "radio",
       "traffic": "100+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "apple",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "mauro icardi",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "posiciones de atlético nacional contra deportivo independiente medellín",
-      "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "gianinna maradona",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "posiciones de barcelona sc contra independiente del valle",
-      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "clima san juan",
+      "name": "mauro icardi",
       "traffic": "200+",
       "rank": 10
     }
