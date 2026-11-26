@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-26T13:00:18Z",
+  "updated": "2026-11-26T13:30:07Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "diario el eco de tandil",
+      "name": "aduana",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "thanksgiving",
-      "traffic": "200+",
+      "name": "calendario 2027",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "feriados 2027 argentina",
+      "name": "veruschka",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "diario el eco de tandil",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "thanksgiving 2026",
+      "traffic": "500+",
+      "rank": 5
+    },
+    {
       "name": "fifa",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "name": "avión",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "26 de noviembre",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "climatización",
       "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "multas provincia",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "el once",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "bianchi en boca",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "vuelo",
+      "name": "multas provincia",
       "traffic": "100+",
       "rank": 10
     }
