@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-26T10:00:27Z",
+  "updated": "2026-11-26T10:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ola de frío",
-      "traffic": "100+",
+      "name": "gran premio de catar",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "humo",
+      "name": "matthew perry",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "dario amodei",
+      "name": "avión de carga",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "página 12",
-      "traffic": "200+",
+      "name": "ola de frío",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "meteored",
-      "traffic": "500+",
+      "name": "c5n en vivo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "asociación del fútbol argentino",
+      "name": "humo",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "clima rosario",
+      "name": "dario amodei",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "barco",
-      "traffic": "200+",
+      "name": "página 12",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "economía real",
-      "traffic": "100+",
+      "name": "meteored",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "daniel rafecas",
+      "name": "asociación del fútbol argentino",
       "traffic": "200+",
       "rank": 10
     }
