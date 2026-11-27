@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T14:00:19Z",
+  "updated": "2026-11-27T14:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "meghan, duquesa de sussex",
-      "traffic": "100+",
+      "name": "condena",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "martín menem",
+      "name": "f1 qatar",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "marc marquez",
-      "traffic": "2000+",
+      "name": "disney plus",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "mdz",
+      "name": "meghan, duquesa de sussex",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "londres",
-      "traffic": "2000+",
+      "name": "martín menem",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "ministro",
-      "traffic": "100+",
+      "name": "marc marquez",
+      "traffic": "2000+",
       "rank": 6
+    },
+    {
+      "name": "santiago bausili",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
+      "name": "mdz",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "necochea",
       "traffic": "200+",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "sandra pettovello",
       "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "sergio massa",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "barby franco",
-      "traffic": "100+",
       "rank": 10
     }
   ]
