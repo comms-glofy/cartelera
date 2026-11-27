@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-27T18:00:16Z",
+  "updated": "2026-11-27T18:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "copa davis",
+      "name": "heraldos del evangelio",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "jorge born",
-      "traffic": "200+",
+      "name": "islas malvinas",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "ada colau",
+      "name": "copa davis",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ezequiel piovi",
-      "traffic": "100+",
+      "name": "jorge born",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "recibo de sueldo",
+      "name": "ada colau",
       "traffic": "100+",
       "rank": 5
     },
     {
+      "name": "ezequiel piovi",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "recibo de sueldo",
+      "traffic": "100+",
+      "rank": 7
+    },
+    {
       "name": "conmebol libertadores",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "tiago pzk",
       "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "ricky maravilla",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "cataratas del iguazú",
-      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "league of legends",
+      "name": "ricky maravilla",
       "traffic": "200+",
       "rank": 10
     }
