@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T05:00:18Z",
+  "updated": "2026-11-27T05:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "cruz azul",
+      "name": "presupuesto",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "presupuesto",
-      "traffic": "100+",
+      "name": "latam",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "latam",
-      "traffic": "200+",
+      "name": "león - cruz azul",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "león - cruz azul",
-      "traffic": "500+",
-      "rank": 4
-    },
-    {
       "name": "jetsmart",
-      "traffic": "1000+",
-      "rank": 5
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "provincia compras",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "diego barroetavena",
       "traffic": "1000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "johnny marr",
       "traffic": "200+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "glaciar",
       "traffic": "200+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "francisco álvarez",
       "traffic": "500+",
+      "rank": 9
+    },
+    {
+      "name": "clima san juan",
+      "traffic": "200+",
       "rank": 10
     }
   ]
