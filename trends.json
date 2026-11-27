@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T11:30:15Z",
+  "updated": "2026-11-27T12:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "marc marquez",
-      "traffic": "200+",
+      "name": "martín menem",
+      "traffic": "100+",
       "rank": 1
+    },
+    {
+      "name": "marc marquez",
+      "traffic": "500+",
+      "rank": 2
     },
     {
       "name": "mdz",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "contexto tucuman",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "ministro",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "necochea",
-      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "sergio massa",
+      "name": "necochea",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "barby franco",
-      "traffic": "100+",
+      "name": "sergio massa",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "pronóstico del tiempo",
+      "name": "barby franco",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "germán martitegui",
-      "traffic": "200+",
+      "name": "pronóstico del tiempo",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "quiniela",
-      "traffic": "100+",
+      "name": "germán martitegui",
+      "traffic": "200+",
       "rank": 10
     }
   ]
