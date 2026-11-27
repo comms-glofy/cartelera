@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T16:30:19Z",
+  "updated": "2026-11-27T17:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
+      "name": "conmebol libertadores",
+      "traffic": "500+",
+      "rank": 1
+    },
+    {
       "name": "dólar estadounidense",
       "traffic": "5000+",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "tiago pzk",
       "traffic": "100+",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "ricky maravilla",
       "traffic": "200+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "cataratas del iguazú",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "gerald r. molen",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "league of legends",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "puedes verlo todo",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "adios apache",
-      "traffic": "5000+",
       "rank": 8
     },
     {
       "name": "condena",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "f1 qatar",
-      "traffic": "200+",
+      "name": "adios apache",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
