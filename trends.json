@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T23:10:43Z",
+  "updated": "2026-11-27T23:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "emanuel emegha",
-      "traffic": "100+",
+      "name": "deportivo morón - colón",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "moron vs colon",
+      "name": "transporte público",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "sportivo luqueño - olimpia",
-      "traffic": "1000+",
+      "name": "emanuel emegha",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "sportivo luqueño - olimpia",
+      "traffic": "2000+",
+      "rank": 4
     },
     {
       "name": "adam bareiro",
       "traffic": "100+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "banca pública",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "angelina jolie",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "vix index",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "fluminense - cruzeiro",
       "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "atlanta",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "adopción",
-      "traffic": "100+",
+      "name": "atlanta",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
