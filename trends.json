@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T08:30:17Z",
+  "updated": "2026-11-27T09:00:24Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clima cordoba",
-      "traffic": "200+",
+      "name": "primera división de argentina",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "estafa",
-      "traffic": "200+",
+      "name": "pronostico corrientes",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "clima cordoba",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
+      "name": "estafa",
+      "traffic": "500+",
+      "rank": 4
+    },
+    {
+      "name": "ley ludopatía argentina senado",
+      "traffic": "2000+",
+      "rank": 5
     },
     {
       "name": "tasa",
       "traffic": "100+",
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "presupuesto",
       "traffic": "100+",
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "latam",
       "traffic": "200+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "león - cruz azul",
       "traffic": "1000+",
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "jetsmart",
       "traffic": "2000+",
-      "rank": 7
-    },
-    {
-      "name": "provincia compras",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "diego barroetavena",
-      "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "pésame",
-      "traffic": "100+",
       "rank": 10
     }
   ]
