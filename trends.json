@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T02:00:18Z",
+  "updated": "2026-11-27T02:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "nacional",
+      "name": "francisco álvarez",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "la cocina rebelde",
-      "traffic": "200+",
+      "name": "clima san juan",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "fuerzas armadas",
+      "name": "maru botana",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "financiación",
-      "traffic": "100+",
+      "name": "maxi lópez",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "bills - chiefs",
-      "traffic": "200+",
+      "name": "club atlético belgrano",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "posiciones de sao paulo fc contra clube do remo",
-      "traffic": "1000+",
+      "name": "estancia",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "ari lijalad",
-      "traffic": "200+",
+      "name": "nacional",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "matias martin",
-      "traffic": "200+",
+      "name": "la cocina rebelde",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "plaga",
-      "traffic": "100+",
+      "name": "fuerzas armadas",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pachuca - guadalajara",
-      "traffic": "500+",
+      "name": "financiación",
+      "traffic": "100+",
       "rank": 10
     }
   ]
