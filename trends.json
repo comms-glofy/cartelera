@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-27T03:00:17Z",
+  "updated": "2026-11-27T03:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pésame",
+      "name": "jetsmart",
       "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "agua potable",
-      "traffic": "2000+",
+      "name": "diego barroetavena",
+      "traffic": "1000+",
       "rank": 2
+    },
+    {
+      "name": "pésame",
+      "traffic": "1000+",
+      "rank": 3
     },
     {
       "name": "glaciar",
       "traffic": "100+",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "name": "johnny marr",
+      "traffic": "100+",
+      "rank": 5
     },
     {
       "name": "francisco álvarez",
       "traffic": "200+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "clima san juan",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "1password",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "maru botana",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "maxi lópez",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "club atlético belgrano",
+      "name": "maxi lópez",
       "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "estancia",
+      "name": "maru botana",
       "traffic": "200+",
       "rank": 10
     }
