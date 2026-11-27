@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-27T04:30:15Z",
+  "updated": "2026-11-27T04:44:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "presupuesto",
+      "name": "cruz azul",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "latam",
+      "name": "presupuesto",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "león - cruz azul",
-      "traffic": "500+",
+      "name": "latam",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "león - cruz azul",
+      "traffic": "200+",
+      "rank": 4
     },
     {
       "name": "jetsmart",
       "traffic": "1000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "provincia compras",
       "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "diego barroetavena",
-      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "pésame",
+      "name": "diego barroetavena",
       "traffic": "1000+",
       "rank": 7
     },
