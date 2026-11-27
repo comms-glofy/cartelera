@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-27T04:00:17Z",
+  "updated": "2026-11-27T04:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "latam",
+      "name": "presupuesto",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "león - cruz azul",
-      "traffic": "200+",
+      "name": "latam",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "león - cruz azul",
+      "traffic": "500+",
+      "rank": 3
     },
     {
       "name": "jetsmart",
       "traffic": "1000+",
-      "rank": 3
-    },
-    {
-      "name": "adidas",
-      "traffic": "500+",
       "rank": 4
     },
     {
