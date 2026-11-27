@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T08:00:19Z",
+  "updated": "2026-11-27T08:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estafa",
-      "traffic": "100+",
+      "name": "clima cordoba",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "ley ludopatía argentina senado",
-      "traffic": "2000+",
+      "name": "estafa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "presupuesto",
+      "name": "tasa",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "presupuesto",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "latam",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "león - cruz azul",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "jetsmart",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "provincia compras",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "diego barroetavena",
       "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "johnny marr",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "glaciar",
-      "traffic": "200+",
+      "name": "pésame",
+      "traffic": "100+",
       "rank": 10
     }
   ]
