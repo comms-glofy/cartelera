@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T19:00:17Z",
+  "updated": "2026-11-27T19:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ola de calor",
-      "traffic": "100+",
+      "name": "nottingham forest - chelsea",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "bunge & born",
-      "traffic": "1000+",
+      "name": "al ittihad",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima bahia blanca",
-      "traffic": "500+",
+      "name": "werder bremen",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sancor",
+      "name": "entre ríos",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "dólar",
-      "traffic": "2000+",
+      "name": "ola de calor",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "heraldos del evangelio",
-      "traffic": "100+",
+      "name": "bunge & born",
+      "traffic": "2000+",
       "rank": 6
     },
     {
-      "name": "islas malvinas",
+      "name": "clima bahia blanca",
       "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "copa davis",
+      "name": "sancor",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "ada colau",
-      "traffic": "100+",
+      "name": "heraldos del evangelio",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "ezequiel piovi",
-      "traffic": "100+",
+      "name": "islas malvinas",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
