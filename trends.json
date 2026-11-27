@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-26T23:30:15Z",
+  "updated": "2026-11-27T00:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "fábrica",
-      "traffic": "200+",
+      "name": "wall street",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "opus dei",
+      "name": "estadio alberto j. armando \"la bombonera\"",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "fernando batista",
-      "traffic": "100+",
+      "name": "darío franco",
+      "traffic": "10000+",
       "rank": 3
     },
     {
-      "name": "sao paulo fc",
-      "traffic": "100+",
+      "name": "fábrica",
+      "traffic": "200+",
       "rank": 4
+    },
+    {
+      "name": "opus dei",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "fernando batista",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "sao paulo fc",
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "cuba",
       "traffic": "100+",
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "nadia podoroska",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "javier milei",
-      "traffic": "500+",
-      "rank": 7
-    },
-    {
-      "name": "chechu bonelli",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "cowboys - eagles",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "george russell",
-      "traffic": "500+",
+      "name": "javier milei",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
