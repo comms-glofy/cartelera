@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T11:00:25Z",
+  "updated": "2026-11-27T11:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "mdz",
-      "traffic": "2000+",
+      "name": "marc marquez",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "contexto tucuman",
-      "traffic": "200+",
+      "name": "mdz",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ministro",
+      "name": "contexto tucuman",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "sergio massa",
+      "name": "ministro",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "barby franco",
+      "name": "necochea",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "germán martitegui",
+      "name": "sergio massa",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "quiniela",
+      "name": "barby franco",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "barco",
-      "traffic": "500+",
+      "name": "pronóstico del tiempo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "inter de miami",
-      "traffic": "100+",
+      "name": "germán martitegui",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pronostico posadas",
-      "traffic": "500+",
+      "name": "quiniela",
+      "traffic": "100+",
       "rank": 10
     }
   ]
