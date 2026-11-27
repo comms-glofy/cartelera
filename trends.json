@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T17:00:18Z",
+  "updated": "2026-11-27T17:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "conmebol libertadores",
-      "traffic": "500+",
+      "name": "ezequiel piovi",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "dólar estadounidense",
-      "traffic": "5000+",
+      "name": "ada colau",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "tiago pzk",
+      "name": "recibo de sueldo",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "ricky maravilla",
-      "traffic": "200+",
+      "name": "conmebol libertadores",
+      "traffic": "500+",
       "rank": 4
     },
     {
-      "name": "cataratas del iguazú",
-      "traffic": "200+",
+      "name": "dólar estadounidense",
+      "traffic": "5000+",
       "rank": 5
     },
     {
-      "name": "gerald r. molen",
+      "name": "tiago pzk",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "league of legends",
-      "traffic": "100+",
+      "name": "ricky maravilla",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "puedes verlo todo",
-      "traffic": "100+",
+      "name": "cataratas del iguazú",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "condena",
-      "traffic": "2000+",
+      "name": "gerald r. molen",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "adios apache",
-      "traffic": "5000+",
+      "name": "league of legends",
+      "traffic": "200+",
       "rank": 10
     }
   ]
