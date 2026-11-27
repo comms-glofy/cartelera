@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T21:00:16Z",
+  "updated": "2026-11-27T21:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elizabeth holmes",
+      "name": "claudio vidal",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "irlanda - australia",
-      "traffic": "500+",
+      "name": "marcelo tinelli",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "bologna",
+      "name": "verano",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "paris fc",
-      "traffic": "200+",
+      "name": "steelers - broncos",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "inundación",
+      "name": "elizabeth holmes",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pierre gasly",
-      "traffic": "2000+",
+      "name": "irlanda - australia",
+      "traffic": "1000+",
       "rank": 6
     },
     {
-      "name": "diego peretti",
-      "traffic": "1000+",
+      "name": "bologna",
+      "traffic": "500+",
       "rank": 7
     },
     {
-      "name": "levante - racing de santander",
-      "traffic": "1000+",
+      "name": "paris fc",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "nottingham forest - chelsea",
-      "traffic": "10000+",
+      "name": "inundación",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "venezia - bolonia",
-      "traffic": "500+",
+      "name": "pierre gasly",
+      "traffic": "5000+",
       "rank": 10
     }
   ]
