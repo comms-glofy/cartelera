@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T00:00:18Z",
+  "updated": "2026-11-27T00:30:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "wall street",
+      "name": "daniel scioli",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "estadio alberto j. armando \"la bombonera\"",
+      "name": "banco de inglaterra",
       "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "darío franco",
-      "traffic": "10000+",
+      "name": "ricardo darín",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "fábrica",
-      "traffic": "200+",
+      "name": "nancy godoy",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "opus dei",
-      "traffic": "200+",
+      "name": "argentina - bahamas",
+      "traffic": "1000+",
       "rank": 5
     },
     {
-      "name": "fernando batista",
-      "traffic": "100+",
+      "name": "estadio alberto j. armando \"la bombonera\"",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "sao paulo fc",
-      "traffic": "200+",
+      "name": "darío franco",
+      "traffic": "1000+",
       "rank": 7
     },
     {
-      "name": "cuba",
-      "traffic": "100+",
+      "name": "fábrica",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "nadia podoroska",
+      "name": "fernando batista",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "javier milei",
-      "traffic": "1000+",
+      "name": "opus dei",
+      "traffic": "200+",
       "rank": 10
     }
   ]
