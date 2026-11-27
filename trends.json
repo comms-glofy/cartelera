@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:00:18Z",
+  "updated": "2026-11-27T12:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -24,33 +24,33 @@
       "rank": 4
     },
     {
+      "name": "londres",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "ministro",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "necochea",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "sergio massa",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "barby franco",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "pronóstico del tiempo",
       "traffic": "100+",
-      "rank": 9
-    },
-    {
-      "name": "germán martitegui",
-      "traffic": "200+",
       "rank": 10
     }
   ]
