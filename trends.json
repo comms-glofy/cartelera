@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T09:00:24Z",
+  "updated": "2026-11-27T09:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "primera división de argentina",
+      "name": "germán martitegui",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "pronostico corrientes",
+      "name": "quiniela",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "clima cordoba",
-      "traffic": "500+",
+      "name": "barco",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "estafa",
-      "traffic": "500+",
+      "name": "27 de noviembre",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "ley ludopatía argentina senado",
-      "traffic": "2000+",
+      "name": "clima posadas",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "tasa",
+      "name": "primera división de argentina",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "presupuesto",
-      "traffic": "100+",
+      "name": "clima corrientes",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "latam",
-      "traffic": "200+",
+      "name": "clima cordoba",
+      "traffic": "1000+",
       "rank": 8
     },
     {
-      "name": "león - cruz azul",
-      "traffic": "1000+",
+      "name": "openai",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "jetsmart",
-      "traffic": "2000+",
+      "name": "estafa",
+      "traffic": "500+",
       "rank": 10
     }
   ]
