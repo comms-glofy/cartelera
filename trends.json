@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T00:30:18Z",
+  "updated": "2026-11-27T01:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "daniel scioli",
+      "name": "jorge macri",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "banco de inglaterra",
-      "traffic": "200+",
+      "name": "luiz carlos trabuco cappi",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ricardo darín",
-      "traffic": "200+",
+      "name": "recopa sudamericana",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "nancy godoy",
+      "name": "daniel scioli",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "argentina - bahamas",
-      "traffic": "1000+",
+      "name": "banco de inglaterra",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "estadio alberto j. armando \"la bombonera\"",
+      "name": "ricardo darín",
       "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "darío franco",
-      "traffic": "1000+",
+      "name": "nancy godoy",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "fábrica",
-      "traffic": "500+",
+      "name": "argentina - bahamas",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "fernando batista",
+      "name": "wall street",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "opus dei",
-      "traffic": "200+",
+      "name": "estadio alberto j. armando \"la bombonera\"",
+      "traffic": "500+",
       "rank": 10
     }
   ]
