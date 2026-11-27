@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T02:30:16Z",
+  "updated": "2026-11-27T03:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "francisco álvarez",
-      "traffic": "100+",
+      "name": "pésame",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "clima san juan",
-      "traffic": "100+",
+      "name": "agua potable",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "maru botana",
-      "traffic": "200+",
+      "name": "glaciar",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "maxi lópez",
+      "name": "francisco álvarez",
       "traffic": "200+",
       "rank": 4
     },
     {
+      "name": "clima san juan",
+      "traffic": "200+",
+      "rank": 5
+    },
+    {
+      "name": "1password",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
+      "name": "maru botana",
+      "traffic": "200+",
+      "rank": 7
+    },
+    {
+      "name": "maxi lópez",
+      "traffic": "200+",
+      "rank": 8
+    },
+    {
       "name": "club atlético belgrano",
       "traffic": "500+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "estancia",
       "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "nacional",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "la cocina rebelde",
-      "traffic": "500+",
-      "rank": 8
-    },
-    {
-      "name": "fuerzas armadas",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "financiación",
-      "traffic": "100+",
       "rank": 10
     }
   ]
