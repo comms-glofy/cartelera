@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T15:00:22Z",
+  "updated": "2026-11-27T15:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ficha limpia",
-      "traffic": "2000+",
+      "name": "cataratas del iguazú",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "puedes verlo todo",
+      "name": "gerald r. molen",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "adios apache",
-      "traffic": "2000+",
+      "name": "league of legends",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "puedes verlo todo",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "adios apache",
+      "traffic": "5000+",
+      "rank": 5
     },
     {
       "name": "condena",
       "traffic": "500+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "f1 qatar",
-      "traffic": "100+",
-      "rank": 5
+      "traffic": "200+",
+      "rank": 7
     },
     {
       "name": "disney plus",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "meghan, duquesa de sussex",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "swap",
-      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "martín menem",
+      "name": "belgrano cargas",
       "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "marc marquez",
-      "traffic": "2000+",
+      "name": "meghan, duquesa de sussex",
+      "traffic": "100+",
       "rank": 10
     }
   ]
