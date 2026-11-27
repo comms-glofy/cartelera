@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T10:30:20Z",
+  "updated": "2026-11-27T11:00:25Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "sergio massa",
-      "traffic": "100+",
+      "name": "mdz",
+      "traffic": "2000+",
       "rank": 1
     },
     {
-      "name": "barby franco",
-      "traffic": "100+",
+      "name": "contexto tucuman",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "pronóstico del tiempo",
+      "name": "ministro",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "germán martitegui",
-      "traffic": "200+",
+      "name": "sergio massa",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "quiniela",
+      "name": "barby franco",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "barco",
-      "traffic": "500+",
+      "name": "germán martitegui",
+      "traffic": "200+",
       "rank": 6
     },
     {
-      "name": "inter de miami",
+      "name": "quiniela",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "27 de noviembre",
-      "traffic": "200+",
+      "name": "barco",
+      "traffic": "500+",
       "rank": 8
     },
     {
-      "name": "clima posadas",
-      "traffic": "500+",
+      "name": "inter de miami",
+      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "primera división de argentina",
-      "traffic": "100+",
+      "name": "pronostico posadas",
+      "traffic": "500+",
       "rank": 10
     }
   ]
