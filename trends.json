@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T12:00:15Z",
+  "updated": "2026-11-28T12:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "estancamiento económico",
-      "traffic": "100+",
+      "name": "28 de noviembre",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "f1 horarios argentina",
+      "name": "clima bahia blanca",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "pobreza",
+      "name": "delantero",
       "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "mclaren",
+      "name": "estancamiento económico",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "nicolás varrone",
-      "traffic": "100+",
+      "name": "mclaren",
+      "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "bichos de campo",
+      "name": "pobreza",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "la nación",
-      "traffic": "200+",
+      "name": "nicolás varrone",
+      "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "mario pergolini",
-      "traffic": "1000+",
+      "name": "bichos de campo",
+      "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "guillermo francella",
+      "name": "la nación",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "recesión",
-      "traffic": "500+",
+      "name": "mario pergolini",
+      "traffic": "2000+",
       "rank": 10
     }
   ]
