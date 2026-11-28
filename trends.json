@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-28T04:00:16Z",
+  "updated": "2026-11-28T04:30:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
       "name": "es mi sueño",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 1
     },
     {
       "name": "jazz - nuggets",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 2
     },
     {
@@ -19,37 +19,37 @@
       "rank": 3
     },
     {
-      "name": "trail blazers - warriors",
-      "traffic": "500+",
+      "name": "dario lopilato",
+      "traffic": "1000+",
       "rank": 4
+    },
+    {
+      "name": "trail blazers - warriors",
+      "traffic": "1000+",
+      "rank": 5
+    },
+    {
+      "name": "el litoral",
+      "traffic": "200+",
+      "rank": 6
     },
     {
       "name": "evelyn botto",
       "traffic": "100+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "spurs - lakers",
-      "traffic": "1000+",
-      "rank": 6
+      "traffic": "2000+",
+      "rank": 8
     },
     {
       "name": "lobo medina",
       "traffic": "1000+",
-      "rank": 7
-    },
-    {
-      "name": "catalina gorostidi",
-      "traffic": "200+",
-      "rank": 8
-    },
-    {
-      "name": "timberwolves - grizzlies",
-      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mansión",
+      "name": "timberwolves - grizzlies",
       "traffic": "200+",
       "rank": 10
     }
