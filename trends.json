@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T11:30:17Z",
+  "updated": "2026-11-28T12:00:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bichos de campo",
+      "name": "estancamiento económico",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "f1 horarios argentina",
+      "traffic": "500+",
+      "rank": 2
+    },
+    {
+      "name": "pobreza",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "mclaren",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "nicolás varrone",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "bichos de campo",
+      "traffic": "100+",
+      "rank": 6
+    },
+    {
       "name": "la nación",
       "traffic": "200+",
-      "rank": 2
+      "rank": 7
     },
     {
       "name": "mario pergolini",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 8
     },
     {
       "name": "guillermo francella",
       "traffic": "200+",
-      "rank": 4
+      "rank": 9
     },
     {
       "name": "recesión",
       "traffic": "500+",
-      "rank": 5
-    },
-    {
-      "name": "pro.cre.ar",
-      "traffic": "200+",
-      "rank": 6
-    },
-    {
-      "name": "frank darío kudelka",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "ahorro",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "ricky martin",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "ley de reparación histórica para jubilados y pensionados",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
