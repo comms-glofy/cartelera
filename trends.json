@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T13:00:23Z",
+  "updated": "2026-11-28T13:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "amenaza",
-      "traffic": "100+",
+      "name": "al nassr",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "real betis - rayo vallecano",
-      "traffic": "500+",
+      "name": "hollywood",
+      "traffic": "100+",
       "rank": 2
+    },
+    {
+      "name": "roberto gómez bolaños",
+      "traffic": "100+",
+      "rank": 3
+    },
+    {
+      "name": "nations championship",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
+      "name": "amenaza",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "real betis - rayo vallecano",
+      "traffic": "1000+",
+      "rank": 6
     },
     {
       "name": "jubilaciones docentes y por regimenes especiales - buenos aires",
       "traffic": "200+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "horarios f1",
       "traffic": "2000+",
-      "rank": 4
-    },
-    {
-      "name": "28 de noviembre",
-      "traffic": "200+",
-      "rank": 5
-    },
-    {
-      "name": "clima bahia blanca",
-      "traffic": "500+",
-      "rank": 6
-    },
-    {
-      "name": "delantero",
-      "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "estancamiento económico",
-      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "mclaren",
-      "traffic": "200+",
+      "name": "28 de noviembre",
+      "traffic": "500+",
       "rank": 9
     },
     {
-      "name": "pobreza",
-      "traffic": "200+",
+      "name": "clima bahia blanca",
+      "traffic": "1000+",
       "rank": 10
     }
   ]
