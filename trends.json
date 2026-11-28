@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-27T23:30:18Z",
+  "updated": "2026-11-28T00:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "deportivo morón - colón",
+      "name": "tristán suárez - gimnasia y tiro de salta",
       "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "transporte público",
+      "name": "nueva york",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "emanuel emegha",
-      "traffic": "100+",
+      "name": "knicks - heat",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "sportivo luqueño - olimpia",
-      "traffic": "2000+",
+      "name": "deportivo cali - bucaramanga",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "adam bareiro",
+      "name": "nicolás russo",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "banca pública",
-      "traffic": "200+",
+      "name": "patricia bullrich",
+      "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "angelina jolie",
-      "traffic": "200+",
+      "name": "deportivo morón - colón",
+      "traffic": "2000+",
       "rank": 7
     },
     {
-      "name": "vix index",
+      "name": "transporte público",
       "traffic": "100+",
       "rank": 8
     },
     {
-      "name": "fluminense - cruzeiro",
-      "traffic": "2000+",
+      "name": "atlanta vs",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "atlanta",
-      "traffic": "2000+",
+      "name": "emanuel emegha",
+      "traffic": "100+",
       "rank": 10
     }
   ]
