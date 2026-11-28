@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-28T08:30:17Z",
+  "updated": "2026-11-28T09:00:19Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "f1 colapinto",
+      "name": "ley de reparación histórica para jubilados y pensionados",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "bronson reed que le pasó",
-      "traffic": "200+",
+      "name": "f1 colapinto",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "meteorología",
-      "traffic": "500+",
+      "name": "bronson reed que le pasó",
+      "traffic": "200+",
       "rank": 3
+    },
+    {
+      "name": "meteorología",
+      "traffic": "1000+",
+      "rank": 4
     },
     {
       "name": "es mi sueño",
       "traffic": "2000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "lionel messi",
       "traffic": "20000+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "jazz - nuggets",
       "traffic": "200+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "luis lobo medina",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "barco pesquero",
       "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "dario lopilato",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "trail blazers - warriors",
+      "name": "dario lopilato",
       "traffic": "1000+",
       "rank": 10
     }
