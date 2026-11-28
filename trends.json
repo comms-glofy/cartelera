@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T00:30:16Z",
+  "updated": "2026-11-28T01:00:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "columbus crew - inter miami",
-      "traffic": "1000+",
+      "name": "pacers - 76ers",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "aire de santa fe",
-      "traffic": "100+",
+      "name": "taiwán",
+      "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "b nacional",
+      "name": "bronson reed",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "racing - liverpool",
+      "name": "luca marcogiuseppe",
       "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "fluminense vs",
-      "traffic": "100+",
+      "name": "columbus crew - inter miami",
+      "traffic": "10000+",
       "rank": 5
+    },
+    {
+      "name": "aire de santa fe",
+      "traffic": "200+",
+      "rank": 6
+    },
+    {
+      "name": "b nacional",
+      "traffic": "1000+",
+      "rank": 7
+    },
+    {
+      "name": "racing - liverpool",
+      "traffic": "100+",
+      "rank": 8
     },
     {
       "name": "detención",
       "traffic": "100+",
-      "rank": 6
-    },
-    {
-      "name": "luis ventura",
-      "traffic": "200+",
-      "rank": 7
-    },
-    {
-      "name": "tristán suárez - gimnasia y tiro de salta",
-      "traffic": "2000+",
-      "rank": 8
-    },
-    {
-      "name": "nueva york",
-      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "knicks - heat",
-      "traffic": "500+",
+      "name": "fluminense vs",
+      "traffic": "100+",
       "rank": 10
     }
   ]
