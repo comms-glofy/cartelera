@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T10:00:22Z",
+  "updated": "2026-11-28T10:30:15Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pro.cre.ar",
+      "name": "guillermo francella",
       "traffic": "100+",
       "rank": 1
     },
     {
+      "name": "mario pergolini",
+      "traffic": "1000+",
+      "rank": 2
+    },
+    {
+      "name": "recesión",
+      "traffic": "200+",
+      "rank": 3
+    },
+    {
+      "name": "pro.cre.ar",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "clarín",
       "traffic": "100+",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "name": "ricky martin",
+      "traffic": "100+",
+      "rank": 6
     },
     {
       "name": "ley de reparación histórica para jubilados y pensionados",
       "traffic": "1000+",
-      "rank": 3
+      "rank": 7
     },
     {
       "name": "canal 13",
       "traffic": "200+",
-      "rank": 4
+      "rank": 8
     },
     {
       "name": "bronson reed que le pasó",
       "traffic": "500+",
-      "rank": 5
+      "rank": 9
     },
     {
       "name": "meteorología",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "lionel messi",
-      "traffic": "20000+",
-      "rank": 7
-    },
-    {
-      "name": "es mi sueño",
-      "traffic": "5000+",
-      "rank": 8
-    },
-    {
-      "name": "jazz - nuggets",
-      "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "luis lobo medina",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
