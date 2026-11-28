@@ -1,30 +1,30 @@
 {
-  "updated": "2026-11-28T10:30:15Z",
+  "updated": "2026-11-28T11:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "guillermo francella",
-      "traffic": "100+",
-      "rank": 1
-    },
-    {
       "name": "mario pergolini",
       "traffic": "1000+",
-      "rank": 2
+      "rank": 1
     },
     {
       "name": "recesión",
       "traffic": "200+",
+      "rank": 2
+    },
+    {
+      "name": "guillermo francella",
+      "traffic": "100+",
       "rank": 3
     },
     {
       "name": "pro.cre.ar",
-      "traffic": "100+",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "clarín",
+      "name": "ahorro",
       "traffic": "100+",
       "rank": 5
     },
@@ -35,7 +35,7 @@
     },
     {
       "name": "ley de reparación histórica para jubilados y pensionados",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "rank": 7
     },
     {
