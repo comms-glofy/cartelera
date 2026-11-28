@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-28T09:30:14Z",
+  "updated": "2026-11-28T10:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "ley de reparación histórica para jubilados y pensionados",
-      "traffic": "500+",
+      "name": "pro.cre.ar",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "canal 13",
+      "name": "clarín",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "f1 colapinto",
-      "traffic": "500+",
+      "name": "ley de reparación histórica para jubilados y pensionados",
+      "traffic": "1000+",
       "rank": 3
     },
     {
-      "name": "bronson reed que le pasó",
+      "name": "canal 13",
       "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "meteorología",
-      "traffic": "1000+",
+      "name": "bronson reed que le pasó",
+      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "es mi sueño",
-      "traffic": "2000+",
+      "name": "meteorología",
+      "traffic": "1000+",
       "rank": 6
     },
     {
@@ -39,18 +39,18 @@
       "rank": 7
     },
     {
+      "name": "es mi sueño",
+      "traffic": "5000+",
+      "rank": 8
+    },
+    {
       "name": "jazz - nuggets",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "luis lobo medina",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "barco pesquero",
-      "traffic": "100+",
       "rank": 10
     }
   ]
