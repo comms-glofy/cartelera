@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T12:30:19Z",
+  "updated": "2026-11-28T13:00:23Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "28 de noviembre",
-      "traffic": "200+",
+      "name": "amenaza",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "clima bahia blanca",
+      "name": "real betis - rayo vallecano",
       "traffic": "500+",
       "rank": 2
     },
     {
-      "name": "delantero",
-      "traffic": "100+",
+      "name": "jubilaciones docentes y por regimenes especiales - buenos aires",
+      "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "estancamiento económico",
-      "traffic": "100+",
+      "name": "horarios f1",
+      "traffic": "2000+",
       "rank": 4
     },
     {
-      "name": "mclaren",
+      "name": "28 de noviembre",
       "traffic": "200+",
       "rank": 5
     },
     {
-      "name": "pobreza",
-      "traffic": "100+",
+      "name": "clima bahia blanca",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "nicolás varrone",
+      "name": "delantero",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "bichos de campo",
-      "traffic": "100+",
+      "name": "estancamiento económico",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "la nación",
+      "name": "mclaren",
       "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "mario pergolini",
-      "traffic": "2000+",
+      "name": "pobreza",
+      "traffic": "200+",
       "rank": 10
     }
   ]
