@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T07:30:18Z",
+  "updated": "2026-11-28T08:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
@@ -14,43 +14,43 @@
       "rank": 2
     },
     {
-      "name": "lionel messi",
-      "traffic": "20000+",
+      "name": "es mi sueño",
+      "traffic": "2000+",
       "rank": 3
     },
     {
-      "name": "es mi sueño",
-      "traffic": "2000+",
+      "name": "lionel messi",
+      "traffic": "20000+",
       "rank": 4
-    },
-    {
-      "name": "luis ventura internado",
-      "traffic": "2000+",
-      "rank": 5
     },
     {
       "name": "jazz - nuggets",
       "traffic": "200+",
-      "rank": 6
+      "rank": 5
     },
     {
       "name": "luis lobo medina",
       "traffic": "2000+",
-      "rank": 7
+      "rank": 6
     },
     {
       "name": "barco pesquero",
       "traffic": "100+",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "dario lopilato",
       "traffic": "1000+",
-      "rank": 9
+      "rank": 8
     },
     {
       "name": "trail blazers - warriors",
       "traffic": "1000+",
+      "rank": 9
+    },
+    {
+      "name": "evelyn botto",
+      "traffic": "100+",
       "rank": 10
     }
   ]
