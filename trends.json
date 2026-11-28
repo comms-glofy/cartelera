@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-28T02:30:15Z",
+  "updated": "2026-11-28T03:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "trail blazers - warriors",
-      "traffic": "200+",
+      "name": "barco pesquero",
+      "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "evelyn botto",
-      "traffic": "100+",
+      "name": "trail blazers - warriors",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "spurs - lakers",
+      "name": "el litoral",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "catalina gorostidi",
-      "traffic": "200+",
+      "name": "evelyn botto",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "timberwolves - grizzlies",
-      "traffic": "200+",
+      "name": "spurs - lakers",
+      "traffic": "500+",
       "rank": 5
     },
     {
       "name": "lobo medina",
-      "traffic": "100+",
+      "traffic": "500+",
       "rank": 6
     },
     {
-      "name": "mansión",
+      "name": "catalina gorostidi",
       "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "bonelli",
-      "traffic": "100+",
+      "name": "timberwolves - grizzlies",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "millonarios - américa",
-      "traffic": "500+",
+      "name": "mansión",
+      "traffic": "200+",
       "rank": 9
     },
     {
-      "name": "pistons - bucks",
+      "name": "bonelli",
       "traffic": "100+",
       "rank": 10
     }
