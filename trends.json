@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T13:50:46Z",
+  "updated": "2026-11-28T14:00:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "elecciones españa",
-      "traffic": "100+",
+      "name": "quiniela hoy",
+      "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "emanuel moriatis",
+      "name": "elecciones españa",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "ryduan palermo",
+      "name": "emanuel moriatis",
       "traffic": "100+",
       "rank": 3
     },
     {
+      "name": "ryduan palermo",
+      "traffic": "100+",
+      "rank": 4
+    },
+    {
       "name": "al nassr",
       "traffic": "200+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "hollywood",
       "traffic": "100+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "roberto gómez bolaños",
       "traffic": "100+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "nations championship",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "real betis - rayo vallecano",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "jubilaciones docentes y por regimenes especiales - buenos aires",
       "traffic": "500+",
-      "rank": 9
-    },
-    {
-      "name": "horarios f1",
-      "traffic": "2000+",
       "rank": 10
     }
   ]
