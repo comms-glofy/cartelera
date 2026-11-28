@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T05:30:14Z",
+  "updated": "2026-11-28T06:00:22Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "es mi sueño",
-      "traffic": "2000+",
+      "name": "meteorología",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "jazz - nuggets",
-      "traffic": "200+",
+      "name": "es mi sueño",
+      "traffic": "2000+",
       "rank": 2
     },
     {
-      "name": "luis lobo medina",
+      "name": "luis ventura internado",
       "traffic": "2000+",
       "rank": 3
     },
     {
+      "name": "jazz - nuggets",
+      "traffic": "200+",
+      "rank": 4
+    },
+    {
+      "name": "luis lobo medina",
+      "traffic": "2000+",
+      "rank": 5
+    },
+    {
       "name": "barco pesquero",
       "traffic": "100+",
-      "rank": 4
+      "rank": 6
     },
     {
       "name": "dario lopilato",
       "traffic": "1000+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "trail blazers - warriors",
       "traffic": "1000+",
-      "rank": 6
-    },
-    {
-      "name": "el litoral",
-      "traffic": "500+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "evelyn botto",
       "traffic": "100+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "spurs - lakers",
       "traffic": "2000+",
-      "rank": 9
-    },
-    {
-      "name": "catalina gorostidi",
-      "traffic": "500+",
       "rank": 10
     }
   ]
