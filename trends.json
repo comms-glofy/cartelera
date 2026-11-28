@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T16:00:18Z",
+  "updated": "2026-11-28T16:30:13Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "clasificacion f1",
-      "traffic": "5000+",
+      "name": "entradas boca vs platense",
+      "traffic": "500+",
       "rank": 1
     },
     {
-      "name": "instituto vs river plate",
+      "name": "clima mendoza",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "brasil",
-      "traffic": "200+",
+      "name": "lisandro martínez",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "manchester united",
-      "traffic": "1000+",
+      "name": "u. católica - independiente del valle",
+      "traffic": "200+",
       "rank": 4
     },
     {
-      "name": "posiciones de betis contra rayo vallecano",
-      "traffic": "200+",
+      "name": "bodø/glimt - kfum oslo",
+      "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "bayern munich",
-      "traffic": "200+",
+      "name": "clasificacion f1",
+      "traffic": "20000+",
       "rank": 6
     },
     {
-      "name": "emiliano pinson",
+      "name": "instituto vs river plate",
       "traffic": "100+",
       "rank": 7
     },
     {
-      "name": "bayern",
-      "traffic": "500+",
+      "name": "brasil",
+      "traffic": "200+",
       "rank": 8
     },
     {
-      "name": "javier lozano",
-      "traffic": "10000+",
+      "name": "manchester united",
+      "traffic": "2000+",
       "rank": 9
     },
     {
-      "name": "posiciones de al-hazm contra al-nassr",
-      "traffic": "2000+",
+      "name": "posiciones de betis contra rayo vallecano",
+      "traffic": "500+",
       "rank": 10
     }
   ]
