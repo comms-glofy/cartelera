@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T00:00:19Z",
+  "updated": "2026-11-28T00:30:16Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "tristán suárez - gimnasia y tiro de salta",
-      "traffic": "500+",
+      "name": "columbus crew - inter miami",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "nueva york",
+      "name": "aire de santa fe",
       "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "knicks - heat",
+      "name": "b nacional",
       "traffic": "200+",
       "rank": 3
     },
     {
-      "name": "deportivo cali - bucaramanga",
-      "traffic": "200+",
+      "name": "racing - liverpool",
+      "traffic": "100+",
       "rank": 4
     },
     {
-      "name": "nicolás russo",
+      "name": "fluminense vs",
       "traffic": "100+",
       "rank": 5
     },
     {
-      "name": "patricia bullrich",
+      "name": "detención",
       "traffic": "100+",
       "rank": 6
     },
     {
-      "name": "deportivo morón - colón",
-      "traffic": "2000+",
+      "name": "luis ventura",
+      "traffic": "200+",
       "rank": 7
     },
     {
-      "name": "transporte público",
-      "traffic": "100+",
+      "name": "tristán suárez - gimnasia y tiro de salta",
+      "traffic": "2000+",
       "rank": 8
     },
     {
-      "name": "atlanta vs",
-      "traffic": "200+",
+      "name": "nueva york",
+      "traffic": "1000+",
       "rank": 9
     },
     {
-      "name": "emanuel emegha",
-      "traffic": "100+",
+      "name": "knicks - heat",
+      "traffic": "500+",
       "rank": 10
     }
   ]
