@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-28T01:30:15Z",
+  "updated": "2026-11-28T02:00:18Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "pistons - bucks",
+      "name": "bonelli",
       "traffic": "100+",
       "rank": 1
     },
     {
-      "name": "inter miami vs. columbus crew",
-      "traffic": "100+",
+      "name": "millonarios - américa",
+      "traffic": "200+",
       "rank": 2
     },
     {
-      "name": "bloqueo naval",
-      "traffic": "1000+",
+      "name": "pistons - bucks",
+      "traffic": "100+",
       "rank": 3
     },
     {
-      "name": "velez vs independiente",
+      "name": "inter miami vs. columbus crew",
       "traffic": "100+",
       "rank": 4
     },
     {
+      "name": "velez vs independiente",
+      "traffic": "100+",
+      "rank": 5
+    },
+    {
+      "name": "bloqueo naval",
+      "traffic": "1000+",
+      "rank": 6
+    },
+    {
       "name": "celtics - hawks",
       "traffic": "200+",
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "apple tv",
       "traffic": "200+",
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "aguinaldo jubilados diciembre 2026",
       "traffic": "100+",
-      "rank": 7
-    },
-    {
-      "name": "torneo de reserva",
-      "traffic": "100+",
-      "rank": 8
-    },
-    {
-      "name": "selección de fútbol sub-17 de argentina",
-      "traffic": "100+",
       "rank": 9
     },
     {
-      "name": "pacers - 76ers",
+      "name": "torneo de reserva",
       "traffic": "200+",
       "rank": 10
     }
