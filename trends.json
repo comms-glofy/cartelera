@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T08:00:18Z",
+  "updated": "2026-11-28T08:30:17Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "bronson reed que le pasó",
+      "name": "f1 colapinto",
       "traffic": "200+",
       "rank": 1
     },
     {
-      "name": "meteorología",
+      "name": "bronson reed que le pasó",
       "traffic": "200+",
       "rank": 2
     },
     {
+      "name": "meteorología",
+      "traffic": "500+",
+      "rank": 3
+    },
+    {
       "name": "es mi sueño",
       "traffic": "2000+",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "lionel messi",
       "traffic": "20000+",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "jazz - nuggets",
       "traffic": "200+",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "luis lobo medina",
       "traffic": "2000+",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "barco pesquero",
       "traffic": "100+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "dario lopilato",
       "traffic": "1000+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "trail blazers - warriors",
       "traffic": "1000+",
-      "rank": 9
-    },
-    {
-      "name": "evelyn botto",
-      "traffic": "100+",
       "rank": 10
     }
   ]
