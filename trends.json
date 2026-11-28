@@ -1,56 +1,56 @@
 {
-  "updated": "2026-11-28T03:00:18Z",
+  "updated": "2026-11-28T03:30:14Z",
   "source": "Google Trends Argentina",
   "geo": "AR",
   "trends": [
     {
-      "name": "barco pesquero",
-      "traffic": "100+",
+      "name": "es mi sueño",
+      "traffic": "1000+",
       "rank": 1
     },
     {
-      "name": "trail blazers - warriors",
-      "traffic": "200+",
+      "name": "jazz - nuggets",
+      "traffic": "100+",
       "rank": 2
     },
     {
-      "name": "el litoral",
-      "traffic": "200+",
+      "name": "barco pesquero",
+      "traffic": "100+",
       "rank": 3
+    },
+    {
+      "name": "trail blazers - warriors",
+      "traffic": "500+",
+      "rank": 4
     },
     {
       "name": "evelyn botto",
       "traffic": "100+",
-      "rank": 4
-    },
-    {
-      "name": "spurs - lakers",
-      "traffic": "500+",
       "rank": 5
     },
     {
-      "name": "lobo medina",
-      "traffic": "500+",
+      "name": "spurs - lakers",
+      "traffic": "1000+",
       "rank": 6
+    },
+    {
+      "name": "lobo medina",
+      "traffic": "1000+",
+      "rank": 7
     },
     {
       "name": "catalina gorostidi",
       "traffic": "200+",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "timberwolves - grizzlies",
       "traffic": "200+",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "mansión",
       "traffic": "200+",
-      "rank": 9
-    },
-    {
-      "name": "bonelli",
-      "traffic": "100+",
       "rank": 10
     }
   ]
